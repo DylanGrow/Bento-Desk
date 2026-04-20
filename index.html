@@ -47,5 +47,17 @@
             <p>Loading IT news...</p>
         </div>
     </div>
+    <script>
+    fetch('data.json')
+        .then(res => res.json())
+        .then(data => {
+            document.getElementById('latest-news').innerHTML = '<h2>The Wire (Latest)</h2>' + 
+                data.wire.map(item => `<p><a href="${item.link}" target="_blank" style="color: #66b3ff; text-decoration: none;">▶ ${item.title}</a></p>`).join('');
+
+            document.getElementById('tech-news').innerHTML = '<h2>The Stack</h2>' + 
+                data.stack.map(item => `<p><a href="${item.link}" target="_blank" style="color: #66b3ff; text-decoration: none;">▶ ${item.title}</a></p>`).join('');
+        })
+        .catch(err => console.log('Waiting for first GitHub Action run...'));
+</script>
 </body>
 </html>
