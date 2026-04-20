@@ -3,88 +3,125 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bento Desk</title>
+    <title>Bento Desk | News & Utility</title>
     <style>
+        :root {
+            --bg: #0f0f0f;
+            --card: #1a1a1a;
+            --accent: #3b82f6;
+            --text: #e5e7eb;
+        }
         body {
-            background-color: #121212;
-            color: #e0e0e0;
-            font-family: system-ui, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             margin: 0;
             padding: 2rem;
+            display: flex;
+            justify-content: center;
         }
         .bento-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 1.5rem;
-            max-width: 1200px;
-            margin: auto;
+            grid-template-columns: repeat(4, 1fr);
+            grid-auto-rows: minmax(180px, auto);
+            gap: 1.2rem;
+            max-width: 1100px;
+            width: 100%;
         }
         .bento-box {
-            background: #1e1e1e;
-            border-radius: 16px;
+            background: var(--card);
+            border: 1px solid #2a2a2a;
+            border-radius: 24px;
             padding: 1.5rem;
-            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            overflow: hidden;
         }
         .bento-box:hover {
-            transform: scale(1.02);
-            box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+            transform: scale(1.03);
+            border-color: var(--accent);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
         }
-        .hero { grid-column: 1 / -1; min-height: 200px; }
+        /* Layout logic */
+        .hero { grid-column: span 3; grid-row: span 2; }
+        .side { grid-column: span 1; }
+        .wide { grid-column: span 2; }
+        
+        h2 { margin-top: 0; font-size: 1.2rem; color: var(--accent); text-transform: uppercase; letter-spacing: 1px; }
+        a { color: #fff; text-decoration: none; display: block; margin-bottom: 8px; font-size: 0.95rem; }
+        a:hover { text-decoration: underline; }
+        .temp { font-size: 2.5rem; font-weight: bold; margin: 0; }
+        .city { color: #888; margin-bottom: 1rem; }
+        .bio-img { width: 50px; height: 50px; border-radius: 50%; background: #333; margin-bottom: 10px; }
     </style>
 </head>
 <body>
+
     <div class="bento-grid">
         <div class="bento-box hero" id="latest-news">
-            <h2>The Wire (Latest)</h2>
-            <p>Loading automation...</p>
+            <h2>The Wire</h2>
+            <div id="wire-content">Loading headlines...</div>
         </div>
-<div class="bento-box" id="quick-tools">
-    <h2>Quick Tools</h2>
-    <div id="weather-display">Locating...</div>
-    <hr style="border: 0; border-top: 1px solid #333; margin: 10px 0;">
-    <p>Search | Dictionary | Stocks</p>
-</div>
+
+        <div class="bento-box side">
+            <h2>Local</h2>
+            <div id="weather-display">
+                <p class="temp">--°</p>
+                <p class="city">Detecting...</p>
+            </div>
         </div>
-        <div class="bento-box" id="tech-news">
+
+        <div class="bento-box side">
+            <div class="bio-img"></div>
+            <h2>Author</h2>
+            <p style="font-size: 0.85rem; line-height: 1.4;">IT Specialist & Network Tech. Building tools for a faster web.</p>
+        </div>
+
+        <div class="bento-box wide" id="tech-news">
             <h2>The Stack</h2>
-            <p>Loading IT news...</p>
+            <div id="stack-content">Loading tech updates...</div>
+        </div>
+
+        <div class="bento-box wide">
+            <h2>Refdesk Utility</h2>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+                <a href="https://www.merriam-webster.com/" target="_blank">📖 Dictionary</a>
+                <a href="https://www.wikipedia.org/" target="_blank">🌐 Wikipedia</a>
+                <a href="https://news.google.com/" target="_blank">📰 News Archive</a>
+                <a href="https://github.com/trending" target="_blank">💻 Trending</a>
+            </div>
         </div>
     </div>
+
     <script>
-    fetch('data.json')
-        .then(res => res.json())
-        .then(data => {
-            document.getElementById('latest-news').innerHTML = '<h2>The Wire (Latest)</h2>' + 
-                data.wire.map(item => `<p><a href="${item.link}" target="_blank" style="color: #66b3ff; text-decoration: none;">▶ ${item.title}</a></p>`).join('');
+        // Fetch News from your data.json
+        async function loadNews() {
+            try {
+                const res = await fetch('data.json');
+                const data = await res.json();
+                
+                document.getElementById('wire-content').innerHTML = data.wire.map(item => 
+                    `<a href="${item.link}" target="_blank">▶ ${item.title}</a>`).join('');
+                
+                document.getElementById('stack-content').innerHTML = data.stack.map(item => 
+                    `<a href="${item.link}" target="_blank">▶ ${item.title}</a>`).join('');
+            } catch (e) { console.log("Waiting for data.json..."); }
+        }
 
-            document.getElementById('tech-news').innerHTML = '<h2>The Stack</h2>' + 
-                data.stack.map(item => `<p><a href="${item.link}" target="_blank" style="color: #66b3ff; text-decoration: none;">▶ ${item.title}</a></p>`).join('');
-        })
-        .catch(err => console.log('Waiting for first GitHub Action run...'));
+        // Get Weather based on IP
         async function getWeather() {
-    try {
-        // Step 1: Get location via IP (ISP estimate)
-        const geoRes = await fetch('https://ipapi.co/json/');
-        const geoData = await geoRes.json();
-        const { city, latitude, longitude } = geoData;
+            try {
+                const geo = await fetch('https://ipapi.co/json/').then(r => r.json());
+                const weather = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${geo.latitude}&longitude=${geo.longitude}&current_weather=true&temperature_unit=fahrenheit`).then(r => r.json());
+                
+                document.getElementById('weather-display').innerHTML = `
+                    <p class="temp">${Math.round(weather.current_weather.temperature)}°F</p>
+                    <p class="city">${geo.city}, ${geo.region_code}</p>
+                `;
+            } catch (e) { document.getElementById('weather-display').innerText = "Weather offline"; }
+        }
 
-        // Step 2: Get weather via Open-Meteo (No key required)
-        const weatherRes = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${latitude}&longitude=${longitude}&current_weather=true&temperature_unit=fahrenheit`);
-        const weatherData = await weatherRes.json();
-        const temp = Math.round(weatherData.current_weather.temperature);
-
-        // Step 3: Inject into Bento box
-        document.getElementById('weather-display').innerHTML = `
-            <div style="font-size: 1.5rem; font-weight: bold;">${temp}°F</div>
-            <div style="color: #aaa;">${city}</div>
-        `;
-    } catch (err) {
-        document.getElementById('weather-display').innerText = "Weather unavailable";
-    }
-}
-
-// Call it on load
-getWeather();
-</script>
+        loadNews();
+        getWeather();
+    </script>
 </body>
 </html>
