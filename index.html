@@ -3,16 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bento Desk | 3-Axis Sports Command</title>
+    <title>Bento Desk | Weather & Sports Command</title>
     <style>
-        :root { --bg: #0b0b0b; --card: #161616; --accent: #3b82f6; --text: #e5e7eb; --warning: #d97706; }
+        :root { --bg: #0b0b0b; --card: #161616; --accent: #3b82f6; --text: #e5e7eb; --weather-alt: #0ea5e9; }
         
         body { 
             background-color: var(--bg); 
             color: var(--text); 
             font-family: 'Segoe UI', sans-serif; 
             margin: 0; 
-            padding: 60px 2rem 60px 60px; /* Space for Top, Bottom, and Left tickers */
+            padding: 60px 2rem 60px 60px; 
             display: flex; 
             justify-content: center; 
         }
@@ -20,20 +20,17 @@
         /* --- TICKER SYSTEM --- */
         .ticker-wrap { position: fixed; background: #000; overflow: hidden; z-index: 1000; display: flex; align-items: center; border: 1px solid #333; }
         
-        /* Top (NFL) & Bottom (NBA) */
         .horizontal { width: 100%; height: 35px; left: 0; }
         .top { top: 0; border-bottom: 2px solid #013369; } /* NFL Blue */
         .bottom { bottom: 0; border-top: 2px solid #ed174c; } /* NBA Red */
 
-        /* Left (MLB) - Vertical Rotation */
         .left-ticker { 
             top: 0; left: 0; width: 40px; height: 100%; 
             border-right: 2px solid #002d72; /* MLB Blue */
         }
         
-        .ticker { display: inline-block; white-space: nowrap; animation: ticker-move 60s linear infinite; }
+        .ticker { display: inline-block; white-space: nowrap; animation: ticker-move 70s linear infinite; }
         
-        /* Vertical Ticker Logic */
         .vertical-text {
             transform: rotate(-90deg);
             transform-origin: left top;
@@ -42,7 +39,7 @@
             left: 5px;
             display: flex;
             white-space: nowrap;
-            animation: vertical-move 60s linear infinite;
+            animation: vertical-move 70s linear infinite;
         }
 
         .ticker a, .vertical-text a { 
@@ -57,26 +54,31 @@
         .bento-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem; max-width: 1400px; width: 100%; }
         .bento-box { background: var(--card); border: 1px solid #222; border-radius: 12px; padding: 1.2rem; overflow-y: auto; max-height: 500px; }
         
-        .anchor-box { grid-column: span 1; border: 2px solid var(--warning); background: rgba(217, 119, 6, 0.1); }
+        /* Weather Anchor Box */
+        .weather-box { grid-column: span 1; border: 2px solid var(--weather-alt); background: rgba(14, 165, 233, 0.1); text-align: center; }
+        .temp { font-size: 3.5rem; font-weight: 900; margin: 10px 0 0 0; color: var(--weather-alt); }
+        .city { font-size: 1.1rem; font-weight: bold; margin-bottom: 5px; }
+        .isp { font-size: 0.7rem; color: #666; text-transform: uppercase; }
+
         .hero { grid-column: span 3; grid-row: span 2; }
         h2 { margin: 0 0 1rem 0; font-size: 0.75rem; color: var(--accent); text-transform: uppercase; letter-spacing: 2px; }
         a { color: #eee; text-decoration: none; display: block; margin-bottom: 8px; font-size: 0.9rem; }
+        a:hover { color: var(--accent); }
     </style>
 </head>
 <body>
 
-    <div class="ticker-wrap horizontal top">
-        <div id="nfl-ticker" class="ticker"></div>
-    </div>
-
-    <div class="ticker-wrap left-ticker">
-        <div id="mlb-ticker" class="vertical-text"></div>
-    </div>
+    <div class="ticker-wrap horizontal top"><div id="nfl-ticker" class="ticker"></div></div>
+    <div class="ticker-wrap left-ticker"><div id="mlb-ticker" class="vertical-text"></div></div>
 
     <div class="bento-grid">
-        <div class="bento-box anchor-box">
-            <h2>⚠️ SOURCE NOTICE</h2>
-            <a href="https://libguides.lbl.gov/evaluating-resources" target="_blank" style="background:var(--warning); color:#000; padding:10px; font-weight:800; text-align:center;">BERKELEY GUIDE</a>
+        <div class="bento-box weather-box">
+            <h2>Current Conditions</h2>
+            <div id="weather-display">
+                <p class="temp">--°</p>
+                <p class="city">Detecting...</p>
+                <p class="isp">Checking ISP...</p>
+            </div>
         </div>
 
         <div class="bento-box hero">
@@ -90,9 +92,7 @@
         </div>
     </div>
 
-    <div class="ticker-wrap horizontal bottom">
-        <div id="nba-ticker" class="ticker"></div>
-    </div>
+    <div class="ticker-wrap horizontal bottom"><div id="nba-ticker" class="ticker"></div></div>
 
     <script>
         async function loadData() {
@@ -102,16 +102,29 @@
             const fmt = (item) => `<a href="${item.link}" target="_blank">▶ ${item.title}</a>`;
             const tick = (league, item) => `<a href="${item.link}" target="_blank">[${league}] ${item.title} • </a>`;
 
-            // Populate Content Boxes
             document.getElementById('wire-content').innerHTML = data.world.map(fmt).join('');
             document.getElementById('infoweek-content').innerHTML = data.infoweek.map(fmt).join('');
             
-            // Populate Axis Tickers
             document.getElementById('nfl-ticker').innerHTML = (data.nfl.map(i => tick('NFL', i)).join('')).repeat(4);
             document.getElementById('nba-ticker').innerHTML = (data.nba.map(i => tick('NBA', i)).join('')).repeat(4);
             document.getElementById('mlb-ticker').innerHTML = (data.mlb.map(i => tick('MLB', i)).join('')).repeat(4);
         }
+
+        async function getWeather() {
+            try {
+                const geo = await fetch('https://ipapi.co/json/').then(r => r.json());
+                const weather = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${geo.latitude}&longitude=${geo.longitude}&current_weather=true&temperature_unit=fahrenheit`).then(r => r.json());
+                
+                document.getElementById('weather-display').innerHTML = `
+                    <p class="temp">${Math.round(weather.current_weather.temperature)}°F</p>
+                    <p class="city">${geo.city}, ${geo.region_code}</p>
+                    <p class="isp">Network: ${geo.org}</p>
+                `;
+            } catch (e) { document.getElementById('weather-display').innerText = "Offline"; }
+        }
+
         loadData();
+        getWeather();
     </script>
 </body>
 </html>
