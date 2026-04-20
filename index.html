@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bento Desk</title>
+    <style>
+        body {
+            background-color: #121212;
+            color: #e0e0e0;
+            font-family: system-ui, sans-serif;
+            margin: 0;
+            padding: 2rem;
+        }
+        .bento-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+            max-width: 1200px;
+            margin: auto;
+        }
+        .bento-box {
+            background: #1e1e1e;
+            border-radius: 16px;
+            padding: 1.5rem;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+        .bento-box:hover {
+            transform: scale(1.02);
+            box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+        }
+        .hero { grid-column: 1 / -1; min-height: 200px; }
+    </style>
+</head>
+<body>
+    <div class="bento-grid">
+        <div class="bento-box hero" id="latest-news">
+            <h2>The Wire (Latest)</h2>
+            <p>Loading automation...</p>
+        </div>
+        <div class="bento-box" id="quick-tools">
+            <h2>Quick Tools</h2>
+            <p>Search | Weather | Stock</p>
+        </div>
+        <div class="bento-box" id="tech-news">
+            <h2>The Stack</h2>
+            <p>Loading IT news...</p>
+        </div>
+    </div>
+</body>
+</html>
