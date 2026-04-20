@@ -38,9 +38,12 @@
             <h2>The Wire (Latest)</h2>
             <p>Loading automation...</p>
         </div>
-        <div class="bento-box" id="quick-tools">
-            <h2>Quick Tools</h2>
-            <p>Search | Weather | Stock</p>
+<div class="bento-box" id="quick-tools">
+    <h2>Quick Tools</h2>
+    <div id="weather-display">Locating...</div>
+    <hr style="border: 0; border-top: 1px solid #333; margin: 10px 0;">
+    <p>Search | Dictionary | Stocks</p>
+</div>
         </div>
         <div class="bento-box" id="tech-news">
             <h2>The Stack</h2>
@@ -58,6 +61,30 @@
                 data.stack.map(item => `<p><a href="${item.link}" target="_blank" style="color: #66b3ff; text-decoration: none;">▶ ${item.title}</a></p>`).join('');
         })
         .catch(err => console.log('Waiting for first GitHub Action run...'));
+        async function getWeather() {
+    try {
+        // Step 1: Get location via IP (ISP estimate)
+        const geoRes = await fetch('https://ipapi.co/json/');
+        const geoData = await geoRes.json();
+        const { city, latitude, longitude } = geoData;
+
+        // Step 2: Get weather via Open-Meteo (No key required)
+        const weatherRes = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${latitude}&longitude=${longitude}&current_weather=true&temperature_unit=fahrenheit`);
+        const weatherData = await weatherRes.json();
+        const temp = Math.round(weatherData.current_weather.temperature);
+
+        // Step 3: Inject into Bento box
+        document.getElementById('weather-display').innerHTML = `
+            <div style="font-size: 1.5rem; font-weight: bold;">${temp}°F</div>
+            <div style="color: #aaa;">${city}</div>
+        `;
+    } catch (err) {
+        document.getElementById('weather-display').innerText = "Weather unavailable";
+    }
+}
+
+// Call it on load
+getWeather();
 </script>
 </body>
 </html>
