@@ -3,82 +3,96 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bento Desk | Command Center</title>
+    <title>Bento Desk | 3-Axis Sports Command</title>
     <style>
         :root { --bg: #0b0b0b; --card: #161616; --accent: #3b82f6; --text: #e5e7eb; --warning: #d97706; }
-        body { background-color: var(--bg); color: var(--text); font-family: 'Segoe UI', system-ui, sans-serif; margin: 0; padding: 110px 2rem; display: flex; justify-content: center; }
         
-        /* Tickers - Slowed down with League Tags */
-        .ticker-wrap { position: fixed; width: 100%; overflow: hidden; height: 35px; background: #000; border-bottom: 1px solid #333; z-index: 1000; display: flex; align-items: center; }
-        .top { top: 0; border-bottom: 1px solid var(--accent); }
-        .sports-ticker { bottom: 35px; border-top: 1px solid var(--warning); color: #fff; }
-        .bottom { bottom: 0; border-top: 1px solid var(--accent); }
-        .ticker { display: inline-block; white-space: nowrap; animation: ticker-move 90s linear infinite; }
-        .ticker span, .ticker a { display: inline-block; padding: 0 2rem; color: #fff; font-size: 0.85rem; font-weight: bold; text-decoration: none; text-transform: uppercase; }
-        @keyframes ticker-move { 0% { transform: translate3d(0, 0, 0); } 100% { transform: translate3d(-100%, 0, 0); } }
+        body { 
+            background-color: var(--bg); 
+            color: var(--text); 
+            font-family: 'Segoe UI', sans-serif; 
+            margin: 0; 
+            padding: 60px 2rem 60px 60px; /* Space for Top, Bottom, and Left tickers */
+            display: flex; 
+            justify-content: center; 
+        }
 
-        /* Grid & Boxes */
-        .bento-grid { display: grid; grid-template-columns: repeat(4, 1fr); grid-auto-rows: minmax(160px, auto); gap: 1rem; max-width: 1400px; width: 100%; }
-        .bento-box { background: var(--card); border: 1px solid #222; border-radius: 12px; padding: 1.2rem; overflow-y: auto; max-height: 400px; }
+        /* --- TICKER SYSTEM --- */
+        .ticker-wrap { position: fixed; background: #000; overflow: hidden; z-index: 1000; display: flex; align-items: center; border: 1px solid #333; }
         
-        /* Warning Anchor Box */
+        /* Top (NFL) & Bottom (NBA) */
+        .horizontal { width: 100%; height: 35px; left: 0; }
+        .top { top: 0; border-bottom: 2px solid #013369; } /* NFL Blue */
+        .bottom { bottom: 0; border-top: 2px solid #ed174c; } /* NBA Red */
+
+        /* Left (MLB) - Vertical Rotation */
+        .left-ticker { 
+            top: 0; left: 0; width: 40px; height: 100%; 
+            border-right: 2px solid #002d72; /* MLB Blue */
+        }
+        
+        .ticker { display: inline-block; white-space: nowrap; animation: ticker-move 60s linear infinite; }
+        
+        /* Vertical Ticker Logic */
+        .vertical-text {
+            transform: rotate(-90deg);
+            transform-origin: left top;
+            position: absolute;
+            top: 100%;
+            left: 5px;
+            display: flex;
+            white-space: nowrap;
+            animation: vertical-move 60s linear infinite;
+        }
+
+        .ticker a, .vertical-text a { 
+            padding: 0 2rem; color: #fff; font-size: 0.85rem; 
+            font-weight: bold; text-decoration: none; text-transform: uppercase; 
+        }
+
+        @keyframes ticker-move { 0% { transform: translateX(0); } 100% { transform: translateX(-100%); } }
+        @keyframes vertical-move { 0% { transform: translateY(0) rotate(-90deg); } 100% { transform: translateY(-100%) rotate(-90deg); } }
+
+        /* --- BENTO GRID --- */
+        .bento-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem; max-width: 1400px; width: 100%; }
+        .bento-box { background: var(--card); border: 1px solid #222; border-radius: 12px; padding: 1.2rem; overflow-y: auto; max-height: 500px; }
+        
         .anchor-box { grid-column: span 1; border: 2px solid var(--warning); background: rgba(217, 119, 6, 0.1); }
-        .anchor-box h2 { color: var(--warning) !important; }
-        .anchor-btn { display: block; background: var(--warning); color: #000; text-align: center; padding: 10px; border-radius: 4px; font-weight: 800; text-decoration: none; margin-top: 10px; }
-
         .hero { grid-column: span 3; grid-row: span 2; }
-        .wide { grid-column: span 2; }
-        
         h2 { margin: 0 0 1rem 0; font-size: 0.75rem; color: var(--accent); text-transform: uppercase; letter-spacing: 2px; }
         a { color: #eee; text-decoration: none; display: block; margin-bottom: 8px; font-size: 0.9rem; }
-        a:hover { text-decoration: underline; color: var(--accent); }
-        
-        .utility-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 5px; font-size: 0.75rem; }
     </style>
 </head>
 <body>
-    <div class="ticker-wrap top"><div id="ticker-top" class="ticker"></div></div>
-    
+
+    <div class="ticker-wrap horizontal top">
+        <div id="nfl-ticker" class="ticker"></div>
+    </div>
+
+    <div class="ticker-wrap left-ticker">
+        <div id="mlb-ticker" class="vertical-text"></div>
+    </div>
+
     <div class="bento-grid">
         <div class="bento-box anchor-box">
-            <h2>⚠️ NOTICE: VERIFY SOURCE</h2>
-            <p style="font-size: 0.8rem; line-height: 1.4;">Critical thinking is the first line of defense. Use the Berkeley guide to evaluate all "spam" below.</p>
-            <a href="https://libguides.lbl.gov/evaluating-resources" target="_blank" class="anchor-btn">OPEN LIBRARY GUIDE</a>
+            <h2>⚠️ SOURCE NOTICE</h2>
+            <a href="https://libguides.lbl.gov/evaluating-resources" target="_blank" style="background:var(--warning); color:#000; padding:10px; font-weight:800; text-align:center;">BERKELEY GUIDE</a>
         </div>
 
         <div class="bento-box hero">
-            <h2>The Wire (Global Feed)</h2>
+            <h2>The Wire</h2>
             <div id="wire-content"></div>
         </div>
 
         <div class="bento-box">
-            <h2>InformationWeek Analysis</h2>
+            <h2>InformationWeek</h2>
             <div id="infoweek-content"></div>
-        </div>
-
-        <div class="bento-box wide">
-            <h2>Refdesk & Regional Directory</h2>
-            <div class="utility-grid">
-                <a href="https://www.refdesk.com">📚 Refdesk</a>
-                <a href="https://www.seattletimes.com">🌲 Seattle</a>
-                <a href="https://www.charlotteobserver.com">👑 Charlotte</a>
-                <a href="https://www.miamiherald.com">🌴 Miami</a>
-                <a href="https://www.orlandosentinel.com">🍊 Orlando</a>
-                <a href="https://www.post-gazette.com">🏗️ Pitt</a>
-                <a href="https://www.pilotonline.com">🌊 Pilot</a>
-                <a href="https://www.nytimes.com/learning/">🍎 NYT Learn</a>
-                <a href="https://www.newsmax.com">📺 Newsmax</a>
-            </div>
-        </div>
-
-        <div class="bento-box side">
-            <h2>Scores</h2>
-            <div id="scores-content"></div>
         </div>
     </div>
 
-    <div class="ticker-wrap sports-ticker"><div id="ticker-sports" class="ticker"></div></div>
-    <div class="ticker-wrap bottom"><div id="ticker-bottom" class="ticker"></div></div>
+    <div class="ticker-wrap horizontal bottom">
+        <div id="nba-ticker" class="ticker"></div>
+    </div>
 
     <script>
         async function loadData() {
@@ -86,30 +100,18 @@
             const data = await res.json();
             
             const fmt = (item) => `<a href="${item.link}" target="_blank">▶ ${item.title}</a>`;
-            const tick = (item) => `<a href="${item.link}" target="_blank">${item.title} • </a>`;
+            const tick = (league, item) => `<a href="${item.link}" target="_blank">[${league}] ${item.title} • </a>`;
 
+            // Populate Content Boxes
             document.getElementById('wire-content').innerHTML = data.world.map(fmt).join('');
             document.getElementById('infoweek-content').innerHTML = data.infoweek.map(fmt).join('');
             
-            document.getElementById('ticker-top').innerHTML = data.world.map(tick).join('').repeat(3);
-            document.getElementById('ticker-bottom').innerHTML = data.infoweek.map(tick).join('').repeat(3);
+            // Populate Axis Tickers
+            document.getElementById('nfl-ticker').innerHTML = (data.nfl.map(i => tick('NFL', i)).join('')).repeat(4);
+            document.getElementById('nba-ticker').innerHTML = (data.nba.map(i => tick('NBA', i)).join('')).repeat(4);
+            document.getElementById('mlb-ticker').innerHTML = (data.mlb.map(i => tick('MLB', i)).join('')).repeat(4);
         }
-
-        async function getSports() {
-            const res = await fetch('https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard');
-            const data = await res.json();
-            let box = '', tick = '';
-            data.events.forEach(e => {
-                const teams = e.competitions[0].competitors;
-                const score = `[NBA] ${teams[1].team.abbreviation} ${teams[1].score} @ ${teams[0].team.abbreviation} ${teams[0].score}`;
-                box += `<div style="font-size:0.8rem; margin-bottom:8px;">${score}</div>`;
-                tick += `<span>${score} • </span>`;
-            });
-            document.getElementById('scores-content').innerHTML = box;
-            document.getElementById('ticker-sports').innerHTML = tick.repeat(10);
-        }
-
-        loadData(); getSports();
+        loadData();
     </script>
 </body>
 </html>
