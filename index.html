@@ -2,129 +2,102 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bento Desk | Weather & Sports Command</title>
+    <title>Command Center v3.1</title>
     <style>
-        :root { --bg: #0b0b0b; --card: #161616; --accent: #3b82f6; --text: #e5e7eb; --weather-alt: #0ea5e9; }
+        :root { --bg: #050505; --card: #111; --accent: #3b82f6; --text: #eee; --ddg: #de5833; }
+        body { background: var(--bg); color: var(--text); font-family: sans-serif; margin: 0; padding: 60px 20px 60px 70px; display: flex; justify-content: center; }
+
+        /* Ticker System */
+        .t-wrap { position: fixed; background: #000; overflow: hidden; z-index: 1000; display: flex; align-items: center; border: 1px solid #222; }
+        .h-tick { width: 100%; height: 35px; left: 0; }
+        .top { top: 0; border-bottom: 2px solid #013369; } /* NFL */
+        .bottom { bottom: 0; border-top: 2px solid #ed174c; } /* NBA */
+        .left-tick { top: 0; left: 0; width: 50px; height: 100%; border-right: 2px solid #002d72; } /* MLB */
         
-        body { 
-            background-color: var(--bg); 
-            color: var(--text); 
-            font-family: 'Segoe UI', sans-serif; 
-            margin: 0; 
-            padding: 60px 2rem 60px 60px; 
-            display: flex; 
-            justify-content: center; 
-        }
+        .move { display: inline-block; white-space: nowrap; animation: linear infinite; }
+        .h-move { animation-name: h-anim; animation-duration: 90s; }
+        .v-move { transform: rotate(-90deg); transform-origin: left top; position: absolute; top: 100%; left: 10px; animation-name: v-anim; animation-duration: 90s; }
 
-        /* --- TICKER SYSTEM --- */
-        .ticker-wrap { position: fixed; background: #000; overflow: hidden; z-index: 1000; display: flex; align-items: center; border: 1px solid #333; }
+        @keyframes h-anim { 0% { transform: translateX(0); } 100% { transform: translateX(-100%); } }
+        @keyframes v-anim { 0% { transform: translateY(0) rotate(-90deg); } 100% { transform: translateY(-100%) rotate(-90deg); } }
+
+        .move a { padding: 0 30px; color: #fff; font-size: 0.8rem; font-weight: bold; text-decoration: none; text-transform: uppercase; }
+
+        /* Dashboard Grid */
+        .grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; max-width: 1500px; width: 100%; }
+        .box { background: var(--card); border: 1px solid #222; border-radius: 8px; padding: 15px; overflow-y: auto; max-height: 550px; }
         
-        .horizontal { width: 100%; height: 35px; left: 0; }
-        .top { top: 0; border-bottom: 2px solid #013369; } /* NFL Blue */
-        .bottom { bottom: 0; border-top: 2px solid #ed174c; } /* NBA Red */
-
-        .left-ticker { 
-            top: 0; left: 0; width: 40px; height: 100%; 
-            border-right: 2px solid #002d72; /* MLB Blue */
-        }
-        
-        .ticker { display: inline-block; white-space: nowrap; animation: ticker-move 70s linear infinite; }
-        
-        .vertical-text {
-            transform: rotate(-90deg);
-            transform-origin: left top;
-            position: absolute;
-            top: 100%;
-            left: 5px;
-            display: flex;
-            white-space: nowrap;
-            animation: vertical-move 70s linear infinite;
-        }
-
-        .ticker a, .vertical-text a { 
-            padding: 0 2rem; color: #fff; font-size: 0.85rem; 
-            font-weight: bold; text-decoration: none; text-transform: uppercase; 
-        }
-
-        @keyframes ticker-move { 0% { transform: translateX(0); } 100% { transform: translateX(-100%); } }
-        @keyframes vertical-move { 0% { transform: translateY(0) rotate(-90deg); } 100% { transform: translateY(-100%) rotate(-90deg); } }
-
-        /* --- BENTO GRID --- */
-        .bento-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem; max-width: 1400px; width: 100%; }
-        .bento-box { background: var(--card); border: 1px solid #222; border-radius: 12px; padding: 1.2rem; overflow-y: auto; max-height: 500px; }
-        
-        /* Weather Anchor Box */
-        .weather-box { grid-column: span 1; border: 2px solid var(--weather-alt); background: rgba(14, 165, 233, 0.1); text-align: center; }
-        .temp { font-size: 3.5rem; font-weight: 900; margin: 10px 0 0 0; color: var(--weather-alt); }
-        .city { font-size: 1.1rem; font-weight: bold; margin-bottom: 5px; }
-        .isp { font-size: 0.7rem; color: #666; text-transform: uppercase; }
-
+        .weather { grid-column: span 1; border: 2px solid var(--accent); text-align: center; }
+        .search { grid-column: span 1; border: 2px solid var(--ddg); }
         .hero { grid-column: span 3; grid-row: span 2; }
-        h2 { margin: 0 0 1rem 0; font-size: 0.75rem; color: var(--accent); text-transform: uppercase; letter-spacing: 2px; }
-        a { color: #eee; text-decoration: none; display: block; margin-bottom: 8px; font-size: 0.9rem; }
-        a:hover { color: var(--accent); }
+        
+        input { width: 70%; background: #222; border: 1px solid #444; color: #fff; padding: 10px; border-radius: 4px; outline: none; }
+        button { background: var(--ddg); border: none; padding: 10px; border-radius: 4px; cursor: pointer; font-size: 1.2rem; }
+        
+        h2 { font-size: 0.7rem; color: var(--accent); text-transform: uppercase; letter-spacing: 2px; }
+        .news-link { color: #ccc; text-decoration: none; display: block; margin-bottom: 10px; font-size: 0.9rem; border-bottom: 1px solid #222; padding-bottom: 5px; }
+        .news-link:hover { color: var(--accent); }
     </style>
 </head>
 <body>
 
-    <div class="ticker-wrap horizontal top"><div id="nfl-ticker" class="ticker"></div></div>
-    <div class="ticker-wrap left-ticker"><div id="mlb-ticker" class="vertical-text"></div></div>
+    <div class="t-wrap h-tick top"><div id="nfl-t" class="move h-move"></div></div>
+    <div class="t-wrap left-tick"><div id="mlb-t" class="move v-move"></div></div>
 
-    <div class="bento-grid">
-        <div class="bento-box weather-box">
-            <h2>Current Conditions</h2>
-            <div id="weather-display">
-                <p class="temp">--°</p>
-                <p class="city">Detecting...</p>
-                <p class="isp">Checking ISP...</p>
-            </div>
+    <div class="grid">
+        <div class="box weather">
+            <h2>System Status</h2>
+            <div id="w-out"><p style="font-size: 3rem; margin: 0;">--°</p><p>Detecting...</p></div>
         </div>
 
-        <div class="bento-box hero">
-            <h2>The Wire</h2>
-            <div id="wire-content"></div>
+        <div class="box search">
+            <h2>Secure Search</h2>
+            <form action="https://duckduckgo.com/" method="GET" target="_blank" style="display:flex; gap:10px; margin-top:10px;">
+                <input type="text" name="q" placeholder="DuckDuckGo..." required>
+                <button type="submit">🦆</button>
+            </form>
         </div>
 
-        <div class="bento-box">
+        <div class="box hero">
+            <h2>Global News Wire</h2>
+            <div id="wire-out"></div>
+        </div>
+
+        <div class="box">
             <h2>InformationWeek</h2>
-            <div id="infoweek-content"></div>
+            <div id="info-out"></div>
         </div>
     </div>
 
-    <div class="ticker-wrap horizontal bottom"><div id="nba-ticker" class="ticker"></div></div>
+    <div class="t-wrap h-tick bottom"><div id="nba-t" class="move h-move"></div></div>
 
     <script>
-        async function loadData() {
-            const res = await fetch('data.json');
-            const data = await res.json();
-            
-            const fmt = (item) => `<a href="${item.link}" target="_blank">▶ ${item.title}</a>`;
-            const tick = (league, item) => `<a href="${item.link}" target="_blank">[${league}] ${item.title} • </a>`;
-
-            document.getElementById('wire-content').innerHTML = data.world.map(fmt).join('');
-            document.getElementById('infoweek-content').innerHTML = data.infoweek.map(fmt).join('');
-            
-            document.getElementById('nfl-ticker').innerHTML = (data.nfl.map(i => tick('NFL', i)).join('')).repeat(4);
-            document.getElementById('nba-ticker').innerHTML = (data.nba.map(i => tick('NBA', i)).join('')).repeat(4);
-            document.getElementById('mlb-ticker').innerHTML = (data.mlb.map(i => tick('MLB', i)).join('')).repeat(4);
-        }
-
-        async function getWeather() {
+        async function init() {
             try {
-                const geo = await fetch('https://ipapi.co/json/').then(r => r.json());
-                const weather = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${geo.latitude}&longitude=${geo.longitude}&current_weather=true&temperature_unit=fahrenheit`).then(r => r.json());
+                const res = await fetch('data.json');
+                const d = await res.json();
                 
-                document.getElementById('weather-display').innerHTML = `
-                    <p class="temp">${Math.round(weather.current_weather.temperature)}°F</p>
-                    <p class="city">${geo.city}, ${geo.region_code}</p>
-                    <p class="isp">Network: ${geo.org}</p>
-                `;
-            } catch (e) { document.getElementById('weather-display').innerText = "Offline"; }
-        }
+                const l = (item) => `<a class="news-link" href="${item.link}" target="_blank">▶ ${item.title}</a>`;
+                const t = (league, item) => `<a href="${item.link}" target="_blank">[${league}] ${item.title} • </a>`;
 
-        loadData();
-        getWeather();
+                document.getElementById('wire-out').innerHTML = d.wire.map(l).join('');
+                document.getElementById('info-out').innerHTML = d.info.map(l).join('');
+                
+                document.getElementById('nfl-t').innerHTML = (d.nfl.map(i => t('NFL', i)).join('')).repeat(5);
+                document.getElementById('nba-t').innerHTML = (d.nba.map(i => t('NBA', i)).join('')).repeat(5);
+                document.getElementById('mlb-t').innerHTML = (d.mlb.map(i => t('MLB', i)).join('')).repeat(5);
+
+                // Weather/ISP Logic
+                const geo = await fetch('https://ipapi.co/json/').then(r => r.json());
+                const w = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${geo.latitude}&longitude=${geo.longitude}&current_weather=true&temperature_unit=fahrenheit`).then(r => r.json());
+                document.getElementById('w-out').innerHTML = `
+                    <p style="font-size: 3rem; margin: 0; color:var(--accent);">${Math.round(w.current_weather.temperature)}°F</p>
+                    <p>${geo.city}, ${geo.region_code}</p>
+                    <p style="font-size:0.6rem; color:#666;">${geo.org}</p>
+                `;
+            } catch (e) { console.error("Data sync pending..."); }
+        }
+        init();
     </script>
 </body>
 </html>
