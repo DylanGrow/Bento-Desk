@@ -1,0 +1,13 @@
+name: Fetch RSS Feeds
+on:
+  schedule:
+    - cron: '0 10 * * *' 
+  workflow_dispatch: 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+      - name: Output Placeholder
+        run: echo "Python script will go here to parse BleepingComputer and Reuters RSS into a JSON file for the site to read."
