@@ -3,125 +3,113 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bento Desk | Master Dashboard</title>
+    <title>Bento Desk | Command Center</title>
     <style>
-        :root { --bg: #0f0f0f; --card: #1a1a1a; --accent: #3b82f6; --text: #e5e7eb; --ticker-bg: #161616; }
-        body { background-color: var(--bg); color: var(--text); font-family: 'Segoe UI', system-ui, sans-serif; margin: 0; padding: 100px 2rem; display: flex; justify-content: center; }
-        .ticker-wrap { position: fixed; width: 100%; overflow: hidden; height: 35px; background-color: var(--ticker-bg); border-top: 1px solid #333; border-bottom: 1px solid #333; z-index: 1000; display: flex; align-items: center; }
+        :root { --bg: #0b0b0b; --card: #161616; --accent: #3b82f6; --text: #e5e7eb; --warning: #d97706; }
+        body { background-color: var(--bg); color: var(--text); font-family: 'Segoe UI', system-ui, sans-serif; margin: 0; padding: 110px 2rem; display: flex; justify-content: center; }
+        
+        /* Tickers - Slowed down with League Tags */
+        .ticker-wrap { position: fixed; width: 100%; overflow: hidden; height: 35px; background: #000; border-bottom: 1px solid #333; z-index: 1000; display: flex; align-items: center; }
         .top { top: 0; border-bottom: 1px solid var(--accent); }
-        .sports-ticker { bottom: 35px; border-top: 1px solid #444; color: #ffcc00; }
+        .sports-ticker { bottom: 35px; border-top: 1px solid var(--warning); color: #fff; }
         .bottom { bottom: 0; border-top: 1px solid var(--accent); }
-        .ticker { display: inline-block; white-space: nowrap; padding-right: 100%; animation: ticker-move 80s linear infinite; }
-        .ticker a, .ticker span { display: inline-block; padding: 0 2.5rem; color: var(--text); font-size: 0.85rem; font-weight: 600; text-decoration: none; text-transform: uppercase; }
+        .ticker { display: inline-block; white-space: nowrap; animation: ticker-move 90s linear infinite; }
+        .ticker span, .ticker a { display: inline-block; padding: 0 2rem; color: #fff; font-size: 0.85rem; font-weight: bold; text-decoration: none; text-transform: uppercase; }
         @keyframes ticker-move { 0% { transform: translate3d(0, 0, 0); } 100% { transform: translate3d(-100%, 0, 0); } }
-        .bento-grid { display: grid; grid-template-columns: repeat(4, 1fr); grid-auto-rows: minmax(160px, auto); gap: 1.2rem; max-width: 1300px; width: 100%; }
-        .bento-box { background: var(--card); border: 1px solid #2a2a2a; border-radius: 24px; padding: 1.5rem; transition: all 0.3s ease; position: relative; }
-        .bento-box:hover { transform: scale(1.02); border-color: var(--accent); box-shadow: 0 10px 40px rgba(0,0,0,0.6); }
+
+        /* Grid & Boxes */
+        .bento-grid { display: grid; grid-template-columns: repeat(4, 1fr); grid-auto-rows: minmax(160px, auto); gap: 1rem; max-width: 1400px; width: 100%; }
+        .bento-box { background: var(--card); border: 1px solid #222; border-radius: 12px; padding: 1.2rem; overflow-y: auto; max-height: 400px; }
+        
+        /* Warning Anchor Box */
+        .anchor-box { grid-column: span 1; border: 2px solid var(--warning); background: rgba(217, 119, 6, 0.1); }
+        .anchor-box h2 { color: var(--warning) !important; }
+        .anchor-btn { display: block; background: var(--warning); color: #000; text-align: center; padding: 10px; border-radius: 4px; font-weight: 800; text-decoration: none; margin-top: 10px; }
+
         .hero { grid-column: span 3; grid-row: span 2; }
         .wide { grid-column: span 2; }
-        .side { grid-column: span 1; }
-        h2 { margin-top: 0; font-size: 0.8rem; color: var(--accent); text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 1rem; }
-        .bento-box a { color: #fff; text-decoration: none; display: block; margin-bottom: 12px; font-size: 0.95rem; line-height: 1.3; }
-        .bento-box a:hover { color: var(--accent); text-decoration: underline; }
-        .temp { font-size: 2.8rem; font-weight: 800; margin: 0; }
-        .city { color: #888; font-size: 0.9rem; }
-        .score-row { border-bottom: 1px solid #333; padding: 8px 0; font-size: 0.9rem; }
-        .bio-img { width: 45px; height: 45px; border-radius: 12px; background: var(--accent); margin-bottom: 10px; }
-        .utility-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; font-size: 0.8rem; }
+        
+        h2 { margin: 0 0 1rem 0; font-size: 0.75rem; color: var(--accent); text-transform: uppercase; letter-spacing: 2px; }
+        a { color: #eee; text-decoration: none; display: block; margin-bottom: 8px; font-size: 0.9rem; }
+        a:hover { text-decoration: underline; color: var(--accent); }
+        
+        .utility-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 5px; font-size: 0.75rem; }
     </style>
 </head>
 <body>
-    <div class="ticker-wrap top"><div id="ticker-top" class="ticker">Loading Global Wire...</div></div>
+    <div class="ticker-wrap top"><div id="ticker-top" class="ticker"></div></div>
     
     <div class="bento-grid">
-        <div class="bento-box hero" id="latest-news">
-            <h2>Local & Science</h2>
-            <div id="wire-content">Syncing headlines...</div>
+        <div class="bento-box anchor-box">
+            <h2>⚠️ NOTICE: VERIFY SOURCE</h2>
+            <p style="font-size: 0.8rem; line-height: 1.4;">Critical thinking is the first line of defense. Use the Berkeley guide to evaluate all "spam" below.</p>
+            <a href="https://libguides.lbl.gov/evaluating-resources" target="_blank" class="anchor-btn">OPEN LIBRARY GUIDE</a>
         </div>
-        <div class="bento-box side">
-            <h2>Local Weather</h2>
-            <div id="weather-display"><p class="temp">--°</p><p class="city">Locating...</p></div>
+
+        <div class="bento-box hero">
+            <h2>The Wire (Global Feed)</h2>
+            <div id="wire-content"></div>
         </div>
-        <div class="bento-box side">
-            <h2>Live Scores</h2>
-            <div id="scores-content">Fetching scores...</div>
+
+        <div class="bento-box">
+            <h2>InformationWeek Analysis</h2>
+            <div id="infoweek-content"></div>
         </div>
-        <div class="bento-box side">
-            <div class="bio-img"></div>
-            <h2>Author</h2>
-            <p style="font-size: 0.85rem; line-height: 1.5; color: #bbb;">IT Support Specialist & Network Tech.</p>
-            <div id="quote-content" style="margin-top: 15px; font-style: italic; color: #888; font-size: 0.8rem;"></div>
-        </div>
+
         <div class="bento-box wide">
             <h2>Refdesk & Regional Directory</h2>
             <div class="utility-grid">
-                <a href="https://www.refdesk.com" target="_blank">📚 Refdesk Main</a>
-                <a href="https://apod.nasa.gov/" target="_blank">🚀 NASA APOD</a>
-                <a href="https://www.quotationspage.com/" target="_blank">💬 Quote of Day</a>
-                <a href="https://www.nytimes.com/learning/" target="_blank">🍎 NYT Learning</a>
-                <a href="https://www.washingtonpost.com/comics/" target="_blank">🤡 WaPo Comics</a>
-                <a href="https://www.newsmax.com/" target="_blank">📺 Newsmax</a>
-                <a href="https://www.pilotonline.com/" target="_blank">🌊 Virginian-Pilot</a>
-                <a href="https://www.seattletimes.com/" target="_blank">🌲 Seattle Times</a>
-                <a href="https://www.charlotteobserver.com/" target="_blank">👑 Charlotte Obs</a>
-                <a href="https://www.miamiherald.com/" target="_blank">🌴 Miami Herald</a>
-                <a href="https://www.orlandosentinel.com/" target="_blank">🍊 Orlando Sentinel</a>
-                <a href="https://www.post-gazette.com/" target="_blank">🏗️ Pitt Post-Gazette</a>
-                <a href="https://apnews.com/" target="_blank">📰 AP News Hub</a>
-                <a href="https://www.reuters.com/" target="_blank">🌐 Reuters Hub</a>
-                <a href="https://www.washingtonpost.com/technology/" target="_blank">💻 WaPo Tech</a>
+                <a href="https://www.refdesk.com">📚 Refdesk</a>
+                <a href="https://www.seattletimes.com">🌲 Seattle</a>
+                <a href="https://www.charlotteobserver.com">👑 Charlotte</a>
+                <a href="https://www.miamiherald.com">🌴 Miami</a>
+                <a href="https://www.orlandosentinel.com">🍊 Orlando</a>
+                <a href="https://www.post-gazette.com">🏗️ Pitt</a>
+                <a href="https://www.pilotonline.com">🌊 Pilot</a>
+                <a href="https://www.nytimes.com/learning/">🍎 NYT Learn</a>
+                <a href="https://www.newsmax.com">📺 Newsmax</a>
             </div>
+        </div>
+
+        <div class="bento-box side">
+            <h2>Scores</h2>
+            <div id="scores-content"></div>
         </div>
     </div>
 
-    <div class="ticker-wrap sports-ticker"><div id="ticker-sports" class="ticker">Loading Today's Matchups...</div></div>
-    <div class="ticker-wrap bottom"><div id="ticker-bottom" class="ticker">Loading Tech Stack...</div></div>
+    <div class="ticker-wrap sports-ticker"><div id="ticker-sports" class="ticker"></div></div>
+    <div class="ticker-wrap bottom"><div id="ticker-bottom" class="ticker"></div></div>
 
     <script>
-        async function loadNews() {
-            try {
-                const res = await fetch('data.json');
-                const data = await res.json();
-                
-                const localMix = [...data.local, ...data.science];
-                document.getElementById('wire-content').innerHTML = localMix.map(item => `<a href="${item.link}" target="_blank">▶ ${item.title}</a>`).join('');
-                
-                if(data.quotes && data.quotes.length > 0) {
-                    document.getElementById('quote-content').innerHTML = `"${data.quotes[0].title}"`;
-                }
+        async function loadData() {
+            const res = await fetch('data.json');
+            const data = await res.json();
+            
+            const fmt = (item) => `<a href="${item.link}" target="_blank">▶ ${item.title}</a>`;
+            const tick = (item) => `<a href="${item.link}" target="_blank">${item.title} • </a>`;
 
-                const tickerFormat = (item) => `<a href="${item.link}" target="_blank">${item.title} &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;</a>`;
-                document.getElementById('ticker-top').innerHTML = (data.world.map(tickerFormat).join('')).repeat(5);
-                document.getElementById('ticker-bottom').innerHTML = (data.tech.map(tickerFormat).join('')).repeat(5);
-            } catch (e) { console.log("Waiting for data.json..."); }
-        }
-
-        async function getWeather() {
-            try {
-                const geo = await fetch('https://ipapi.co/json/').then(r => r.json());
-                const weather = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${geo.latitude}&longitude=${geo.longitude}&current_weather=true&temperature_unit=fahrenheit`).then(r => r.json());
-                document.getElementById('weather-display').innerHTML = `<p class="temp">${Math.round(weather.current_weather.temperature)}°F</p><p class="city">${geo.city}, ${geo.region_code}</p>`;
-            } catch (e) {}
+            document.getElementById('wire-content').innerHTML = data.world.map(fmt).join('');
+            document.getElementById('infoweek-content').innerHTML = data.infoweek.map(fmt).join('');
+            
+            document.getElementById('ticker-top').innerHTML = data.world.map(tick).join('').repeat(3);
+            document.getElementById('ticker-bottom').innerHTML = data.infoweek.map(tick).join('').repeat(3);
         }
 
         async function getSports() {
-            try {
-                const res = await fetch('https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard');
-                const data = await res.json();
-                let boxHtml = '', tickerHtml = '';
-                data.events.forEach(game => {
-                    const teams = game.competitions[0].competitors;
-                    const line = `${teams[1].team.abbreviation} ${teams[1].score} @ ${teams[0].team.abbreviation} ${teams[0].score}`;
-                    const status = game.status.type.shortDetail;
-                    boxHtml += `<div class="score-row"><span style="color:#888; font-size:0.7rem;">${status}</span><br>${line}</div>`;
-                    tickerHtml += `<span>${line} (${status}) &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;</span>`;
-                });
-                document.getElementById('scores-content').innerHTML = boxHtml || "No active games.";
-                document.getElementById('ticker-sports').innerHTML = tickerHtml.repeat(6);
-            } catch (e) {}
+            const res = await fetch('https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard');
+            const data = await res.json();
+            let box = '', tick = '';
+            data.events.forEach(e => {
+                const teams = e.competitions[0].competitors;
+                const score = `[NBA] ${teams[1].team.abbreviation} ${teams[1].score} @ ${teams[0].team.abbreviation} ${teams[0].score}`;
+                box += `<div style="font-size:0.8rem; margin-bottom:8px;">${score}</div>`;
+                tick += `<span>${score} • </span>`;
+            });
+            document.getElementById('scores-content').innerHTML = box;
+            document.getElementById('ticker-sports').innerHTML = tick.repeat(10);
         }
 
-        loadNews(); getWeather(); getSports(); setInterval(getSports, 300000);
+        loadData(); getSports();
     </script>
 </body>
 </html>
