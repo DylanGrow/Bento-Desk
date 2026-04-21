@@ -6,14 +6,12 @@ feeds = {
     "nfl": "https://www.espn.com/espn/rss/nfl/news",
     "nba": "https://www.cbssports.com/rss/headlines/nba/",
     "mlb": "https://www.espn.com/espn/rss/mlb/news",
-    "info": "https://www.informationweek.com/rss.xml",
-    "wire": "https://news.yahoo.com/rss/world",
-    "ap": "https://feeds.apnews.com/rss/topnews",
-    "bbc": "http://feeds.bbci.co.uk/news/rss.xml",
-    "npr": "https://feeds.npr.org/1001/rss.xml",
-    "guardian": "https://www.theguardian.com/world/rss",
-    "foxnews": "https://moxie.foxnews.com/google-publisher/latest.xml",
-    "aljazeera": "https://www.aljazeera.com/xml/rss/all.xml"
+    "tech": "https://www.informationweek.com/rss.xml",
+    "hacker": "https://hnrss.org/frontpage",
+    "cyber": "https://thehackernews.com/feeds/posts/default?alt=rss",
+    "gaming": "https://www.polygon.com/rss/index.xml",
+    "space": "https://www.space.com/feeds/all",
+    "science": "https://www.sciencedaily.com/rss/top/science.xml"
 }
 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
@@ -22,17 +20,17 @@ output = {}
 for category, url in feeds.items():
     try:
         req = urllib.request.Request(url, headers=headers)
-        with urllib.request.urlopen(req) as response:
+        with urllib.request.urlopen(req, timeout=10) as response:
             root = ET.fromstring(response.read())
             items = []
             for item in root.findall('.//item')[:25]:
-                items.append({
-                    "title": item.find('title').text,
-                    "link": item.find('link').text
-                })
+                title = item.find('title')
+                link = item.find('link')
+                if title is not None and link is not None:
+                    items.append({"title": title.text, "link": link.text})
             output[category] = items
     except Exception as e:
-        output[category] = [{"title": f"Error loading {category}", "link": "#"}]
+        output[category] = [] 
 
 with open('data.json', 'w') as f:
     json.dump(output, f)
