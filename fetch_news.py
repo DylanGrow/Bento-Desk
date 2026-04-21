@@ -2,13 +2,18 @@ import urllib.request
 import xml.etree.ElementTree as ET
 import json
 
-# Sources mapped to your specific 3-axis request
 feeds = {
     "nfl": "https://www.espn.com/espn/rss/nfl/news",
     "nba": "https://www.cbssports.com/rss/headlines/nba/",
-"mlb": "https://www.espn.com/espn/rss/mlb/news",
-"wire": "https://feeds.reuters.com/reuters/topNews",
-    "info": "https://www.informationweek.com/rss.xml"
+    "mlb": "https://www.espn.com/espn/rss/mlb/news",
+    "info": "https://www.informationweek.com/rss.xml",
+    "wire": "https://feeds.reuters.com/reuters/topNews",
+    "ap": "https://feeds.apnews.com/rss/topnews",
+    "bbc": "http://feeds.bbci.co.uk/news/rss.xml",
+    "npr": "https://feeds.npr.org/1001/rss.xml",
+    "guardian": "https://www.theguardian.com/world/rss",
+    "foxnews": "https://moxie.foxnews.com/google-publisher/latest.xml",
+    "aljazeera": "https://www.aljazeera.com/xml/rss/all.xml"
 }
 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
@@ -20,7 +25,7 @@ for category, url in feeds.items():
         with urllib.request.urlopen(req) as response:
             root = ET.fromstring(response.read())
             items = []
-            for item in root.findall('.//item')[:25]: # Deep spam depth
+            for item in root.findall('.//item')[:25]:
                 items.append({
                     "title": item.find('title').text,
                     "link": item.find('link').text
