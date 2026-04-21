@@ -6,8 +6,8 @@ import json
 feeds = {
     "nfl": "https://www.espn.com/espn/rss/nfl/news",
     "nba": "https://www.cbssports.com/rss/headlines/nba/",
-    "mlb": "https://api.foxsports.com/v1/rss?partnerKey=zBaFxRyGKCfxBagJG9b8pqLyndmvo7UU&tag=mlb",
-    "wire": "https://www.reutersagency.com/feed/?best-topics=world-news&post_type=best",
+"mlb": "https://www.espn.com/espn/rss/mlb/news",
+"wire": "https://feeds.reuters.com/reuters/topNews",
     "info": "https://www.informationweek.com/rss.xml"
 }
 
