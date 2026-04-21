@@ -11,8 +11,7 @@
       --dim: #4a4d52;
       --font: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace;
       
-      /* Neon Accents */
-      --c0: #FFB612; /* Live Scores Gold */
+      var(--c0): #FFB612; 
       --c1: #00e5ff; --c2: #39ff14; --c3: #ffea00; 
       --c4: #ff0055; --c5: #b026ff; --c6: #ff8800; 
       --c7: #00ff88; --c8: #ff00aa; --c9: #8800ff;
@@ -30,7 +29,6 @@
       flex-direction: column;
     }
 
-    /* Fixed Top Bar Layout */
     #top-bar {
       display: flex;
       justify-content: space-between;
@@ -41,7 +39,6 @@
       flex-shrink: 0;
     }
 
-    /* Search Form */
     #ddg-search {
       display: flex;
       align-items: center;
@@ -72,7 +69,6 @@
     }
     #ddg-search button:hover { background: #444; }
 
-    /* Weather Widget */
     #weather-widget {
       display: flex;
       flex-direction: column;
@@ -82,14 +78,12 @@
     .w-temp { font-size: 22px; font-weight: bold; color: var(--c1); }
     .w-loc { color: #888; font-size: 12px; margin-top: 2px; }
 
-    /* Wall Container */
     #wall {
       flex: 1;
       display: flex;
       flex-direction: column;
     }
 
-    /* Row Layout */
     .row {
       flex: 1;
       display: flex;
@@ -100,7 +94,6 @@
     }
     .row:last-child { border-bottom: none; }
 
-    /* Static Left Label */
     .label {
       position: absolute;
       left: 0; top: 0; bottom: 0;
@@ -118,8 +111,7 @@
       box-shadow: 15px 0 20px rgba(0,0,0,0.9);
     }
 
-    /* Label & Hover Colors */
-    .row.live-row .label { color: var(--bg); background: var(--c0); border-right-color: var(--c0); text-shadow: none; }
+    .row.live-row .label { color: var(--bg); background: #FFB612; border-right-color: #FFB612; text-shadow: none; }
     .row:nth-child(2) .label { color: var(--c1); border-right-color: rgba(0,229,255,0.3); }
     .row:nth-child(3) .label { color: var(--c2); border-right-color: rgba(57,255,20,0.3); }
     .row:nth-child(4) .label { color: var(--c3); border-right-color: rgba(255,234,0,0.3); }
@@ -128,9 +120,8 @@
     .row:nth-child(7) .label { color: var(--c6); border-right-color: rgba(255,136,0,0.3); }
     .row:nth-child(8) .label { color: var(--c7); border-right-color: rgba(0,255,136,0.3); }
     .row:nth-child(9) .label { color: var(--c8); border-right-color: rgba(255,0,170,0.3); }
-    .row:nth-child(10) .label { color: var(--c9); border-right-color: rgba(136,0,255,0.3); }
 
-    .row.live-row .item:hover .source-tag { color: var(--c0); }
+    .row.live-row .item:hover .source-tag { color: #FFB612; }
     .row:nth-child(2) .item:hover .source-tag { color: var(--c1); }
     .row:nth-child(3) .item:hover .source-tag { color: var(--c2); }
     .row:nth-child(4) .item:hover .source-tag { color: var(--c3); }
@@ -139,9 +130,7 @@
     .row:nth-child(7) .item:hover .source-tag { color: var(--c6); }
     .row:nth-child(8) .item:hover .source-tag { color: var(--c7); }
     .row:nth-child(9) .item:hover .source-tag { color: var(--c8); }
-    .row:nth-child(10) .item:hover .source-tag { color: var(--c9); }
 
-    /* Scrolling Track */
     .track-wrapper {
       display: flex;
       width: 100%;
@@ -163,7 +152,6 @@
     @keyframes tick { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
     @keyframes tick-reverse { 0% { transform: translateX(-50%); } 100% { transform: translateX(0); } }
 
-    /* Items */
     .item {
       color: #9ca3af;
       text-decoration: none;
@@ -205,15 +193,14 @@
 
   <script>
     const groups = [
-      { id: 'breaking', label: 'WIRE', sources: ['wire'] },
-      { id: 'ap', label: 'AP NEWS', sources: ['ap'] },
-      { id: 'world', label: 'GLOBAL', sources: ['bbc', 'aljazeera'] },
-      { id: 'usa', label: 'POLITICS', sources: ['npr', 'guardian'] },
-      { id: 'fox', label: 'FOX NEWS', sources: ['foxnews'] },
       { id: 'nfl', label: 'NFL', sources: ['nfl'] },
+      { id: 'tech', label: 'TECH', sources: ['tech', 'hacker'] },
+      { id: 'cyber', label: 'CYBER SEC', sources: ['cyber'] },
       { id: 'nba', label: 'NBA', sources: ['nba'] },
       { id: 'mlb', label: 'MLB', sources: ['mlb'] },
-      { id: 'tech', label: 'TECH', sources: ['info'] }
+      { id: 'gaming', label: 'GAMING', sources: ['gaming'] },
+      { id: 'space', label: 'SPACE', sources: ['space'] },
+      { id: 'science', label: 'SCIENCE', sources: ['science'] }
     ];
 
     async function loadWeather() {
@@ -252,7 +239,7 @@
         parseGames(mlb, 'MLB');
 
         if (!scoresHTML) scoresHTML = `<span class="item"><span class="source-tag">[SYS]</span>No live games right now</span>`;
-        return scoresHTML + scoresHTML; // return doubled for seamless loop
+        return scoresHTML + scoresHTML; 
 
       } catch (e) {
         return `<span class="item"><span class="source-tag">[SYS]</span>Live scores unavailable</span>`;
@@ -284,7 +271,6 @@
       
       wall.innerHTML = '';
 
-      // Add Live Scores Row First
       wall.insertAdjacentHTML('beforeend', `
         <div class="row live-row">
           <div class="label">LIVE SCORES</div>
@@ -294,7 +280,6 @@
         </div>
       `);
 
-      // Add RSS Rows
       groups.forEach(group => {
         let itemsHTML = '';
         if (data) {
@@ -305,7 +290,7 @@
           });
         }
 
-        if (!itemsHTML) itemsHTML = `<span class="item" style="pointer-events:none;"><span class="source-tag">[SYS]</span>No data found. Run fetch_news.py in GitHub Actions.</span>`;
+        if (!itemsHTML) itemsHTML = `<span class="item" style="pointer-events:none;"><span class="source-tag">[SYS]</span>Awaiting refresh from GitHub Actions...</span>`;
 
         const seamlessHTML = itemsHTML + itemsHTML;
         wall.insertAdjacentHTML('beforeend', `
