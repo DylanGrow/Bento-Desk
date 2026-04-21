@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Bento-Desk | Command Center</title>
+  <title>SysLog | Terminal</title>
   <style>
     :root {
       --bg: #050505;
@@ -11,7 +11,7 @@
       --dim: #4a4d52;
       --font: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace;
       
-      var(--c0): #FFB612; 
+      --c0: #FFB612; 
       --c1: #00e5ff; --c2: #39ff14; --c3: #ffea00; 
       --c4: #ff0055; --c5: #b026ff; --c6: #ff8800; 
       --c7: #00ff88; --c8: #ff00aa; --c9: #8800ff;
@@ -38,6 +38,21 @@
       border-bottom: 1px solid #1a1a1a;
       flex-shrink: 0;
     }
+
+    .brand {
+      color: var(--c1);
+      font-weight: 900;
+      letter-spacing: 0.15em;
+      font-size: 22px;
+      text-transform: uppercase;
+      display: flex;
+      align-items: center;
+    }
+    .brand::after {
+      content: '_';
+      animation: blink 1s step-end infinite;
+    }
+    @keyframes blink { 50% { opacity: 0; } }
 
     #ddg-search {
       display: flex;
@@ -177,6 +192,7 @@
 <body>
 
   <header id="top-bar">
+    <div class="brand">SysLog</div>
     <form id="ddg-search" action="https://duckduckgo.com/" method="GET" target="_blank">
       <input type="text" name="q" placeholder="Search DuckDuckGo..." required>
       <button type="submit" aria-label="Search">🦆</button>
@@ -188,7 +204,7 @@
   </header>
 
   <div id="wall">
-    <div class="status">Initializing Ticker Wall...</div>
+    <div class="status">Initializing SysLog...</div>
   </div>
 
   <script>
@@ -264,7 +280,7 @@
       loadWeather();
       
       const wall = document.getElementById('wall');
-      wall.innerHTML = '<div class="status">Fetching data and live scores...</div>';
+      wall.innerHTML = '<div class="status">Fetching data streams...</div>';
 
       const liveScoresHTML = await loadLiveScores();
       const data = await loadData();
