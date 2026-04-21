@@ -11,12 +11,10 @@
       --dim: #4a4d52;
       --font: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace;
       
-      /* Neon Accents */
-      --c1: #00e5ff; /* Breaking */
-      --c2: #39ff14; /* Sports */
-      --c3: #ffea00; /* World */
-      --c4: #ff0055; /* USA */
-      --c5: #b026ff; /* Tech */
+      /* Neon Accents for 9 rows */
+      --c1: #00e5ff; --c2: #39ff14; --c3: #ffea00; 
+      --c4: #ff0055; --c5: #b026ff; --c6: #ff8800; 
+      --c7: #00ff88; --c8: #ff00aa; --c9: #8800ff;
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -29,6 +27,69 @@
       overflow: hidden;
       display: flex;
       flex-direction: column;
+    }
+
+    /* Top Overlay (Search & Weather) */
+    #overlay-ui {
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 60px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0 20px 0 170px;
+      background: linear-gradient(180deg, rgba(5,5,5,0.95) 0%, rgba(5,5,5,0) 100%);
+      z-index: 100;
+      pointer-events: none;
+    }
+
+    /* Search Form */
+    #ddg-search {
+      display: flex;
+      align-items: center;
+      pointer-events: auto;
+      background: rgba(20, 20, 20, 0.8);
+      border: 1px solid #333;
+      border-radius: 4px;
+      overflow: hidden;
+    }
+    #ddg-search input {
+      background: transparent;
+      border: none;
+      color: #fff;
+      padding: 8px 12px;
+      font-family: var(--font);
+      outline: none;
+      width: 200px;
+    }
+    #ddg-search button {
+      background: #333;
+      border: none;
+      padding: 8px 12px;
+      cursor: pointer;
+      font-size: 16px;
+      transition: background 0.2s;
+    }
+    #ddg-search button:hover { background: #555; }
+
+    /* Weather Widget */
+    #weather-widget {
+      pointer-events: auto;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      font-size: 14px;
+      text-shadow: 0 2px 4px rgba(0,0,0,0.8);
+    }
+    .w-temp { font-size: 20px; font-weight: bold; color: var(--c1); }
+    .w-loc { color: #999; font-size: 11px; }
+
+    /* Wall Container */
+    #wall {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      margin-top: 30px;
     }
 
     /* Row Layout */
@@ -45,28 +106,41 @@
     /* Static Left Label */
     .label {
       position: absolute;
-      left: 0;
-      top: 0;
-      bottom: 0;
+      left: 0; top: 0; bottom: 0;
+      width: 150px;
       z-index: 10;
       background: var(--bg);
-      padding: 0 2vw;
       display: flex;
       align-items: center;
+      justify-content: center;
       font-weight: 800;
-      font-size: 2.5vh;
+      font-size: clamp(12px, 1.8vh, 20px);
       letter-spacing: 0.1em;
       text-transform: uppercase;
       border-right: 1px solid #1a1a1a;
       box-shadow: 15px 0 20px rgba(0,0,0,0.9);
     }
 
-    /* Label Colors */
+    /* Label & Hover Colors for 9 rows */
     .row:nth-child(1) .label { color: var(--c1); border-right-color: rgba(0,229,255,0.3); }
     .row:nth-child(2) .label { color: var(--c2); border-right-color: rgba(57,255,20,0.3); }
     .row:nth-child(3) .label { color: var(--c3); border-right-color: rgba(255,234,0,0.3); }
     .row:nth-child(4) .label { color: var(--c4); border-right-color: rgba(255,0,85,0.3); }
     .row:nth-child(5) .label { color: var(--c5); border-right-color: rgba(176,38,255,0.3); }
+    .row:nth-child(6) .label { color: var(--c6); border-right-color: rgba(255,136,0,0.3); }
+    .row:nth-child(7) .label { color: var(--c7); border-right-color: rgba(0,255,136,0.3); }
+    .row:nth-child(8) .label { color: var(--c8); border-right-color: rgba(255,0,170,0.3); }
+    .row:nth-child(9) .label { color: var(--c9); border-right-color: rgba(136,0,255,0.3); }
+
+    .row:nth-child(1) .item:hover .source-tag { color: var(--c1); }
+    .row:nth-child(2) .item:hover .source-tag { color: var(--c2); }
+    .row:nth-child(3) .item:hover .source-tag { color: var(--c3); }
+    .row:nth-child(4) .item:hover .source-tag { color: var(--c4); }
+    .row:nth-child(5) .item:hover .source-tag { color: var(--c5); }
+    .row:nth-child(6) .item:hover .source-tag { color: var(--c6); }
+    .row:nth-child(7) .item:hover .source-tag { color: var(--c7); }
+    .row:nth-child(8) .item:hover .source-tag { color: var(--c8); }
+    .row:nth-child(9) .item:hover .source-tag { color: var(--c9); }
 
     /* Scrolling Track */
     .track-wrapper {
@@ -74,109 +148,106 @@
       width: 100%;
       height: 100%;
       align-items: center;
-      padding-left: 150px; /* Space for the static label */
+      padding-left: 150px;
     }
 
     .track {
       display: inline-flex;
       white-space: nowrap;
-      animation: tick 120s linear infinite;
+      animation: tick 300s linear infinite; /* Slowed down from 120s */
       padding-left: 50px;
     }
 
-    /* Alternate Directions */
     .row:nth-child(even) .track {
       animation-name: tick-reverse;
     }
 
-    .track:hover {
-      animation-play-state: paused;
-    }
+    .track:hover { animation-play-state: paused; }
 
-    @keyframes tick {
-      0% { transform: translateX(0); }
-      100% { transform: translateX(-50%); }
-    }
-    
-    @keyframes tick-reverse {
-      0% { transform: translateX(-50%); }
-      100% { transform: translateX(0); }
-    }
+    @keyframes tick { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
+    @keyframes tick-reverse { 0% { transform: translateX(-50%); } 100% { transform: translateX(0); } }
 
-    /* Individual News Items */
+    /* Items */
     .item {
       color: #9ca3af;
       text-decoration: none;
-      font-size: 2.2vh;
+      font-size: clamp(12px, 1.8vh, 18px);
       padding: 0 3vw;
-      transition: color 0.2s, transform 0.2s;
+      transition: color 0.2s;
       display: flex;
       align-items: center;
     }
-    
-    .item:hover {
-      color: #fff;
-      text-decoration: underline;
-    }
+    .item:hover { color: #fff; text-decoration: underline; }
 
     .source-tag {
       color: var(--dim);
-      font-size: 1.5vh;
+      font-size: 0.8em;
       margin-right: 12px;
       font-weight: bold;
       letter-spacing: 0.05em;
     }
-    
-    .row:nth-child(1) .item:hover .source-tag { color: var(--c1); }
-    .row:nth-child(2) .item:hover .source-tag { color: var(--c2); }
-    .row:nth-child(3) .item:hover .source-tag { color: var(--c3); }
-    .row:nth-child(4) .item:hover .source-tag { color: var(--c4); }
-    .row:nth-child(5) .item:hover .source-tag { color: var(--c5); }
 
-    .status {
-      padding-left: 200px;
-      color: var(--dim);
-      font-style: italic;
-    }
+    .status { padding: 20px 170px; color: var(--dim); font-style: italic; }
   </style>
 </head>
 <body>
 
+  <div id="overlay-ui">
+    <form id="ddg-search" action="https://duckduckgo.com/" method="GET" target="_blank">
+      <input type="text" name="q" placeholder="Search..." required>
+      <button type="submit" aria-label="Search">🦆</button>
+    </form>
+    <div id="weather-widget">
+      <div class="w-temp" id="w-temp">--°F</div>
+      <div class="w-loc" id="w-loc">Loading local weather...</div>
+    </div>
+  </div>
+
   <div id="wall">
-    <div class="status" style="margin-top: 50px;">Initializing Ticker Wall...</div>
+    <div class="status">Initializing Ticker Wall...</div>
   </div>
 
   <script>
     const groups = [
-      { id: 'breaking', label: 'WIRE', sources: ['wire', 'ap'] },
-      { id: 'sports', label: 'SPORTS', sources: ['nfl', 'nba', 'mlb'] },
+      { id: 'breaking', label: 'WIRE', sources: ['wire'] },
+      { id: 'ap', label: 'AP NEWS', sources: ['ap'] },
       { id: 'world', label: 'GLOBAL', sources: ['bbc', 'aljazeera'] },
-      { id: 'usa', label: 'POLITICS', sources: ['npr', 'foxnews', 'guardian'] },
+      { id: 'usa', label: 'POLITICS', sources: ['npr', 'guardian'] },
+      { id: 'fox', label: 'FOX NEWS', sources: ['foxnews'] },
+      { id: 'nfl', label: 'NFL', sources: ['nfl'] },
+      { id: 'nba', label: 'NBA', sources: ['nba'] },
+      { id: 'mlb', label: 'MLB', sources: ['mlb'] },
       { id: 'tech', label: 'TECH', sources: ['info'] }
     ];
+
+    async function loadWeather() {
+      try {
+        const geo = await fetch('https://ipapi.co/json/').then(r => r.json());
+        const w = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${geo.latitude}&longitude=${geo.longitude}&current_weather=true&temperature_unit=fahrenheit`).then(r => r.json());
+        document.getElementById('w-temp').innerText = Math.round(w.current_weather.temperature) + '°F';
+        document.getElementById('w-loc').innerText = `${geo.city}, ${geo.region_code}`;
+      } catch (e) {
+        document.getElementById('w-loc').innerText = 'Weather unavailable';
+      }
+    }
 
     async function loadData() {
       try {
         const res = await fetch('data.json');
-        if (!res.ok) throw new Error('Network response was not ok');
+        if (!res.ok) throw new Error('Network ok');
         return await res.json();
       } catch (e) {
-        console.error('Failed to load data.json', e);
-        document.getElementById('wall').innerHTML = '<div class="status" style="margin-top: 50px;">Error loading data.json. Ensure fetch_news.py has run.</div>';
+        document.getElementById('wall').innerHTML = '<div class="status">Error loading data.json. Ensure fetch_news.py has run.</div>';
         return null;
       }
     }
 
     function buildItemHTML(item, sourceName) {
-      return `
-        <a href="${item.link}" class="item" target="_blank" rel="noopener noreferrer">
-          <span class="source-tag">[${sourceName.toUpperCase()}]</span>
-          ${item.title}
-        </a>
-      `;
+      return `<a href="${item.link}" class="item" target="_blank" rel="noopener noreferrer"><span class="source-tag">[${sourceName.toUpperCase()}]</span>${item.title}</a>`;
     }
 
     async function init() {
+      loadWeather();
       const data = await loadData();
       if (!data) return;
 
@@ -185,35 +256,23 @@
 
       groups.forEach(group => {
         let itemsHTML = '';
-        
-        // Aggregate all sources for this row
         group.sources.forEach(src => {
           if (data[src] && data[src].length > 0) {
-            data[src].forEach(item => {
-              itemsHTML += buildItemHTML(item, src);
-            });
+            data[src].forEach(item => { itemsHTML += buildItemHTML(item, src); });
           }
         });
 
-        if (!itemsHTML) {
-          itemsHTML = `<span class="item" style="pointer-events:none;"><span class="source-tag">[SYS]</span>No data found for ${group.label}</span>`;
-        }
+        if (!itemsHTML) itemsHTML = `<span class="item" style="pointer-events:none;"><span class="source-tag">[SYS]</span>No data found</span>`;
 
-        // Duplicate the string to create the seamless infinite scroll loop
         const seamlessHTML = itemsHTML + itemsHTML;
-
-        const rowHTML = `
+        wall.insertAdjacentHTML('beforeend', `
           <div class="row">
             <div class="label">${group.label}</div>
             <div class="track-wrapper">
-              <div class="track">
-                ${seamlessHTML}
-              </div>
+              <div class="track">${seamlessHTML}</div>
             </div>
           </div>
-        `;
-        
-        wall.insertAdjacentHTML('beforeend', rowHTML);
+        `);
       });
     }
 
