@@ -1,103 +1,565 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Command Center v3.1</title>
-    <style>
-        :root { --bg: #050505; --card: #111; --accent: #3b82f6; --text: #eee; --ddg: #de5833; }
-        body { background: var(--bg); color: var(--text); font-family: sans-serif; margin: 0; padding: 60px 20px 60px 70px; display: flex; justify-content: center; }
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        /* Ticker System */
-        .t-wrap { position: fixed; background: #000; overflow: hidden; z-index: 1000; display: flex; align-items: center; border: 1px solid #222; }
-        .h-tick { width: 100%; height: 35px; left: 0; }
-        .top { top: 0; border-bottom: 2px solid #013369; } /* NFL */
-        .bottom { bottom: 0; border-top: 2px solid #ed174c; } /* NBA */
-        .left-tick { top: 0; left: 0; width: 50px; height: 100%; border-right: 2px solid #002d72; } /* MLB */
-        
-        .move { display: inline-block; white-space: nowrap; animation: linear infinite; }
-        .h-move { animation-name: h-anim; animation-duration: 90s; }
-        .v-move { transform: rotate(-90deg); transform-origin: left top; position: absolute; top: 100%; left: 10px; animation-name: v-anim; animation-duration: 90s; }
+  <!-- SEO Meta -->
+  <title>Command Center — Real-Time News, Sports & Weather Dashboard</title>
+  <meta name="description" content="Live news wire, NFL, NBA, MLB scores, weather and secure search in one unified command center dashboard.">
+  <meta name="keywords" content="news dashboard, sports ticker, live scores, NFL, NBA, MLB, weather, command center">
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="Command Center">
+  <link rel="canonical" href="https://yoursite.com/">
 
-        @keyframes h-anim { 0% { transform: translateX(0); } 100% { transform: translateX(-100%); } }
-        @keyframes v-anim { 0% { transform: translateY(0) rotate(-90deg); } 100% { transform: translateY(-100%) rotate(-90deg); } }
+  <!-- Open Graph / Social -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://yoursite.com/">
+  <meta property="og:title" content="Command Center — Real-Time News & Sports Dashboard">
+  <meta property="og:description" content="Live news wire, NFL, NBA, MLB scores, weather and secure search in one unified dashboard.">
+  <meta property="og:image" content="https://yoursite.com/og-image.png">
 
-        .move a { padding: 0 30px; color: #fff; font-size: 0.8rem; font-weight: bold; text-decoration: none; text-transform: uppercase; }
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Command Center — Real-Time Dashboard">
+  <meta name="twitter:description" content="Live news wire, sports scores, weather and secure search.">
+  <meta name="twitter:image" content="https://yoursite.com/og-image.png">
 
-        /* Dashboard Grid */
-        .grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; max-width: 1500px; width: 100%; }
-        .box { background: var(--card); border: 1px solid #222; border-radius: 8px; padding: 15px; overflow-y: auto; max-height: 550px; }
-        
-        .weather { grid-column: span 1; border: 2px solid var(--accent); text-align: center; }
-        .search { grid-column: span 1; border: 2px solid var(--ddg); }
-        .hero { grid-column: span 3; grid-row: span 2; }
-        
-        input { width: 70%; background: #222; border: 1px solid #444; color: #fff; padding: 10px; border-radius: 4px; outline: none; }
-        button { background: var(--ddg); border: none; padding: 10px; border-radius: 4px; cursor: pointer; font-size: 1.2rem; }
-        
-        h2 { font-size: 0.7rem; color: var(--accent); text-transform: uppercase; letter-spacing: 2px; }
-        .news-link { color: #ccc; text-decoration: none; display: block; margin-bottom: 10px; font-size: 0.9rem; border-bottom: 1px solid #222; padding-bottom: 5px; }
-        .news-link:hover { color: var(--accent); }
-    </style>
+  <!-- PWA / Favicon -->
+  <meta name="theme-color" content="#050505">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="manifest" href="/manifest.json">
+
+  <!-- Preconnect for performance -->
+  <link rel="preconnect" href="https://api.open-meteo.com">
+  <link rel="preconnect" href="https://ipapi.co">
+
+  <!-- Structured Data (JSON-LD) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "Command Center",
+    "description": "Real-time news, sports scores, weather and search dashboard",
+    "url": "https://yoursite.com/",
+    "applicationCategory": "NewsApplication",
+    "operatingSystem": "Any",
+    "offers": { "@type": "Offer", "price": "0" }
+  }
+  </script>
+
+  <style>
+    /* ============================================================
+       DESIGN TOKENS
+    ============================================================ */
+    :root {
+      --bg:         #050505;
+      --surface:    #0d0d0d;
+      --card:       #111213;
+      --border:     #1f2023;
+      --border-hi:  #2a2d32;
+      --text:       #e8e9ea;
+      --muted:      #6b7280;
+      --dim:        #374151;
+
+      --blue:       #3b82f6;
+      --blue-dim:   #1d3f7a;
+      --red:        #ef4444;
+      --orange:     #de5833;
+      --nfl:        #013369;
+      --nba:        #c8102e;
+      --mlb:        #002d72;
+
+      --tick-h:     34px;
+      --sidebar-w:  52px;
+      --radius:     6px;
+      --font:       'Courier New', Courier, monospace;
+      --font-ui:    system-ui, -apple-system, sans-serif;
+    }
+
+    /* ============================================================
+       RESET & BASE
+    ============================================================ */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html { font-size: 16px; scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font-ui);
+      min-height: 100vh;
+      overflow-x: hidden;
+      /* Ticker spacing: top + bottom tickers, left sidebar */
+      padding: calc(var(--tick-h) + 4px) 8px calc(var(--tick-h) + 4px) calc(var(--sidebar-w) + 8px);
+    }
+
+    /* ============================================================
+       SKIP LINK (Accessibility)
+    ============================================================ */
+    .skip-link {
+      position: absolute;
+      top: -100%;
+      left: 8px;
+      background: var(--blue);
+      color: #fff;
+      padding: 8px 16px;
+      border-radius: 0 0 var(--radius) var(--radius);
+      font-size: 0.875rem;
+      font-weight: 600;
+      text-decoration: none;
+      z-index: 9999;
+      transition: top 0.2s;
+    }
+    .skip-link:focus { top: 0; }
+
+    /* ============================================================
+       TICKERS
+    ============================================================ */
+    .ticker {
+      position: fixed;
+      left: 0; right: 0;
+      height: var(--tick-h);
+      background: #000;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      z-index: 100;
+      border: 1px solid var(--border);
+    }
+    .ticker--top    { top: 0;    border-bottom: 2px solid var(--nfl); }
+    .ticker--bottom { bottom: 0; border-top:    2px solid var(--nba); }
+    .ticker--left   {
+      top: var(--tick-h);
+      bottom: var(--tick-h);
+      left: 0;
+      width: var(--sidebar-w);
+      right: auto;
+      height: auto;
+      flex-direction: column;
+      border-right: 2px solid var(--mlb);
+      border-top: none;
+      border-bottom: none;
+      justify-content: flex-start;
+      overflow: hidden;
+    }
+
+    .ticker__label {
+      font-size: 9px;
+      font-weight: 700;
+      letter-spacing: 0.15em;
+      color: var(--muted);
+      padding: 0 10px;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .ticker--left .ticker__label {
+      writing-mode: vertical-rl;
+      transform: rotate(180deg);
+      padding: 10px 0;
+      color: #4a7ab5;
+    }
+
+    .ticker__track {
+      display: inline-flex;
+      white-space: nowrap;
+      animation: tick-h 100s linear infinite;
+    }
+    .ticker--left .ticker__track {
+      flex-direction: column;
+      animation: tick-v 80s linear infinite;
+      display: flex;
+    }
+
+    .ticker__track a {
+      color: #ccc;
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      text-decoration: none;
+      letter-spacing: 0.04em;
+      padding: 0 24px;
+      white-space: nowrap;
+    }
+    .ticker--left .ticker__track a {
+      writing-mode: vertical-rl;
+      transform: rotate(180deg);
+      padding: 16px 0;
+      font-size: 10px;
+    }
+    .ticker__track a:hover, .ticker__track a:focus {
+      color: #fff;
+      text-decoration: underline;
+    }
+    .ticker__track a span { color: var(--dim); margin-right: 5px; }
+
+    @keyframes tick-h {
+      0%   { transform: translateX(0); }
+      100% { transform: translateX(-50%); }
+    }
+    @keyframes tick-v {
+      0%   { transform: translateY(0); }
+      100% { transform: translateY(-50%); }
+    }
+
+    /* Pause on hover/focus for accessibility */
+    .ticker:hover .ticker__track,
+    .ticker:focus-within .ticker__track { animation-play-state: paused; }
+
+    /* ============================================================
+       GRID LAYOUT
+    ============================================================ */
+    .grid {
+      display: grid;
+      grid-template-columns: 200px 200px 1fr;
+      grid-template-rows: auto 1fr;
+      gap: 10px;
+      max-width: 1600px;
+      min-height: calc(100vh - var(--tick-h) * 2 - 24px);
+    }
+
+    /* ============================================================
+       CARDS
+    ============================================================ */
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 14px;
+      overflow: hidden;
+    }
+
+    .card--weather { border-color: var(--blue);   text-align: center; }
+    .card--search  { border-color: var(--orange); }
+    .card--wire    { grid-column: 3; grid-row: 1 / 3; overflow-y: auto; max-height: calc(100vh - var(--tick-h)*2 - 28px); }
+    .card--mlb     { grid-column: 1; grid-row: 2; overflow-y: auto; border-color: var(--mlb); }
+    .card--info    { grid-column: 2; grid-row: 2; overflow-y: auto; }
+
+    .card__heading {
+      font-size: 9px;
+      font-weight: 700;
+      color: var(--blue);
+      text-transform: uppercase;
+      letter-spacing: 0.25em;
+      margin-bottom: 12px;
+      font-family: var(--font);
+    }
+    .card--search  .card__heading { color: var(--orange); }
+    .card--mlb     .card__heading { color: #4a7ab5; }
+
+    /* ============================================================
+       WEATHER
+    ============================================================ */
+    .weather__temp {
+      font-size: 48px;
+      font-weight: 300;
+      color: var(--blue);
+      line-height: 1;
+      font-family: var(--font);
+      letter-spacing: -0.02em;
+    }
+    .weather__city { font-size: 12px; color: var(--muted); margin-top: 6px; }
+    .weather__isp  { font-size: 10px; color: var(--dim);   margin-top: 3px; }
+    .weather__code { font-size: 11px; color: #555; margin-top: 8px; font-family: var(--font); }
+
+    /* ============================================================
+       SEARCH
+    ============================================================ */
+    .search-form {
+      display: flex;
+      gap: 8px;
+      margin-top: 4px;
+    }
+    .search-form input {
+      flex: 1;
+      min-width: 0;
+      background: #1a1b1e;
+      border: 1px solid var(--border-hi);
+      color: var(--text);
+      padding: 9px 12px;
+      border-radius: var(--radius);
+      font-size: 13px;
+      outline: none;
+      transition: border-color 0.2s;
+      font-family: var(--font-ui);
+    }
+    .search-form input:focus {
+      border-color: var(--orange);
+      box-shadow: 0 0 0 2px rgba(222,88,51,0.2);
+    }
+    .search-form button {
+      background: var(--orange);
+      border: none;
+      color: #fff;
+      padding: 9px 14px;
+      border-radius: var(--radius);
+      cursor: pointer;
+      font-size: 13px;
+      font-weight: 600;
+      transition: opacity 0.15s, transform 0.1s;
+      white-space: nowrap;
+    }
+    .search-form button:hover  { opacity: 0.9; }
+    .search-form button:active { transform: scale(0.97); }
+    .search-form button:focus  { outline: 2px solid var(--orange); outline-offset: 2px; }
+
+    /* ============================================================
+       NEWS ITEMS
+    ============================================================ */
+    .news-item {
+      display: block;
+      color: #b0b4bb;
+      font-size: 12px;
+      line-height: 1.45;
+      text-decoration: none;
+      padding: 8px 0;
+      border-bottom: 1px solid var(--border);
+      transition: color 0.15s;
+    }
+    .news-item:last-child { border-bottom: none; }
+    .news-item:hover, .news-item:focus {
+      color: var(--blue);
+      outline: none;
+    }
+    .news-item:focus-visible { outline: 2px solid var(--blue); outline-offset: 2px; border-radius: 2px; }
+    .news-item::before { content: "▸"; color: var(--dim); margin-right: 6px; font-size: 10px; }
+
+    /* ============================================================
+       STATUS / LOADING
+    ============================================================ */
+    .status {
+      color: var(--dim);
+      font-size: 11px;
+      font-family: var(--font);
+      text-align: center;
+      padding: 24px 0;
+    }
+    .status::before { content: "◌ "; }
+
+    /* ============================================================
+       RESPONSIVE — TABLET
+    ============================================================ */
+    @media (max-width: 900px) {
+      body { padding-left: 8px; }
+      .ticker--left { display: none; }
+
+      .grid {
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto auto auto auto;
+      }
+      .card--wire { grid-column: 1 / 3; grid-row: 3; max-height: 400px; }
+      .card--mlb  { grid-column: 1;     grid-row: 4; }
+      .card--info { grid-column: 2;     grid-row: 4; }
+    }
+
+    /* ============================================================
+       RESPONSIVE — MOBILE
+    ============================================================ */
+    @media (max-width: 560px) {
+      body { padding: calc(var(--tick-h) + 4px) 6px; }
+
+      .grid {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+        gap: 8px;
+      }
+      .card--weather,
+      .card--search,
+      .card--wire,
+      .card--mlb,
+      .card--info { grid-column: 1; grid-row: auto; max-height: none; }
+
+      .card--wire { max-height: 320px; overflow-y: auto; }
+
+      .ticker__track a { font-size: 10px; padding: 0 16px; }
+    }
+
+    /* ============================================================
+       REDUCED MOTION
+    ============================================================ */
+    @media (prefers-reduced-motion: reduce) {
+      .ticker__track { animation: none; }
+    }
+
+    /* ============================================================
+       HIGH CONTRAST MODE
+    ============================================================ */
+    @media (forced-colors: active) {
+      .ticker { border-color: ButtonText; }
+      .news-item { color: LinkText; }
+      .card { border-color: ButtonText; }
+    }
+  </style>
 </head>
+
 <body>
+  <!-- Skip navigation for screen readers -->
+  <a class="skip-link" href="#main-content">Skip to main content</a>
 
-    <div class="t-wrap h-tick top"><div id="nfl-t" class="move h-move"></div></div>
-    <div class="t-wrap left-tick"><div id="mlb-t" class="move v-move"></div></div>
+  <!-- ── NFL TICKER (top) ─────────────────────────────────────── -->
+  <nav class="ticker ticker--top" aria-label="NFL news ticker" role="marquee" aria-live="off">
+    <span class="ticker__label" aria-hidden="true">NFL</span>
+    <div class="ticker__track" id="nfl-track" aria-hidden="true"></div>
+  </nav>
 
+  <!-- ── MLB TICKER (left sidebar) ────────────────────────────── -->
+  <nav class="ticker ticker--left" aria-label="MLB news ticker" aria-hidden="true">
+    <div class="ticker__track" id="mlb-side-track"></div>
+  </nav>
+
+  <!-- ── MAIN CONTENT ─────────────────────────────────────────── -->
+  <main id="main-content">
     <div class="grid">
-        <div class="box weather">
-            <h2>System Status</h2>
-            <div id="w-out"><p style="font-size: 3rem; margin: 0;">--°</p><p>Detecting...</p></div>
-        </div>
 
-        <div class="box search">
-            <h2>Secure Search</h2>
-            <form action="https://duckduckgo.com/" method="GET" target="_blank" style="display:flex; gap:10px; margin-top:10px;">
-                <input type="text" name="q" placeholder="DuckDuckGo..." required>
-                <button type="submit">🦆</button>
-            </form>
+      <!-- WEATHER -->
+      <section class="card card--weather" aria-labelledby="weather-heading">
+        <h2 class="card__heading" id="weather-heading">Weather</h2>
+        <div id="weather-out" aria-live="polite" aria-atomic="true">
+          <div class="weather__temp" aria-label="Temperature loading">--°</div>
+          <p class="weather__city">Detecting location…</p>
         </div>
+      </section>
 
-        <div class="box hero">
-            <h2>Global News Wire</h2>
-            <div id="wire-out"></div>
-        </div>
+      <!-- SEARCH -->
+      <section class="card card--search" aria-labelledby="search-heading">
+        <h2 class="card__heading" id="search-heading">Secure Search</h2>
+        <form class="search-form" action="https://duckduckgo.com/" method="GET" target="_blank" rel="noopener noreferrer" role="search" aria-label="DuckDuckGo secure search">
+          <label for="search-input" class="sr-only">Search query</label>
+          <input id="search-input" type="search" name="q" placeholder="DuckDuckGo…" autocomplete="off" required aria-required="true">
+          <button type="submit" aria-label="Search with DuckDuckGo">Go ↗</button>
+        </form>
+      </section>
 
-        <div class="box">
-            <h2>InformationWeek</h2>
-            <div id="info-out"></div>
+      <!-- NEWS WIRE -->
+      <section class="card card--wire" aria-labelledby="wire-heading">
+        <h2 class="card__heading" id="wire-heading">Global News Wire</h2>
+        <div id="wire-out" aria-live="polite" aria-busy="true">
+          <p class="status">Loading Reuters feed…</p>
         </div>
+      </section>
+
+      <!-- MLB -->
+      <section class="card card--mlb" aria-labelledby="mlb-heading">
+        <h2 class="card__heading" id="mlb-heading">MLB</h2>
+        <div id="mlb-out" aria-live="polite" aria-busy="true">
+          <p class="status">Loading MLB feed…</p>
+        </div>
+      </section>
+
+      <!-- INFOWEEK -->
+      <section class="card card--info" aria-labelledby="info-heading">
+        <h2 class="card__heading" id="info-heading">InformationWeek</h2>
+        <div id="info-out" aria-live="polite" aria-busy="true">
+          <p class="status">Loading feed…</p>
+        </div>
+      </section>
+
     </div>
+  </main>
 
-    <div class="t-wrap h-tick bottom"><div id="nba-t" class="move h-move"></div></div>
+  <!-- ── NBA TICKER (bottom) ──────────────────────────────────── -->
+  <nav class="ticker ticker--bottom" aria-label="NBA news ticker" role="marquee" aria-live="off">
+    <span class="ticker__label" aria-hidden="true">NBA</span>
+    <div class="ticker__track" id="nba-track" aria-hidden="true"></div>
+  </nav>
 
-    <script>
-        async function init() {
-            try {
-                const res = await fetch('data.json');
-                const d = await res.json();
-                
-                const l = (item) => `<a class="news-link" href="${item.link}" target="_blank">▶ ${item.title}</a>`;
-                const t = (league, item) => `<a href="${item.link}" target="_blank">[${league}] ${item.title} • </a>`;
+  <!-- ── VISUALLY HIDDEN UTILITY ──────────────────────────────── -->
+  <style>
+    .sr-only {
+      position: absolute;
+      width: 1px; height: 1px;
+      padding: 0; margin: -1px;
+      overflow: hidden;
+      clip: rect(0,0,0,0);
+      white-space: nowrap;
+      border: 0;
+    }
+  </style>
 
-                document.getElementById('wire-out').innerHTML = d.wire.map(l).join('');
-                document.getElementById('info-out').innerHTML = d.info.map(l).join('');
-                
-                document.getElementById('nfl-t').innerHTML = (d.nfl.map(i => t('NFL', i)).join('')).repeat(5);
-                document.getElementById('nba-t').innerHTML = (d.nba.map(i => t('NBA', i)).join('')).repeat(5);
-                document.getElementById('mlb-t').innerHTML = (d.mlb.map(i => t('MLB', i)).join('')).repeat(5);
+  <script>
+    /* ============================================================
+       API CONFIG — point this at your backend
+    ============================================================ */
+    const API_BASE = window.location.hostname === 'localhost'
+      ? 'http://localhost:3000/api'
+      : '/api';
 
-                // Weather/ISP Logic
-                const geo = await fetch('https://ipapi.co/json/').then(r => r.json());
-                const w = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${geo.latitude}&longitude=${geo.longitude}&current_weather=true&temperature_unit=fahrenheit`).then(r => r.json());
-                document.getElementById('w-out').innerHTML = `
-                    <p style="font-size: 3rem; margin: 0; color:var(--accent);">${Math.round(w.current_weather.temperature)}°F</p>
-                    <p>${geo.city}, ${geo.region_code}</p>
-                    <p style="font-size:0.6rem; color:#666;">${geo.org}</p>
-                `;
-            } catch (e) { console.error("Data sync pending..."); }
-        }
-        init();
-    </script>
+    /* ============================================================
+       FEED LOADER
+    ============================================================ */
+    async function loadSection(endpoint, containerId) {
+      const el = document.getElementById(containerId);
+      try {
+        const res = await fetch(`${API_BASE}/${endpoint}`);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const items = await res.json();
+        el.setAttribute('aria-busy', 'false');
+        el.innerHTML = items.map((item, i) =>
+          `<a class="news-item" href="${item.link}" target="_blank" rel="noopener noreferrer"
+              tabindex="0" aria-label="${item.title}">${item.title}</a>`
+        ).join('');
+      } catch (err) {
+        el.setAttribute('aria-busy', 'false');
+        el.innerHTML = `<p class="status" role="alert">Feed unavailable — ${err.message}</p>`;
+      }
+    }
+
+    async function loadTicker(endpoint, trackId) {
+      const track = document.getElementById(trackId);
+      try {
+        const res = await fetch(`${API_BASE}/${endpoint}`);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const items = await res.json();
+        const html = items.map(item =>
+          `<a href="${item.link}" target="_blank" rel="noopener noreferrer">
+            <span aria-hidden="true">[${endpoint.toUpperCase()}]</span>${item.title}
+          </a>`
+        ).join('');
+        track.innerHTML = html + html; /* Duplicate for seamless loop */
+      } catch {
+        track.innerHTML = `<a href="#">[${endpoint.toUpperCase()}] Feed loading…</a>`.repeat(6);
+      }
+    }
+
+    /* ============================================================
+       WEATHER
+    ============================================================ */
+    async function loadWeather() {
+      const el = document.getElementById('weather-out');
+      try {
+        const res = await fetch(`${API_BASE}/weather`);
+        if (!res.ok) throw new Error('Weather API error');
+        const d = await res.json();
+        el.innerHTML = `
+          <div class="weather__temp" aria-label="${Math.round(d.temperature)} degrees Fahrenheit">
+            ${Math.round(d.temperature)}°F
+          </div>
+          <p class="weather__city">${d.city}, ${d.region}</p>
+          <p class="weather__isp">${d.org}</p>
+          <p class="weather__code">WMO ${d.weathercode}</p>
+        `;
+      } catch {
+        el.innerHTML = `
+          <div class="weather__temp" aria-label="Temperature unavailable">--°</div>
+          <p class="weather__city">Unavailable</p>
+        `;
+      }
+    }
+
+    /* ============================================================
+       INIT
+    ============================================================ */
+    function init() {
+      loadWeather();
+      loadSection('wire', 'wire-out');
+      loadSection('mlb',  'mlb-out');
+      loadSection('info', 'info-out');
+      loadTicker('nfl', 'nfl-track');
+      loadTicker('nba', 'nba-track');
+      loadTicker('mlb', 'mlb-side-track');
+    }
+
+    document.addEventListener('DOMContentLoaded', init);
+  </script>
 </body>
 </html>

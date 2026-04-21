@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 900 620" xmlns="http://www.w3.org/2000/svg" font-family="monospace" font-size="11">
+
+  <!-- Background -->
+  <rect width="900" height="620" fill="#f8f8f8"/>
+  <text x="20" y="22" font-size="14" font-weight="bold" fill="#111">Command Center — Wireframe (Desktop)</text>
+
+  <!-- NFL Ticker (top) -->
+  <rect x="0" y="30" width="900" height="28" fill="#dde8f5" stroke="#013369" stroke-width="1.5"/>
+  <text x="10" y="49" fill="#013369" font-weight="bold">[ NFL ] Headline • Headline • Headline • Headline • Headline • Headline •</text>
+  <text x="820" y="49" fill="#888" font-size="9">scrolls →</text>
+
+  <!-- MLB Sidebar (left) -->
+  <rect x="0" y="58" width="44" height="530" fill="#dde8f5" stroke="#002d72" stroke-width="1.5"/>
+  <text transform="rotate(-90,22,330)" x="22" y="330" text-anchor="middle" fill="#002d72" font-weight="bold">MLB TICKER ↑</text>
+
+  <!-- Main Grid -->
+  <!-- Weather Card -->
+  <rect x="52" y="66" width="180" height="130" rx="4" fill="#fff" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="62" y="84" fill="#3b82f6" font-size="8" font-weight="bold" letter-spacing="2">WEATHER</text>
+  <text x="100" y="140" text-anchor="middle" font-size="36" fill="#3b82f6" font-weight="300">72°F</text>
+  <text x="100" y="158" text-anchor="middle" fill="#888" font-size="10">Charlotte, NC</text>
+  <text x="100" y="172" text-anchor="middle" fill="#bbb" font-size="9">ISP Info</text>
+
+  <!-- Search Card -->
+  <rect x="242" y="66" width="180" height="130" rx="4" fill="#fff" stroke="#de5833" stroke-width="1.5"/>
+  <text x="252" y="84" fill="#de5833" font-size="8" font-weight="bold" letter-spacing="2">SECURE SEARCH</text>
+  <rect x="262" y="110" width="110" height="24" rx="3" fill="#f0f0f0" stroke="#ccc"/>
+  <text x="318" y="126" text-anchor="middle" fill="#aaa" font-size="10">DuckDuckGo…</text>
+  <rect x="378" y="110" width="34" height="24" rx="3" fill="#de5833"/>
+  <text x="395" y="126" text-anchor="middle" fill="#fff" font-size="10">Go</text>
+  <text x="322" y="170" text-anchor="middle" fill="#bbb" font-size="9">Opens DDG in new tab</text>
+
+  <!-- News Wire (hero, spans 2 rows) -->
+  <rect x="432" y="66" width="460" height="516" rx="4" fill="#fff" stroke="#ccc" stroke-width="1"/>
+  <text x="442" y="84" fill="#3b82f6" font-size="8" font-weight="bold" letter-spacing="2">GLOBAL NEWS WIRE</text>
+  <line x1="442" y1="90" x2="882" y2="90" stroke="#eee"/>
+  <text x="452" y="108" fill="#555" font-size="10">▸ Headline item one — short description text here</text>
+  <text x="452" y="126" fill="#555" font-size="10">▸ Headline item two — short description text here</text>
+  <text x="452" y="144" fill="#555" font-size="10">▸ Headline item three — short description text here</text>
+  <text x="452" y="162" fill="#555" font-size="10">▸ Headline item four — short description text here</text>
+  <text x="452" y="180" fill="#555" font-size="10">▸ Headline item five — short description text here</text>
+  <text x="452" y="198" fill="#555" font-size="10">▸ Headline item six — …</text>
+  <text x="452" y="220" fill="#bbb" font-size="9">[ …up to 20 items, scrollable ]</text>
+  <text x="660" y="560" text-anchor="middle" fill="#bbb" font-size="9">Scrollable / overflow-y: auto</text>
+
+  <!-- MLB Card -->
+  <rect x="52" y="206" width="180" height="376" rx="4" fill="#fff" stroke="#002d72" stroke-width="1.5"/>
+  <text x="62" y="224" fill="#4a7ab5" font-size="8" font-weight="bold" letter-spacing="2">MLB</text>
+  <line x1="62" y1="230" x2="222" y2="230" stroke="#eee"/>
+  <text x="72" y="248" fill="#555" font-size="10">▸ Headline one</text>
+  <text x="72" y="268" fill="#555" font-size="10">▸ Headline two</text>
+  <text x="72" y="288" fill="#555" font-size="10">▸ Headline three</text>
+  <text x="72" y="308" fill="#555" font-size="10">▸ Headline four</text>
+  <text x="72" y="328" fill="#555" font-size="10">▸ …</text>
+  <text x="142" y="560" text-anchor="middle" fill="#bbb" font-size="9">scrollable</text>
+
+  <!-- InformationWeek Card -->
+  <rect x="242" y="206" width="180" height="376" rx="4" fill="#fff" stroke="#ccc" stroke-width="1"/>
+  <text x="252" y="224" fill="#3b82f6" font-size="8" font-weight="bold" letter-spacing="2">INFORMATIONWEEK</text>
+  <line x1="252" y1="230" x2="412" y2="230" stroke="#eee"/>
+  <text x="262" y="248" fill="#555" font-size="10">▸ Tech headline one</text>
+  <text x="262" y="268" fill="#555" font-size="10">▸ Tech headline two</text>
+  <text x="262" y="288" fill="#555" font-size="10">▸ Tech headline three</text>
+  <text x="262" y="308" fill="#555" font-size="10">▸ Tech headline four</text>
+  <text x="262" y="328" fill="#555" font-size="10">▸ …</text>
+  <text x="332" y="560" text-anchor="middle" fill="#bbb" font-size="9">scrollable</text>
+
+  <!-- NBA Ticker (bottom) -->
+  <rect x="0" y="588" width="900" height="28" fill="#f5dde0" stroke="#ed174c" stroke-width="1.5"/>
+  <text x="10" y="607" fill="#c8102e" font-weight="bold">[ NBA ] Headline • Headline • Headline • Headline • Headline •</text>
+  <text x="820" y="607" fill="#888" font-size="9">scrolls →</text>
+
+  <!-- Annotations -->
+  <text x="700" y="44" fill="#555" font-size="9" font-style="italic">aria-live="off", animation pauses on hover</text>
+  <text x="700" y="600" fill="#555" font-size="9" font-style="italic">aria-live="off", animation pauses on hover</text>
+</svg>
