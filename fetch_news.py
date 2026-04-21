@@ -7,7 +7,7 @@ feeds = {
     "nba": "https://www.cbssports.com/rss/headlines/nba/",
     "mlb": "https://www.espn.com/espn/rss/mlb/news",
     "info": "https://www.informationweek.com/rss.xml",
-    "wire": "https://feeds.reuters.com/reuters/topNews",
+    "wire": "https://news.yahoo.com/rss/world",
     "ap": "https://feeds.apnews.com/rss/topnews",
     "bbc": "http://feeds.bbci.co.uk/news/rss.xml",
     "npr": "https://feeds.npr.org/1001/rss.xml",
