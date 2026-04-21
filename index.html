@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Command Center — Ticker Wall</title>
+  <title>Bento-Desk | Command Center</title>
   <style>
     :root {
       --bg: #050505;
@@ -11,7 +11,8 @@
       --dim: #4a4d52;
       --font: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace;
       
-      /* Neon Accents for 9 rows */
+      /* Neon Accents */
+      --c0: #FFB612; /* Live Scores Gold */
       --c1: #00e5ff; --c2: #39ff14; --c3: #ffea00; 
       --c4: #ff0055; --c5: #b026ff; --c6: #ff8800; 
       --c7: #00ff88; --c8: #ff00aa; --c9: #8800ff;
@@ -29,26 +30,22 @@
       flex-direction: column;
     }
 
-    /* Top Overlay (Search & Weather) */
-    #overlay-ui {
-      position: absolute;
-      top: 0; left: 0; right: 0;
-      height: 60px;
+    /* Fixed Top Bar Layout */
+    #top-bar {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      padding: 0 20px 0 170px;
-      background: linear-gradient(180deg, rgba(5,5,5,0.95) 0%, rgba(5,5,5,0) 100%);
-      z-index: 100;
-      pointer-events: none;
+      padding: 15px 30px;
+      background: #0a0a0a;
+      border-bottom: 1px solid #1a1a1a;
+      flex-shrink: 0;
     }
 
     /* Search Form */
     #ddg-search {
       display: flex;
       align-items: center;
-      pointer-events: auto;
-      background: rgba(20, 20, 20, 0.8);
+      background: #141414;
       border: 1px solid #333;
       border-radius: 4px;
       overflow: hidden;
@@ -57,39 +54,39 @@
       background: transparent;
       border: none;
       color: #fff;
-      padding: 8px 12px;
+      padding: 10px 15px;
       font-family: var(--font);
       outline: none;
-      width: 200px;
+      width: 250px;
+      font-size: 14px;
     }
+    #ddg-search input:focus { background: #1a1a1a; }
     #ddg-search button {
-      background: #333;
+      background: #222;
       border: none;
-      padding: 8px 12px;
+      border-left: 1px solid #333;
+      padding: 10px 15px;
       cursor: pointer;
       font-size: 16px;
       transition: background 0.2s;
     }
-    #ddg-search button:hover { background: #555; }
+    #ddg-search button:hover { background: #444; }
 
     /* Weather Widget */
     #weather-widget {
-      pointer-events: auto;
       display: flex;
       flex-direction: column;
       align-items: flex-end;
       font-size: 14px;
-      text-shadow: 0 2px 4px rgba(0,0,0,0.8);
     }
-    .w-temp { font-size: 20px; font-weight: bold; color: var(--c1); }
-    .w-loc { color: #999; font-size: 11px; }
+    .w-temp { font-size: 22px; font-weight: bold; color: var(--c1); }
+    .w-loc { color: #888; font-size: 12px; margin-top: 2px; }
 
     /* Wall Container */
     #wall {
       flex: 1;
       display: flex;
       flex-direction: column;
-      margin-top: 30px;
     }
 
     /* Row Layout */
@@ -121,26 +118,28 @@
       box-shadow: 15px 0 20px rgba(0,0,0,0.9);
     }
 
-    /* Label & Hover Colors for 9 rows */
-    .row:nth-child(1) .label { color: var(--c1); border-right-color: rgba(0,229,255,0.3); }
-    .row:nth-child(2) .label { color: var(--c2); border-right-color: rgba(57,255,20,0.3); }
-    .row:nth-child(3) .label { color: var(--c3); border-right-color: rgba(255,234,0,0.3); }
-    .row:nth-child(4) .label { color: var(--c4); border-right-color: rgba(255,0,85,0.3); }
-    .row:nth-child(5) .label { color: var(--c5); border-right-color: rgba(176,38,255,0.3); }
-    .row:nth-child(6) .label { color: var(--c6); border-right-color: rgba(255,136,0,0.3); }
-    .row:nth-child(7) .label { color: var(--c7); border-right-color: rgba(0,255,136,0.3); }
-    .row:nth-child(8) .label { color: var(--c8); border-right-color: rgba(255,0,170,0.3); }
-    .row:nth-child(9) .label { color: var(--c9); border-right-color: rgba(136,0,255,0.3); }
+    /* Label & Hover Colors */
+    .row.live-row .label { color: var(--bg); background: var(--c0); border-right-color: var(--c0); text-shadow: none; }
+    .row:nth-child(2) .label { color: var(--c1); border-right-color: rgba(0,229,255,0.3); }
+    .row:nth-child(3) .label { color: var(--c2); border-right-color: rgba(57,255,20,0.3); }
+    .row:nth-child(4) .label { color: var(--c3); border-right-color: rgba(255,234,0,0.3); }
+    .row:nth-child(5) .label { color: var(--c4); border-right-color: rgba(255,0,85,0.3); }
+    .row:nth-child(6) .label { color: var(--c5); border-right-color: rgba(176,38,255,0.3); }
+    .row:nth-child(7) .label { color: var(--c6); border-right-color: rgba(255,136,0,0.3); }
+    .row:nth-child(8) .label { color: var(--c7); border-right-color: rgba(0,255,136,0.3); }
+    .row:nth-child(9) .label { color: var(--c8); border-right-color: rgba(255,0,170,0.3); }
+    .row:nth-child(10) .label { color: var(--c9); border-right-color: rgba(136,0,255,0.3); }
 
-    .row:nth-child(1) .item:hover .source-tag { color: var(--c1); }
-    .row:nth-child(2) .item:hover .source-tag { color: var(--c2); }
-    .row:nth-child(3) .item:hover .source-tag { color: var(--c3); }
-    .row:nth-child(4) .item:hover .source-tag { color: var(--c4); }
-    .row:nth-child(5) .item:hover .source-tag { color: var(--c5); }
-    .row:nth-child(6) .item:hover .source-tag { color: var(--c6); }
-    .row:nth-child(7) .item:hover .source-tag { color: var(--c7); }
-    .row:nth-child(8) .item:hover .source-tag { color: var(--c8); }
-    .row:nth-child(9) .item:hover .source-tag { color: var(--c9); }
+    .row.live-row .item:hover .source-tag { color: var(--c0); }
+    .row:nth-child(2) .item:hover .source-tag { color: var(--c1); }
+    .row:nth-child(3) .item:hover .source-tag { color: var(--c2); }
+    .row:nth-child(4) .item:hover .source-tag { color: var(--c3); }
+    .row:nth-child(5) .item:hover .source-tag { color: var(--c4); }
+    .row:nth-child(6) .item:hover .source-tag { color: var(--c5); }
+    .row:nth-child(7) .item:hover .source-tag { color: var(--c6); }
+    .row:nth-child(8) .item:hover .source-tag { color: var(--c7); }
+    .row:nth-child(9) .item:hover .source-tag { color: var(--c8); }
+    .row:nth-child(10) .item:hover .source-tag { color: var(--c9); }
 
     /* Scrolling Track */
     .track-wrapper {
@@ -154,14 +153,11 @@
     .track {
       display: inline-flex;
       white-space: nowrap;
-      animation: tick 300s linear infinite; /* Slowed down from 120s */
+      animation: tick 300s linear infinite;
       padding-left: 50px;
     }
 
-    .row:nth-child(even) .track {
-      animation-name: tick-reverse;
-    }
-
+    .row:nth-child(even) .track { animation-name: tick-reverse; }
     .track:hover { animation-play-state: paused; }
 
     @keyframes tick { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
@@ -192,16 +188,16 @@
 </head>
 <body>
 
-  <div id="overlay-ui">
+  <header id="top-bar">
     <form id="ddg-search" action="https://duckduckgo.com/" method="GET" target="_blank">
-      <input type="text" name="q" placeholder="Search..." required>
+      <input type="text" name="q" placeholder="Search DuckDuckGo..." required>
       <button type="submit" aria-label="Search">🦆</button>
     </form>
     <div id="weather-widget">
       <div class="w-temp" id="w-temp">--°F</div>
-      <div class="w-loc" id="w-loc">Loading local weather...</div>
+      <div class="w-loc" id="w-loc">Detecting local weather...</div>
     </div>
-  </div>
+  </header>
 
   <div id="wall">
     <div class="status">Initializing Ticker Wall...</div>
@@ -231,13 +227,44 @@
       }
     }
 
+    async function loadLiveScores() {
+      try {
+        const [nbaRes, mlbRes] = await Promise.all([
+          fetch('https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard'),
+          fetch('https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard')
+        ]);
+        const nba = await nbaRes.json();
+        const mlb = await mlbRes.json();
+
+        let scoresHTML = '';
+
+        const parseGames = (data, tag) => {
+          data.events.forEach(event => {
+            const status = event.status.type.shortDetail;
+            const comp = event.competitions[0];
+            const home = comp.competitors[0];
+            const away = comp.competitors[1];
+            scoresHTML += `<span class="item"><span class="source-tag">[${tag}]</span>${away.team.abbreviation} ${away.score} @ ${home.team.abbreviation} ${home.score} (${status})</span>`;
+          });
+        };
+
+        parseGames(nba, 'NBA');
+        parseGames(mlb, 'MLB');
+
+        if (!scoresHTML) scoresHTML = `<span class="item"><span class="source-tag">[SYS]</span>No live games right now</span>`;
+        return scoresHTML + scoresHTML; // return doubled for seamless loop
+
+      } catch (e) {
+        return `<span class="item"><span class="source-tag">[SYS]</span>Live scores unavailable</span>`;
+      }
+    }
+
     async function loadData() {
       try {
         const res = await fetch('data.json');
         if (!res.ok) throw new Error('Network ok');
         return await res.json();
       } catch (e) {
-        document.getElementById('wall').innerHTML = '<div class="status">Error loading data.json. Ensure fetch_news.py has run.</div>';
         return null;
       }
     }
@@ -248,21 +275,37 @@
 
     async function init() {
       loadWeather();
-      const data = await loadData();
-      if (!data) return;
-
+      
       const wall = document.getElementById('wall');
+      wall.innerHTML = '<div class="status">Fetching data and live scores...</div>';
+
+      const liveScoresHTML = await loadLiveScores();
+      const data = await loadData();
+      
       wall.innerHTML = '';
 
+      // Add Live Scores Row First
+      wall.insertAdjacentHTML('beforeend', `
+        <div class="row live-row">
+          <div class="label">LIVE SCORES</div>
+          <div class="track-wrapper">
+            <div class="track">${liveScoresHTML}</div>
+          </div>
+        </div>
+      `);
+
+      // Add RSS Rows
       groups.forEach(group => {
         let itemsHTML = '';
-        group.sources.forEach(src => {
-          if (data[src] && data[src].length > 0) {
-            data[src].forEach(item => { itemsHTML += buildItemHTML(item, src); });
-          }
-        });
+        if (data) {
+          group.sources.forEach(src => {
+            if (data[src] && data[src].length > 0) {
+              data[src].forEach(item => { itemsHTML += buildItemHTML(item, src); });
+            }
+          });
+        }
 
-        if (!itemsHTML) itemsHTML = `<span class="item" style="pointer-events:none;"><span class="source-tag">[SYS]</span>No data found</span>`;
+        if (!itemsHTML) itemsHTML = `<span class="item" style="pointer-events:none;"><span class="source-tag">[SYS]</span>No data found. Run fetch_news.py in GitHub Actions.</span>`;
 
         const seamlessHTML = itemsHTML + itemsHTML;
         wall.insertAdjacentHTML('beforeend', `
