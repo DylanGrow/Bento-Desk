@@ -11,11 +11,9 @@
       --text: #e8e9ea;
       --dim: #4a4d52;
       --font: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace;
-      
-      --c0: #FFB612; 
       --c1: #00e5ff; --c2: #39ff14; --c3: #ffea00; 
       --c4: #ff0055; --c5: #b026ff; --c6: #ff8800; 
-      --c7: #00ff88; --c8: #ff00aa; --c9: #8800ff;
+      --c7: #00ff88; --c8: #ff00aa;
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -49,10 +47,7 @@
       display: flex;
       align-items: center;
     }
-    .brand::after {
-      content: '_';
-      animation: blink 1s step-end infinite;
-    }
+    .brand::after { content: '_'; animation: blink 1s step-end infinite; }
     @keyframes blink { 50% { opacity: 0; } }
 
     #ddg-search {
@@ -61,190 +56,61 @@
       background: #141414;
       border: 1px solid #333;
       border-radius: 4px;
-      overflow: hidden;
     }
     #ddg-search input {
-      background: transparent;
-      border: none;
-      color: #fff;
-      padding: 10px 15px;
-      font-family: var(--font);
-      outline: none;
-      width: 250px;
-      font-size: 14px;
+      background: transparent; border: none; color: #fff;
+      padding: 10px 15px; font-family: var(--font); width: 250px; outline: none;
     }
-    #ddg-search input::placeholder {
-      color: #666;
-    }
-    #ddg-search input:focus { background: #1a1a1a; }
     #ddg-search button {
-      background: #222;
-      border: none;
-      border-left: 1px solid #333;
-      padding: 10px 15px;
-      cursor: pointer;
-      font-size: 16px;
-      transition: background 0.2s;
+      background: #222; border: none; border-left: 1px solid #333;
+      padding: 10px 15px; cursor: pointer;
     }
-    #ddg-search button:hover { background: #444; }
 
     .weather-button {
-      background: none;
-      border: none;
-      font-size: 32px;
-      cursor: pointer;
-      padding: 5px;
-      transition: transform 0.2s, filter 0.2s;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-    .weather-button:hover {
-      transform: scale(1.1);
-      filter: brightness(1.3);
-    }
-    .weather-button:active {
-      transform: scale(0.95);
+      background: none; border: none; font-size: 32px; cursor: pointer;
     }
 
     .weather-popup {
-      position: fixed;
-      bottom: 80px;
-      right: 30px;
-      background: #0a0a0a;
-      border: 2px solid var(--c3);
-      border-radius: 8px;
-      padding: 20px 25px;
-      font-size: 14px;
-      z-index: 1000;
-      box-shadow: 0 8px 32px rgba(255, 234, 0, 0.2);
-      opacity: 0;
-      transform: translateY(10px);
-      pointer-events: none;
-      transition: opacity 0.3s, transform 0.3s;
-      min-width: 200px;
+      position: fixed; bottom: 80px; right: 30px;
+      background: #0a0a0a; border: 2px solid var(--c3);
+      border-radius: 8px; padding: 20px; z-index: 1000;
+      opacity: 0; transform: translateY(10px);
+      pointer-events: none; transition: all 0.3s;
     }
+    .weather-popup.active { opacity: 1; transform: translateY(0); pointer-events: auto; }
 
-    .weather-popup.active {
-      opacity: 1;
-      transform: translateY(0);
-      pointer-events: auto;
-    }
-
-    .weather-popup-title {
-      color: var(--c3);
-      font-weight: bold;
-      margin-bottom: 12px;
-      text-transform: uppercase;
-      letter-spacing: 0.1em;
-      font-size: 12px;
-    }
-
-    .weather-popup-content {
-      display: flex;
-      flex-direction: column;
-      gap: 8px;
-    }
-
-    .weather-row {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-    }
-
-    .weather-label {
-      color: var(--dim);
-      font-size: 12px;
-    }
-
-    .weather-value {
-      color: #fff;
-      font-weight: bold;
-    }
-
-    .weather-temp {
-      font-size: 24px;
-      color: var(--c3);
-      font-weight: 900;
-    }
-
-    .weather-location {
-      color: #888;
-      font-size: 11px;
-      margin-top: 10px;
-      padding-top: 10px;
-      border-top: 1px solid #222;
-    }
-
-    #wall {
-      flex: 1;
-      display: flex;
-      flex-direction: column;
-    }
+    #wall { flex: 1; display: flex; flex-direction: column; }
 
     .row {
-      flex: 1;
-      display: flex;
-      align-items: center;
-      position: relative;
-      border-bottom: 1px solid #1a1a1a;
+      flex: 1; display: flex; align-items: center;
+      position: relative; border-bottom: 1px solid #1a1a1a;
       overflow: hidden;
     }
-    .row:last-child { border-bottom: none; }
 
     .label {
-      position: absolute;
-      left: 0; top: 0; bottom: 0;
-      width: 150px;
-      z-index: 10;
-      background: var(--bg);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-weight: 800;
-      font-size: clamp(12px, 1.8vh, 20px);
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
+      position: absolute; left: 0; width: 150px; height: 100%;
+      z-index: 10; background: var(--bg);
+      display: flex; align-items: center; justify-content: center;
+      font-weight: 800; text-transform: uppercase;
       border-right: 1px solid #1a1a1a;
-      box-shadow: 15px 0 20px rgba(0,0,0,0.9);
-      white-space: nowrap;
     }
 
-    .row.live-row .label { color: var(--bg); background: #FFB612; border-right-color: #FFB612; text-shadow: none; }
-    .row:nth-child(2) .label { color: var(--c1); border-right-color: rgba(0,229,255,0.3); }
-    .row:nth-child(3) .label { color: var(--c2); border-right-color: rgba(57,255,20,0.3); }
-    .row:nth-child(4) .label { color: var(--c3); border-right-color: rgba(255,234,0,0.3); }
-    .row:nth-child(5) .label { color: var(--c4); border-right-color: rgba(255,0,85,0.3); }
-    .row:nth-child(6) .label { color: var(--c5); border-right-color: rgba(176,38,255,0.3); }
-    .row:nth-child(7) .label { color: var(--c6); border-right-color: rgba(255,136,0,0.3); }
-    .row:nth-child(8) .label { color: var(--c7); border-right-color: rgba(0,255,136,0.3); }
-    .row:nth-child(9) .label { color: var(--c8); border-right-color: rgba(255,0,170,0.3); }
+    /* Row Colors */
+    .row:nth-child(1) .label { color: var(--c1); }
+    .row:nth-child(2) .label { color: var(--c2); }
+    .row:nth-child(3) .label { color: var(--c3); }
+    .row:nth-child(4) .label { color: var(--c4); }
+    .row:nth-child(5) .label { color: var(--c5); }
+    .row:nth-child(6) .label { color: var(--c6); }
+    .row:nth-child(7) .label { color: var(--c7); }
+    .row:nth-child(8) .label { color: var(--c8); }
 
-    .row.live-row .item:hover .source-tag { color: #FFB612; }
-    .row:nth-child(2) .item:hover .source-tag { color: var(--c1); }
-    .row:nth-child(3) .item:hover .source-tag { color: var(--c2); }
-    .row:nth-child(4) .item:hover .source-tag { color: var(--c3); }
-    .row:nth-child(5) .item:hover .source-tag { color: var(--c4); }
-    .row:nth-child(6) .item:hover .source-tag { color: var(--c5); }
-    .row:nth-child(7) .item:hover .source-tag { color: var(--c6); }
-    .row:nth-child(8) .item:hover .source-tag { color: var(--c7); }
-    .row:nth-child(9) .item:hover .source-tag { color: var(--c8); }
-
-    .track-wrapper {
-      display: flex;
-      width: 100%;
-      height: 100%;
-      align-items: center;
-      padding-left: 150px;
-    }
-
+    .track-wrapper { padding-left: 150px; width: 100%; height: 100%; display: flex; align-items: center; }
+    
     .track {
-      display: inline-flex;
-      white-space: nowrap;
-      animation: tick 500s linear infinite;
-      padding-left: 50px;
+      display: inline-flex; white-space: nowrap;
+      animation: tick 120s linear infinite;
     }
-
     .row:nth-child(even) .track { animation-name: tick-reverse; }
     .track:hover { animation-play-state: paused; }
 
@@ -252,40 +118,13 @@
     @keyframes tick-reverse { 0% { transform: translateX(-50%); } 100% { transform: translateX(0); } }
 
     .item {
-      color: #9ca3af;
-      text-decoration: none;
-      font-size: clamp(12px, 1.8vh, 18px);
-      padding: 0 3vw;
-      transition: color 0.2s;
-      display: flex;
-      align-items: center;
-      flex-shrink: 0;
+      color: #9ca3af; text-decoration: none; padding: 0 40px;
+      display: flex; align-items: center; font-size: 16px;
     }
-    .item:hover { color: #fff; text-decoration: underline; }
+    .item:hover { color: #fff; }
+    .source-tag { color: var(--dim); font-size: 0.8em; margin-right: 10px; font-weight: bold; }
 
-    .source-tag {
-      color: var(--dim);
-      font-size: 0.8em;
-      margin-right: 12px;
-      font-weight: bold;
-      letter-spacing: 0.05em;
-      flex-shrink: 0;
-    }
-
-    .status { 
-      padding: 20px 170px; 
-      color: var(--dim); 
-      font-style: italic;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-
-    @media (max-width: 768px) {
-      #ddg-search { width: 100%; margin: 0 20px; }
-      #ddg-search input { width: 100%; }
-      .weather-button { font-size: 28px; }
-    }
+    .status { padding: 20px; color: var(--dim); text-align: center; }
   </style>
 </head>
 <body>
@@ -294,43 +133,28 @@
     <div class="brand">SysLog</div>
     <form id="ddg-search" action="https://duckduckgo.com/" method="GET" target="_blank">
       <input type="text" name="q" placeholder="Search DuckDuckGo..." required>
-      <button type="submit" aria-label="Search">🦆</button>
+      <button type="submit">🦆</button>
     </form>
-    <button class="weather-button" id="weather-btn" aria-label="Toggle weather">☀️</button>
+    <button class="weather-button" id="weather-btn">☀️</button>
   </header>
 
   <div class="weather-popup" id="weather-popup">
-    <div class="weather-popup-title">Current Weather</div>
-    <div class="weather-popup-content">
-      <div class="weather-row">
-        <div class="weather-label">Temperature</div>
-        <div class="weather-temp" id="w-temp">--°F</div>
-      </div>
-      <div class="weather-row">
-        <div class="weather-label">Condition</div>
-        <div class="weather-value" id="w-condition">Loading...</div>
-      </div>
-      <div class="weather-row">
-        <div class="weather-label">Humidity</div>
-        <div class="weather-value" id="w-humidity">--</div>
-      </div>
-      <div class="weather-row">
-        <div class="weather-label">Wind Speed</div>
-        <div class="weather-value" id="w-wind">--</div>
-      </div>
-      <div class="weather-location" id="w-loc">Detecting location...</div>
-    </div>
+    <div style="color:var(--c3); font-size:12px; margin-bottom:10px;">WEATHER_STATION</div>
+    <div id="w-temp" style="font-size:24px; font-weight:900;">--°F</div>
+    <div id="w-condition" style="color:#fff;">Loading...</div>
+    <div id="w-loc" style="font-size:11px; color:#666; margin-top:10px;">Detecting...</div>
   </div>
 
   <div id="wall">
-    <div class="status">Initializing SysLog...</div>
+    <div class="status">Connecting to data stream...</div>
   </div>
 
   <script>
+    // Configuration: Match these IDs to your Python feed keys
     const groups = [
       { id: 'nfl', label: 'NFL', sources: ['nfl'] },
       { id: 'tech', label: 'TECH', sources: ['tech', 'hacker'] },
-      { id: 'cyber', label: 'CYBER SEC', sources: ['cyber'] },
+      { id: 'cyber', label: 'CYBER', sources: ['cyber'] },
       { id: 'nba', label: 'NBA', sources: ['nba'] },
       { id: 'mlb', label: 'MLB', sources: ['mlb'] },
       { id: 'gaming', label: 'GAMING', sources: ['gaming'] },
@@ -338,62 +162,63 @@
       { id: 'science', label: 'SCIENCE', sources: ['science'] }
     ];
 
-    // Weather popup toggle
+    // Toggle Weather Popup
     const weatherBtn = document.getElementById('weather-btn');
     const weatherPopup = document.getElementById('weather-popup');
+    weatherBtn.onclick = () => weatherPopup.classList.toggle('active');
 
-    weatherBtn.addEventListener('click', () => {
-      weatherPopup.classList.toggle('active');
-    });
-
-    document.addEventListener('click', (e) => {
-      if (!e.target.closest('.weather-button') && !e.target.closest('.weather-popup')) {
-        weatherPopup.classList.remove('active');
-      }
-    });
-
+    // Weather Logic
     async function loadWeather() {
       try {
         const geo = await fetch('https://ipapi.co/json/').then(r => r.json());
-        const w = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${geo.latitude}&longitude=${geo.longitude}&current_weather=true&temperature_unit=fahrenheit&hourly=relative_humidity_2m`).then(r => r.json());
+        const w = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${geo.latitude}&longitude=${geo.longitude}&current_weather=true&temperature_unit=fahrenheit`).then(r => r.json());
         
-        const temp = Math.round(w.current_weather.temperature);
-        const windSpeed = Math.round(w.current_weather.wind_speed);
-        const weatherCode = w.current_weather.weather_code;
-        
-        // Simple weather code mapping
-        const conditions = {
-          0: 'Clear',
-          1: 'Mostly Clear',
-          2: 'Partly Cloudy',
-          3: 'Overcast',
-          45: 'Foggy',
-          48: 'Foggy',
-          51: 'Light Drizzle',
-          53: 'Drizzle',
-          55: 'Heavy Drizzle',
-          61: 'Light Rain',
-          63: 'Rain',
-          65: 'Heavy Rain',
-          71: 'Light Snow',
-          73: 'Snow',
-          75: 'Heavy Snow',
-          77: 'Snow Grains',
-          80: 'Light Showers',
-          81: 'Showers',
-          82: 'Heavy Showers',
-          85: 'Light Snow Showers',
-          86: 'Snow Showers',
-          95: 'Thunderstorm',
-          96: 'Thunderstorm with Hail',
-          99: 'Thunderstorm with Hail'
-        };
-
-        document.getElementById('w-temp').innerText = temp + '°F';
-        document.getElementById('w-condition').innerText = conditions[weatherCode] || 'Unknown';
-        document.getElementById('w-humidity').innerText = w.hourly.relative_humidity_2m[0] + '%';
-        document.getElementById('w-wind').innerText = windSpeed + ' mph';
+        document.getElementById('w-temp').innerText = Math.round(w.current_weather.temperature) + '°F';
+        document.getElementById('w-condition').innerText = 'Condition Code: ' + w.current_weather.weathercode;
         document.getElementById('w-loc').innerText = `📍 ${geo.city}, ${geo.region_code}`;
+      } catch (e) { console.error("Weather failed"); }
+    }
+
+    // News Logic (Reads the data.json from your repo)
+    async function loadFeeds() {
+      try {
+        const response = await fetch('./data.json');
+        if (!response.ok) throw new Error('data.json not found');
+        const data = await response.json();
+        
+        const wall = document.getElementById('wall');
+        wall.innerHTML = ''; 
+
+        groups.forEach(group => {
+          let items = [];
+          group.sources.forEach(s => { if(data[s]) items = [...items, ...data[s].map(i => ({...i, s}))]; });
+
+          if (items.length === 0) return;
+
+          const row = document.createElement('div');
+          row.className = 'row';
+          
+          // Double the items for a seamless infinite loop
+          const scrollContent = [...items, ...items].map(item => `
+            <a href="${item.link}" target="_blank" class="item">
+              <span class="source-tag">[${item.s.toUpperCase()}]</span> ${item.title}
+            </a>
+          `).join('');
+
+          row.innerHTML = `
+            <div class="label">${group.label}</div>
+            <div class="track-wrapper"><div class="track">${scrollContent}</div></div>
+          `;
+          wall.appendChild(row);
+        });
       } catch (e) {
-        document.getElementById('w-loc').innerText = 'Weather unavailable';
-        document.getElementById('w
+        document.querySelector('.status').innerText = "Data Stream Offline. Run GitHub Action.";
+      }
+    }
+
+    // Init
+    loadWeather();
+    loadFeeds();
+  </script>
+</body>
+</html>
