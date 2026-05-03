@@ -91,25 +91,24 @@
       position: absolute; left: 0; width: 150px; height: 100%;
       z-index: 10; background: var(--bg);
       display: flex; align-items: center; justify-content: center;
-      font-weight: 800; text-transform: uppercase;
+      font-weight: 800; text-transform: uppercase; text-align: center;
       border-right: 1px solid #1a1a1a;
     }
 
-    /* Row Colors */
-    .row:nth-child(1) .label { color: var(--c1); }
-    .row:nth-child(2) .label { color: var(--c2); }
-    .row:nth-child(3) .label { color: var(--c3); }
-    .row:nth-child(4) .label { color: var(--c4); }
-    .row:nth-child(5) .label { color: var(--c5); }
-    .row:nth-child(6) .label { color: var(--c6); }
-    .row:nth-child(7) .label { color: var(--c7); }
-    .row:nth-child(8) .label { color: var(--c8); }
+    /* Row Colors - Shifted down by 1 because of the new SCORES row at the top */
+    .row:nth-child(2) .label { color: var(--c1); }
+    .row:nth-child(3) .label { color: var(--c2); }
+    .row:nth-child(4) .label { color: var(--c3); }
+    .row:nth-child(5) .label { color: var(--c4); }
+    .row:nth-child(6) .label { color: var(--c5); }
+    .row:nth-child(7) .label { color: var(--c6); }
 
     .track-wrapper { padding-left: 150px; width: 100%; height: 100%; display: flex; align-items: center; }
     
+    /* SLOWER ANIMATION: 240s instead of 120s */
     .track {
       display: inline-flex; white-space: nowrap;
-      animation: tick 120s linear infinite;
+      animation: tick 240s linear infinite;
     }
     .row:nth-child(even) .track { animation-name: tick-reverse; }
     .track:hover { animation-play-state: paused; }
@@ -150,16 +149,14 @@
   </div>
 
   <script>
-    // Configuration: Match these IDs to your Python feed keys
+    // Configuration: Consolidated to 6 groups to make room for LIVE SCORES
     const groups = [
       { id: 'nfl', label: 'NFL', sources: ['nfl'] },
-      { id: 'tech', label: 'TECH', sources: ['tech', 'hacker'] },
-      { id: 'cyber', label: 'CYBER', sources: ['cyber'] },
       { id: 'nba', label: 'NBA', sources: ['nba'] },
-      { id: 'mlb', label: 'MLB', sources: ['mlb'] },
+      { id: 'tech', label: 'TECH / CYBER', sources: ['tech', 'hacker', 'cyber'] },
+      { id: 'science', label: 'SCI / SPACE', sources: ['science', 'space'] },
       { id: 'gaming', label: 'GAMING', sources: ['gaming'] },
-      { id: 'space', label: 'SPACE', sources: ['space'] },
-      { id: 'science', label: 'SCIENCE', sources: ['science'] }
+      { id: 'mlb', label: 'MLB', sources: ['mlb'] }
     ];
 
     // Toggle Weather Popup
@@ -167,27 +164,103 @@
     const weatherPopup = document.getElementById('weather-popup');
     weatherBtn.onclick = () => weatherPopup.classList.toggle('active');
 
-    // Weather Logic
+    // 1. Weather Logic
     async function loadWeather() {
       try {
         const geo = await fetch('https://ipapi.co/json/').then(r => r.json());
         const w = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${geo.latitude}&longitude=${geo.longitude}&current_weather=true&temperature_unit=fahrenheit`).then(r => r.json());
         
+        // Map WMO codes to actual readable text and emojis
+        const wmoCodes = {
+            0: 'Clear sky ☀️', 1: 'Mainly clear 🌤️', 2: 'Partly cloudy ⛅', 3: 'Overcast ☁️',
+            45: 'Fog 🌫️', 48: 'Freezing fog 🌫️', 51: 'Light drizzle 🌧️', 53: 'Drizzle 🌧️', 
+            55: 'Heavy drizzle 🌧️', 61: 'Light rain 🌧️', 63: 'Rain 🌧️', 65: 'Heavy rain 🌧️',
+            71: 'Light snow ❄️', 73: 'Snow ❄️', 75: 'Heavy snow ❄️', 77: 'Snow grains ❄️',
+            80: 'Light showers 🌦️', 81: 'Showers 🌦️', 82: 'Heavy showers ⛈️',
+            85: 'Snow showers 🌨️', 86: 'Heavy snow showers 🌨️', 95: 'Thunderstorm ⛈️',
+            96: 'Storm w/ light hail ⛈️', 99: 'Storm w/ heavy hail ⛈️'
+        };
+
+        const conditionText = wmoCodes[w.current_weather.weathercode] || 'Unknown Condition';
+
         document.getElementById('w-temp').innerText = Math.round(w.current_weather.temperature) + '°F';
-        document.getElementById('w-condition').innerText = 'Condition Code: ' + w.current_weather.weathercode;
+        document.getElementById('w-condition').innerText = conditionText;
         document.getElementById('w-loc').innerText = `📍 ${geo.city}, ${geo.region_code}`;
-      } catch (e) { console.error("Weather failed"); }
+      } catch (e) { console.error("Weather failed", e); }
     }
 
-    // News Logic (Reads the data.json from your repo)
+    // 2. LIVE SPORTS SCORES (Fetches directly from ESPN APIs)
+    async function loadScores() {
+      try {
+        const apis = [
+          { lg: 'NBA', url: 'https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard' },
+          { lg: 'MLB', url: 'https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard' },
+          { lg: 'NFL', url: 'https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard' }
+        ];
+
+        let allScores = [];
+
+        // Fetch all 3 APIs at the same time
+        await Promise.allSettled(apis.map(async ({lg, url}) => {
+          const res = await fetch(url);
+          const data = await res.json();
+          
+          data.events.forEach(event => {
+            const comp = event.competitions[0];
+            const home = comp.competitors.find(c => c.homeAway === 'home');
+            const away = comp.competitors.find(c => c.homeAway === 'away');
+            const status = event.status.type.shortDetail; // e.g., "Final", "3rd Qtr", "7:30 PM"
+            
+            allScores.push({
+              lg: lg,
+              text: `${away.team.abbreviation} ${away.score} @ ${home.team.abbreviation} ${home.score} (${status})`,
+              link: event.links[0].href
+            });
+          });
+        }));
+
+        if (allScores.length === 0) return;
+
+        const wall = document.getElementById('wall');
+        
+        // Check if scores row already exists (for when it auto-updates)
+        let scoreRow = document.getElementById('live-scores-row');
+        if (!scoreRow) {
+          scoreRow = document.createElement('div');
+          scoreRow.id = 'live-scores-row';
+          scoreRow.className = 'row';
+          wall.prepend(scoreRow); // Put it at the very top
+        }
+
+        const scrollContent = [...allScores, ...allScores].map(item => `
+          <a href="${item.link}" target="_blank" class="item" style="color: #fff; font-weight: bold;">
+            <span class="source-tag" style="color: var(--c3);">[${item.lg}]</span> ${item.text}
+          </a>
+        `).join('');
+
+        // Highlight the label with inverse colors so it stands out
+        scoreRow.innerHTML = `
+          <div class="label" style="background: var(--c3); color: #000; border-right: none;">LIVE SCORES</div>
+          <div class="track-wrapper"><div class="track">${scrollContent}</div></div>
+        `;
+
+      } catch (e) {
+        console.error("Failed to load ESPN scores", e);
+      }
+    }
+
+    // 3. News Logic (Reads the data.json from your repo)
     async function loadFeeds() {
       try {
-        const response = await fetch('./data.json');
+        const response = await fetch('./data.json?t=' + Date.now()); // Cache buster added
         if (!response.ok) throw new Error('data.json not found');
         const data = await response.json();
         
         const wall = document.getElementById('wall');
+        // Clear everything EXCEPT the live scores row if it's already there
+        const existingScores = document.getElementById('live-scores-row');
         wall.innerHTML = ''; 
+        if (existingScores) wall.appendChild(existingScores);
 
         groups.forEach(group => {
           let items = [];
@@ -212,13 +285,20 @@
           wall.appendChild(row);
         });
       } catch (e) {
-        document.querySelector('.status').innerText = "Data Stream Offline. Run GitHub Action.";
+        if (!document.getElementById('live-scores-row')) {
+            document.querySelector('.status').innerText = "Data Stream Offline. Run GitHub Action.";
+        }
       }
     }
 
-    // Init
+    // Initialize all components
     loadWeather();
     loadFeeds();
+    loadScores();
+
+    // Auto-update scores every 60 seconds so you never miss a play
+    setInterval(loadScores, 60000);
+
   </script>
 </body>
 </html>
