@@ -1,20 +1,31 @@
 name: Fetch RSS Feeds
 on:
   schedule:
-    - cron: '0 10 * * *' 
+    - cron: '0 * * * *' # Changed to hourly so your news stays fresh
   workflow_dispatch: 
+
+permissions:
+  contents: write # Crucial: Allows the action to push changes
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Updated to latest version
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
       - name: Run Fetcher
-        run: python fetch_news.py
+        run: python fetch_news.py # Ensure your script is named exactly this
+
       - name: Commit and Push
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data.json
           git commit -m "Auto-update news feed" || exit 0
           git push
