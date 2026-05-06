@@ -1,6 +1,55 @@
 {
-  "last_updated": 1778104470,
+  "last_updated": 1778107876,
   "items": [
+    {
+      "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
+      "link": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778106600
+    },
+    {
+      "title": "SpaceX is starting to move on from the world's most successful rocket",
+      "link": "https://arstechnica.com/space/2026/05/spacex-is-starting-to-move-on-from-the-worlds-most-successful-rocket/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778106527
+    },
+    {
+      "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX",
+      "link": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778105354
+    },
+    {
+      "title": "Star Fox Remake Announced for Nintendo Switch 2",
+      "link": "https://www.ign.com/articles/star-fox-remake-announced-for-nintendo-switch-2",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778105090
+    },
+    {
+      "title": "NBA DFS, playoffs: DraftKings, FanDuel daily Fantasy basketball picks for May 6 include Paul George",
+      "link": "https://www.cbssports.com/nba/news/nba-dfs-playoffs-draftkings-fanduel-daily-fantasy-basketball-picks-may-6-paul-george/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778105072
+    },
+    {
+      "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+      "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778104676
+    },
+    {
+      "title": "TSMC taps wind power as AI chip demand soars, Taiwan feels energy crunch",
+      "link": "https://arstechnica.com/gadgets/2026/05/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778104047
+    },
     {
       "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
       "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
@@ -23,18 +72,11 @@
       "timestamp": 1778103551
     },
     {
-      "title": "Is xAI a neocloud now?",
-      "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778103175
-    },
-    {
-      "title": "Use DraftKings promo code for $100 in bonus bets by targeting 76ers-Knicks, Spurs-Timberwolves, NHL Wednesday",
-      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-100-bonus-bets-76ers-knicks-spurs-timberwolves-nhl-wednesday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778102240
+      "title": "Pokémon Fans Are Building Their Own LEGO Cubone With Pieces From a $30 Cute Puppy Set",
+      "link": "https://www.ign.com/articles/pokemon-fans-are-building-their-own-lego-cubone-with-pieces-from-a-3-in-1-cute-puppy-set",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778103538
     },
     {
       "title": "Mortal Kombat II Looks Set to Launch Big at the Box Office With Mortal Kombat III Already in Development",
@@ -51,27 +93,6 @@
       "timestamp": 1778101200
     },
     {
-      "title": "Insurance startup Corgi hits $1.3B valuation 4 months after its Series A",
-      "link": "https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778099956
-    },
-    {
-      "title": "Take-Two CEO Is 'Deeply Disappointed' by BioShock 4's Delays",
-      "link": "https://www.ign.com/articles/take-two-ceo-is-deeply-disappointed-by-bioshock-4s-delays",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778098792
-    },
-    {
-      "title": "HBO Renews Harry Potter for Season 2 With Imminent Production Start",
-      "link": "https://www.ign.com/articles/hbo-renews-harry-potter-for-season-2-with-imminent-production-start",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778098761
-    },
-    {
       "title": "Europe's 1st reusable spacecraft 'Space Rider' clears key hurdles on the road to launch",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/europes-1st-reusable-spacecraft-space-rider-clears-key-hurdles-on-the-road-to-launch",
       "source": "SPACE",
@@ -84,27 +105,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778090400
-    },
-    {
-      "title": "Report: SpaceX IPO gives Musk unchecked power and forbids investor lawsuits",
-      "link": "https://arstechnica.com/tech-policy/2026/05/report-spacex-ipo-gives-musk-unchecked-power-and-forbids-investor-lawsuits/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778088006
-    },
-    {
-      "title": "Google DeepMind partners with EVE Online for AI model testing",
-      "link": "https://arstechnica.com/gaming/2026/05/google-deepmind-partners-with-eve-online-for-ai-model-testing/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778086609
-    },
-    {
-      "title": "The animated version of the iconic \"Hello, world\" image reveals striking new details",
-      "link": "https://arstechnica.com/space/2026/05/the-animated-version-of-artemis-hello-world-is-even-better-than-the-original/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778085750
     }
   ]
 }
