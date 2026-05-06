@@ -1,117 +1,133 @@
 'use strict';
 
-/**
- * SysLog Frontend Logic
- * Fetches data from the local data.json (updated by GitHub Actions)
- * and Open-Meteo for live weather.
- */
-
 const CONFIG = {
-    // Maps the 'keys' in your data.json to the 'Labels' on your dashboard
-    groups: [
-        { id: 'nfl', label: 'NFL' },
-        { id: 'nba', label: 'NBA' },
-        { id: 'mlb', label: 'MLB' },
-        { id: 'tech', label: 'TECH' },
-        { id: 'cyber', label: 'CYBER' },
-        { id: 'gaming', label: 'GAMING' },
-        { id: 'space', label: 'SPACE' },
-        { id: 'science', label: 'SCIENCE' }
-    ],
-    refreshRate: 30 * 60 * 1000 // Refresh news every 30 minutes
+    batchSize: 12, // items per scroll load
 };
 
-// --- 1. Weather Logic ---
+// --- STATE ---
+let ALL_ITEMS = [];
+let visibleCount = 0;
+
+// --- HELPERS ---
+
+function getFavicon(url) {
+    try {
+        const domain = new URL(url).hostname;
+        return `https://www.google.com/s2/favicons?domain=${domain}&sz=64`;
+    } catch {
+        return '';
+    }
+}
+
+function timeAgo(ts) {
+    const seconds = Math.floor((Date.now() - ts * 1000) / 1000);
+
+    const intervals = [
+        { label: 'y', secs: 31536000 },
+        { label: 'mo', secs: 2592000 },
+        { label: 'd', secs: 86400 },
+        { label: 'h', secs: 3600 },
+        { label: 'm', secs: 60 }
+    ];
+
+    for (const i of intervals) {
+        const count = Math.floor(seconds / i.secs);
+        if (count >= 1) return `${count}${i.label} ago`;
+    }
+
+    return 'just now';
+}
+
+// --- RENDER ---
+
+function renderNextBatch() {
+    const container = document.getElementById('feed');
+
+    const nextItems = ALL_ITEMS.slice(visibleCount, visibleCount + CONFIG.batchSize);
+
+    nextItems.forEach(item => {
+        const card = document.createElement('a');
+        card.href = item.link;
+        card.target = '_blank';
+        card.className = 'card';
+
+        const icon = getFavicon(item.link);
+
+        card.innerHTML = `
+            <div class="card-header">
+                <img src="${icon}" class="favicon" />
+                <span class="source">${item.source}</span>
+                <span class="time">${timeAgo(item.timestamp)}</span>
+            </div>
+            <div class="title">${item.title}</div>
+        `;
+
+        container.appendChild(card);
+    });
+
+    visibleCount += nextItems.length;
+}
+
+// --- SCROLL OBSERVER ---
+
+function setupInfiniteScroll() {
+    const sentinel = document.getElementById('scroll-sentinel');
+
+    const observer = new IntersectionObserver(entries => {
+        if (entries[0].isIntersecting) {
+            renderNextBatch();
+        }
+    });
+
+    observer.observe(sentinel);
+}
+
+// --- DATA LOAD ---
+
+async function loadNews() {
+    const container = document.getElementById('feed');
+    container.innerHTML = '<div class="status">Loading feed...</div>';
+
+    try {
+        const res = await fetch('./data.json?t=' + Date.now());
+        const data = await res.json();
+
+        ALL_ITEMS = data.items || [];
+
+        // Already sorted by backend, but safe:
+        ALL_ITEMS.sort((a, b) => b.timestamp - a.timestamp);
+
+        container.innerHTML = '';
+        visibleCount = 0;
+
+        renderNextBatch();
+    } catch (err) {
+        console.error(err);
+        container.innerHTML = '<div class="status">Failed to load data.json</div>';
+    }
+}
+
+// --- WEATHER (unchanged, trimmed slightly) ---
+
 async function updateWeather() {
     try {
-        const geoRes = await fetch('https://ipapi.co/json/');
-        const geo = await geoRes.json();
-        
-        const weatherUrl = `https://api.open-meteo.com/v1/forecast?latitude=${geo.latitude}&longitude=${geo.longitude}&current_weather=true&temperature_unit=fahrenheit&hourly=relative_humidity_2m`;
-        const wRes = await fetch(weatherUrl);
-        const w = await wRes.json();
+        const geo = await (await fetch('https://ipapi.co/json/')).json();
 
-        // Update Popup elements
+        const url = `https://api.open-meteo.com/v1/forecast?latitude=${geo.latitude}&longitude=${geo.longitude}&current_weather=true&temperature_unit=fahrenheit`;
+        const w = await (await fetch(url)).json();
+
         document.getElementById('w-temp').innerText = `${Math.round(w.current_weather.temperature)}°F`;
-        document.getElementById('w-condition').innerText = `Code: ${w.current_weather.weathercode}`;
-        document.getElementById('w-humidity').innerText = `${w.hourly.relative_humidity_2m[0]}%`;
         document.getElementById('w-wind').innerText = `${Math.round(w.current_weather.windspeed)} mph`;
-        document.getElementById('w-loc').innerText = `📍 ${geo.city}, ${geo.region_code}`;
-        
-    } catch (err) {
-        console.warn("Weather sync failed:", err);
+        document.getElementById('w-loc').innerText = `${geo.city}, ${geo.region_code}`;
+    } catch (e) {
+        console.warn('Weather failed', e);
     }
 }
 
-// --- 2. News Logic ---
-async function loadNews() {
-    const wall = document.getElementById('wall');
-    
-    try {
-        // Fetch the JSON file generated by your Python Scraper
-        const response = await fetch('./data.json?t=' + Date.now()); // Query string prevents browser caching
-        const data = await response.json();
+// --- INIT ---
 
-        // Clear the "Initializing" status
-        wall.innerHTML = '';
-
-        CONFIG.groups.forEach(group => {
-            if (!data[group.id] || data[group.id].length === 0) return;
-
-            const row = document.createElement('div');
-            row.className = 'row';
-
-            // Create the infinite scroll track
-            // We double the data list to ensure the animation loops seamlessly
-            const items = [...data[group.id], ...data[group.id]];
-            
-            const trackHtml = items.map(item => `
-                <a href="${item.link}" target="_blank" class="item">
-                    <span class="source-tag">[${group.id.toUpperCase()}]</span>
-                    ${item.title}
-                </a>
-            `).join('');
-
-            row.innerHTML = `
-                <div class="label">${group.label}</div>
-                <div class="track-wrapper">
-                    <div class="track">${trackHtml}</div>
-                </div>
-            `;
-
-            wall.appendChild(row);
-        });
-
-    } catch (error) {
-        console.error("Critical error loading news stream:", error);
-        wall.innerHTML = `<div class="status">STREAM_OFFLINE: Run GitHub Action to generate data.json</div>`;
-    }
-}
-
-// --- 3. UI Interactions ---
-function setupInteractions() {
-    const weatherBtn = document.getElementById('weather-btn');
-    const weatherPopup = document.getElementById('weather-popup');
-
-    if (weatherBtn && weatherPopup) {
-        weatherBtn.addEventListener('click', () => weatherPopup.classList.toggle('active'));
-        
-        // Close popup when clicking outside
-        document.addEventListener('click', (e) => {
-            if (!e.target.closest('.weather-button') && !e.target.closest('.weather-popup')) {
-                weatherPopup.classList.remove('active');
-            }
-        });
-    }
-}
-
-// --- Initialize ---
 document.addEventListener('DOMContentLoaded', () => {
-    setupInteractions();
-    updateWeather();
     loadNews();
-
-    // Set auto-refresh
-    setInterval(loadNews, CONFIG.refreshRate);
-    setInterval(updateWeather, CONFIG.refreshRate);
+    setupInfiniteScroll();
+    updateWeather();
 });
