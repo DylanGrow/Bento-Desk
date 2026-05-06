@@ -1,19 +1,61 @@
 {
-  "last_updated": 1778091235,
+  "last_updated": 1778098811,
   "items": [
     {
-      "title": "76ers' Joel Embiid out for Game 2 vs. Knicks as Philadelphia looks to even second-round playoff series",
-      "link": "https://www.cbssports.com/nba/news/76ers-joel-embiid-injury-update-knicks-nba-playoffs-game-2/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778090812
-    },
-    {
-      "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
-      "link": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/",
+      "title": "Microsoft’s AI data center push is colliding with its clean power goals",
+      "link": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/",
       "source": "TECHCRUNCH",
       "category": "tech",
-      "timestamp": 1778090741
+      "timestamp": 1778097451
+    },
+    {
+      "title": "NBA odds: How Joel Embiid being ruled out of 76ers-Knicks Game 2 has impacted odds, model simulations",
+      "link": "https://www.cbssports.com/betting/news/nba-odds-how-joel-embiid-being-ruled-out-of-76ers-knicks-game-2-has-impacted-odds-model-simulations/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778096094
+    },
+    {
+      "title": "Today's top games to watch, best bets, odds: 76ers vs. Knicks, Canadiens vs. Sabres and more",
+      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-76ers-vs-knicks-canadiens-vs-sabres-and-more/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778095839
+    },
+    {
+      "title": "Jaylen Brown hasn't shared 'frustrations' with Celtics, says president Brad Stevens: 'Nothing but positive'",
+      "link": "https://www.cbssports.com/nba/news/jaylen-brown-celtics-frustrations-brad-stevens-tracy-mcgrady/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778095249
+    },
+    {
+      "title": "Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says",
+      "link": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778094609
+    },
+    {
+      "title": "Europe's 1st reusable spacecraft 'Space Rider' clears key hurdles on the road to launch",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/europes-1st-reusable-spacecraft-space-rider-clears-key-hurdles-on-the-road-to-launch",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1778094000
+    },
+    {
+      "title": "Superman Sequel Man of Tomorrow Adds Matthew Lillard to Cast in Mystery Role",
+      "link": "https://www.ign.com/articles/superman-sequel-man-of-tomorrow-adds-matthew-lillard-to-cast-in-mystery-role",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778092707
+    },
+    {
+      "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+      "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778091834
     },
     {
       "title": "'Whatever Russia is testing, it's sophisticated': 2 Russian satellites get within 10 feet of each other in orbit",
@@ -21,34 +63,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778090400
-    },
-    {
-      "title": "2026 NBA playoff predictions, odds, picks for May 6: This 3-way parlay returns nearly +600",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-parlay-predictions-odds-picks-wednesday-may-6/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778088641
-    },
-    {
-      "title": "NBA playoff schedule, odds, predictions for Knicks vs. 76ers, Spurs vs. Timberwolves",
-      "link": "https://www.cbssports.com/nba/news/nba-playoff-schedule-odds-predictions-games-today-may-6-knicks-76ers-spurs-timberwolves/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778088488
-    },
-    {
-      "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
-      "link": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778088188
-    },
-    {
-      "title": "DeepSeek could hit $45B valuation from its first investment round",
-      "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778088034
     },
     {
       "title": "Report: SpaceX IPO gives Musk unchecked power and forbids investor lawsuits",
@@ -91,20 +105,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1778085470
-    },
-    {
-      "title": "Barack Obama Insists the Government Isn't Hiding Aliens, and 'It Would Leak' if They Were",
-      "link": "https://www.ign.com/articles/barack-obama-insists-the-government-isnt-hiding-aliens-and-it-would-leak-if-they-were",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778085151
-    },
-    {
-      "title": "'Thor' hammered down 15 years ago, and it's still the only Marvel movie to do the God of Thunder justice",
-      "link": "https://www.space.com/entertainment/space-movies-shows/thor-hammered-down-15-years-ago-and-its-still-the-only-marvel-movie-to-do-the-god-of-thunder-justice",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1778083200
     }
   ]
 }
