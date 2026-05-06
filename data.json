@@ -1,6 +1,48 @@
 {
-  "last_updated": 1778046918,
+  "last_updated": 1778055826,
   "items": [
+    {
+      "title": "240-million-year-old giant “sand creeper” found hidden in retaining wall",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260504154028.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1778050047
+    },
+    {
+      "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
+      "link": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778050032
+    },
+    {
+      "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
+      "link": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778049272
+    },
+    {
+      "title": "Valdez tossed as Hinch questions LHP's actions",
+      "link": "https://www.espn.com/mlb/story/_/id/48690419/tigers-valdez-ejected-throwing-red-sox-story",
+      "source": "ESPN",
+      "category": "mlb",
+      "timestamp": 1778046238
+    },
+    {
+      "title": "Astros' Correa (ankle) scratched from lineup",
+      "link": "https://www.espn.com/mlb/story/_/id/48688633/astros-carlos-correa-sits-vs-dodgers-left-ankle-injury",
+      "source": "ESPN",
+      "category": "mlb",
+      "timestamp": 1778046238
+    },
+    {
+      "title": "Reds closer Pagan (hamstring) carted off, IL-bound...",
+      "link": "https://www.espn.com/mlb/story/_/id/48690538/cincinnati-reds-closer-emilio-pagan-carted-hamstring-injury",
+      "source": "ESPN",
+      "category": "mlb",
+      "timestamp": 1778046238
+    },
     {
       "title": "NBA playoff winners and losers: Austin Reaves is not loving Lakers vs. Thunder matchup, but Chet Holmgren is",
       "link": "https://www.cbssports.com/nba/news/nba-playoff-winners-and-losers-lakers-thunder-may-5/",
@@ -51,25 +93,11 @@
       "timestamp": 1778029064
     },
     {
-      "title": "AI lets chemists design molecules by simply describing them",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1778026857
-    },
-    {
       "title": "Nuro receives driverless testing permit ahead of Uber robotaxi service launch",
       "link": "https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1778026067
-    },
-    {
-      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
-      "link": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778025010
     },
     {
       "title": "IO Interactive \"Can't Wait\" to Return to Hitman Series",
@@ -79,11 +107,25 @@
       "timestamp": 1778022494
     },
     {
-      "title": "Bumble’s paying users are slipping as it bets on an overhaul later this year",
-      "link": "https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778022350
+      "title": "Chef shies from financial questions in Diggs trial...",
+      "link": "https://www.espn.com/nfl/story/_/id/48685492/chef-shies-financial-questions-stefon-diggs-assault-trial",
+      "source": "ESPN",
+      "category": "nfl",
+      "timestamp": 1778022418
+    },
+    {
+      "title": "Source: Giants beef up D-line by adding Reader",
+      "link": "https://www.espn.com/nfl/story/_/id/48686672/source-giants-agree-two-year-deal-dt-dj-reader",
+      "source": "ESPN",
+      "category": "nfl",
+      "timestamp": 1778022418
+    },
+    {
+      "title": "Source: Seahawks to sign edge rusher Fowler Jr.",
+      "link": "https://www.espn.com/nfl/story/_/id/48684397/source-seahawks-sign-veteran-edge-rusher-dante-fowler-jr",
+      "source": "ESPN",
+      "category": "nfl",
+      "timestamp": 1778022418
     },
     {
       "title": "OpenAI president forced to read his personal diary entries to jury",
