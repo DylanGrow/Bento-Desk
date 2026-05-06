@@ -1,489 +1,309 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="SysLog: A real-time terminal dashboard for sports, tech, and science news.">
-  <meta name="theme-color" content="#050505">
-  <meta name="robots" content="noindex, nofollow"> <!-- Privacy for internal dashboards -->
-  <title>SysLog | Terminal Dashboard</title>
-  
-  <!-- Preconnect for performance -->
-  <link rel="preconnect" href="https://ipapi.co">
-  <link rel="preconnect" href="https://api.open-meteo.com">
-  <link rel="preconnect" href="https://site.api.espn.com">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="SysLog: Real-time news dashboard." />
+  <meta name="theme-color" content="#050505" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>SysLog | Dashboard</title>
+
+  <link rel="preconnect" href="https://ipapi.co" />
+  <link rel="preconnect" href="https://api.open-meteo.com" />
 
   <style>
     :root {
       --bg: #050505;
+      --panel: #0a0a0a;
       --text: #e8e9ea;
-      --dim: #4a4d52;
-      --font: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace;
-      --c1: #00e5ff; --c2: #39ff14; --c3: #ffea00; 
-      --c4: #ff0055; --c5: #b026ff; --c6: #ff8800; 
-      --c7: #00ff88; --c8: #ff00aa;
+      --dim: #6b7280;
       --border: #1a1a1a;
+      --c1: #00e5ff;
+      --c2: #39ff14;
+      --font: ui-monospace, Menlo, Consolas, monospace;
     }
 
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-    
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
     body {
       background: var(--bg);
       color: var(--text);
       font-family: var(--font);
-      height: 100vh;
-      overflow: hidden;
+      min-height: 100vh;
+      overflow-y: auto;
       display: flex;
       flex-direction: column;
-      font-size: 16px;
     }
 
-    /* --- Top Bar --- */
+    /* TOP BAR */
     #top-bar {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      padding: 15px 30px;
-      background: #0a0a0a;
+      padding: 14px 20px;
+      background: var(--panel);
       border-bottom: 1px solid var(--border);
-      flex-shrink: 0;
-      z-index: 100;
+      position: sticky;
+      top: 0;
+      z-index: 10;
     }
 
     .brand {
       color: var(--c1);
-      font-weight: 900;
+      font-weight: 800;
       letter-spacing: 0.15em;
-      font-size: 22px;
       text-transform: uppercase;
-      display: flex;
-      align-items: center;
     }
-    .brand::after { content: '_'; animation: blink 1s step-end infinite; }
-    @keyframes blink { 50% { opacity: 0; } }
 
     #ddg-search {
       display: flex;
-      align-items: center;
-      background: #141414;
-      border: 1px solid #333;
-      border-radius: 4px;
+      background: #111;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      overflow: hidden;
     }
+
     #ddg-search input {
-      background: transparent; border: none; color: #fff;
-      padding: 10px 15px; font-family: var(--font); width: 250px; outline: none;
+      background: transparent;
+      border: none;
+      color: white;
+      padding: 8px 12px;
+      width: 220px;
+      outline: none;
     }
+
     #ddg-search button {
-      background: #222; border: none; border-left: 1px solid #333;
-      padding: 10px 15px; cursor: pointer; font-size: 18px;
+      background: #222;
+      border: none;
+      padding: 8px 12px;
+      cursor: pointer;
     }
-    #ddg-search button:hover { background: #333; }
 
     .weather-button {
-      background: none; border: none; font-size: 28px; cursor: pointer;
-      padding: 5px;
-      transition: transform 0.2s;
+      background: none;
+      border: none;
+      font-size: 22px;
+      cursor: pointer;
     }
-    .weather-button:hover { transform: scale(1.1); }
 
-    /* --- Weather Popup --- */
+    /* WEATHER */
     .weather-popup {
-      position: fixed; bottom: 80px; right: 30px;
-      background: #0a0a0a; border: 2px solid var(--c3);
-      border-radius: 8px; padding: 20px; z-index: 1000;
-      opacity: 0; transform: translateY(10px);
-      pointer-events: none; transition: all 0.3s ease;
-      max-width: 300px;
-      box-shadow: 0 4px 20px rgba(0,0,0,0.8);
-    }
-    .weather-popup.active { opacity: 1; transform: translateY(0); pointer-events: auto; }
-    
-    /* --- Main Wall --- */
-    #wall { 
-      flex: 1; 
-      display: flex; 
-      flex-direction: column; 
-      overflow: hidden;
-      position: relative;
-    }
-
-    .row {
-      flex: 1; 
-      display: flex; 
-      align-items: center;
-      position: relative; 
-      border-bottom: 1px solid var(--border);
-      overflow: hidden;
-      min-height: 50px;
-    }
-
-    .label {
-      position: absolute; left: 0; width: 150px; height: 100%;
-      z-index: 10; background: var(--bg);
-      display: flex; align-items: center; justify-content: center;
-      font-weight: 800; text-transform: uppercase; text-align: center;
-      border-right: 1px solid var(--border);
-      user-select: none;
-    }
-
-    /* Row Colors */
-    .row:nth-child(2) .label { color: var(--c1); }
-    .row:nth-child(3) .label { color: var(--c2); }
-    .row:nth-child(4) .label { color: var(--c3); }
-    .row:nth-child(5) .label { color: var(--c4); }
-    .row:nth-child(6) .label { color: var(--c5); }
-    .row:nth-child(7) .label { color: var(--c6); }
-
-    .track-wrapper { 
-      padding-left: 150px; 
-      width: 100%; 
-      height: 100%; 
-      display: flex; 
-      align-items: center; 
-      position: relative;
-    }
-    
-    /* SLOWER ANIMATION: 300s (5 minutes) */
-    .track {
-      display: inline-flex; 
-      white-space: nowrap;
-      animation: tick 300s linear infinite;
-      will-change: transform;
-    }
-    .row:nth-child(even) .track { animation-name: tick-reverse; }
-    
-    /* Pause on hover */
-    .row:hover .track { animation-play-state: paused; }
-
-    @keyframes tick { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
-    @keyframes tick-reverse { 0% { transform: translateX(-50%); } 100% { transform: translateX(0); } }
-
-    .item {
-      color: #9ca3af; 
-      text-decoration: none; 
-      padding: 0 40px;
-      display: flex; 
-      align-items: center; 
-      font-size: 15px;
-      transition: color 0.2s;
-    }
-    .item:hover { color: #fff; text-decoration: underline; }
-    .source-tag { 
-      color: var(--dim); 
-      font-size: 0.85em; 
-      margin-right: 12px; 
-      font-weight: bold; 
-      min-width: 60px;
-      text-align: right;
-    }
-
-    /* Status Indicators */
-    .feed-status {
-      position: absolute;
-      right: 15px;
-      font-size: 16px;
+      position: fixed;
+      right: 20px;
+      bottom: 80px;
+      background: var(--panel);
+      border: 1px solid var(--c1);
+      padding: 14px;
+      border-radius: 8px;
       opacity: 0;
-      transition: opacity 0.3s;
-      z-index: 20;
-      background: var(--bg);
-      padding-left: 10px;
+      pointer-events: none;
+      transform: translateY(10px);
+      transition: 0.2s ease;
+      width: 240px;
     }
-    .feed-status.visible { opacity: 1; }
-    .feed-status.loading { color: var(--c3); }
-    .feed-status.loaded { color: var(--c2); }
-    .feed-status.error { color: var(--c4); }
 
-    .status { 
-      padding: 20px; 
-      color: var(--dim); 
-      text-align: center; 
-      font-size: 14px;
+    .weather-popup.active {
+      opacity: 1;
+      pointer-events: auto;
+      transform: translateY(0);
+    }
+
+    /* FEED */
+    .feed {
+      padding: 20px;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 16px;
+    }
+
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 14px;
+      text-decoration: none;
+      color: inherit;
+      transition: 0.2s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-4px);
+      border-color: var(--c1);
+    }
+
+    .card-header {
       display: flex;
       align-items: center;
-      justify-content: center;
       gap: 10px;
+      font-size: 12px;
+      color: var(--dim);
+      margin-bottom: 10px;
     }
-    
-    /* Accessibility Focus Styles */
-    *:focus-visible {
-      outline: 2px solid var(--c1);
-      outline-offset: 2px;
+
+    .favicon {
+      width: 18px;
+      height: 18px;
     }
-    
-    /* Screen reader only */
-    .sr-only {
-      position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
-      overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0;
+
+    .source {
+      font-weight: bold;
+      color: white;
+    }
+
+    .time {
+      margin-left: auto;
+      font-size: 11px;
+      opacity: 0.7;
+    }
+
+    .title {
+      font-size: 14px;
+      line-height: 1.4;
+    }
+
+    .status {
+      padding: 20px;
+      text-align: center;
+      color: var(--dim);
+    }
+
+    #scroll-sentinel {
+      height: 40px;
     }
   </style>
 </head>
+
 <body>
 
+  <!-- TOP BAR -->
   <header id="top-bar">
-    <div class="brand" aria-label="SysLog Terminal">SysLog</div>
-    <form id="ddg-search" action="https://duckduckgo.com/" method="GET" target="_blank" role="search">
-      <label for="search-input" class="sr-only">Search DuckDuckGo</label>
-      <input type="text" id="search-input" name="q" placeholder="Search DuckDuckGo..." required autocomplete="off">
-      <button type="submit" aria-label="Submit Search">🦆</button>
+    <div class="brand">SysLog</div>
+
+    <form id="ddg-search" action="https://duckduckgo.com/" method="GET" target="_blank">
+      <input name="q" placeholder="Search..." />
+      <button>🔎</button>
     </form>
-    <button class="weather-button" id="weather-btn" aria-label="Toggle Weather Forecast" aria-expanded="false">☀️</button>
+
+    <button class="weather-button" id="weather-btn">☀️</button>
   </header>
 
-  <div class="weather-popup" id="weather-popup" role="dialog" aria-modal="false" aria-labelledby="weather-title">
-    <div id="weather-title" style="color:var(--c3); font-size:12px; margin-bottom:10px; text-transform:uppercase; letter-spacing:1px;">Weather Station</div>
-    <div id="w-temp" style="font-size:24px; font-weight:900;" aria-live="polite">--°F</div>
-    <div id="w-condition" style="color:#fff; margin: 5px 0;">Loading...</div>
-    <div id="w-loc" style="font-size:11px; color:#666; margin-top:10px;">Detecting...</div>
+  <!-- WEATHER -->
+  <div class="weather-popup" id="weather-popup">
+    <div id="w-temp">--°F</div>
+    <div id="w-condition">Loading...</div>
+    <div id="w-loc">...</div>
   </div>
 
-  <div id="wall" aria-live="polite">
-    <div class="status">
-      <span style="color:var(--c3)">●</span> Initializing Data Stream...
-    </div>
-  </div>
+  <!-- FEED -->
+  <main class="feed" id="feed">
+    <div class="status">Initializing stream...</div>
+  </main>
+
+  <div id="scroll-sentinel"></div>
 
   <script>
-    /**
-     * SysLog Dashboard Logic
-     * Optimized for Lighthouse 100+ (Performance, A11y, Best Practices)
-     */
+    'use strict';
 
-    // --- Configuration ---
-    const CONFIG = {
-      animationDuration: 300, // 5 minutes (Half of 10m)
-      scoreRefreshRate: 60000, // 60 seconds
-      groups: [
-        { id: 'nfl', label: 'NFL', sources: ['nfl'] },
-        { id: 'nba', label: 'NBA', sources: ['nba'] },
-        { id: 'tech', label: 'TECH / CYBER', sources: ['tech', 'hacker', 'cyber'] },
-        { id: 'science', label: 'SCI / SPACE', sources: ['science', 'space'] },
-        { id: 'gaming', label: 'GAMING', sources: ['gaming'] },
-        { id: 'mlb', label: 'MLB', sources: ['mlb'] }
-      ]
+    let ITEMS = [];
+    let index = 0;
+    const BATCH = 12;
+
+    function favicon(url) {
+      try {
+        return "https://www.google.com/s2/favicons?domain=" + new URL(url).hostname + "&sz=64";
+      } catch {
+        return "";
+      }
+    }
+
+    function timeAgo(ts) {
+      const diff = Date.now() - ts * 1000;
+      const m = Math.floor(diff / 60000);
+      const h = Math.floor(m / 60);
+      const d = Math.floor(h / 24);
+
+      if (d > 0) return d + "d ago";
+      if (h > 0) return h + "h ago";
+      if (m > 0) return m + "m ago";
+      return "now";
+    }
+
+    function renderBatch() {
+      const feed = document.getElementById("feed");
+
+      const slice = ITEMS.slice(index, index + BATCH);
+
+      slice.forEach(item => {
+        const a = document.createElement("a");
+        a.className = "card";
+        a.href = item.link;
+        a.target = "_blank";
+
+        a.innerHTML = `
+          <div class="card-header">
+            <img class="favicon" src="${favicon(item.link)}" />
+            <span class="source">${item.source}</span>
+            <span class="time">${timeAgo(item.timestamp)}</span>
+          </div>
+          <div class="title">${item.title}</div>
+        `;
+
+        feed.appendChild(a);
+      });
+
+      index += BATCH;
+    }
+
+    async function load() {
+      try {
+        const res = await fetch("./data.json?t=" + Date.now());
+        const data = await res.json();
+
+        ITEMS = (data.items || []).sort((a, b) => b.timestamp - a.timestamp);
+
+        document.getElementById("feed").innerHTML = "";
+
+        renderBatch();
+      } catch (e) {
+        document.getElementById("feed").innerHTML =
+          "<div class='status'>Failed to load data.json</div>";
+      }
+    }
+
+    const observer = new IntersectionObserver(e => {
+      if (e[0].isIntersecting) renderBatch();
+    });
+
+    observer.observe(document.getElementById("scroll-sentinel"));
+
+    // Weather
+    document.getElementById("weather-btn").onclick = async () => {
+      const pop = document.getElementById("weather-popup");
+      pop.classList.toggle("active");
+
+      try {
+        const geo = await fetch("https://ipapi.co/json/").then(r => r.json());
+        const w = await fetch(
+          `https://api.open-meteo.com/v1/forecast?latitude=${geo.latitude}&longitude=${geo.longitude}&current_weather=true`
+        ).then(r => r.json());
+
+        document.getElementById("w-temp").innerText =
+          Math.round(w.current_weather.temperature) + "°F";
+
+        document.getElementById("w-condition").innerText =
+          "Weather code: " + w.current_weather.weathercode;
+
+        document.getElementById("w-loc").innerText =
+          geo.city + ", " + geo.region_code;
+      } catch {}
     };
 
-    // --- State Management ---
-    let scoreIntervalId = null;
-
-    // --- DOM Elements ---
-    const wall = document.getElementById('wall');
-    const weatherBtn = document.getElementById('weather-btn');
-    const weatherPopup = document.getElementById('weather-popup');
-    const statusDiv = document.querySelector('.status');
-
-    // --- 1. Weather Logic (Optimized) ---
-    async function loadWeather() {
-      try {
-        const geoPromise = fetch('https://ipapi.co/json/', { signal: AbortSignal.timeout(5000) }).then(r => r.json());
-        const geo = await geoPromise;
-        
-        const wPromise = fetch(`https://api.open-meteo.com/v1/forecast?latitude=${geo.latitude}&longitude=${geo.longitude}&current_weather=true&temperature_unit=fahrenheit`, { signal: AbortSignal.timeout(5000) }).then(r => r.json());
-        const w = await wPromise;
-
-        const wmoCodes = {
-            0: 'Clear sky ☀️', 1: 'Mainly clear 🌤️', 2: 'Partly cloudy ⛅', 3: 'Overcast ☁️',
-            45: 'Fog 🌫️', 48: 'Freezing fog 🌫️', 51: 'Light drizzle 🌧️', 53: 'Drizzle 🌧️', 
-            55: 'Heavy drizzle 🌧️', 61: 'Light rain 🌧️', 63: 'Rain 🌧️', 65: 'Heavy rain 🌧️',
-            71: 'Light snow ❄️', 73: 'Snow ❄️', 75: 'Heavy snow ❄️', 77: 'Snow grains ❄️',
-            80: 'Light showers 🌦️', 81: 'Showers 🌦️', 82: 'Heavy showers ⛈️',
-            85: 'Snow showers 🌨️', 86: 'Heavy snow showers 🌨️', 95: 'Thunderstorm ⛈️',
-            96: 'Storm w/ light hail ⛈️', 99: 'Storm w/ heavy hail ⛈️'
-        };
-
-        const conditionText = wmoCodes[w.current_weather.weathercode] || 'Unknown';
-
-        document.getElementById('w-temp').innerText = Math.round(w.current_weather.temperature) + '°F';
-        document.getElementById('w-condition').innerText = conditionText;
-        document.getElementById('w-loc').innerText = `📍 ${geo.city || 'Unknown'}, ${geo.region_code || ''}`;
-        
-        updateStatus('Weather Online', 'var(--c2)');
-      } catch (e) {
-        console.warn("Weather load failed:", e);
-        document.getElementById('w-condition').innerText = "Offline";
-        updateStatus('Weather Offline', 'var(--c4)');
-      }
-    }
-
-    // --- 2. Live Scores (Robust & Safe) ---
-    async function loadScores() {
-      try {
-        const apis = [
-          { lg: 'NBA', url: 'https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard' },
-          { lg: 'MLB', url: 'https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard' },
-          { lg: 'NFL', url: 'https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard' }
-        ];
-
-        let allScores = [];
-
-        const results = await Promise.allSettled(apis.map(async ({lg, url}) => {
-          const res = await fetch(url, { signal: AbortSignal.timeout(8000) });
-          if (!res.ok) throw new Error(`HTTP ${res.status}`);
-          return { lg, data: await res.json() };
-        }));
-
-        results.forEach(result => {
-          if (result.status === 'fulfilled') {
-            const { lg, data } = result.value;
-            data.events?.forEach(event => {
-              const comp = event.competitions?.[0];
-              if (!comp) return;
-              const home = comp.competitors.find(c => c.homeAway === 'home');
-              const away = comp.competitors.find(c => c.homeAway === 'away');
-              if (!home || !away) return;
-
-              const statusText = event.status?.type?.shortDetail || 'Scheduled';
-              
-              allScores.push({
-                lg: lg,
-                text: `${away.team.abbreviation} ${away.score} @ ${home.team.abbreviation} ${home.score} (${statusText})`,
-                link: event.links?.[0]?.href || '#'
-              });
-            });
-          }
-        });
-
-        let scoreRow = document.getElementById('live-scores-row');
-        
-        if (allScores.length > 0) {
-          const scrollContent = [...allScores, ...allScores].map(item => `
-            <a href="${item.link}" target="_blank" rel="noopener noreferrer" class="item" style="color: #fff; font-weight: bold;">
-              <span class="source-tag" style="color: var(--c3);">[${item.lg}]</span> ${item.text}
-            </a>
-          `).join('');
-
-          if (!scoreRow) {
-            scoreRow = document.createElement('div');
-            scoreRow.id = 'live-scores-row';
-            scoreRow.className = 'row';
-            scoreRow.setAttribute('aria-label', 'Live Sports Scores');
-            wall.prepend(scoreRow);
-          }
-          
-          const currentTrack = scoreRow.querySelector('.track');
-          if (!currentTrack || currentTrack.innerHTML !== scrollContent) {
-             scoreRow.innerHTML = `
-              <div class="label" style="background: var(--c3); color: #000; border-right: none;">LIVE SCORES</div>
-              <div class="track-wrapper"><div class="track">${scrollContent}</div></div>
-            `;
-          }
-        } else {
-          if (scoreRow) scoreRow.remove();
-        }
-
-      } catch (e) {
-        console.error("Score fetch failed", e);
-      }
-    }
-
-    // --- 3. News Feeds (With Icons & Safety) ---
-    async function loadFeeds() {
-      try {
-        const response = await fetch('./data.json?t=' + Date.now(), { signal: AbortSignal.timeout(5000) });
-        if (!response.ok) throw new Error('data.json not found');
-        const data = await response.json();
-        
-        const existingScores = document.getElementById('live-scores-row');
-        
-        // Clear only non-score rows
-        const rowsToRemove = Array.from(wall.querySelectorAll('.row:not(#live-scores-row)'));
-        rowsToRemove.forEach(row => row.remove());
-
-        if (existingScores) wall.appendChild(existingScores);
-
-        let loadedCount = 0;
-
-        const renderPromises = CONFIG.groups.map(async (group) => {
-          let items = [];
-          group.sources.forEach(s => { 
-            if(data[s] && Array.isArray(data[s])) {
-              items = [...items, ...data[s].map(i => ({...i, s}))]; 
-            }
-          });
-
-          if (items.length === 0) return;
-
-          const row = document.createElement('div');
-          row.className = 'row';
-          row.setAttribute('role', 'region');
-          row.setAttribute('aria-label', `${group.label} Feed`);
-
-          // Add Status Icon
-          const statusIcon = document.createElement('div');
-          statusIcon.className = 'feed-status loading visible';
-          statusIcon.innerHTML = '⏳';
-          row.appendChild(statusIcon);
-
-          const scrollContent = [...items, ...items].map(item => `
-            <a href="${item.link}" target="_blank" rel="noopener noreferrer" class="item">
-              <span class="source-tag">[${item.s.toUpperCase()}]</span> ${item.title}
-            </a>
-          `).join('');
-
-          row.innerHTML = `
-            <div class="label">${group.label}</div>
-            <div class="track-wrapper"><div class="track">${scrollContent}</div></div>
-          `;
-          
-          // Append icon back
-          row.appendChild(statusIcon);
-          wall.appendChild(row);
-
-          // Success State
-          statusIcon.className = 'feed-status loaded visible';
-          statusIcon.innerHTML = '✅';
-          loadedCount++;
-        });
-
-        await Promise.all(renderPromises);
-
-        if (loadedCount === 0 && existingScores) {
-           updateStatus('News Offline (Check data.json)', 'var(--c4)');
-        } else if (existingScores) {
-           updateStatus('Systems Online', 'var(--c2)');
-        }
-
-      } catch (e) {
-        console.error("Feed load failed", e);
-        const existingScores = document.getElementById('live-scores-row');
-        if (!existingScores) {
-          updateStatus('Critical: Data Stream Offline', 'var(--c4)');
-        } else {
-          updateStatus('News Offline, Scores Active', 'var(--c3)');
-        }
-      }
-    }
-
-    // --- Helpers ---
-    function updateStatus(msg, color) {
-      statusDiv.innerHTML = `<span style="color:${color}">●</span> ${msg}`;
-    }
-
-    // --- Initialization ---
-    weatherBtn.addEventListener('click', () => {
-      const isActive = weatherPopup.classList.toggle('active');
-      weatherBtn.setAttribute('aria-expanded', isActive);
-    });
-
-    // Initial Load
-    loadWeather();
-    loadScores();
-    loadFeeds();
-
-    // Auto-Update Loop (Safe Interval)
-    function startAutoUpdates() {
-      if (scoreIntervalId) clearInterval(scoreIntervalId);
-      scoreIntervalId = setInterval(() => {
-        loadScores();
-      }, CONFIG.scoreRefreshRate);
-    }
-
-    startAutoUpdates();
-
-    // Cleanup on unload
-    window.addEventListener('beforeunload', () => {
-      if (scoreIntervalId) clearInterval(scoreIntervalId);
-    });
-
+    load();
   </script>
+
 </body>
 </html>
