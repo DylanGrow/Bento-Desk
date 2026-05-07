@@ -247,7 +247,7 @@
 
     <form id="ddg-search" action="https://duckduckgo.com/" method="GET" target="_blank">
       <input name="q" placeholder="Search..." />
-      <button>🔎</button>
+      <button>🦆</button>
     </form>
 
     <button class="weather-button" id="weather-btn">☀️</button>
@@ -350,6 +350,34 @@
 
     observer.observe(document.getElementById("scroll-sentinel"));
 
+    // Weather code to description mapping
+    const weatherCodes = {
+      0: "Clear sky",
+      1: "Mainly clear",
+      2: "Partly cloudy",
+      3: "Overcast",
+      45: "Foggy",
+      48: "Depositing rime fog",
+      51: "Light drizzle",
+      53: "Moderate drizzle",
+      55: "Dense drizzle",
+      61: "Slight rain",
+      63: "Moderate rain",
+      65: "Heavy rain",
+      71: "Slight snow",
+      73: "Moderate snow",
+      75: "Heavy snow",
+      77: "Snow grains",
+      80: "Slight rain showers",
+      81: "Moderate rain showers",
+      82: "Violent rain showers",
+      85: "Slight snow showers",
+      86: "Heavy snow showers",
+      95: "Thunderstorm",
+      96: "Thunderstorm with slight hail",
+      99: "Thunderstorm with heavy hail"
+    };
+
     // Weather
     document.getElementById("weather-btn").onclick = async () => {
       const pop = document.getElementById("weather-popup");
@@ -364,8 +392,9 @@
         document.getElementById("w-temp").innerText =
           Math.round(w.current_weather.temperature) + "°F";
 
+        const code = w.current_weather.weathercode;
         document.getElementById("w-condition").innerText =
-          "Weather code: " + w.current_weather.weathercode;
+          weatherCodes[code] || "Unknown";
 
         document.getElementById("w-loc").innerText =
           geo.city + ", " + geo.region_code;
