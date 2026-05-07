@@ -52,6 +52,68 @@
       z-index: 10;
     }
 
+    /* TICKER */
+    #ticker-container {
+      background: #000;
+      border-bottom: 2px solid var(--c1);
+      overflow: hidden;
+      position: sticky;
+      top: 61px;
+      z-index: 9;
+      height: 40px;
+      display: flex;
+      align-items: center;
+    }
+
+    #ticker-label {
+      background: var(--c1);
+      color: #000;
+      padding: 0 16px;
+      font-weight: 800;
+      font-size: 12px;
+      letter-spacing: 0.1em;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+    }
+
+    #ticker-content {
+      display: flex;
+      align-items: center;
+      white-space: nowrap;
+      animation: scroll-ticker 60s linear infinite;
+      padding-left: 100%;
+    }
+
+    .ticker-item {
+      padding: 0 40px;
+      font-size: 13px;
+      color: var(--text);
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .ticker-item::before {
+      content: "●";
+      color: var(--c1);
+      font-size: 8px;
+    }
+
+    @keyframes scroll-ticker {
+      0% {
+        transform: translateX(0);
+      }
+      100% {
+        transform: translateX(-50%);
+      }
+    }
+
+    #ticker-content:hover {
+      animation-play-state: paused;
+    }
+
     .brand {
       color: var(--c1);
       font-weight: 800;
@@ -191,6 +253,14 @@
     <button class="weather-button" id="weather-btn">☀️</button>
   </header>
 
+  <!-- TICKER -->
+  <div id="ticker-container">
+    <div id="ticker-label">LIVE</div>
+    <div id="ticker-content">
+      <!-- Ticker items will be populated by JavaScript -->
+    </div>
+  </div>
+
   <!-- WEATHER -->
   <div class="weather-popup" id="weather-popup">
     <div id="w-temp">--°F</div>
@@ -302,6 +372,41 @@
       } catch {}
     };
 
+    // Ticker - loads sports news from data.json
+    async function initTicker() {
+      const ticker = document.getElementById("ticker-content");
+      
+      try {
+        const res = await fetch("./data.json?t=" + Date.now());
+        const data = await res.json();
+        
+        // Filter for sports categories (nba, nfl, mlb, etc.)
+        const sportsCategories = ['nba', 'nfl', 'mlb', 'nhl', 'soccer'];
+        const sportsItems = (data.items || [])
+          .filter(item => sportsCategories.includes(item.category?.toLowerCase()))
+          .map(item => item.title);
+        
+        // If no sports items, use all items
+        const tickerItems = sportsItems.length > 0 ? sportsItems :
+          (data.items || []).map(item => item.title);
+        
+        // Duplicate items for seamless loop
+        const allItems = [...tickerItems, ...tickerItems];
+        
+        ticker.innerHTML = allItems
+          .map(item => `<span class="ticker-item">${item}</span>`)
+          .join("");
+      } catch (e) {
+        // Fallback to sample items if data.json fails
+        ticker.innerHTML = `
+          <span class="ticker-item">NBA playoff winners and losers: Knicks overwhelm 76ers</span>
+          <span class="ticker-item">2026 NBA playoff bracket: Schedule, matchups with second round underway</span>
+          <span class="ticker-item">Jaylen Brown hasn't shared 'frustrations' with Celtics</span>
+        `.repeat(2);
+      }
+    }
+
+    initTicker();
     load();
   </script>
 
