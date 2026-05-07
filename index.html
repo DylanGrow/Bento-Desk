@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <!-- News icon from a CDN -->
-<link rel="icon" href="https://cdn-icons-png.flaticon.com/512/888/888878.png" type="image/png">
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="SysLog: Real-time news dashboard." />
@@ -282,7 +280,7 @@
 
     let ITEMS = [];
     let index = 0;
-    const BATCH = 12;
+    const BATCH = 30;
 
     function favicon(url) {
       try {
@@ -403,7 +401,7 @@
       } catch {}
     };
 
-    // Ticker - loads sports news from data.json
+    // Ticker - loads ONLY sports scores/news from data.json
     async function initTicker() {
       const ticker = document.getElementById("ticker-content");
       
@@ -411,24 +409,26 @@
         const res = await fetch("./data.json?t=" + Date.now());
         const data = await res.json();
         
-        // Filter for sports categories (nba, nfl, mlb, etc.)
+        // Filter ONLY for sports categories
         const sportsCategories = ['nba', 'nfl', 'mlb', 'nhl', 'soccer'];
         const sportsItems = (data.items || [])
           .filter(item => sportsCategories.includes(item.category?.toLowerCase()))
           .map(item => item.title);
         
-        // If no sports items, use all items
-        const tickerItems = sportsItems.length > 0 ? sportsItems :
-          (data.items || []).map(item => item.title);
+        // If no sports items, show message
+        if (sportsItems.length === 0) {
+          ticker.innerHTML = '<span class="ticker-item">No sports updates available</span>'.repeat(3);
+          return;
+        }
         
         // Duplicate items for seamless loop
-        const allItems = [...tickerItems, ...tickerItems];
+        const allItems = [...sportsItems, ...sportsItems];
         
         ticker.innerHTML = allItems
           .map(item => `<span class="ticker-item">${item}</span>`)
           .join("");
       } catch (e) {
-        // Fallback to sample items if data.json fails
+        // Fallback to sample sports items if data.json fails
         ticker.innerHTML = `
           <span class="ticker-item">NBA playoff winners and losers: Knicks overwhelm 76ers</span>
           <span class="ticker-item">2026 NBA playoff bracket: Schedule, matchups with second round underway</span>
