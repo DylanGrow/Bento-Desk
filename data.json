@@ -1,6 +1,13 @@
 {
-  "last_updated": 1778134079,
+  "last_updated": 1778146157,
   "items": [
+    {
+      "title": "Scientists accidentally discover DNA that breaks the rules of life",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260507024045.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1778137281
+    },
     {
       "title": "Five architects of the AI economy explain where the wheels are coming off",
       "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
@@ -14,6 +21,13 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1778130768
+    },
+    {
+      "title": "People once risked everything just to keep their hats on",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260506225231.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1778129062
     },
     {
       "title": "2026 NBA playoff bracket: Schedule, matchups with second round underway",
@@ -30,11 +44,11 @@
       "timestamp": 1778124925
     },
     {
-      "title": "Scientists finally solve 40-year-old physics puzzle about how things grow",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260505234622.htm",
+      "title": "Your DNA may predict your future success more than your upbringing",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260505234624.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
-      "timestamp": 1778113708
+      "timestamp": 1778121677
     },
     {
       "title": "Everything We Learned about Stranger Than Heaven During the Xbox Presents Showcase",
@@ -49,13 +63,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1778109367
-    },
-    {
-      "title": "This town found clean energy deep inside old coal mines",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260505234631.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1778109020
     },
     {
       "title": "Planet of the Apes Reboot in the Works from The Fantastic Four: First Steps Director Matt Shakman",
@@ -98,13 +105,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1778104047
-    },
-    {
-      "title": "Blue Origin’s new moon lander just survived extreme space testing on Earth",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260505234608.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1778102886
     },
     {
       "title": "How an exoplanet odd couple survived by traveling in from the cold together",
