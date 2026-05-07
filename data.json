@@ -1,117 +1,40 @@
 {
-  "last_updated": 1778190936,
+  "last_updated": 1778194802,
   "items": [
     {
-      "title": "Copy of Yanks' Domínguez exits after crashing into wall",
-      "link": "https://www.espn.com/mlb/story/_/id/48704010/yankees-jasson-dominguez-crashes-wall-making-catch",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778193305
+      "title": "OpenAI launches new voice intelligence features in its API",
+      "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778192690
     },
     {
-      "title": "'This his city': Rueben Bain Jr. dons Warren Sapp ...",
-      "link": "https://www.espn.com/nfl/story/_/id/48704786/rueben-bain-tampa-bay-buccaneers-rookie-camp-arrival-warren-sapp-jersey",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778192960
+      "title": "Eating eggs could cut Alzheimer’s risk by 27%",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260506225214.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1778192561
     },
     {
-      "title": "Justin Herbert seemingly appears in Madison Beer t...",
-      "link": "https://www.espn.com/nfl/story/_/id/48696952/justin-berbert-los-angeles-chargers-madison-beer-music-video-teaser",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778192960
+      "title": "A bizarre 'decapitated' asteroid likely made the moon's largest impact crater. NASA's Artemis astronauts may land near the proof",
+      "link": "https://www.space.com/astronomy/moon/a-bizarre-decapitated-asteroid-likely-made-the-moons-largest-impact-crater-nasas-artemis-astronauts-may-land-near-the-proof",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1778191200
     },
     {
-      "title": "Family sighs: Boyd, hurt with kids, has surgery",
-      "link": "https://www.espn.com/mlb/story/_/id/48703326/cubs-matthew-boyd-least-month-knee-surgery",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778192124
+      "title": "Andy Serkis Praises Expedition 33, Says Hollywood's 'Snobbery' Towards Video Game is Changing",
+      "link": "https://www.ign.com/articles/andy-serkis-praises-expedition-33-says-hollywoods-snobbery-towards-video-game-is-changing",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778190702
     },
     {
-      "title": "Red Sox opting to place Anthony (wrist) on IL",
-      "link": "https://www.espn.com/mlb/story/_/id/48705793/red-sox-opting-put-roman-anthony-10-day-il",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778192124
-    },
-    {
-      "title": "Reds' Lowder exits start with shoulder discomfort",
-      "link": "https://www.espn.com/mlb/story/_/id/48705855/reds-starter-rhett-lowder-exits-right-shoulder-discomfort",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778192124
-    },
-    {
-      "title": "Tigers' Valdez gets 6-game ban for plunking Story",
-      "link": "https://www.espn.com/mlb/story/_/id/48696576/tigers-framber-valdez-gets-6-game-suspension-hitting-batter",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778192124
-    },
-    {
-      "title": "Skenes blanks D-backs on two-hit gem for Pirates",
-      "link": "https://www.espn.com/mlb/story/_/id/48699749/pirates-ride-paul-skenes-2-hit-gem-shutout-win-d-backs",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778192124
-    },
-    {
-      "title": "Astros' Correa to have ankle surgery, done for '26...",
-      "link": "https://www.espn.com/mlb/story/_/id/48693982/astros-carlos-correa-undergo-season-ending-ankle-surgery",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778192124
-    },
-    {
-      "title": "Royals' Ragans removed after 3 scoreless innings",
-      "link": "https://www.espn.com/mlb/story/_/id/48698409/royals-starter-cole-ragans-removed-3-scoreless-innings-vs-cleveland",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778192124
-    },
-    {
-      "title": "Sources: Rodgers likely to play for Steelers in '2...",
-      "link": "https://www.espn.com/nfl/story/_/id/48703228/sources-rodgers-visit-steelers-likely-play-team-26",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778191596
-    },
-    {
-      "title": "Colts release CB Moore after failing to find trade...",
-      "link": "https://www.espn.com/nfl/story/_/id/48704402/colts-release-cornerback-kenny-moore-safety-nassir-adderley",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778191596
-    },
-    {
-      "title": "Bears waive Frazier, DB who sat out all of 2025",
-      "link": "https://www.espn.com/nfl/story/_/id/48705653/bears-waive-zah-frazier-missed-25-personal-reason",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778191596
-    },
-    {
-      "title": "Morris aims to help pals Shanahan, Lynch win SB",
-      "link": "https://www.espn.com/nfl/story/_/id/48705651/49ers-dc-morris-aims-help-pals-shanahan-lynch-win-super-bowl",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778191596
-    },
-    {
-      "title": "Pats' Maye backs Vrabel: 'Great human being'",
-      "link": "https://www.espn.com/nfl/story/_/id/48697495/patriots-qb-maye-backs-vrabel-not-worried-distraction",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778191596
-    },
-    {
-      "title": "QB Wilson weighing offer from Jets, TV career",
-      "link": "https://www.espn.com/nfl/story/_/id/48695339/russell-wilson-says-weighing-offer-jets-network-tv",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778191596
+      "title": "Webb space telescope finds a giant galaxy that doesn’t spin",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260506225135.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1778190636
     },
     {
       "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
@@ -121,11 +44,25 @@
       "timestamp": 1778190564
     },
     {
+      "title": "Use DraftKings promo code for $100 in bonus bets by targeting Thunder-Lakers, Pistons-Cavaliers, MLB Thursday",
+      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-100-bonus-bets-thunder-thunder-pistons-cavaliers-mlb-thursday/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778190335
+    },
+    {
       "title": "Disney looking to make a unified ‘super app,’ report says",
       "link": "https://techcrunch.com/2026/05/07/disney-looking-to-make-a-unified-super-app-report-says/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1778190010
+    },
+    {
+      "title": "DHS can’t create vast DNA database to track ICE critics, lawsuit says",
+      "link": "https://arstechnica.com/tech-policy/2026/05/ice-protesters-sue-to-stop-dhs-from-seizing-dna-samples/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778189701
     },
     {
       "title": "With GTA 6 Due Out in November, Rockstar Teases 'Exciting New Update' for GTA Online This Summer",
@@ -203,13 +140,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1778184648
-    },
-    {
-      "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
-      "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778183879
     },
     {
       "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Thunder-Lakers, Pistons-Cavaliers on Thursday",
@@ -296,13 +226,6 @@
       "timestamp": 1778174971
     },
     {
-      "title": "NBA Draft Lottery 2026: Which teams most deserve to land the No. 1 pick?",
-      "link": "https://www.cbssports.com/nba/news/nba-draft-lottery-2026-no-1-pick/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778174395
-    },
-    {
       "title": "Warhammer 40,000: Dawn of War IV Adeptus Mechanicus Gameplay Trailer Reveals Quick, Ranged Combat Faction With Plenty of Advanced Tech Tricks",
       "link": "https://www.ign.com/articles/warhammer-40000-dawn-of-war-iv-adeptus-mechanicus-gameplay-trailer-reveals-quick-ranged-combat-faction-with-plenty-of-advanced-tech-tricks",
       "source": "IGN",
@@ -315,13 +238,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778169600
-    },
-    {
-      "title": "Harry Potter TV Series Forced to Microchip Broomsticks Following Set Thefts",
-      "link": "https://www.ign.com/articles/harry-potter-tv-series-forced-to-microchip-broomsticks-following-set-thefts",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778169356
     },
     {
       "title": "Moon joy at Jupiter | Space photo of the day for May 7, 2026",
@@ -364,13 +280,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778158800
-    },
-    {
-      "title": "Artemis 2 moon launch brought nearly 350,000 people to Florida's Space Coast",
-      "link": "https://www.space.com/space-exploration/artemis/artemis-2-moon-launch-brought-nearly-350-000-people-to-floridas-space-coast",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1778155896
     },
     {
       "title": "Is your Porsche Taycan too slow at the Nürburgring? You need this Manthey Kit.",
@@ -427,27 +336,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1778106527
-    },
-    {
-      "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX",
-      "link": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778105354
-    },
-    {
-      "title": "Blue Origin’s new moon lander just survived extreme space testing on Earth",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260505234608.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1778102886
-    },
-    {
-      "title": "NASA just tested a powerful new thruster that could send humans to Mars",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260505234611.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1778101224
     }
   ]
 }
