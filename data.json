@@ -1,6 +1,76 @@
 {
-  "last_updated": 1778263669,
+  "last_updated": 1778270730,
   "items": [
+    {
+      "title": "Intel’s comeback story is even wilder than it seems",
+      "link": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778270572
+    },
+    {
+      "title": "Today's top games to watch, best bets, odds: important NBA, NHL playoff showdowns and more",
+      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-important-nba-nhl-playoff-showdowns-and-more/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778268958
+    },
+    {
+      "title": "NBA playoff schedule, odds, predictions for 76ers vs. Knicks, Timberwolves vs. Spurs",
+      "link": "https://www.cbssports.com/nba/news/nba-games-today-knicks-76ers-odds-may-8/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778268847
+    },
+    {
+      "title": "NBA Draft Lottery luck rankings: Who is due for a top pick? Heat, Kings among most historically unlucky teams",
+      "link": "https://www.cbssports.com/nba/news/nba-draft-lottery-luck-rankings-2026/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778267990
+    },
+    {
+      "title": "2026 NBA playoff bracket: Schedule, matchups with second round underway",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778267918
+    },
+    {
+      "title": "Monopoly sucks, but this new 'Star Wars' video game spinoff might add some galactic sizzle",
+      "link": "https://www.space.com/entertainment/space-games/monopoly-sucks-but-this-new-star-wars-video-game-spinoff-might-add-some-galactic-sizzle",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1778266800
+    },
+    {
+      "title": "Pentagon Reveals First Wave of UFO Files as the Internet Tries to Make Any Sense of Them",
+      "link": "https://www.ign.com/articles/pentagon-reveals-first-wave-of-ufo-files-as-the-internet-tries-to-make-any-sense-of-them",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778265632
+    },
+    {
+      "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+      "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778265201
+    },
+    {
+      "title": "Prime Video Finds Its Sex Criminals: Imogen Poots and John Reynolds to Star in New Series",
+      "link": "https://www.ign.com/articles/prime-video-finds-its-sex-criminals-imogen-poots-and-john-reynolds-to-star-in-new-series",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778264806
+    },
+    {
+      "title": "Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul",
+      "link": "https://techcrunch.com/2026/05/08/porsche-shutters-e-bike-battery-software-subsidiaries-as-part-of-company-overhaul/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778264729
+    },
     {
       "title": "How you'd really die in space: What sci-fi gets right (and wrong) about extra-terrestrial expirations",
       "link": "https://www.space.com/entertainment/space-movies-shows/how-youd-really-die-in-space-what-sci-fi-gets-right-and-wrong-about-extra-terrestrial-expirations",
@@ -23,6 +93,13 @@
       "timestamp": 1778261626
     },
     {
+      "title": "Elon Musk faces criminal probe in France after ignoring summons in X case",
+      "link": "https://arstechnica.com/tech-policy/2026/05/elon-musk-faces-criminal-probe-in-france-after-ignoring-summons-in-x-case/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778261578
+    },
+    {
       "title": "Spurs vs. Timberwolves odds, prediction, time: 2026 NBA playoff picks, Game 3 best bets from proven model",
       "link": "https://www.cbssports.com/nba/news/spurs-timberwolves-odds-prediction-time-2026-nba-playoff-picks-game-3-best-bets/",
       "source": "CBSSPORTS",
@@ -35,6 +112,13 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1778260837
+    },
+    {
+      "title": "Chrome's 4GB AI model isn't new, but you're not wrong for being confused",
+      "link": "https://arstechnica.com/google/2026/05/no-google-hasnt-changed-chromes-local-ai-features-its-just-as-confusing-as-ever/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778260637
     },
     {
       "title": "This is your best chance to spot the Milky Way's core in May",
@@ -114,25 +198,11 @@
       "timestamp": 1778254108
     },
     {
-      "title": "Use DraftKings promo code for $100 in bonus bets by targeting Knicks-76ers, Spurs-Timberwolves, MLB on Friday",
-      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-100-bonus-bets-knicks-76ers-spurs-timberwolves-mlb-friday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778253949
-    },
-    {
       "title": "DNA identifies four more crew members of doomed Franklin expedition",
       "link": "https://arstechnica.com/science/2026/05/dna-identifies-four-more-crew-members-of-doomed-franklin-expedition/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1778253321
-    },
-    {
-      "title": "2026 NBA Draft Combine: Nate Ament, Koa Peat, Yaxel Lendeborg among five players with most to prove in Chicago",
-      "link": "https://www.cbssports.com/nba/news/nba-draft-combine-2026-nate-ament-koa-peat-yaxel-lendeborg/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778252837
     },
     {
       "title": "Which Macs are suffering from shortages—and where are things getting worse?",
@@ -147,27 +217,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778252400
-    },
-    {
-      "title": "Truecaller slashes 70 jobs amid declining ad sales",
-      "link": "https://techcrunch.com/2026/05/08/truecaller-slashes-70-jobs-amid-declining-ad-sales/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778251313
-    },
-    {
-      "title": "Live only at TechCrunch Disrupt 2026: Why most founders are already behind on raising a Series A in 2027",
-      "link": "https://techcrunch.com/2026/05/08/live-only-at-techcrunch-disrupt-2026-why-most-founders-are-already-behind-on-raising-a-series-a-in-2027/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778250600
-    },
-    {
-      "title": "How the NBA Draft Lottery works: Each team's odds of winning the No. 1 pick in 2026, players to be selected",
-      "link": "https://www.cbssports.com/nba/news/how-the-nba-draft-lottery-works-each-teams-odds-of-winning-the-no-1-pick-in-2026-players-to-be-selected/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778250389
     },
     {
       "title": "Looks Like PlayStation 2 Will Remain Best-Selling Console of All Time, as Nintendo Switch Sales Drop Off",
@@ -198,13 +247,6 @@
       "timestamp": 1778249134
     },
     {
-      "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778248800
-    },
-    {
       "title": "Learn the night sky without an app: May's easiest star-hops for beginners",
       "link": "https://www.space.com/stargazing/learn-the-night-sky-without-an-app-mays-easiest-star-hops-for-beginners",
       "source": "SPACE",
@@ -219,13 +261,6 @@
       "timestamp": 1778248794
     },
     {
-      "title": "2026 NBA playoff predictions, odds, picks for May 8: This 3-way parlay returns over +600",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-picks-parlay-predictions-odds-for-friday-may-8/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778246510
-    },
-    {
       "title": "Helldivers 2 Dev Promises More Content Is on the Way as Disgruntled Players Drag Steam Reviews Down to 'Mostly Negative'",
       "link": "https://www.ign.com/articles/helldivers-2-dev-promises-more-content-is-on-the-way-as-disgruntled-players-drag-steam-reviews-down-to-mostly-negative",
       "source": "IGN",
@@ -238,41 +273,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778245200
-    },
-    {
-      "title": "Warhorse Knows They May Lose Some Players Because Kingdom Come: Deliverance Is Intentionally Difficult, but That's What Makes It Special",
-      "link": "https://www.ign.com/articles/warhorse-knows-they-may-lose-some-players-because-kingdom-come-deliverance-is-intentionally-difficult-but-thats-what-makes-it-special",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778243827
-    },
-    {
-      "title": "SpaceX just fired up its 33-engine Starship 'V3' Super Heavy rocket booster. When could it fly? (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-just-fired-up-its-33-engine-starship-v3-super-heavy-rocket-booster-when-could-it-fly",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1778241600
-    },
-    {
-      "title": "Devil May Cry Season 3 Reportedly Greenlit at Netflix",
-      "link": "https://www.ign.com/articles/devil-may-cry-season-3-reportedly-greenlit-at-netflix",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778240573
-    },
-    {
-      "title": "Everyone’s a loser in Strait of Hormuz game that simulates global crisis",
-      "link": "https://arstechnica.com/gaming/2026/05/everyones-a-loser-in-straight-of-hormuz-game-that-simulates-global-crisis/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778238942
-    },
-    {
-      "title": "Rocket Report: Alpha Block 2 coming this summer; Falcon sets booster landing mark",
-      "link": "https://arstechnica.com/space/2026/05/rocket-report-flying-past-peak-falcon-9-rocket-lab-revenue-soars/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778238055
     },
     {
       "title": "A common constipation drug shows surprising power to protect kidneys",
