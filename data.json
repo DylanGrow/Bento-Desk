@@ -1,61 +1,138 @@
 {
-  "last_updated": 1778251779,
+  "last_updated": 1778256988,
   "items": [
+    {
+      "title": "Justin Herbert stars in girlfriend Madison Beer's ...",
+      "link": "https://www.espn.com/nfl/story/_/id/48696952/justin-berbert-los-angeles-chargers-madison-beer-music-video-teaser",
+      "source": "ESPN",
+      "category": "nfl",
+      "timestamp": 1778260244
+    },
+    {
+      "title": "A trip to remember: Patriots' Caleb Lomu arrives f...",
+      "link": "https://www.espn.com/nfl/story/_/id/48707492/new-england-patriots-first-round-pick-caleb-lomu-flight-boston-uncle-pilot",
+      "source": "ESPN",
+      "category": "nfl",
+      "timestamp": 1778260243
+    },
+    {
+      "title": "Early NFL awards favorites, long shots: Which rook...",
+      "link": "https://www.espn.com/espn/betting/story/_/id/48687620/nfl-awards-offensive-rookie-year-coach-year-2026",
+      "source": "ESPN",
+      "category": "nfl",
+      "timestamp": 1778260191
+    },
+    {
+      "title": "15 draft picks, 15 perfect fits: Rookies who found...",
+      "link": "https://www.espn.com/nfl/draft2026/story/_/id/48702246/2026-nfl-draft-best-team-fits-landing-spots-top-rookies",
+      "source": "ESPN",
+      "category": "nfl",
+      "timestamp": 1778260183
+    },
     {
       "title": "Browns' Owusu-Koramoah (neck) out '26 season",
       "link": "https://www.espn.com/nfl/story/_/id/48712022/browns-owusu-koramoah-neck-miss-second-straight-season",
       "source": "ESPN",
       "category": "nfl",
-      "timestamp": 1778254905
-    },
-    {
-      "title": "Sources: Rodgers likely to play for Steelers in '2...",
-      "link": "https://www.espn.com/nfl/story/_/id/48703228/sources-rodgers-visit-steelers-likely-play-team-26",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778253883
-    },
-    {
-      "title": "Vikings, Jennings agree to deal worth up to $13M",
-      "link": "https://www.espn.com/nfl/story/_/id/48707658/vikings-jauan-jennings-agree-1-year-deal-worth-13m",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778253883
-    },
-    {
-      "title": "Colts release CB Moore after failing to find trade...",
-      "link": "https://www.espn.com/nfl/story/_/id/48704402/colts-release-cornerback-kenny-moore-safety-nassir-adderley",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778253883
-    },
-    {
-      "title": "QB Heinicke retires after improbable NFL career",
-      "link": "https://www.espn.com/nfl/story/_/id/48707133/taylor-heinicke-retires-improbable-nfl-career",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778253883
-    },
-    {
-      "title": "Cards QB Beck: Arm is 'strongest it's ever been'",
-      "link": "https://www.espn.com/nfl/story/_/id/48707485/carson-beck-ready-move-arm-injury-focus-cardinals",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778253883
-    },
-    {
-      "title": "Charge against Chiefs DBs coach Merritt dropped",
-      "link": "https://www.espn.com/nfl/story/_/id/48706147/domestic-battery-charge-vs-chiefs-dbs-coach-dave-merritt-dropped",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778253883
+      "timestamp": 1778257663
     },
     {
       "title": "Bears waive Frazier, DB who sat out all of 2025",
       "link": "https://www.espn.com/nfl/story/_/id/48705653/bears-waive-zah-frazier-missed-25-personal-reason",
       "source": "ESPN",
       "category": "nfl",
-      "timestamp": 1778253883
+      "timestamp": 1778256787
+    },
+    {
+      "title": "Sources: Seahawks interest 'soft' from buyers",
+      "link": "https://www.espn.com/nfl/story/_/id/48712023/seattle-seahawks-sale-buyers-less-interested-nfl-expected",
+      "source": "ESPN",
+      "category": "nfl",
+      "timestamp": 1778256786
+    },
+    {
+      "title": "Sources: Rodgers likely to play for Steelers in '2...",
+      "link": "https://www.espn.com/nfl/story/_/id/48703228/sources-rodgers-visit-steelers-likely-play-team-26",
+      "source": "ESPN",
+      "category": "nfl",
+      "timestamp": 1778256786
+    },
+    {
+      "title": "Blue Origin tests 1st moon lander ahead of lunar launch later this year (photo)",
+      "link": "https://www.space.com/space-exploration/artemis/blue-origin-tests-1st-moon-lander-ahead-of-lunar-launch-later-this-year-photo",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1778256000
+    },
+    {
+      "title": "Pentagon releases UFO files on new website",
+      "link": "https://techcrunch.com/2026/05/08/pentagon-releases-ufo-files-on-new-website/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778255796
+    },
+    {
+      "title": "Engineers at NASA's Jet Propulsion Lab make a breakthrough in rotor technology",
+      "link": "https://arstechnica.com/space/2026/05/engineers-at-nasas-jet-propulsion-lab-make-a-breakthrough-in-rotor-technology/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778255187
+    },
+    {
+      "title": "'Star Fox' is returning this summer with a shiny 'Star Fox 64' remake for Nintendo Switch 2 full of unique features",
+      "link": "https://www.space.com/entertainment/space-games/star-fox-is-returning-this-summer-with-a-shiny-star-fox-64-remake-for-nintendo-switch-2-full-of-unique-features",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1778254200
+    },
+    {
+      "title": "Nintendo Trumpets Enormous Pokémon FireRed and LeafGreen Switch Sales, Despite Online Pricing Backlash",
+      "link": "https://www.ign.com/articles/nintendo-trumpets-enormous-pokemon-firered-and-leafgreen-switch-sales-despite-online-pricing-backlash",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778254164
+    },
+    {
+      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Knicks-76ers, Spurs-Timberwolves, MLB Friday",
+      "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-knicks-76ers-spurs-timberwolves-friday/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778254108
+    },
+    {
+      "title": "Use DraftKings promo code for $100 in bonus bets by targeting Knicks-76ers, Spurs-Timberwolves, MLB on Friday",
+      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-100-bonus-bets-knicks-76ers-spurs-timberwolves-mlb-friday/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778253949
+    },
+    {
+      "title": "DNA identifies four more crew members of doomed Franklin expedition",
+      "link": "https://arstechnica.com/science/2026/05/dna-identifies-four-more-crew-members-of-doomed-franklin-expedition/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778253321
+    },
+    {
+      "title": "2026 NBA Draft Combine: Nate Ament, Koa Peat, Yaxel Lendeborg among five players with most to prove in Chicago",
+      "link": "https://www.cbssports.com/nba/news/nba-draft-combine-2026-nate-ament-koa-peat-yaxel-lendeborg/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778252837
+    },
+    {
+      "title": "Which Macs are suffering from shortages—and where are things getting worse?",
+      "link": "https://arstechnica.com/gadgets/2026/05/were-tracking-423-mac-configurations-to-see-how-apple-is-handling-shortages/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778252427
+    },
+    {
+      "title": "The charred hull of Artemis 2's Orion | Space photo of the day for May 8, 2026",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/the-charred-hull-of-artemis-2s-orion-space-photo-of-the-day-for-may-8-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1778252400
     },
     {
       "title": "Truecaller slashes 70 jobs amid declining ad sales",
@@ -86,6 +163,13 @@
       "timestamp": 1778250376
     },
     {
+      "title": "How climate change makes your allergies worse",
+      "link": "https://arstechnica.com/science/2026/05/how-climate-change-makes-your-allergies-worse/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778250203
+    },
+    {
       "title": "MLB awards: Ohtani and Judge continue to lead MVP ...",
       "link": "https://www.espn.com/espn/betting/story/_/id/48350446/2026-mlb-awards-sports-betting-odds-tracker-mvp-cy-young-rookie-year",
       "source": "ESPN",
@@ -98,6 +182,13 @@
       "source": "ESPN",
       "category": "mlb",
       "timestamp": 1778250047
+    },
+    {
+      "title": "The Nintendo Switch 2 is getting more expensive later this year",
+      "link": "https://arstechnica.com/gaming/2026/05/the-nintendo-switch-2-is-getting-more-expensive-later-this-year/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778249487
     },
     {
       "title": "Crimson Desert's Next Major Patch Adds a Much Requested Feature That Will Help Players Max Out Their Gear",
@@ -119,6 +210,13 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778248800
+    },
+    {
+      "title": "The US military just released a bunch of UAP files, but there's no there there",
+      "link": "https://arstechnica.com/space/2026/05/the-us-military-just-released-a-bunch-of-uap-files-but-theres-no-there-there/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778248794
     },
     {
       "title": "Six teams that can take down the Dodgers -- and a ...",
@@ -198,7 +296,7 @@
       "timestamp": 1778246149
     },
     {
-      "title": "The biggest U.S. power grid is under strain from AI — and no one is happy",
+      "title": "The biggest US power grid is under strain from AI — and no one is happy",
       "link": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -210,13 +308,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778245200
-    },
-    {
-      "title": "2026 WNBA season preview; Pistons and Thunder take 2-0 series leads in NBA playoffs",
-      "link": "https://www.cbssports.com/wnba/news/wnba-season-preview-pistons-thunder-nba-playoffs/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778244660
     },
     {
       "title": "Airbnb says AI now writes 60% of its new code",
@@ -282,13 +373,6 @@
       "timestamp": 1778237089
     },
     {
-      "title": "Sony Says It Hasn't Decided When to Launch PS6, Nor How Much It Will Cost, With Memory Shortages Set to Continue",
-      "link": "https://www.ign.com/articles/sony-says-it-hasnt-decided-when-to-launch-ps6-nor-how-much-it-will-cost-with-memory-shortages-set-to-continue",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778237077
-    },
-    {
       "title": "NASA's Artemis 2 astronauts saw flashes on the far side of the moon that cameras struggle to capture. Here's why scientists are excited",
       "link": "https://www.space.com/space-exploration/artemis/nasas-artemis-2-astronauts-saw-flashes-on-the-far-side-of-the-moon-that-cameras-struggle-to-capture-heres-why-scientists-are-excited",
       "source": "SPACE",
@@ -324,21 +408,7 @@
       "timestamp": 1778220970
     },
     {
-      "title": "Lakers confront officials after Game 2 loss; JJ Redick says LeBron James gets 'worst whistle of any star'",
-      "link": "https://www.cbssports.com/nba/news/lakers-officials-game-2-jj-redick-lebron-james-austin-reaves/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778219678
-    },
-    {
-      "title": "NBA playoffs winners and losers: Thunder beat Lakers to stay perfect, Cunningham marshals Pistons to 2-0 lead",
-      "link": "https://www.cbssports.com/nba/news/nba-playoff-winners-and-losers-thunder-lakers-cade-cunningham-pistons-cavaliers/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778215982
-    },
-    {
-      "title": "Why you can never get your doctor to call you back",
+      "title": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
       "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -359,13 +429,6 @@
       "timestamp": 1778204399
     },
     {
-      "title": "Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B",
-      "link": "https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778195503
-    },
-    {
       "title": "Eating eggs could cut Alzheimer’s risk by 27%",
       "link": "https://www.sciencedaily.com/releases/2026/05/260506225214.htm",
       "source": "SCIENCEDAILY",
@@ -378,69 +441,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778191200
-    },
-    {
-      "title": "DHS can’t create vast DNA database to track ICE critics, lawsuit says",
-      "link": "https://arstechnica.com/tech-policy/2026/05/ice-protesters-sue-to-stop-dhs-from-seizing-dna-samples/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778189701
-    },
-    {
-      "title": "A 29-pound Mars rock held NASA's Curiosity rover hostage for 6 days (video)",
-      "link": "https://www.space.com/space-exploration/mars-rovers/a-29-pound-mars-rock-held-nasas-curiosity-rover-hostage-for-6-days",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1778187600
-    },
-    {
-      "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
-      "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778181496
-    },
-    {
-      "title": "'Saros' nails the cosmic horror and bullet-hell action assignments, but it falls short as a roguelite",
-      "link": "https://www.space.com/entertainment/space-games/saros-nails-the-cosmic-horror-and-bullet-hell-action-assignments-but-it-falls-short-as-a-roguelite",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1778180400
-    },
-    {
-      "title": "Where does Earth's mysterious 'ring current' come from? NASA and the US Space Force are launching a mission to find out",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/where-does-earths-mysterious-ring-current-come-from-nasa-and-the-us-space-force-are-launching-a-mission-to-find-out",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1778176861
-    },
-    {
-      "title": "Google unveils screenless Fitbit Air and Google Health app to replace Fitbit",
-      "link": "https://arstechnica.com/gadgets/2026/05/google-unveils-screenless-fitbit-air-and-google-health-app-to-replace-fitbit/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778162450
-    },
-    {
-      "title": "RIP social media. What comes next is messy.",
-      "link": "https://arstechnica.com/science/2026/05/rip-social-media-what-comes-next-is-messy/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778161910
-    },
-    {
-      "title": "Elon Musk tried to hire OpenAI founders to start AI unit inside Tesla",
-      "link": "https://arstechnica.com/tech-policy/2026/05/elon-musk-tried-to-hire-openai-founders-to-start-ai-unit-inside-tesla/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778159641
-    },
-    {
-      "title": "Is your Porsche Taycan too slow at the Nürburgring? You need this Manthey Kit.",
-      "link": "https://arstechnica.com/cars/2026/05/is-your-porsche-taycan-too-slow-at-the-nurbugring-you-need-this-manthey-kit/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778155201
     }
   ]
 }
