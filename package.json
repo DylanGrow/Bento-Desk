@@ -2,12 +2,12 @@
   "name": "command-center-api",
   "version": "4.0.0",
   "description": "REST API backend for Command Center dashboard",
-  "main": "api/server.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node api/server.js",
-    "dev": "nodemon api/server.js",
-    "lint": "node --check api/server.js",
-    "test": "node --check api/server.js && echo 'Syntax OK'"
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "lint": "node --check server.js",
+    "test": "node --check server.js && echo 'Syntax OK'"
   },
   "dependencies": {
     "compression": "^1.7.4",

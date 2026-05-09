@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /api/
 
-Sitemap: https://yoursite.com/sitemap.xml
+Sitemap: http://localhost:3000/sitemap.xml

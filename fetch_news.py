@@ -49,8 +49,8 @@ HEADERS = {
     "Accept": "application/rss+xml, application/xml;q=0.9, */*;q=0.8"
 }
 
-MAX_TOTAL_ITEMS = 150
-MAX_PER_CATEGORY = 8
+MAX_TOTAL_ITEMS = 300
+MAX_PER_CATEGORY = 16
 MAX_WORKERS = 8
 
 OUTPUT_FILE = "data.json"

@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -7,6 +8,10 @@
   <meta name="theme-color" content="#050505" />
   <meta name="robots" content="noindex, nofollow" />
   <title>SysLog | Dashboard</title>
+  <link rel="icon" type="image/png" href="/favicon.png" />
+  <link rel="apple-touch-icon" href="/favicon.png" />
+  <link rel="manifest" href="/manifest.json" />
+  <link rel="canonical" href="http://localhost:3000/" />
 
   <link rel="preconnect" href="https://ipapi.co" />
   <link rel="preconnect" href="https://api.open-meteo.com" />
@@ -82,7 +87,7 @@
       display: flex;
       align-items: center;
       white-space: nowrap;
-      animation: scroll-ticker 60s linear infinite;
+      animation: scroll-ticker 900s linear infinite;
       padding-left: 100%;
     }
 
@@ -105,6 +110,7 @@
       0% {
         transform: translateX(0);
       }
+
       100% {
         transform: translateX(-50%);
       }
@@ -245,21 +251,23 @@
   <header id="top-bar">
     <div class="brand">SysLog</div>
 
-    <form id="ddg-search" action="https://duckduckgo.com/" method="GET" target="_blank">
-      <input name="q" placeholder="Search..." />
-      <button>🦆</button>
-    </form>
+    <div role="search">
+      <form id="ddg-search" action="https://duckduckgo.com/" method="GET" target="_blank" rel="noopener noreferrer">
+        <input name="q" placeholder="Search..." aria-label="Search query" />
+        <button type="submit" aria-label="Submit search">🦆</button>
+      </form>
+    </div>
 
-    <button class="weather-button" id="weather-btn">☀️</button>
+    <button class="weather-button" id="weather-btn" aria-label="Toggle Weather">☀️</button>
   </header>
 
   <!-- TICKER -->
-  <div id="ticker-container">
+  <aside id="ticker-container" aria-live="off" aria-label="Sports Ticker">
     <div id="ticker-label">LIVE</div>
     <div id="ticker-content">
       <!-- Ticker items will be populated by JavaScript -->
     </div>
-  </div>
+  </aside>
 
   <!-- WEATHER -->
   <div class="weather-popup" id="weather-popup">
@@ -280,7 +288,7 @@
 
     let ITEMS = [];
     let index = 0;
-    const BATCH = 30;
+    const BATCH = 60;
 
     function favicon(url) {
       try {
@@ -333,7 +341,10 @@
         const res = await fetch("./data.json?t=" + Date.now());
         const data = await res.json();
 
-        ITEMS = (data.items || []).sort((a, b) => b.timestamp - a.timestamp);
+        const sportsCategories = ['nba', 'nfl', 'mlb', 'nhl', 'soccer'];
+        ITEMS = (data.items || [])
+          .filter(item => !sportsCategories.includes(item.category?.toLowerCase()))
+          .sort((a, b) => b.timestamp - a.timestamp);
 
         document.getElementById("feed").innerHTML = "";
 
@@ -398,32 +409,34 @@
 
         document.getElementById("w-loc").innerText =
           geo.city + ", " + geo.region_code;
-      } catch {}
+      } catch { }
     };
 
     // Ticker - loads ONLY sports scores/news from data.json
     async function initTicker() {
       const ticker = document.getElementById("ticker-content");
-      
+
       try {
         const res = await fetch("./data.json?t=" + Date.now());
         const data = await res.json();
-        
+
         // Filter ONLY for sports categories
         const sportsCategories = ['nba', 'nfl', 'mlb', 'nhl', 'soccer'];
+        const gamblingRegex = /\b(odds|betting|draftkings|fanduel|betmgm|caesars|picks|parlay|wager|bet|bets|sportsbook|moneyline|over\/under|spread)\b/i;
         const sportsItems = (data.items || [])
           .filter(item => sportsCategories.includes(item.category?.toLowerCase()))
+          .filter(item => !gamblingRegex.test(item.title))
           .map(item => item.title);
-        
+
         // If no sports items, show message
         if (sportsItems.length === 0) {
           ticker.innerHTML = '<span class="ticker-item">No sports updates available</span>'.repeat(3);
           return;
         }
-        
+
         // Duplicate items for seamless loop
         const allItems = [...sportsItems, ...sportsItems];
-        
+
         ticker.innerHTML = allItems
           .map(item => `<span class="ticker-item">${item}</span>`)
           .join("");
@@ -442,4 +455,5 @@
   </script>
 
 </body>
+
 </html>

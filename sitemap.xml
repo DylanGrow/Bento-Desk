@@ -4,8 +4,8 @@
 
   <!-- Main dashboard -->
   <url>
-    <loc>https://yoursite.com/</loc>
-    <lastmod>2026-04-20</lastmod>
+    <loc>http://localhost:3000/</loc>
+    <lastmod>2026-05-09</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
