@@ -1,12 +1,26 @@
 {
-  "last_updated": 1778449447,
+  "last_updated": 1778453020,
   "items": [
     {
       "title": "NBA Mock Draft: Fits for all 30 picks with 2026 lottery set; Dybantsa No. 1 to Wizards, Peterson No. 2 to Jazz",
       "link": "https://www.cbssports.com/nba/news/nba-mock-draft-2026-lottery-aj-dybantsa-darryn-peterson-cameron-boozer/",
       "source": "CBSSPORTS",
       "category": "nba",
-      "timestamp": 1778449246
+      "timestamp": 1778450425
+    },
+    {
+      "title": "Spurs vs. Timberwolves odds, prediction, time: 2026 NBA playoff picks, Game 4 best bets from proven model",
+      "link": "https://www.cbssports.com/nba/news/spurs-timberwolves-odds-prediction-time-2026-nba-playoff-picks-game-4-line-best-bets/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778450294
+    },
+    {
+      "title": "NBA Draft Lottery winners and losers: Pacers' bet fails, more Kings bad luck, Wiz, Grizz and Clips hit big",
+      "link": "https://www.cbssports.com/nba/news/nba-draft-lottery-winners-and-losers-2026/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778449409
     },
     {
       "title": "Get ready for the whisper-filled office of the future",
@@ -14,13 +28,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1778447730
-    },
-    {
-      "title": "NBA Draft Lottery winners and losers: Pacers' bet fails, more Kings bad luck, Wiz, Grizz and Clips hit big",
-      "link": "https://www.cbssports.com/nba/news/nba-draft-lottery-winners-and-losers-2026/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778446093
     },
     {
       "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
@@ -70,13 +77,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1778436534
-    },
-    {
-      "title": "Knicks vs. 76ers odds, prediction, time: 2026 NBA playoff picks, Game 4 best bets from proven model",
-      "link": "https://www.cbssports.com/nba/news/knicks-76ers-odds-prediction-time-2026-nba-playoff-picks-game-4-line-best-bets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778436324
     },
     {
       "title": "2026 NBA Mock Draft: Gary Parrish predicts all 30 first-round picks ahead of Sunday's lottery",
@@ -562,17 +562,17 @@
       "timestamp": 1778259598
     },
     {
-      "title": "IGN, Atomic Monster & Blumhouse Are Teaming Up for Mortal Kombat II",
-      "link": "https://www.ign.com/articles/ign-atomic-monster-blumhouse-mortal-kombat-ii",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778256000
-    },
-    {
       "title": "Blue Origin tests 1st moon lander ahead of lunar launch later this year (photo)",
       "link": "https://www.space.com/space-exploration/artemis/blue-origin-tests-1st-moon-lander-ahead-of-lunar-launch-later-this-year-photo",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1778256000
+    },
+    {
+      "title": "IGN, Atomic Monster & Blumhouse Are Teaming Up for Mortal Kombat II",
+      "link": "https://www.ign.com/articles/ign-atomic-monster-blumhouse-mortal-kombat-ii",
+      "source": "IGN",
+      "category": "gaming",
       "timestamp": 1778256000
     },
     {
