@@ -1,12 +1,117 @@
 {
-  "last_updated": 1778495780,
+  "last_updated": 1778507197,
   "items": [
+    {
+      "title": "Sun unleashes colossal solar flare and coronal mass ejection, raising the chances of northern lights this week",
+      "link": "https://www.space.com/stargazing/auroras/sun-unleashes-colossal-solar-flare-and-coronal-mass-ejection-raising-the-chances-of-northern-lights-this-week",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1778506451
+    },
+    {
+      "title": "See Artemis 2's amazing views of Earth in timelapse video taken from 12,000-photo drop",
+      "link": "https://www.space.com/space-exploration/artemis/see-artemis-2s-amazing-views-of-earth-in-timelapse-video-taken-from-12-000-photo-drop",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1778505621
+    },
+    {
+      "title": "Knicks sweep 76ers; Victor Wembanyama ejected from Game 4; Wizards win lottery",
+      "link": "https://www.cbssports.com/nba/news/knicks-sweep-76ers-victor-wembanyama-ejected-from-game-4-wizards-win-lottery/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778504626
+    },
+    {
+      "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+      "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778504400
+    },
+    {
+      "title": "Discord launches Nitro Rewards, giving subscribers access to the base tier of Xbox Game Pass for no extra cost",
+      "link": "https://techcrunch.com/2026/05/11/discord-launches-nitro-rewards-giving-subscribers-access-to-the-base-tier-of-xbox-game-pass-for-no-extra-cost/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778504400
+    },
+    {
+      "title": "New James Webb Space Telescope images reveal how massive star clusters can reshape galaxies",
+      "link": "https://www.space.com/astronomy/james-webb-space-telescope/new-james-webb-space-telescope-images-reveal-how-massive-star-clusters-can-reshape-galaxies",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1778504400
+    },
+    {
+      "title": "76ers' season unravels in ugly sweep vs. Knicks, leaving Philly in familiar place",
+      "link": "https://www.cbssports.com/nba/news/76ers-season-unravels-ugly-sweep-knicks-familiar-place/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778501407
+    },
+    {
+      "title": "Venmo’s biggest makeover in years comes at a very interesting time",
+      "link": "https://techcrunch.com/2026/05/11/venmos-biggest-makeover-in-years-comes-at-a-very-interesting-time/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778500800
+    },
+    {
+      "title": "2026 NBA playoff predictions, odds, picks for Monday, May 11: This 3-way parlay returns nearly +600",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-odds-picks-predictions-parlay-monday-may-11/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778500438
+    },
+    {
+      "title": "Thunder vs. Lakers odds, prediction, time: 2026 NBA playoff picks, Game 4 best bets from proven model",
+      "link": "https://www.cbssports.com/nba/news/thunder-lakers-odds-prediction-spread-time-2026-nba-playoff-picks-game-4-best-bets/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778499790
+    },
+    {
+      "title": "Mouse: P.I. For Hire Sales Update",
+      "link": "https://www.ign.com/articles/mouse-pi-for-hire-sales-update",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778497251
+    },
+    {
+      "title": "Sony's failed war against Internet piracy may doom other copyright lawsuits",
+      "link": "https://arstechnica.com/tech-policy/2026/05/sonys-failed-war-against-internet-piracy-may-doom-other-copyright-lawsuits/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778497233
+    },
+    {
+      "title": "Korea’s biggest manufacturers back Config, the TSMC of robot data",
+      "link": "https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778497080
+    },
+    {
+      "title": "Fans Are Bracing Themselves for Spoilers After Lego Batman: Legacy of the Dark Knight Walmart Codes Became Playable on Xbox",
+      "link": "https://www.ign.com/articles/fans-are-bracing-themselves-for-spoilers-after-lego-batman-legacy-of-the-dark-knight-walmart-codes-became-playable-on-xbox",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778495175
+    },
     {
       "title": "Does Dante's Inferno from the 14th century depict an asteroid impact?",
       "link": "https://www.space.com/astronomy/asteroids/does-dantes-inferno-from-the-14th-century-depict-an-asteroid-impact",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778493600
+    },
+    {
+      "title": "Mortal Kombat II Star Max Huang Wants a Kung Lao and Liu Kang Shaolin Monks Spinoff Movie",
+      "link": "https://www.ign.com/articles/mortal-kombat-ii-star-max-huang-wants-a-kung-lao-and-liu-kang-shaolin-monks-spinoff-movie",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778492881
     },
     {
       "title": "Forza Horizon 6 Suffers Disastrous Leak as Steam Preload Files Are Made Available Without Encryption",
@@ -23,6 +128,34 @@
       "timestamp": 1778487541
     },
     {
+      "title": "NASA’s Psyche probe is about to slingshot around Mars at 12,000 mph",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260510234707.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1778483352
+    },
+    {
+      "title": "NASA’s Curiosity rover accidentally pulled a rock out of Mars",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260510234704.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1778481797
+    },
+    {
+      "title": "Scientists say Dante’s Inferno described an asteroid impact 500 years before modern science",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260510234658.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1778479819
+    },
+    {
+      "title": "Researchers say AI chatbots may blur the line between reality and delusion",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260509210652.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1778472830
+    },
+    {
       "title": "Wizards finally get lottery luck in nick of time as they mull options for No. 1 pick, Anthony Davis' future",
       "link": "https://www.cbssports.com/nba/news/wizards-lottery-luck-no-1-pick-anthony-davis/",
       "source": "CBSSPORTS",
@@ -37,60 +170,11 @@
       "timestamp": 1778471761
     },
     {
-      "title": "Boras: Tigers ace Skubal could have short rehab",
-      "link": "https://www.espn.com/mlb/story/_/id/48736119/scott-boras-tigers-ace-tarik-skubal-short-rehab",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778470784
-    },
-    {
-      "title": "Dodgers get boost with Betts' return set for Mon.",
-      "link": "https://www.espn.com/mlb/story/_/id/48733819/dodgers-mookie-betts-set-return-strained-oblique-monday",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778470784
-    },
-    {
-      "title": "Perkins keys win on 1st Mother's Day without mom",
-      "link": "https://www.espn.com/mlb/story/_/id/48736497/perkins-keys-brewers-win-first-mother-day-mom",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778470784
-    },
-    {
-      "title": "Rangers' deGrom second fastest to 1,900 K's",
-      "link": "https://www.espn.com/mlb/story/_/id/48733513/rangers-jacob-degrom-second-fastest-1900-strikeouts",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778470784
-    },
-    {
-      "title": "Tolle honors late mom with gameday attire, song",
-      "link": "https://www.espn.com/mlb/story/_/id/48735327/red-sox-payton-tolle-honors-mom-died-two-years-ago",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778470784
-    },
-    {
-      "title": "Rodón on debut: 'Velo's great,' but not control",
-      "link": "https://www.espn.com/mlb/story/_/id/48736025/yankees-carlos-rodon-shows-good-velocity-struggles-control-season-debut",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778470784
-    },
-    {
-      "title": "Red Sox 1B Contreras HBP on hand, leaves game",
-      "link": "https://www.espn.com/mlb/story/_/id/48733000/red-sox-1b-willson-contreras-leaves-game-hbp-hand",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778470784
-    },
-    {
-      "title": "⚾ A May MLB trade!? Grading the deal",
-      "link": "https://www.espn.com/mlb/story/_/id/48722469/mlb-2026-trade-grades-patrick-bailey-cleveland-guardians-san-francisco-giants-report-card",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778470784
+      "title": "This 800-year-old Chinese exercise helps lower blood pressure naturally",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260510234724.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1778471244
     },
     {
       "title": "2026 NBA playoff bracket: Schedule, matchups as Knicks sweep 76ers to advance to semifinals",
@@ -98,13 +182,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1778466962
-    },
-    {
-      "title": "76ers' season unravels in ugly sweep vs. Knicks, leaving Philly in familiar place",
-      "link": "https://www.cbssports.com/nba/news/76ers-season-unravels-ugly-sweep-knicks-familiar-place/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778464984
     },
     {
       "title": "NBA Mock Draft: Fits for all 30 picks with 2026 lottery set; Dybantsa No. 1 to Wizards, Peterson No. 2 to Jazz",
@@ -142,13 +219,6 @@
       "timestamp": 1778452649
     },
     {
-      "title": "Spurs vs. Timberwolves odds, prediction, time: 2026 NBA playoff picks, Game 4 best bets from proven model",
-      "link": "https://www.cbssports.com/nba/news/spurs-timberwolves-odds-prediction-time-2026-nba-playoff-picks-game-4-line-best-bets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778450294
-    },
-    {
       "title": "NBA Draft Lottery winners and losers: Pacers' bet fails, more Kings bad luck, Wiz, Grizz and Clips hit big",
       "link": "https://www.cbssports.com/nba/news/nba-draft-lottery-winners-and-losers-2026/",
       "source": "CBSSPORTS",
@@ -161,20 +231,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1778447730
-    },
-    {
-      "title": "Carlos Rodon's return and Sunday's news to know",
-      "link": "https://www.espn.com/fantasy/baseball/story/_/id/48297021/espn-fantasy-baseball-buzz-injuries-promotions-demotions-trades-prospects-lineup-changes-mlb-news-analysis-2026",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778446414
-    },
-    {
-      "title": "Five pitchers with better-than-expected 2026 start...",
-      "link": "https://www.espn.com/fantasy/baseball/story/_/id/48702851/2026-fantasy-baseball-pitchers-starters-believe-stability-point-zola",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778446414
     },
     {
       "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
@@ -205,20 +261,6 @@
       "timestamp": 1778443740
     },
     {
-      "title": "The American League standings are ... weird. Here'...",
-      "link": "https://www.espn.com/mlb/story/_/id/48712239/mlb-2026-american-league-al-standings-history-weird-yankees-rays",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778439563
-    },
-    {
-      "title": "2026 NBA Draft Lottery: Odds for No. 1 pick, live stream, TV channel, watch online, start time, top prospects",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-draft-lottery-where-to-watch-live-stream-tv-channel-online-start-time/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778438738
-    },
-    {
       "title": "Lego Batman: Legacy of the Dark Knight Quietly Adds Denuvo DRM Weeks Before Launch",
       "link": "https://www.ign.com/articles/lego-batman-legacy-of-the-dark-knight-quietly-adds-denuvo-drm-weeks-before-launch",
       "source": "IGN",
@@ -231,13 +273,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1778436534
-    },
-    {
-      "title": "2026 NBA Mock Draft: Gary Parrish predicts all 30 first-round picks ahead of Sunday's lottery",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-mock-draft-gary-parrish-first-round-draft-lottery/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778436137
     },
     {
       "title": "TechCrunch Mobility: Lime’s IPO gamble",
@@ -254,25 +289,11 @@
       "timestamp": 1778427265
     },
     {
-      "title": "NBA playoff schedule, odds, predictions for Knicks vs. 76ers, Spurs vs. Timberwolves",
-      "link": "https://www.cbssports.com/nba/news/nba-playoff-schedule-odds-predictions-games-today-may-10-knicks-76ers-spurs-timberwolves/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778427175
-    },
-    {
       "title": "The hottest place for startups to strike a deal? The F1 paddock",
       "link": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1778425987
-    },
-    {
-      "title": "QB Anthony Richardson giving Colts something to th...",
-      "link": "https://www.espn.com/nfl/story/_/id/48722651/qb-anthony-richardson-giving-colts-think-about",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778425147
     },
     {
       "title": "'Pragmata' director Yonghee Cho on creating Capcom’s resonant sci-fi lunar adventure (interview)",
@@ -345,74 +366,11 @@
       "timestamp": 1778381908
     },
     {
-      "title": "Harbaugh: Decision on OBJ could wait until camp",
-      "link": "https://www.espn.com/nfl/story/_/id/48722844/harbaugh-call-odell-beckham-jr-wait-training-camp",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778380268
-    },
-    {
       "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
       "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1778378400
-    },
-    {
-      "title": "Klubnik unshaken by fall in draft: 'I'm a winner'",
-      "link": "https://www.espn.com/nfl/story/_/id/48724463/jets-qb-klubnik-unshaken-fall-draft-winner",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778374214
-    },
-    {
-      "title": "Payton: Nix 'doing good,' on course for minicamp",
-      "link": "https://www.espn.com/nfl/story/_/id/48724018/bo-nix-track-limited-minicamp-participation",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778374214
-    },
-    {
-      "title": "Jets give RB Hall 3-year, $45.75M extension",
-      "link": "https://www.espn.com/nfl/story/_/id/48714193/jets-give-rb-breece-hall-3-year-4575m-extension",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778374214
-    },
-    {
-      "title": "Ex-NFLer Wint added to White's Contender Series",
-      "link": "https://www.espn.com/mma/story/_/id/48724681/ex-nfl-player-wint-fight-dana-white-contender-series",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778374214
-    },
-    {
-      "title": "Sources: Seahawks interest 'soft' from buyers",
-      "link": "https://www.espn.com/nfl/story/_/id/48712023/seattle-seahawks-sale-buyers-less-interested-nfl-expected",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778374214
-    },
-    {
-      "title": "McDaniel's aim? Help QB Herbert 'own the position'...",
-      "link": "https://www.espn.com/nfl/story/_/id/48716212/key-aim-chargers-oc-mcdaniel-help-qb-herbert-own-position",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778374214
-    },
-    {
-      "title": "NFL to release regular-season schedule Thursday",
-      "link": "https://www.espn.com/nfl/story/_/id/48713901/nfl-release-regular-season-schedule-thursday",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778374214
-    },
-    {
-      "title": "💍 Michael Penix Jr. marries fiancée Olivia Carter...",
-      "link": "https://www.espn.com/nfl/story/_/id/48713394/michael-penix-jr-olivia-carter-wedding-atlanta-falcons",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778374214
     },
     {
       "title": "The hidden atomic gap that could break next-generation computer chips",
@@ -448,20 +406,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1778357326
-    },
-    {
-      "title": "The biggest remaining roster hole for every NFL te...",
-      "link": "https://www.espn.com/nfl/story/_/id/48649984/2026-nfl-offseason-biggest-roster-holes-depth-needs-all-32-teams-postdraft",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778357183
-    },
-    {
-      "title": "Who is on the hot seat after the NFL draft? 14 vet...",
-      "link": "https://www.espn.com/nfl/story/_/id/48675818/2026-nfl-offseason-draft-veteran-hot-seats-position-battles-rookies",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778357183
     },
     {
       "title": "GM agrees to pay $12.75M in California driver privacy settlement",
@@ -504,20 +448,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1778337810
-    },
-    {
-      "title": "Early NFL awards favorites, long shots: Which rook...",
-      "link": "https://www.espn.com/espn/betting/story/_/id/48687620/nfl-awards-offensive-rookie-year-coach-year-2026",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778337702
-    },
-    {
-      "title": "Rookies who found their ideal NFL landing spots in...",
-      "link": "https://www.espn.com/nfl/draft2026/story/_/id/48702246/2026-nfl-draft-best-team-fits-landing-spots-top-rookies",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778337702
     },
     {
       "title": "Tatiana Maslany Says She-Hulk Would Need Writer Jessica Gao's Involvement for a Proper MCU Return",
@@ -569,13 +499,6 @@
       "timestamp": 1778324451
     },
     {
-      "title": "Ice age humans in China crafted surprisingly advanced stone tools 146,000 years ago",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260508003113.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1778322170
-    },
-    {
       "title": "NASA's Artemis 2 commander and astrophotographer team up to capture breathtaking, never-before-seen shots of the moon's far side",
       "link": "https://www.space.com/space-exploration/artemis/nasas-artemis-2-commander-and-astrophotographer-team-up-to-capture-breathtaking-never-before-seen-shots-of-the-moons-far-side",
       "source": "SPACE",
@@ -583,53 +506,11 @@
       "timestamp": 1778320800
     },
     {
-      "title": "Who can keep the Dodgers from three-peating? We id...",
-      "link": "https://www.espn.com/mlb/story/_/id/48702612/mlb-2026-teams-beat-dodgers-threepeat-braves-yankees-cubs-pirates-phillies-mariners",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778305279
-    },
-    {
-      "title": "Scientists found the “holy grail” gene that could one day help humans regrow limbs",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260508003121.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1778303059
-    },
-    {
-      "title": "Baby No. 2 on the way for Christian McCaffrey, Oli...",
-      "link": "https://www.espn.com/nfl/story/_/id/48717338/christian-mccaffrey-olivia-culpo-second-baby-announcement",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778301271
-    },
-    {
-      "title": "Justin Herbert stars in girlfriend Madison Beer's ...",
-      "link": "https://www.espn.com/nfl/story/_/id/48696952/justin-berbert-los-angeles-chargers-madison-beer-music-video-teaser",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778301271
-    },
-    {
       "title": "Manufacturing qubits that can move",
       "link": "https://arstechnica.com/science/2026/05/manufacturing-qubits-that-can-move/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1778282037
-    },
-    {
-      "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
-      "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778281145
-    },
-    {
-      "title": "San Francisco’s housing market has lost its mind",
-      "link": "https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778279551
     },
     {
       "title": "Trump reportedly plans to fire FDA Commissioner Marty Makary",
@@ -644,13 +525,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778277680
-    },
-    {
-      "title": "New obesity discovery rewrites decades of fat science",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260508171123.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1778275280
     },
     {
       "title": "ABC refuses to capitulate to Trump admin, fights FCC probe into The View",
@@ -681,25 +555,11 @@
       "timestamp": 1778273477
     },
     {
-      "title": "Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app",
-      "link": "https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778273403
-    },
-    {
       "title": "The unprecedented and deadly cruise ship hantavirus outbreak, explained",
       "link": "https://arstechnica.com/health/2026/05/everything-you-need-to-know-about-the-hantavirus-cruise-ship-outbreak/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1778272955
-    },
-    {
-      "title": "Intel’s comeback story is even wilder than it seems",
-      "link": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778270572
     },
     {
       "title": "Course correction: Google to link more sources in AI Overviews",
@@ -779,24 +639,10 @@
       "timestamp": 1778259600
     },
     {
-      "title": "Slay the Spire 2 Patch Rips Act 3 Boss Doormaker Out the Game, Developer Explains Decision",
-      "link": "https://www.ign.com/articles/slay-the-spire-2-patch-rips-act-3-boss-doormaker-out-the-game-developer-explains-decision",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778259598
-    },
-    {
       "title": "Blue Origin tests 1st moon lander ahead of lunar launch later this year (photo)",
       "link": "https://www.space.com/space-exploration/artemis/blue-origin-tests-1st-moon-lander-ahead-of-lunar-launch-later-this-year-photo",
       "source": "SPACE",
       "category": "space",
-      "timestamp": 1778256000
-    },
-    {
-      "title": "IGN, Atomic Monster & Blumhouse Are Teaming Up for Mortal Kombat II",
-      "link": "https://www.ign.com/articles/ign-atomic-monster-blumhouse-mortal-kombat-ii",
-      "source": "IGN",
-      "category": "gaming",
       "timestamp": 1778256000
     },
     {
@@ -807,60 +653,11 @@
       "timestamp": 1778255187
     },
     {
-      "title": "'Star Fox' is returning this summer with a shiny 'Star Fox 64' remake for Nintendo Switch 2 full of unique features",
-      "link": "https://www.space.com/entertainment/space-games/star-fox-is-returning-this-summer-with-a-shiny-star-fox-64-remake-for-nintendo-switch-2-full-of-unique-features",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1778254200
-    },
-    {
-      "title": "Nintendo Trumpets Enormous Pokémon FireRed and LeafGreen Switch Sales, Despite Online Pricing Backlash",
-      "link": "https://www.ign.com/articles/nintendo-trumpets-enormous-pokemon-firered-and-leafgreen-switch-sales-despite-online-pricing-backlash",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778254164
-    },
-    {
       "title": "DNA identifies four more crew members of doomed Franklin expedition",
       "link": "https://arstechnica.com/science/2026/05/dna-identifies-four-more-crew-members-of-doomed-franklin-expedition/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1778253321
-    },
-    {
-      "title": "Which Macs are suffering from shortages—and where are things getting worse?",
-      "link": "https://arstechnica.com/gadgets/2026/05/were-tracking-423-mac-configurations-to-see-how-apple-is-handling-shortages/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778252427
-    },
-    {
-      "title": "The charred hull of Artemis 2's Orion | Space photo of the day for May 8, 2026",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/the-charred-hull-of-artemis-2s-orion-space-photo-of-the-day-for-may-8-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1778252400
-    },
-    {
-      "title": "Learn the night sky without an app: May's easiest star-hops for beginners",
-      "link": "https://www.space.com/stargazing/learn-the-night-sky-without-an-app-mays-easiest-star-hops-for-beginners",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1778248800
-    },
-    {
-      "title": "A common constipation drug shows surprising power to protect kidneys",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260508024740.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1778237089
-    },
-    {
-      "title": "Scientists discover a new way to prevent gum disease without killing good bacteria",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260508024125.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1778232436
     }
   ]
 }
