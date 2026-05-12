@@ -1,6 +1,55 @@
 {
-  "last_updated": 1778620637,
+  "last_updated": 1778626695,
   "items": [
+    {
+      "title": "Conan O’Brien Will Return to Host the Oscars for Third Consecutive Year",
+      "link": "https://www.ign.com/articles/conan-obrien-will-return-to-host-the-oscars-for-third-consecutive-year",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778625561
+    },
+    {
+      "title": "SpaceX's Starship V3 megarocket finally has a debut launch date. Here's when it will fly",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-v3-megarocket-finally-has-a-debut-launch-date-heres-when-it-will-fly",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1778625290
+    },
+    {
+      "title": "Use DraftKings promo code for $100 in bonus bets by targeting Timberwolves-Spurs, Paul Skenes props on Tuesday",
+      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-100-in-bonus-bets-targeting-timberwolves-spurs-paul-skenes-props-tuesday/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778624061
+    },
+    {
+      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Timberwolves-Spurs, Paul Skenes props Tuesday",
+      "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-timberwolves-spurs-paul-skenes-props-tuesday/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778623763
+    },
+    {
+      "title": "The newest AI boom pitch: Host a mini data center at your home",
+      "link": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778623143
+    },
+    {
+      "title": "Timberwolves vs. Spurs odds, prediction, time: 2026 NBA playoff picks, Game 5 best bets from proven model",
+      "link": "https://www.cbssports.com/nba/news/timberwolves-spurs-odds-spread-line-prediction-start-time-2026-nba-playoff-picks-game-5-best-bets/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778622335
+    },
+    {
+      "title": "FDA chief resigns after Trump admin forced approval of fruity e-cigs",
+      "link": "https://arstechnica.com/health/2026/05/fda-chief-resigns-after-trump-admin-forced-approval-of-fruity-e-cigs/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778621207
+    },
     {
       "title": "Uranus and Neptune could be full of rocks, new study suggests",
       "link": "https://www.space.com/science/uranus-and-neptune-could-be-full-of-rocks-new-study-suggests",
@@ -247,13 +296,6 @@
       "timestamp": 1778603804
     },
     {
-      "title": "Timberwolves vs. Spurs odds, prediction, time: 2026 NBA playoff picks, Game 5 best bets from proven model",
-      "link": "https://www.cbssports.com/nba/news/timberwolves-spurs-odds-spread-line-prediction-time-2026-nba-playoff-picks-game-5-best-bets-from-proven-model/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778602652
-    },
-    {
       "title": "Don't miss Mars, Saturn and the moon form a cosmic triangle before dawn on May 14",
       "link": "https://www.space.com/stargazing/dont-miss-mars-saturn-and-the-moon-form-a-cosmic-triangle-before-dawn-on-may-14",
       "source": "SPACE",
@@ -301,13 +343,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778595582
-    },
-    {
-      "title": "The Knicks are sitting pretty: With dominant sweep of 76ers, New York is in great shape ahead of ECF",
-      "link": "https://www.cbssports.com/nba/news/knicks-sitting-pretty-dominant-sweep-76ers/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778595319
     },
     {
       "title": "New Nintendo Switch 2 Bundles Will Let You Beat the Console's Price Rise and Get a Cheaper Game",
@@ -443,13 +478,6 @@
       "timestamp": 1778583634
     },
     {
-      "title": "eBay Rejects GameStop CEO Ryan Cohen's $56 Billion Offer to Buy the Company, Calls It 'Neither Credible nor Attractive'",
-      "link": "https://www.ign.com/articles/ebay-rejects-gamestop-ceo-ryan-cohens-56-billion-offer-to-buy-the-company-calls-it-neither-credible-nor-attractive",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778582476
-    },
-    {
       "title": "SpaceX fuels up Starship V3 megarocket for 1st time ahead of crucial test flight (photos)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fuels-up-starship-v3-megarocket-for-1st-time-ahead-of-crucial-test-flight-photos",
       "source": "SPACE",
@@ -476,13 +504,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1778568162
-    },
-    {
-      "title": "2026 NBA playoff bracket: Schedule, matchups as Thunder sweep Lakers to advance to semifinals",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778565896
     },
     {
       "title": "Scientists discover hidden chemical signature that could reveal alien life",
@@ -576,20 +597,6 @@
       "timestamp": 1778522134
     },
     {
-      "title": "iOS, macOS, and iPadOS 26.5 updates arrive with encrypted RCS messaging and more",
-      "link": "https://arstechnica.com/gadgets/2026/05/ios-macos-and-ipados-26-5-updates-arrive-with-encrypted-rcs-messaging-and-more/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778520039
-    },
-    {
-      "title": "Samsung made a “mockery” of Dua Lipa by putting her picture on TV boxes, lawsuit says",
-      "link": "https://arstechnica.com/gadgets/2026/05/singer-dua-lipa-sues-samsung-for-15-million-for-using-her-image-on-tv-boxes/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778519716
-    },
-    {
       "title": "China's Tianzhou 10 freighter delivers 7 tons of cargo to Tiangong space station",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/chinas-tianzhou-10-freighter-delivers-7-tons-of-cargo-to-tiangong-space-station",
       "source": "SPACE",
@@ -602,13 +609,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778515200
-    },
-    {
-      "title": "SpaceX launches secret US spy satellites to orbit from California (video, photos)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launch-nrol-172-spy-satellite-mission",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1778511600
     },
     {
       "title": "Scientists put a tiny lump of metal in two places at once in record-breaking quantum experiment",
