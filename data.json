@@ -1,6 +1,132 @@
 {
-  "last_updated": 1778605715,
+  "last_updated": 1778615250,
   "items": [
+    {
+      "title": "Today's top games to watch, best bets, odds: Timberwolves vs. Spurs Game 5, NHL playoffs, Braves vs. Cubs",
+      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-timberwolves-vs-spurs-game-5-nhl-playoffs-braves-vs-cubs/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778614238
+    },
+    {
+      "title": "Grizzlies forward Brandon Clarke dies at 29: No. 21 pick in 2019 NBA Draft spent seven seasons with Memphis",
+      "link": "https://www.cbssports.com/nba/news/grizzlies-brandon-clarke-dies-at-29/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778612786
+    },
+    {
+      "title": "Cowboy Space raises $275 million to launch AI data centers on brand-new rocket",
+      "link": "https://www.space.com/technology/cowboy-space-raises-usd275-million-to-launch-ai-data-centers-on-brand-new-rocket",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1778612726
+    },
+    {
+      "title": "“Will I be OK?” Teen died after ChatGPT pushed deadly mix of drugs, lawsuit says",
+      "link": "https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778612425
+    },
+    {
+      "title": "Kevin Hartz’s A* just closed its third fund with $450 million",
+      "link": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778611505
+    },
+    {
+      "title": "UK Politicians Say GTA 6 Developer Rockstar 'Refused to Properly Engage' With Appeal Processes After Firing Staff Last Year",
+      "link": "https://www.ign.com/articles/uk-politicians-say-gta-6-developer-rockstar-refused-to-properly-engage-with-appeal-processes-after-firing-staff-last-year",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778610589
+    },
+    {
+      "title": "Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup",
+      "link": "https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778609698
+    },
+    {
+      "title": "NBA Draft Combine winners and losers: Darius Acuff's stock rises, Koa Peat struggles in early shooting drills",
+      "link": "https://www.cbssports.com/nba/news/nba-draft-combine-measurements-darius-acuff-koa-peat-alex-karaban-winners-losers/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778609377
+    },
+    {
+      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+      "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778609115
+    },
+    {
+      "title": "'Cannibal stars,' AI and the Rubin Observatory could shed light on the mystery of dark energy. Here's how",
+      "link": "https://www.space.com/astronomy/dark-universe/cannibal-stars-ai-and-the-rubin-observatory-could-shed-light-on-the-mystery-of-dark-energy-heres-how",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1778608800
+    },
+    {
+      "title": "Biggest decisions ahead of 2026 NBA Draft Combine: Who is staying in the draft? Who is returning to college?",
+      "link": "https://www.cbssports.com/college-basketball/news/2026-nba-draft-combine-stay-go-decisions/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778608635
+    },
+    {
+      "title": "Christopher Nolan Defends The Odyssey From Historical Accuracy Complaints After Some Said Agamemnon Looks Like Batman",
+      "link": "https://www.ign.com/articles/christopher-nolan-defends-the-odyssey-from-historical-accuracy-complaints-after-some-said-agamemnon-looks-like-batman",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778608546
+    },
+    {
+      "title": "Microsoft will lean on your CPU to speed up Windows 11's apps and animations",
+      "link": "https://arstechnica.com/gadgets/2026/05/speed-boosting-low-latency-profile-is-one-of-the-improvements-coming-to-windows-11/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778608161
+    },
+    {
+      "title": "Marvel’s Midnight Line Reinvents the X-Men, Spider-Man, and Fantastic Four via Horror",
+      "link": "https://www.ign.com/articles/marvel-midnight-line-horror-xmen-spiderman-fantastic-four",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778607631
+    },
+    {
+      "title": "Anthropic warns investors against secondary platforms offering access to its shares",
+      "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778607394
+    },
+    {
+      "title": "Potholes cost cities millions: This company is using AI and trucks to fix them",
+      "link": "https://techcrunch.com/2026/05/12/potholes-cost-cities-millions-samsara-using-ai-trucks-fix/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778607209
+    },
+    {
+      "title": "Report: Google and SpaceX in talks to put data centers into orbit",
+      "link": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778607057
+    },
+    {
+      "title": "eBay rejects GameStop's $56B offer: \"Your proposal is neither credible nor attractive\"",
+      "link": "https://arstechnica.com/tech-policy/2026/05/ebay-rejects-gamestops-56b-offer-your-proposal-is-neither-credible-nor-attractive/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778606284
+    },
     {
       "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
       "link": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
@@ -9,8 +135,29 @@
       "timestamp": 1778605260
     },
     {
+      "title": "Google's Android-powered laptops are called Googlebooks, and they're coming this year",
+      "link": "https://arstechnica.com/gadgets/2026/05/googles-android-powered-laptops-are-called-googlebooks-and-theyre-coming-this-year/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778605249
+    },
+    {
+      "title": "Android is getting a big AI overhaul in 2026",
+      "link": "https://arstechnica.com/gadgets/2026/05/google-says-android-is-getting-a-big-ai-overhaul-in-2026/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778605241
+    },
+    {
       "title": "The AI legal services industry is heating up. Anthropic is getting in on the action.",
       "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778605200
+    },
+    {
+      "title": "Google adds Gemini-powered Dictation to Gboard, which could be bad news for dictation startups",
+      "link": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1778605200
@@ -72,18 +219,11 @@
       "timestamp": 1778604363
     },
     {
-      "title": "U.S. bank disclose security lapse after sharing customer data with AI app",
-      "link": "https://techcrunch.com/2026/05/12/u-s-bank-disclose-security-lapse-after-sharing-customer-data-with-ai-app/",
+      "title": "US bank discloses security lapse after sharing customer data with AI app",
+      "link": "https://techcrunch.com/2026/05/12/us-bank-discloses-security-lapse-after-sharing-customer-data-with-ai-app/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1778603804
-    },
-    {
-      "title": "Threads tests a Meta AI integration that works similarly to Grok",
-      "link": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778603676
     },
     {
       "title": "Timberwolves vs. Spurs odds, prediction, time: 2026 NBA playoff picks, Game 5 best bets from proven model",
@@ -107,13 +247,6 @@
       "timestamp": 1778600677
     },
     {
-      "title": "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen",
-      "link": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778598457
-    },
-    {
       "title": "NBA player prop picks, odds: Three best 2026 NBA Playoffs prop bets for Tuesday, May 12",
       "link": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-three-best-2026-nba-playoffs-prop-bets-tuesday-may-12/",
       "source": "CBSSPORTS",
@@ -135,14 +268,7 @@
       "timestamp": 1778598000
     },
     {
-      "title": "Waymo issues recall to deal with a flooding problem",
-      "link": "https://techcrunch.com/2026/05/12/waymo-issues-recall-to-deal-with-a-flooding-problem/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778597237
-    },
-    {
-      "title": "As GTA 6 Trailer 3 Hype Intensifies, Rockstar Tweets About Red Dead Online — And The Internet's Reaction is Exactly as You'd Expect",
+      "title": "As GTA 6 Trailer 3 Hype Intensifies, Rockstar Tweets About Red Dead Online — And the Internet's Reaction Is Exactly as You'd Expect",
       "link": "https://www.ign.com/articles/as-gta-6-trailer-3-hype-intensifies-rockstar-tweets-about-red-dead-online-and-the-internets-reaction-is-exactly-as-youd-expect",
       "source": "IGN",
       "category": "gaming",
@@ -175,13 +301,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1778595057
-    },
-    {
-      "title": "Use DraftKings promo code for $100 in bonus bets by targeting Spurs-Timberwolves, Paul Skenes props on Tuesday",
-      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-100-in-bonus-bets-targeting-spurs-timberwolves-paul-skenes-props-tuesday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778595042
     },
     {
       "title": "LeBron James next team predictions: Lakers ready to dive into Luka Doncic era, but will James return?",
@@ -219,13 +338,6 @@
       "timestamp": 1778593678
     },
     {
-      "title": "Instructure strikes deal with hackers who breached it twice",
-      "link": "https://techcrunch.com/2026/05/12/instructure-strikes-deal-with-hackers-who-breached-it-twice/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778592844
-    },
-    {
       "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
       "link": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
       "source": "ARSTECHNICA",
@@ -259,27 +371,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1778590851
-    },
-    {
-      "title": "Dessn raises $6M for its production focused design tool",
-      "link": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778590800
-    },
-    {
-      "title": "TikTok now wants to be the place you book the trip you just saw on TikTok",
-      "link": "https://techcrunch.com/2026/05/12/tiktok-now-wants-to-be-the-place-you-book-the-trip-you-just-saw-on-tiktok/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778590800
-    },
-    {
-      "title": "AI is turning connected cars into pothole-finding machines",
-      "link": "https://techcrunch.com/2026/05/12/ai-is-turning-connected-cars-into-pothole-finding-machines/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778590800
     },
     {
       "title": "Star Catcher just raised $65 million to build the world's first power grid in space — with lasers",
@@ -359,32 +450,11 @@
       "timestamp": 1778580000
     },
     {
-      "title": "Nintendo Confirms The Legend of Zelda Amiibo Due Later This Year, Featuring Tears of the Kingdom Character",
-      "link": "https://www.ign.com/articles/nintendo-confirms-the-legend-of-zelda-amiibo-due-later-this-year-featuring-tears-of-the-kingdom-character",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778579492
-    },
-    {
       "title": "This strange giant dinosaur may change what we know about Jurassic titans",
       "link": "https://www.sciencedaily.com/releases/2026/05/260511213154.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1778578528
-    },
-    {
-      "title": "Reacher Renewed for Fifth Season Ahead of Season Four Premiere",
-      "link": "https://www.ign.com/articles/reacher-renewed-for-fifth-season-ahead-of-season-four-premiere",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778576918
-    },
-    {
-      "title": "Lord of the Rings Star Ian McKellen Says Obi-Wan Actor Alec Guinness Told Him to Drop Support for Gay Rights Charity",
-      "link": "https://www.ign.com/articles/lord-of-the-rings-star-ian-mckellen-says-obi-wan-actor-alec-guinness-told-him-to-drop-support-for-gay-rights-charity",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778576348
     },
     {
       "title": "Stunning fossil discovery challenges the origins of animal life",
@@ -401,13 +471,6 @@
       "timestamp": 1778568162
     },
     {
-      "title": "2026 NBA playoff bracket: Schedule, matchups as Thunder sweep Lakers to advance to semifinals",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778565896
-    },
-    {
       "title": "Scientists discover hidden chemical signature that could reveal alien life",
       "link": "https://www.sciencedaily.com/releases/2026/05/260511213146.htm",
       "source": "SCIENCEDAILY",
@@ -422,25 +485,11 @@
       "timestamp": 1778560930
     },
     {
-      "title": "Donovan Mitchell leads historic second-half 'Cavalanche' as Cavaliers rally to even series with Pistons",
-      "link": "https://www.cbssports.com/nba/news/donovan-mitchell-historic-half-cavaliers-pistons-nba-playoffs/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778560370
-    },
-    {
       "title": "James Webb telescope reveals the clearest map ever of the Universe’s cosmic web",
       "link": "https://www.sciencedaily.com/releases/2026/05/260511213136.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1778559023
-    },
-    {
-      "title": "Thunder vs. Lakers odds, prediction, time: 2026 NBA playoff picks, Game 4 best bets from proven model",
-      "link": "https://www.cbssports.com/nba/news/thunder-lakers-odds-prediction-spread-line-start-time-2026-nba-playoff-picks-game-4-best-bets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778544936
     },
     {
       "title": "A supervolcano nearly wiped out humanity 74,000 years ago, but humans did something incredible",
@@ -548,13 +597,6 @@
       "timestamp": 1778513356
     },
     {
-      "title": "F1 set for another engine tweak in 2027, and what's this about V8s?",
-      "link": "https://arstechnica.com/cars/2026/05/f1-set-for-another-engine-tweak-in-2027-and-whats-this-about-v8s/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778512809
-    },
-    {
       "title": "SpaceX launches secret US spy satellites to orbit from California (video, photos)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launch-nrol-172-spy-satellite-mission",
       "source": "SPACE",
@@ -569,39 +611,11 @@
       "timestamp": 1778508000
     },
     {
-      "title": "A promising Indian launch startup nears its first orbital test flight",
-      "link": "https://arstechnica.com/space/2026/05/with-skyroot-at-the-head-of-the-class-indias-private-space-industry-seeks-to-take-off/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778507604
-    },
-    {
-      "title": "Sun unleashes colossal solar flare and coronal mass ejection, raising the chances of northern lights tonight",
-      "link": "https://www.space.com/stargazing/auroras/sun-unleashes-colossal-solar-flare-and-coronal-mass-ejection-raising-the-chances-of-northern-lights-this-week",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1778506451
-    },
-    {
-      "title": "See Artemis 2's amazing views of Earth in timelapse video taken from 12,000-photo drop",
-      "link": "https://www.space.com/space-exploration/artemis/see-artemis-2s-amazing-views-of-earth-in-timelapse-video-taken-from-12-000-photo-drop",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1778505621
-    },
-    {
       "title": "Scientists put a tiny lump of metal in two places at once in record-breaking quantum experiment",
       "link": "https://www.sciencedaily.com/releases/2026/05/260509210650.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1778503726
-    },
-    {
-      "title": "Sony's failed war against Internet piracy may doom other copyright lawsuits",
-      "link": "https://arstechnica.com/tech-policy/2026/05/sonys-failed-war-against-internet-piracy-may-doom-other-copyright-lawsuits/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778497233
     },
     {
       "title": "NASA’s Psyche probe is about to slingshot around Mars at 12,000 mph",
@@ -653,25 +667,11 @@
       "timestamp": 1778412432
     },
     {
-      "title": "Do you take after your dad’s RNA?",
-      "link": "https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778411744
-    },
-    {
       "title": "Brain scans reveal a shocking difference between psychopaths and other people",
       "link": "https://www.sciencedaily.com/releases/2026/05/260510030946.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1778411108
-    },
-    {
-      "title": "Huge landslide created a 500-meter-high tsunami in a major tourist area",
-      "link": "https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778410853
     }
   ]
 }
