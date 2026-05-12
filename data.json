@@ -1,6 +1,69 @@
 {
-  "last_updated": 1778578531,
+  "last_updated": 1778586733,
   "items": [
+    {
+      "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+      "link": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778585400
+    },
+    {
+      "title": "Once again, SpaceX has set a new record for the tallest rocket ever built",
+      "link": "https://arstechnica.com/space/2026/05/spacex-completes-fueling-test-setting-stage-for-first-launch-of-starship-v3/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778583634
+    },
+    {
+      "title": "eBay Rejects GameStop CEO Ryan Cohen's $56 Billion Offer to Buy the Company, Calls It 'Neither Credible nor Attractive'",
+      "link": "https://www.ign.com/articles/ebay-rejects-gamestop-ceo-ryan-cohens-56-billion-offer-to-buy-the-company-calls-it-neither-credible-nor-attractive",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778582476
+    },
+    {
+      "title": "Crimson Desert Dev Pearl Abyss Confirms Plans to 'Broaden the Game to the Next Level' — Including DLC",
+      "link": "https://www.ign.com/articles/crimson-desert-dev-pearl-abyss-confirms-plans-to-broaden-the-game-to-the-next-level-including-dlc",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778581690
+    },
+    {
+      "title": "Amazon launches 30-minute delivery across the U.S.",
+      "link": "https://techcrunch.com/2026/05/12/amazon-expands-30-minute-delivery-across-the-u-s/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778580000
+    },
+    {
+      "title": "SpaceX fuels up Starship V3 megarocket for 1st time ahead of crucial test flight (photos)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fuels-up-starship-v3-megarocket-for-1st-time-ahead-of-crucial-test-flight-photos",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1778580000
+    },
+    {
+      "title": "Nintendo Confirms The Legend of Zelda Amiibo Due Later This Year, Featuring Tears of the Kingdom Character",
+      "link": "https://www.ign.com/articles/nintendo-confirms-the-legend-of-zelda-amiibo-due-later-this-year-featuring-tears-of-the-kingdom-character",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778579492
+    },
+    {
+      "title": "Reacher Renewed for Fifth Season Ahead of Season Four Premiere",
+      "link": "https://www.ign.com/articles/reacher-renewed-for-fifth-season-ahead-of-season-four-premiere",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778576918
+    },
+    {
+      "title": "Lord of the Rings Star Ian McKellen Says Obi-Wan Actor Alec Guinness Told Him to Drop Support for Gay Rights Charity",
+      "link": "https://www.ign.com/articles/lord-of-the-rings-star-ian-mckellen-says-obi-wan-actor-alec-guinness-told-him-to-drop-support-for-gay-rights-charity",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778576348
+    },
     {
       "title": "Lies of P Sequel 'Enters Full Production Phase'",
       "link": "https://www.ign.com/articles/lies-of-p-sequel-enters-full-production-phase",
@@ -233,27 +296,6 @@
       "timestamp": 1778526000
     },
     {
-      "title": "Wordle Game Show Hosted by Savannah Guthrie Gets the Green Light at NBC",
-      "link": "https://www.ign.com/articles/wordle-game-show-hosted-by-savannah-guthrie-gets-the-green-light-at-nbc",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778524728
-    },
-    {
-      "title": "Fallout Season 3 Adds Breaking Bad Star Aaron Paul to Cast",
-      "link": "https://www.ign.com/articles/fallout-season-3-adds-breaking-bad-star-aaron-paul-to-cast",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778524481
-    },
-    {
-      "title": "Friday the 13th Prequel Series Crystal Lake Gets Release Date",
-      "link": "https://www.ign.com/articles/friday-the-13th-prequel-series-crystal-lake-gets-release-date",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778524062
-    },
-    {
       "title": "Passengers from hantavirus ship arrive in US; 3 people in biocontainment",
       "link": "https://arstechnica.com/health/2026/05/passengers-from-hantavirus-ship-arrive-in-us-3-people-in-biocontainment/",
       "source": "ARSTECHNICA",
@@ -345,13 +387,6 @@
       "timestamp": 1778519641
     },
     {
-      "title": "Nintendo Sent a Cease and Desist to WWE Champion Cody Rhodes",
-      "link": "https://www.ign.com/articles/nintendo-sent-a-cease-and-desist-to-wwe-champion-cody-rhodes",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778519636
-    },
-    {
       "title": "Digg tries again, this time as an AI news aggregator",
       "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
       "source": "TECHCRUNCH",
@@ -371,13 +406,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778518800
-    },
-    {
-      "title": "Nintendo Confirms It Has Under-Wraps Switch 2 Games Due Later This Year, as Share Price Drops Following Console Price Hike",
-      "link": "https://www.ign.com/articles/nintendo-confirms-it-has-under-wraps-switch-2-games-due-later-this-year-as-share-price-drops-following-console-price-hike",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778516344
     },
     {
       "title": "‘Too early’ to talk IPO, Redwood Materials’ incoming CFO says",
@@ -555,20 +583,6 @@
       "timestamp": 1778471244
     },
     {
-      "title": "Get ready for the whisper-filled office of the future",
-      "link": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778447730
-    },
-    {
-      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
-      "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778445641
-    },
-    {
       "title": "'Pragmata' director Yonghee Cho on creating Capcom’s resonant sci-fi lunar adventure (interview)",
       "link": "https://www.space.com/entertainment/space-movies-shows/pragmata-director-yonghee-cho-on-creating-capcoms-resonant-sci-fi-lunar-adventure-interview",
       "source": "SPACE",
@@ -646,25 +660,11 @@
       "timestamp": 1778338049
     },
     {
-      "title": "NASA's twin Voyager spacecraft are very low on power after nearly 50 years. How long can they keep going?",
-      "link": "https://www.space.com/space-exploration/how-long-can-the-voyager-probes-keep-exploring-interstellar-space-nasa-gearing-up-for-big-bang-maneuver-to-boost-dwindling-power-levels",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1778331600
-    },
-    {
       "title": "The new Wild West of AI kids’ toys",
       "link": "https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1778324451
-    },
-    {
-      "title": "Manufacturing qubits that can move",
-      "link": "https://arstechnica.com/science/2026/05/manufacturing-qubits-that-can-move/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778282037
     }
   ]
 }
