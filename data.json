@@ -1,12 +1,33 @@
 {
-  "last_updated": 1778615250,
+  "last_updated": 1778620637,
   "items": [
+    {
+      "title": "Uranus and Neptune could be full of rocks, new study suggests",
+      "link": "https://www.space.com/science/uranus-and-neptune-could-be-full-of-rocks-new-study-suggests",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1778619600
+    },
+    {
+      "title": "Christopher Nolan Confirms Casting Twist for The Odyssey, With One Actor Playing Dual Roles",
+      "link": "https://www.ign.com/articles/christopher-nolan-confirms-casting-twist-for-the-odyssey-with-one-actor-playing-dual-roles",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778618249
+    },
     {
       "title": "Today's top games to watch, best bets, odds: Timberwolves vs. Spurs Game 5, NHL playoffs, Braves vs. Cubs",
       "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-timberwolves-vs-spurs-game-5-nhl-playoffs-braves-vs-cubs/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1778614238
+    },
+    {
+      "title": "Twin brothers wipe 96 gov't databases minutes after being fired",
+      "link": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778613127
     },
     {
       "title": "Grizzlies forward Brandon Clarke dies at 29: No. 21 pick in 2019 NBA Draft spent seven seasons with Memphis",
@@ -149,14 +170,14 @@
       "timestamp": 1778605241
     },
     {
-      "title": "The AI legal services industry is heating up. Anthropic is getting in on the action.",
+      "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
       "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1778605200
     },
     {
-      "title": "Google adds Gemini-powered Dictation to Gboard, which could be bad news for dictation startups",
+      "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
       "link": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -170,14 +191,14 @@
       "timestamp": 1778605200
     },
     {
-      "title": "Google unveils Googlebooks, a new line of AI-native laptops",
+      "title": "Google unveils Googlebook, a new line of AI-native laptops",
       "link": "https://techcrunch.com/2026/05/12/google-unveils-googlebooks-a-new-line-of-ai-native-laptops/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1778605200
     },
     {
-      "title": "Google’s ‘Create My Widget’ feature will let you vibe code your own widgets",
+      "title": "Google’s ‘Create My Widget’ feature will let you vibe-code your own widgets",
       "link": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -261,7 +282,7 @@
       "timestamp": 1778598081
     },
     {
-      "title": "Watch SpaceX launch 6,500 pounds of cargo to the International Space Station today",
+      "title": "Watch SpaceX launch 6,500 pounds of cargo to the International Space Station on May 13",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-dragon-cargo-launch-iss-crs-34",
       "source": "SPACE",
       "category": "space",
@@ -273,13 +294,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1778597226
-    },
-    {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Spurs-Timberwolves, Paul Skenes props Tuesday",
-      "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-spurs-timberwolves-paul-skenes-props-tuesday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778595607
     },
     {
       "title": "NASA's Psyche asteroid probe will fly within 3,000 miles of Mars on May 15: Here's what to expect",
@@ -436,13 +450,6 @@
       "timestamp": 1778582476
     },
     {
-      "title": "Crimson Desert Dev Pearl Abyss Confirms Plans to 'Broaden the Game to the Next Level' — Including DLC",
-      "link": "https://www.ign.com/articles/crimson-desert-dev-pearl-abyss-confirms-plans-to-broaden-the-game-to-the-next-level-including-dlc",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778581690
-    },
-    {
       "title": "SpaceX fuels up Starship V3 megarocket for 1st time ahead of crucial test flight (photos)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fuels-up-starship-v3-megarocket-for-1st-time-ahead-of-crucial-test-flight-photos",
       "source": "SPACE",
@@ -469,6 +476,13 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1778568162
+    },
+    {
+      "title": "2026 NBA playoff bracket: Schedule, matchups as Thunder sweep Lakers to advance to semifinals",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778565896
     },
     {
       "title": "Scientists discover hidden chemical signature that could reveal alien life",
@@ -590,25 +604,11 @@
       "timestamp": 1778515200
     },
     {
-      "title": "Pirates are already playing Forza Horizon 6 days before its launch",
-      "link": "https://arstechnica.com/gaming/2026/05/pirates-are-already-playing-forza-horizon-6-days-before-its-launch/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778513356
-    },
-    {
       "title": "SpaceX launches secret US spy satellites to orbit from California (video, photos)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launch-nrol-172-spy-satellite-mission",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778511600
-    },
-    {
-      "title": "They really launched this tiny spacecraft (Well, sort of.) | Space photo of the day for May 11, 2026",
-      "link": "https://www.space.com/astronomy/mars/they-really-launched-this-tiny-spacecraft-well-sort-of-space-photo-of-the-day-for-may-11-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1778508000
     },
     {
       "title": "Scientists put a tiny lump of metal in two places at once in record-breaking quantum experiment",
