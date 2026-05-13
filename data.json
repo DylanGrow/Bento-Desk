@@ -1,6 +1,160 @@
 {
-  "last_updated": 1778688996,
+  "last_updated": 1778698500,
   "items": [
+    {
+      "title": "NASA provides some details about Artemis III, but hard decisions remain",
+      "link": "https://arstechnica.com/space/2026/05/nasa-provides-some-details-about-artemis-iii-but-hard-decisions-remain/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778697449
+    },
+    {
+      "title": "This is what some the world’s largest banks of malware look like stacked as hard drives",
+      "link": "https://techcrunch.com/2026/05/13/this-is-what-some-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778695949
+    },
+    {
+      "title": "A new US military wargame series began by simulating a nuclear weapon in orbit",
+      "link": "https://arstechnica.com/space/2026/05/a-new-us-military-wargame-series-began-by-simulating-a-nuclear-weapon-in-orbit/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778695473
+    },
+    {
+      "title": "Neanderthals drilled cavities to treat a toothache 59,000 years ago",
+      "link": "https://arstechnica.com/science/2026/05/neanderthals-drilled-cavities-to-treat-a-toothache-59000-years-ago/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778695233
+    },
+    {
+      "title": "Astrophotographer captures remarkable view of galactic 'Eyes' with backyard telescope",
+      "link": "https://www.space.com/stargazing/astrophotography/astrophotographer-captures-remarkable-view-of-galactic-eyes-with-backyard-telescope",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1778695200
+    },
+    {
+      "title": "NBA Draft Combine winners and losers: Cam Boozer's athleticism, Darius Acuff's stock rises, Koa Peat struggles",
+      "link": "https://www.cbssports.com/nba/news/nba-draft-combine-measurements-darius-acuff-koa-peat-alex-karaban-winners-losers/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778695150
+    },
+    {
+      "title": "Spurs vs. Timberwolves: Why the Thunder should be rooting for Minnesota -- and a Game 7",
+      "link": "https://www.cbssports.com/nba/news/spurs-vs-timberwolves-thunder-rooting-interest/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778694914
+    },
+    {
+      "title": "Altman forced to confront claims at OpenAI trial that he's a prolific liar",
+      "link": "https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778694485
+    },
+    {
+      "title": "Warhammer 40,000: Mechanicus II Finally Has a Release Date, Timed to Launch Alongside the Warhammer Skulls Reveal Show",
+      "link": "https://www.ign.com/articles/warhammer-40000-mechanicus-ii-finally-has-a-release-date-timed-to-launch-alongside-the-warhammer-skulls-reveal-show",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778694347
+    },
+    {
+      "title": "Geothermal startup Fervo Energy pops 33% in IPO debut fueled by AI data center demand",
+      "link": "https://techcrunch.com/2026/05/13/geothermal-startup-fervo-energy-pops-33-in-ipo-debut-fueled-by-ai-data-center-demand/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778694140
+    },
+    {
+      "title": "Windows Update is getting better at saving your PC from buggy drivers",
+      "link": "https://arstechnica.com/gadgets/2026/05/windows-update-is-getting-better-at-saving-your-pc-from-buggy-drivers/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778692801
+    },
+    {
+      "title": "X launches a History tab for bookmarks, likes, videos, and articles",
+      "link": "https://techcrunch.com/2026/05/13/x-launches-a-history-tab-for-bookmarks-likes-videos-and-articles/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778692592
+    },
+    {
+      "title": "Star Fox, Zelda: Ocarina of Time Switch 2 Leaks Are a 'Worst-Case Scenario' for Nintendo, Former Staff Say",
+      "link": "https://www.ign.com/articles/star-fox-zelda-ocarina-of-time-switch-2-leaks-are-a-worst-case-scenario-for-nintendo-former-staff-say",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778692388
+    },
+    {
+      "title": "Amazon devices chief says a new smartphone is “just not the goal”",
+      "link": "https://arstechnica.com/gadgets/2026/05/amazon-exec-downplays-new-fire-phone-rumors-no-clear-path-that-makes-sense/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778692017
+    },
+    {
+      "title": "Blue Origin's lunar lander mockup is ready for NASA Artemis astronaut training",
+      "link": "https://www.space.com/space-exploration/artemis/blue-origins-lunar-lander-mockup-is-ready-for-nasa-artemis-astronaut-training",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1778691600
+    },
+    {
+      "title": "Instagram’s new ‘Instants’ feature combines elements from Snapchat and BeReal",
+      "link": "https://techcrunch.com/2026/05/13/instagrams-new-instants-feature-combines-elements-from-snapchat-and-bereal/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778691460
+    },
+    {
+      "title": "Rivian spinoff Mind Robotics raises another $400M",
+      "link": "https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778690061
+    },
+    {
+      "title": "Disney Sets an Avatar: Fire and Ash Streaming Release Date Before the Next Movie Is Confirmed",
+      "link": "https://www.ign.com/articles/avatar-fire-and-ash-streaming-release-date",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778689889
+    },
+    {
+      "title": "Anthropic blames dystopian sci-fi for training AI models to act “evil”",
+      "link": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778689878
+    },
+    {
+      "title": "Who trusts Sam Altman?",
+      "link": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778689864
+    },
+    {
+      "title": "Capcom Lists Dead Rising as One of Its 'Leading Brands' That It's 'Nurturing' — but Does That Mean Dead Rising 5?",
+      "link": "https://www.ign.com/articles/capcom-lists-dead-rising-as-one-of-its-leading-brands-that-its-nurturing-but-does-that-mean-dead-rising-5",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778689650
+    },
+    {
+      "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
+      "link": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778689321
+    },
     {
       "title": "Dylan Harper has turned into a monster as Spurs move within one win of showdown with Thunder",
       "link": "https://www.cbssports.com/nba/news/spurs-rookie-dylan-harper-timberwolves-nba-playoffs/",
@@ -205,13 +359,6 @@
       "timestamp": 1778679337
     },
     {
-      "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
-      "link": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778678829
-    },
-    {
       "title": "Daredevil: Born Again S2 gives us a darker, grittier canvas",
       "link": "https://arstechnica.com/culture/2026/05/daredevil-born-again-s2-gives-us-a-darker-grittier-canvas/",
       "source": "ARSTECHNICA",
@@ -266,13 +413,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1778674954
-    },
-    {
-      "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
-      "link": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778674293
     },
     {
       "title": "'Like putting a microscope into the core of the sun': World's 1st space-based neutrino detector launches to orbit",
@@ -331,20 +471,6 @@
       "timestamp": 1778663971
     },
     {
-      "title": "Ex-Call of Duty: Black Ops Design Director David Vonderhaar Teases New Original FPS: 'If David Lynch Made Shooters'",
-      "link": "https://www.ign.com/articles/ex-call-of-duty-black-ops-design-director-david-vonderhaar-teases-new-original-fps-if-david-lynch-made-shooters",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778662958
-    },
-    {
-      "title": "Star Wars: Fate of the Old Republic Developer Teases Game's Length and Development Time",
-      "link": "https://www.ign.com/articles/star-wars-fate-of-the-old-republic-developer-teases-games-length-and-development-time",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778661545
-    },
-    {
       "title": "Quantum breakthrough could revolutionize teleportation and computing",
       "link": "https://www.sciencedaily.com/releases/2026/05/260513034640.htm",
       "source": "SCIENCEDAILY",
@@ -394,13 +520,6 @@
       "timestamp": 1778635329
     },
     {
-      "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
-      "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778632008
-    },
-    {
       "title": "Scientists make old blood stem cells young again in major anti-aging breakthrough",
       "link": "https://www.sciencedaily.com/releases/2026/05/260511213204.htm",
       "source": "SCIENCEDAILY",
@@ -420,13 +539,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1778627925
-    },
-    {
-      "title": "Conan O’Brien Will Return to Host the Oscars for Third Consecutive Year",
-      "link": "https://www.ign.com/articles/conan-obrien-will-return-to-host-the-oscars-for-third-consecutive-year",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778625561
     },
     {
       "title": "SpaceX's Starship V3 megarocket finally has a debut launch date. Here's when it will fly",
@@ -457,20 +569,6 @@
       "timestamp": 1778619600
     },
     {
-      "title": "Christopher Nolan Confirms Casting Twist for The Odyssey, With One Actor Playing Dual Roles",
-      "link": "https://www.ign.com/articles/christopher-nolan-confirms-casting-twist-for-the-odyssey-with-one-actor-playing-dual-roles",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778618249
-    },
-    {
-      "title": "Today's top games to watch, best bets, odds: Timberwolves vs. Spurs Game 5, NHL playoffs, Braves vs. Cubs",
-      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-timberwolves-vs-spurs-game-5-nhl-playoffs-braves-vs-cubs/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778614238
-    },
-    {
       "title": "Twin brothers wipe 96 gov't databases minutes after being fired",
       "link": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
       "source": "ARSTECHNICA",
@@ -492,74 +590,11 @@
       "timestamp": 1778612425
     },
     {
-      "title": "Kevin Hartz’s A* just closed its third fund with $450M",
-      "link": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778611505
-    },
-    {
-      "title": "Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup",
-      "link": "https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778609698
-    },
-    {
-      "title": "NBA Draft Combine winners and losers: Darius Acuff's stock rises, Koa Peat struggles in early shooting drills",
-      "link": "https://www.cbssports.com/nba/news/nba-draft-combine-measurements-darius-acuff-koa-peat-alex-karaban-winners-losers/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778609377
-    },
-    {
-      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-      "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778609115
-    },
-    {
       "title": "'Cannibal stars,' AI and the Rubin Observatory could shed light on the mystery of dark energy. Here's how",
       "link": "https://www.space.com/astronomy/dark-universe/cannibal-stars-ai-and-the-rubin-observatory-could-shed-light-on-the-mystery-of-dark-energy-heres-how",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778608800
-    },
-    {
-      "title": "Microsoft will lean on your CPU to speed up Windows 11's apps and animations",
-      "link": "https://arstechnica.com/gadgets/2026/05/speed-boosting-low-latency-profile-is-one-of-the-improvements-coming-to-windows-11/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778608161
-    },
-    {
-      "title": "Anthropic warns investors against secondary platforms offering access to its shares",
-      "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778607394
-    },
-    {
-      "title": "eBay rejects GameStop's $56B offer: \"Your proposal is neither credible nor attractive\"",
-      "link": "https://arstechnica.com/tech-policy/2026/05/ebay-rejects-gamestops-56b-offer-your-proposal-is-neither-credible-nor-attractive/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778606284
-    },
-    {
-      "title": "Google's Android-powered laptops are called Googlebooks, and they're coming this year",
-      "link": "https://arstechnica.com/gadgets/2026/05/googles-android-powered-laptops-are-called-googlebooks-and-theyre-coming-this-year/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778605249
-    },
-    {
-      "title": "Android is getting a big AI overhaul in 2026",
-      "link": "https://arstechnica.com/gadgets/2026/05/google-says-android-is-getting-a-big-ai-overhaul-in-2026/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778605241
     },
     {
       "title": "Don't miss Mars, Saturn and the moon form a cosmic triangle before dawn on May 14",
@@ -590,39 +625,11 @@
       "timestamp": 1778594400
     },
     {
-      "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
-      "link": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778592785
-    },
-    {
-      "title": "Star Catcher just raised $65 million to build the world's first power grid in space — with lasers",
-      "link": "https://www.space.com/technology/star-catcher-just-raised-usd65-million-to-build-the-worlds-first-power-grid-in-space-with-lasers",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1778590800
-    },
-    {
-      "title": "Thousands of deaths per year caused by invisible wildfire pollutant, satellite data shows",
-      "link": "https://www.space.com/science/climate-change/a-hidden-wildfire-pollutant-causes-thousands-of-excess-deaths-per-year-satellite-data-shows",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1778587200
-    },
-    {
       "title": "Scientists say this algae could remove microplastics from drinking water",
       "link": "https://www.sciencedaily.com/releases/2026/05/260511213201.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1778584588
-    },
-    {
-      "title": "Once again, SpaceX has set a new record for the tallest rocket ever built",
-      "link": "https://arstechnica.com/space/2026/05/spacex-completes-fueling-test-setting-stage-for-first-launch-of-starship-v3/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778583634
     },
     {
       "title": "This strange giant dinosaur may change what we know about Jurassic titans",
@@ -658,13 +665,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1778559023
-    },
-    {
-      "title": "Linux bitten by second severe vulnerability in as many weeks",
-      "link": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778538499
     }
   ]
 }
