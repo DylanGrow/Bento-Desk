@@ -1,6 +1,55 @@
 {
-  "last_updated": 1778630713,
+  "last_updated": 1778647279,
   "items": [
+    {
+      "title": "The always upside-down 76ers fire Daryl Morey, whose replacement has decades of disarray to overcome",
+      "link": "https://www.cbssports.com/nba/news/76ers-fire-daryl-morey-nick-nurse-josh-harris-franchise-disarray/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778645710
+    },
+    {
+      "title": "2026 NBA playoff bracket: Schedule, matchups as Thunder sweep Lakers to advance to semifinals",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778640466
+    },
+    {
+      "title": "A rare cancer-fighting plant compound has been decoded",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260512213836.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1778636740
+    },
+    {
+      "title": "Scientists discover a weak spot shared by polio and common cold viruses",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260512202320.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1778636057
+    },
+    {
+      "title": "New drugs could wipe out the “zombie cells” linked to cancer and aging",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260509210646.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1778635329
+    },
+    {
+      "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+      "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778632008
+    },
+    {
+      "title": "Scientists make old blood stem cells young again in major anti-aging breakthrough",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260511213204.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1778628612
+    },
     {
       "title": "Grizzlies forward Brandon Clarke dies at 29: No. 21 pick in 2019 NBA Draft spent seven seasons with Memphis",
       "link": "https://www.cbssports.com/nba/news/grizzlies-brandon-clarke-dies-at-29/",
@@ -28,20 +77,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778625290
-    },
-    {
-      "title": "Use DraftKings promo code for $100 in bonus bets by targeting Timberwolves-Spurs, Paul Skenes props on Tuesday",
-      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-100-in-bonus-bets-targeting-timberwolves-spurs-paul-skenes-props-tuesday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778624061
-    },
-    {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Timberwolves-Spurs, Paul Skenes props Tuesday",
-      "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-timberwolves-spurs-paul-skenes-props-tuesday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778623763
     },
     {
       "title": "The newest AI boom pitch: Host a mini data center at your home",
@@ -294,13 +329,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1778604363
-    },
-    {
-      "title": "US bank discloses security lapse after sharing customer data with AI app",
-      "link": "https://techcrunch.com/2026/05/12/us-bank-discloses-security-lapse-after-sharing-customer-data-with-ai-app/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778603804
     },
     {
       "title": "Don't miss Mars, Saturn and the moon form a cosmic triangle before dawn on May 14",
@@ -644,34 +672,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1778472830
-    },
-    {
-      "title": "This 800-year-old Chinese exercise helps lower blood pressure naturally",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260510234724.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1778471244
-    },
-    {
-      "title": "“Cannot be explained” – New ultra stainless steel stuns researchers",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1778413185
-    },
-    {
-      "title": "Scientists successfully transfer longevity gene and extend lifespan",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1778412432
-    },
-    {
-      "title": "Brain scans reveal a shocking difference between psychopaths and other people",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260510030946.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1778411108
     }
   ]
 }
