@@ -1,6 +1,62 @@
 {
-  "last_updated": 1778792860,
+  "last_updated": 1778799275,
   "items": [
+    {
+      "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+      "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778798871
+    },
+    {
+      "title": "Cade Cunningham, J.B. Bickerstaff call out 'pretty clear' no-call in Pistons' Game 5 loss to Cavaliers",
+      "link": "https://www.cbssports.com/nba/news/pistons-cavaliers-game-5-foul-call-cade-cunningham-jb-bickerstaff-nba-playoffs/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778797590
+    },
+    {
+      "title": "The 'Doctor Who' TV movie at 30: Too British for America, too American for the UK",
+      "link": "https://www.space.com/entertainment/space-movies-shows/the-doctor-who-tv-movie-at-30-too-british-for-america-too-american-for-the-uk",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1778796000
+    },
+    {
+      "title": "Men use \"vocal fry\" more than women, counter to stereotype",
+      "link": "https://arstechnica.com/science/2026/05/men-use-vocal-fry-more-than-women-counter-to-stereotype/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778794349
+    },
+    {
+      "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+      "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778794244
+    },
+    {
+      "title": "The Next James Bond: Casting Director of Game of Thrones and Star Wars Sequels Leading the Search for Daniel Craig’s Replacement",
+      "link": "https://www.ign.com/articles/nina-gold-casting-james-bond-26-auditions",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778793372
+    },
+    {
+      "title": "Myles Turner's very specific complaint about Giannis Antetokounmpo -- and why Doc Rivers never stopped it",
+      "link": "https://www.cbssports.com/nba/news/myles-turner-giannis-antetokounmpo-doc-rivers-bucks-fines/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778793010
+    },
+    {
+      "title": "Fired hacker twins forget to end Teams recording, capture own crimes",
+      "link": "https://arstechnica.com/tech-policy/2026/05/fired-hacker-twins-forget-to-end-teams-recording-capture-own-crimes/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778792573
+    },
     {
       "title": "OpenAI says Codex is coming to your phone",
       "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
@@ -261,13 +317,6 @@
       "timestamp": 1778770800
     },
     {
-      "title": "Cade Cunningham, J.B. Bickerstaff call out 'pretty clear' no-call in Pistons' Game 5 loss to Cavaliers",
-      "link": "https://www.cbssports.com/nba/news/pistons-cavaliers-game-5-foul-call-cade-cunningham-jb-bickerstaff-nba-playoffs/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778770113
-    },
-    {
       "title": "Spider-Man: Brand New Day Behind the Scenes Footage Shows Off Movie's Practical Effects",
       "link": "https://www.ign.com/articles/spider-man-brand-new-day-behind-the-scenes-footage-shows-off-movies-practical-effects",
       "source": "IGN",
@@ -289,29 +338,15 @@
       "timestamp": 1778767274
     },
     {
-      "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
-      "link": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778767200
-    },
-    {
-      "title": "Two weeks left: Startup Battlefield 200 applications close May 27",
-      "link": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778767200
-    },
-    {
-      "title": "The world's biggest rocket: How SpaceX's new Starship 'V3' differs from its predecessors",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/the-worlds-biggest-rocket-how-spacexs-new-starship-v3-differs-from-its-predecessors",
+      "title": "Earth photobombs a satellite deploying its giant reflector | Space photo of the day for May 14, 2026",
+      "link": "https://www.space.com/space-exploration/satellites/earth-photobombs-a-satellite-deploying-its-giant-reflector-space-photo-of-the-day-for-may-14-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778767200
     },
     {
-      "title": "Earth photobombs a satellite deploying its giant reflector | Space photo of the day for May 14, 2026",
-      "link": "https://www.space.com/space-exploration/satellites/earth-photobombs-a-satellite-deploying-its-giant-reflector-space-photo-of-the-day-for-may-14-2026",
+      "title": "The world's biggest rocket: How SpaceX's new Starship 'V3' differs from its predecessors",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/the-worlds-biggest-rocket-how-spacexs-new-starship-v3-differs-from-its-predecessors",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778767200
@@ -434,13 +469,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1778756458
-    },
-    {
-      "title": "GTA 6 Fans Go Into Overdrive Once Again Amid Potential Leaked Pre-Order Date and More Trailer 3 Rumors",
-      "link": "https://www.ign.com/articles/gta-6-fans-go-into-overdrive-once-again-amid-potential-leaked-pre-order-date-and-more-trailer-3-rumors",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778754867
     },
     {
       "title": "Scientists propose new way to find aliens — and we may already have a spacecraft that can help",
@@ -569,13 +597,6 @@
       "timestamp": 1778704074
     },
     {
-      "title": "Foiled plot tried to sneak 49 lbs of cocaine into Australia via Xerox printers",
-      "link": "https://arstechnica.com/tech-policy/2026/05/foiled-plot-tried-to-sneak-49-lbs-of-cocaine-into-australia-via-xerox-printers/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778702769
-    },
-    {
       "title": "Will Starship launch from foreign shores? SpaceX 'constantly exploring' options for megarocket liftoff sites",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/will-starship-launch-from-foreign-shores-spacex-constantly-exploring-options-for-megarocket-liftoff-sites",
       "source": "SPACE",
@@ -583,25 +604,11 @@
       "timestamp": 1778702400
     },
     {
-      "title": "AI invades Princeton, where 30% of students cheat—but peers won't snitch",
-      "link": "https://arstechnica.com/tech-policy/2026/05/ai-driven-cheating-widespread-even-at-elite-schools-like-princeton/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778701644
-    },
-    {
       "title": "NBA Draft Combine winners and losers: Cameron Boozer flashes athleticism; Darius Acuff improves stock",
       "link": "https://www.cbssports.com/nba/news/nba-draft-combine-measurements-darius-acuff-koa-peat-alex-karaban-winners-losers/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1778700792
-    },
-    {
-      "title": "Today's top games to watch, best bets, odds: Cavaliers vs. Pistons, Wild vs. Avalanche and more",
-      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-cavaliers-vs-pistons-wild-vs-avalanche-and-more/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778700641
     },
     {
       "title": "What flings mysteriously powerful particles called 'cosmic rays' at Earth?",
@@ -616,13 +623,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778695200
-    },
-    {
-      "title": "Blue Origin's lunar lander mockup is ready for NASA Artemis astronaut training",
-      "link": "https://www.space.com/space-exploration/artemis/blue-origins-lunar-lander-mockup-is-ready-for-nasa-artemis-astronaut-training",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1778691600
     },
     {
       "title": "Scientists finally solve the 100-year mystery behind tough tires",
