@@ -1,12 +1,68 @@
 {
-  "last_updated": 1778787763,
+  "last_updated": 1778792860,
   "items": [
+    {
+      "title": "OpenAI says Codex is coming to your phone",
+      "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778792335
+    },
+    {
+      "title": "Lovable just backed a company that’s looking to bring vibe coding to hardware",
+      "link": "https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778791383
+    },
+    {
+      "title": "Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn’t take the meeting",
+      "link": "https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778790183
+    },
+    {
+      "title": "DC’s Absolute Universe Dominates the 2026 Eisner Award Nominations",
+      "link": "https://www.ign.com/articles/dc-absolute-universe-2026-eisner-nominations",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778789736
+    },
+    {
+      "title": "No, this isn't a solar eclipse. It's an image of Mars, captured by NASA's asteroid-bound Psyche probe",
+      "link": "https://www.space.com/astronomy/mars/no-this-isnt-a-solar-eclipse-its-an-image-of-mars-captured-by-nasas-asteroid-bound-psyche-probe",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1778788800
+    },
+    {
+      "title": "What happens when AI starts building itself?",
+      "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778788640
+    },
     {
       "title": "Today's top games to watch, best bets, odds: Sabres vs. Canadiens, Golden Knights vs. Ducks, MLB and more",
       "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-sabres-vs-canadiens-golden-knights-vs-ducks-mlb-and-more/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1778787041
+    },
+    {
+      "title": "Cell phone users can't stop incriminating themselves",
+      "link": "https://arstechnica.com/tech-policy/2026/05/cell-phones-users-cant-stop-incriminating-themselves/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778786870
+    },
+    {
+      "title": "Energy supplier abandons Lake Tahoe residents to serve data centers",
+      "link": "https://arstechnica.com/ai/2026/05/energy-supplier-abandons-lake-tahoe-residents-to-serve-data-centers/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778786248
     },
     {
       "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
@@ -37,7 +93,7 @@
       "timestamp": 1778785003
     },
     {
-      "title": "AMD promises to bring improved, hardware-backed FSR 4 upscaling to older Radeon GPUs",
+      "title": "Over a year later, AMD is bringing improved FSR 4 upscaling to its older GPUs",
       "link": "https://arstechnica.com/gadgets/2026/05/amd-promises-to-bring-improved-hardware-backed-fsr-4-upscaling-to-older-radeon-gpus/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -282,13 +338,6 @@
       "timestamp": 1778766650
     },
     {
-      "title": "Uber to open 2 campuses in India to support product development, operations",
-      "link": "https://techcrunch.com/2026/05/14/uber-to-open-2-campuses-in-india-to-support-product-development-operations/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778766207
-    },
-    {
       "title": "Forecasting LeBron James' next contract: How much will The King make if he returns?",
       "link": "https://www.cbssports.com/nba/news/lebron-james-next-contract-how-much/",
       "source": "CBSSPORTS",
@@ -394,13 +443,6 @@
       "timestamp": 1778754867
     },
     {
-      "title": "Assassin's Creed Hexe Image Allegedly Leaks, Alongside Word of a Major Returning Character",
-      "link": "https://www.ign.com/articles/assassins-creed-hexe-image-allegedly-leaks-alongside-word-of-a-major-returning-character",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778754807
-    },
-    {
       "title": "Scientists propose new way to find aliens — and we may already have a spacecraft that can help",
       "link": "https://www.space.com/space-exploration/search-for-life/scientists-propose-new-way-to-find-aliens-and-we-may-already-have-a-spacecraft-that-can-help",
       "source": "SPACE",
@@ -422,13 +464,6 @@
       "timestamp": 1778743440
     },
     {
-      "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
-      "link": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778738731
-    },
-    {
       "title": "Pistons hosed by controversial no-call, but can only blame themselves for late collapse in loss to Cavs",
       "link": "https://www.cbssports.com/nba/news/pistons-controversial-call-cavaliers-game-5-nba-playoffs/",
       "source": "CBSSPORTS",
@@ -441,13 +476,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1778738109
-    },
-    {
-      "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
-      "link": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778736279
     },
     {
       "title": "Who are the Japanese? Huge DNA discovery rewrites history",
@@ -497,13 +525,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1778708907
-    },
-    {
-      "title": "Notion just turned its workspace into a hub for AI agents",
-      "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778708709
     },
     {
       "title": "Arizona star Koa Peat dishes on upcoming stay-or-go decision amid shaky showing at NBA Draft Combine",
@@ -583,25 +604,11 @@
       "timestamp": 1778700641
     },
     {
-      "title": "The physics of how Olympic weightlifters exploit barbell's \"whip\"",
-      "link": "https://arstechnica.com/science/2026/05/the-physics-of-how-olympic-weightlifters-exploit-barbells-whip/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778699135
-    },
-    {
       "title": "What flings mysteriously powerful particles called 'cosmic rays' at Earth?",
       "link": "https://www.space.com/science/particle-physics/what-flings-mysteriously-powerful-particles-called-cosmic-rays-at-earth",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778698800
-    },
-    {
-      "title": "NASA provides some details about Artemis III, but hard decisions remain",
-      "link": "https://arstechnica.com/space/2026/05/nasa-provides-some-details-about-artemis-iii-but-hard-decisions-remain/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778697449
     },
     {
       "title": "Astrophotographer captures remarkable view of galactic 'Eyes' with backyard telescope",
@@ -616,13 +623,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778691600
-    },
-    {
-      "title": "'Smallville' at 15: An imperfect Superman show, but the best Clark Kent story ever told",
-      "link": "https://www.space.com/entertainment/space-movies-shows/smallville-at-15-an-imperfect-superman-show-but-the-best-clark-kent-story-ever-told",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1778688000
     },
     {
       "title": "Scientists finally solve the 100-year mystery behind tough tires",
