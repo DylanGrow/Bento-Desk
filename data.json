@@ -1,96 +1,124 @@
 {
-  "last_updated": 1778778158,
+  "last_updated": 1778787763,
   "items": [
     {
-      "title": "2026 MLB mock draft 1.0: Who will go No. 1 to the ...",
-      "link": "https://www.espn.com/mlb/story/_/id/48742802/2026-mlb-mock-draft-10-kiley-mcdaniel-first-pick-chicago-white-sox",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778780842
+      "title": "Today's top games to watch, best bets, odds: Sabres vs. Canadiens, Golden Knights vs. Ducks, MLB and more",
+      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-sabres-vs-canadiens-golden-knights-vs-ducks-mlb-and-more/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778787041
     },
     {
-      "title": "Amid slump, Ohtani stars again on mound in win",
-      "link": "https://www.espn.com/mlb/story/_/id/48766151/amid-slump-ohtani-keeps-mound-dominance-win-giants",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778779646
+      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+      "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778785923
     },
     {
-      "title": "Pages is best fantasy bat on Dodgers? Vargas is to...",
-      "link": "https://www.espn.com/fantasy/baseball/story/_/id/48758852/espn-mlb-fantasy-baseball-dont-surprised-may13-2026",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778779424
+      "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+      "link": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778785501
     },
     {
-      "title": "MLB Power Rankings: A new No. 1! Who replaced the ...",
-      "link": "https://www.espn.com/mlb/story/_/id/48750350/mlb-2026-power-rankings-week-7-braves-dodgers-cubs-yankees-rays",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778778597
+      "title": "'Directive 8020' is an introspective look at sci-fi horror and our fear of the unknown",
+      "link": "https://www.space.com/entertainment/space-games/directive-8020-is-an-introspective-look-at-sci-fi-horror-and-our-fear-of-the-unknown",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1778785200
     },
     {
-      "title": "Cerebras raises $5.5B, kicking off 2026’s IPO season with a bang",
+      "title": "YouTube viewers watch 2 billion hours of Shorts on TVs each month",
+      "link": "https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778785003
+    },
+    {
+      "title": "AMD promises to bring improved, hardware-backed FSR 4 upscaling to older Radeon GPUs",
+      "link": "https://arstechnica.com/gadgets/2026/05/amd-promises-to-bring-improved-hardware-backed-fsr-4-upscaling-to-older-radeon-gpus/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778784954
+    },
+    {
+      "title": "Judge probes whether Musk settlement with Trump admin is tainted by corruption",
+      "link": "https://arstechnica.com/tech-policy/2026/05/judge-probes-whether-musk-settlement-with-trump-admin-is-tainted-by-corruption/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778784301
+    },
+    {
+      "title": "Brandon Sanderson Confirms a Connection Between Apple TV's Murderbot and His Stormlight Archive Series",
+      "link": "https://www.ign.com/articles/brandon-sanderson-confirms-a-connection-between-apple-tvs-murderbot-and-his-stormlight-archive-series",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778783941
+    },
+    {
+      "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
+      "link": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778783521
+    },
+    {
+      "title": "NASA's Perseverance rover is positively glowing in its new selfie on Mars",
+      "link": "https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-rover-is-positively-glowing-in-its-new-selfie-on-mars",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1778781600
+    },
+    {
+      "title": "Should the Knicks want to face the Cavaliers or the Pistons? Breaking down the matchups with ECF looming",
+      "link": "https://www.cbssports.com/nba/news/cavaliers-vs-pistons-knicks-matchup-ecf-nba-playoffs/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778781528
+    },
+    {
+      "title": "SpaceX's Starship V3 megarocket will do something completely new on Flight 12 — take a good look at itself",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-v3-megarocket-will-do-something-completely-new-on-flight-12-take-a-good-look-at-itself",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1778780187
+    },
+    {
+      "title": "Your doctor’s AI notetaker may be making things up, Ontario audit finds",
+      "link": "https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778779723
+    },
+    {
+      "title": "Vaporware or not? Aptera assembles its first five validation models.",
+      "link": "https://arstechnica.com/cars/2026/05/vaporware-or-not-aptera-assembles-its-first-five-validation-models/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778778383
+    },
+    {
+      "title": "Subnautica 2 Lures In Nearly Half a Million Concurrent Players on Steam Within First Hour of Release",
+      "link": "https://www.ign.com/articles/subnautica-2-lures-in-nearly-half-a-million-concurrent-players-on-steam-within-first-hour-of-release",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778778310
+    },
+    {
+      "title": "Cisco announces record revenue and 4,000 layoffs in the same day",
+      "link": "https://arstechnica.com/information-technology/2026/05/cisco-announces-record-revenue-and-4000-layoffs-in-the-same-day/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778777263
+    },
+    {
+      "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
       "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1778776202
-    },
-    {
-      "title": "Twins send scuffling outfielder Wallner to minors",
-      "link": "https://www.espn.com/mlb/story/_/id/48769406/twins-send-scuffling-outfielder-matt-wallner-triple-a",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778776064
-    },
-    {
-      "title": "Soto fouls ball off right foot, later exits for Me...",
-      "link": "https://www.espn.com/mlb/story/_/id/48764269/mets-watch-juan-soto-depart-fouling-ball-foot",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778776064
-    },
-    {
-      "title": "Fan at White Sox game injured in fall into bullpen...",
-      "link": "https://www.espn.com/mlb/story/_/id/48764264/fan-white-sox-game-hospitalized-fall-visiting-bullpen",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778776064
-    },
-    {
-      "title": "Braves rally by Cubs, first in majors to 30 wins",
-      "link": "https://www.espn.com/mlb/story/_/id/48765318/well-rounded-braves-top-cubs-move-mlb-best-30-13",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778776064
-    },
-    {
-      "title": "Misiorowski exits another gem due to cramping",
-      "link": "https://www.espn.com/mlb/story/_/id/48765382/brewers-misiorowski-exits-gem-cramp-says-fine",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778776064
-    },
-    {
-      "title": "Rockies' McCarthy turns rare unassisted DP for OF",
-      "link": "https://www.espn.com/mlb/story/_/id/48765327/rockies-mccarthy-first-15-record-unassisted-double-play",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778776064
-    },
-    {
-      "title": "Yanks' Fried has sore elbow, set to undergo tests",
-      "link": "https://www.espn.com/mlb/story/_/id/48761385/yankees-max-fried-pulled-start-due-sore-pitching-elbow",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778776064
-    },
-    {
-      "title": "👀 Reds' Triple-A affiliate's 'Nothing Night' prom...",
-      "link": "https://www.espn.com/mlb/story/_/id/48762968/cincinnati-reds-triple-louisville-bats-night",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778776064
     },
     {
       "title": "OpenAI says hackers stole some data after latest code security issue",
@@ -205,7 +233,7 @@
       "timestamp": 1778767274
     },
     {
-      "title": "Wirestock raises $23M to supply creative multi-modal data to AI labs",
+      "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
       "link": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -219,15 +247,15 @@
       "timestamp": 1778767200
     },
     {
-      "title": "Earth photobombs a satellite deploying its giant reflector | Space photo of the day for May 14, 2026",
-      "link": "https://www.space.com/space-exploration/satellites/earth-photobombs-a-satellite-deploying-its-giant-reflector-space-photo-of-the-day-for-may-14-2026",
+      "title": "The world's biggest rocket: How SpaceX's new Starship 'V3' differs from its predecessors",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/the-worlds-biggest-rocket-how-spacexs-new-starship-v3-differs-from-its-predecessors",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778767200
     },
     {
-      "title": "The world's biggest rocket: How SpaceX's new Starship 'V3' differs from its predecessors",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/the-worlds-biggest-rocket-how-spacexs-new-starship-v3-differs-from-its-predecessors",
+      "title": "Earth photobombs a satellite deploying its giant reflector | Space photo of the day for May 14, 2026",
+      "link": "https://www.space.com/space-exploration/satellites/earth-photobombs-a-satellite-deploying-its-giant-reflector-space-photo-of-the-day-for-may-14-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778767200
@@ -254,88 +282,11 @@
       "timestamp": 1778766650
     },
     {
-      "title": "Will there be a lockout? Is a salary cap coming?",
-      "link": "https://www.espn.com/mlb/story/_/id/48750180/mlb-mlbpa-labor-battle-cba-salary-cap-players-union-manfred-negotiations-faq",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778766460
-    },
-    {
-      "title": "As urgency mounts in the Bronx, Aaron Judge hasn't...",
-      "link": "https://www.espn.com/mlb/story/_/id/48751272/mlb-2026-aaron-judge-new-york-yankees-urgency-captain-world-series-legacy",
-      "source": "ESPN",
-      "category": "mlb",
-      "timestamp": 1778766314
-    },
-    {
       "title": "Uber to open 2 campuses in India to support product development, operations",
       "link": "https://techcrunch.com/2026/05/14/uber-to-open-2-campuses-in-india-to-support-product-development-operations/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1778766207
-    },
-    {
-      "title": "Source: Nabers had 'cleanup,' hopeful for Week 1",
-      "link": "https://www.espn.com/nfl/story/_/id/48767796/source-giants-malik-nabers-target-week-1-2nd-surgery",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778765190
-    },
-    {
-      "title": "Source: Fins make Achane 3rd-highest-paid RB",
-      "link": "https://www.espn.com/nfl/story/_/id/48763689/dolphins-rb-devon-achane-reach-4-year-extension",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778765190
-    },
-    {
-      "title": "Packers-Rams set as 1st Thanksgiving Eve game",
-      "link": "https://www.espn.com/nfl/story/_/id/48761249/packers-rams-set-nfl-first-thanksgiving-eve-game",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778765190
-    },
-    {
-      "title": "NFL nixed minority offensive asst. mandate in '25",
-      "link": "https://www.espn.com/nfl/story/_/id/48762073/nfl-ended-minority-offensive-assistant-mandate-25-season",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778765190
-    },
-    {
-      "title": "Source: Jets, veteran WR Patrick agree to terms",
-      "link": "https://www.espn.com/nfl/story/_/id/48762927/source-jets-agree-terms-veteran-wr-tim-patrick",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778765190
-    },
-    {
-      "title": "Florida AG continues push against Rooney Rule",
-      "link": "https://www.espn.com/nfl/story/_/id/48760916/florida-ag-issues-investigative-subpoena-nfl-rooney-rule",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778765190
-    },
-    {
-      "title": "Steelers-Saints in Paris part of record int'l slat...",
-      "link": "https://www.espn.com/nfl/story/_/id/48758779/nfl-unveils-matchups-record-nine-game-international-slate",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778765190
-    },
-    {
-      "title": "Pats rookie Hutchins faces dom. assault charge",
-      "link": "https://www.espn.com/nfl/story/_/id/48759924/patriots-hutchins-pleads-not-guilty-domestic-assault-charge",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778765190
-    },
-    {
-      "title": "🏈 Answers for 10 lingering offseason questions",
-      "link": "https://www.espn.com/nfl/story/_/id/48742512/2026-nfl-offseason-10-teams-questions-explaining-missed-moves",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778765190
     },
     {
       "title": "Forecasting LeBron James' next contract: How much will The King make if he returns?",
@@ -387,39 +338,11 @@
       "timestamp": 1778763159
     },
     {
-      "title": "NFL execs predict 2027 offseason: QB carousel, Geo...",
-      "link": "https://www.espn.com/nfl/story/_/id/48750095/nfl-execs-predict-2027-offseason-qb-draft-george-pickens",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778763005
-    },
-    {
-      "title": "Aiyuk, Diggs or the rookie? Sizing up Commanders' ...",
-      "link": "https://www.espn.com/nfl/story/_/id/48755370/aiyuk-diggs-rookie-antonio-williams-commanders-options-wr2",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778762941
-    },
-    {
       "title": "Giant squid discovery uncovers a hidden deep-sea world off Australia",
       "link": "https://www.sciencedaily.com/releases/2026/05/260513221807.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1778762767
-    },
-    {
-      "title": "How every rookie QB fits with his new NFL team: Wh...",
-      "link": "https://www.espn.com/nfl/draft2026/story/_/id/48742531/2026-nfl-rookie-quarterbacks-team-fits-projections-draft",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778762583
-    },
-    {
-      "title": "The biggest remaining roster hole for every NFL te...",
-      "link": "https://www.espn.com/nfl/story/_/id/48649984/2026-nfl-offseason-biggest-roster-holes-depth-needs-all-32-teams-postdraft",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778762583
     },
     {
       "title": "'Rest in Peace' — Party Animals Review-Bombed Over AI Video Contest",
@@ -485,20 +408,6 @@
       "timestamp": 1778752800
     },
     {
-      "title": "Marvel Tokon: Fighting Souls' 10-Hour Story Mode Will Feature Gameplay After All",
-      "link": "https://www.ign.com/articles/marvel-tokon-fighting-souls-10-hour-story-mode-will-feature-gameplay-after-all",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778752079
-    },
-    {
-      "title": "Marathon Season 2 Detailed",
-      "link": "https://www.ign.com/articles/marathon-season-2-detailed",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778750916
-    },
-    {
       "title": "Scientists discover hidden math secret inside Chinese money plant leaves",
       "link": "https://www.sciencedaily.com/releases/2026/05/260513221754.htm",
       "source": "SCIENCEDAILY",
@@ -562,13 +471,6 @@
       "timestamp": 1778728376
     },
     {
-      "title": "Will 13 personnel drive NFL offenses in 2026? Barn...",
-      "link": "https://www.espn.com/nfl/story/_/id/48750958/2026-nfl-tight-ends-13-personnel-rams-mcvay-trends-draft-jumbo-barnwell",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778725224
-    },
-    {
       "title": "NBA Draft Combine: Predicting stay-or-go decisions for Milan Momcilovic, Malachi Moreno, other draft hopefuls",
       "link": "https://www.cbssports.com/nba/news/nba-draft-combine-2026-milan-momcilovic-malachi-moreno/",
       "source": "CBSSPORTS",
@@ -581,20 +483,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1778722943
-    },
-    {
-      "title": "Four QBs, four storylines: Netflix's 'Quarterback'...",
-      "link": "https://www.espn.com/nfl/story/_/id/48762714/netflix-quarterback-season-3-jayden-daniel-joe-flacco-cam-ward-baker-mayfield",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778715559
-    },
-    {
-      "title": "Family business: Saints sign WWE legend Scott Stei...",
-      "link": "https://www.espn.com/nfl/story/_/id/48750999/brock-rechsteiner-signs-new-orleans-saints-scott-steiner-son-wwe",
-      "source": "ESPN",
-      "category": "nfl",
-      "timestamp": 1778715559
     },
     {
       "title": "Pistons vs. Cavaliers odds, prediction, time: 2026 NBA playoff picks, Game 5 best bets from proven model",
@@ -674,13 +562,6 @@
       "timestamp": 1778702400
     },
     {
-      "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
-      "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778701782
-    },
-    {
       "title": "AI invades Princeton, where 30% of students cheat—but peers won't snitch",
       "link": "https://arstechnica.com/tech-policy/2026/05/ai-driven-cheating-widespread-even-at-elite-schools-like-princeton/",
       "source": "ARSTECHNICA",
@@ -702,13 +583,6 @@
       "timestamp": 1778700641
     },
     {
-      "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
-      "link": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778700486
-    },
-    {
       "title": "The physics of how Olympic weightlifters exploit barbell's \"whip\"",
       "link": "https://arstechnica.com/science/2026/05/the-physics-of-how-olympic-weightlifters-exploit-barbells-whip/",
       "source": "ARSTECHNICA",
@@ -723,39 +597,11 @@
       "timestamp": 1778698800
     },
     {
-      "title": "Jazz owner on rumor of trading up for AJ Dybantsa at No. 1 in NBA Draft: 'Everything' on table",
-      "link": "https://www.cbssports.com/nba/news/nba-draft-rumor-jazz-owner-on-aj-dybantsa-trading-for-no-1/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778698317
-    },
-    {
       "title": "NASA provides some details about Artemis III, but hard decisions remain",
       "link": "https://arstechnica.com/space/2026/05/nasa-provides-some-details-about-artemis-iii-but-hard-decisions-remain/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1778697449
-    },
-    {
-      "title": "This is what some of the world’s largest banks of malware look like stacked as hard drives",
-      "link": "https://techcrunch.com/2026/05/13/this-is-what-some-of-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778695949
-    },
-    {
-      "title": "A new US military wargame series began by simulating a nuclear weapon in orbit",
-      "link": "https://arstechnica.com/space/2026/05/a-new-us-military-wargame-series-began-by-simulating-a-nuclear-weapon-in-orbit/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778695473
-    },
-    {
-      "title": "Neanderthals drilled cavities to treat a toothache 59,000 years ago",
-      "link": "https://arstechnica.com/science/2026/05/neanderthals-drilled-cavities-to-treat-a-toothache-59000-years-ago/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778695233
     },
     {
       "title": "Astrophotographer captures remarkable view of galactic 'Eyes' with backyard telescope",
@@ -765,46 +611,11 @@
       "timestamp": 1778695200
     },
     {
-      "title": "Altman forced to confront claims at OpenAI trial that he's a prolific liar",
-      "link": "https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778694485
-    },
-    {
-      "title": "Windows Update is getting better at saving your PC from buggy drivers",
-      "link": "https://arstechnica.com/gadgets/2026/05/windows-update-is-getting-better-at-saving-your-pc-from-buggy-drivers/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778692801
-    },
-    {
-      "title": "Amazon devices chief says a new smartphone is “just not the goal”",
-      "link": "https://arstechnica.com/gadgets/2026/05/amazon-exec-downplays-new-fire-phone-rumors-no-clear-path-that-makes-sense/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778692017
-    },
-    {
       "title": "Blue Origin's lunar lander mockup is ready for NASA Artemis astronaut training",
       "link": "https://www.space.com/space-exploration/artemis/blue-origins-lunar-lander-mockup-is-ready-for-nasa-artemis-astronaut-training",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778691600
-    },
-    {
-      "title": "Anthropic blames dystopian sci-fi for training AI models to act “evil”",
-      "link": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778689878
-    },
-    {
-      "title": "Dylan Harper has turned into a monster as Spurs move within one win of showdown with Thunder",
-      "link": "https://www.cbssports.com/nba/news/spurs-rookie-dylan-harper-timberwolves-nba-playoffs/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778688641
     },
     {
       "title": "'Smallville' at 15: An imperfect Superman show, but the best Clark Kent story ever told",
@@ -814,32 +625,11 @@
       "timestamp": 1778688000
     },
     {
-      "title": "Lasers shine a new light on the space junk air pollution problem",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/lasers-shine-a-new-light-on-the-space-junk-air-pollution-problem",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1778684400
-    },
-    {
-      "title": "The Whirlpool Galaxy comes alive | Space photo of the day for May 13, 2026",
-      "link": "https://www.space.com/science/astrophysics/the-whirlpool-galaxy-comes-alive-in-new-image-space-photo-of-the-day-for-may-13-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1778680800
-    },
-    {
       "title": "Scientists finally solve the 100-year mystery behind tough tires",
       "link": "https://www.sciencedaily.com/releases/2026/05/260509210648.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1778679337
-    },
-    {
-      "title": "30-mile-high clouds of acid on Venus are made by the largest 'hydraulic jump' in the solar system",
-      "link": "https://www.space.com/astronomy/venus/30-mile-high-clouds-of-acid-on-venus-are-made-by-the-largest-hydraulic-jump-in-the-solar-system",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1778677200
     },
     {
       "title": "Halley’s comet may be named after the wrong person",
