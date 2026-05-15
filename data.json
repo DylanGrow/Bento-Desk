@@ -1,6 +1,69 @@
 {
-  "last_updated": 1778838325,
+  "last_updated": 1778846019,
   "items": [
+    {
+      "title": "Can Rams, Stafford repeat 2025 success with simila...",
+      "link": "https://www.espn.com/nfl/story/_/id/48751952/what-los-angeles-rams-learned-qb-matthew-stafford-mvp-season",
+      "source": "ESPN",
+      "category": "nfl",
+      "timestamp": 1778848066
+    },
+    {
+      "title": "Answering eight big questions about NFL sophomores...",
+      "link": "https://www.espn.com/nfl/story/_/id/48771161/2026-nfl-offseason-big-questions-second-year-sophomore-players-2025-draft",
+      "source": "ESPN",
+      "category": "nfl",
+      "timestamp": 1778848058
+    },
+    {
+      "title": "Indian Uber rival Rapido raises $240M at $3B valuation",
+      "link": "https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778844252
+    },
+    {
+      "title": "The perfect commuter bike? Velotric's Discover 3 makes its case.",
+      "link": "https://arstechnica.com/cars/2026/05/the-perfect-commuter-bike-velotrics-discover-3-makes-its-case/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778842844
+    },
+    {
+      "title": "Star Wars: The Old Republic Director James Ohlen Discusses BioWare Exit After EA Killed New Republic Reboot",
+      "link": "https://www.ign.com/articles/star-wars-the-old-republic-director-james-ohlen-discusses-bioware-exit-after-ea-killed-new-republic-reboot",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778841573
+    },
+    {
+      "title": "Claude Code's product lead talks usage limits, transparency, and the \"lean harness\"",
+      "link": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778841001
+    },
+    {
+      "title": "We still can't see dark matter. But what if we can hear it?",
+      "link": "https://www.space.com/astronomy/dark-universe/we-still-cant-see-dark-matter-but-what-if-we-can-hear-it",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1778839200
+    },
+    {
+      "title": "Subnautica 2 Is Already Making Waves, Selling 2 Million Copies in Just 12 Hours",
+      "link": "https://www.ign.com/articles/subnautica-2-is-already-making-waves-selling-2-million-copies-in-just-12-hours",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778838978
+    },
+    {
+      "title": "Peter Jackson Compares The Lord of the Rings: The Hunt for Gollum to Joaquin Phoenix’s Joker: 'You Have to Get Inside His Head'",
+      "link": "https://www.ign.com/articles/peter-jackson-compares-the-lord-of-the-rings-the-hunt-for-gollum-to-joaquin-phoenixs-joker-you-have-to-get-inside-his-head",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778837964
+    },
     {
       "title": "Shang-Chi Actor Tony Leung Says He 'Argued With the Director' About the Film Just Copying 'Typical Kung Fu in the '70s'",
       "link": "https://www.ign.com/articles/shang-chi-actor-tony-leung-says-he-argued-with-the-director-about-the-film-just-copying-typical-kung-fu-in-the-70s",
@@ -16,11 +79,158 @@
       "timestamp": 1778834027
     },
     {
+      "title": "Let's overreact to the NFL schedule release: Tough...",
+      "link": "https://www.espn.com/nfl/story/_/id/48758666/2026-nfl-schedule-release-overreactions-takeaways-best-games-opponents-matchups",
+      "source": "ESPN",
+      "category": "nfl",
+      "timestamp": 1778830680
+    },
+    {
+      "title": "Schedule release: Tracking all 32 teams and predic...",
+      "link": "https://www.espn.com/nfl/story/_/page/nflschedulerelease-48704131/2026-nfl-schedule-release-all-32-game-predictions-takeaways",
+      "source": "ESPN",
+      "category": "nfl",
+      "timestamp": 1778830680
+    },
+    {
+      "title": "M's Raleigh lands on IL for first time in career",
+      "link": "https://www.espn.com/mlb/story/_/id/48770453/mariners-cal-raleigh-oblique-lands-il-first",
+      "source": "ESPN",
+      "category": "mlb",
+      "timestamp": 1778823968
+    },
+    {
+      "title": "Rays have tentative deal for $2.3B Tampa stadium",
+      "link": "https://www.espn.com/mlb/story/_/id/48772516/rays-local-officials-reach-tentative-deal-ballpark-tampa",
+      "source": "ESPN",
+      "category": "mlb",
+      "timestamp": 1778823968
+    },
+    {
+      "title": "Day after injury scare, Soto homers as Mets roll",
+      "link": "https://www.espn.com/mlb/story/_/id/48771880/soto-homers-return-mets-lineup-lindor-making-progress",
+      "source": "ESPN",
+      "category": "mlb",
+      "timestamp": 1778823968
+    },
+    {
+      "title": "White Sox say fan who fell into the bullpen OK",
+      "link": "https://www.espn.com/mlb/story/_/id/48773240/white-sox-say-fan-fell-bullpen-doing-well",
+      "source": "ESPN",
+      "category": "mlb",
+      "timestamp": 1778823968
+    },
+    {
+      "title": "Seager aims to 'figure it out' amid 0-for-27 slump...",
+      "link": "https://www.espn.com/mlb/story/_/id/48770289/rangers-corey-seager-aims-figure-amid-0-27-skid",
+      "source": "ESPN",
+      "category": "mlb",
+      "timestamp": 1778823968
+    },
+    {
+      "title": "Twins send scuffling outfielder Wallner to minors",
+      "link": "https://www.espn.com/mlb/story/_/id/48769406/twins-send-scuffling-outfielder-matt-wallner-triple-a",
+      "source": "ESPN",
+      "category": "mlb",
+      "timestamp": 1778823968
+    },
+    {
+      "title": "⚾ MLB mock draft: 1st-round projections, intel",
+      "link": "https://www.espn.com/mlb/story/_/id/48742802/2026-mlb-mock-draft-10-kiley-mcdaniel-first-pick-chicago-white-sox",
+      "source": "ESPN",
+      "category": "mlb",
+      "timestamp": 1778823968
+    },
+    {
       "title": "A grad student’s wild idea sparks a major aging breakthrough",
       "link": "https://www.sciencedaily.com/releases/2026/05/260515001733.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1778820611
+    },
+    {
+      "title": "Pats-Seahawks SB rematch to kick off '26 season",
+      "link": "https://www.espn.com/nfl/story/_/id/48773123/full-2026-nfl-schedule-unveiled-patriots-seahawks-week-1",
+      "source": "ESPN",
+      "category": "nfl",
+      "timestamp": 1778813791
+    },
+    {
+      "title": "Deion: Shedeur endured 'hell' in draft, rookie yea...",
+      "link": "https://www.espn.com/nfl/story/_/id/48774097/deion-shedeur-endured-hell-predraft-rookie-browns",
+      "source": "ESPN",
+      "category": "nfl",
+      "timestamp": 1778813791
+    },
+    {
+      "title": "Source: Nabers had 'cleanup,' hopeful for Week 1",
+      "link": "https://www.espn.com/nfl/story/_/id/48767796/source-giants-malik-nabers-target-week-1-2nd-surgery",
+      "source": "ESPN",
+      "category": "nfl",
+      "timestamp": 1778813791
+    },
+    {
+      "title": "Source: Fins make Achane 3rd-highest-paid RB",
+      "link": "https://www.espn.com/nfl/story/_/id/48763689/dolphins-rb-devon-achane-reach-4-year-extension",
+      "source": "ESPN",
+      "category": "nfl",
+      "timestamp": 1778813791
+    },
+    {
+      "title": "NFL nixed minority offensive asst. mandate in '25",
+      "link": "https://www.espn.com/nfl/story/_/id/48762073/nfl-ended-minority-offensive-assistant-mandate-25-season",
+      "source": "ESPN",
+      "category": "nfl",
+      "timestamp": 1778813791
+    },
+    {
+      "title": "Source: Jets, veteran WR Patrick agree to terms",
+      "link": "https://www.espn.com/nfl/story/_/id/48762927/source-jets-agree-terms-veteran-wr-tim-patrick",
+      "source": "ESPN",
+      "category": "nfl",
+      "timestamp": 1778813791
+    },
+    {
+      "title": "Florida AG continues push against Rooney Rule",
+      "link": "https://www.espn.com/nfl/story/_/id/48760916/florida-ag-issues-investigative-subpoena-nfl-rooney-rule",
+      "source": "ESPN",
+      "category": "nfl",
+      "timestamp": 1778813791
+    },
+    {
+      "title": "Steelers-Saints in Paris part of record int'l slat...",
+      "link": "https://www.espn.com/nfl/story/_/id/48758779/nfl-unveils-matchups-record-nine-game-international-slate",
+      "source": "ESPN",
+      "category": "nfl",
+      "timestamp": 1778813791
+    },
+    {
+      "title": "🎥 2026 schedule reveals for all 32 NFL teams",
+      "link": "https://www.espn.com/nfl/story/_/id/48764468/nfl-2026-schedule-release-social-media-posts-reactions",
+      "source": "ESPN",
+      "category": "nfl",
+      "timestamp": 1778813791
+    },
+    {
+      "title": "Schedule release: Betting odds for every Week 1 ga...",
+      "link": "https://www.espn.com/espn/betting/story/_/id/48432180/2026-nfl-schedule-release-season-week-1-games-betting-odds-spreads-lines-highlights",
+      "source": "ESPN",
+      "category": "nfl",
+      "timestamp": 1778812797
+    },
+    {
+      "title": "Early Week 1 bets and futures to target following ...",
+      "link": "https://www.espn.com/espn/betting/story/_/id/48432437/2026-nfl-schedule-release-week-1-odds-lines-spreads-sports-betting-futures",
+      "source": "ESPN",
+      "category": "nfl",
+      "timestamp": 1778812796
+    },
+    {
+      "title": "Seahawks schedule 2026: Takeaways, predictions for...",
+      "link": "https://www.espn.com/nfl/story/_/page/nflschedulerelease-48738335/seattle-seahawks-nfl-schedule-2026-takeaways-predictions",
+      "source": "ESPN",
+      "category": "nfl",
+      "timestamp": 1778809834
     },
     {
       "title": "Scientists “bottle the sun” with a liquid battery that stores solar energy",
@@ -156,6 +366,13 @@
       "timestamp": 1778788640
     },
     {
+      "title": "MLB Power Rankings: A new No. 1! Who replaced the ...",
+      "link": "https://www.espn.com/mlb/story/_/id/48750350/mlb-2026-power-rankings-week-7-braves-dodgers-cubs-yankees-rays",
+      "source": "ESPN",
+      "category": "mlb",
+      "timestamp": 1778788359
+    },
+    {
       "title": "Today's top games to watch, best bets, odds: Sabres vs. Canadiens, Golden Knights vs. Ducks, MLB and more",
       "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-sabres-vs-canadiens-golden-knights-vs-ducks-mlb-and-more/",
       "source": "CBSSPORTS",
@@ -261,6 +478,13 @@
       "timestamp": 1778779723
     },
     {
+      "title": "Pages is best fantasy bat on Dodgers? Vargas is to...",
+      "link": "https://www.espn.com/fantasy/baseball/story/_/id/48758852/espn-mlb-fantasy-baseball-dont-surprised-may13-2026",
+      "source": "ESPN",
+      "category": "mlb",
+      "timestamp": 1778779424
+    },
+    {
       "title": "Vaporware or not? Aptera assembles its first five validation models.",
       "link": "https://arstechnica.com/cars/2026/05/vaporware-or-not-aptera-assembles-its-first-five-validation-models/",
       "source": "ARSTECHNICA",
@@ -303,8 +527,8 @@
       "timestamp": 1778775650
     },
     {
-      "title": "Geomagnetic storm could spark northern lights as far south as New York and Idaho tonight",
-      "link": "https://www.space.com/stargazing/auroras/geomagnetic-storm-could-spark-northern-lights-as-far-south-as-new-york-and-idaho-tonight-may-14",
+      "title": "Geomagnetic storm could spark northern lights as far south as Michigan and Maine tonight and over the weekend",
+      "link": "https://www.space.com/stargazing/auroras/geomagnetic-storm-could-spark-northern-lights-as-far-south-as-michigan-and-maine-tonight-and-over-the-weekend-may-15-17",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778774910
@@ -322,13 +546,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1778774400
-    },
-    {
-      "title": "Final Fantasy 7 Rebirth Director 'Very Aware' Square Enix Needs to Figure Out How to Get the Next-Generation of Fans Into the Franchise",
-      "link": "https://www.ign.com/articles/final-fantasy-7-rebirth-director-very-aware-square-enix-needs-to-figure-out-how-to-get-the-next-generation-of-fans-into-the-franchise",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778773890
     },
     {
       "title": "Spotify to adopt Apple’s new video podcast tech, offering creators easier cross-platform distribution",
@@ -352,13 +569,6 @@
       "timestamp": 1778772018
     },
     {
-      "title": "Fortnite Nerfs Lethal Fall Damage in Big Gameplay Shakeup as Overwatch Update Arrives",
-      "link": "https://www.ign.com/articles/fortnite-nerfs-lethal-fall-damage-in-big-gameplay-shakeup-as-overwatch-update-arrives",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778772002
-    },
-    {
       "title": "How to turn off Instagram’s new Instants feature and retract photos you accidentally shared",
       "link": "https://techcrunch.com/2026/05/14/how-to-turn-of-instagrams-new-instants-feature-and-retract-photos-you-accidentally-shared/",
       "source": "TECHCRUNCH",
@@ -373,13 +583,6 @@
       "timestamp": 1778770800
     },
     {
-      "title": "Spider-Man: Brand New Day Behind the Scenes Footage Shows Off Movie's Practical Effects",
-      "link": "https://www.ign.com/articles/spider-man-brand-new-day-behind-the-scenes-footage-shows-off-movies-practical-effects",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778768192
-    },
-    {
       "title": "A spyware investigator exposed Russian government hackers trying to hijack Signal accounts",
       "link": "https://techcrunch.com/2026/05/14/a-spyware-investigator-exposed-russian-government-hackers-trying-to-hijack-signal-accounts/",
       "source": "TECHCRUNCH",
@@ -387,22 +590,15 @@
       "timestamp": 1778767660
     },
     {
-      "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
-      "link": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778767274
-    },
-    {
-      "title": "Earth photobombs a satellite deploying its giant reflector | Space photo of the day for May 14, 2026",
-      "link": "https://www.space.com/space-exploration/satellites/earth-photobombs-a-satellite-deploying-its-giant-reflector-space-photo-of-the-day-for-may-14-2026",
+      "title": "The world's biggest rocket: How SpaceX's new Starship 'V3' differs from its predecessors",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/the-worlds-biggest-rocket-how-spacexs-new-starship-v3-differs-from-its-predecessors",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778767200
     },
     {
-      "title": "The world's biggest rocket: How SpaceX's new Starship 'V3' differs from its predecessors",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/the-worlds-biggest-rocket-how-spacexs-new-starship-v3-differs-from-its-predecessors",
+      "title": "Earth photobombs a satellite deploying its giant reflector | Space photo of the day for May 14, 2026",
+      "link": "https://www.space.com/space-exploration/satellites/earth-photobombs-a-satellite-deploying-its-giant-reflector-space-photo-of-the-day-for-may-14-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778767200
@@ -420,6 +616,20 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1778766650
+    },
+    {
+      "title": "Will there be a lockout? Is a salary cap coming?",
+      "link": "https://www.espn.com/mlb/story/_/id/48750180/mlb-mlbpa-labor-battle-cba-salary-cap-players-union-manfred-negotiations-faq",
+      "source": "ESPN",
+      "category": "mlb",
+      "timestamp": 1778766460
+    },
+    {
+      "title": "As urgency mounts in the Bronx, Aaron Judge hasn't...",
+      "link": "https://www.espn.com/mlb/story/_/id/48751272/mlb-2026-aaron-judge-new-york-yankees-urgency-captain-world-series-legacy",
+      "source": "ESPN",
+      "category": "mlb",
+      "timestamp": 1778766314
     },
     {
       "title": "Forecasting LeBron James' next contract: How much will The King make if he returns?",
@@ -604,20 +814,6 @@
       "timestamp": 1778705715
     },
     {
-      "title": "FCC angers small carriers by helping AT&T and Starlink buy EchoStar spectrum",
-      "link": "https://arstechnica.com/tech-policy/2026/05/fcc-angers-small-carriers-by-helping-att-and-starlink-buy-echostar-spectrum/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778705078
-    },
-    {
-      "title": "Protein in Homo erectus teeth suggests Denisovans gave us some of their DNA",
-      "link": "https://arstechnica.com/science/2026/05/protein-in-homo-erectus-teeth-suggests-denisovans-gave-us-some-of-their-dna/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778704074
-    },
-    {
       "title": "Will Starship launch from foreign shores? SpaceX 'constantly exploring' options for megarocket liftoff sites",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/will-starship-launch-from-foreign-shores-spacex-constantly-exploring-options-for-megarocket-liftoff-sites",
       "source": "SPACE",
@@ -637,13 +833,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778698800
-    },
-    {
-      "title": "Astrophotographer captures remarkable view of galactic 'Eyes' with backyard telescope",
-      "link": "https://www.space.com/stargazing/astrophotography/astrophotographer-captures-remarkable-view-of-galactic-eyes-with-backyard-telescope",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1778695200
     },
     {
       "title": "Scientists finally solve the 100-year mystery behind tough tires",
