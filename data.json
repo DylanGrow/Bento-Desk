@@ -1,12 +1,138 @@
 {
-  "last_updated": 1778853655,
+  "last_updated": 1778863755,
   "items": [
+    {
+      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+      "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778860800
+    },
+    {
+      "title": "Mars orbiter captures striking images of 'chaos and craters' carved by ancient floods",
+      "link": "https://www.space.com/astronomy/mars/mars-orbiter-captures-striking-images-of-chaos-and-craters-carved-by-ancient-floods",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1778860800
+    },
+    {
+      "title": "Power prices are up 76% on America’s biggest grid, and a watchdog is pointing fingers",
+      "link": "https://techcrunch.com/2026/05/15/power-prices-are-up-76-on-americas-biggest-grid-and-a-watchdog-is-pointing-fingers/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778859953
+    },
+    {
+      "title": "US orders travelers on Air Force One to throw away gifts, pins, and burner phones after China trip",
+      "link": "https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1778859731
+    },
+    {
+      "title": "Lego 2K Drive Set to be Delisted Next Week With Multiplayer Shutdown Scheduled for 2027",
+      "link": "https://www.ign.com/articles/lego-2k-drive-set-to-be-delisted-next-week-with-multiplayer-shutdown-scheduled-for-2027",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778859146
+    },
+    {
+      "title": "Subnautica 2 User Outs Themselves as Having Pirated the Game After Contacting the Developer for Support",
+      "link": "https://www.ign.com/articles/subnautica-2-user-outs-themselves-as-having-pirated-the-game-after-contacting-the-developer-for-support",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778858983
+    },
+    {
+      "title": "Subnautica 2 Dev Reveals Early Access Roadmap, Teases New Region, New Vehicle, and Next Chapter of the Story",
+      "link": "https://www.ign.com/articles/subnautica-2-dev-reveals-early-access-roadmap-teases-new-region-new-vehicle-and-next-chapter-of-the-story",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778858883
+    },
+    {
+      "title": "Redrafting the 2025 NBA Draft: Dylan Harper goes No. 2 to the Spurs, second-round pick enters the lottery",
+      "link": "https://www.cbssports.com/nba/news/2025-nba-draft-lottery-redraft-dylan-harper/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778858719
+    },
+    {
+      "title": "I thought my backyard had too much light pollution for astrophotography. This telescope proved me wrong",
+      "link": "https://www.space.com/stargazing/astrophotography/i-thought-my-backyard-had-too-much-light-pollution-for-astrophotography-this-telescope-proved-me-wrong",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1778857200
+    },
+    {
+      "title": "NBA Draft Combine risers and fallers: The Big Three holds serve, Cameron Carr soars, Michigan, UConn flex",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-draft-combine-risers-fallers/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778856555
+    },
+    {
+      "title": "Rocket Report: Russia claims success with new ICBM; spaceplane déjà vu in Europe",
+      "link": "https://arstechnica.com/space/2026/05/rocket-report-russia-claims-success-with-new-icbm-spaceplane-deja-vu-in-europe/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778855071
+    },
+    {
+      "title": "Pistons vs. Cavaliers odds, prediction, time: 2026 NBA playoff picks, Game 6 best bets from proven model",
+      "link": "https://www.cbssports.com/nba/news/pistons-cavaliers-odds-prediction-time-2026-nba-playoff-picks-game-6-best-bets/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778855024
+    },
+    {
+      "title": "2026 NBA playoff predictions, odds, picks for Friday, May 15: This 3-way parlay returns over +500",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-predictions-odds-parlay-picks-friday-may-15/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778854982
+    },
+    {
+      "title": "Game of Thrones Star Emilia Clarke Feared She'd 'Cheated Death' Living Through Her Brain Aneurysms, and Thought She'd Collapse Live on MTV",
+      "link": "https://www.ign.com/articles/game-of-thrones-star-emilia-clarke-feared-shed-cheated-death-living-through-her-brain-aneurysms-and-thought-shed-collapse-live-on-mtv",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1778854281
+    },
+    {
+      "title": "NBA player prop picks, odds: Three best 2026 NBA Playoffs prop bets for Spurs vs. Timberwolves, Game 6",
+      "link": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-three-best-2026-nba-playoffs-prop-bets-spurs-timberwolves-game-6/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1778854261
+    },
+    {
+      "title": "Routine vaccines may cut dementia risk—experts have startling hypothesis on how",
+      "link": "https://arstechnica.com/health/2026/05/routine-vaccines-may-cut-dementia-risk-experts-have-startling-hypothesis-on-how/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778853683
+    },
     {
       "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
       "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1778853600
+    },
+    {
+      "title": "Auroras over Australia look like sci-fi from space | Space photo of the day for May 15, 2026",
+      "link": "https://www.space.com/astronomy/auroras-over-australia-look-like-sci-fi-from-space-space-photo-of-the-day-for-may-15-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1778853600
+    },
+    {
+      "title": "Pennsylvanians use town hall meeting to rail against data center boom",
+      "link": "https://arstechnica.com/ai/2026/05/pennsylvanians-use-town-hall-meeting-to-rail-against-data-center-boom/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1778853064
     },
     {
       "title": "Even GoPro is pivoting to defense",
@@ -84,13 +210,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1778846309
-    },
-    {
-      "title": "Spurs vs. Timberwolves odds, prediction, time: 2026 NBA playoff picks, Game 6 best bets from proven model",
-      "link": "https://www.cbssports.com/nba/news/spurs-timberwolves-odds-prediction-time-2026-nba-playoff-picks-game-6-best-bets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778844643
     },
     {
       "title": "Indian Uber rival Rapido raises $240M at $3B valuation",
@@ -212,25 +331,11 @@
       "timestamp": 1778801306
     },
     {
-      "title": "Marathon Reveals New PVE Mode and Big Plans for the Future",
-      "link": "https://www.ign.com/articles/marathon-reveals-new-pve-mode-and-big-plans-for-the-future",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778799759
-    },
-    {
       "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
       "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1778798871
-    },
-    {
-      "title": "Xbox's Cloud Gaming Controller Leaks and It's Pretty Small",
-      "link": "https://www.ign.com/articles/xboxs-cloud-gaming-controller-leaks-and-its-pretty-small",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778798573
     },
     {
       "title": "Cade Cunningham, J.B. Bickerstaff call out 'pretty clear' no-call in Pistons' Game 5 loss to Cavaliers",
@@ -259,13 +364,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1778794244
-    },
-    {
-      "title": "The Next James Bond: Casting Director of Game of Thrones and Star Wars Sequels Leading the Search for Daniel Craig’s Replacement",
-      "link": "https://www.ign.com/articles/nina-gold-casting-james-bond-26-auditions",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778793372
     },
     {
       "title": "Myles Turner's very specific complaint about Giannis Antetokounmpo -- and why Doc Rivers never stopped it",
@@ -301,13 +399,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1778790183
-    },
-    {
-      "title": "DC’s Absolute Universe Dominates the 2026 Eisner Award Nominations",
-      "link": "https://www.ign.com/articles/dc-absolute-universe-2026-eisner-nominations",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1778789736
     },
     {
       "title": "No, this isn't a solar eclipse. It's an image of Mars, captured by NASA's asteroid-bound Psyche probe",
@@ -364,13 +455,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1778785200
-    },
-    {
-      "title": "YouTube viewers watch 2 billion hours of Shorts on TVs each month",
-      "link": "https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778785003
     },
     {
       "title": "Over a year later, AMD is bringing improved FSR 4 upscaling to its older GPUs",
@@ -434,20 +518,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1778777263
-    },
-    {
-      "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
-      "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778776202
-    },
-    {
-      "title": "OpenAI says hackers stole some data after latest code security issue",
-      "link": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778775920
     },
     {
       "title": "Geomagnetic storm could spark northern lights as far south as Michigan and Maine tonight and over the weekend",
@@ -520,13 +590,6 @@
       "timestamp": 1778763732
     },
     {
-      "title": "Motorola Razr Fold review: Fits neatly in your pocket but not your budget",
-      "link": "https://arstechnica.com/gadgets/2026/05/motorola-razr-fold-review-looking-for-an-edge/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778763628
-    },
-    {
       "title": "What's that bright light after sunset? Venus is dazzling the evening sky right now",
       "link": "https://www.space.com/stargazing/whats-that-bright-light-after-sunset-venus-is-dazzling-the-evening-sky-right-now",
       "source": "SPACE",
@@ -546,27 +609,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1778762767
-    },
-    {
-      "title": "Artemis 3 astronaut test flight will be 'one of the most highly complex missions NASA has undertaken.' These new details reveal why.",
-      "link": "https://www.space.com/space-exploration/artemis/nasa-reveals-new-details-about-artemis-3-astronaut-mission",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1778760000
-    },
-    {
-      "title": "Desperate Trump taps \"Tim Apple,\" Jensen Huang, Elon Musk to attend Xi summit",
-      "link": "https://arstechnica.com/tech-policy/2026/05/desperate-trump-taps-tim-apple-jensen-huang-elon-musk-to-attend-xi-summit/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778756458
-    },
-    {
-      "title": "Scientists propose new way to find aliens — and we may already have a spacecraft that can help",
-      "link": "https://www.space.com/space-exploration/search-for-life/scientists-propose-new-way-to-find-aliens-and-we-may-already-have-a-spacecraft-that-can-help",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1778752800
     },
     {
       "title": "Scientists discover hidden math secret inside Chinese money plant leaves",
@@ -623,55 +665,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1778725092
-    },
-    {
-      "title": "NBA Draft Combine: Predicting stay-or-go decisions for Milan Momcilovic, Malachi Moreno, other draft hopefuls",
-      "link": "https://www.cbssports.com/nba/news/nba-draft-combine-2026-milan-momcilovic-malachi-moreno/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778723447
-    },
-    {
-      "title": "If the Jazz want to trade up to No. 1 for AJ Dybantsa, what should the Wizards expect in return?",
-      "link": "https://www.cbssports.com/nba/news/jazz-wizards-nba-draft-trade-pick-aj-dybantsa/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778722943
-    },
-    {
-      "title": "Pistons vs. Cavaliers odds, prediction, time: 2026 NBA playoff picks, Game 5 best bets from proven model",
-      "link": "https://www.cbssports.com/nba/news/pistons-cavaliers-odds-spread-line-prediction-start-time-2026-nba-playoff-picks-game-5-best-bets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778709645
-    },
-    {
-      "title": "Solar drone with jumbo jet wingspan broke a flight record—then it crashed",
-      "link": "https://arstechnica.com/gadgets/2026/05/solar-drone-with-jumbo-jet-wingspan-broke-a-flight-record-then-it-crashed/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778708907
-    },
-    {
-      "title": "Arizona star Koa Peat dishes on upcoming stay-or-go decision amid shaky showing at NBA Draft Combine",
-      "link": "https://www.cbssports.com/nba/news/nba-draft-koa-peat-stay-or-go-decision-combine/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778706531
-    },
-    {
-      "title": "Remember 'Choose Your Own Adventure' books? Now there's a gorgeous graphic novel version heading to 'Space and Beyond' (exclusive)",
-      "link": "https://www.space.com/entertainment/space-books/remember-choose-your-own-adventure-books-now-theres-a-gorgeous-graphic-novel-version-heading-to-space-and-beyond-exclusive",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1778706000
-    },
-    {
-      "title": "Why Joel Embiid would be 'tricky to trade' for new 76ers management, even if they want a fresh start",
-      "link": "https://www.cbssports.com/nba/news/76ers-joel-embiid-trade-rumors-tricky/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1778705815
     }
   ]
 }
