@@ -1,6 +1,20 @@
 {
-  "last_updated": 1778998855,
+  "last_updated": 1779008587,
   "items": [
+    {
+      "title": "Stunning 150-million-year-old stegosaur skull rewrites dinosaur evolution",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260515233340.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1778999906
+    },
+    {
+      "title": "Lost 1,200-year-old manuscript contains the first English poem",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260515233337.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1778998960
+    },
     {
       "title": "James Cameron Wants to Make Avatar 4 and 5 'in Half the Time and Two-Thirds the Cost' But Will Take 1 Year to Figure It Out",
       "link": "https://www.ign.com/articles/james-cameron-wants-to-make-avatar-4-and-5-in-half-the-time-and-two-thirds-the-cost-but-will-take-1-year-to-figure-it-out",
@@ -126,6 +140,20 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1778940000
+    },
+    {
+      "title": "The real reason exercise makes you stronger isn’t what you think",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260515233346.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1778939565
+    },
+    {
+      "title": "Scientists reversed memory loss by recharging the brain’s tiny engines",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260515234803.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1778938259
     },
     {
       "title": "First-ever direct image of the cosmic web reveals the Universe’s hidden highways",
@@ -637,34 +665,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1778766650
-    },
-    {
-      "title": "Paleontology rocked by discovery of organic molecules in 66-million-year-old dinosaur bones",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260514084421.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1778763732
-    },
-    {
-      "title": "Giant squid discovery uncovers a hidden deep-sea world off Australia",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260513221807.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1778762767
-    },
-    {
-      "title": "Scientists discover hidden math secret inside Chinese money plant leaves",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260513221754.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1778744889
-    },
-    {
-      "title": "Scientists discover the strange way CO2 cools part of Earth’s atmosphere",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260513221759.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1778743440
     }
   ]
 }
