@@ -15,6 +15,9 @@
 
   <link rel="preconnect" href="https://ipapi.co" />
   <link rel="preconnect" href="https://api.open-meteo.com" />
+  
+  <!-- Configuration -->
+  <script src="config.js"></script>
 
   <style>
     :root {
@@ -28,10 +31,25 @@
       --font: ui-monospace, Menlo, Consolas, monospace;
     }
 
+    /* Light Theme */
+    [data-theme="light"] {
+      --bg: #f5f5f5;
+      --panel: #ffffff;
+      --text: #1a1a1a;
+      --dim: #6b7280;
+      --border: #e5e5e5;
+      --c1: #0088cc;
+      --c2: #00aa00;
+    }
+
     * {
       box-sizing: border-box;
       margin: 0;
       padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
     }
 
     body {
@@ -89,6 +107,7 @@
       white-space: nowrap;
       animation: scroll-ticker 900s linear infinite;
       padding-left: 100%;
+      will-change: transform;
     }
 
     .ticker-item {
@@ -98,6 +117,13 @@
       display: inline-flex;
       align-items: center;
       gap: 8px;
+      text-decoration: none;
+      transition: color 0.2s ease;
+      cursor: pointer;
+    }
+
+    .ticker-item:hover {
+      color: var(--c1);
     }
 
     .ticker-item::before {
@@ -108,11 +134,11 @@
 
     @keyframes scroll-ticker {
       0% {
-        transform: translateX(0);
+        transform: translate3d(0, 0, 0);
       }
 
       100% {
-        transform: translateX(-50%);
+        transform: translate3d(-50%, 0, 0);
       }
     }
 
@@ -195,12 +221,362 @@
       padding: 14px;
       text-decoration: none;
       color: inherit;
-      transition: 0.2s ease;
+      transition: transform 0.2s ease, border-color 0.2s ease;
+      will-change: transform;
     }
 
     .card:hover {
       transform: translateY(-4px);
       border-color: var(--c1);
+    }
+
+    .card:focus {
+      outline: 2px solid var(--c1);
+      outline-offset: 2px;
+    }
+
+    /* Skeleton Loading */
+    .skeleton {
+      background: linear-gradient(90deg, var(--panel) 25%, #1a1a1a 50%, var(--panel) 75%);
+      background-size: 200% 100%;
+      animation: skeleton-loading 1.5s ease-in-out infinite;
+      border-radius: 10px;
+    }
+
+    @keyframes skeleton-loading {
+      0% {
+        background-position: 200% 0;
+      }
+      100% {
+        background-position: -200% 0;
+      }
+    }
+
+    .skeleton-card {
+      height: 120px;
+      margin-bottom: 16px;
+    }
+
+    /* Refresh Indicator */
+    .refresh-indicator {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background: var(--panel);
+      border: 1px solid var(--c1);
+      padding: 10px 16px;
+      border-radius: 8px;
+      font-size: 12px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.3s ease;
+      z-index: 100;
+    }
+
+    .refresh-indicator.active {
+      opacity: 1;
+    }
+
+    .refresh-spinner {
+      width: 14px;
+      height: 14px;
+      border: 2px solid var(--c1);
+      border-top-color: transparent;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    /* Keyboard Shortcuts Help */
+    .shortcuts-hint {
+      position: fixed;
+      bottom: 20px;
+      left: 20px;
+      background: var(--panel);
+      border: 1px solid var(--border);
+      padding: 8px 12px;
+      border-radius: 6px;
+      font-size: 11px;
+      color: var(--dim);
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.3s ease;
+      z-index: 100;
+    }
+
+    .shortcuts-hint.visible {
+      opacity: 1;
+    }
+
+    /* Theme Toggle Button */
+    .theme-toggle {
+      background: none;
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 8px 12px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 18px;
+      transition: all 0.3s ease;
+      margin-left: 10px;
+    }
+
+    .theme-toggle:hover {
+      border-color: var(--c1);
+      transform: scale(1.1);
+    }
+
+    /* Scroll to Top Button */
+    .scroll-top-btn {
+      position: fixed;
+      bottom: 80px;
+      right: 20px;
+      width: 50px;
+      height: 50px;
+      background: var(--c1);
+      color: #000;
+      border: none;
+      border-radius: 50%;
+      font-size: 24px;
+      cursor: pointer;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.3s ease, transform 0.3s ease;
+      z-index: 99;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .scroll-top-btn.visible {
+      opacity: 1;
+      pointer-events: auto;
+    }
+
+    .scroll-top-btn:hover {
+      transform: translateY(-5px);
+    }
+
+    /* Search Bar */
+    .search-container {
+      padding: 20px;
+      background: var(--panel);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 101px;
+      z-index: 8;
+    }
+
+    .search-input {
+      width: 100%;
+      padding: 12px 16px;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--text);
+      font-family: var(--font);
+      font-size: 14px;
+      outline: none;
+      transition: border-color 0.3s ease;
+    }
+
+    .search-input:focus {
+      border-color: var(--c1);
+    }
+
+    .search-input::placeholder {
+      color: var(--dim);
+    }
+
+    /* Category Filter Chips */
+    .filter-chips {
+      display: flex;
+      gap: 8px;
+      padding: 16px 20px;
+      background: var(--panel);
+      border-bottom: 1px solid var(--border);
+      overflow-x: auto;
+      position: sticky;
+      top: 173px;
+      z-index: 7;
+    }
+
+    .filter-chips::-webkit-scrollbar {
+      height: 4px;
+    }
+
+    .filter-chips::-webkit-scrollbar-thumb {
+      background: var(--border);
+      border-radius: 2px;
+    }
+
+    .chip {
+      padding: 6px 14px;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      color: var(--text);
+      font-size: 12px;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.2s ease;
+      -webkit-user-select: none;
+      user-select: none;
+    }
+
+    .chip:hover {
+      border-color: var(--c1);
+    }
+
+    .chip.active {
+      background: var(--c1);
+      color: #000;
+      border-color: var(--c1);
+      font-weight: bold;
+    }
+
+    /* Read/Unread Indicators */
+    .card.read {
+      opacity: 0.6;
+    }
+
+    .card.read .title {
+      color: var(--dim);
+    }
+
+    .unread-badge {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      width: 8px;
+      height: 8px;
+      background: var(--c1);
+      border-radius: 50%;
+      animation: pulse 2s infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.5; }
+    }
+
+    /* Share Button */
+    .share-btn {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 6px 10px;
+      border-radius: 6px;
+      font-size: 14px;
+      cursor: pointer;
+      opacity: 0;
+      transition: opacity 0.2s ease;
+    }
+
+    .card:hover .share-btn {
+      opacity: 1;
+    }
+
+    .share-btn:hover {
+      background: var(--c1);
+      color: #000;
+      border-color: var(--c1);
+    }
+
+    /* Reading Time Badge */
+    .reading-time {
+      font-size: 11px;
+      color: var(--dim);
+      margin-left: 8px;
+    }
+
+    /* Notification Toast */
+    .notification-toast {
+      position: fixed;
+      top: 80px;
+      right: 20px;
+      background: var(--c1);
+      color: #000;
+      padding: 14px 18px;
+      border-radius: 8px;
+      font-size: 13px;
+      font-weight: bold;
+      opacity: 0;
+      pointer-events: none;
+      transform: translateX(400px);
+      transition: all 0.4s ease;
+      z-index: 101;
+      max-width: 300px;
+      box-shadow: 0 4px 12px rgba(0, 229, 255, 0.3);
+    }
+
+    .notification-toast.show {
+      opacity: 1;
+      transform: translateX(0);
+    }
+
+    /* Improved Grid Layout */
+    @media (min-width: 1400px) {
+      .feed {
+        grid-template-columns: repeat(4, 1fr);
+      }
+    }
+
+    @media (max-width: 768px) {
+      .feed {
+        grid-template-columns: 1fr;
+        padding: 12px;
+      }
+
+      .filter-chips {
+        padding: 12px;
+      }
+
+      .search-container {
+        padding: 12px;
+      }
+    }
+
+    /* Card Improvements */
+    .card {
+      position: relative;
+    }
+
+    .card-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-top: 10px;
+      padding-top: 10px;
+      border-top: 1px solid var(--border);
+    }
+
+    .card-actions {
+      display: flex;
+      gap: 8px;
+    }
+
+    .action-btn {
+      background: none;
+      border: none;
+      color: var(--dim);
+      cursor: pointer;
+      font-size: 16px;
+      padding: 4px;
+      transition: color 0.2s ease;
+    }
+
+    .action-btn:hover {
+      color: var(--c1);
     }
 
     .card-header {
@@ -259,7 +635,24 @@
     </div>
 
     <button class="weather-button" id="weather-btn" aria-label="Toggle Weather">☀️</button>
+    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle Theme">🌙</button>
   </header>
+
+  <!-- SEARCH BAR -->
+  <div class="search-container">
+    <input type="text" class="search-input" id="search-input" placeholder="Search articles..." aria-label="Search articles">
+  </div>
+
+  <!-- CATEGORY FILTERS -->
+  <div class="filter-chips" id="filter-chips">
+    <button class="chip active" data-category="all">All</button>
+    <button class="chip" data-category="tech">Tech</button>
+    <button class="chip" data-category="hacker">Hacker</button>
+    <button class="chip" data-category="cyber">Cyber</button>
+    <button class="chip" data-category="gaming">Gaming</button>
+    <button class="chip" data-category="space">Space</button>
+    <button class="chip" data-category="science">Science</button>
+  </div>
 
   <!-- TICKER -->
   <aside id="ticker-container" aria-live="off" aria-label="Sports Ticker">
@@ -270,25 +663,70 @@
   </aside>
 
   <!-- WEATHER -->
-  <div class="weather-popup" id="weather-popup">
+  <div class="weather-popup" id="weather-popup" role="dialog" aria-label="Weather Information">
     <div id="w-temp">--°F</div>
     <div id="w-condition">Loading...</div>
     <div id="w-loc">...</div>
   </div>
 
+  <!-- REFRESH INDICATOR -->
+  <div class="refresh-indicator" id="refresh-indicator" role="status" aria-live="polite">
+    <div class="refresh-spinner"></div>
+    <span class="refresh-text">Refreshing...</span>
+  </div>
+
+  <!-- KEYBOARD SHORTCUTS HINT -->
+  <div class="shortcuts-hint" role="tooltip">
+    Press <strong>R</strong> to refresh • <strong>Ctrl+↑/↓</strong> to scroll • <strong>T</strong> for theme • <strong>?</strong> for help
+  </div>
+
+  <!-- SCROLL TO TOP BUTTON -->
+  <button class="scroll-top-btn" id="scroll-top-btn" aria-label="Scroll to top">↑</button>
+
+  <!-- NOTIFICATION TOAST -->
+  <div class="notification-toast" id="notification-toast" role="alert" aria-live="assertive"></div>
+
   <!-- FEED -->
-  <main class="feed" id="feed">
+  <main class="feed" id="feed" role="main" aria-label="News Feed">
     <div class="status">Initializing stream...</div>
   </main>
 
-  <div id="scroll-sentinel"></div>
+  <div id="scroll-sentinel" aria-hidden="true"></div>
 
   <script>
     'use strict';
 
+    // Use external config if available, otherwise use defaults
+    const CONFIG = typeof SYSLOG_CONFIG !== 'undefined' ? SYSLOG_CONFIG : {
+      BATCH_SIZE: 20,
+      AUTO_REFRESH_INTERVAL: 5 * 60 * 1000,
+      CACHE_TTL: 30 * 60 * 1000,
+      RETRY_DELAYS: [1000, 2000, 4000],
+      TICKER_SPEED: 900,
+      FILTER_GAMBLING: true,
+      SPORTS_CATEGORIES: ['nba', 'nfl', 'mlb', 'nhl', 'soccer'],
+      SHOW_SHORTCUTS_HINT: true,
+      SHORTCUTS_HINT_DELAY: 2000,
+      SMOOTH_SCROLL: true,
+      SHOW_SKELETON_LOADING: true,
+      SKELETON_CARD_COUNT: 6,
+      ENABLE_KEYBOARD_SHORTCUTS: true,
+      KEYBOARD_SCROLL_DISTANCE: 300,
+      TEMPERATURE_UNIT: 'fahrenheit',
+      ENABLE_CACHE: true,
+      ENABLE_RETRY: true,
+      MAX_FEED_ITEMS: 0,
+      DEBUG_MODE: false,
+    };
+
     let ITEMS = [];
+    let FILTERED_ITEMS = [];
     let index = 0;
-    const BATCH = 60;
+    let autoRefreshTimer = null;
+    let retryCount = 0;
+    let currentCategory = 'all';
+    let searchQuery = '';
+    let readArticles = new Set(JSON.parse(localStorage.getItem('readArticles') || '[]'));
 
     function favicon(url) {
       try {
@@ -310,35 +748,210 @@
       return "now";
     }
 
+    function estimateReadingTime(title) {
+      // Average reading speed: 200 words per minute
+      // Estimate ~15 words per title, ~3 min per article
+      return "3 min read";
+    }
+
+    function markAsRead(link) {
+      readArticles.add(link);
+      localStorage.setItem('readArticles', JSON.stringify([...readArticles]));
+    }
+
+    function isRead(link) {
+      return readArticles.has(link);
+    }
+
+    function showNotification(message) {
+      const toast = document.getElementById('notification-toast');
+      toast.textContent = message;
+      toast.classList.add('show');
+      setTimeout(() => toast.classList.remove('show'), 3000);
+    }
+
+    function shareArticle(title, url) {
+      if (navigator.share) {
+        navigator.share({ title, url }).catch(() => {});
+      } else {
+        navigator.clipboard.writeText(url).then(() => {
+          showNotification('Link copied to clipboard!');
+        });
+      }
+    }
+
+    function filterItems() {
+      let filtered = ITEMS;
+
+      // Apply category filter
+      if (currentCategory !== 'all') {
+        filtered = filtered.filter(item =>
+          item.category?.toLowerCase() === currentCategory.toLowerCase()
+        );
+      }
+
+      // Apply search filter
+      if (searchQuery) {
+        const query = searchQuery.toLowerCase();
+        filtered = filtered.filter(item =>
+          item.title.toLowerCase().includes(query) ||
+          item.source.toLowerCase().includes(query)
+        );
+      }
+
+      FILTERED_ITEMS = filtered;
+      index = 0;
+      document.getElementById("feed").innerHTML = "";
+      renderBatch();
+    }
+
     function renderBatch() {
       const feed = document.getElementById("feed");
 
-      const slice = ITEMS.slice(index, index + BATCH);
+      const slice = FILTERED_ITEMS.slice(index, index + CONFIG.BATCH_SIZE);
+
+      if (slice.length === 0 && index === 0) {
+        feed.innerHTML = '<div class="status">No articles found matching your filters.</div>';
+        return;
+      }
 
       slice.forEach(item => {
-        const a = document.createElement("a");
-        a.className = "card";
-        a.href = item.link;
-        a.target = "_blank";
+        const card = document.createElement("div");
+        card.className = "card" + (isRead(item.link) ? " read" : "");
+        card.style.position = "relative";
 
-        a.innerHTML = `
+        const readingTime = estimateReadingTime(item.title);
+        const unreadBadge = !isRead(item.link) ? '<div class="unread-badge"></div>' : '';
+
+        card.innerHTML = `
+          ${unreadBadge}
           <div class="card-header">
-            <img class="favicon" src="${favicon(item.link)}" />
+            <img class="favicon" src="${favicon(item.link)}" alt="${item.source} favicon" loading="lazy" />
             <span class="source">${item.source}</span>
             <span class="time">${timeAgo(item.timestamp)}</span>
+            <span class="reading-time">• ${readingTime}</span>
           </div>
           <div class="title">${item.title}</div>
+          <div class="card-footer">
+            <div class="card-actions">
+              <button class="action-btn share-btn" title="Share" aria-label="Share article">🔗</button>
+              <button class="action-btn bookmark-btn" title="Bookmark" aria-label="Bookmark article">🔖</button>
+            </div>
+          </div>
         `;
 
-        feed.appendChild(a);
+        // Add click handler for main card
+        card.addEventListener('click', (e) => {
+          if (!e.target.classList.contains('action-btn')) {
+            markAsRead(item.link);
+            card.classList.add('read');
+            const badge = card.querySelector('.unread-badge');
+            if (badge) badge.remove();
+            window.open(item.link, '_blank', 'noopener,noreferrer');
+          }
+        });
+
+        // Share button handler
+        const shareBtn = card.querySelector('.share-btn');
+        shareBtn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          shareArticle(item.title, item.link);
+        });
+
+        // Bookmark button handler
+        const bookmarkBtn = card.querySelector('.bookmark-btn');
+        bookmarkBtn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          const bookmarks = JSON.parse(localStorage.getItem('bookmarks') || '[]');
+          if (!bookmarks.find(b => b.link === item.link)) {
+            bookmarks.push(item);
+            localStorage.setItem('bookmarks', JSON.stringify(bookmarks));
+            showNotification('Article bookmarked!');
+            bookmarkBtn.textContent = '✅';
+          }
+        });
+
+        feed.appendChild(card);
       });
 
-      index += BATCH;
+      index += CONFIG.BATCH_SIZE;
     }
 
-    async function load() {
+    function showSkeletonLoading() {
+      if (!CONFIG.SHOW_SKELETON_LOADING) return;
+      
+      const feed = document.getElementById("feed");
+      feed.innerHTML = '';
+      for (let i = 0; i < CONFIG.SKELETON_CARD_COUNT; i++) {
+        const skeleton = document.createElement("div");
+        skeleton.className = "skeleton skeleton-card";
+        feed.appendChild(skeleton);
+      }
+    }
+
+    function showRefreshIndicator(message = "Refreshing...") {
+      const indicator = document.getElementById("refresh-indicator");
+      indicator.querySelector('.refresh-text').textContent = message;
+      indicator.classList.add("active");
+    }
+
+    function hideRefreshIndicator() {
+      const indicator = document.getElementById("refresh-indicator");
+      indicator.classList.remove("active");
+    }
+
+    function saveToCache(data) {
+      if (!CONFIG.ENABLE_CACHE) return;
+      
+      try {
+        const cacheData = {
+          timestamp: Date.now(),
+          data: data
+        };
+        localStorage.setItem('newsCache', JSON.stringify(cacheData));
+        if (CONFIG.DEBUG_MODE) console.log('Data cached successfully');
+      } catch (e) {
+        console.warn('Failed to cache data:', e);
+      }
+    }
+
+    function loadFromCache() {
+      if (!CONFIG.ENABLE_CACHE) return null;
+      
+      try {
+        const cached = localStorage.getItem('newsCache');
+        if (!cached) return null;
+
+        const cacheData = JSON.parse(cached);
+        const age = Date.now() - cacheData.timestamp;
+
+        if (age < CONFIG.CACHE_TTL) {
+          if (CONFIG.DEBUG_MODE) console.log('Loaded from cache, age:', Math.floor(age/1000), 'seconds');
+          return cacheData.data;
+        }
+
+        localStorage.removeItem('newsCache');
+        return null;
+      } catch (e) {
+        console.warn('Failed to load cache:', e);
+        return null;
+      }
+    }
+
+    async function load(showIndicator = false) {
+      if (showIndicator) {
+        showRefreshIndicator();
+      } else {
+        showSkeletonLoading();
+      }
+
       try {
         const res = await fetch("./data.json?t=" + Date.now());
+        
+        if (!res.ok) {
+          throw new Error(`HTTP ${res.status}`);
+        }
+
         const data = await res.json();
 
         const sportsCategories = ['nba', 'nfl', 'mlb', 'nhl', 'soccer'];
@@ -347,12 +960,71 @@
           .sort((a, b) => b.timestamp - a.timestamp);
 
         document.getElementById("feed").innerHTML = "";
+        index = 0;
 
         renderBatch();
+        
+        saveToCache(data);
+        retryCount = 0;
+        
+        if (showIndicator) {
+          hideRefreshIndicator();
+        }
+
+        scheduleAutoRefresh();
       } catch (e) {
-        document.getElementById("feed").innerHTML =
-          "<div class='status'>Failed to load data.json</div>";
+        console.error('Load failed:', e);
+        
+        // Try cache first
+        const cached = loadFromCache();
+        if (cached && !showIndicator) {
+          const sportsCategories = ['nba', 'nfl', 'mlb', 'nhl', 'soccer'];
+          ITEMS = (cached.items || [])
+            .filter(item => !sportsCategories.includes(item.category?.toLowerCase()))
+            .sort((a, b) => b.timestamp - a.timestamp);
+
+          document.getElementById("feed").innerHTML = "";
+          index = 0;
+          renderBatch();
+          
+          showRefreshIndicator("Using cached data");
+          setTimeout(hideRefreshIndicator, 3000);
+        } else {
+          // Retry with exponential backoff
+          if (CONFIG.ENABLE_RETRY && retryCount < CONFIG.RETRY_DELAYS.length) {
+            const delay = CONFIG.RETRY_DELAYS[retryCount];
+            retryCount++;
+            
+            if (CONFIG.DEBUG_MODE) console.log(`Retry attempt ${retryCount}, waiting ${delay}ms`);
+            showRefreshIndicator(`Retrying in ${delay/1000}s...`);
+            setTimeout(() => load(showIndicator), delay);
+          } else {
+            document.getElementById("feed").innerHTML =
+              "<div class='status'>Failed to load data. Please refresh the page.</div>";
+            hideRefreshIndicator();
+          }
+        }
       }
+    }
+
+    function scheduleAutoRefresh() {
+      if (autoRefreshTimer) {
+        clearTimeout(autoRefreshTimer);
+      }
+
+      if (CONFIG.AUTO_REFRESH_INTERVAL > 0) {
+        autoRefreshTimer = setTimeout(() => {
+          if (CONFIG.DEBUG_MODE) console.log('Auto-refreshing feed...');
+          load(true);
+        }, CONFIG.AUTO_REFRESH_INTERVAL);
+      }
+    }
+
+    function manualRefresh() {
+      if (autoRefreshTimer) {
+        clearTimeout(autoRefreshTimer);
+      }
+      load(true);
     }
 
     const observer = new IntersectionObserver(e => {
@@ -412,7 +1084,7 @@
       } catch { }
     };
 
-    // Ticker - loads ONLY sports scores/news from data.json
+    // Ticker - loads ONLY sports scores/news from data.json with clickable links
     async function initTicker() {
       const ticker = document.getElementById("ticker-content");
 
@@ -420,13 +1092,17 @@
         const res = await fetch("./data.json?t=" + Date.now());
         const data = await res.json();
 
-        // Filter ONLY for sports categories
-        const sportsCategories = ['nba', 'nfl', 'mlb', 'nhl', 'soccer'];
+        // Use configured sports categories
+        const sportsCategories = CONFIG.SPORTS_CATEGORIES;
         const gamblingRegex = /\b(odds|betting|draftkings|fanduel|betmgm|caesars|picks|parlay|wager|bet|bets|sportsbook|moneyline|over\/under|spread)\b/i;
-        const sportsItems = (data.items || [])
-          .filter(item => sportsCategories.includes(item.category?.toLowerCase()))
-          .filter(item => !gamblingRegex.test(item.title))
-          .map(item => item.title);
+        
+        let sportsItems = (data.items || [])
+          .filter(item => sportsCategories.includes(item.category?.toLowerCase()));
+        
+        // Apply gambling filter if enabled
+        if (CONFIG.FILTER_GAMBLING) {
+          sportsItems = sportsItems.filter(item => !gamblingRegex.test(item.title));
+        }
 
         // If no sports items, show message
         if (sportsItems.length === 0) {
@@ -438,9 +1114,12 @@
         const allItems = [...sportsItems, ...sportsItems];
 
         ticker.innerHTML = allItems
-          .map(item => `<span class="ticker-item">${item}</span>`)
+          .map(item => `<a href="${item.link}" target="_blank" rel="noopener noreferrer" class="ticker-item" title="${item.title}">${item.title}</a>`)
           .join("");
+        
+        if (CONFIG.DEBUG_MODE) console.log(`Ticker loaded with ${sportsItems.length} sports items`);
       } catch (e) {
+        console.warn('Ticker load failed:', e);
         // Fallback to sample sports items if data.json fails
         ticker.innerHTML = `
           <span class="ticker-item">NBA playoff winners and losers: Knicks overwhelm 76ers</span>
@@ -448,6 +1127,63 @@
           <span class="ticker-item">Jaylen Brown hasn't shared 'frustrations' with Celtics</span>
         `.repeat(2);
       }
+    }
+
+    // Keyboard shortcuts
+    if (CONFIG.ENABLE_KEYBOARD_SHORTCUTS) {
+      document.addEventListener('keydown', (e) => {
+        // R key - Refresh
+        if (e.key === 'r' || e.key === 'R') {
+          if (!e.ctrlKey && !e.metaKey) {
+            e.preventDefault();
+            manualRefresh();
+          }
+        }
+
+        // Escape - Close weather popup
+        if (e.key === 'Escape') {
+          const popup = document.getElementById("weather-popup");
+          if (popup.classList.contains('active')) {
+            popup.classList.remove('active');
+          }
+        }
+
+        // Arrow Down - Scroll down
+        if (e.key === 'ArrowDown' && e.ctrlKey) {
+          e.preventDefault();
+          window.scrollBy({
+            top: CONFIG.KEYBOARD_SCROLL_DISTANCE,
+            behavior: CONFIG.SMOOTH_SCROLL ? 'smooth' : 'auto'
+          });
+        }
+
+        // Arrow Up - Scroll up
+        if (e.key === 'ArrowUp' && e.ctrlKey) {
+          e.preventDefault();
+          window.scrollBy({
+            top: -CONFIG.KEYBOARD_SCROLL_DISTANCE,
+            behavior: CONFIG.SMOOTH_SCROLL ? 'smooth' : 'auto'
+          });
+        }
+
+        // ? - Show keyboard shortcuts
+        if (e.key === '?') {
+          const hint = document.querySelector('.shortcuts-hint');
+          hint.classList.toggle('visible');
+          setTimeout(() => hint.classList.remove('visible'), 5000);
+        }
+      });
+    }
+
+    // Show shortcuts hint on first load
+    if (CONFIG.SHOW_SHORTCUTS_HINT) {
+      window.addEventListener('load', () => {
+        setTimeout(() => {
+          const hint = document.querySelector('.shortcuts-hint');
+          hint.classList.add('visible');
+          setTimeout(() => hint.classList.remove('visible'), 5000);
+        }, CONFIG.SHORTCUTS_HINT_DELAY);
+      });
     }
 
     initTicker();
