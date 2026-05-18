@@ -1,23 +1,26 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="ltr">
 
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="description" content="SysLog: Real-time news dashboard." />
+  <meta property="og:title" content="SysLog | Dashboard" />
+  <meta property="og:description" content="SysLog: Real-time news dashboard." />
+  <meta property="og:type" content="website" />
+  <meta name="twitter:card" content="summary_large_image" />
   <meta name="theme-color" content="#050505" />
-  <meta name="robots" content="noindex, nofollow" />
   <title>SysLog | Dashboard</title>
-  <link rel="icon" type="image/png" href="/favicon.png" />
-  <link rel="apple-touch-icon" href="/favicon.png" />
-  <link rel="manifest" href="/manifest.json" />
-  <link rel="canonical" href="http://localhost:3000/" />
+  <link rel="icon" type="image/png" href="./favicon.png" />
+  <link rel="apple-touch-icon" href="./favicon.png" />
+  <link rel="manifest" href="./manifest.json" />
 
   <link rel="preconnect" href="https://ipapi.co" />
   <link rel="preconnect" href="https://api.open-meteo.com" />
   
   <!-- Configuration -->
-  <script src="config.js"></script>
+  <script src="config.js?v=2"></script>
 
   <style>
     :root {
@@ -142,7 +145,8 @@
       }
     }
 
-    #ticker-content:hover {
+    #ticker-content:hover,
+    #ticker-content:focus-within {
       animation-play-state: paused;
     }
 
@@ -185,6 +189,11 @@
     }
 
     /* WEATHER */
+    :focus-visible {
+      outline: 2px solid var(--c1);
+      outline-offset: 2px;
+    }
+
     .weather-popup {
       position: fixed;
       right: 20px;
@@ -198,6 +207,8 @@
       transform: translateY(10px);
       transition: 0.2s ease;
       width: 240px;
+      max-width: calc(100vw - 40px);
+      z-index: 999;
     }
 
     .weather-popup.active {
@@ -622,10 +633,17 @@
 </head>
 
 <body>
+  <noscript>
+    <div style="padding: 20px; background: #900; color: #fff; text-align: center; font-weight: bold; position: sticky; top: 0; z-index: 9999;">
+      Please enable JavaScript to view the SysLog dashboard.
+    </div>
+  </noscript>
+
+  <h1 class="sr-only" style="position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border-width: 0;">SysLog Real-time News Dashboard</h1>
 
   <!-- TOP BAR -->
   <header id="top-bar">
-    <div class="brand">SysLog</div>
+    <div class="brand" tabindex="0" role="button" aria-label="Refresh and scroll to top" style="cursor:pointer;" onclick="manualRefresh(); window.scrollTo({top:0, behavior:'smooth'});">SysLog</div>
 
     <div role="search">
       <form id="ddg-search" action="https://duckduckgo.com/" method="GET" target="_blank" rel="noopener noreferrer">
@@ -644,7 +662,7 @@
   </div>
 
   <!-- CATEGORY FILTERS -->
-  <div class="filter-chips" id="filter-chips">
+  <nav class="filter-chips" id="filter-chips" aria-label="Category Filters">
     <button class="chip active" data-category="all">All</button>
     <button class="chip" data-category="tech">Tech</button>
     <button class="chip" data-category="hacker">Hacker</button>
@@ -652,7 +670,8 @@
     <button class="chip" data-category="gaming">Gaming</button>
     <button class="chip" data-category="space">Space</button>
     <button class="chip" data-category="science">Science</button>
-  </div>
+    <button class="chip" id="mark-all-read" style="margin-left: auto; border-color: var(--c1);">Mark All Read</button>
+  </nav>
 
   <!-- TICKER -->
   <aside id="ticker-container" aria-live="off" aria-label="Sports Ticker">
@@ -702,7 +721,7 @@
       AUTO_REFRESH_INTERVAL: 5 * 60 * 1000,
       CACHE_TTL: 30 * 60 * 1000,
       RETRY_DELAYS: [1000, 2000, 4000],
-      TICKER_SPEED: 900,
+      TICKER_SPEED: 40,
       FILTER_GAMBLING: true,
       SPORTS_CATEGORIES: ['nba', 'nfl', 'mlb', 'nhl', 'soccer'],
       SHOW_SHORTCUTS_HINT: true,
@@ -727,13 +746,19 @@
     let currentCategory = 'all';
     let searchQuery = '';
     let readArticles = new Set(JSON.parse(localStorage.getItem('readArticles') || '[]'));
+    let isFetching = false;
 
     function favicon(url) {
       try {
-        return "https://www.google.com/s2/favicons?domain=" + new URL(url).hostname + "&sz=64";
+        return "https://icons.duckduckgo.com/ip3/" + new URL(url).hostname + ".ico";
       } catch {
         return "";
       }
+    }
+
+    function fallbackFavicon(img, source) {
+      img.onerror = null;
+      img.src = `https://ui-avatars.com/api/?name=${encodeURIComponent(source)}&background=1a1a1a&color=00e5ff&size=64&bold=true`;
     }
 
     function timeAgo(ts) {
@@ -742,16 +767,17 @@
       const h = Math.floor(m / 60);
       const d = Math.floor(h / 24);
 
+      if (diff < 0) return "just now";
       if (d > 0) return d + "d ago";
       if (h > 0) return h + "h ago";
       if (m > 0) return m + "m ago";
-      return "now";
+      return "just now";
     }
 
     function estimateReadingTime(title) {
-      // Average reading speed: 200 words per minute
-      // Estimate ~15 words per title, ~3 min per article
-      return "3 min read";
+      const words = title.split(/\s+/).length;
+      const mins = Math.max(1, Math.ceil((words * 10) / 200));
+      return mins + " min read";
     }
 
     function markAsRead(link) {
@@ -763,20 +789,49 @@
       return readArticles.has(link);
     }
 
+    let toastTimer;
     function showNotification(message) {
       const toast = document.getElementById('notification-toast');
       toast.textContent = message;
       toast.classList.add('show');
-      setTimeout(() => toast.classList.remove('show'), 3000);
+      clearTimeout(toastTimer);
+      toastTimer = setTimeout(() => toast.classList.remove('show'), 3000);
     }
 
     function shareArticle(title, url) {
-      if (navigator.share) {
-        navigator.share({ title, url }).catch(() => {});
-      } else {
-        navigator.clipboard.writeText(url).then(() => {
-          showNotification('Link copied to clipboard!');
-        });
+      try {
+        if (navigator.share) {
+          navigator.share({ title, url }).catch(() => {});
+        } else {
+          navigator.clipboard.writeText(url).then(() => {
+            showNotification('Link copied to clipboard!');
+          });
+        }
+      } catch {
+        showNotification('Sharing not supported on this device.');
+      }
+    }
+
+    function toggleBookmark(item, btn) {
+      try {
+        let bookmarks = JSON.parse(localStorage.getItem('bookmarks') || '[]');
+        const idx = bookmarks.findIndex(b => b.link === item.link);
+        if (idx !== -1) {
+          bookmarks.splice(idx, 1);
+          btn.textContent = '🔖';
+          showNotification('Bookmark removed');
+        } else {
+          if (bookmarks.length >= 200) {
+             showNotification('Bookmark limit reached (200)!');
+             return;
+          }
+          bookmarks.push(item);
+          btn.textContent = '✅';
+          showNotification('Article bookmarked!');
+        }
+        localStorage.setItem('bookmarks', JSON.stringify(bookmarks));
+      } catch {
+        showNotification('Storage error! Clear cache.');
       }
     }
 
@@ -802,6 +857,7 @@
       FILTERED_ITEMS = filtered;
       index = 0;
       document.getElementById("feed").innerHTML = "";
+      window.scrollTo({ top: 0, behavior: 'smooth' });
       renderBatch();
     }
 
@@ -810,8 +866,16 @@
 
       const slice = FILTERED_ITEMS.slice(index, index + CONFIG.BATCH_SIZE);
 
-      if (slice.length === 0 && index === 0) {
-        feed.innerHTML = '<div class="status">No articles found matching your filters.</div>';
+      if (slice.length === 0) {
+        if (index === 0) {
+          feed.innerHTML = '<div class="status">No articles found matching your filters.</div>';
+        } else if (!document.getElementById("end-of-feed")) {
+          const endMsg = document.createElement("div");
+          endMsg.id = "end-of-feed";
+          endMsg.className = "status";
+          endMsg.textContent = "You've reached the end of the feed.";
+          feed.appendChild(endMsg);
+        }
         return;
       }
 
@@ -822,27 +886,30 @@
 
         const readingTime = estimateReadingTime(item.title);
         const unreadBadge = !isRead(item.link) ? '<div class="unread-badge"></div>' : '';
+        const bookmarks = JSON.parse(localStorage.getItem('bookmarks') || '[]');
+        const isBookmarked = bookmarks.some(b => b.link === item.link);
+        const bookmarkIcon = isBookmarked ? '✅' : '🔖';
 
         card.innerHTML = `
           ${unreadBadge}
           <div class="card-header">
-            <img class="favicon" src="${favicon(item.link)}" alt="${item.source} favicon" loading="lazy" />
+            <img class="favicon" src="${favicon(item.link)}" alt="${item.source} favicon" loading="lazy" decoding="async" onerror="fallbackFavicon(this, '${item.source}')" />
             <span class="source">${item.source}</span>
-            <span class="time">${timeAgo(item.timestamp)}</span>
+            <time class="time" datetime="${new Date(item.timestamp * 1000).toISOString()}" title="${new Date(item.timestamp * 1000).toLocaleString()}">${timeAgo(item.timestamp)}</time>
             <span class="reading-time">• ${readingTime}</span>
           </div>
-          <div class="title">${item.title}</div>
+          <div class="title">${searchQuery ? item.title.replace(new RegExp('(' + searchQuery + ')', 'gi'), '<mark style="background:var(--c1);color:#000">$1</mark>') : item.title}</div>
           <div class="card-footer">
             <div class="card-actions">
               <button class="action-btn share-btn" title="Share" aria-label="Share article">🔗</button>
-              <button class="action-btn bookmark-btn" title="Bookmark" aria-label="Bookmark article">🔖</button>
+              <button class="action-btn bookmark-btn" title="Bookmark" aria-label="Bookmark article">${bookmarkIcon}</button>
             </div>
           </div>
         `;
 
         // Add click handler for main card
         card.addEventListener('click', (e) => {
-          if (!e.target.classList.contains('action-btn')) {
+          if (!e.target.closest('.action-btn')) {
             markAsRead(item.link);
             card.classList.add('read');
             const badge = card.querySelector('.unread-badge');
@@ -851,25 +918,18 @@
           }
         });
 
-        // Share button handler
-        const shareBtn = card.querySelector('.share-btn');
-        shareBtn.addEventListener('click', (e) => {
+        // Action Handlers
+        card.querySelector('.share-btn').addEventListener('click', (e) => {
           e.stopPropagation();
           shareArticle(item.title, item.link);
         });
 
-        // Bookmark button handler
-        const bookmarkBtn = card.querySelector('.bookmark-btn');
-        bookmarkBtn.addEventListener('click', (e) => {
+        card.querySelector('.bookmark-btn').addEventListener('click', (e) => {
           e.stopPropagation();
-          const bookmarks = JSON.parse(localStorage.getItem('bookmarks') || '[]');
-          if (!bookmarks.find(b => b.link === item.link)) {
-            bookmarks.push(item);
-            localStorage.setItem('bookmarks', JSON.stringify(bookmarks));
-            showNotification('Article bookmarked!');
-            bookmarkBtn.textContent = '✅';
-          }
+          toggleBookmark(item, e.currentTarget);
         });
+
+
 
         feed.appendChild(card);
       });
@@ -939,8 +999,14 @@
     }
 
     async function load(showIndicator = false) {
+      if (isFetching) return;
+      isFetching = true;
+      const feed = document.getElementById("feed");
+      feed.setAttribute("aria-busy", "true");
+
       if (showIndicator) {
         showRefreshIndicator();
+        if (feed.children.length > 0) feed.style.opacity = '0.4';
       } else {
         showSkeletonLoading();
       }
@@ -954,15 +1020,13 @@
 
         const data = await res.json();
 
-        const sportsCategories = ['nba', 'nfl', 'mlb', 'nhl', 'soccer'];
+        const sportsCategories = CONFIG.SPORTS_CATEGORIES || ['nba', 'nfl', 'mlb', 'nhl', 'soccer'];
         ITEMS = (data.items || [])
           .filter(item => !sportsCategories.includes(item.category?.toLowerCase()))
           .sort((a, b) => b.timestamp - a.timestamp);
 
-        document.getElementById("feed").innerHTML = "";
-        index = 0;
-
-        renderBatch();
+        feed.style.opacity = '1';
+        filterItems();
         
         saveToCache(data);
         retryCount = 0;
@@ -978,14 +1042,12 @@
         // Try cache first
         const cached = loadFromCache();
         if (cached && !showIndicator) {
-          const sportsCategories = ['nba', 'nfl', 'mlb', 'nhl', 'soccer'];
+          const sportsCategories = CONFIG.SPORTS_CATEGORIES || ['nba', 'nfl', 'mlb', 'nhl', 'soccer'];
           ITEMS = (cached.items || [])
             .filter(item => !sportsCategories.includes(item.category?.toLowerCase()))
             .sort((a, b) => b.timestamp - a.timestamp);
 
-          document.getElementById("feed").innerHTML = "";
-          index = 0;
-          renderBatch();
+          filterItems();
           
           showRefreshIndicator("Using cached data");
           setTimeout(hideRefreshIndicator, 3000);
@@ -1004,8 +1066,21 @@
             hideRefreshIndicator();
           }
         }
+      } finally {
+        isFetching = false;
+        document.getElementById("feed").setAttribute("aria-busy", "false");
       }
     }
+
+    // Battery Saving Blur-Pause
+    document.addEventListener("visibilitychange", () => {
+      if (document.hidden && autoRefreshTimer) {
+        clearTimeout(autoRefreshTimer);
+        autoRefreshTimer = null;
+      } else if (!document.hidden && !autoRefreshTimer) {
+        scheduleAutoRefresh();
+      }
+    });
 
     function scheduleAutoRefresh() {
       if (autoRefreshTimer) {
@@ -1061,13 +1136,28 @@
       99: "Thunderstorm with heavy hail"
     };
 
+    const weatherIcons = {
+      0: "☀️", 1: "🌤️", 2: "⛅", 3: "☁️", 45: "🌫️", 48: "🌫️", 
+      51: "🌧️", 53: "🌧️", 55: "🌧️", 61: "🌧️", 63: "🌧️", 65: "🌧️",
+      71: "❄️", 73: "❄️", 75: "❄️", 77: "❄️", 80: "🌦️", 81: "🌦️", 
+      82: "⛈️", 85: "🌨️", 86: "🌨️", 95: "🌩️", 96: "⛈️", 99: "⛈️"
+    };
+
     // Weather
     document.getElementById("weather-btn").onclick = async () => {
       const pop = document.getElementById("weather-popup");
       pop.classList.toggle("active");
+      
+      if (!pop.classList.contains("active") || document.getElementById("w-loc").innerText !== "...") return;
 
       try {
-        const geo = await fetch("https://ipapi.co/json/").then(r => r.json());
+        let geo = null;
+        try { geo = JSON.parse(sessionStorage.getItem('syslog_geo')); } catch(e){}
+        if (!geo) {
+          geo = await fetch("https://ipapi.co/json/").then(r => r.json());
+          sessionStorage.setItem('syslog_geo', JSON.stringify(geo));
+        }
+
         const w = await fetch(
           `https://api.open-meteo.com/v1/forecast?latitude=${geo.latitude}&longitude=${geo.longitude}&current_weather=true&temperature_unit=fahrenheit`
         ).then(r => r.json());
@@ -1076,12 +1166,17 @@
           Math.round(w.current_weather.temperature) + "°F";
 
         const code = w.current_weather.weathercode;
+        const icon = weatherIcons[code] || "☁️";
         document.getElementById("w-condition").innerText =
-          weatherCodes[code] || "Unknown";
+          `${icon} ${weatherCodes[code] || "Unknown"}`;
 
         document.getElementById("w-loc").innerText =
           geo.city + ", " + geo.region_code;
-      } catch { }
+      } catch {
+        document.getElementById("w-condition").innerText = "Unavailable";
+        document.getElementById("w-temp").innerText = "--°F";
+        document.getElementById("w-loc").innerText = "Unknown";
+      }
     };
 
     // Ticker - loads ONLY sports scores/news from data.json with clickable links
@@ -1096,7 +1191,12 @@
         const sportsCategories = CONFIG.SPORTS_CATEGORIES;
         const gamblingRegex = /\b(odds|betting|draftkings|fanduel|betmgm|caesars|picks|parlay|wager|bet|bets|sportsbook|moneyline|over\/under|spread)\b/i;
         
-        let sportsItems = (data.items || [])
+        if (!data || !data.items || data.items.length === 0) {
+          ticker.innerHTML = '<span class="ticker-item">No updates available</span>'.repeat(3);
+          return;
+        }
+
+        let sportsItems = data.items
           .filter(item => sportsCategories.includes(item.category?.toLowerCase()));
         
         // Apply gambling filter if enabled
@@ -1117,6 +1217,11 @@
           .map(item => `<a href="${item.link}" target="_blank" rel="noopener noreferrer" class="ticker-item" title="${item.title}">${item.title}</a>`)
           .join("");
         
+        // Dynamically set animation duration based on content length and config speed
+        const speedMultiplier = (CONFIG.TICKER_SPEED || 40) / 20; // Base: 40s per 20 items
+        const duration = Math.max(20, sportsItems.length * speedMultiplier);
+        ticker.style.animationDuration = `${duration}s`;
+
         if (CONFIG.DEBUG_MODE) console.log(`Ticker loaded with ${sportsItems.length} sports items`);
       } catch (e) {
         console.warn('Ticker load failed:', e);
@@ -1140,11 +1245,19 @@
           }
         }
 
-        // Escape - Close weather popup
+        // Escape - Close weather popup & clear search
         if (e.key === 'Escape') {
           const popup = document.getElementById("weather-popup");
           if (popup.classList.contains('active')) {
             popup.classList.remove('active');
+            document.getElementById("weather-btn").focus();
+          }
+          const searchInput = document.getElementById('search-input');
+          if (searchInput && document.activeElement === searchInput) {
+            searchInput.value = '';
+            searchQuery = '';
+            searchInput.blur();
+            filterItems();
           }
         }
 
@@ -1183,6 +1296,93 @@
           hint.classList.add('visible');
           setTimeout(() => hint.classList.remove('visible'), 5000);
         }, CONFIG.SHORTCUTS_HINT_DELAY);
+      });
+    }
+
+    // Close Weather on Outside Click
+    document.addEventListener('click', (e) => {
+      const popup = document.getElementById("weather-popup");
+      const btn = document.getElementById("weather-btn");
+      if (popup && btn && popup.classList.contains('active') && !popup.contains(e.target) && !btn.contains(e.target)) {
+        popup.classList.remove('active');
+      }
+    });
+
+    // Filter Chips
+    document.querySelectorAll('.chip').forEach(chip => {
+      chip.addEventListener('click', (e) => {
+        document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+        e.target.classList.add('active');
+        currentCategory = e.target.dataset.category || 'all';
+        filterItems();
+      });
+    });
+
+    // Search Input
+    const searchInput = document.getElementById('search-input');
+    if (searchInput) {
+      let debounceTimer;
+      searchInput.addEventListener('input', (e) => {
+        clearTimeout(debounceTimer);
+        debounceTimer = setTimeout(() => {
+          searchQuery = e.target.value;
+          filterItems();
+        }, 300);
+      });
+      
+      // Fallback to DuckDuckGo search if no local results
+      searchInput.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter' && FILTERED_ITEMS.length === 0 && searchQuery.trim() !== '') {
+          window.open(`https://duckduckgo.com/?q=${encodeURIComponent(searchQuery)}`, '_blank');
+        }
+      });
+    }
+
+    // Mark All Read
+    const markAllReadBtn = document.getElementById('mark-all-read');
+    if (markAllReadBtn) {
+      markAllReadBtn.addEventListener('click', () => {
+        FILTERED_ITEMS.forEach(item => markAsRead(item.link));
+        document.querySelectorAll('.card').forEach(card => {
+          card.classList.add('read');
+          const badge = card.querySelector('.unread-badge');
+          if (badge) badge.remove();
+        });
+        showNotification('All marked as read!');
+      });
+    }
+
+    // Theme Toggle
+    const themeToggle = document.getElementById('theme-toggle');
+    if (themeToggle) {
+      themeToggle.addEventListener('click', () => {
+        const currentTheme = document.documentElement.getAttribute('data-theme');
+        if (currentTheme === 'light') {
+          document.documentElement.removeAttribute('data-theme');
+          localStorage.setItem('theme', 'dark');
+        } else {
+          document.documentElement.setAttribute('data-theme', 'light');
+          localStorage.setItem('theme', 'light');
+        }
+      });
+      // Restore theme
+      if (localStorage.getItem('theme') === 'light') {
+        document.documentElement.setAttribute('data-theme', 'light');
+      }
+    }
+
+    // Scroll to Top
+    const scrollTopBtn = document.getElementById('scroll-top-btn');
+    if (scrollTopBtn) {
+      window.addEventListener('scroll', () => {
+        if (window.scrollY > 300) {
+          scrollTopBtn.classList.add('visible');
+        } else {
+          scrollTopBtn.classList.remove('visible');
+        }
+      });
+      scrollTopBtn.addEventListener('click', () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
       });
     }
 

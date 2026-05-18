@@ -1,10 +1,12 @@
 import urllib.request
+import urllib.error
 import xml.etree.ElementTree as ET
 import json
 import time
 import re
 import os
-from urllib.parse import urlparse
+import html
+from urllib.parse import urlparse, urljoin
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from email.utils import parsedate_to_datetime
 
@@ -45,8 +47,8 @@ FEEDS = {
 }
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0",
-    "Accept": "application/rss+xml, application/xml;q=0.9, */*;q=0.8"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, */*;q=0.8"
 }
 
 MAX_TOTAL_ITEMS = 300
@@ -63,8 +65,14 @@ BACKUP_FILE = "data_backup.json"
 
 def fetch_xml(url):
     req = urllib.request.Request(url, headers=HEADERS)
-    with urllib.request.urlopen(req, timeout=15) as response:
-        return response.read().strip()
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(req, timeout=10) as response:
+                return response.read().strip()
+        except (urllib.error.URLError, Exception) as e:
+            if attempt == 2:
+                raise e
+            time.sleep(1)
 
 
 def extract_source(link):
@@ -96,6 +104,9 @@ def parse_date(item):
     fields = ["pubDate", "published", "updated"]
     for f in fields:
         val = item.findtext(f)
+        if not val:
+            # atom namespace
+            val = item.findtext("{http://www.w3.org/2005/Atom}" + f)
         if val:
             try:
                 return int(parsedate_to_datetime(val).timestamp())
@@ -104,15 +115,46 @@ def parse_date(item):
     return int(time.time())
 
 
-def parse_rss(xml_data, category):
-    root = ET.fromstring(xml_data)
+def parse_rss(xml_data, category, base_url):
+    try:
+        root = ET.fromstring(xml_data)
+    except ET.ParseError:
+        return []
+
     items = []
 
-    for item in root.findall(".//item"):
-        title = item.findtext("title", default="No Title").strip()
-        link = item.findtext("link", default="#").strip()
+    # Handle both RSS <item> and Atom <entry>
+    elements = root.findall(".//item")
+    if not elements:
+        elements = root.findall(".//{http://www.w3.org/2005/Atom}entry")
+        if not elements:
+            elements = root.findall(".//entry")
 
-        if not title or not link:
+    for item in elements:
+        # Title extraction
+        title_el = item.find("title")
+        if title_el is None:
+            title_el = item.find("{http://www.w3.org/2005/Atom}title")
+            
+        title = title_el.text.strip() if title_el is not None and title_el.text else "No Title"
+        title = html.unescape(title)[:250]  # Unescape HTML entities and truncate
+
+        # Link extraction
+        link = item.findtext("link")
+        if not link:
+            link_el = item.find("{http://www.w3.org/2005/Atom}link")
+            if link_el is not None:
+                link = link_el.attrib.get("href", "")
+            else:
+                link_el = item.find("link")
+                if link_el is not None and "href" in link_el.attrib:
+                    link = link_el.attrib.get("href", "")
+
+        link = link.strip() if link else "#"
+        if link != "#":
+            link = urljoin(base_url, link)  # Handle relative URLs natively
+
+        if title == "No Title" or link == "#":
             continue
 
         timestamp = parse_date(item)
@@ -133,7 +175,7 @@ def fetch_category(category, urls):
     for url in urls:
         try:
             xml_data = fetch_xml(url)
-            return parse_rss(xml_data, category)
+            return parse_rss(xml_data, category, url)
         except Exception:
             continue
     return []
@@ -150,7 +192,9 @@ def deduplicate(items):
         is_duplicate = False
 
         for existing in result:
-            if similarity(item["_norm"], existing["_norm"]) > 0.75:
+            # Restrict dedup to a 72-hour rolling window
+            time_diff = abs(item["timestamp"] - existing["timestamp"])
+            if time_diff < 259200 and similarity(item["_norm"], existing["_norm"]) > 0.75:
                 is_duplicate = True
                 break
 
@@ -202,27 +246,40 @@ def main():
         "items": all_items
     }
 
-    # write output + backup
+    # write output + backup atomically
+    temp_out = OUTPUT_FILE + ".tmp"
+    temp_backup = BACKUP_FILE + ".tmp"
+    
     try:
-        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        with open(temp_out, "w", encoding="utf-8") as f:
             json.dump(output, f, ensure_ascii=False, indent=2)
-
-        with open(BACKUP_FILE, "w", encoding="utf-8") as f:
+            
+        with open(temp_backup, "w", encoding="utf-8") as f:
             json.dump(output, f, ensure_ascii=False)
+            
+        os.replace(temp_out, OUTPUT_FILE)
+        os.replace(temp_backup, BACKUP_FILE)
 
         print(f"[SUCCESS] Wrote {len(all_items)} items")
 
     except Exception as e:
         print("[ERROR] Writing failed, attempting fallback...", e)
+        
+        # Cleanup partial temps
+        if os.path.exists(temp_out): os.remove(temp_out)
+        if os.path.exists(temp_backup): os.remove(temp_backup)
 
         if os.path.exists(BACKUP_FILE):
-            with open(BACKUP_FILE, "r", encoding="utf-8") as f:
-                backup_data = json.load(f)
+            try:
+                with open(BACKUP_FILE, "r", encoding="utf-8") as f:
+                    backup_data = json.load(f)
 
-            with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-                json.dump(backup_data, f, ensure_ascii=False, indent=2)
+                with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+                    json.dump(backup_data, f, ensure_ascii=False, indent=2)
 
-            print("[RECOVERY] Restored from backup")
+                print("[RECOVERY] Restored from backup")
+            except Exception as fallback_e:
+                print("[FATAL] Fallback failed:", fallback_e)
 
 
 if __name__ == "__main__":
