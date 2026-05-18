@@ -1,6 +1,55 @@
 {
-  "last_updated": 1779138562,
+  "last_updated": 1779145127,
   "items": [
+    {
+      "title": "INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers",
+      "link": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779142530
+    },
+    {
+      "title": "PlayStation Reportedly Tells Developers That It Is Returning to Console Exclusives for Single-Player Games",
+      "link": "https://www.ign.com/articles/playstation-is-returning-to-console-exclusives-for-single-player-games",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779142343
+    },
+    {
+      "title": "PlayStation Console Owners Launch Class-Action Lawsuit Against Sony Over Tariff Refunds",
+      "link": "https://www.ign.com/articles/playstation-console-owners-launch-class-action-lawsuit-against-sony-over-tariff-refunds",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779142313
+    },
+    {
+      "title": "OSHA probing worker death at SpaceX’s Starbase site",
+      "link": "https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779141302
+    },
+    {
+      "title": "SHub macOS infostealer variant spoofs Apple security updates",
+      "link": "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779140540
+    },
+    {
+      "title": "Stranger Things Creators Did a Half Day of Reshoots Just to 'Milk' Steve's Fake-Out Death",
+      "link": "https://www.ign.com/articles/stranger-things-creators-did-a-half-day-of-reshoots-just-to-milk-steves-fake-out-death",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779140009
+    },
+    {
+      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+      "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779139771
+    },
     {
       "title": "Scientists found stardust trapped in Antarctic ice. What could it tell us about our solar system?",
       "link": "https://www.space.com/science/scientists-found-stardust-trapped-in-antarctic-ice-what-could-it-tell-us-about-our-solar-system",
@@ -14,6 +63,20 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1779137715
+    },
+    {
+      "title": "Ebola outbreak: WHO declares emergency, US restricts travel, American infected",
+      "link": "https://arstechnica.com/health/2026/05/ebola-outbreak-who-declares-emergency-us-restricts-travel-american-infected/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779136874
+    },
+    {
+      "title": "Legal fail: Don’t use AI to sue Facebook users for calling you a bad date",
+      "link": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779136035
     },
     {
       "title": "One Mars spacecraft, two senators, and a cloud of questions",
@@ -373,20 +436,6 @@
       "timestamp": 1779105600
     },
     {
-      "title": "Forza Horizon 6 Global Release Times and Preload Details Confirmed",
-      "link": "https://www.ign.com/articles/forza-horizon-6-global-release-times-early-access-and-preload-details-confirmed",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779105600
-    },
-    {
-      "title": "Subnautica 2 Dev Gives Players Hope Amid the Game's First Hot Topic Following Launch",
-      "link": "https://www.ign.com/articles/subnautica-2-dev-gives-players-hope-amid-the-games-first-hot-topic-following-launch",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779104277
-    },
-    {
       "title": "Microsoft testing adjustable taskbar, Start menu in Windows 11",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/",
       "source": "BLEEPINGCOMPUTER",
@@ -413,13 +462,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779102000
-    },
-    {
-      "title": "Take-Two Boss Says Borderlands' Last-Minute Art Style Change Cost $50 Million, but Without It the Game Would Have Flopped",
-      "link": "https://www.ign.com/articles/take-two-boss-says-borderlands-last-minute-art-style-change-cost-50-million-but-without-it-the-game-would-have-flopped",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779100799
     },
     {
       "title": "Schrödinger’s clock: Time could tick faster and slower at the same time",
@@ -646,20 +688,6 @@
       "timestamp": 1778959574
     },
     {
-      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-      "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778957668
-    },
-    {
-      "title": "The offline desk gadget that actually got me to sit up straight",
-      "link": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778947200
-    },
-    {
       "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
       "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
       "source": "BLEEPINGCOMPUTER",
@@ -723,20 +751,6 @@
       "timestamp": 1778883552
     },
     {
-      "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
-      "link": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778881884
-    },
-    {
-      "title": "US hantavirus case was false positive; outbreak cases drop from 11 to 10",
-      "link": "https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1778880713
-    },
-    {
       "title": "Funnel Builder WordPress plugin bug exploited to steal credit cards",
       "link": "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/",
       "source": "BLEEPINGCOMPUTER",
@@ -749,20 +763,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1778867245
-    },
-    {
-      "title": "Popular node-ipc npm package compromised to steal credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1778865042
-    },
-    {
-      "title": "Avada Builder WordPress plugin flaws allow site credential theft",
-      "link": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1778860616
     },
     {
       "title": "Scientists discover giant “last titan” dinosaur, Southeast Asia’s largest ever",
