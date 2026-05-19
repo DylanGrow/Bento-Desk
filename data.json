@@ -1,19 +1,103 @@
 {
-  "last_updated": 1779217079,
+  "last_updated": 1779223624,
   "items": [
+    {
+      "title": "Discord rolls out end-to-end encryption on voice, video calls",
+      "link": "https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779223065
+    },
+    {
+      "title": "Elon Musk said Sam Altman “stole” a non-profit — but the trial showed he had similar aims",
+      "link": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779221460
+    },
+    {
+      "title": "Knicks vs. Cavaliers odds, prediction: 2026 NBA Eastern Conference finals picks, Game 1 bets by proven model",
+      "link": "https://www.cbssports.com/nba/news/knicks-cavaliers-odds-prediction-spread-line-start-time-2026-nba-eastern-conference-finals-picks-game-1-best-bets/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779221337
+    },
+    {
+      "title": "Worker dies at SpaceX's Starbase in leadup to Starship V3 megarocket launch",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/worker-dies-at-spacexs-starbase-in-leadup-to-starship-v3-megarocket-launch",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779220800
+    },
+    {
+      "title": "FBI: Americans lost over $388 million to scams using crypto ATMs in 2025",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779219939
+    },
+    {
+      "title": "Microsoft Self-Service Password Reset abused in Azure data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779219332
+    },
+    {
+      "title": "Today's top games to watch, best bets, odds: Cavs vs. Knicks Game 1, Brewers vs. Cubs and Dodgers vs. Padres",
+      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-cavs-vs-knicks-game-1-brewers-vs-cubs-and-dodgers-vs-padres/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779219039
+    },
+    {
+      "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses",
+      "link": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779218131
+    },
+    {
+      "title": "'The Mandalorian and Grogu' clip reveals how Mando gets his Razor Crest spaceship back (video)",
+      "link": "https://www.space.com/entertainment/space-movies-shows/the-mandalorian-and-grogu-clip-reveals-how-mando-gets-his-razor-crest-spaceship-back-video",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779217200
+    },
+    {
+      "title": "Two AI-based science assistants succeed with drug-retargeting tasks",
+      "link": "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779216956
+    },
+    {
+      "title": "Plex Announces Massive Price Hike on Lifetime Subscription Plans",
+      "link": "https://www.ign.com/articles/plex-announces-massive-price-hike-on-lifetime-subscription-plans",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779216331
+    },
+    {
+      "title": "Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more",
+      "link": "https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779215822
+    },
+    {
+      "title": "In stunning display of stupid, secret CISA credentials found in public GitHub repo",
+      "link": "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779215228
+    },
     {
       "title": "Who will be the next American to win NBA MVP? The candidates, the criteria and the Wemby factor",
       "link": "https://www.cbssports.com/nba/news/next-american-born-nba-mvp-candidates/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1779215075
-    },
-    {
-      "title": "Knicks vs. Cavaliers odds, prediction: 2026 NBA Eastern Conference finals picks, Game 1 bets by proven model",
-      "link": "https://www.cbssports.com/nba/news/knicks-cavaliers-odds-prediction-spread-start-time-2026-nba-eastern-conference-finals-picks-game-1-best-bets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779214912
     },
     {
       "title": "Star Wars 'Isn't Resonating With Younger Moviegoers Like It Did for Older Generations'",
@@ -30,7 +114,7 @@
       "timestamp": 1779214674
     },
     {
-      "title": "Google announces agent-optimized Gemini 3.5.Flash and a do-anything model called Omni",
+      "title": "Gemini 3.5 Flash might be fast enough for gen AI to make sense",
       "link": "https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -142,13 +226,6 @@
       "timestamp": 1779212700
     },
     {
-      "title": "OpenAI is making it easier to check if an image was made by their models",
-      "link": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779212700
-    },
-    {
       "title": "Broken Sword Movie in the Works, Creator Charles Cecil Will Produce",
       "link": "https://www.ign.com/articles/broken-sword-movie-in-the-works-creator-charles-cecil-will-produce",
       "source": "IGN",
@@ -231,13 +308,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1779205786
-    },
-    {
-      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
-      "link": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779205384
     },
     {
       "title": "The Super Mario Galaxy Movie Hits Digital After Dominating the 2026 Box Office",
@@ -506,13 +576,6 @@
       "timestamp": 1779163357
     },
     {
-      "title": "First F1 25: 2026 Season DLC Details Coming This Week",
-      "link": "https://www.ign.com/articles/first-f1-25-2026-season-dlc-details-coming-this-week",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779158239
-    },
-    {
       "title": "NASA’s powerful Roman Space Telescope is about to transform astronomy",
       "link": "https://www.sciencedaily.com/releases/2026/05/260518041345.htm",
       "source": "SCIENCEDAILY",
@@ -525,13 +588,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1779149346
-    },
-    {
-      "title": "Spurs' DeAaron Fox out for Game 1 vs. Thunder due to ankle injury",
-      "link": "https://www.cbssports.com/nba/news/spurs-deaaron-fox-injury-game-1-thunder/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779148995
     },
     {
       "title": "Hidden sugar patterns on human cells could reveal cancer early",
@@ -583,15 +639,15 @@
       "timestamp": 1779133740
     },
     {
-      "title": "'Voidverse' is a seriously weird space fantasy novel from 'The OA's' Damien Ober (interview)",
-      "link": "https://www.space.com/entertainment/space-books/voidverse-is-a-seriously-weird-space-fantasy-novel-from-the-oas-damien-ober-interview",
+      "title": "Why bringing back 'The Mandalorian and Grogu' isn't the way for 'Star Wars'",
+      "link": "https://www.space.com/entertainment/space-movies-shows/why-bringing-back-the-mandalorian-and-grogu-isnt-the-way",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779130800
     },
     {
-      "title": "Why bringing back 'The Mandalorian and Grogu' isn't the way for 'Star Wars'",
-      "link": "https://www.space.com/entertainment/space-movies-shows/why-bringing-back-the-mandalorian-and-grogu-isnt-the-way",
+      "title": "'Voidverse' is a seriously weird space fantasy novel from 'The OA's' Damien Ober (interview)",
+      "link": "https://www.space.com/entertainment/space-books/voidverse-is-a-seriously-weird-space-fantasy-novel-from-the-oas-damien-ober-interview",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779130800
@@ -618,13 +674,6 @@
       "timestamp": 1779127781
     },
     {
-      "title": "Pompeii victim ID'd as a likely doctor",
-      "link": "https://arstechnica.com/science/2026/05/pompeii-victim-idd-as-a-likely-doctor/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779127412
-    },
-    {
       "title": "What time is SpaceX's Starship V3 launch on May 21? (Starship Flight 12 timeline)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/what-time-is-spacex-starship-v3-launch-starship-flight-12-timeline",
       "source": "SPACE",
@@ -632,25 +681,11 @@
       "timestamp": 1779127200
     },
     {
-      "title": "Guy Gardner makes a cameo in new Lanterns teaser",
-      "link": "https://arstechnica.com/culture/2026/05/new-lanterns-teaser-brings-back-the-superhero-vibes/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779125801
-    },
-    {
       "title": "Leaked Shai-Hulud malware fuels new npm infostealer campaign",
       "link": "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779125282
-    },
-    {
-      "title": "The Dory Sign is E ink, smart screen simplicity at its finest",
-      "link": "https://arstechnica.com/gadgets/2026/05/the-dory-sign-is-e-ink-smart-screen-simplicity-at-its-finest/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779125175
     },
     {
       "title": "Vega C rocket launches European-Chinese space weather satellite to orbit",
@@ -667,32 +702,11 @@
       "timestamp": 1779116400
     },
     {
-      "title": "SpaceX Starship Flight 12 launch updates: 1st Starship V3 will now launch on May 21",
-      "link": "https://www.space.com/news/live/spacex-starship-flight-12-launch-updates-may-19-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779116205
-    },
-    {
-      "title": "Northern lights may be visible in several US states tonight as 3 CMEs race toward Earth",
-      "link": "https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-us-states-may-18-20-as-cmes-race-toward-earth",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779115454
-    },
-    {
       "title": "Grafana says stolen GitHub token let hackers steal codebase",
       "link": "https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779111986
-    },
-    {
-      "title": "Microsoft testing adjustable taskbar, Start menu in Windows 11",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779102868
     },
     {
       "title": "Schrödinger’s clock: Time could tick faster and slower at the same time",
@@ -709,25 +723,11 @@
       "timestamp": 1779094302
     },
     {
-      "title": "Microsoft confirms Windows 11 security update install issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779093194
-    },
-    {
       "title": "Scientists think they’ve cracked the mystery of human right-handedness",
       "link": "https://www.sciencedaily.com/releases/2026/05/260517211429.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1779092107
-    },
-    {
-      "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779088713
     },
     {
       "title": "Scientists opened a sealed envelope after 10 years and gravity still didn’t make sense",
