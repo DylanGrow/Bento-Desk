@@ -1,12 +1,40 @@
 {
-  "last_updated": 1779166675,
+  "last_updated": 1779179436,
   "items": [
     {
-      "title": "Victor Wembanyama leads Spurs to thrilling 2OT win vs. Thunder with best playoff performance of his career",
+      "title": "Theo Baker spent four years investigating Stanford. Before he leaves, here’s what he found.",
+      "link": "https://techcrunch.com/2026/05/18/theo-baker-spent-four-years-investigating-stanford-before-he-leaves-heres-what-he-found/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779169849
+    },
+    {
+      "title": "2026 NBA playoff bracket, schedule: Victor Wembanyama leads Spurs to Game 1 win vs. Thunder",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779168430
+    },
+    {
+      "title": "Victor Wembanyama leads Spurs to Game 1 win vs. OKC: Ranking Wemby's top five plays from 2OT masterpiece",
       "link": "https://www.cbssports.com/nba/news/victor-wembanyama-spurs-best-playoff-performance/",
       "source": "CBSSPORTS",
       "category": "nba",
-      "timestamp": 1779164645
+      "timestamp": 1779167989
+    },
+    {
+      "title": "A strange ripple in spacetime could be the first fingerprint of dark matter",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260518041429.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779163979
+    },
+    {
+      "title": "String theory suddenly emerged from simple physics rules",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260518041424.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779163357
     },
     {
       "title": "First F1 25: 2026 Season DLC Details Coming This Week",
@@ -14,6 +42,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1779158239
+    },
+    {
+      "title": "NASA’s powerful Roman Space Telescope is about to transform astronomy",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260518041345.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779152484
     },
     {
       "title": "Forza Horizon 6 Features a Cheeky Pokémon Easter Egg",
@@ -219,7 +254,7 @@
       "timestamp": 1779127412
     },
     {
-      "title": "What time is SpaceX's Starship V3 launch on May 20? (Starship Flight 12 timeline)",
+      "title": "What time is SpaceX's Starship V3 launch on May 21? (Starship Flight 12 timeline)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/what-time-is-spacex-starship-v3-launch-starship-flight-12-timeline",
       "source": "SPACE",
       "category": "space",
@@ -541,13 +576,6 @@
       "timestamp": 1779078429
     },
     {
-      "title": "2026 NBA playoff bracket, schedule: Cavaliers oust Pistons, will face Knicks in Eastern Conference Finals",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779073630
-    },
-    {
       "title": "What's next for Pistons? Detroit's questions around Cade Cunningham include pressing one about Jalen Duren",
       "link": "https://www.cbssports.com/nba/news/whats-next-pistons-cade-cunningham-jalen-duren/",
       "source": "CBSSPORTS",
@@ -688,13 +716,6 @@
       "timestamp": 1778962636
     },
     {
-      "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
-      "link": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1778959574
-    },
-    {
       "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
       "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
       "source": "BLEEPINGCOMPUTER",
@@ -730,25 +751,11 @@
       "timestamp": 1778935290
     },
     {
-      "title": "Stunning fossil discovery in Ethiopia rewrites human origins",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260515234644.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1778930439
-    },
-    {
       "title": "The US is betting on AI to catch insider trading in prediction markets",
       "link": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1778929201
-    },
-    {
-      "title": "Scientists discover hidden “brakes” that stop massive earthquakes",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260515233325.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1778911931
     },
     {
       "title": "Russia pressures university students to become wartime drone pilots",
@@ -770,13 +777,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1778867245
-    },
-    {
-      "title": "Scientists discover giant “last titan” dinosaur, Southeast Asia’s largest ever",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260515002121.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1778848593
     }
   ]
 }
