@@ -1,6 +1,76 @@
 {
-  "last_updated": 1779313810,
+  "last_updated": 1779318583,
   "items": [
+    {
+      "title": "The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center",
+      "link": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779318182
+    },
+    {
+      "title": "Clouted wants to take the guesswork out of making short videos go viral",
+      "link": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779316245
+    },
+    {
+      "title": "xAI burned $6.4B last year. SpaceX’s IPO filing shows why the spending is far from over",
+      "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779315968
+    },
+    {
+      "title": "Space debris is forcing satellites to dodge more often — costing us vital science. 'Things will get worse before they get better'",
+      "link": "https://www.space.com/space-exploration/satellites/space-debris-is-forcing-satellites-to-dodge-more-often-costing-us-vital-science-things-will-get-worse-before-they-get-better",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779315389
+    },
+    {
+      "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
+      "link": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779314631
+    },
+    {
+      "title": "Trump admin didn't want Ebola-exposed Americans, sent them to Berlin, Prague",
+      "link": "https://arstechnica.com/health/2026/05/trump-admin-didnt-want-ebola-exposed-americans-sent-them-to-berlin-prague/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779314281
+    },
+    {
+      "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
+      "link": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779314149
+    },
+    {
+      "title": "Brandon Sanderson Says He'll Start Working on His Mistborn Era 3 Book Again in July",
+      "link": "https://www.ign.com/articles/brandon-sanderson-says-hell-start-working-on-his-mistborn-era-3-book-again-in-july",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779313678
+    },
+    {
+      "title": "2026 NBA Western Conference finals odds, predictions: Thunder vs. Spurs Game 2 picks by expert on 132-92 run",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-western-conference-finals-odds-predictions-spread-thunder-spurs-game-2-expert-picks-best-bets/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779313534
+    },
+    {
+      "title": "Use DraftKings promo code for $100 in bonus bets by targeting Spurs-Thunder, Avalanche-Golden Knights tonight",
+      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-100-bonus-bets-targeting-spurs-thunder-avalanche-golden-knights-wednesday/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779313467
+    },
     {
       "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
       "link": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
@@ -9,11 +79,18 @@
       "timestamp": 1779312984
     },
     {
-      "title": "Anthropic will pay xAI $1.25 billion per month for compute",
+      "title": "Anthropic will pay xAI $1.25B per month for compute",
       "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1779312562
+    },
+    {
+      "title": "NASA's Psyche spacecraft returns unfamiliar views of a familiar world",
+      "link": "https://arstechnica.com/space/2026/05/nasas-psyche-spacecraft-returns-unfamiliar-views-of-a-familiar-world/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779312417
     },
     {
       "title": "Sam Altman makes ‘mic drop’ offer to every Y Combinator startup",
@@ -35,13 +112,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779311957
-    },
-    {
-      "title": "The SpaceX IPO filing has arrived",
-      "link": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-has-arrived/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779310320
     },
     {
       "title": "Supergirl Confirmed for Man of Tomorrow as a \"Major Part\" of the DCU Going Forward",
@@ -280,34 +350,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1779291613
-    },
-    {
-      "title": "Customers say Trump Mobile is leaking their personal information",
-      "link": "https://techcrunch.com/2026/05/20/customers-say-trump-mobile-is-leaking-their-personal-information/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779290935
-    },
-    {
-      "title": "Intuit to lay off over 3,000 employees to refocus on AI",
-      "link": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779290071
-    },
-    {
-      "title": "AI search startups are blowing up",
-      "link": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779289485
-    },
-    {
-      "title": "Stability AI releases a new audio model that can create 6-minute songs",
-      "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779289200
     },
     {
       "title": "The moon shines with a swarm of stars on May 21 as Jupiter, Venus and Mercury line-up nearby",
@@ -569,13 +611,6 @@
       "timestamp": 1779260878
     },
     {
-      "title": "Moose-proof and megacasting: Ars drives the new Volvo EX60",
-      "link": "https://arstechnica.com/cars/2026/05/moose-proof-and-megacasting-ars-drives-the-new-volvo-ex60/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779260457
-    },
-    {
       "title": "Lost for 150,000 years: Rainforest discovery upends human history",
       "link": "https://www.sciencedaily.com/releases/2026/05/260519003311.htm",
       "source": "SCIENCEDAILY",
@@ -639,20 +674,6 @@
       "timestamp": 1779246638
     },
     {
-      "title": "Knicks vs. Cavaliers prediction: Game 1 odds, pick as Eastern Conference Finals tip off",
-      "link": "https://www.cbssports.com/nba/news/knicks-cavaliers-prediction-game-1-odds-pick-tv-channel/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779234029
-    },
-    {
-      "title": "Hasbro Cancels Dungeons & Dragons Game from Star Wars Jedi: Survivor Director",
-      "link": "https://www.ign.com/articles/hasbro-cancels-dungeons-dragons-game-from-star-wars-jedi-survivor-director",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779233880
-    },
-    {
       "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking",
       "link": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
       "source": "BLEEPINGCOMPUTER",
@@ -660,25 +681,11 @@
       "timestamp": 1779229549
     },
     {
-      "title": "Knicks vs. Cavaliers odds, prediction: 2026 NBA Eastern Conference finals picks, Game 1 bets by proven model",
-      "link": "https://www.cbssports.com/nba/news/knicks-cavaliers-odds-prediction-spread-line-start-time-2026-nba-eastern-conference-finals-picks-game-1-best-bets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779228490
-    },
-    {
       "title": "Cybercrime service disrupted for abusing Microsoft platform to sign malware",
       "link": "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779227251
-    },
-    {
-      "title": "FBI seeks US-wide access to license plate cameras, wants \"data in near real time\"",
-      "link": "https://arstechnica.com/tech-policy/2026/05/fbi-seeks-us-wide-access-to-license-plate-cameras-wants-data-in-near-real-time/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779226173
     },
     {
       "title": "Lasers in moon craters could create a lunar GPS system",
@@ -721,13 +728,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779217200
-    },
-    {
-      "title": "Vast, builder of private space stations, launches line of high-power satellites",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/vast-space-stations-announces-satellite-line",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779213600
     },
     {
       "title": "Microsoft plans to improve Windows 11 driver quality in 2026",
