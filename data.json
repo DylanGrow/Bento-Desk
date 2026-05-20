@@ -1,12 +1,68 @@
 {
-  "last_updated": 1779253318,
+  "last_updated": 1779269202,
   "items": [
+    {
+      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+      "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779264848
+    },
+    {
+      "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779262275
+    },
+    {
+      "title": "Moose-proof and megacasting: Ars drives the new Volvo EX60",
+      "link": "https://arstechnica.com/cars/2026/05/moose-proof-and-megacasting-ars-drives-the-new-volvo-ex60/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779260457
+    },
+    {
+      "title": "Lost for 150,000 years: Rainforest discovery upends human history",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260519003311.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779258138
+    },
+    {
+      "title": "‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
+      "link": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779255900
+    },
     {
       "title": "Knicks pull off epic Game 1 comeback over Cavaliers as Jalen Brunson turns James Harden into a red carpet",
       "link": "https://www.cbssports.com/nba/news/knicks-cavaliers-comeback-jalen-brunson-james-harden-nba-playoffs-ecf-game-1/",
       "source": "CBSSPORTS",
       "category": "nba",
-      "timestamp": 1779252979
+      "timestamp": 1779254375
+    },
+    {
+      "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
+      "link": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779253722
+    },
+    {
+      "title": "Scientists use DNA from poop to save the world’s rarest marsupial",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260519224319.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779252348
+    },
+    {
+      "title": "T. rex’s tiny arms may have evolved for a surprisingly brutal reason",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260519224314.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779251346
     },
     {
       "title": "The Knicks are looking more and more like a team of destiny with each passing win",
@@ -21,6 +77,13 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1779249091
+    },
+    {
+      "title": "Humpback whale breaks migration record with 15,000 kilometer ocean journey",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260519224303.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779246918
     },
     {
       "title": "SpaceX launches 24 Starlink satellites on Falcon 9 launch from California",
@@ -326,13 +389,6 @@
     {
       "title": "Google’s new Universal Cart wants to follow your entire shopping journey across the internet",
       "link": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779212700
-    },
-    {
-      "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026",
-      "link": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1779212700
@@ -653,32 +709,11 @@
       "timestamp": 1779148634
     },
     {
-      "title": "INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers",
-      "link": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779142530
-    },
-    {
-      "title": "SHub macOS infostealer variant spoofs Apple security updates",
-      "link": "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779140540
-    },
-    {
       "title": "Scientists found stardust trapped in Antarctic ice. What could it tell us about our solar system?",
       "link": "https://www.space.com/science/scientists-found-stardust-trapped-in-antarctic-ice-what-could-it-tell-us-about-our-solar-system",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779138000
-    },
-    {
-      "title": "Ebola outbreak: WHO declares emergency, US restricts travel, American infected",
-      "link": "https://arstechnica.com/health/2026/05/ebola-outbreak-who-declares-emergency-us-restricts-travel-american-infected/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779136874
     },
     {
       "title": "'Voidverse' is a seriously weird space fantasy novel from 'The OA's' Damien Ober (interview)",
@@ -693,13 +728,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779130800
-    },
-    {
-      "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
-      "link": "https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779129935
     },
     {
       "title": "What time is SpaceX's Starship V3 launch on May 21? (Starship Flight 12 timeline)",
@@ -749,34 +777,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1779016294
-    },
-    {
-      "title": "Stunning 150-million-year-old stegosaur skull rewrites dinosaur evolution",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260515233340.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1778999906
-    },
-    {
-      "title": "Lost 1,200-year-old manuscript contains the first English poem",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260515233337.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1778998960
-    },
-    {
-      "title": "The real reason exercise makes you stronger isn’t what you think",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260515233346.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1778939565
-    },
-    {
-      "title": "Scientists reversed memory loss by recharging the brain’s tiny engines",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260515234803.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1778938259
     }
   ]
 }
