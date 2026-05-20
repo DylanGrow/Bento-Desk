@@ -1,6 +1,62 @@
 {
-  "last_updated": 1779269202,
+  "last_updated": 1779279708,
   "items": [
+    {
+      "title": "The universe's 'most relaxed' galaxy cluster was shaped by cosmic violence, new study finds",
+      "link": "https://www.space.com/astronomy/galaxies/the-universes-most-relaxed-galaxy-cluster-was-shaped-by-cosmic-violence-new-study-finds",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779278400
+    },
+    {
+      "title": "The Internet can't stop watching Figure AI's humanoid robots handling packages",
+      "link": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779274834
+    },
+    {
+      "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
+      "link": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779274351
+    },
+    {
+      "title": "Two-and-a-Half New Cars Added to Wreckfest 2 in Latest Early Access Update",
+      "link": "https://www.ign.com/articles/two-and-a-half-new-cars-added-to-wreckfest-2-in-latest-early-access-update",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779273936
+    },
+    {
+      "title": "'Let's Do the Protestant Reformation Inside Star Wars' — Damon Lindelof Reveals New Details on His Canceled Version of Daisy Ridley's New Jedi Order Movie",
+      "link": "https://www.ign.com/articles/lets-do-the-protestant-reformation-inside-star-wars-damon-lindelof-reveals-new-details-on-his-canceled-version-of-daisy-ridleys-new-jedi-order-movie",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779272504
+    },
+    {
+      "title": "How to watch SpaceX launch its 1st Starship V3 megarocket on May 21",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-new-v3-starship-megarocket-for-1st-time-on-may-20-watch-live",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779271200
+    },
+    {
+      "title": "Open-World Lord of Rings RPG and New Kingdom Come Game Confirmed in Development at Warhorse Studios",
+      "link": "https://www.ign.com/articles/open-world-lord-of-rings-rpg-and-new-kingdom-come-game-confirmed-in-development-at-warhorse-studios",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779269436
+    },
+    {
+      "title": "Embracer 'Actively Exploring' External Partnerships for the Likes of Saints Row, Deus Ex, TimeSplitters, and More",
+      "link": "https://www.ign.com/articles/embracer-actively-exploring-external-partnerships-for-the-likes-of-saints-row-deus-ex-timesplitters-and-more",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779266033
+    },
     {
       "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
       "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
@@ -140,13 +196,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779227251
-    },
-    {
-      "title": "Use DraftKings promo code for $100 in bonus bets by targeting Knicks-Cavaliers, Padres-Dodgers on Tuesday",
-      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-100-bonus-bets-targeting-knicks-cavaliers-padres-dodgers-tuesday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779226526
     },
     {
       "title": "Google just declared itself a contender in AI design at IO 2026",
@@ -520,13 +569,6 @@
       "timestamp": 1779200201
     },
     {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Knicks-Cavaliers, Dodgers-Padres on Tuesday",
-      "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-knicks-cavaliers-dodgers-padres-tuesday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779199873
-    },
-    {
       "title": "NBA player prop picks, odds: Three best 2026 NBA Playoffs prop bets for Cavaliers vs. Knicks, Game 1",
       "link": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-three-best-2026-nba-playoffs-prop-bets-cavaliers-knicks-game-1/",
       "source": "CBSSPORTS",
@@ -604,6 +646,20 @@
       "timestamp": 1779195600
     },
     {
+      "title": "Knicks vs. Cavaliers: Five questions that will decide the Eastern Conference Finals",
+      "link": "https://www.cbssports.com/nba/news/knicks-vs-cavaliers-five-questions-eastern-conference-finals/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779194182
+    },
+    {
+      "title": "The night Victor Wembanyama became the best basketball player in the world",
+      "link": "https://www.cbssports.com/nba/news/victor-wembanyama-best-basketball-player-in-the-world/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779193268
+    },
+    {
       "title": "Webinar: The hidden bottlenecks in network incident response",
       "link": "https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/",
       "source": "BLEEPINGCOMPUTER",
@@ -623,48 +679,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1779191854
-    },
-    {
-      "title": "Fortnite Is Back on the App Store Across the World",
-      "link": "https://www.ign.com/articles/fortnite-is-back-on-the-app-store-across-the-world",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779191571
-    },
-    {
-      "title": "PC Gamers React to Sony Making Its Narrative Single-Player Games PlayStation Exclusive",
-      "link": "https://www.ign.com/articles/pc-gamers-react-to-sony-making-its-narrative-single-player-games-playstation-exclusive",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779190488
-    },
-    {
-      "title": "Microsoft confirms patching issues in restricted Windows networks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779189735
-    },
-    {
-      "title": "Iran demands Big Tech pay fees for undersea Internet cables in Strait of Hormuz",
-      "link": "https://arstechnica.com/tech-policy/2026/05/iran-demands-big-tech-pay-fees-for-undersea-internet-cables-in-strait-of-hormuz/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779188449
-    },
-    {
-      "title": "Doom Soundtrack Inducted Into the National Recording Registry",
-      "link": "https://www.ign.com/articles/doom-soundtrack-inducted-into-the-national-recording-registry",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779186094
-    },
-    {
-      "title": "Games Workshop Had a Cheeky Response to One of the Most-Asked Warhammer 40,000 Lore Questions From Fans",
-      "link": "https://www.ign.com/articles/games-workshop-had-a-cheeky-response-to-one-of-the-most-asked-warhammer-40000-lore-questions-from-fans",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779185944
     },
     {
       "title": "The UFO files: What did we learn from the Pentagon's 1st big release?",
@@ -721,20 +735,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779130800
-    },
-    {
-      "title": "Why bringing back 'The Mandalorian and Grogu' isn't the way for 'Star Wars'",
-      "link": "https://www.space.com/entertainment/space-movies-shows/why-bringing-back-the-mandalorian-and-grogu-isnt-the-way",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779130800
-    },
-    {
-      "title": "What time is SpaceX's Starship V3 launch on May 21? (Starship Flight 12 timeline)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/what-time-is-spacex-starship-v3-launch-starship-flight-12-timeline",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779127200
     },
     {
       "title": "Schrödinger’s clock: Time could tick faster and slower at the same time",
