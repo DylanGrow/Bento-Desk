@@ -1,6 +1,125 @@
 {
-  "last_updated": 1779304949,
+  "last_updated": 1779313810,
   "items": [
+    {
+      "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779312984
+    },
+    {
+      "title": "Anthropic will pay xAI $1.25 billion per month for compute",
+      "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779312562
+    },
+    {
+      "title": "Sam Altman makes ‘mic drop’ offer to every Y Combinator startup",
+      "link": "https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779312182
+    },
+    {
+      "title": "You don’t need to be an AI startup to raise. Lucra has $20M to prove it.",
+      "link": "https://techcrunch.com/video/you-dont-need-to-be-an-ai-startup-to-raise-lucra-has-20m-to-prove-it/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779312082
+    },
+    {
+      "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779311957
+    },
+    {
+      "title": "The SpaceX IPO filing has arrived",
+      "link": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-has-arrived/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779310320
+    },
+    {
+      "title": "Supergirl Confirmed for Man of Tomorrow as a \"Major Part\" of the DCU Going Forward",
+      "link": "https://www.ign.com/articles/supergirl-confirmed-man-of-tomorrow-dcu",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779309631
+    },
+    {
+      "title": "Microsoft’s carbon-removal plans aren’t dead after all",
+      "link": "https://techcrunch.com/2026/05/20/microsofts-carbon-removal-plans-arent-dead-after-all/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779309024
+    },
+    {
+      "title": "Masters of the Universe final trailer brings the '80s nostalgia",
+      "link": "https://arstechnica.com/culture/2026/05/masters-of-the-universe-final-trailer-brings-the-80s-nostalgia/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779308979
+    },
+    {
+      "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+      "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779308907
+    },
+    {
+      "title": "How Victor Wembanyama and the Spurs bottled up Shai Gilegous-Alexander -- and how they can do it again",
+      "link": "https://www.cbssports.com/nba/news/victor-wembanyama-spurs-shai-gilegous-alexander-thunder-game-1/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779308584
+    },
+    {
+      "title": "The Boys Is Officially Over, and the Internet Has Plenty of Thoughts",
+      "link": "https://www.ign.com/articles/the-boys-is-officially-over-and-the-internet-has-plenty-of-thoughts",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779307572
+    },
+    {
+      "title": "The Adventures of Cliff Booth Lands IMAX Release Date Ahead of Netflix Debut",
+      "link": "https://www.ign.com/articles/adventures-of-cliff-booth-imax-netflix-release",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779307393
+    },
+    {
+      "title": "Scientists find a hidden route to the moon that saves fuel",
+      "link": "https://www.space.com/astronomy/moon/scientists-find-a-hidden-route-to-the-moon-that-saves-fuel",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779307200
+    },
+    {
+      "title": "Leaving the V8 in the past: The all-electric Mercedes-AMG GT 4-Door",
+      "link": "https://arstechnica.com/cars/2026/05/leaving-the-v8-in-the-past-the-all-electric-mercedes-amg-gt-4-door/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779306814
+    },
+    {
+      "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+      "link": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779306440
+    },
+    {
+      "title": "Today's top games to watch, best bets, odds: Spurs vs. Thunder, Golden Knights vs. Avalanche and more",
+      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-spurs-vs-thunder-golden-knights-vs-avalanche-and-more/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779305441
+    },
     {
       "title": "SpaceX stacks Starship V3 rocket, completes major fueling test ahead of debut launch",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-stacks-starship-v3-rocket-completes-major-fueling-test-ahead-of-debut-launch",
@@ -9,11 +128,18 @@
       "timestamp": 1779304800
     },
     {
-      "title": "Spurs vs. Thunder odds, prediction: 2026 NBA Western Conference finals picks, Game 2 best bets by proven model",
-      "link": "https://www.cbssports.com/nba/news/spurs-thunder-odds-prediction-spread-line-2026-nba-western-conference-finals-picks-game-2-best-bets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779303994
+      "title": "\"Ryzen 5800X3D 10th Anniversary Edition\" may help you avoid paying for a new PC",
+      "link": "https://arstechnica.com/gadgets/2026/05/amd-reportedly-plans-ryzen-5800x3d-re-release-for-upgraders-on-a-budget/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779304784
+    },
+    {
+      "title": "Google publishes exploit code threatening millions of Chromium users",
+      "link": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779304236
     },
     {
       "title": "US military test-launches nuclear-capable ICBM from California (photos)",
@@ -23,11 +149,32 @@
       "timestamp": 1779303600
     },
     {
+      "title": "Trump wants $1B to protect White House ballroom from drones and other threats",
+      "link": "https://arstechnica.com/tech-policy/2026/05/trump-wants-1b-to-protect-white-house-ballroom-from-drones-and-other-threats/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779303592
+    },
+    {
       "title": "Who could replace Jason Kidd? Mavericks coaching candidates as Masai Ujiri launches 'open search'",
       "link": "https://www.cbssports.com/nba/news/mavericks-coaching-candidates-sean-sweeney-micah-nori-jared-dudley/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1779303115
+    },
+    {
+      "title": "Hulu set to keep existing as standalone streaming service and app (for now)",
+      "link": "https://arstechnica.com/gadgets/2026/05/hulu-set-to-keep-existing-as-standalone-streaming-service-and-app-for-now/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779302921
+    },
+    {
+      "title": "Chickens without eggs? De-extinction company creates artificial egg.",
+      "link": "https://arstechnica.com/science/2026/05/chickens-without-eggs-de-extinction-company-creates-artificial-egg/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779302285
     },
     {
       "title": "Tesla’s Full Self-Driving software is creeping into Europe",
@@ -37,11 +184,11 @@
       "timestamp": 1779301926
     },
     {
-      "title": "2026 NBA Western Conference finals odds, predictions: Thunder vs. Spurs Game 2 picks by expert on 132-92 run",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-western-conference-finals-odds-predictions-spread-thunder-spurs-game-2-expert-picks-bets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779300938
+      "title": "Minnesota prohibits prediction markets, promptly gets sued by Trump admin",
+      "link": "https://arstechnica.com/tech-policy/2026/05/minnesota-prohibits-prediction-markets-promptly-gets-sued-by-trump-admin/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779301256
     },
     {
       "title": "Airbnb gets into hotels, expands AI for host onboarding and customer support",
@@ -65,7 +212,7 @@
       "timestamp": 1779300000
     },
     {
-      "title": "Global EV market goes K-shaped as the U.S. gets left behind",
+      "title": "Global EV market goes K-shaped as the US gets left behind",
       "link": "https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -107,7 +254,7 @@
       "timestamp": 1779294948
     },
     {
-      "title": "Is Earth getting brighter at night? It's complicated, new NASA 'Black Marble project' images reveal",
+      "title": "NASA satellite images uncover dramatic changes in Earth's nighttime lights",
       "link": "https://www.space.com/astronomy/earth/is-earth-getting-brighter-at-night-its-complicated-new-nasa-black-marble-project-images-reveal",
       "source": "SPACE",
       "category": "space",
@@ -205,20 +352,6 @@
       "timestamp": 1779287337
     },
     {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Thunder-Spurs, Avalanche-Golden Knights today",
-      "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-thunder-spurs-avalanche-golden-knights-wednesday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779286629
-    },
-    {
-      "title": "Use DraftKings promo code for $100 in bonus bets by targeting Thunder-Spurs, Avalanche-Golden Knights tonight",
-      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-100-bonus-bets-targeting-thunder-spurs-avalanche-golden-knights-wednesday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779286492
-    },
-    {
       "title": "NBA player prop picks, odds: Three best 2026 NBA Playoffs prop bets for Spurs vs. Thunder, Game 2",
       "link": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-three-best-2026-nba-playoffs-prop-bets-spurs-thunder-game-2/",
       "source": "CBSSPORTS",
@@ -238,20 +371,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779285732
-    },
-    {
-      "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
-      "link": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779285600
-    },
-    {
-      "title": "Startup Battlefield 200 applications close in 1 week: Window to nominate and apply for the most promising startups closes May 27",
-      "link": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-apply-for-the-most-promising-startups-closes-may-27/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779285600
     },
     {
       "title": "An astronaut's view of Argentina's snow-capped mountains | Space photo of the day for May 20, 2026",
@@ -275,13 +394,6 @@
       "timestamp": 1779283566
     },
     {
-      "title": "GitHub says hackers stole data from thousands of internal repositories",
-      "link": "https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779283558
-    },
-    {
       "title": "Knicks steal Game 1 with an epic comeback; Mavericks fire Jason Kidd",
       "link": "https://www.cbssports.com/nba/news/knicks-steal-game-1-with-an-epic-comeback-mavericks-fire-jason-kidd/",
       "source": "CBSSPORTS",
@@ -301,20 +413,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1779282272
-    },
-    {
-      "title": "Figma adds an AI assistant to its collaborative canvas",
-      "link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779282000
-    },
-    {
-      "title": "This startup raised $43M to build a hive mind for ships",
-      "link": "https://techcrunch.com/2026/05/20/this-startup-raised-43m-to-build-a-hive-mind-for-ships/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779282000
     },
     {
       "title": "NASA's Psyche probe takes awesome images of Mars on way to (possibly) precious asteroid",
@@ -485,13 +583,6 @@
       "timestamp": 1779258138
     },
     {
-      "title": "‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
-      "link": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779255900
-    },
-    {
       "title": "Knicks pull off epic Game 1 comeback over Cavaliers as Jalen Brunson turns James Harden into a red carpet",
       "link": "https://www.cbssports.com/nba/news/knicks-cavaliers-comeback-jalen-brunson-james-harden-nba-playoffs-ecf-game-1/",
       "source": "CBSSPORTS",
@@ -548,18 +639,18 @@
       "timestamp": 1779246638
     },
     {
+      "title": "Knicks vs. Cavaliers prediction: Game 1 odds, pick as Eastern Conference Finals tip off",
+      "link": "https://www.cbssports.com/nba/news/knicks-cavaliers-prediction-game-1-odds-pick-tv-channel/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779234029
+    },
+    {
       "title": "Hasbro Cancels Dungeons & Dragons Game from Star Wars Jedi: Survivor Director",
       "link": "https://www.ign.com/articles/hasbro-cancels-dungeons-dragons-game-from-star-wars-jedi-survivor-director",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1779233880
-    },
-    {
-      "title": "Assassin's Creed Black Flag Resynced Shows Off No-HUD Option",
-      "link": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-shows-off-no-hud-option",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779233703
     },
     {
       "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking",
@@ -569,18 +660,18 @@
       "timestamp": 1779229549
     },
     {
+      "title": "Knicks vs. Cavaliers odds, prediction: 2026 NBA Eastern Conference finals picks, Game 1 bets by proven model",
+      "link": "https://www.cbssports.com/nba/news/knicks-cavaliers-odds-prediction-spread-line-start-time-2026-nba-eastern-conference-finals-picks-game-1-best-bets/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779228490
+    },
+    {
       "title": "Cybercrime service disrupted for abusing Microsoft platform to sign malware",
       "link": "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779227251
-    },
-    {
-      "title": "Google just declared itself a contender in AI design at IO 2026",
-      "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779226410
     },
     {
       "title": "FBI seeks US-wide access to license plate cameras, wants \"data in near real time\"",
@@ -597,20 +688,6 @@
       "timestamp": 1779224400
     },
     {
-      "title": "Spider-Noir final trailer gives us a classic villain",
-      "link": "https://arstechnica.com/culture/2026/05/spider-noirs-final-trailer-leans-into-the-deadpan-humor/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779224331
-    },
-    {
-      "title": "\"I'll buy 10 of those\"—NASA science chief yearns for mass-produced satellites",
-      "link": "https://arstechnica.com/space/2026/05/ill-buy-10-of-those-nasa-science-chief-yearns-for-mass-produced-satellites/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779223411
-    },
-    {
       "title": "Discord rolls out end-to-end encryption on voice, video calls",
       "link": "https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/",
       "source": "BLEEPINGCOMPUTER",
@@ -623,13 +700,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779220800
-    },
-    {
-      "title": "Plex's 200% Lifetime Pass price hike tries forcing users to another subscription",
-      "link": "https://arstechnica.com/gadgets/2026/05/plexs-200-lifetime-pass-price-hike-tries-forcing-users-to-another-subscription/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779220321
     },
     {
       "title": "FBI: Americans lost over $388 million to scams using crypto ATMs in 2025",
@@ -653,55 +723,6 @@
       "timestamp": 1779217200
     },
     {
-      "title": "Two AI-based science assistants succeed with drug-retargeting tasks",
-      "link": "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779216956
-    },
-    {
-      "title": "Plex Announces Massive Price Hike on Lifetime Subscription Plans",
-      "link": "https://www.ign.com/articles/plex-announces-massive-price-hike-on-lifetime-subscription-plans",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779216331
-    },
-    {
-      "title": "Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more",
-      "link": "https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779215822
-    },
-    {
-      "title": "In stunning display of stupid, secret CISA credentials found in public GitHub repo",
-      "link": "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779215228
-    },
-    {
-      "title": "Star Wars 'Isn't Resonating With Younger Moviegoers Like It Did for Older Generations'",
-      "link": "https://www.ign.com/articles/star-wars-isnt-resonating-with-younger-moviegoers-like-it-did-for-older-generations",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779214818
-    },
-    {
-      "title": "RFK Jr. forced to withdraw charter that opened CDC panel to anti-vaccine quacks",
-      "link": "https://arstechnica.com/health/2026/05/rfk-jr-forced-to-withdraw-charter-that-opened-cdc-panel-to-anti-vaccine-quacks/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779214674
-    },
-    {
-      "title": "Gemini 3.5 Flash might be fast enough for gen AI to make sense",
-      "link": "https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779214310
-    },
-    {
       "title": "Vast, builder of private space stations, launches line of high-power satellites",
       "link": "https://www.space.com/space-exploration/human-spaceflight/vast-space-stations-announces-satellite-line",
       "source": "SPACE",
@@ -709,32 +730,11 @@
       "timestamp": 1779213600
     },
     {
-      "title": "See Jupiter glow beside the waxing moon after sunset on May 20",
-      "link": "https://www.space.com/stargazing/see-jupiter-glow-beside-the-waxing-moon-after-sunset-on-may-20",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779210000
-    },
-    {
       "title": "Microsoft plans to improve Windows 11 driver quality in 2026",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-improve-windows-11-driver-quality-in-2026/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779207750
-    },
-    {
-      "title": "Microsoft blames macOS update for undismissible Teams location prompts",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779207047
-    },
-    {
-      "title": "New Shai-Hulud malware wave compromises 600 npm packages",
-      "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779201022
     },
     {
       "title": "Scientists were wrong about this “rule-breaking” particle",
