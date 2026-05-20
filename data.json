@@ -1,12 +1,40 @@
 {
-  "last_updated": 1779235344,
+  "last_updated": 1779253318,
   "items": [
     {
-      "title": "Jason Kidd reportedly fired as Mavericks coach after five seasons with Masai Ujiri looking to start fresh",
+      "title": "Knicks pull off epic Game 1 comeback over Cavaliers as Jalen Brunson turns James Harden into a red carpet",
+      "link": "https://www.cbssports.com/nba/news/knicks-cavaliers-comeback-jalen-brunson-james-harden-nba-playoffs-ecf-game-1/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779252979
+    },
+    {
+      "title": "The Knicks are looking more and more like a team of destiny with each passing win",
+      "link": "https://www.cbssports.com/nba/news/knicks-nba-playoffs-team-of-destiny-ecf-game-1-cavaliers/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779251001
+    },
+    {
+      "title": "2026 NBA playoff bracket, schedule: Knicks pull off historic comeback to take Game 1 over Cavaliers",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779249091
+    },
+    {
+      "title": "SpaceX launches 24 Starlink satellites on Falcon 9 launch from California",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-42-b1103-vsfb-ocisly",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779246638
+    },
+    {
+      "title": "Jason Kidd out as Mavericks coach after five seasons with Masai Ujiri looking to start fresh",
       "link": "https://www.cbssports.com/nba/news/jason-kidd-mavericks-fired-masai-ujiri/",
       "source": "CBSSPORTS",
       "category": "nba",
-      "timestamp": 1779234057
+      "timestamp": 1779238971
     },
     {
       "title": "Knicks vs. Cavaliers prediction: Game 1 odds, pick as Eastern Conference Finals tip off",
@@ -14,6 +42,20 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1779234029
+    },
+    {
+      "title": "Hasbro Cancels Dungeons & Dragons Game from Star Wars Jedi: Survivor Director",
+      "link": "https://www.ign.com/articles/hasbro-cancels-dungeons-dragons-game-from-star-wars-jedi-survivor-director",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779233880
+    },
+    {
+      "title": "Assassin's Creed Black Flag Resynced Shows Off No-HUD Option",
+      "link": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-shows-off-no-hud-option",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779233703
     },
     {
       "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking",
@@ -506,20 +548,6 @@
       "timestamp": 1779195600
     },
     {
-      "title": "Knicks vs. Cavaliers: Five questions that will decide the Eastern Conference Finals",
-      "link": "https://www.cbssports.com/nba/news/knicks-vs-cavaliers-five-questions-eastern-conference-finals/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779194182
-    },
-    {
-      "title": "The night Victor Wembanyama became the best basketball player in the world",
-      "link": "https://www.cbssports.com/nba/news/victor-wembanyama-best-basketball-player-in-the-world/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779193268
-    },
-    {
       "title": "Webinar: The hidden bottlenecks in network incident response",
       "link": "https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/",
       "source": "BLEEPINGCOMPUTER",
@@ -595,27 +623,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1779182398
-    },
-    {
-      "title": "Nintendo Announces Pictonico, a New Mobile Game That Turns Photos Into Mini-Games",
-      "link": "https://www.ign.com/articles/nintendo-announces-pictonico-a-new-mobile-game-that-turns-photos-into-mini-games",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779182323
-    },
-    {
-      "title": "Microsoft Launches Xbox Player Voice to Gather Feedback, Fans Immediately Demand a Return to Exclusives",
-      "link": "https://www.ign.com/articles/microsoft-launches-xbox-player-voice-to-gather-feedback-fans-immediately-demand-a-return-to-exclusives",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779180485
-    },
-    {
-      "title": "2026 NBA playoff bracket, schedule: Victor Wembanyama leads Spurs to Game 1 win vs. Thunder",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779168430
     },
     {
       "title": "A strange ripple in spacetime could be the first fingerprint of dark matter",
@@ -700,13 +707,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779127200
-    },
-    {
-      "title": "Vega C rocket launches European-Chinese space weather satellite to orbit",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/european-chinese-space-weather-mission-smile-launch",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779123600
     },
     {
       "title": "Schrödinger’s clock: Time could tick faster and slower at the same time",
