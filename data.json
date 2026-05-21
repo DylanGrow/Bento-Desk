@@ -1,6 +1,41 @@
 {
-  "last_updated": 1779398726,
+  "last_updated": 1779404485,
   "items": [
+    {
+      "title": "2026 NBA Eastern Conference finals odds, predictions: Knicks vs. Cavaliers Game 2 picks by expert on 84-51 run",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-eastern-conference-finals-odds-predictions-time-knicks-cavaliers-game-2-picks/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779403584
+    },
+    {
+      "title": "IoT gadget maker AcuRite shares reasoning for killing customers’ favorite app",
+      "link": "https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779402394
+    },
+    {
+      "title": "Sony Files Trademark for a Mysterious New Game Called Break In",
+      "link": "https://www.ign.com/articles/sony-files-trademark-for-new-game-called-break-in",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779402093
+    },
+    {
+      "title": "As Grok flounders, SpaceX bets future on beating Big Tech at AI",
+      "link": "https://arstechnica.com/ai/2026/05/as-grok-flounders-spacex-bets-future-on-beating-big-tech-at-ai/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779400286
+    },
+    {
+      "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
+      "link": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779399543
+    },
     {
       "title": "Knicks vs. Cavaliers odds, prediction: 2026 NBA Eastern Conference finals picks, Game 2 bets by proven model",
       "link": "https://www.cbssports.com/nba/news/knicks-cavaliers-odds-prediction-time-2026-nba-eastern-conference-finals-picks-game-2-best-bets/",
@@ -14,6 +49,13 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1779398003
+    },
+    {
+      "title": "AT&T sues California in attempt to shut off old phone network",
+      "link": "https://arstechnica.com/tech-policy/2026/05/att-sues-california-in-attempt-to-shut-off-old-phone-network/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779397801
     },
     {
       "title": "NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers",
@@ -170,7 +212,7 @@
       "timestamp": 1779385280
     },
     {
-      "title": "Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’",
+      "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
       "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -359,13 +401,6 @@
       "timestamp": 1779374221
     },
     {
-      "title": "2026 NBA Eastern Conference finals odds, predictions: Knicks vs. Cavaliers Game 2 picks by expert on 84-51 run",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-eastern-conference-finals-odds-predictions-knicks-cavaliers-game-2-picks/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779374202
-    },
-    {
       "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
       "link": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
       "source": "TECHCRUNCH",
@@ -380,13 +415,6 @@
       "timestamp": 1779372010
     },
     {
-      "title": "Chinese hackers target telcos with new Linux, Windows malware",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779372000
-    },
-    {
       "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
       "link": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
       "source": "TECHCRUNCH",
@@ -394,10 +422,10 @@
       "timestamp": 1779372000
     },
     {
-      "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
-      "link": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
+      "title": "Chinese hackers target telcos with new Linux, Windows malware",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
       "timestamp": 1779372000
     },
     {
@@ -413,13 +441,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779371913
-    },
-    {
-      "title": "Fallout 4 on Consoles Will Soon Let You Add More Mods",
-      "link": "https://www.ign.com/articles/fallout-4-on-consoles-will-soon-let-you-add-more-mods",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779371530
     },
     {
       "title": "US government takes $2 billion equity stake in nine quantum computing firms",
@@ -688,32 +709,11 @@
       "timestamp": 1779304784
     },
     {
-      "title": "Google publishes exploit code threatening millions of Chromium users",
-      "link": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779304236
-    },
-    {
       "title": "US military test-launches nuclear-capable ICBM from California (photos)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/us-military-test-launches-nuclear-capable-icbm-from-california-photos",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779303600
-    },
-    {
-      "title": "Trump wants $1B to protect White House ballroom from drones and other threats",
-      "link": "https://arstechnica.com/tech-policy/2026/05/trump-wants-1b-to-protect-white-house-ballroom-from-drones-and-other-threats/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779303592
-    },
-    {
-      "title": "Hulu set to keep existing as standalone streaming service and app (for now)",
-      "link": "https://arstechnica.com/gadgets/2026/05/hulu-set-to-keep-existing-as-standalone-streaming-service-and-app-for-now/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779302921
     },
     {
       "title": "Grafana breach caused by missed token rotation after TanStack attack",
