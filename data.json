@@ -1,12 +1,89 @@
 {
-  "last_updated": 1779318583,
+  "last_updated": 1779333883,
   "items": [
+    {
+      "title": "UNESCO warns a tsunami in the Mediterranean is inevitable",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260520093719.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779333258
+    },
+    {
+      "title": "2026 NBA playoff bracket, schedule: Thunder even series vs. Spurs with WCF Game 2 win",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779332792
+    },
+    {
+      "title": "Scientists solve 320-million-year mystery of reptile bone armor",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260520093709.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779331684
+    },
+    {
+      "title": "New quantum sensor could count individual photons and hunt dark matter",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260520093654.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779331330
+    },
+    {
+      "title": "Here's What Time You Can Play 007 First Light",
+      "link": "https://www.ign.com/articles/heres-what-time-you-can-play-007-first-light",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779328836
+    },
+    {
+      "title": "The Expanse: Osiris Reborn Is Recasting its Protagonist After Negative Fan Feedback",
+      "link": "https://www.ign.com/articles/the-expanse-osiris-reborn-is-recasting-its-protagonist-after-negative-fan-feedback",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779326564
+    },
+    {
+      "title": "Forza Horizon 6 Players Are Using Exploits to Farm Easy Credits and Unlock Every Car",
+      "link": "https://www.ign.com/articles/forza-horizon-6-players-are-using-exploits-to-farm-easy-credits-and-unlock-every-car",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779326355
+    },
+    {
+      "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+      "link": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779323311
+    },
+    {
+      "title": "Anthropic says it’s about to have its first profitable quarter",
+      "link": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779322881
+    },
     {
       "title": "The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center",
       "link": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1779318182
+    },
+    {
+      "title": "Famously secret about its finances, SpaceX opens its books for the first time",
+      "link": "https://arstechnica.com/space/2026/05/spacex-submits-detailed-financial-filing-ahead-of-going-public-in-june/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779318169
+    },
+    {
+      "title": "LeBron James is reportedly unlikely to accept a minimum salary, which affects some suitors more than others",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-rumors-minimum-salary/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779317767
     },
     {
       "title": "Clouted wants to take the guesswork out of making short videos go viral",
@@ -16,11 +93,25 @@
       "timestamp": 1779316245
     },
     {
-      "title": "xAI burned $6.4B last year. SpaceX’s IPO filing shows why the spending is far from over",
+      "title": "Spurs vs. Thunder odds, prediction: 2026 NBA Western Conference finals picks, Game 2 best bets by proven model",
+      "link": "https://www.cbssports.com/nba/news/spurs-thunder-odds-prediction-spread-line-time-2026-nba-western-conference-finals-picks-game-2-best-bets/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779316245
+    },
+    {
+      "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
       "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1779315968
+    },
+    {
+      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Spurs-Thunder, Avalanche-Golden Knights today",
+      "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-spurs-thunder-avalanche-golden-knights-wednesday/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779315442
     },
     {
       "title": "Space debris is forcing satellites to dodge more often — costing us vital science. 'Things will get worse before they get better'",
@@ -63,13 +154,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1779313534
-    },
-    {
-      "title": "Use DraftKings promo code for $100 in bonus bets by targeting Spurs-Thunder, Avalanche-Golden Knights tonight",
-      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-100-bonus-bets-targeting-spurs-thunder-avalanche-golden-knights-wednesday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779313467
     },
     {
       "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
@@ -296,20 +380,6 @@
       "timestamp": 1779298264
     },
     {
-      "title": "OpenAI barrels toward IPO that may happen in September",
-      "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779297864
-    },
-    {
-      "title": "Jeff Bezos, you were so close to making a good point",
-      "link": "https://techcrunch.com/2026/05/20/jeff-bezos-you-were-so-close-to-making-a-good-point/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779297031
-    },
-    {
       "title": "Venus and the crescent moon dazzle in a spectacular post-sunset show (photos)",
       "link": "https://www.space.com/stargazing/astrophotography/venus-and-the-crescent-moon-dazzle-in-a-spectacular-post-sunset-show-photos",
       "source": "SPACE",
@@ -527,13 +597,6 @@
       "timestamp": 1779278080
     },
     {
-      "title": "The Internet can't stop watching Figure AI's humanoid robots handling packages",
-      "link": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779274834
-    },
-    {
       "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
       "link": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
       "source": "BLEEPINGCOMPUTER",
@@ -546,13 +609,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1779273936
-    },
-    {
-      "title": "'Let's Do the Protestant Reformation Inside Star Wars' — Damon Lindelof Reveals New Details on His Canceled Version of Daisy Ridley's New Jedi Order Movie",
-      "link": "https://www.ign.com/articles/lets-do-the-protestant-reformation-inside-star-wars-damon-lindelof-reveals-new-details-on-his-canceled-version-of-daisy-ridleys-new-jedi-order-movie",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779272504
     },
     {
       "title": "Scientists use light to create tiny molecules that could transform medicine",
@@ -574,20 +630,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1779269715
-    },
-    {
-      "title": "Open-World Lord of Rings RPG and New Kingdom Come Game Confirmed in Development at Warhorse Studios",
-      "link": "https://www.ign.com/articles/open-world-lord-of-rings-rpg-and-new-kingdom-come-game-confirmed-in-development-at-warhorse-studios",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779269436
-    },
-    {
-      "title": "Embracer 'Actively Exploring' External Partnerships for the Likes of Saints Row, Deus Ex, TimeSplitters, and More",
-      "link": "https://www.ign.com/articles/embracer-actively-exploring-external-partnerships-for-the-likes-of-saints-row-deus-ex-timesplitters-and-more",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779266033
     },
     {
       "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
@@ -618,13 +660,6 @@
       "timestamp": 1779258138
     },
     {
-      "title": "Knicks pull off epic Game 1 comeback over Cavaliers as Jalen Brunson turns James Harden into a red carpet",
-      "link": "https://www.cbssports.com/nba/news/knicks-cavaliers-comeback-jalen-brunson-james-harden-nba-playoffs-ecf-game-1/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779254375
-    },
-    {
       "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
       "link": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
       "source": "BLEEPINGCOMPUTER",
@@ -644,20 +679,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1779251346
-    },
-    {
-      "title": "The Knicks are looking more and more like a team of destiny with each passing win",
-      "link": "https://www.cbssports.com/nba/news/knicks-nba-playoffs-team-of-destiny-ecf-game-1-cavaliers/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779251001
-    },
-    {
-      "title": "2026 NBA playoff bracket, schedule: Knicks pull off historic comeback to take Game 1 over Cavaliers",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779249091
     },
     {
       "title": "Humpback whale breaks migration record with 15,000 kilometer ocean journey",
@@ -756,27 +777,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1779163979
-    },
-    {
-      "title": "String theory suddenly emerged from simple physics rules",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260518041424.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1779163357
-    },
-    {
-      "title": "NASA’s powerful Roman Space Telescope is about to transform astronomy",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260518041345.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1779152484
-    },
-    {
-      "title": "Hidden sugar patterns on human cells could reveal cancer early",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260517211431.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1779148634
     }
   ]
 }
