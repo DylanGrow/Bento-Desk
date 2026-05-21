@@ -1,6 +1,55 @@
 {
-  "last_updated": 1779333883,
+  "last_updated": 1779349642,
   "items": [
+    {
+      "title": "GitHub links repo breach to TanStack npm supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779346441
+    },
+    {
+      "title": "Truecaller gets into the eSIM business to diversify its revenue streams",
+      "link": "https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779343200
+    },
+    {
+      "title": "General Catalyst just led a $63M bet on India’s travel payments market",
+      "link": "https://techcrunch.com/2026/05/20/indian-travel-fintech-scapia-more-than-doubles-valuation-to-over-500m-in-a-year/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779342758
+    },
+    {
+      "title": "Scientists discover the nutrient that can supercharge cellular energy",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260520233221.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779341674
+    },
+    {
+      "title": "Thunder even series vs. Spurs: Shai Gilgeous-Alexander's MVP response, San Antonio turnovers among Game 2 keys",
+      "link": "https://www.cbssports.com/nba/news/thunder-spurs-game-2-shai-gilgeous-alexander-victor-wembanyama-isaiah-hartenstein-stephon-castle/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779341424
+    },
+    {
+      "title": "MIT scientists discover amino acid that helps the gut heal itself",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260520233223.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779338433
+    },
+    {
+      "title": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering",
+      "link": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779336000
+    },
     {
       "title": "UNESCO warns a tsunami in the Mediterranean is inevitable",
       "link": "https://www.sciencedaily.com/releases/2026/05/260520093719.htm",
@@ -86,17 +135,17 @@
       "timestamp": 1779317767
     },
     {
-      "title": "Clouted wants to take the guesswork out of making short videos go viral",
-      "link": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779316245
-    },
-    {
       "title": "Spurs vs. Thunder odds, prediction: 2026 NBA Western Conference finals picks, Game 2 best bets by proven model",
       "link": "https://www.cbssports.com/nba/news/spurs-thunder-odds-prediction-spread-line-time-2026-nba-western-conference-finals-picks-game-2-best-bets/",
       "source": "CBSSPORTS",
       "category": "nba",
+      "timestamp": 1779316245
+    },
+    {
+      "title": "Clouted wants to take the guesswork out of making short videos go viral",
+      "link": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
       "timestamp": 1779316245
     },
     {
@@ -331,25 +380,11 @@
       "timestamp": 1779302285
     },
     {
-      "title": "Tesla’s Full Self-Driving software is creeping into Europe",
-      "link": "https://techcrunch.com/2026/05/20/teslas-full-self-driving-software-is-creeping-into-europe/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779301926
-    },
-    {
       "title": "Minnesota prohibits prediction markets, promptly gets sued by Trump admin",
       "link": "https://arstechnica.com/tech-policy/2026/05/minnesota-prohibits-prediction-markets-promptly-gets-sued-by-trump-admin/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1779301256
-    },
-    {
-      "title": "Airbnb gets into hotels, expands AI for host onboarding and customer support",
-      "link": "https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779300844
     },
     {
       "title": "Mavericks next coach predictions: Spurs assistant Sean Sweeney the top contender to replace Jason Kidd",
@@ -364,13 +399,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779300000
-    },
-    {
-      "title": "Global EV market goes K-shaped as the US gets left behind",
-      "link": "https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779298440
     },
     {
       "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
@@ -553,13 +581,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779281549
-    },
-    {
-      "title": "Dylan Harper may be putting De'Aaron Fox on Wally Pipp watch, but WCF Game 1 reminded us of Fox's importance",
-      "link": "https://www.cbssports.com/nba/news/deaaron-fox-spurs-nba-playoffs-game-1-dylan-harper/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779281488
     },
     {
       "title": "Scientists discover massive natural hydrogen source beneath Canada",
@@ -751,32 +772,11 @@
       "timestamp": 1779217200
     },
     {
-      "title": "Microsoft plans to improve Windows 11 driver quality in 2026",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-improve-windows-11-driver-quality-in-2026/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779207750
-    },
-    {
       "title": "Scientists were wrong about this “rule-breaking” particle",
       "link": "https://www.sciencedaily.com/releases/2026/05/260518041439.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1779197227
-    },
-    {
-      "title": "Rare graves reveal a lost world of Bronze Age Europe hidden for 3,000 years",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260518041445.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1779182398
-    },
-    {
-      "title": "A strange ripple in spacetime could be the first fingerprint of dark matter",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260518041429.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1779163979
     }
   ]
 }
