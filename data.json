@@ -1,6 +1,76 @@
 {
-  "last_updated": 1779386074,
+  "last_updated": 1779393033,
   "items": [
+    {
+      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+      "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779392700
+    },
+    {
+      "title": "Forget ‘TechnoKing’: Elon Musk will really be king at SpaceX",
+      "link": "https://techcrunch.com/2026/05/21/forget-technoking-elon-musk-will-really-be-king-at-spacex/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779392121
+    },
+    {
+      "title": "Law enforcement shuts down VPN service used by two dozen ransomware gangs",
+      "link": "https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779392019
+    },
+    {
+      "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+      "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779391145
+    },
+    {
+      "title": "We talk to 'For All Mankind' star Mireille Enos about crafting Happy Valley's tough Martian cop",
+      "link": "https://www.space.com/entertainment/space-movies-shows/we-talk-to-for-all-mankind-star-mireille-enos-about-crafting-happy-valleys-tough-martian-cop",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779390000
+    },
+    {
+      "title": "Use DraftKings promo code for $100 in bonus bets by targeting Knicks-Cavaliers, Canadiens-Hurricanes Thursday",
+      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-100-bonus-bets-targeting-knicks-cavaliers-canadiens-hurricanes-thursday/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779389696
+    },
+    {
+      "title": "Zillow loses thousands of listings in fight over “hidden” homes",
+      "link": "https://arstechnica.com/tech-policy/2026/05/zillow-loses-access-to-thousands-of-home-listings-amid-bitter-legal-feud/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779388538
+    },
+    {
+      "title": "Looking for epic 'Star Wars: The Mandalorian and Grogu' merch? 'This is the way' to Grogu Crocs, Lego & more",
+      "link": "https://www.space.com/entertainment/unmissable-mandalorian-and-grogu-gifts-ahead-of-the-movie-release",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779388200
+    },
+    {
+      "title": "Google accidentally exposed details of unfixed Chromium flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779387230
+    },
+    {
+      "title": "This exoplanet weather forecast by the James Webb Space Telescope calls for sandy skies and a clear (alien) sunset",
+      "link": "https://www.space.com/astronomy/james-webb-space-telescope/this-exoplanet-weather-forecast-by-the-james-webb-space-telescope-calls-for-sandy-skies-and-a-clear-alien-sunset",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779386460
+    },
     {
       "title": "Convective Capital raises an $85 million fund to build disaster resilience",
       "link": "https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/",
@@ -79,7 +149,7 @@
       "timestamp": 1779382255
     },
     {
-      "title": "Top Gun turns 40",
+      "title": "Stunning aerial footage still best thing about Top Gun at 40",
       "link": "https://arstechnica.com/culture/2026/05/top-gun-turns-40/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -107,13 +177,6 @@
       "timestamp": 1779379200
     },
     {
-      "title": "Who is Embo, the enigmatic villain in 'The Mandalorian & Grogu'?",
-      "link": "https://www.space.com/entertainment/space-movies-shows/who-is-embo-the-enigmatic-villain-in-the-mandalorian-and-grogu",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779379200
-    },
-    {
       "title": "New Call of Duty Studio Heads on Redefining Infinity Ward’s DNA in 2026, Mourning Vince Zampella",
       "link": "https://www.ign.com/articles/new-call-of-duty-studio-heads-redefining-infinity-ward-dna-in-2026-mourning-vince-zampella",
       "source": "IGN",
@@ -125,6 +188,13 @@
       "link": "https://www.ign.com/articles/sinners-haunted-house-halloween-horror-nights",
       "source": "IGN",
       "category": "gaming",
+      "timestamp": 1779379200
+    },
+    {
+      "title": "Who is Embo, the enigmatic villain in 'The Mandalorian & Grogu'?",
+      "link": "https://www.space.com/entertainment/space-movies-shows/who-is-embo-the-enigmatic-villain-in-the-mandalorian-and-grogu",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1779379200
     },
     {
@@ -289,13 +359,6 @@
       "timestamp": 1779371616
     },
     {
-      "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
-      "link": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779371543
-    },
-    {
       "title": "Fallout 4 on Consoles Will Soon Let You Add More Mods",
       "link": "https://www.ign.com/articles/fallout-4-on-consoles-will-soon-let-you-add-more-mods",
       "source": "IGN",
@@ -310,25 +373,11 @@
       "timestamp": 1779371318
     },
     {
-      "title": "Wayve’s self-driving tech is headed to US cars made by Stellantis",
-      "link": "https://techcrunch.com/2026/05/21/wayves-self-driving-tech-is-headed-to-us-cars-made-by-stellantis/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779371167
-    },
-    {
       "title": "The Pokémon Company Considers Government ID Check to Combat Trading Card Scalping in Japan",
       "link": "https://www.ign.com/articles/the-pokmon-company-considers-government-id-check-to-combat-trading-card-scalping-in-japan",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1779371045
-    },
-    {
-      "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
-      "link": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779370722
     },
     {
       "title": "Plug-in hybrids get plugged in more than you might think",
@@ -343,13 +392,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1779370308
-    },
-    {
-      "title": "Flipper unveils a Linux-powered networking gadget built for hackers and tinkerers",
-      "link": "https://techcrunch.com/2026/05/21/flipper-unveils-a-linux-powered-networking-gadget-built-for-hackers-and-tinkerers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779369937
     },
     {
       "title": "Police seize “First VPN” service used in ransomware, data theft attacks",
@@ -380,17 +422,17 @@
       "timestamp": 1779368409
     },
     {
-      "title": "How one disappointing night changed the way I plan my astrotourism adventures",
-      "link": "https://www.space.com/stargazing/how-one-disappointing-night-changed-the-way-i-plan-my-astrotourism-adventures",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779368400
-    },
-    {
       "title": "Avatar: The Last Airbender Season 2 Trailer Shows Toph Mentoring Aang",
       "link": "https://www.ign.com/articles/avatar-the-last-airbender-season-2-trailer-shows-toph-mentoring-aang",
       "source": "IGN",
       "category": "gaming",
+      "timestamp": 1779368400
+    },
+    {
+      "title": "How one disappointing night changed the way I plan my astrotourism adventures",
+      "link": "https://www.space.com/stargazing/how-one-disappointing-night-changed-the-way-i-plan-my-astrotourism-adventures",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1779368400
     },
     {
@@ -618,13 +660,6 @@
       "timestamp": 1779306814
     },
     {
-      "title": "Today's top games to watch, best bets, odds: Spurs vs. Thunder, Golden Knights vs. Avalanche and more",
-      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-spurs-vs-thunder-golden-knights-vs-avalanche-and-more/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779305441
-    },
-    {
       "title": "SpaceX stacks Starship V3 rocket, completes major fueling test ahead of debut launch",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-stacks-starship-v3-rocket-completes-major-fueling-test-ahead-of-debut-launch",
       "source": "SPACE",
@@ -674,13 +709,6 @@
       "timestamp": 1779302285
     },
     {
-      "title": "Minnesota prohibits prediction markets, promptly gets sued by Trump admin",
-      "link": "https://arstechnica.com/tech-policy/2026/05/minnesota-prohibits-prediction-markets-promptly-gets-sued-by-trump-admin/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779301256
-    },
-    {
       "title": "Where did Neptune's mysterious moon Nereid come from? It may be the only survivor of the planet's violent history",
       "link": "https://www.space.com/astronomy/neptune/where-did-neptunes-mysterious-moon-nereid-come-from-it-may-be-the-only-survivor-of-the-planets-violent-history",
       "source": "SPACE",
@@ -688,32 +716,11 @@
       "timestamp": 1779300000
     },
     {
-      "title": "Venus and the crescent moon dazzle in a spectacular post-sunset show (photos)",
-      "link": "https://www.space.com/stargazing/astrophotography/venus-and-the-crescent-moon-dazzle-in-a-spectacular-post-sunset-show-photos",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779296400
-    },
-    {
-      "title": "NASA satellite images uncover dramatic changes in Earth's nighttime lights",
-      "link": "https://www.space.com/astronomy/earth/is-earth-getting-brighter-at-night-its-complicated-new-nasa-black-marble-project-images-reveal",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779292800
-    },
-    {
       "title": "Grafana breach caused by missed token rotation after TanStack attack",
       "link": "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779291997
-    },
-    {
-      "title": "The moon shines with a swarm of stars tonight as Jupiter, Venus and Mercury line up nearby",
-      "link": "https://www.space.com/stargazing/the-moon-shines-with-a-swarm-of-stars-on-may-21-as-jupiter-venus-and-mercury-line-up-nearby",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779289200
     },
     {
       "title": "Identity Alone Isn't Enough: Why Device Security Has to Share the Load",
@@ -770,13 +777,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1779269715
-    },
-    {
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779264848
     }
   ]
 }
