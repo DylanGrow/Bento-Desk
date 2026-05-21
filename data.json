@@ -1,6 +1,62 @@
 {
-  "last_updated": 1779349642,
+  "last_updated": 1779362410,
   "items": [
+    {
+      "title": "Beauty booking startup Fresha hits $1 billion valuation with KKR backing",
+      "link": "https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779361200
+    },
+    {
+      "title": "Flipper One project needs community help to build open Linux platform",
+      "link": "https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779361200
+    },
+    {
+      "title": "The Boys Showrunner Explains Queen Maeve No-Show in Series Finale",
+      "link": "https://www.ign.com/articles/the-boys-showrunner-explains-queen-maeve-no-show-in-series-finale",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779358266
+    },
+    {
+      "title": "Splitgate Dev Announces Titanfall-Inspired Shooter Empulse",
+      "link": "https://www.ign.com/articles/splitgate-dev-announces-titanfall-inspired-shooter-empulse",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779357264
+    },
+    {
+      "title": "SpaceX will launch its 1st-ever Starship V3 megarocket today. The stakes couldn't be higher",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-its-1st-ever-starship-v3-megarocket-today-the-stakes-couldnt-be-higher",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779357008
+    },
+    {
+      "title": "Sony Quietly Increased the Price of PlayStation Plus Extra and Premium Subscriptions, Too",
+      "link": "https://www.ign.com/articles/sony-quietly-increased-the-price-of-playstation-plus-extra-and-premium-subscriptions-too",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779352838
+    },
+    {
+      "title": "Schwarzenegger Reveals King Conan Will Shoot in 2027",
+      "link": "https://www.ign.com/articles/schwarzenegger-reveals-king-conan-will-shoot-in-2027",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779350418
+    },
+    {
+      "title": "Microsoft warns of new Defender zero-days exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779349788
+    },
     {
       "title": "GitHub links repo breach to TanStack npm supply-chain attack",
       "link": "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/",
@@ -135,17 +191,17 @@
       "timestamp": 1779317767
     },
     {
-      "title": "Spurs vs. Thunder odds, prediction: 2026 NBA Western Conference finals picks, Game 2 best bets by proven model",
-      "link": "https://www.cbssports.com/nba/news/spurs-thunder-odds-prediction-spread-line-time-2026-nba-western-conference-finals-picks-game-2-best-bets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779316245
-    },
-    {
       "title": "Clouted wants to take the guesswork out of making short videos go viral",
       "link": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
       "source": "TECHCRUNCH",
       "category": "tech",
+      "timestamp": 1779316245
+    },
+    {
+      "title": "Spurs vs. Thunder odds, prediction: 2026 NBA Western Conference finals picks, Game 2 best bets by proven model",
+      "link": "https://www.cbssports.com/nba/news/spurs-thunder-odds-prediction-spread-line-time-2026-nba-western-conference-finals-picks-game-2-best-bets/",
+      "source": "CBSSPORTS",
+      "category": "nba",
       "timestamp": 1779316245
     },
     {
@@ -154,13 +210,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1779315968
-    },
-    {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Spurs-Thunder, Avalanche-Golden Knights today",
-      "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-spurs-thunder-avalanche-golden-knights-wednesday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779315442
     },
     {
       "title": "Space debris is forcing satellites to dodge more often — costing us vital science. 'Things will get worse before they get better'",
@@ -310,13 +359,6 @@
       "timestamp": 1779306814
     },
     {
-      "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
-      "link": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779306440
-    },
-    {
       "title": "Today's top games to watch, best bets, odds: Spurs vs. Thunder, Golden Knights vs. Avalanche and more",
       "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-spurs-vs-thunder-golden-knights-vs-avalanche-and-more/",
       "source": "CBSSPORTS",
@@ -450,7 +492,7 @@
       "timestamp": 1779291613
     },
     {
-      "title": "The moon shines with a swarm of stars on May 21 as Jupiter, Venus and Mercury line-up nearby",
+      "title": "The moon shines with a swarm of stars tonight as Jupiter, Venus and Mercury line up nearby",
       "link": "https://www.space.com/stargazing/the-moon-shines-with-a-swarm-of-stars-on-may-21-as-jupiter-venus-and-mercury-line-up-nearby",
       "source": "SPACE",
       "category": "space",
@@ -583,25 +625,18 @@
       "timestamp": 1779281549
     },
     {
+      "title": "Dylan Harper may be putting De'Aaron Fox on Wally Pipp watch, but WCF Game 1 reminded us of Fox's importance",
+      "link": "https://www.cbssports.com/nba/news/deaaron-fox-spurs-nba-playoffs-game-1-dylan-harper/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779281488
+    },
+    {
       "title": "Scientists discover massive natural hydrogen source beneath Canada",
       "link": "https://www.sciencedaily.com/releases/2026/05/260519224317.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1779281174
-    },
-    {
-      "title": "Hellraiser: Revival Continues to Look Absolutely Disgusting in New Gameplay Trailer",
-      "link": "https://www.ign.com/articles/hellraiser-revival-continues-to-look-absolutely-disgusting-in-new-gameplay-trailer",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779279600
-    },
-    {
-      "title": "Sony Confirms State of Play June Date, Teases Fresh Look at Wolverine and More Games for PS5",
-      "link": "https://www.ign.com/articles/sony-confirms-state-of-play-june-date-teases-fresh-look-at-wolverine-and-more-games-for-ps5",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779279041
     },
     {
       "title": "The universe's 'most relaxed' galaxy cluster was shaped by cosmic violence, new study finds",
@@ -611,25 +646,11 @@
       "timestamp": 1779278400
     },
     {
-      "title": "Subnautica 2 Early Access Hotfix 1 Released, 'Adjustments' to Controversial Terms of Service Promised",
-      "link": "https://www.ign.com/articles/subnautica-2-early-access-hotfix-1-released-adjustments-to-controversial-terms-of-service-promised",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779278080
-    },
-    {
       "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
       "link": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779274351
-    },
-    {
-      "title": "Two-and-a-Half New Cars Added to Wreckfest 2 in Latest Early Access Update",
-      "link": "https://www.ign.com/articles/two-and-a-half-new-cars-added-to-wreckfest-2-in-latest-early-access-update",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779273936
     },
     {
       "title": "Scientists use light to create tiny molecules that could transform medicine",
@@ -639,7 +660,7 @@
       "timestamp": 1779271245
     },
     {
-      "title": "How to watch SpaceX launch its 1st Starship V3 megarocket on May 21",
+      "title": "How to watch SpaceX launch its 1st Starship V3 megarocket today",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-new-v3-starship-megarocket-for-1st-time-on-may-20-watch-live",
       "source": "SPACE",
       "category": "space",
@@ -749,27 +770,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779220800
-    },
-    {
-      "title": "FBI: Americans lost over $388 million to scams using crypto ATMs in 2025",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779219939
-    },
-    {
-      "title": "Microsoft Self-Service Password Reset abused in Azure data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779219332
-    },
-    {
-      "title": "'The Mandalorian and Grogu' clip reveals how Mando gets his Razor Crest spaceship back (video)",
-      "link": "https://www.space.com/entertainment/space-movies-shows/the-mandalorian-and-grogu-clip-reveals-how-mando-gets-his-razor-crest-spaceship-back-video",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779217200
     },
     {
       "title": "Scientists were wrong about this “rule-breaking” particle",
