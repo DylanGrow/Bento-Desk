@@ -1,12 +1,75 @@
 {
-  "last_updated": 1779404485,
+  "last_updated": 1779420280,
   "items": [
+    {
+      "title": "2026 NBA playoff bracket, schedule: Knicks take 2-0 lead vs. Cavaliers",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779417725
+    },
+    {
+      "title": "Ground system issue scrubs first launch of SpaceX's Starship V3 rocket",
+      "link": "https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779415537
+    },
+    {
+      "title": "SpaceX's 1st Starship V3 megarocket launch scrubbed at last minute. Sorry, Nicki Minaj",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-1st-starship-v3-megarocket-launch-scrubbed-at-last-minute-sorry-nicki-minaj",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779410821
+    },
+    {
+      "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
+      "link": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779410220
+    },
+    {
+      "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
+      "link": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779408467
+    },
+    {
+      "title": "Bungie Is Reportedly Planning 'Significant' Layoffs, Destiny 3 Not in the Works",
+      "link": "https://www.ign.com/articles/bungie-is-reportedly-planning-significant-layoffs-destiny-3-not-in-the-works",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779408327
+    },
+    {
+      "title": "Knicks vs. Cavaliers odds: Game 2 prediction as New York carries momentum after huge comeback",
+      "link": "https://www.cbssports.com/nba/news/knicks-cavaliers-odds-game-2-prediction-tv-channel/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779406700
+    },
+    {
+      "title": "The Odyssey's Runtime Has Been Revealed and It's One of Christopher Nolan's Longest Films",
+      "link": "https://www.ign.com/articles/the-odysseys-runtime-revealed-one-of-christopher-nolans-longest-films",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779406096
+    },
     {
       "title": "2026 NBA Eastern Conference finals odds, predictions: Knicks vs. Cavaliers Game 2 picks by expert on 84-51 run",
       "link": "https://www.cbssports.com/nba/news/2026-nba-eastern-conference-finals-odds-predictions-time-knicks-cavaliers-game-2-picks/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1779403584
+    },
+    {
+      "title": "Destiny 2 Fans React to Bungie Ending Support for the Game",
+      "link": "https://www.ign.com/articles/destiny-2-fans-react-to-bungie-ending-support-for-the-game",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779403178
     },
     {
       "title": "IoT gadget maker AcuRite shares reasoning for killing customers’ favorite app",
@@ -128,8 +191,8 @@
       "timestamp": 1779392700
     },
     {
-      "title": "Forget ‘TechnoKing’: Elon Musk will really be king at SpaceX",
-      "link": "https://techcrunch.com/2026/05/21/forget-technoking-elon-musk-will-really-be-king-at-spacex/",
+      "title": "How Elon Musk will increase his power through the SpaceX IPO",
+      "link": "https://techcrunch.com/2026/05/21/how-elon-musk-will-increase-his-power-through-the-spacex-ipo/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1779392121
@@ -296,17 +359,17 @@
       "timestamp": 1779379637
     },
     {
-      "title": "This young startup is taking on a fragrance industry that hasn’t changed in almost half a century",
-      "link": "https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779379200
-    },
-    {
       "title": "Who is Embo, the enigmatic villain in 'The Mandalorian & Grogu'?",
       "link": "https://www.space.com/entertainment/space-movies-shows/who-is-embo-the-enigmatic-villain-in-the-mandalorian-and-grogu",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1779379200
+    },
+    {
+      "title": "This young startup is taking on a fragrance industry that hasn’t changed in almost half a century",
+      "link": "https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
       "timestamp": 1779379200
     },
     {
@@ -315,20 +378,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1779379200
-    },
-    {
-      "title": "Sinners Haunted House Coming to Halloween Horror Nights in Hollywood and Orlando",
-      "link": "https://www.ign.com/articles/sinners-haunted-house-halloween-horror-nights",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779379200
-    },
-    {
-      "title": "Warhammer Skulls 2026 Live Updates: All the Biggest Game Reveals",
-      "link": "https://www.ign.com/articles/warhammer-skulls-2026-live-updates-reveals",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779377459
     },
     {
       "title": "Spotify takes on Google’s NotebookLM with its new app",
@@ -387,13 +436,6 @@
       "timestamp": 1779375600
     },
     {
-      "title": "Blizzard Admits It Messed Up Overwatch’s 10th Anniversary Event, but Insists It’s ‘Happy With Where the Game Is Today’",
-      "link": "https://www.ign.com/articles/blizzard-admits-it-messed-up-overwatchs-10th-anniversary-event-but-insists-its-happy-with-where-the-game-is-today",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779374773
-    },
-    {
       "title": "Knicks vs. Cavaliers: Five questions for Game 2 as Cleveland tries to rebound from historic collapse",
       "link": "https://www.cbssports.com/nba/news/knicks-cavaliers-five-questions-game-2/",
       "source": "CBSSPORTS",
@@ -401,25 +443,11 @@
       "timestamp": 1779374221
     },
     {
-      "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
-      "link": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779373666
-    },
-    {
       "title": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet",
       "link": "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779372010
-    },
-    {
-      "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
-      "link": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779372000
     },
     {
       "title": "Chinese hackers target telcos with new Linux, Windows malware",
@@ -590,13 +618,6 @@
       "timestamp": 1779333258
     },
     {
-      "title": "2026 NBA playoff bracket, schedule: Thunder even series vs. Spurs with WCF Game 2 win",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779332792
-    },
-    {
       "title": "Scientists solve 320-million-year mystery of reptile bone armor",
       "link": "https://www.sciencedaily.com/releases/2026/05/260520093709.htm",
       "source": "SCIENCEDAILY",
@@ -646,13 +667,6 @@
       "timestamp": 1779314281
     },
     {
-      "title": "2026 NBA Western Conference finals odds, predictions: Thunder vs. Spurs Game 2 picks by expert on 132-92 run",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-western-conference-finals-odds-predictions-spread-thunder-spurs-game-2-expert-picks-best-bets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779313534
-    },
-    {
       "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
       "link": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
       "source": "BLEEPINGCOMPUTER",
@@ -700,20 +714,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779304800
-    },
-    {
-      "title": "\"Ryzen 5800X3D 10th Anniversary Edition\" may help you avoid paying for a new PC",
-      "link": "https://arstechnica.com/gadgets/2026/05/amd-reportedly-plans-ryzen-5800x3d-re-release-for-upgraders-on-a-budget/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779304784
-    },
-    {
-      "title": "US military test-launches nuclear-capable ICBM from California (photos)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/us-military-test-launches-nuclear-capable-icbm-from-california-photos",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779303600
     },
     {
       "title": "Grafana breach caused by missed token rotation after TanStack attack",
