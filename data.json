@@ -1,6 +1,104 @@
 {
-  "last_updated": 1779466970,
+  "last_updated": 1779475908,
   "items": [
+    {
+      "title": "Starship V3 from space: Satellite snaps amazing photo of SpaceX megarocket on the pad",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/starship-v3-from-space-satellite-snaps-amazing-photo-of-spacex-megarocket-on-the-pad",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779474600
+    },
+    {
+      "title": "Spurs vs. Thunder odds, prediction: Game 3 pick as West Finals shift to San Antonio",
+      "link": "https://www.cbssports.com/nba/news/spurs-thunder-odds-prediction-game-3-pick-tv-channel/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779472872
+    },
+    {
+      "title": "Don't wait for the full moon: Here's when the moon looks best through a telescope",
+      "link": "https://www.space.com/stargazing/dont-wait-for-the-full-moon-heres-when-the-moon-looks-best-through-a-telescope",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779472800
+    },
+    {
+      "title": "Tom Hardy Might Be Dropped from MobLand After Reportedly Clashing With Cast and Crew",
+      "link": "https://www.ign.com/articles/tom-hardy-might-be-dropped-from-mobland-after-reportedly-clashing-with-cast-and-crew",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779471833
+    },
+    {
+      "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779470692
+    },
+    {
+      "title": "Soaring solar and a surge in hydro push more coal off the US grid",
+      "link": "https://arstechnica.com/science/2026/05/soaring-solar-and-a-surge-in-hydro-push-more-coal-off-the-us-grid/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779470562
+    },
+    {
+      "title": "LEGO Star Wars Designer Highlights the Ideas Sets He Helped Bring to Life",
+      "link": "https://www.ign.com/articles/lego-star-wars-designer-highlights-the-ideas-sets-he-helped-bring-to-life",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779469260
+    },
+    {
+      "title": "Shakeup at JPL? Control over iconic NASA center could change for 1st time in nearly 100 years",
+      "link": "https://www.space.com/space-exploration/shakeup-at-jpl-control-over-iconic-nasa-center-could-change-for-1st-time-in-nearly-100-years",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779469200
+    },
+    {
+      "title": "Thunder vs. Spurs odds, prediction: 2026 NBA Western Conference finals picks, Game 3 best bets by proven model",
+      "link": "https://www.cbssports.com/nba/news/thunder-spurs-odds-prediction-spread-time-2026-nba-western-conference-finals-picks-game-3-best-bets/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779469031
+    },
+    {
+      "title": "Trump abruptly cancels EO signing event after top AI firm CEOs declined to go",
+      "link": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779468700
+    },
+    {
+      "title": "'The Mandalorian and Grogu' is better viewed as a 'Star Wars' origin story for Rotta the Hutt",
+      "link": "https://www.space.com/entertainment/space-movies-shows/the-mandalorian-and-grogu-is-better-viewed-as-a-star-wars-origin-story-for-rotta-the-hutt",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779467400
+    },
+    {
+      "title": "Kash Patel’s clothing brand website shut down after reports it was hacked",
+      "link": "https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779467286
+    },
+    {
+      "title": "Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers",
+      "link": "https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779467277
+    },
+    {
+      "title": "The Steam Controller’s “drop-in” charger almost started a fire for this owner",
+      "link": "https://arstechnica.com/gaming/2026/05/psa-the-steam-controllers-magnetic-charger-can-be-a-fire-hazard/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779467051
+    },
     {
       "title": "Spotify’s AI bet: more of everything, less of what you want",
       "link": "https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/",
@@ -28,6 +126,20 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779465600
+    },
+    {
+      "title": "Crimson Desert Update 1.08.00 Adds a Pond to Your Camp, a Cute Baby Wyvern as a Pet, and a Lot More",
+      "link": "https://www.ign.com/articles/crimson-desert-update-10800-adds-a-pond-to-your-camp-a-cute-baby-wyvern-as-a-pet-and-a-lot-more",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779465264
+    },
+    {
+      "title": "Vought Rising Teaser Takes Soldier Boy to 1950 as The Boys Spin-off Explores the World's First Supes",
+      "link": "https://www.ign.com/articles/vought-rising-teaser-takes-soldier-boy-to-1950-as-the-boys-spin-off-explores-the-worlds-first-supes",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779464472
     },
     {
       "title": "We tried Google’s AI glasses and they’re almost there",
@@ -72,11 +184,18 @@
       "timestamp": 1779460252
     },
     {
-      "title": "Spurs vs. Thunder odds, prediction: Game 3 pick as West Finals shift to San Antonio",
-      "link": "https://www.cbssports.com/nba/news/spurs-thunder-odds-prediction-game-3-pick-tv-channel/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779460237
+      "title": "SpaceX files to go public, and the math requires a little faith",
+      "link": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779460200
+    },
+    {
+      "title": "NASA undertakes major reorganization to reduce bureaucracy and move faster",
+      "link": "https://arstechnica.com/space/2026/05/to-achieve-major-goals-nasa-seeks-to-streamline-its-organization/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779460122
     },
     {
       "title": "Meta quietly launches a new Reddit-like app called Forum",
@@ -91,13 +210,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1779458756
-    },
-    {
-      "title": "2026 NBA Western Conference finals odds, predictions: Thunder vs. Spurs Game 3 picks by expert on 134-94 run",
-      "link": "https://www.cbssports.com/nba/news/2026-western-conference-finals-odds-nba-playoff-predictions-thunder-spurs-game-3-picks/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779458682
     },
     {
       "title": "Smart ring maker Oura files to go public",
@@ -121,7 +233,7 @@
       "timestamp": 1779458400
     },
     {
-      "title": "Audio generation app Huxe, founded by former NotebookLM developers, shuts down",
+      "title": "Audio-generation app Huxe, founded by former NotebookLM developers, shuts down",
       "link": "https://techcrunch.com/2026/05/22/audio-generation-app-huxe-founded-by-former-notebooklm-developers-shuts-down/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -240,13 +352,6 @@
       "timestamp": 1779448843
     },
     {
-      "title": "Thunder vs. Spurs odds, prediction: 2026 NBA Western Conference finals picks, Game 3 best bets by proven model",
-      "link": "https://www.cbssports.com/nba/news/thunder-spurs-odds-prediction-spread-2026-nba-western-conference-finals-picks-game-3-best-bets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779448670
-    },
-    {
       "title": "The $58,000 TV bill: When DirecTV sued O.J. Simpson for piracy",
       "link": "https://arstechnica.com/tech-policy/2026/05/the-58000-tv-bill-when-directv-sued-o-j-simpson-for-piracy/",
       "source": "ARSTECHNICA",
@@ -282,7 +387,7 @@
       "timestamp": 1779432423
     },
     {
-      "title": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
+      "title": "Finnish phone maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
       "link": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -450,6 +555,13 @@
       "timestamp": 1779397142
     },
     {
+      "title": "2026 NBA Mock Draft: Adam Finkelstein's first post-combine mock features intel that shakes up late-round picks",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-mock-draft-first-post-combine/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779395681
+    },
+    {
       "title": "Red Dead Redemption 2 Overtakes Wii Sports in Best-Selling Games of All Time List",
       "link": "https://www.ign.com/articles/red-dead-redemption-2-overtakes-wii-sports-in-best-selling-games-of-all-time-list",
       "source": "IGN",
@@ -483,27 +595,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779393600
-    },
-    {
-      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
-      "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779392700
-    },
-    {
-      "title": "How Elon Musk will increase his power through the SpaceX IPO",
-      "link": "https://techcrunch.com/2026/05/21/how-elon-musk-will-increase-his-power-through-the-spacex-ipo/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779392121
-    },
-    {
-      "title": "Law enforcement shuts down VPN service used by two dozen ransomware gangs",
-      "link": "https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779392019
     },
     {
       "title": "JWST maps the weather on a hot gas giant 700 light-years away",
@@ -569,39 +660,11 @@
       "timestamp": 1779382810
     },
     {
-      "title": "Nikon Action 16x50 binoculars review",
-      "link": "https://www.space.com/stargazing/skywatching-kit/nikon-action-16x50-binoculars-review",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779382800
-    },
-    {
       "title": "Warhammer 40,000: Chaos Gate – Deathwatch Announced at Warhammer Skulls 2026",
       "link": "https://www.ign.com/articles/warhammer-40000-chaos-gate-deathwatch-announced-at-warhammer-skulls-2026",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1779382703
-    },
-    {
-      "title": "Helldivers 2 Is Getting a Warhammer 40,000 Legendary Warbond",
-      "link": "https://www.ign.com/articles/helldivers-2-is-getting-a-warhammer-40000-legendary-warbond",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779382585
-    },
-    {
-      "title": "Everything Announced at Warhammer Skulls 2026",
-      "link": "https://www.ign.com/articles/everything-announced-at-warhammer-skulls-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779382400
-    },
-    {
-      "title": "Warhammer 40,000: Space Marine 2 Shadowdrops Purgation Update, Patch 13 Adds New PvE Mission and a Lot More",
-      "link": "https://www.ign.com/articles/warhammer-40000-space-marine-2-shadowdrops-purgation-update-patch-13-adds-new-pve-mission-and-a-lot-more",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779382255
     },
     {
       "title": "Stunning aerial footage still best thing about Top Gun at 40",
@@ -611,39 +674,11 @@
       "timestamp": 1779381763
     },
     {
-      "title": "New ‘Paradox Drive’ Expansion Coming to Pokémon TCG Pocket",
-      "link": "https://www.ign.com/articles/pokemon-tcg-pocket-announces-new-paradox-drive-expansion",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779379965
-    },
-    {
-      "title": "Uh-oh, the International Space Station is leaking again",
-      "link": "https://arstechnica.com/space/2026/05/uh-oh-the-international-space-station-is-leaking-again/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779379637
-    },
-    {
-      "title": "Who is Embo, the enigmatic villain in 'The Mandalorian & Grogu'?",
-      "link": "https://www.space.com/entertainment/space-movies-shows/who-is-embo-the-enigmatic-villain-in-the-mandalorian-and-grogu",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779379200
-    },
-    {
       "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
       "link": "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779376268
-    },
-    {
-      "title": "Lunar Outpost has big plans for the moon. The new Pegasus lunar rover is just the start",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/lunar-outpost-has-big-plans-for-the-moon-the-new-pegasus-rover-is-just-the-start",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779375600
     },
     {
       "title": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet",
@@ -660,32 +695,11 @@
       "timestamp": 1779372000
     },
     {
-      "title": "Strange stacked stones spotted on Mars | Space photo of the day for May 21, 2026",
-      "link": "https://www.space.com/astronomy/mars/strange-stacked-stones-spotted-on-mars-space-photo-of-the-day-for-may-21-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779372000
-    },
-    {
       "title": "Max severity Cisco Secure Workload flaw gives Site Admin privileges",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779371913
-    },
-    {
-      "title": "US government takes $2 billion equity stake in nine quantum computing firms",
-      "link": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779371318
-    },
-    {
-      "title": "Plug-in hybrids get plugged in more than you might think",
-      "link": "https://arstechnica.com/cars/2026/05/plug-in-hybrids-get-plugged-in-more-than-you-might-think/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779370493
     },
     {
       "title": "Childhood junk food may rewire the brain for life",
@@ -700,13 +714,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779368991
-    },
-    {
-      "title": "These clever active beam headlights are finally coming to America",
-      "link": "https://arstechnica.com/cars/2026/05/these-clever-active-beam-headlights-are-finally-coming-to-america/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779368409
     },
     {
       "title": "Common pesticide linked to hidden brain damage, scientists warn",
@@ -742,13 +749,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779349788
-    },
-    {
-      "title": "GitHub links repo breach to TanStack npm supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779346441
     },
     {
       "title": "Jupiter’s lightning may be 100x more powerful than Earth’s",
