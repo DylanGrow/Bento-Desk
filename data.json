@@ -1,12 +1,89 @@
 {
-  "last_updated": 1779475908,
+  "last_updated": 1779482491,
   "items": [
+    {
+      "title": "How VCs and founders use inflated ‘ARR’ to kingmake AI startups",
+      "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779482448
+    },
+    {
+      "title": "'Once you try these, you won’t want anything else'— Our binoculars expert rated these  as the best small binoculars they'd ever tested. Now at their best price of the year",
+      "link": "https://www.space.com/technology/once-you-try-these-you-wont-want-anything-else-our-binoculars-expert-rated-these-as-the-best-small-binoculars-theyd-ever-tested-now-at-their-best-price-of-the-year",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779480000
+    },
+    {
+      "title": "US scrambles to stop Internet users re-creating dead pilots’ voices",
+      "link": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779478744
+    },
+    {
+      "title": "Today's top games to watch, best bets, odds: Game 3 of Thunder vs. Spurs, Golden Knights vs. Avalanche, more",
+      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-game-3-of-thunder-vs-spurs-golden-knights-vs-avalanche-more/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779478229
+    },
+    {
+      "title": "Riot Games Says It 'Would Not and Cannot' Use Vanguard Anti-Cheat to Brick PCs After Rumors Spread",
+      "link": "https://www.ign.com/articles/riot-games-says-it-would-not-and-cannot-use-vanguard-anti-cheat-to-brick-pcs-after-rumors-spread",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779477536
+    },
+    {
+      "title": "The Boys is dead. Long live Vought Rising.",
+      "link": "https://arstechnica.com/culture/2026/05/the-boys-is-dead-long-live-vought-rising/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779476568
+    },
+    {
+      "title": "2026 NBA Western Conference finals odds, predictions: Thunder vs. Spurs Game 3 picks by expert on 134-94 run",
+      "link": "https://www.cbssports.com/nba/news/2026-western-conference-finals-odds-nba-playoff-predictions-thunder-spurs-game-3-picks-bets/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779476450
+    },
+    {
+      "title": "'For All Mankind's' Ruby Cruz and Ines Asserson on wearing those 'clunky' cool spacesuits and training with a Green Beret (interview)",
+      "link": "https://www.space.com/entertainment/space-movies-shows/for-all-mankinds-ruby-cruz-and-ines-asserson-on-wearing-those-clunky-cool-spacesuits-and-training-with-a-green-beret-interview",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779476400
+    },
+    {
+      "title": "Police boast of hacking VPN where criminals \"believed themselves to be safe\"",
+      "link": "https://arstechnica.com/tech-policy/2026/05/police-boast-of-hacking-vpn-where-criminals-believed-themselves-to-be-safe/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779475434
+    },
+    {
+      "title": "Review: The Mandalorian and Grogu is ... fine",
+      "link": "https://arstechnica.com/culture/2026/05/review-the-mandalorian-and-grogu-is-average-star-wars-no-more-no-less/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779474606
+    },
     {
       "title": "Starship V3 from space: Satellite snaps amazing photo of SpaceX megarocket on the pad",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/starship-v3-from-space-satellite-snaps-amazing-photo-of-spacex-megarocket-on-the-pad",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779474600
+    },
+    {
+      "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
+      "link": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779473585
     },
     {
       "title": "Spurs vs. Thunder odds, prediction: Game 3 pick as West Finals shift to San Antonio",
@@ -21,6 +98,20 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779472800
+    },
+    {
+      "title": "Before it comes down, what should be saved from the International Space Station?",
+      "link": "https://arstechnica.com/space/2026/05/before-it-comes-down-what-should-be-saved-from-the-international-space-station/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779472769
+    },
+    {
+      "title": "Marketer that claimed it could tap devices for ad targeting will pay $880K settlement",
+      "link": "https://arstechnica.com/tech-policy/2026/05/marketer-that-claimed-it-could-tap-devices-for-ad-targeting-will-pay-880k-settlement/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779472083
     },
     {
       "title": "Tom Hardy Might Be Dropped from MobLand After Reportedly Clashing With Cast and Crew",
@@ -163,13 +254,6 @@
       "timestamp": 1779463057
     },
     {
-      "title": "NBA player prop picks, odds: Three best 2026 NBA Playoffs prop bets for Thunder vs. Spurs, Game 3",
-      "link": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-three-best-2026-nba-playoffs-prop-bets-for-thunder-vs-spurs-game-3/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779461982
-    },
-    {
       "title": "Scientists uncover cancer-causing chemicals hidden in everyday foods",
       "link": "https://www.sciencedaily.com/releases/2026/05/260522030853.htm",
       "source": "SCIENCEDAILY",
@@ -261,20 +345,6 @@
       "timestamp": 1779455680
     },
     {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Thunder-Spurs, Avalanche-Golden Knights Friday",
-      "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-thunder-spurs-avalanche-golden-knights-friday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779455593
-    },
-    {
-      "title": "Use DraftKings promo code for $100 bonus bets by targeting Thunder-Spurs, Avalanche-Golden Knights on Friday",
-      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-100-bonus-bets-thunder-spurs-avalanche-golden-knights-friday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779455458
-    },
-    {
       "title": "Remembering NASCAR legend Kyle Busch; Knicks continue all-time playoff run",
       "link": "https://www.cbssports.com/general/news/remembering-nascar-legend-kyle-busch-knicks-continue-all-time-playoff-run/",
       "source": "CBSSPORTS",
@@ -324,15 +394,15 @@
       "timestamp": 1779451242
     },
     {
-      "title": "The moon will 'swallow' a star on May 23. But will you be able to see it?",
-      "link": "https://www.space.com/stargazing/the-moon-will-swallow-a-star-on-may-23-but-will-you-be-able-to-see-it",
+      "title": "Scientists thought Jupiter's moon Europa was ejecting water. Now they're not so sure",
+      "link": "https://www.space.com/astronomy/solar-system/hubble-telescope-watched-jupiters-moon-europa-for-14-years-and-now-scientists-arent-sure-if-its-ejecting-water-after-all",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779451200
     },
     {
-      "title": "Scientists thought Jupiter's moon Europa was ejecting water. Now they're not so sure",
-      "link": "https://www.space.com/astronomy/solar-system/hubble-telescope-watched-jupiters-moon-europa-for-14-years-and-now-scientists-arent-sure-if-its-ejecting-water-after-all",
+      "title": "The moon will 'swallow' a star on May 23. But will you be able to see it?",
+      "link": "https://www.space.com/stargazing/the-moon-will-swallow-a-star-on-may-23-but-will-you-be-able-to-see-it",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779451200
@@ -429,13 +499,6 @@
       "timestamp": 1779417713
     },
     {
-      "title": "Ground system issue scrubs first launch of SpaceX's Starship V3 rocket",
-      "link": "https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779415537
-    },
-    {
       "title": "SpaceX's 1st Starship V3 megarocket launch scrubbed at last minute. Sorry, Nicki Minaj",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-1st-starship-v3-megarocket-launch-scrubbed-at-last-minute-sorry-nicki-minaj",
       "source": "SPACE",
@@ -492,25 +555,11 @@
       "timestamp": 1779403178
     },
     {
-      "title": "IoT gadget maker AcuRite shares reasoning for killing customers’ favorite app",
-      "link": "https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779402394
-    },
-    {
       "title": "Sony Files Trademark for a Mysterious New Game Called Break In",
       "link": "https://www.ign.com/articles/sony-files-trademark-for-new-game-called-break-in",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1779402093
-    },
-    {
-      "title": "As Grok flounders, SpaceX bets future on beating Big Tech at AI",
-      "link": "https://arstechnica.com/ai/2026/05/as-grok-flounders-spacex-bets-future-on-beating-big-tech-at-ai/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779400286
     },
     {
       "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
@@ -532,20 +581,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1779398003
-    },
-    {
-      "title": "AT&T sues California in attempt to shut off old phone network",
-      "link": "https://arstechnica.com/tech-policy/2026/05/att-sues-california-in-attempt-to-shut-off-old-phone-network/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779397801
-    },
-    {
-      "title": "NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers",
-      "link": "https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779397242
     },
     {
       "title": "NBA player prop picks, odds: Three best 2026 NBA Playoffs prop bets for Cavaliers vs. Knicks, Game 2",
@@ -597,11 +632,11 @@
       "timestamp": 1779393600
     },
     {
-      "title": "JWST maps the weather on a hot gas giant 700 light-years away",
-      "link": "https://arstechnica.com/science/2026/05/jwst-maps-the-weather-on-a-hot-gas-giant-700-light-years-away/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779391563
+      "title": "Today's top games to watch, best bets, odds: Cavs vs. Knicks Game 2, Canadiens vs. Hurricanes Game 1 and MLB",
+      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-cavs-vs-knicks-game-2-canadiens-vs-hurricanes-game-1-and-mlb/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779391846
     },
     {
       "title": "We talk to 'For All Mankind' star Mireille Enos about crafting Happy Valley's tough Martian cop",
@@ -609,13 +644,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779390000
-    },
-    {
-      "title": "Zillow loses thousands of listings in fight over “hidden” homes",
-      "link": "https://arstechnica.com/tech-policy/2026/05/zillow-loses-access-to-thousands-of-home-listings-amid-bitter-legal-feud/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779388538
     },
     {
       "title": "Epic 'Star Wars: The Mandalorian and Grogu' merch has landed. 'This is the way' to Grogu Crocs, Lego & more",
@@ -632,13 +660,6 @@
       "timestamp": 1779387230
     },
     {
-      "title": "This exoplanet weather forecast by the James Webb Space Telescope calls for sandy skies and a clear (alien) sunset",
-      "link": "https://www.space.com/astronomy/james-webb-space-telescope/this-exoplanet-weather-forecast-by-the-james-webb-space-telescope-calls-for-sandy-skies-and-a-clear-alien-sunset",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779386460
-    },
-    {
       "title": "Bungie Walks Away From Destiny 2, Final Content Update Coming in June",
       "link": "https://www.ign.com/articles/bungie-walks-away-from-destiny-2-final-content-update-coming-in-june",
       "source": "IGN",
@@ -646,32 +667,11 @@
       "timestamp": 1779383977
     },
     {
-      "title": "'Stop lying!' Conspiracy theorist confronts Artemis 2 astronauts, accuses them of faking their moon mission",
-      "link": "https://www.space.com/space-exploration/artemis/stop-lying-conspiracy-theorist-confronts-artemis-2-astronauts-accuses-them-of-faking-their-moon-mission",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779383277
-    },
-    {
       "title": "The Big Warhammer 40,000: Dawn of War IV Interview: Year 1 Roadmap, New Playable Factions, and More",
       "link": "https://www.ign.com/articles/the-big-warhammer-40000-dawn-of-war-iv-interview-year-1-roadmap-new-playable-factions-and-more",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1779382810
-    },
-    {
-      "title": "Warhammer 40,000: Chaos Gate – Deathwatch Announced at Warhammer Skulls 2026",
-      "link": "https://www.ign.com/articles/warhammer-40000-chaos-gate-deathwatch-announced-at-warhammer-skulls-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779382703
-    },
-    {
-      "title": "Stunning aerial footage still best thing about Top Gun at 40",
-      "link": "https://arstechnica.com/culture/2026/05/top-gun-turns-40/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779381763
     },
     {
       "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
