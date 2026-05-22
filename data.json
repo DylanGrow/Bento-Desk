@@ -1,6 +1,111 @@
 {
-  "last_updated": 1779446851,
+  "last_updated": 1779456559,
   "items": [
+    {
+      "title": "Drupal: Critical SQL injection flaw now targeted in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779455680
+    },
+    {
+      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Thunder-Spurs, Avalanche-Golden Knights Friday",
+      "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-thunder-spurs-avalanche-golden-knights-friday/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779455593
+    },
+    {
+      "title": "Use DraftKings promo code for $100 bonus bets by targeting Thunder-Spurs, Avalanche-Golden Knights on Friday",
+      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-100-bonus-bets-thunder-spurs-avalanche-golden-knights-friday/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779455458
+    },
+    {
+      "title": "Remembering NASCAR legend Kyle Busch; Knicks continue all-time playoff run",
+      "link": "https://www.cbssports.com/general/news/remembering-nascar-legend-kyle-busch-knicks-continue-all-time-playoff-run/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779455376
+    },
+    {
+      "title": "Why Chargebacks are Just One Piece of the Fraud Puzzle",
+      "link": "https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779455358
+    },
+    {
+      "title": "NASA is updating its Artemis moon base plan. You can find out how on May 26.",
+      "link": "https://www.space.com/astronomy/moon/watch-live-nasa-updating-its-moon-base-plans-on-may-26",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779454800
+    },
+    {
+      "title": "Scientists warn that current vitamin B12 guidelines may be putting your brain at risk",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260522031001.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779453220
+    },
+    {
+      "title": "Ubiquiti patches three max severity UniFi OS vulnerabilities",
+      "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779451242
+    },
+    {
+      "title": "Scientists thought Jupiter's moon Europa was ejecting water. Now they're not so sure",
+      "link": "https://www.space.com/astronomy/solar-system/hubble-telescope-watched-jupiters-moon-europa-for-14-years-and-now-scientists-arent-sure-if-its-ejecting-water-after-all",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779451200
+    },
+    {
+      "title": "The moon will 'swallow' a star on May 23. But will you be able to see it?",
+      "link": "https://www.space.com/stargazing/the-moon-will-swallow-a-star-on-may-23-but-will-you-be-able-to-see-it",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779451200
+    },
+    {
+      "title": "First vaccines, now mammograms? RFK Jr.’s latest firings have doctors outraged.",
+      "link": "https://arstechnica.com/health/2026/05/doctors-outraged-after-rfk-jr-fires-leaders-of-key-preventive-medicine-panel/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779449438
+    },
+    {
+      "title": "Rocket Report: Starship launch delayed, German launch company may aid Canada",
+      "link": "https://arstechnica.com/space/2026/05/rocket-report-starship-launch-delayed-german-launch-company-may-aid-canada/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779448843
+    },
+    {
+      "title": "Thunder vs. Spurs odds, prediction: 2026 NBA Western Conference finals picks, Game 3 best bets by proven model",
+      "link": "https://www.cbssports.com/nba/news/thunder-spurs-odds-prediction-spread-2026-nba-western-conference-finals-picks-game-3-best-bets/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779448670
+    },
+    {
+      "title": "The $58,000 TV bill: When DirecTV sued O.J. Simpson for piracy",
+      "link": "https://arstechnica.com/tech-policy/2026/05/the-58000-tv-bill-when-directv-sued-o-j-simpson-for-piracy/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779447643
+    },
+    {
+      "title": "A hacker group is poisoning open source code at an unprecedented scale",
+      "link": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779445814
+    },
     {
       "title": "This cryptocurrency billionaire will fly SpaceX's 1st private Starship to Mars, but when?",
       "link": "https://www.space.com/space-exploration/private-spaceflight/this-cryptocurrency-billionaire-will-fly-spacexs-1st-private-starship-to-mars-but-when",
@@ -583,13 +688,6 @@
       "timestamp": 1779361200
     },
     {
-      "title": "SpaceX will launch its 1st-ever Starship V3 megarocket today. The stakes couldn't be higher",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-its-1st-ever-starship-v3-megarocket-today-the-stakes-couldnt-be-higher",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779357008
-    },
-    {
       "title": "Physicists finally solve the strange mystery of “breathing” lasers",
       "link": "https://www.sciencedaily.com/releases/2026/05/260520093759.htm",
       "source": "SCIENCEDAILY",
@@ -632,13 +730,6 @@
       "timestamp": 1779341674
     },
     {
-      "title": "Thunder even series vs. Spurs: Shai Gilgeous-Alexander's MVP response, San Antonio turnovers among Game 2 keys",
-      "link": "https://www.cbssports.com/nba/news/thunder-spurs-game-2-shai-gilgeous-alexander-victor-wembanyama-isaiah-hartenstein-stephon-castle/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779341424
-    },
-    {
       "title": "MIT scientists discover amino acid that helps the gut heal itself",
       "link": "https://www.sciencedaily.com/releases/2026/05/260520233223.htm",
       "source": "SCIENCEDAILY",
@@ -674,41 +765,6 @@
       "timestamp": 1779318169
     },
     {
-      "title": "LeBron James is reportedly unlikely to accept a minimum salary, which affects some suitors more than others",
-      "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-rumors-minimum-salary/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779317767
-    },
-    {
-      "title": "Spurs vs. Thunder odds, prediction: 2026 NBA Western Conference finals picks, Game 2 best bets by proven model",
-      "link": "https://www.cbssports.com/nba/news/spurs-thunder-odds-prediction-spread-line-time-2026-nba-western-conference-finals-picks-game-2-best-bets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779316245
-    },
-    {
-      "title": "Space debris is forcing satellites to dodge more often — costing us vital science. 'Things will get worse before they get better'",
-      "link": "https://www.space.com/space-exploration/satellites/space-debris-is-forcing-satellites-to-dodge-more-often-costing-us-vital-science-things-will-get-worse-before-they-get-better",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779315389
-    },
-    {
-      "title": "Trump admin didn't want Ebola-exposed Americans, sent them to Berlin, Prague",
-      "link": "https://arstechnica.com/health/2026/05/trump-admin-didnt-want-ebola-exposed-americans-sent-them-to-berlin-prague/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779314281
-    },
-    {
-      "title": "2026 NBA Western Conference finals odds, predictions: Thunder vs. Spurs Game 2 picks by expert on 132-92 run",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-western-conference-finals-odds-predictions-spread-thunder-spurs-game-2-expert-picks-best-bets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779313534
-    },
-    {
       "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
       "link": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
       "source": "BLEEPINGCOMPUTER",
@@ -716,67 +772,11 @@
       "timestamp": 1779312984
     },
     {
-      "title": "NASA's Psyche spacecraft returns unfamiliar views of a familiar world",
-      "link": "https://arstechnica.com/space/2026/05/nasas-psyche-spacecraft-returns-unfamiliar-views-of-a-familiar-world/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779312417
-    },
-    {
       "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779311957
-    },
-    {
-      "title": "Masters of the Universe final trailer brings the '80s nostalgia",
-      "link": "https://arstechnica.com/culture/2026/05/masters-of-the-universe-final-trailer-brings-the-80s-nostalgia/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779308979
-    },
-    {
-      "title": "Scientists find a hidden route to the moon that saves fuel",
-      "link": "https://www.space.com/astronomy/moon/scientists-find-a-hidden-route-to-the-moon-that-saves-fuel",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779307200
-    },
-    {
-      "title": "Leaving the V8 in the past: The all-electric Mercedes-AMG GT 4-Door",
-      "link": "https://arstechnica.com/cars/2026/05/leaving-the-v8-in-the-past-the-all-electric-mercedes-amg-gt-4-door/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779306814
-    },
-    {
-      "title": "Grafana breach caused by missed token rotation after TanStack attack",
-      "link": "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779291997
-    },
-    {
-      "title": "Identity Alone Isn't Enough: Why Device Security Has to Share the Load",
-      "link": "https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779285732
-    },
-    {
-      "title": "Scientists discover why Alzheimer’s risk hits women so much harder",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260519224312.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1779282272
-    },
-    {
-      "title": "Drupal critical update to fix bug with high exploitation risk",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779281549
     }
   ]
 }
