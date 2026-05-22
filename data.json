@@ -1,12 +1,54 @@
 {
-  "last_updated": 1779420280,
+  "last_updated": 1779435709,
   "items": [
+    {
+      "title": "Ancient asteroid craters may have sparked Earth’s oxygen-producing life",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260521072357.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779432423
+    },
+    {
+      "title": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
+      "link": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779432088
+    },
+    {
+      "title": "The Knicks might be on the best nine-game run in NBA history as they handle business in the weak East",
+      "link": "https://www.cbssports.com/nba/news/knicks-best-nine-game-run-nba-history-weak-east/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779426451
+    },
     {
       "title": "2026 NBA playoff bracket, schedule: Knicks take 2-0 lead vs. Cavaliers",
       "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
       "source": "CBSSPORTS",
       "category": "nba",
-      "timestamp": 1779417725
+      "timestamp": 1779425757
+    },
+    {
+      "title": "“Zombie cells” aren’t always bad and that could transform anti-aging medicine",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260521072402.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779424092
+    },
+    {
+      "title": "Scientists discover towering red auroras reaching deep into space above Japan",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260521072359.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779418947
+    },
+    {
+      "title": "James Webb discovers a rare giant planet with surprisingly Earth-like temperatures",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260521072355.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779417713
     },
     {
       "title": "Ground system issue scrubs first launch of SpaceX's Starship V3 rocket",
@@ -135,13 +177,6 @@
       "timestamp": 1779397142
     },
     {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Cavs-Knicks, Canadiens-Hurricanes on Thursday",
-      "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-cavs-knicks-canadiens-hurricanes-thursday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779396529
-    },
-    {
       "title": "2026 NBA Mock Draft: Adam Finkelstein's first post-combine mock features intel that shakes up late-round picks",
       "link": "https://www.cbssports.com/nba/news/2026-nba-mock-draft-first-post-combine/",
       "source": "CBSSPORTS",
@@ -177,7 +212,7 @@
       "timestamp": 1779394056
     },
     {
-      "title": "Watch Rocket Lab launch private Japanese Earth-observing satellite early on May 22",
+      "title": "Watch Rocket Lab launch private Japanese Earth-observing satellite this morning",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-private-japanese-earth-observing-satellite-early-on-may-22",
       "source": "SPACE",
       "category": "space",
@@ -231,13 +266,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779390000
-    },
-    {
-      "title": "Use DraftKings promo code for $100 in bonus bets by targeting Knicks-Cavaliers, Canadiens-Hurricanes Thursday",
-      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-100-bonus-bets-targeting-knicks-cavaliers-canadiens-hurricanes-thursday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779389696
     },
     {
       "title": "Zillow loses thousands of listings in fight over “hidden” homes",
@@ -359,17 +387,17 @@
       "timestamp": 1779379637
     },
     {
-      "title": "Who is Embo, the enigmatic villain in 'The Mandalorian & Grogu'?",
-      "link": "https://www.space.com/entertainment/space-movies-shows/who-is-embo-the-enigmatic-villain-in-the-mandalorian-and-grogu",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779379200
-    },
-    {
       "title": "This young startup is taking on a fragrance industry that hasn’t changed in almost half a century",
       "link": "https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/",
       "source": "TECHCRUNCH",
       "category": "tech",
+      "timestamp": 1779379200
+    },
+    {
+      "title": "Who is Embo, the enigmatic villain in 'The Mandalorian & Grogu'?",
+      "link": "https://www.space.com/entertainment/space-movies-shows/who-is-embo-the-enigmatic-villain-in-the-mandalorian-and-grogu",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1779379200
     },
     {
@@ -399,13 +427,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1779377220
-    },
-    {
-      "title": "Spotify will reserve tickets for top fans of an artists in a bid to drum up engagement",
-      "link": "https://techcrunch.com/2026/05/21/spotify-will-reserve-tickets-for-top-fans-of-an-artists-in-a-bid-to-drum-up-engagement/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779377160
     },
     {
       "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
@@ -667,6 +688,13 @@
       "timestamp": 1779314281
     },
     {
+      "title": "2026 NBA Western Conference finals odds, predictions: Thunder vs. Spurs Game 2 picks by expert on 132-92 run",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-western-conference-finals-odds-predictions-spread-thunder-spurs-game-2-expert-picks-best-bets/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779313534
+    },
+    {
       "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
       "link": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
       "source": "BLEEPINGCOMPUTER",
@@ -737,13 +765,6 @@
       "timestamp": 1779282272
     },
     {
-      "title": "Scientists found a hidden Alzheimer’s trigger and shut it down",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260519224334.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1779281672
-    },
-    {
       "title": "Drupal critical update to fix bug with high exploitation risk",
       "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/",
       "source": "BLEEPINGCOMPUTER",
@@ -751,32 +772,11 @@
       "timestamp": 1779281549
     },
     {
-      "title": "Scientists discover massive natural hydrogen source beneath Canada",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260519224317.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1779281174
-    },
-    {
       "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
       "link": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779274351
-    },
-    {
-      "title": "Scientists use light to create tiny molecules that could transform medicine",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260519224332.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1779271245
-    },
-    {
-      "title": "Scientists found a giant magnetic “twist” hidden inside the Milky Way",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260519224322.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1779269715
     }
   ]
 }
