@@ -1,6 +1,13 @@
 {
-  "last_updated": 1779529761,
+  "last_updated": 1779534484,
   "items": [
+    {
+      "title": "Scientists discover giant sea predator Tylosaurus rex that terrorized ancient oceans",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260522023111.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779533405
+    },
     {
       "title": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say",
       "link": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
@@ -534,15 +541,15 @@
       "timestamp": 1779451242
     },
     {
-      "title": "Scientists thought Jupiter's moon Europa was ejecting water. Now they're not so sure",
-      "link": "https://www.space.com/astronomy/solar-system/hubble-telescope-watched-jupiters-moon-europa-for-14-years-and-now-scientists-arent-sure-if-its-ejecting-water-after-all",
+      "title": "The moon will 'swallow' a star on May 23. But will you be able to see it?",
+      "link": "https://www.space.com/stargazing/the-moon-will-swallow-a-star-on-may-23-but-will-you-be-able-to-see-it",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779451200
     },
     {
-      "title": "The moon will 'swallow' a star on May 23. But will you be able to see it?",
-      "link": "https://www.space.com/stargazing/the-moon-will-swallow-a-star-on-may-23-but-will-you-be-able-to-see-it",
+      "title": "Scientists thought Jupiter's moon Europa was ejecting water. Now they're not so sure",
+      "link": "https://www.space.com/astronomy/solar-system/hubble-telescope-watched-jupiters-moon-europa-for-14-years-and-now-scientists-arent-sure-if-its-ejecting-water-after-all",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779451200
@@ -770,13 +777,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1779341674
-    },
-    {
-      "title": "MIT scientists discover amino acid that helps the gut heal itself",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260520233223.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1779338433
     }
   ]
 }
