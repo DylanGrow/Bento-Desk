@@ -1,6 +1,62 @@
 {
-  "last_updated": 1779534484,
+  "last_updated": 1779542369,
   "items": [
+    {
+      "title": "Elon Musk has given up on solar power (on Earth)",
+      "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779541200
+    },
+    {
+      "title": "'For All Mankind's' Costa Ronin on ruling Mars, honoring cosmonaut history, and learning to tie his tie (interview)",
+      "link": "https://www.space.com/entertainment/space-movies-shows/for-all-mankinds-costa-ronin-on-ruling-mars-honoring-cosmonaut-history-and-learning-to-tie-his-tie-interview",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779541200
+    },
+    {
+      "title": "Massive 'X' and 'V' shapes will appear on the moon tonight — here's how to see them",
+      "link": "https://www.space.com/stargazing/massive-x-and-v-shapes-will-appear-on-the-moon-tonight-heres-how-to-see-them",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779541200
+    },
+    {
+      "title": "Knicks vs. Cavaliers odds, prediction: 2026 NBA Eastern Conference Finals picks, Game 3 bets by proven model",
+      "link": "https://www.cbssports.com/nba/news/knicks-cavaliers-odds-prediction-spread-time-2026-nba-eastern-conference-finals-game-3-picks/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779539082
+    },
+    {
+      "title": "China set to launch Shenzhou 23 astronauts to Tiangong space station this weekend",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/china-shenzhou-23-astronaut-launch-tiangong-space-station",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779537600
+    },
+    {
+      "title": "Two space shuttle-era spacewalkers enter Astronaut Hall of Fame",
+      "link": "https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779535835
+    },
+    {
+      "title": "Take-Two Boss Believes in the Pull of GTA 6 Even Amid Rising Cost of Console Gaming",
+      "link": "https://www.ign.com/articles/take-two-boss-believes-in-the-pull-of-gta-6-even-amid-rising-cost-of-console-gaming",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779534910
+    },
+    {
+      "title": "China’s shark finning could lead to US seafood sanctions",
+      "link": "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779534025
+    },
     {
       "title": "Scientists discover giant sea predator Tylosaurus rex that terrorized ancient oceans",
       "link": "https://www.sciencedaily.com/releases/2026/05/260522023111.htm",
@@ -422,25 +478,11 @@
       "timestamp": 1779460200
     },
     {
-      "title": "NASA undertakes major reorganization to reduce bureaucracy and move faster",
-      "link": "https://arstechnica.com/space/2026/05/to-achieve-major-goals-nasa-seeks-to-streamline-its-organization/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779460122
-    },
-    {
       "title": "Meta quietly launches a new Reddit-like app called Forum",
       "link": "https://techcrunch.com/2026/05/22/meta-quietly-launches-a-new-reddit-like-app-called-forum/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1779459856
-    },
-    {
-      "title": "AI put \"synthetic quotes\" in his book. But this author wants to keep using it.",
-      "link": "https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779458756
     },
     {
       "title": "Smart ring maker Oura files to go public",
@@ -462,13 +504,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779458400
-    },
-    {
-      "title": "Audio-generation app Huxe, founded by former NotebookLM developers, shuts down",
-      "link": "https://techcrunch.com/2026/05/22/audio-generation-app-huxe-founded-by-former-notebooklm-developers-shuts-down/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779457683
     },
     {
       "title": "Trend Micro warns of Apex One zero-day exploited in the wild",
@@ -604,25 +639,11 @@
       "timestamp": 1779417713
     },
     {
-      "title": "SpaceX's 1st Starship V3 megarocket launch scrubbed at last minute. Sorry, Nicki Minaj",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-1st-starship-v3-megarocket-launch-scrubbed-at-last-minute-sorry-nicki-minaj",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779410821
-    },
-    {
       "title": "Bungie Is Reportedly Planning 'Significant' Layoffs, Destiny 3 Not in the Works",
       "link": "https://www.ign.com/articles/bungie-is-reportedly-planning-significant-layoffs-destiny-3-not-in-the-works",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1779408327
-    },
-    {
-      "title": "Knicks vs. Cavaliers odds: Game 2 prediction as New York carries momentum after huge comeback",
-      "link": "https://www.cbssports.com/nba/news/knicks-cavaliers-odds-game-2-prediction-tv-channel/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779406700
     },
     {
       "title": "The Odyssey's Runtime Has Been Revealed and It's One of Christopher Nolan's Longest Films",
@@ -651,27 +672,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1779395437
-    },
-    {
-      "title": "Take-Two Says All Entertainment Properties Need Pre-Release Marketing, as the Wait for GTA 6 Trailer 3 Goes On",
-      "link": "https://www.ign.com/articles/take-two-says-all-entertainment-properties-need-pre-release-marketing-as-the-wait-for-gta-6-trailer-3-goes-on",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779394812
-    },
-    {
-      "title": "Rocket Lab launches private Japanese Earth-observing satellite to orbit (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-private-japanese-earth-observing-satellite-early-on-may-22",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779393600
-    },
-    {
-      "title": "We talk to 'For All Mankind' star Mireille Enos about crafting Happy Valley's tough Martian cop",
-      "link": "https://www.space.com/entertainment/space-movies-shows/we-talk-to-for-all-mankind-star-mireille-enos-about-crafting-happy-valleys-tough-martian-cop",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779390000
     },
     {
       "title": "Google accidentally exposed details of unfixed Chromium flaw",
