@@ -1,6 +1,55 @@
 {
-  "last_updated": 1779621266,
+  "last_updated": 1779628803,
   "items": [
+    {
+      "title": "The Dreamie alarm clock got me to stop using my phone in bed",
+      "link": "https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779627600
+    },
+    {
+      "title": "Scientists discover the oldest wooden tools ever used by humans",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260523103939.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779625374
+    },
+    {
+      "title": "Lunar Strike offers a pessimistic, and worryingly realistic look at the future of space travel",
+      "link": "https://www.space.com/entertainment/space-games/lunar-strike-offers-a-pessimistic-and-worryingly-realistic-look-at-the-future-of-space-travel",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779624000
+    },
+    {
+      "title": "AI scans 400,000 Reddit posts and finds hidden Ozempic side effects",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260523103914.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779622231
+    },
+    {
+      "title": "Whatever the mirror test tells us, beluga whales pass it",
+      "link": "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779621338
+    },
+    {
+      "title": "A Petition Calling on Sony to Greenlight Destiny 3 Has Over 120,000 Signatures Already — and It's Rising Fast",
+      "link": "https://www.ign.com/articles/a-petition-calling-on-sony-to-greenlight-destiny-3-has-over-120000-signatures-already-and-its-rising-fast",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779620701
+    },
+    {
+      "title": "Scientists may have found the source of the most powerful neutrino ever detected",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260523103912.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779620214
+    },
     {
       "title": "Scientists discover atoms suddenly spinning backward in quantum experiment",
       "link": "https://www.sciencedaily.com/releases/2026/05/260523103903.htm",
@@ -70,13 +119,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1779572731
-    },
-    {
-      "title": "Use DraftKings promo code for $100 bonus bets by targeting Cavaliers-Knicks, Canadiens-Hurricanes on Saturday",
-      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-100-bonus-bets-cavaliers-knicks-canadiens-hurricanes-saturday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779571848
     },
     {
       "title": "'Rick and Morty' Season 9: Release date & how to watch Adult Swim’s zany sci-fi satire",
@@ -527,13 +569,6 @@
       "timestamp": 1779469200
     },
     {
-      "title": "Trump abruptly cancels EO signing event after top AI firm CEOs declined to go",
-      "link": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779468700
-    },
-    {
       "title": "'The Mandalorian and Grogu' is better viewed as a 'Star Wars' origin story for Rotta the Hutt",
       "link": "https://www.space.com/entertainment/space-movies-shows/the-mandalorian-and-grogu-is-better-viewed-as-a-star-wars-origin-story-for-rotta-the-hutt",
       "source": "SPACE",
@@ -576,13 +611,6 @@
       "timestamp": 1779466099
     },
     {
-      "title": "An ancient solar storm left clues in tree rings and a famous poet's diary: 'Red lights in the northern sky'",
-      "link": "https://www.space.com/stargazing/auroras/an-ancient-solar-storm-left-clues-in-tree-rings-and-a-famous-poets-diary-red-lights-in-the-northern-sky",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779465600
-    },
-    {
       "title": "Crimson Desert Update 1.08.00 Adds a Pond to Your Camp, a Cute Baby Wyvern as a Pet, and a Lot More",
       "link": "https://www.ign.com/articles/crimson-desert-update-10800-adds-a-pond-to-your-camp-a-cute-baby-wyvern-as-a-pet-and-a-lot-more",
       "source": "IGN",
@@ -595,13 +623,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1779464472
-    },
-    {
-      "title": "We tried Google’s AI glasses and they’re almost there",
-      "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779464235
     },
     {
       "title": "Former US execs plead guilty to aiding tech support scammers",
@@ -623,6 +644,13 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1779461182
+    },
+    {
+      "title": "How Alex Caruso and Thunder's bench shooters are making Spurs pay for their SGA obsession",
+      "link": "https://www.cbssports.com/nba/news/thunder-spurs-alex-caruso-bench-shooters/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779458598
     },
     {
       "title": "Trend Micro warns of Apex One zero-day exploited in the wild",
@@ -658,13 +686,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779455358
-    },
-    {
-      "title": "ENDIX, the Fully Free, Digital Gaming Expo, Is Now Live With Playable Demos, Panels, and Much More",
-      "link": "https://www.ign.com/articles/endix-the-fully-free-digital-gaming-expo-is-now-live-with-playable-demos-panels-and-much-more",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779454802
     },
     {
       "title": "Scientists warn that current vitamin B12 guidelines may be putting your brain at risk",
@@ -709,13 +730,6 @@
       "timestamp": 1779418947
     },
     {
-      "title": "James Webb discovers a rare giant planet with surprisingly Earth-like temperatures",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260521072355.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1779417713
-    },
-    {
       "title": "Google accidentally exposed details of unfixed Chromium flaw",
       "link": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
       "source": "BLEEPINGCOMPUTER",
@@ -751,25 +765,11 @@
       "timestamp": 1779371913
     },
     {
-      "title": "Childhood junk food may rewire the brain for life",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260520093807.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1779370308
-    },
-    {
       "title": "Police seize “First VPN” service used in ransomware, data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779368991
-    },
-    {
-      "title": "Common pesticide linked to hidden brain damage, scientists warn",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260520233218.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1779366442
     }
   ]
 }
