@@ -1,6 +1,20 @@
 {
-  "last_updated": 1779641850,
+  "last_updated": 1779645605,
   "items": [
+    {
+      "title": "6 kitchen gadgets that make adulting feel easier",
+      "link": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779642000
+    },
+    {
+      "title": "Unreal Engine 6 Revealed as Rocket League Gets a New Coat of Paint",
+      "link": "https://www.ign.com/articles/unreal-engine-6-revealed-as-rocket-league-gets-a-new-coat-of-paint",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779641518
+    },
     {
       "title": "007 First Light Leaks Prompt IO Interactive to Publish Gameplay Early",
       "link": "https://www.ign.com/articles/007-first-light-leaks-prompt-io-interactive-to-publish-gameplay-early",
@@ -359,7 +373,7 @@
       "timestamp": 1779538010
     },
     {
-      "title": "Watch China launch Shenzhou 23 astronauts to its Tiangong space station on May 24",
+      "title": "China launches 3 astronauts, including 1st ever from Hong Kong, to Tiangong space station (video)",
       "link": "https://www.space.com/space-exploration/human-spaceflight/china-shenzhou-23-astronaut-launch-tiangong-space-station",
       "source": "SPACE",
       "category": "space",
@@ -611,25 +625,11 @@
       "timestamp": 1779470562
     },
     {
-      "title": "LEGO Star Wars Designer Highlights the Ideas Sets He Helped Bring to Life",
-      "link": "https://www.ign.com/articles/lego-star-wars-designer-highlights-the-ideas-sets-he-helped-bring-to-life",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779469260
-    },
-    {
       "title": "Kash Patel’s clothing brand website shut down after reports it was hacked",
       "link": "https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1779467286
-    },
-    {
-      "title": "Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers",
-      "link": "https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779467277
     },
     {
       "title": "Former US execs plead guilty to aiding tech support scammers",
