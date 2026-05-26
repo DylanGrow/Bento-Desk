@@ -1,6 +1,181 @@
 {
-  "last_updated": 1779789059,
+  "last_updated": 1779802980,
   "items": [
+    {
+      "title": "Scientists say they’ve reversed brain aging with a simple nasal spray",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260526022018.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779802775
+    },
+    {
+      "title": "Large Hadron Collider detects strange particle behavior that could rewrite physics",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260526022012.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779801823
+    },
+    {
+      "title": "7-Eleven data breach affects over 185,000 people’s personal data",
+      "link": "https://techcrunch.com/2026/05/26/7-eleven-data-breach-affects-over-185000-peoples-personal-data/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779800696
+    },
+    {
+      "title": "Could a cosmic uncertainty principle help explain dark matter?",
+      "link": "https://www.space.com/science/particle-physics/could-a-cosmic-uncertainty-principle-help-explain-dark-matter",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779800400
+    },
+    {
+      "title": "Knicks advance to first NBA Finals since 1999; Astros combine for no-hitter; Hurricanes lead Canadiens 2-1",
+      "link": "https://www.cbssports.com/nba/news/knicks-advance-to-first-nba-finals-since-1999-astros-combine-for-no-hitter-hurricanes-lead-canadiens-2-1/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779800314
+    },
+    {
+      "title": "Sony Confirms PlayStation Plus Monthly Games for June 2026, First Lineup Announcement Since Price Rise",
+      "link": "https://www.ign.com/articles/sony-confirms-playstation-plus-monthly-games-for-june-2026-first-lineup-announcement-since-price-rise",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779799932
+    },
+    {
+      "title": "Lakers begin front office restructuring by hiring 'literal rocket scientist' Rohan Ramadas as assistant GM",
+      "link": "https://www.cbssports.com/nba/news/lakers-front-office-rohan-ramadas-assistant-gm/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779799640
+    },
+    {
+      "title": "Scientists create global treasure map pointing to hidden rare earth deposits",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260525000450.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779799212
+    },
+    {
+      "title": "Queenless wasp colonies explode into chaos but hidden helpers save them",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260526021958.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779797989
+    },
+    {
+      "title": "Microsoft Defender can now automatically isolate hacked endpoints",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779797983
+    },
+    {
+      "title": "Webinar: Too many tools are slowing network incident response",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779797784
+    },
+    {
+      "title": "Driving Porsche's most powerful car—and no, it's not a 911",
+      "link": "https://arstechnica.com/cars/2026/05/porsches-cayenne-coupe-electric-brings-formula-e-tech-to-the-autobahn/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779796811
+    },
+    {
+      "title": "Amazon fulfillment competitor Stord raises $250M at $3B valuation",
+      "link": "https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779796800
+    },
+    {
+      "title": "Unusual red northern lights over Japan suggest some solar storms are stronger than we thought",
+      "link": "https://www.space.com/astronomy/sun/unusual-red-northern-lights-over-japan-suggest-some-solar-storms-are-stronger-than-we-thought",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779796800
+    },
+    {
+      "title": "GTA 6 Was Supposed to Come Out Today, May 26 — and According to Rockstar's Official Twitter Account, It Still Does",
+      "link": "https://www.ign.com/articles/gta-6-was-supposed-to-come-out-today-may-26-and-according-to-rockstars-official-twitter-account-it-still-does",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779796642
+    },
+    {
+      "title": "Marathon Voice Actor Hits Back at Online Trolls and Says 'People Just Want to Hate'",
+      "link": "https://www.ign.com/articles/marathon-voice-actor-hits-back-at-online-trolls-and-says-people-just-want-to-hate",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779794984
+    },
+    {
+      "title": "Warhammer 40,000: Chaos Gate - Deathwatch Interview Reveals Fresh Details",
+      "link": "https://www.ign.com/articles/warhammer-40000-chaos-gate-deathwatch-interview-reveals-fresh-details",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779793818
+    },
+    {
+      "title": "HBO's 'Lanterns' does have some green in it after all, as latest trailer shows Hal Jordan unleashing the power of the ring (video)",
+      "link": "https://www.space.com/entertainment/space-movies-shows/hbos-lanterns-does-have-some-green-in-it-after-all-as-latest-trailer-shows-hal-jordan-unleashing-the-power-of-the-ring-video",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779793200
+    },
+    {
+      "title": "Paradox Interactive Making LEGO City Skylines Spinoff, Ratings Board Leak Suggests",
+      "link": "https://www.ign.com/articles/paradox-interactive-making-lego-city-skylines-spinoff-ratings-board-leak-suggests",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779791497
+    },
+    {
+      "title": "'Very interesting wiggles' in data from silent NASA Mars spacecraft lead to unexpected solar wind discovery",
+      "link": "https://www.space.com/astronomy/mars/very-interesting-wiggles-in-data-from-silent-nasa-mars-spacecraft-lead-to-unexpected-solar-wind-discovery",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779789600
+    },
+    {
+      "title": "Harry Potter HBO Teaser Shows First Look at Game of Thrones Star Anton Lesser as Ollivander",
+      "link": "https://www.ign.com/articles/harry-potter-hbo-teaser-shows-first-look-at-game-of-thrones-star-anton-lesser-as-ollivander",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779789017
+    },
+    {
+      "title": "Destiny and Warframe Fans Spent a Decade Competing With Each Other — Now They’re United in Saying Goodbye",
+      "link": "https://www.ign.com/articles/destiny-and-warframe-fans-spent-a-decade-competing-with-each-other-now-theyre-united-in-saying-goodbye",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779788125
+    },
+    {
+      "title": "Take-Two CEO Pushes Back Against Suggestion Red Dead Online Was a Missed Opportunity",
+      "link": "https://www.ign.com/articles/take-two-ceo-pushes-back-against-suggestion-red-dead-online-was-a-missed-opportunity",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779787192
+    },
+    {
+      "title": "James Bond Meets Khaby Lame in 007 First Light",
+      "link": "https://www.ign.com/articles/james-bond-meets-khaby-lame-in-007-first-light",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779786953
+    },
+    {
+      "title": "Venomous Himalayan pit viper was actually 5 different species all along",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260526021953.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779785525
+    },
     {
       "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
@@ -135,13 +310,6 @@
       "timestamp": 1779736335
     },
     {
-      "title": "Lakers begin front office restructuring by hiring 'literal rocket scientist' Rohan Ramadas as assistant GM",
-      "link": "https://www.cbssports.com/nba/news/lakers-front-office-rohan-ramadas-assistant-gm/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779732779
-    },
-    {
       "title": "The Knicks may be beating up on a weak East, but they're more than qualified to face the Spurs or Thunder",
       "link": "https://www.cbssports.com/nba/news/knicks-weak-east-spurs-thunder/",
       "source": "CBSSPORTS",
@@ -268,13 +436,6 @@
       "timestamp": 1779714000
     },
     {
-      "title": "Spurs pull even with Thunder as Knicks eye sweep; Felix Rosenqvist wins historic Indy 500",
-      "link": "https://www.cbssports.com/nba/news/spurs-pull-even-with-thunder-as-knicks-eye-sweep-felix-rosenqvist-wins-historic-indy-500/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779713753
-    },
-    {
       "title": "100-million-year-old bug had crab-like claws unlike any known insect",
       "link": "https://www.sciencedaily.com/releases/2026/05/260525000457.htm",
       "source": "SCIENCEDAILY",
@@ -352,27 +513,6 @@
       "timestamp": 1779656624
     },
     {
-      "title": "Karmine Corp Crowned Champions of Rocket League Paris Major",
-      "link": "https://www.ign.com/articles/karmine-corp-wins-rlcs-paris-major-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779654686
-    },
-    {
-      "title": "Star Wars: The Mandalorian and Grogu Opened to an Estimated $165 Million at the Box Office",
-      "link": "https://www.ign.com/articles/star-wars-the-mandalorian-and-grogu-opened-to-an-estimated-165-million-at-the-box-office",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779649734
-    },
-    {
-      "title": "Rocket League to Receive First Game Engine Tune Up in 11 Years as Psyonix Teases Unreal Engine 6 Update",
-      "link": "https://www.ign.com/articles/rocket-league-to-receive-first-game-engine-tune-up-in-11-years-as-psyonix-teases-unreal-engine-6-update",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779649603
-    },
-    {
       "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
       "link": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
       "source": "TECHCRUNCH",
@@ -380,32 +520,11 @@
       "timestamp": 1779649200
     },
     {
-      "title": "Star Citizen Officially Crosses the $1 Billion Funding Raised Barrier as $5,000 Spaceship You Can't Fly In-Game Goes on Sale",
-      "link": "https://www.ign.com/articles/star-citizen-officially-crosses-the-1-billion-funding-raised-barrier-as-5000-spaceship-you-cant-fly-in-game-goes-on-sale",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779646504
-    },
-    {
       "title": "6 kitchen gadgets that make adulting feel easier",
       "link": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1779642000
-    },
-    {
-      "title": "Unreal Engine 6 Revealed as Rocket League Gets a New Coat of Paint",
-      "link": "https://www.ign.com/articles/unreal-engine-6-revealed-as-rocket-league-gets-a-new-coat-of-paint",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779641518
-    },
-    {
-      "title": "007 First Light Leaks Prompt IO Interactive to Publish Gameplay Early",
-      "link": "https://www.ign.com/articles/007-first-light-leaks-prompt-io-interactive-to-publish-gameplay-early",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779639578
     },
     {
       "title": "TechCrunch Mobility: Robotaxi reality check",
@@ -436,15 +555,15 @@
       "timestamp": 1779631952
     },
     {
-      "title": "15 sci-fi books to read before you die: Put these science fiction gems on your bucket list",
-      "link": "https://www.space.com/entertainment/space-books/15-sci-fi-books-to-read-before-you-die-put-these-science-fiction-gems-on-your-bucket-list",
+      "title": "Grab the Estes Blue Origin model rocket ahead of Memorial Day with it's lowest price since January!",
+      "link": "https://www.space.com/stargazing/skywatching-kit/grab-the-estes-blue-origin-model-rocket-ahead-of-memorial-day-with-its-lowest-price-since-january",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779631200
     },
     {
-      "title": "Grab the Estes Blue Origin model rocket ahead of Memorial Day with it's lowest price since January!",
-      "link": "https://www.space.com/stargazing/skywatching-kit/grab-the-estes-blue-origin-model-rocket-ahead-of-memorial-day-with-its-lowest-price-since-january",
+      "title": "15 sci-fi books to read before you die: Put these science fiction gems on your bucket list",
+      "link": "https://www.space.com/entertainment/space-books/15-sci-fi-books-to-read-before-you-die-put-these-science-fiction-gems-on-your-bucket-list",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779631200
@@ -454,13 +573,6 @@
       "link": "https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/",
       "source": "TECHCRUNCH",
       "category": "tech",
-      "timestamp": 1779627600
-    },
-    {
-      "title": "Hands Over, a Horror Party Game, Announced for PC",
-      "link": "https://www.ign.com/articles/hands-over-announced-for-pc",
-      "source": "IGN",
-      "category": "gaming",
       "timestamp": 1779627600
     },
     {
@@ -492,13 +604,6 @@
       "timestamp": 1779621338
     },
     {
-      "title": "A Petition Calling on Sony to Greenlight Destiny 3 Has Over 120,000 Signatures Already — and It's Rising Fast",
-      "link": "https://www.ign.com/articles/a-petition-calling-on-sony-to-greenlight-destiny-3-has-over-120000-signatures-already-and-its-rising-fast",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779620701
-    },
-    {
       "title": "Scientists may have found the source of the most powerful neutrino ever detected",
       "link": "https://www.sciencedaily.com/releases/2026/05/260523103912.htm",
       "source": "SCIENCEDAILY",
@@ -525,20 +630,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779585634
-    },
-    {
-      "title": "Assassin's Creed Black Flag Resynced Confirmed to Feature Drunk Load Screen After Ubisoft Post Confuses Fans",
-      "link": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-confirmed-to-feature-drunk-load-screen-after-ubisoft-post-confuses-fans",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779576347
-    },
-    {
-      "title": "'Rick and Morty' Season 9: Release date & how to watch Adult Swim’s zany sci-fi satire",
-      "link": "https://www.space.com/entertainment/space-movies-shows/rick-and-morty-season-9-release-date-and-how-to-watch-adult-swims-zany-sci-fi-satire",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779570000
     },
     {
       "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
@@ -569,13 +660,6 @@
       "timestamp": 1779552000
     },
     {
-      "title": "This Week In Space podcast: Episode 211 — Oysters in Space",
-      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-211-oysters-in-space",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779550481
-    },
-    {
       "title": "Ferrari is using IBM’s AI to create F1 superfans",
       "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
       "source": "TECHCRUNCH",
@@ -583,67 +667,11 @@
       "timestamp": 1779548880
     },
     {
-      "title": "Nuclear startup Deep Fission says it’s going public, again, and I have questions",
-      "link": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779547800
-    },
-    {
       "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
       "link": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779546224
-    },
-    {
-      "title": "Scientists discover the perfect temperature to keep mangoes fresh much longer",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260522023136.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1779545351
-    },
-    {
-      "title": "SpaceX Starship Flight 12: Don't miss these stunning photos from the launch of the most powerful Starship yet",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-12-dont-miss-these-stunning-photos-from-the-launch-of-the-most-powerful-starship-yet",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779544346
-    },
-    {
-      "title": "Elon Musk has given up on solar power (on Earth)",
-      "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779541200
-    },
-    {
-      "title": "'For All Mankind's' Costa Ronin on ruling Mars, honoring cosmonaut history, and learning to tie his tie (interview)",
-      "link": "https://www.space.com/entertainment/space-movies-shows/for-all-mankinds-costa-ronin-on-ruling-mars-honoring-cosmonaut-history-and-learning-to-tie-his-tie-interview",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779541200
-    },
-    {
-      "title": "New AI body map reveals obesity’s hidden attack on facial nerves",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260522023308.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1779539685
-    },
-    {
-      "title": "NASA’s Psyche spacecraft captures stunning Mars images during high-speed flyby",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260522023123.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1779538709
-    },
-    {
-      "title": "NASA stunned as strange solar radio burst lasts 19 days",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260522023120.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1779538010
     },
     {
       "title": "Two space shuttle-era spacewalkers enter Astronaut Hall of Fame",
@@ -658,13 +686,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1779534025
-    },
-    {
-      "title": "Scientists discover giant sea predator Tylosaurus rex that terrorized ancient oceans",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260522023111.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1779533405
     },
     {
       "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
@@ -723,13 +744,6 @@
       "timestamp": 1779474606
     },
     {
-      "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
-      "link": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779473585
-    },
-    {
       "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
       "link": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
       "source": "BLEEPINGCOMPUTER",
@@ -763,20 +777,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779455358
-    },
-    {
-      "title": "Ubiquiti patches three max severity UniFi OS vulnerabilities",
-      "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779451242
-    },
-    {
-      "title": "US and Canada arrest and charge suspected Kimwolf botnet admin",
-      "link": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779440480
     }
   ]
 }
