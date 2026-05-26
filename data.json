@@ -1,12 +1,187 @@
 {
-  "last_updated": 1779802980,
+  "last_updated": 1779813637,
   "items": [
+    {
+      "title": "This startup is betting India’s gig economy can train the world’s robots",
+      "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779811200
+    },
+    {
+      "title": "CD Projekt Announces Official The Witcher 3: Blood and Wine Special Anniversary Stream as DLC Rumors Swirl",
+      "link": "https://www.ign.com/articles/cd-projekt-announces-official-the-witcher-3-blood-and-wine-special-anniversary-stream-as-dlc-rumors-swirl",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779810357
+    },
+    {
+      "title": "Dutch government blocks US company from acquisition, citing ‘risk to public interest’",
+      "link": "https://techcrunch.com/2026/05/26/dutch-government-blocks-us-company-from-acquisition-citing-risk-to-public-interest/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779810263
+    },
+    {
+      "title": "Thunder vs. Spurs predictions: Experts re-pick Western Conference Finals based on everything we know now",
+      "link": "https://www.cbssports.com/nba/news/thunder-spurs-predictions-experts-re-pick-western-conference-finals/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779809534
+    },
+    {
+      "title": "Ghost hackers: the cybersecurity mystery that nobody has solved",
+      "link": "https://techcrunch.com/2026/05/26/ghost-hackers-the-cybersecurity-mystery-that-nobody-has-solved/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779809232
+    },
+    {
+      "title": "Iranian hackers blamed for breach of Los Angeles transit system that took weeks to recover",
+      "link": "https://techcrunch.com/2026/05/26/iranian-hackers-blamed-for-breach-of-los-angeles-transit-system-that-took-weeks-to-recover/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779809187
+    },
+    {
+      "title": "2026 NBA Western Conference Finals odds, predictions: Spurs vs. Thunder Game 5 picks from expert on 137-96 run",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-western-conference-finals-odds-predictions-spurs-thunder-game-5-picks/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779808947
+    },
+    {
+      "title": "Ferrari’s first EV is not for you",
+      "link": "https://techcrunch.com/2026/05/26/ferraris-first-ev-is-not-for-you/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779808594
+    },
+    {
+      "title": "China Executes Man Who Poisoned Billionaire Boss Behind Game of Thrones Video Game, 3 Body Problem Netflix Series",
+      "link": "https://www.ign.com/articles/china-executes-man-who-poisoned-billionaire-boss-behind-game-of-thrones-video-game-3-body-problem-netflix-series",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779808268
+    },
+    {
+      "title": "'Redshift' blends James Webb Space Telescope, Artemis 2 and Pink Floyd into a cosmic journey through light and sound (video, photos)",
+      "link": "https://www.space.com/entertainment/redshift-blends-james-webb-space-telescope-artemis-2-and-pink-floyd-into-a-cosmic-journey-through-light-and-sound-video-photos",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779807600
+    },
+    {
+      "title": "Spurs vs. Thunder odds, prediction: 2026 NBA Western Conference Finals picks, Game 5 best bets from top model",
+      "link": "https://www.cbssports.com/nba/news/spurs-thunder-odds-prediction-2026-nba-western-conference-finals-picks-game-5-best-bets/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779807356
+    },
+    {
+      "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+      "link": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779807305
+    },
+    {
+      "title": "Spotify now lets you stream narrated magazine articles, too",
+      "link": "https://techcrunch.com/2026/05/26/spotify-now-lets-you-stream-narrated-magazine-articles-too/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779806285
+    },
+    {
+      "title": "Review: The Boroughs is a smart, pitch-perfect creature feature",
+      "link": "https://arstechnica.com/culture/2026/05/review-the-boroughs-is-a-smart-pitch-perfect-creature-feature/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779806113
+    },
+    {
+      "title": "Pope Leo Quotes Gandalf From The Lord of the Rings as He Issues Stark AI Warning",
+      "link": "https://www.ign.com/articles/pope-leo-quotes-gandalf-from-the-lord-of-the-rings-as-he-issues-stark-ai-warning",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779806064
+    },
+    {
+      "title": "Use DraftKings promo code for $100 bonus bets by targeting Thunder-Spurs, Avalanche-Golden Knights on Tuesday",
+      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-100-bonus-bets-thunder-spurs-avalanche-golden-knights-tuesday/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779805672
+    },
+    {
+      "title": "NBA player prop picks, odds: Three best 2026 NBA Playoffs prop bets for Spurs vs. Thunder, Game 5",
+      "link": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-three-best-2026-nba-playoffs-prop-bets-for-spurs-vs-thunder-game-5/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779805376
+    },
+    {
+      "title": "A global brand but local cars is Audi's future, says CEO",
+      "link": "https://arstechnica.com/cars/2026/05/audis-boss-talks-local-production-wagons-and-maybe-a-new-r8-supercar/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779805293
+    },
+    {
+      "title": "How Varonis Atlas integrates Claude Compliance API for AI governance",
+      "link": "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779804071
+    },
+    {
+      "title": "TechCrunch Disrupt 2026 Early Bird ticket rates end May 29",
+      "link": "https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779804000
+    },
+    {
+      "title": "Seeing double with the Artemis 2 rocket boosters | Space photo of the day for May 26, 2026",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/seeing-double-with-the-artemis-2-rocket-boosters-space-photo-of-the-day-for-25-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779804000
+    },
+    {
+      "title": "Analyst on China's spent rocket stages: \"Things only continue to get worse\"",
+      "link": "https://arstechnica.com/space/2026/05/analyst-on-chinas-spent-rocket-stages-things-only-continue-to-get-worse/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779803850
+    },
+    {
+      "title": "The Knicks beat up on a weak East, but they're more than qualified to give the Spurs or Thunder a real fight",
+      "link": "https://www.cbssports.com/nba/news/knicks-weak-east-spurs-thunder/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779803340
+    },
+    {
+      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Thunder-Spurs, Avalanche-Golden Knights Tuesday",
+      "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-thunder-spurs-avalanche-golden-knights-tuesday/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779802951
+    },
     {
       "title": "Scientists say they’ve reversed brain aging with a simple nasal spray",
       "link": "https://www.sciencedaily.com/releases/2026/05/260526022018.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1779802775
+    },
+    {
+      "title": "PS Plus Extra and Premium Get Destiny 2 on the Same Day Its Final Content Update Is Released",
+      "link": "https://www.ign.com/articles/ps-plus-extra-and-premium-get-destiny-2-on-the-same-day-its-final-content-update-is-released",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779802585
     },
     {
       "title": "Large Hadron Collider detects strange particle behavior that could rewrite physics",
@@ -30,11 +205,25 @@
       "timestamp": 1779800400
     },
     {
+      "title": "Jackass: Best and Last Stars Confirmed to Attend IGN Live 2026",
+      "link": "https://www.ign.com/articles/jackass-best-and-last-ign-live-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779800400
+    },
+    {
       "title": "Knicks advance to first NBA Finals since 1999; Astros combine for no-hitter; Hurricanes lead Canadiens 2-1",
       "link": "https://www.cbssports.com/nba/news/knicks-advance-to-first-nba-finals-since-1999-astros-combine-for-no-hitter-hurricanes-lead-canadiens-2-1/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1779800314
+    },
+    {
+      "title": "Amazing interior, controversial exterior: Ferrari's first electric car",
+      "link": "https://arstechnica.com/cars/2026/05/the-most-controversial-ferrari-ever-meet-the-luce-its-first-ever-ev/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779800192
     },
     {
       "title": "Sony Confirms PlayStation Plus Monthly Games for June 2026, First Lineup Announcement Since Price Rise",
@@ -268,13 +457,6 @@
       "timestamp": 1779748190
     },
     {
-      "title": "LittleBigPlanet Developer Media Molecule's Next Game Reportedly Features 'Open-World Content'",
-      "link": "https://www.ign.com/articles/littlebigplanet-developer-media-molecules-next-game-reportedly-features-open-world-content",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779746510
-    },
-    {
       "title": "2026 NBA Eastern Conference Finals odds, predictions: Knicks vs. Cavaliers Game 4 picks by expert on 87-55 run",
       "link": "https://www.cbssports.com/nba/news/2026-nba-eastern-conference-finals-odds-predictions-time-knicks-cavaliers-game-4-picks-bets/",
       "source": "CBSSPORTS",
@@ -296,27 +478,6 @@
       "timestamp": 1779743262
     },
     {
-      "title": "Today's top games to watch, best bets, odds: Knicks vs. Cavaliers, Hurricanes vs. Canadiens and more",
-      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-knicks-vs-cavaliers-hurricanes-vs-canadiens-and-more/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779737441
-    },
-    {
-      "title": "Forza Horizon 6 Has Its Own Boogeyman, and Players are Terrified",
-      "link": "https://www.ign.com/articles/forza-horizon-6-has-its-own-boogeyman-and-players-are-terrified",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779736335
-    },
-    {
-      "title": "The Knicks may be beating up on a weak East, but they're more than qualified to face the Spurs or Thunder",
-      "link": "https://www.cbssports.com/nba/news/knicks-weak-east-spurs-thunder/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779730542
-    },
-    {
       "title": "Anthropic’s restricted Claude Mythos model may be coming to Claude Code",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/",
       "source": "BLEEPINGCOMPUTER",
@@ -329,13 +490,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779728400
-    },
-    {
-      "title": "Giannis Antetokounmpo next team odds: Heat favored to land superstar in offseason",
-      "link": "https://www.cbssports.com/betting/news/giannis-antetokounmpo-next-team-odds-heat-favored-to-land-superstar-in-offseason/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779726505
     },
     {
       "title": "What ClickUp’s mass layoff tells us about the future of work",
@@ -373,32 +527,11 @@
       "timestamp": 1779721200
     },
     {
-      "title": "NBA player prop picks, odds: Three best 2026 NBA Playoffs prop bets for Knicks vs. Cavaliers, Game 4",
-      "link": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-three-best-2026-nba-playoffs-prop-bets-for-knicks-vs-cavaliers-game-4/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779719578
-    },
-    {
       "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
       "link": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1779719400
-    },
-    {
-      "title": "Knicks vs. Cavs odds, prediction: 2026 NBA Eastern Conference finals picks, Game 4 best bets from proven model",
-      "link": "https://www.cbssports.com/nba/news/knicks-cavs-odds-prediction-2026-nba-eastern-conference-finals-picks-game-4-best-bets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779718622
-    },
-    {
-      "title": "Spurs defense dominates Thunder, and Game 4 might have flipped the chess board of this series",
-      "link": "https://www.cbssports.com/nba/news/spurs-defense-dominates-thunder-game-4/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779717838
     },
     {
       "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
@@ -408,7 +541,7 @@
       "timestamp": 1779717600
     },
     {
-      "title": "Nothing beats a beautiful sunset (from space) | Space photo of the day for May 26, 2026",
+      "title": "Nothing beats a beautiful sunset (from space) | Space photo of the day for May 25, 2026",
       "link": "https://www.space.com/astronomy/earth/nothing-beats-a-beautiful-sunset-from-space-space-photo-of-the-day-for-may-26-2026",
       "source": "SPACE",
       "category": "space",
@@ -420,13 +553,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1779715801
-    },
-    {
-      "title": "How all the Knicks' big bets are paying off with New York one win from NBA Finals",
-      "link": "https://www.cbssports.com/nba/news/knicks-big-bets-paying-off-nba-finals/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779715401
     },
     {
       "title": "Scientists just found a supercharged supernova — powered up by a magnetic star corpse",
@@ -485,60 +611,11 @@
       "timestamp": 1779689835
     },
     {
-      "title": "Nicolas Cage Says Christopher Nolan Won't 'Call Me Back' After Turning Down Insomnia Role",
-      "link": "https://www.ign.com/articles/nicolas-cage-says-christopher-nolan-wont-call-me-back-after-turning-down-insomnia-role",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779661958
-    },
-    {
       "title": "Everyone is navigating AI security in real time — even Google",
       "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1779658761
-    },
-    {
-      "title": "Sebastian Stan Reveals He Plays \"Many Roles\" in The Batman: Part II",
-      "link": "https://www.ign.com/articles/sebastian-stan-harvey-dent-the-batman-2",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779657817
-    },
-    {
-      "title": "Idris Elba Says He Was Never in the Race to Play James Bond for New 007 Movie",
-      "link": "https://www.ign.com/articles/idris-elba-says-he-was-never-in-the-race-to-play-james-bond-for-new-007-movie",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779656624
-    },
-    {
-      "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
-      "link": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779649200
-    },
-    {
-      "title": "6 kitchen gadgets that make adulting feel easier",
-      "link": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779642000
-    },
-    {
-      "title": "TechCrunch Mobility: Robotaxi reality check",
-      "link": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779638700
-    },
-    {
-      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
-      "link": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779634800
     },
     {
       "title": "The original (and best) 'Transformers' movie is rolling back out into theaters for its 40th anniversary",
@@ -555,13 +632,6 @@
       "timestamp": 1779631952
     },
     {
-      "title": "Grab the Estes Blue Origin model rocket ahead of Memorial Day with it's lowest price since January!",
-      "link": "https://www.space.com/stargazing/skywatching-kit/grab-the-estes-blue-origin-model-rocket-ahead-of-memorial-day-with-its-lowest-price-since-january",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779631200
-    },
-    {
       "title": "15 sci-fi books to read before you die: Put these science fiction gems on your bucket list",
       "link": "https://www.space.com/entertainment/space-books/15-sci-fi-books-to-read-before-you-die-put-these-science-fiction-gems-on-your-bucket-list",
       "source": "SPACE",
@@ -569,11 +639,11 @@
       "timestamp": 1779631200
     },
     {
-      "title": "The Dreamie alarm clock got me to stop using my phone in bed",
-      "link": "https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779627600
+      "title": "Grab the Estes Blue Origin model rocket ahead of Memorial Day with it's lowest price since January!",
+      "link": "https://www.space.com/stargazing/skywatching-kit/grab-the-estes-blue-origin-model-rocket-ahead-of-memorial-day-with-its-lowest-price-since-january",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779631200
     },
     {
       "title": "Scientists discover the oldest wooden tools ever used by humans",
@@ -618,20 +688,6 @@
       "timestamp": 1779618078
     },
     {
-      "title": "The most common type of planet in the galaxy may not look anything like Earth on the inside",
-      "link": "https://www.space.com/astronomy/exoplanets/the-most-common-type-of-planet-in-the-galaxy-may-not-look-anything-like-earth-on-the-inside",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779616800
-    },
-    {
-      "title": "China reveals 3-person Shenzhou 23 crew, including Hong Kong's 1st astronaut",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/china-reveals-3-person-shenzhou-23-crew-including-hong-kongs-1st-astronaut",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779585634
-    },
-    {
       "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
       "link": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
       "source": "BLEEPINGCOMPUTER",
@@ -639,32 +695,11 @@
       "timestamp": 1779569303
     },
     {
-      "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
-      "link": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779566593
-    },
-    {
       "title": "SpaceX's Starship V3—still a work in progress—mostly successful on first flight",
       "link": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1779558894
-    },
-    {
-      "title": "These special phone and app features can help protect you from spyware",
-      "link": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779552000
-    },
-    {
-      "title": "Ferrari is using IBM’s AI to create F1 superfans",
-      "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779548880
     },
     {
       "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
@@ -716,34 +751,6 @@
       "timestamp": 1779484246
     },
     {
-      "title": "US scrambles to stop Internet users re-creating dead pilots’ voices",
-      "link": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779478744
-    },
-    {
-      "title": "The Boys is dead. Long live Vought Rising.",
-      "link": "https://arstechnica.com/culture/2026/05/the-boys-is-dead-long-live-vought-rising/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779476568
-    },
-    {
-      "title": "Police boast of hacking VPN where criminals \"believed themselves to be safe\"",
-      "link": "https://arstechnica.com/tech-policy/2026/05/police-boast-of-hacking-vpn-where-criminals-believed-themselves-to-be-safe/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779475434
-    },
-    {
-      "title": "Review: The Mandalorian and Grogu is ... fine",
-      "link": "https://arstechnica.com/culture/2026/05/review-the-mandalorian-and-grogu-is-average-star-wars-no-more-no-less/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779474606
-    },
-    {
       "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
       "link": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
       "source": "BLEEPINGCOMPUTER",
@@ -770,13 +777,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779455680
-    },
-    {
-      "title": "Why Chargebacks are Just One Piece of the Fraud Puzzle",
-      "link": "https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779455358
     }
   ]
 }
