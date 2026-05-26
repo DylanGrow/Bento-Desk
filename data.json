@@ -1,6 +1,48 @@
 {
-  "last_updated": 1779771664,
+  "last_updated": 1779789059,
   "items": [
+    {
+      "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779785205
+    },
+    {
+      "title": "Microsoft: Domain Controller lookup may fail on Windows Server 2016",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779781285
+    },
+    {
+      "title": "7-Eleven data breach exposes personal information of 185,000 people",
+      "link": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779778872
+    },
+    {
+      "title": "NASA’s Psyche spacecraft uses Mars as a giant slingshot toward a mysterious metal world",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260525040421.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779775915
+    },
+    {
+      "title": "Scientists discover a giant “planet factory” beyond Jupiter",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260525000455.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779774482
+    },
+    {
+      "title": "Massive supercomputer simulations unlock cosmic magnetic mystery",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260525000503.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779773572
+    },
     {
       "title": "What's next for Cavaliers? No one is safe after going all in, so what does that mean for LeBron James?",
       "link": "https://www.cbssports.com/nba/news/whats-next-cavaliers-all-in-lebron/",
@@ -702,13 +744,6 @@
       "timestamp": 1779463938
     },
     {
-      "title": "Scientists uncover cancer-causing chemicals hidden in everyday foods",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260522030853.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1779461182
-    },
-    {
       "title": "Trend Micro warns of Apex One zero-day exploited in the wild",
       "link": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/",
       "source": "BLEEPINGCOMPUTER",
@@ -716,25 +751,11 @@
       "timestamp": 1779457159
     },
     {
-      "title": "Scientists discover a strange hidden state in “sandwich” molecules",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260521072352.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1779457092
-    },
-    {
       "title": "Drupal: Critical SQL injection flaw now targeted in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779455680
-    },
-    {
-      "title": "Einstein’s “wormhole” may actually reveal a hidden mirror of time",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260522023129.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1779455367
     },
     {
       "title": "Why Chargebacks are Just One Piece of the Fraud Puzzle",
@@ -756,27 +777,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779440480
-    },
-    {
-      "title": "Google accidentally exposed details of unfixed Chromium flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779387230
-    },
-    {
-      "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
-      "link": "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779376268
-    },
-    {
-      "title": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779372010
     }
   ]
 }
