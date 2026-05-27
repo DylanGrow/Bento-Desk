@@ -1,5 +1,5 @@
 {
-  "last_updated": 1779918721,
+  "last_updated": 1779923679,
   "items": [
     {
       "title": "GPU mining malware spreads via SEO poisoning, AI chatbots",
@@ -21,6 +21,13 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1779916275
+    },
+    {
+      "title": "California defeats Tesla's attempt to throw out racial discrimination lawsuit",
+      "link": "https://arstechnica.com/tech-policy/2026/05/california-defeats-teslas-attempt-to-throw-out-racial-discrimination-lawsuit/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779916131
     },
     {
       "title": "Russian cosmonauts install sun-watching telescope on ISS during 6-hour spacewalk",
@@ -233,7 +240,7 @@
       "timestamp": 1779901200
     },
     {
-      "title": "CrowdStrike and Google take down botnet used by hackers to target software developers in supply chain attacks",
+      "title": "CrowdStrike and Google take down botnet used by hackers to target open source software developers",
       "link": "https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -303,15 +310,15 @@
       "timestamp": 1779894361
     },
     {
-      "title": "Every Lego Star Wars set released in 2026 that I wish I had",
-      "link": "https://www.space.com/entertainment/space-toys-lego/every-lego-star-wars-set-released-in-2026-that-i-wish-i-had",
+      "title": "3 planets will line up in the night sky tonight: Here's where to look for the mini planetary parade",
+      "link": "https://www.space.com/stargazing/3-planets-will-line-up-in-the-night-sky-tonight-heres-where-to-look-for-the-mini-planetary-parade",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779894000
     },
     {
-      "title": "3 planets will line up in the night sky tonight: Here's where to look for the mini planetary parade",
-      "link": "https://www.space.com/stargazing/3-planets-will-line-up-in-the-night-sky-tonight-heres-where-to-look-for-the-mini-planetary-parade",
+      "title": "Every Lego Star Wars set released in 2026 that I wish I had",
+      "link": "https://www.space.com/entertainment/space-toys-lego/every-lego-star-wars-set-released-in-2026-that-i-wish-i-had",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779894000
@@ -476,13 +483,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1779879628
-    },
-    {
-      "title": "US law enforcement warns of \"anti-tech extremism\" as AI hatred grows",
-      "link": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779877828
     },
     {
       "title": "NASA’s Webb telescope discovers a planet where rock clouds vanish every night",
