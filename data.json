@@ -1,12 +1,138 @@
 {
-  "last_updated": 1779909724,
+  "last_updated": 1779918721,
   "items": [
+    {
+      "title": "GPU mining malware spreads via SEO poisoning, AI chatbots",
+      "link": "https://www.bleepingcomputer.com/news/security/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779917485
+    },
+    {
+      "title": "Rivian will deliver the first R2 SUVs on June 9",
+      "link": "https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779916504
+    },
+    {
+      "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
+      "link": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779916275
+    },
+    {
+      "title": "Russian cosmonauts install sun-watching telescope on ISS during 6-hour spacewalk",
+      "link": "https://www.space.com/space-exploration/international-space-station/russian-cosmonauts-install-sun-watching-telescope-on-iss-during-6-hour-spacewalk",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779915410
+    },
+    {
+      "title": "Websites have a new way to spy on visitors: analyzing their SSD activity",
+      "link": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779915363
+    },
+    {
+      "title": "The First Wheel of Time Board Game Adaptation Has Already Blown Past Its Goals on Kickstarter",
+      "link": "https://www.ign.com/articles/the-first-wheel-of-time-board-game-adaptation-has-already-blown-past-its-goals-on-kickstarter",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779914700
+    },
+    {
+      "title": "Mystery GPS jammer in Iran becomes test for NASA satellites’ capabilities",
+      "link": "https://arstechnica.com/gadgets/2026/05/nasa-satellites-can-spot-gps-jammers-on-earth/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779914634
+    },
+    {
+      "title": "Thunder's Jared McCain says Spurs made threat after 'crazy' hard foul at end of Game 5",
+      "link": "https://www.cbssports.com/nba/news/jared-mccain-thunder-spurs-hard-fouls-western-conference-finals/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779914487
+    },
+    {
+      "title": "Mina the Hollower is the best old-school action adventure I've played in a while",
+      "link": "https://arstechnica.com/gaming/2026/05/mina-the-hollower-is-the-best-old-school-action-adventure-ive-played-in-a-while/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779913324
+    },
+    {
+      "title": "President Donald Trump says he may attend Knicks' NBA Finals game at Madison Square Garden",
+      "link": "https://www.cbssports.com/nba/news/president-donald-trump-nba-finals-new-york-knicks/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779913234
+    },
     {
       "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
       "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
       "source": "TECHCRUNCH",
       "category": "tech",
-      "timestamp": 1779909531
+      "timestamp": 1779912600
+    },
+    {
+      "title": "Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires",
+      "link": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779911980
+    },
+    {
+      "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+      "link": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779910785
+    },
+    {
+      "title": "Today's top games to watch, best bets, odds: Hurricanes vs. Canadiens Game 4, Yankees vs. Royals and more",
+      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-hurricanes-vs-canadiens-game-4-yankees-vs-royals-and-more/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779910246
+    },
+    {
+      "title": "Roku OS’s home screen now features a large, permanent ad",
+      "link": "https://arstechnica.com/gadgets/2026/05/roku-oss-home-screen-now-features-a-large-permanent-ad/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779909179
+    },
+    {
+      "title": "Dragon Quest 12: Beyond Dreams Update",
+      "link": "https://www.ign.com/articles/dragon-quest-12-beyond-dreams-update",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779908545
+    },
+    {
+      "title": "Valve's Steam Deck is back in stock after months, but you won't like it",
+      "link": "https://arstechnica.com/gadgets/2026/05/valves-steam-deck-is-back-in-stock-after-months-but-you-wont-like-it/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779908541
+    },
+    {
+      "title": "Trump admin to block Ebola-exposed Americans from US, move them to Kenya",
+      "link": "https://arstechnica.com/health/2026/05/us-walls-itself-off-from-ebola-beefed-up-travel-ban-no-citizen-repatriation/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779907965
+    },
+    {
+      "title": "\"Little red dot\" in early Universe is a naked supermassive black hole",
+      "link": "https://arstechnica.com/science/2026/05/little-red-dot-in-early-universe-is-a-naked-supermassive-black-hole/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779907077
     },
     {
       "title": "UK Visa Portal exposed thousands of applicants’ passports and selfies — then called the lawyers on us",
@@ -163,13 +289,6 @@
       "timestamp": 1779896459
     },
     {
-      "title": "Thunder's Jared McCain says Spurs made threat after 'crazy' hard foul at end of Game 5",
-      "link": "https://www.cbssports.com/nba/news/jared-mccain-thunder-spurs-hard-fouls-western-conference-finals/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779895302
-    },
-    {
       "title": "FAA orders SpaceX to investigate Starship V3 booster failure",
       "link": "https://techcrunch.com/2026/05/27/faa-orders-spacex-to-investigate-starship-v3-booster-failure/",
       "source": "TECHCRUNCH",
@@ -282,13 +401,6 @@
       "timestamp": 1779890400
     },
     {
-      "title": "China is increasingly keeping its best AI talent to itself",
-      "link": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779889721
-    },
-    {
       "title": "YouTube Now Automatically Adds Disclosures to Videos With 'Significant Photorealistic AI Use'",
       "link": "https://www.ign.com/articles/youtube-now-automatically-adds-disclosures-to-videos-with-significant-photorealistic-ai-use",
       "source": "IGN",
@@ -310,13 +422,6 @@
       "timestamp": 1779887129
     },
     {
-      "title": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
-      "link": "https://techcrunch.com/2026/05/27/clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779887060
-    },
-    {
       "title": "No Man's Sky Launches The Swarm Update, Adds Mysterious Death Star Like Construct to the Game",
       "link": "https://www.ign.com/articles/no-mans-sky-launches-the-swarm-update-adds-mysterious-death-star-like-construct-to-the-game",
       "source": "IGN",
@@ -329,13 +434,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1779886806
-    },
-    {
-      "title": "YouTube will now automatically label AI videos",
-      "link": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779886800
     },
     {
       "title": "NASA will reveal the Artemis 3 astronauts on June 9",
@@ -364,20 +462,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779883843
-    },
-    {
-      "title": "EXCLUSIVE: First Look at EA Sports FC 26 The World's Game Update",
-      "link": "https://www.ign.com/articles/exclusive-first-look-at-ea-sports-fc-26-the-worlds-game-update",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779883200
-    },
-    {
-      "title": "Resident Evil Requiem Now Has a Demo, 3 Months After Launch",
-      "link": "https://www.ign.com/articles/resident-evil-requiem-now-has-a-demo-3-months-after-launch",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779883088
     },
     {
       "title": "FBI warns of in-person data theft attacks from extortion gang",
@@ -499,39 +583,11 @@
       "timestamp": 1779836917
     },
     {
-      "title": "Is Peter Thiel the target of Pope Leo's Gandalf quote? An investigation.",
-      "link": "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779834452
-    },
-    {
       "title": "Artemis moon base will cover 'hundreds of square miles' with hopping drones and new lunar rovers, NASA says",
       "link": "https://www.space.com/astronomy/moon/artemis-moon-base-will-cover-hundreds-of-square-miles-with-hopping-drones-and-new-lunar-rovers-nasa-says",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779832054
-    },
-    {
-      "title": "Musk says US military suicide drones used Starlink in violation of SpaceX rules",
-      "link": "https://arstechnica.com/tech-policy/2026/05/musk-says-us-military-suicide-drones-used-starlink-in-violation-of-spacex-rules/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779830636
-    },
-    {
-      "title": "NASA takes steps toward building Moon Base, including discussing a \"perimeter\"",
-      "link": "https://arstechnica.com/space/2026/05/nasa-takes-steps-toward-building-moon-base-including-discussing-a-perimeter/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779829383
-    },
-    {
-      "title": "We're starting to see some PC makers respond to Apple's MacBook Neo",
-      "link": "https://arstechnica.com/gadgets/2026/05/were-starting-to-see-some-pc-makers-respond-to-apples-macbook-neo/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779828451
     },
     {
       "title": "Kenny Atkinson to return as Cavaliers coach after being swept by Knicks, per reports",
@@ -562,13 +618,6 @@
       "timestamp": 1779825600
     },
     {
-      "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
-      "link": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779825033
-    },
-    {
       "title": "Charter confirms data breach after ShinyHunters extortion threat",
       "link": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
       "source": "BLEEPINGCOMPUTER",
@@ -590,39 +639,11 @@
       "timestamp": 1779823054
     },
     {
-      "title": "It's time for Shai Gilgeous-Alexander to be the MVP: Thunder need SGA to step up vs. Spurs",
-      "link": "https://www.cbssports.com/nba/news/time-for-shai-gilgeous-alexander-to-be-mvp-thunder-spurs/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779821840
-    },
-    {
-      "title": "Want an oxygen-rich atmosphere? Stuff oxygen’s friends in the mantle.",
-      "link": "https://arstechnica.com/science/2026/05/the-oxygenation-of-earths-air-might-owe-a-lot-to-plate-tectonics/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779820258
-    },
-    {
       "title": "Satellites imaged an underwater volcano erupting — but scientists have no idea what's actually happening on the seafloor",
       "link": "https://www.space.com/astronomy/earth/satellites-imaged-an-underwater-volcano-erupting-but-scientists-have-no-idea-whats-actually-happening-on-the-seafloor",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779818400
-    },
-    {
-      "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
-      "link": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779817561
-    },
-    {
-      "title": "3D-printable humanoid legs let robotics experiments run wild",
-      "link": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779815767
     },
     {
       "title": "'Redshift' blends James Webb Space Telescope, Artemis 2 and Pink Floyd into a cosmic journey through light and sound (video, photos)",
@@ -646,13 +667,6 @@
       "timestamp": 1779804000
     },
     {
-      "title": "The Knicks beat up on a weak East, but they're more than qualified to give the Spurs or Thunder a real fight",
-      "link": "https://www.cbssports.com/nba/news/knicks-weak-east-spurs-thunder/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779803340
-    },
-    {
       "title": "Scientists say they’ve reversed brain aging with a simple nasal spray",
       "link": "https://www.sciencedaily.com/releases/2026/05/260526022018.htm",
       "source": "SCIENCEDAILY",
@@ -665,13 +679,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1779801823
-    },
-    {
-      "title": "Could a cosmic uncertainty principle help explain dark matter?",
-      "link": "https://www.space.com/science/particle-physics/could-a-cosmic-uncertainty-principle-help-explain-dark-matter",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779800400
     },
     {
       "title": "Scientists create global treasure map pointing to hidden rare earth deposits",
@@ -749,13 +756,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1779773572
-    },
-    {
-      "title": "Anthropic’s restricted Claude Mythos model may be coming to Claude Code",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779728853
     },
     {
       "title": "This prehistoric fish may explain how animals first walked on Earth",
