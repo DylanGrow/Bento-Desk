@@ -1,6 +1,62 @@
 {
-  "last_updated": 1779951181,
+  "last_updated": 1779965611,
   "items": [
+    {
+      "title": "Carnival Cruise confirms data breach affecting nearly 6 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779965367
+    },
+    {
+      "title": "Forecasters predict below-average hurricane season, advise against complacency",
+      "link": "https://arstechnica.com/science/2026/05/forecasters-predict-below-average-hurricane-season-advise-against-complacency/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779962401
+    },
+    {
+      "title": "Where did Mercury get its water ice? Maybe from a slow asteroid impact in a single Mercurian day",
+      "link": "https://www.space.com/astronomy/mercury/where-did-mercury-get-its-water-ice-maybe-from-a-single-slow-asteroid-impact-in-one-mercurian-day",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779962400
+    },
+    {
+      "title": "LEGO Smart Play Headed to Pokémon Sets This Summer, Leaks Reveal",
+      "link": "https://www.ign.com/articles/lego-smart-play-headed-to-pokemon-sets-this-summer-leaks-reveal",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779962037
+    },
+    {
+      "title": "Sextortionist sentenced to 33 years for targeting 145 children",
+      "link": "https://www.bleepingcomputer.com/news/security/sextortionist-sentenced-to-33-years-for-targeting-145-children/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779960359
+    },
+    {
+      "title": "Subnautica 2 Has Sold So Well That Krafton Has to Pay That $250 Million Earnout to the Devs",
+      "link": "https://www.ign.com/articles/subnautica-2-has-sold-so-well-that-krafton-has-to-pay-that-250-million-earnout-to-the-devs",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779958979
+    },
+    {
+      "title": "Donkey Kong 64 Confirmed for Nintendo Switch Online",
+      "link": "https://www.ign.com/articles/donkey-kong-64-confirmed-for-nintendo-switch-online",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779958313
+    },
+    {
+      "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+      "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779951600
+    },
     {
       "title": "007 First Light Teases First Content Update",
       "link": "https://www.ign.com/articles/007-first-light-teases-first-content-update",
@@ -373,20 +429,6 @@
       "timestamp": 1779894000
     },
     {
-      "title": "10 Billion Pokémon Cards Were Printed Last Year — and It Still Wasn't Enough to Stop Shortages and Scalping",
-      "link": "https://www.ign.com/articles/10-billion-pokemon-cards-were-printed-last-year-and-it-still-wasnt-enough-to-stop-shortages-and-scalping",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779893914
-    },
-    {
-      "title": "Spider-Man: Brand New Day Toy Leak Reveals Hulk Plotline",
-      "link": "https://www.ign.com/articles/spider-man-brand-new-day-toy-leak-reveals-hulk-plotline",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779893128
-    },
-    {
       "title": "Volvo gets US government approval to bypass Chinese connected-car ban",
       "link": "https://arstechnica.com/cars/2026/05/volvo-gets-us-government-approval-to-bypass-chinese-connected-car-ban/",
       "source": "ARSTECHNICA",
@@ -420,20 +462,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779890410
-    },
-    {
-      "title": "SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M",
-      "link": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779890400
-    },
-    {
-      "title": "IGN Shorts Is a New Way to Experience the Biggest Gaming and Entertainment News",
-      "link": "https://www.ign.com/articles/ign-shorts-is-a-new-way-to-experience-the-biggest-gaming-and-entertainment-news",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779890400
     },
     {
       "title": "Laser beams blast through the cosmos | Space photo of the day for May 27, 2026",
@@ -483,13 +511,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779882672
-    },
-    {
-      "title": "Motorola's 2026 Razrs are almost worth buying just for their stunning looks… almost",
-      "link": "https://arstechnica.com/gadgets/2026/05/motorolas-2026-razrs-are-almost-worth-buying-just-for-their-stunning-looks-almost/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779879628
     },
     {
       "title": "NASA’s Webb telescope discovers a planet where rock clouds vanish every night",
@@ -667,13 +688,6 @@
       "timestamp": 1779804071
     },
     {
-      "title": "Seeing double with the Artemis 2 rocket boosters | Space photo of the day for May 26, 2026",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/seeing-double-with-the-artemis-2-rocket-boosters-space-photo-of-the-day-for-25-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779804000
-    },
-    {
       "title": "Scientists say they’ve reversed brain aging with a simple nasal spray",
       "link": "https://www.sciencedaily.com/releases/2026/05/260526022018.htm",
       "source": "SCIENCEDAILY",
@@ -728,20 +742,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779785205
-    },
-    {
-      "title": "Microsoft: Domain Controller lookup may fail on Windows Server 2016",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779781285
-    },
-    {
-      "title": "7-Eleven data breach exposes personal information of 185,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779778872
     },
     {
       "title": "NASA’s Psyche spacecraft uses Mars as a giant slingshot toward a mysterious metal world",
