@@ -1,6 +1,132 @@
 {
-  "last_updated": 1779991745,
+  "last_updated": 1780002388,
   "items": [
+    {
+      "title": "Andy Weir's 'The Martian' just got a deluxe edition to celebrate the book's 15-year anniversary, and it's a stunner",
+      "link": "https://www.space.com/entertainment/space-books/andy-weirs-the-martian-just-got-a-deluxe-edition-to-celebrate-the-books-15-year-anniversary-and-its-a-stunner",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780002000
+    },
+    {
+      "title": "NBA Draft Lottery reform winners and losers: Why new system is set to benefit some of league's best teams",
+      "link": "https://www.cbssports.com/nba/news/nba-draft-lottery-reform-winners-losers-new-system/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780000859
+    },
+    {
+      "title": "Slate Auto will announce pricing and take preorders for its EV on June 24",
+      "link": "https://techcrunch.com/2026/05/28/slate-auto-will-announce-pricing-and-take-preorders-for-its-ev-on-june-24/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780000140
+    },
+    {
+      "title": "US healthcare still stupidly expensive, with pathetic outcomes, study finds",
+      "link": "https://arstechnica.com/health/2026/05/us-healthcare-still-stupidly-expensive-with-pathetic-outcomes-study-finds/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779999534
+    },
+    {
+      "title": "Asana acquires no-code agent-builder Stack AI",
+      "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779998767
+    },
+    {
+      "title": "NASA is hatching a 'fast-paced plan' to boost this space telescope. But first, they'll have to find it",
+      "link": "https://www.space.com/space-exploration/missions/nasa-is-hatching-a-fast-paced-plan-to-boost-this-space-telescope-but-first-theyll-have-to-find-it",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1779998400
+    },
+    {
+      "title": "2026 NBA Draft Big Board: Top 100 updated prospect rankings following the withdrawal deadline",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-draft-big-board-prospect-rankings-withdraw-deadline/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779998024
+    },
+    {
+      "title": "Today's top games to watch, best bets, odds: Thunder look to close out Spurs, MLB and more",
+      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-thunder-look-to-close-out-spurs-mlb-and-more/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1779996642
+    },
+    {
+      "title": "Researchers develop a new process to get lithium out of rocks",
+      "link": "https://arstechnica.com/science/2026/05/researchers-develop-a-new-process-to-get-lithium-out-of-rocks/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779996604
+    },
+    {
+      "title": "Bluesky embraces long-form content to counter X Articles",
+      "link": "https://techcrunch.com/2026/05/28/bluesky-embraces-long-form-content-to-counter-x-articles/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779996427
+    },
+    {
+      "title": "FBI warns of fake FIFA websites running World Cup fraud schemes",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1779995290
+    },
+    {
+      "title": "Hackers are trying to steal Signal users’ backups in new wave of phishing attacks",
+      "link": "https://techcrunch.com/2026/05/28/hackers-are-trying-to-steal-signal-users-backups-in-new-wave-of-phishing-attacks/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779995244
+    },
+    {
+      "title": "FBI says Google engineer used internal search data to win $1.2M on Polymarket",
+      "link": "https://arstechnica.com/tech-policy/2026/05/fbi-says-google-engineer-used-internal-search-data-to-win-1-2m-on-polymarket/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779994914
+    },
+    {
+      "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+      "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779994371
+    },
+    {
+      "title": "A respectable port of Age of Empires II: Definitive Edition invades macOS",
+      "link": "https://arstechnica.com/gaming/2026/05/a-respectable-port-of-age-of-empires-ii-definitive-edition-invades-macos/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779993748
+    },
+    {
+      "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
+      "link": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1779993145
+    },
+    {
+      "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
+      "link": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779993048
+    },
+    {
+      "title": "Amazon turns to Jeff Bezos' other company to do some heavy lifting",
+      "link": "https://arstechnica.com/space/2026/05/amazon-turns-to-jeff-bezos-other-company-to-do-some-heavy-lifting/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779992261
+    },
     {
       "title": "H1 secures $40M from CVS, proving SaaS startups can still attract investment",
       "link": "https://techcrunch.com/2026/05/28/h1-secures-40m-from-cvs-proving-saas-startups-can-still-attract-investment/",
@@ -16,7 +142,14 @@
       "timestamp": 1779991609
     },
     {
-      "title": "A security lapse at prison payphone service Pay Tel publicly exposed over 300K callers’ driver’s licenses",
+      "title": "How pigeons exploit magnetic fields for navigation",
+      "link": "https://arstechnica.com/science/2026/05/how-pigeons-exploit-magnetic-fields-for-navigation/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779991222
+    },
+    {
+      "title": "A security lapse at prison pay phone service Pay Tel publicly exposed over 300K callers’ driver’s licenses",
       "link": "https://techcrunch.com/2026/05/28/a-security-lapse-at-prison-payphone-service-pay-tel-publicly-exposed-over-300000-callers-drivers-licenses/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -44,7 +177,7 @@
       "timestamp": 1779989535
     },
     {
-      "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
+      "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
       "link": "https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -65,11 +198,18 @@
       "timestamp": 1779988853
     },
     {
-      "title": "Corgi announces $106M raise at $2.6B valuation — double what it was worth three weeks ago",
+      "title": "Corgi announces $106M raise at $2.6B valuation — double what it was worth 3 weeks ago",
       "link": "https://techcrunch.com/2026/05/28/corgi-announces-106m-raise-at-2-6b-valuation-three-weeks-after-160m-series-b/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1779988500
+    },
+    {
+      "title": "Intel makes a bid for handheld gaming PCs with new Arc G3 processors",
+      "link": "https://arstechnica.com/gadgets/2026/05/intel-makes-a-bid-for-handheld-gaming-pcs-with-new-arc-g3-processors/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1779988210
     },
     {
       "title": "Trump loses more control over AI regulation as Illinois passes landmark law",
@@ -100,7 +240,7 @@
       "timestamp": 1779985923
     },
     {
-      "title": "U.S. says troops were targeted with location data, as senator warns ad industry is a ‘national security threat’",
+      "title": "US says troops were targeted with location data, as senator warns ad industry is a ‘national security threat’",
       "link": "https://techcrunch.com/2026/05/28/u-s-says-troops-were-targeted-with-location-data-as-senator-warns-ad-industry-is-a-national-security-threat/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -135,32 +275,11 @@
       "timestamp": 1779982856
     },
     {
-      "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
+      "title": "How long is Anthropic’s lease with SpaceX? Opinions vary",
       "link": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1779982560
-    },
-    {
-      "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
-      "link": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779982543
-    },
-    {
-      "title": "Slate Auto will start taking orders for its low-cost EV on June 24",
-      "link": "https://techcrunch.com/2026/05/28/slate-auto-will-start-taking-orders-for-its-low-cost-ev-on-june-24/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779982450
-    },
-    {
-      "title": "NBA player prop picks, odds: Three best 2026 NBA Playoffs prop bets for Thunder vs. Spurs, Game 6",
-      "link": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-three-best-2026-nba-playoffs-prop-bets-for-thunder-vs-spurs-game-6/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779981458
     },
     {
       "title": "Thunder vs. Spurs Game 6 prop trends Thursday: Bettors fading Chet Holmgren as OKC can return to NBA Finals",
@@ -184,39 +303,11 @@
       "timestamp": 1779980358
     },
     {
-      "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
-      "link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779979513
-    },
-    {
-      "title": "Rivian under investigation over rear suspension failures on R1 models",
-      "link": "https://techcrunch.com/2026/05/28/rivian-under-investigation-over-rear-suspension-failures-on-r1-models/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779979316
-    },
-    {
       "title": "2026 NBA Western Conference Finals odds, predictions: Thunder vs. Spurs Game 6 picks by expert who's 138-97",
       "link": "https://www.cbssports.com/nba/news/2026-nba-western-conference-finals-odds-predictions-thunder-spurs-game-6-picks/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1779979198
-    },
-    {
-      "title": "RSI is the new AGI — and it’s just as hard to pin down",
-      "link": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779978617
-    },
-    {
-      "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
-      "link": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1779978600
     },
     {
       "title": "New Gogs zero-day flaw lets hackers get remote code execution",
@@ -254,25 +345,11 @@
       "timestamp": 1779976735
     },
     {
-      "title": "Use DraftKings promo code for $100 bonus bets by targeting Thunder-Spurs, Paul Skenes props on Thursday",
-      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-100-bonus-bets-thunder-spurs-paul-skenes-thursday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779976704
-    },
-    {
       "title": "Bad cholesterol slashed 62% by single dose of gene-editing drug in small trial",
       "link": "https://arstechnica.com/health/2026/05/one-dose-of-gene-editing-drug-cut-bad-cholesterol-62-for-months-in-small-trial/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1779975589
-    },
-    {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Thunder-Spurs, Paul Skenes props on Thursday",
-      "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-thunder-spurs-paul-skenes-props-thursday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779975228
     },
     {
       "title": "Intel's New Handheld Gaming PC Chips Are Here At Computex 2026",
@@ -289,15 +366,15 @@
       "timestamp": 1779973243
     },
     {
-      "title": "How to catch the perfect full moonrise — just in time for the Blue Moon show on May 30",
-      "link": "https://www.space.com/stargazing/how-to-catch-the-perfect-full-moonrise-just-in-time-for-the-blue-moon-show-on-may-30",
+      "title": "What's next for SpaceX's Starship V3 megarocket after its historic debut flight?",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-v3-megarocket-after-its-historic-debut-flight",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779973200
     },
     {
-      "title": "What's next for SpaceX's Starship V3 megarocket after its historic debut flight?",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-v3-megarocket-after-its-historic-debut-flight",
+      "title": "How to catch the perfect full moonrise — just in time for the Blue Moon show on May 30",
+      "link": "https://www.space.com/stargazing/how-to-catch-the-perfect-full-moonrise-just-in-time-for-the-blue-moon-show-on-may-30",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779973200
@@ -520,53 +597,11 @@
       "timestamp": 1779913234
     },
     {
-      "title": "Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires",
-      "link": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779911980
-    },
-    {
       "title": "Today's top games to watch, best bets, odds: Hurricanes vs. Canadiens Game 4, Yankees vs. Royals and more",
       "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-hurricanes-vs-canadiens-game-4-yankees-vs-royals-and-more/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1779910246
-    },
-    {
-      "title": "Roku OS’s home screen now features a large, permanent ad",
-      "link": "https://arstechnica.com/gadgets/2026/05/roku-oss-home-screen-now-features-a-large-permanent-ad/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779909179
-    },
-    {
-      "title": "Valve's Steam Deck is back in stock after months, but you won't like it",
-      "link": "https://arstechnica.com/gadgets/2026/05/valves-steam-deck-is-back-in-stock-after-months-but-you-wont-like-it/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779908541
-    },
-    {
-      "title": "Trump admin to block Ebola-exposed Americans from US, move them to Kenya",
-      "link": "https://arstechnica.com/health/2026/05/us-walls-itself-off-from-ebola-beefed-up-travel-ban-no-citizen-repatriation/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779907965
-    },
-    {
-      "title": "\"Little red dot\" in early Universe is a naked supermassive black hole",
-      "link": "https://arstechnica.com/science/2026/05/little-red-dot-in-early-universe-is-a-naked-supermassive-black-hole/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779907077
-    },
-    {
-      "title": "US Space Force confirms SpaceX will build sensor-to-shooter targeting network",
-      "link": "https://arstechnica.com/space/2026/05/us-space-force-confirms-spacex-will-build-sensor-to-shooter-targeting-network/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779905991
     },
     {
       "title": "How Thunder's Alex Caruso is making an unprecedented case for Western Conference Finals MVP",
@@ -581,20 +616,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779904800
-    },
-    {
-      "title": "Disclosure Day final trailer features Spielberg himself",
-      "link": "https://arstechnica.com/culture/2026/05/disclosure-day-final-trailer-features-spielberg-himself/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779904267
-    },
-    {
-      "title": "YouTube to begin automatically labeling AI videos",
-      "link": "https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779903370
     },
     {
       "title": "FAA grounds SpaceX's Starship V3 megarocket after Flight 12 'mishap'",
@@ -625,15 +646,15 @@
       "timestamp": 1779896714
     },
     {
-      "title": "Every Lego Star Wars set released in 2026 that I wish I had",
-      "link": "https://www.space.com/entertainment/space-toys-lego/every-lego-star-wars-set-released-in-2026-that-i-wish-i-had",
+      "title": "3 planets will line up in the night sky tonight: Here's where to look for the mini planetary parade",
+      "link": "https://www.space.com/stargazing/3-planets-will-line-up-in-the-night-sky-tonight-heres-where-to-look-for-the-mini-planetary-parade",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779894000
     },
     {
-      "title": "3 planets will line up in the night sky tonight: Here's where to look for the mini planetary parade",
-      "link": "https://www.space.com/stargazing/3-planets-will-line-up-in-the-night-sky-tonight-heres-where-to-look-for-the-mini-planetary-parade",
+      "title": "Every Lego Star Wars set released in 2026 that I wish I had",
+      "link": "https://www.space.com/entertainment/space-toys-lego/every-lego-star-wars-set-released-in-2026-that-i-wish-i-had",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779894000
@@ -644,13 +665,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779890410
-    },
-    {
-      "title": "Laser beams blast through the cosmos | Space photo of the day for May 27, 2026",
-      "link": "https://www.space.com/astronomy/laser-beams-blast-through-the-cosmos-space-photo-of-the-day-for-may-27-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779890400
     },
     {
       "title": "Glassworm botnet disrupted after resilient C2 infrastructure takedown",
@@ -665,13 +679,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1779886806
-    },
-    {
-      "title": "NASA will reveal the Artemis 3 astronauts on June 9",
-      "link": "https://www.space.com/space-exploration/artemis/nasa-will-reveal-the-artemis-3-astronauts-on-june-9",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779886800
     },
     {
       "title": "FBI warns of in-person data theft attacks from extortion gang",
@@ -728,13 +735,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1779854566
-    },
-    {
-      "title": "KnowledgeDeliver flaw exploited as a zero-day to install web shells",
-      "link": "https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779826051
     },
     {
       "title": "Scientists say they’ve reversed brain aging with a simple nasal spray",
