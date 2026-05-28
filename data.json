@@ -1,6 +1,41 @@
 {
-  "last_updated": 1779936710,
+  "last_updated": 1779951181,
   "items": [
+    {
+      "title": "007 First Light Teases First Content Update",
+      "link": "https://www.ign.com/articles/007-first-light-teases-first-content-update",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779945728
+    },
+    {
+      "title": "Bungie Is Letting Players Try Marathon for Free for a Limited Time",
+      "link": "https://www.ign.com/articles/bungie-is-letting-players-try-marathon-for-free-for-a-limited-time",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779945369
+    },
+    {
+      "title": "Backrooms Director Kane Parsons and Actor Mark Duplass Address 'Ghost Director' Rumors",
+      "link": "https://www.ign.com/articles/backrooms-director-kane-parsons-and-actor-mark-duplass-address-ghost-director-rumors",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779945126
+    },
+    {
+      "title": "Ferarri Reveals New $640k Electric Car and Everyone Seems to Hate It",
+      "link": "https://www.ign.com/articles/ferarri-reveals-new-640k-electric-car-and-everyone-seems-to-hate-it",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1779944638
+    },
+    {
+      "title": "Scientists discover hidden gut-brain circuit that triggers protein cravings",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260527023202.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1779942919
+    },
     {
       "title": "Google engineer charged with insider trading after making $1.2M on Polymarket",
       "link": "https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/",
@@ -408,13 +443,6 @@
       "timestamp": 1779890400
     },
     {
-      "title": "YouTube Now Automatically Adds Disclosures to Videos With 'Significant Photorealistic AI Use'",
-      "link": "https://www.ign.com/articles/youtube-now-automatically-adds-disclosures-to-videos-with-significant-photorealistic-ai-use",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779889269
-    },
-    {
       "title": "Glassworm botnet disrupted after resilient C2 infrastructure takedown",
       "link": "https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/",
       "source": "BLEEPINGCOMPUTER",
@@ -429,13 +457,6 @@
       "timestamp": 1779887129
     },
     {
-      "title": "No Man's Sky Launches The Swarm Update, Adds Mysterious Death Star Like Construct to the Game",
-      "link": "https://www.ign.com/articles/no-mans-sky-launches-the-swarm-update-adds-mysterious-death-star-like-construct-to-the-game",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779886823
-    },
-    {
       "title": "Tiny “sesame” sea slug discovered in Taiwan turns out to be a new species",
       "link": "https://www.sciencedaily.com/releases/2026/05/260526022002.htm",
       "source": "SCIENCEDAILY",
@@ -443,25 +464,11 @@
       "timestamp": 1779886806
     },
     {
-      "title": "Zorro: Exclusive New Trailer for French Series Starring Jean Dujardin",
-      "link": "https://www.ign.com/articles/zorro-french-series-jean-dujardin-trailer",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779886800
-    },
-    {
       "title": "NASA will reveal the Artemis 3 astronauts on June 9",
       "link": "https://www.space.com/space-exploration/artemis/nasa-will-reveal-the-artemis-3-astronauts-on-june-9",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779886800
-    },
-    {
-      "title": "Planet Zoo 2 All But Confirmed Following YouTube Page Update",
-      "link": "https://www.ign.com/articles/planet-zoo-2-all-but-confirmed-following-youtube-page-update",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1779884444
     },
     {
       "title": "'One of the great unresolved embarrassments of physics': It's been 340 years since Newton and scientists still haven't solved the secret of gravity",
@@ -770,13 +777,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1779713639
-    },
-    {
-      "title": "Scientists discover why some DNA-doubled cells refuse to die",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260523103908.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1779703415
     }
   ]
 }
