@@ -1,6 +1,48 @@
 {
-  "last_updated": 1780023327,
+  "last_updated": 1780037656,
   "items": [
+    {
+      "title": "Victor Wembanyama and the Spurs continue to ace tests they shouldn't even be old enough to take",
+      "link": "https://www.cbssports.com/nba/news/victor-wembanyama-spurs-ace-tests/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780031120
+    },
+    {
+      "title": "Why Game 7 vs. Spurs will go a long way in defining Shai Gilgeous-Alexander's legacy",
+      "link": "https://www.cbssports.com/nba/news/game-7-shai-gilgeous-alexander-legacy/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780030407
+    },
+    {
+      "title": "Blue Origin's New Glenn rocket explodes in massive fireball during prelaunch test",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/blue-origins-new-glenn-rocket-explodes-in-massive-fireball-during-prelaunch-test",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780026085
+    },
+    {
+      "title": "2026 NBA playoff bracket, schedule: Spurs vs. Thunder Game 7 set for Saturday",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780024891
+    },
+    {
+      "title": "Human organoids reveal how to reverse “irreversible” nerve damage",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260528082459.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1780023305
+    },
+    {
+      "title": "The most spectacular rocket explosion since N1 just happened in Florida",
+      "link": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780021268
+    },
     {
       "title": "Blue Origin’s New Glenn rocket explodes during testing in Florida",
       "link": "https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/",
@@ -611,13 +653,6 @@
       "timestamp": 1779917485
     },
     {
-      "title": "California defeats Tesla's attempt to throw out racial discrimination lawsuit",
-      "link": "https://arstechnica.com/tech-policy/2026/05/california-defeats-teslas-attempt-to-throw-out-racial-discrimination-lawsuit/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1779916131
-    },
-    {
       "title": "Russian cosmonauts install sun-watching telescope on ISS during 6-hour spacewalk",
       "link": "https://www.space.com/space-exploration/international-space-station/russian-cosmonauts-install-sun-watching-telescope-on-iss-during-6-hour-spacewalk",
       "source": "SPACE",
@@ -630,27 +665,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1779914487
-    },
-    {
-      "title": "President Donald Trump says he may attend Knicks' NBA Finals game at Madison Square Garden",
-      "link": "https://www.cbssports.com/nba/news/president-donald-trump-nba-finals-new-york-knicks/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779913234
-    },
-    {
-      "title": "Today's top games to watch, best bets, odds: Hurricanes vs. Canadiens Game 4, Yankees vs. Royals and more",
-      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-hurricanes-vs-canadiens-game-4-yankees-vs-royals-and-more/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779910246
-    },
-    {
-      "title": "How Thunder's Alex Caruso is making an unprecedented case for Western Conference Finals MVP",
-      "link": "https://www.cbssports.com/nba/news/alex-caruso-western-conference-finals-mvp-thunder-spurs/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1779905604
     },
     {
       "title": "China shakes up its space programs to land astronauts on the moon by 2030: 'We will spare no effort'",
@@ -672,13 +686,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1779897600
-    },
-    {
-      "title": "Every Lego Star Wars set released in 2026 that I wish I had",
-      "link": "https://www.space.com/entertainment/space-toys-lego/every-lego-star-wars-set-released-in-2026-that-i-wish-i-had",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779894000
     },
     {
       "title": "Can you enforce strong Active Directory password rules without frustrating users?",
@@ -770,13 +777,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1779785525
-    },
-    {
-      "title": "NASA’s Psyche spacecraft uses Mars as a giant slingshot toward a mysterious metal world",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260525040421.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1779775915
     }
   ]
 }
