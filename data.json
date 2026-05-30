@@ -1,6 +1,48 @@
 {
-  "last_updated": 1780099660,
+  "last_updated": 1780116666,
   "items": [
+    {
+      "title": "Founders seize on Indian court ruling to revive criticism of Google’s ad business",
+      "link": "https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780106400
+    },
+    {
+      "title": "Marcia Lucas, Oscar-Winning Star Wars and Return of the Jedi Editor, Dies at 80",
+      "link": "https://www.ign.com/articles/marcia-lucas-star-wars-editor-dies-80",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780101680
+    },
+    {
+      "title": "I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with peptides",
+      "link": "https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780101553
+    },
+    {
+      "title": "Toy Story 5 Has \"One of the Most Heartbreaking Scenes\" in the Franchise, Tom Hanks Says",
+      "link": "https://www.ign.com/articles/toy-story-5-heartbreaking-scene-tom-hanks",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780097183
+    },
+    {
+      "title": "Spider-Man: Brand New Day's Punisher Is \"Authentic to the Frank Castle We Know,\" Tom Holland Says",
+      "link": "https://www.ign.com/articles/spider-man-brand-new-day-punisher-tom-holland",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780096711
+    },
+    {
+      "title": "Proposed new US funding rules: We can cancel any grant at any time",
+      "link": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780095509
+    },
     {
       "title": "The Western Conference Finals have gone the distance but lacked the drama -- will that change in Game 7?",
       "link": "https://www.cbssports.com/nba/news/western-conference-finals-drama-game-7/",
@@ -240,7 +282,7 @@
       "timestamp": 1780070608
     },
     {
-      "title": "Atlas V rocket launches 29 Amazon Leo internet satellites to orbit",
+      "title": "Atlas V rocket launches 29 Amazon Leo internet satellites to orbit from Florida",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-rocket-launch-amazon-leo-7-internet-satellites",
       "source": "SPACE",
       "category": "space",
@@ -450,13 +492,6 @@
       "timestamp": 1780054324
     },
     {
-      "title": "The Witcher 3: Songs of the Past Expansion 'Is, in a Way, a Prologue' for the Series' Future",
-      "link": "https://www.ign.com/articles/the-witcher-3-songs-of-the-past-expansion-is-in-a-way-a-prologue-for-the-series-future",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780053182
-    },
-    {
       "title": "Scientists say evolution may work differently than we thought",
       "link": "https://www.sciencedaily.com/releases/2026/05/260529030329.htm",
       "source": "SCIENCEDAILY",
@@ -478,13 +513,6 @@
       "timestamp": 1780052827
     },
     {
-      "title": "New Xbox Boss Asha Sharma Reportedly Warns Staff 'Hard Choices' Are Ahead, but Insists Recent Game Pass Changes Are Helping",
-      "link": "https://www.ign.com/articles/new-xbox-boss-asham-sharma-reportedly-warns-staff-hard-choices-are-ahead-but-insists-recent-game-pass-changes-are-helping",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780051752
-    },
-    {
       "title": "These researchers would be in Africa fighting ebola—but Trump cut their funding",
       "link": "https://arstechnica.com/health/2026/05/these-researchers-would-be-in-africa-fighting-ebola-but-trump-cut-their-funding/",
       "source": "ARSTECHNICA",
@@ -504,13 +532,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780048800
-    },
-    {
-      "title": "How 007 First Light Sets Up a Sequel",
-      "link": "https://www.ign.com/articles/how-007-first-light-sets-up-a-sequel",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780048082
     },
     {
       "title": "Charter Communications data breach affects 4.9 million accounts",
@@ -625,13 +646,6 @@
       "timestamp": 1780009338
     },
     {
-      "title": "How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline",
-      "link": "https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780009312
-    },
-    {
       "title": "GreyVibe hackers use ChatGPT, Gemini to power cyberattacks",
       "link": "https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/",
       "source": "BLEEPINGCOMPUTER",
@@ -660,13 +674,6 @@
       "timestamp": 1780003783
     },
     {
-      "title": "The internet is being rebuilt for machines",
-      "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780003441
-    },
-    {
       "title": "BTMOB Android malware service generates custom phishing payloads",
       "link": "https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/",
       "source": "BLEEPINGCOMPUTER",
@@ -679,13 +686,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780002000
-    },
-    {
-      "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
-      "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780000193
     },
     {
       "title": "NASA is hatching a 'fast-paced plan' to boost this space telescope. But first, they'll have to find it",
