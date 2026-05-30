@@ -1,6 +1,48 @@
 {
-  "last_updated": 1780135069,
+  "last_updated": 1780140270,
   "items": [
+    {
+      "title": "Environmentalists turn out in force to oppose Trump coal ash rollbacks",
+      "link": "https://arstechnica.com/tech-policy/2026/05/environmentalists-turn-out-in-force-to-oppose-trump-coal-ash-rollbacks/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780135238
+    },
+    {
+      "title": "The Blue Moon rises tonight: Where and when to see the second full moon of May",
+      "link": "https://www.space.com/stargazing/the-blue-moon-rises-tonight-where-and-when-to-see-the-second-full-moon-of-may",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780135200
+    },
+    {
+      "title": "Bungie Thanks Fans With First Look at Monumental Destiny 2 Update",
+      "link": "https://www.ign.com/articles/bungie-thanks-fans-with-first-look-at-monumental-destiny-2-update",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780134291
+    },
+    {
+      "title": "New Xbox Boss Says Decision to Continue to Show PS5 Logos During Its Xbox Games Showcase 'Was a Miss, and I Own It'",
+      "link": "https://www.ign.com/articles/new-xbox-boss-says-decision-to-continue-to-show-ps5-logos-during-its-xbox-games-showcase-was-a-miss-and-i-own-it",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780134192
+    },
+    {
+      "title": "Ancient DNA reveals how women helped transform prehistoric Europe",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260529043649.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1780128163
+    },
+    {
+      "title": "This strange new phase of matter could transform quantum technology",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260529043638.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1780126275
+    },
     {
       "title": "Caffeine reversed memory problems caused by sleep deprivation",
       "link": "https://www.sciencedaily.com/releases/2026/05/260529043654.htm",
@@ -478,20 +520,6 @@
       "timestamp": 1780056000
     },
     {
-      "title": "007 First Light Sells 1.5 Million Copies in First 24 Hours, Faster Than Any Hitman Game From IO Interactive",
-      "link": "https://www.ign.com/articles/007-first-light-sells-15-million-copies-in-first-24-hours-faster-than-any-hitman-game-from-io-interactive",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780055057
-    },
-    {
-      "title": "Rayman Legends Remake Leaks Reveal Release Date, Price, and a Clair Obscur Crossover",
-      "link": "https://www.ign.com/articles/rayman-legends-remake-leaks-reveal-release-date-price-and-a-clair-obscur-crossover",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780054324
-    },
-    {
       "title": "Scientists say evolution may work differently than we thought",
       "link": "https://www.sciencedaily.com/releases/2026/05/260529030329.htm",
       "source": "SCIENCEDAILY",
@@ -674,13 +702,6 @@
       "timestamp": 1780005600
     },
     {
-      "title": "LLMs believe false statements even after explicit warnings that they're false",
-      "link": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780003783
-    },
-    {
       "title": "BTMOB Android malware service generates custom phishing payloads",
       "link": "https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/",
       "source": "BLEEPINGCOMPUTER",
@@ -707,13 +728,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779995290
-    },
-    {
-      "title": "James Webb Space Telescope discovers a black hole that formed before its host galaxy. Scientists aren't sure how",
-      "link": "https://www.space.com/astronomy/black-holes/james-webb-space-telescope-discovers-a-black-hole-that-formed-before-its-host-galaxy-scientists-arent-sure-how",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1779991200
     },
     {
       "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware",
@@ -756,20 +770,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1779970657
-    },
-    {
-      "title": "A 100-year-old piano mystery has finally been solved",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260528073949.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1779969084
-    },
-    {
-      "title": "Scientists discover hidden gut-brain circuit that triggers protein cravings",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260527023202.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1779942919
     }
   ]
 }
