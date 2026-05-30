@@ -1,6 +1,27 @@
 {
-  "last_updated": 1780174383,
+  "last_updated": 1780178347,
   "items": [
+    {
+      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+      "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780177500
+    },
+    {
+      "title": "This weekend’s two biggest movies were both directed by YouTubers",
+      "link": "https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780175557
+    },
+    {
+      "title": "Rayman Origins Remaster Leak Reveals First Details About Enhanced Edition from Ubisoft",
+      "link": "https://www.ign.com/articles/rayman-origins-remaster-leak-reveals-first-details-about-enhanced-edition-from-ubisoft",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780174160
+    },
     {
       "title": "Stop Killing Games Gains Momentum After Bill Passes California State Assembly Vote",
       "link": "https://www.ign.com/articles/stop-killing-games-gains-momentum-after-bill-passes-california-state-assembly-vote",
@@ -93,7 +114,7 @@
       "timestamp": 1780154673
     },
     {
-      "title": "Why is the idea of a Blue Moon so enchanting? Over 100 years of pop culture fascination",
+      "title": "Why is the idea of a Blue Moon so enchanting?",
       "link": "https://www.space.com/stargazing/why-is-the-idea-of-a-blue-moon-so-enchanting-over-100-years-of-pop-culture-fascination",
       "source": "SPACE",
       "category": "space",
@@ -471,32 +492,11 @@
       "timestamp": 1780076199
     },
     {
-      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
-      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780075633
-    },
-    {
-      "title": "Microsoft under fire for threatening security researcher with criminal investigation",
-      "link": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780074219
-    },
-    {
       "title": "'For All Mankind' spin-off 'Star City' will make you want to know more about the Soviet space program",
       "link": "https://www.space.com/entertainment/space-movies-shows/for-all-mankind-spin-off-star-city-will-make-you-want-to-know-more-about-the-soviet-space-program",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780074000
-    },
-    {
-      "title": "Xbox Delays Fable to 2027",
-      "link": "https://www.ign.com/articles/xbox-delays-fable-to-2027",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780072692
     },
     {
       "title": "Startup offers free home cleaning—if it can record it all for robot training",
