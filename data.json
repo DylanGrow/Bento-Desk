@@ -1,6 +1,20 @@
 {
-  "last_updated": 1780160436,
+  "last_updated": 1780168121,
   "items": [
+    {
+      "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780164171
+    },
+    {
+      "title": "'For All Mankind' star Wrenn Schmidt on her character's journey from NASA's mission control to the slammer (interview)",
+      "link": "https://www.space.com/entertainment/space-movies-shows/for-all-mankind-star-wrenn-schmidt-on-her-characters-journey-from-nasas-mission-control-to-the-slammer-interview",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780164000
+    },
     {
       "title": "Snap alums unveil Ghost Angels fund",
       "link": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
@@ -499,7 +513,7 @@
       "timestamp": 1780070608
     },
     {
-      "title": "Atlas V rocket launches 29 Amazon Leo internet satellites to orbit from Florida",
+      "title": "Atlas V rocket launches 29 Amazon Leo internet satellites to orbit from Florida (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-rocket-launch-amazon-leo-7-internet-satellites",
       "source": "SPACE",
       "category": "space",
@@ -625,13 +639,6 @@
       "timestamp": 1780056255
     },
     {
-      "title": "Red dwarf stars are cosmic killers that eat their own planets",
-      "link": "https://www.space.com/astronomy/stars/red-dwarf-stars-are-cosmic-killers-that-eat-their-own-planets",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780056000
-    },
-    {
       "title": "Scientists say evolution may work differently than we thought",
       "link": "https://www.sciencedaily.com/releases/2026/05/260529030329.htm",
       "source": "SCIENCEDAILY",
@@ -749,13 +756,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779989143
-    },
-    {
-      "title": "New Gogs zero-day flaw lets hackers get remote code execution",
-      "link": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779978343
     },
     {
       "title": "DNA solves 250-year-old mystery of the Seychelles’ lost crocodiles",
