@@ -1,6 +1,48 @@
 {
-  "last_updated": 1780238514,
+  "last_updated": 1780243500,
   "items": [
+    {
+      "title": "'The Arrival' at 30: Charlie Sheen’s criminally underrated alien invasion thriller feels much scarier today",
+      "link": "https://www.space.com/entertainment/space-movies-shows/the-arrival-at-30-charlie-sheens-criminally-underrated-alien-invasion-thriller-feels-even-scarier-today",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780243200
+    },
+    {
+      "title": "Making sense of the debate over AI psychosis",
+      "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780241400
+    },
+    {
+      "title": "Chimpanzees and bonobos have human-like friend circles, study finds",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260530053432.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1780239818
+    },
+    {
+      "title": "Black founders raise highest amount of quarterly funding since 2022, but there’s a catch",
+      "link": "https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780239600
+    },
+    {
+      "title": "Spurs vs. Knicks: The three biggest questions that will decide the NBA Finals",
+      "link": "https://www.cbssports.com/nba/news/spurs-knicks-nba-finals-biggest-questions-preview/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780239532
+    },
+    {
+      "title": "New solar desalination breakthrough makes fresh water without toxic brine",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260530053418.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1780237358
+    },
     {
       "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites",
       "link": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/",
@@ -28,6 +70,13 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780228800
+    },
+    {
+      "title": "The ocean's health may depend on a tiny microbe inside fish",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260530053414.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1780228337
     },
     {
       "title": "The secret to pigeons’ incredible navigation was hiding in their liver",
@@ -464,25 +513,11 @@
       "timestamp": 1780084228
     },
     {
-      "title": "Today's top games to watch, best bets, odds: Game 5 of Canadiens vs. Hurricanes, MLB and more",
-      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-game-5-of-canadiens-vs-hurricanes-mlb-and-more/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780083042
-    },
-    {
       "title": "'Star City': Release date & how to watch Apple TV's superb Soviet space series",
       "link": "https://www.space.com/entertainment/space-movies-shows/star-city-release-date-and-how-to-watch-apple-tvs-superb-soviet-set-space-series",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780081200
-    },
-    {
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-      "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780080559
     },
     {
       "title": "Botnet of more than 17 million devices dismantled",
@@ -548,13 +583,6 @@
       "timestamp": 1780077600
     },
     {
-      "title": "What happens when companies become too AI-pilled?",
-      "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780077425
-    },
-    {
       "title": "DOJ sues states that rejected ICE requests for undercover license plates",
       "link": "https://arstechnica.com/tech-policy/2026/05/doj-sues-states-that-rejected-ice-requests-for-undercover-license-plates/",
       "source": "ARSTECHNICA",
@@ -609,13 +637,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1780067429
-    },
-    {
-      "title": "Incredible videos show Blue Origin rocket explosion could be seen from hundreds of miles away",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/incredible-videos-show-blue-origin-rocket-explosion-could-be-seen-from-hundreds-of-miles-away",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780065221
     },
     {
       "title": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market",
@@ -730,20 +751,6 @@
       "timestamp": 1780034708
     },
     {
-      "title": "Vitamin B12 and folate deficiencies linked to chronic fatigue",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260528082501.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1780025028
-    },
-    {
-      "title": "Human organoids reveal how to reverse “irreversible” nerve damage",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260528082459.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1780023305
-    },
-    {
       "title": "Anthropic confirms Claude Mythos-class models will roll out to the public",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/",
       "source": "BLEEPINGCOMPUTER",
@@ -770,13 +777,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1779995290
-    },
-    {
-      "title": "DNA solves 250-year-old mystery of the Seychelles’ lost crocodiles",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260528082503.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1779977807
     }
   ]
 }
