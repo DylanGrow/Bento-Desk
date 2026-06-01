@@ -1,12 +1,166 @@
 {
-  "last_updated": 1780335194,
+  "last_updated": 1780349375,
   "items": [
+    {
+      "title": "Spain arrests doxer leaking sensitive data of govt employees",
+      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780349321
+    },
+    {
+      "title": "Escape from New York Remake Finds Director and Writer in Zack Snyder",
+      "link": "https://www.ign.com/articles/escape-from-new-york-remake-finds-director-and-writer-in-zack-snyder",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780348591
+    },
+    {
+      "title": "Subnautica 2 Dev Addresses 'Misunderstanding' Around Decision Not to Let Players Kill Predators",
+      "link": "https://www.ign.com/articles/subnautica-2-dev-addresses-misunderstanding-around-decision-not-to-let-players-kill-predators",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780348435
+    },
+    {
+      "title": "How do you study an invisible exoplanet? Astronomers discover planetary 'fingerprints' in the rings around stars",
+      "link": "https://www.space.com/astronomy/exoplanets/how-do-you-study-an-invisible-exoplanet-astronomers-discover-planetary-fingerprints-in-the-rings-around-stars",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780347600
+    },
+    {
+      "title": "From the stage to the future: Where are Startup Battlefield’s alumni now?",
+      "link": "https://techcrunch.com/2026/06/01/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780345568
+    },
+    {
+      "title": "NBA Finals: Why Mikal Bridges and Dylan Harper could be the ultimate Knicks vs. Spurs X-factors",
+      "link": "https://www.cbssports.com/nba/news/nba-finals-knicks-spurs-mikal-bridges-dylan-harper-x-factors/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780345366
+    },
+    {
+      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780344220
+    },
+    {
+      "title": "Shockwaves from dying stars may sculpt 'cosmic wagon wheel' stellar nurseries, simulations reveal",
+      "link": "https://www.space.com/astronomy/stars/shockwaves-from-dying-stars-may-sculpt-cosmic-wagon-wheel-stellar-nurseries-simulations-reveal",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780344000
+    },
+    {
+      "title": "Streets of Rage Movie Finds Director and Writers After Years of Silence",
+      "link": "https://www.ign.com/articles/streets-of-rage-movie-finds-director-and-writers-after-years-of-silence",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780343041
+    },
+    {
+      "title": "Taylor Swift Reveals Original Song 'I Knew It, I Knew You' for Toy Story 5",
+      "link": "https://www.ign.com/articles/taylor-swift-reveals-original-song-i-knew-it-i-knew-you-for-toy-story-5",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780342232
+    },
+    {
+      "title": "Doctors blast Trump for doubling down on vaccine policy modeled after Denmark",
+      "link": "https://arstechnica.com/health/2026/06/doctors-blast-trump-for-doubling-down-on-vaccine-policy-modeled-after-denmark/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780340878
+    },
+    {
+      "title": "'The Lone Gunmen' at 25: the underrated 'X-Files' spin-off that aspired to be 'Mission: Impossible' with geeks",
+      "link": "https://www.space.com/entertainment/space-movies-shows/the-lone-gunmen-at-25-the-underrated-x-files-spin-off-that-aspired-to-be-mission-impossible-with-geeks",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780340400
+    },
+    {
+      "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
+      "link": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780339939
+    },
+    {
+      "title": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access",
+      "link": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780338872
+    },
+    {
+      "title": "Rocket goes boom, satellite cameras zoom: Explosive Blue Origin damage is visible from space",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-goes-boom-satellite-cameras-zoom-explosive-blue-origin-damage-is-visible-from-space",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780338600
+    },
+    {
+      "title": "Water access is now a risk factor in SpaceX’s IPO",
+      "link": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780337993
+    },
+    {
+      "title": "Dashlane password manager users locked out by brute force attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780337833
+    },
+    {
+      "title": "NASA's X-59 jet is ready to break the sound barrier for the 1st time this month",
+      "link": "https://www.space.com/technology/aerospace/nasas-x-59-jet-is-ready-to-break-the-sound-barrier-for-the-1st-time-this-month",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780336800
+    },
+    {
+      "title": "A new app, The Mall, is building a universal feed for online shopping",
+      "link": "https://techcrunch.com/2026/06/01/a-new-app-the-mall-is-building-a-universal-feed-for-online-shopping/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780336218
+    },
+    {
+      "title": "From 15 hours to one minute: How AI/ML is speeding up GM's development",
+      "link": "https://arstechnica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780335707
+    },
+    {
+      "title": "Knicks vs. Spurs predictions: NBA Finals expert picks as Victor Wembanyama leads the favorites",
+      "link": "https://www.cbssports.com/nba/news/knicks-spurs-predictions-2026-nba-finals-expert-picks/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780335399
+    },
     {
       "title": "Grand Theft Auto V cheat service gets hacked, exposing thousands of gamers",
       "link": "https://techcrunch.com/2026/06/01/grand-theft-auto-v-cheat-service-gets-hacked-exposing-thousands-of-gamers/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1780334566
+    },
+    {
+      "title": "Allegedly trashing Airbnbs to test robots puts startup in legal trouble",
+      "link": "https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780334275
     },
     {
       "title": "WordPress malware campaign hides payloads in Steam profiles",
@@ -86,7 +240,7 @@
       "timestamp": 1780329600
     },
     {
-      "title": "The 2025 hurricane season was devastating. Will 2026 be calmer?",
+      "title": "The 2026 hurricane season has begun. Will this year be calmer?",
       "link": "https://www.space.com/astronomy/earth/the-2025-hurricane-season-was-devastating-will-2026-be-calmer",
       "source": "SPACE",
       "category": "space",
@@ -338,34 +492,6 @@
       "timestamp": 1780308000
     },
     {
-      "title": "Factorio Set for Its Last Major Update, a Decade After Launch",
-      "link": "https://www.ign.com/articles/factorio-set-for-its-last-major-update-a-decade-after-launch",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780307196
-    },
-    {
-      "title": "Hot on the Heels of Katsuhiro Harada's Exit From Bandai Namco, the Director of Tekken 7 and 8 Has Left Too",
-      "link": "https://www.ign.com/articles/hot-on-the-heels-of-katsuhiro-haradas-exit-from-bandai-namco-the-director-of-tekken-7-and-8-has-left-too",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780304766
-    },
-    {
-      "title": "Toy Story 5 Taylor Swift Teases Appear in Cities Nationwide and Online, as Pixar Offers Coy Response",
-      "link": "https://www.ign.com/articles/toy-story-5-taylor-swift-teases-appear-in-cities-nationwide-and-online-as-pixar-offers-coy-response",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780304758
-    },
-    {
-      "title": "Euphoria Is Officially Over With Season 3 Finale",
-      "link": "https://www.ign.com/articles/euphoria-is-officially-over-with-season-3-finale",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780302826
-    },
-    {
       "title": "Erin Brockovich takes aim at data center secrecy",
       "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
       "source": "TECHCRUNCH",
@@ -380,20 +506,6 @@
       "timestamp": 1780252498
     },
     {
-      "title": "‘This is fine’ artist KC Green reaches agreement with AI startup Artisan",
-      "link": "https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780252097
-    },
-    {
-      "title": "TechCrunch Mobility: It doesn’t matter that people hate the Ferrari Luce",
-      "link": "https://techcrunch.com/2026/05/31/techcrunch-mobility-it-doesnt-matter-that-people-hate-the-ferrari-luce/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780243500
-    },
-    {
       "title": "'The Arrival' at 30: Charlie Sheen’s criminally underrated alien invasion thriller feels much scarier today",
       "link": "https://www.space.com/entertainment/space-movies-shows/the-arrival-at-30-charlie-sheens-criminally-underrated-alien-invasion-thriller-feels-even-scarier-today",
       "source": "SPACE",
@@ -401,25 +513,11 @@
       "timestamp": 1780243200
     },
     {
-      "title": "Making sense of the debate over AI psychosis",
-      "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780241400
-    },
-    {
       "title": "Chimpanzees and bonobos have human-like friend circles, study finds",
       "link": "https://www.sciencedaily.com/releases/2026/05/260530053432.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1780239818
-    },
-    {
-      "title": "Black founders raise highest amount of quarterly funding since 2022, but there’s a catch",
-      "link": "https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780239600
     },
     {
       "title": "Spurs vs. Knicks: The three biggest questions that will decide the NBA Finals",
@@ -448,13 +546,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780236000
-    },
-    {
-      "title": "What happens in Vega$: steroids, swimmers, and a billion-dollar hustle",
-      "link": "https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780232400
     },
     {
       "title": "The 11 best cozy sci-fi games for those chill cosmic vibes",
@@ -576,13 +667,6 @@
       "timestamp": 1780164171
     },
     {
-      "title": "'For All Mankind' star Wrenn Schmidt on her character's journey from NASA's mission control to the slammer (interview)",
-      "link": "https://www.space.com/entertainment/space-movies-shows/for-all-mankind-star-wrenn-schmidt-on-her-characters-journey-from-nasas-mission-control-to-the-slammer-interview",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780164000
-    },
-    {
       "title": "Thunder vs. Spurs Game 7 predictions, odds: Expert picks with NBA Finals berth on the line",
       "link": "https://www.cbssports.com/nba/news/thunder-spurs-game-7-predictions-odds-picks/",
       "source": "CBSSPORTS",
@@ -590,53 +674,11 @@
       "timestamp": 1780156057
     },
     {
-      "title": "This Week In Space podcast: Episode 212 — Kabooms, Starship, and a Moon Base",
-      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-212-kabooms-starship-and-a-moon-base",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780154673
-    },
-    {
-      "title": "Why is the idea of a Blue Moon so enchanting?",
-      "link": "https://www.space.com/stargazing/why-is-the-idea-of-a-blue-moon-so-enchanting-over-100-years-of-pop-culture-fascination",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780153200
-    },
-    {
       "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
       "link": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1780150568
-    },
-    {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Thunder-Spurs, PSG-Arsenal, MLB on Saturday",
-      "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-1500-bonus-bets-thunder-spurs-psg-arsenal-mlb-saturday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780150199
-    },
-    {
-      "title": "Underhand free throws? Mitchell Robinson has a broken pinky and a big problem -- Rick Barry has the solution",
-      "link": "https://www.cbssports.com/nba/news/underhand-free-throws-mitchell-robinson-knicks/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780149830
-    },
-    {
-      "title": "'I was literally becoming Teela': We chat to Camilla Mendes about kicking ass in 'Masters of the Universe'",
-      "link": "https://www.space.com/entertainment/space-movies-shows/i-was-literally-becoming-teela-we-chat-to-camilla-mendes-about-kicking-ass-in-masters-of-the-universe",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780149600
-    },
-    {
-      "title": "Watch the smallest full moon of 2026 tonight in this rare 'Blue Moon' livestream",
-      "link": "https://www.space.com/stargazing/watch-the-smallest-full-moon-of-2026-tonight-in-this-rare-blue-moon-livestream",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780146000
     },
     {
       "title": "Grifters, cynics, and true believers: The family tree of vaccine opponents",
@@ -695,32 +737,11 @@
       "timestamp": 1780080393
     },
     {
-      "title": "Analysis of Texas measles outbreak shows just how dangerous virus is",
-      "link": "https://arstechnica.com/health/2026/05/analysis-of-texas-measles-outbreak-shows-just-how-dangerous-virus-is/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780079738
-    },
-    {
-      "title": "House of the Dragon S3 trailer revels in dragons, fire, and blood",
-      "link": "https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780078904
-    },
-    {
       "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
       "link": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1780078896
-    },
-    {
-      "title": "Trump FCC warns all broadcasters to follow orders or be punished like ABC",
-      "link": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-warns-all-broadcasters-to-follow-orders-or-be-punished-like-abc/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780078183
     },
     {
       "title": "California AG sues 23andMe over 2023 breach exposing health data",
@@ -730,25 +751,11 @@
       "timestamp": 1780078127
     },
     {
-      "title": "DOJ sues states that rejected ICE requests for undercover license plates",
-      "link": "https://arstechnica.com/tech-policy/2026/05/doj-sues-states-that-rejected-ice-requests-for-undercover-license-plates/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780076516
-    },
-    {
       "title": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market",
       "link": "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1780065122
-    },
-    {
-      "title": "Dutch govt disrupts malware botnet with 17 million infected devices",
-      "link": "https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780064796
     },
     {
       "title": "Hidden driving danger when edible cannabis and alcohol mix",
@@ -770,13 +777,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1780057611
-    },
-    {
-      "title": "Google Chrome adds session cookie theft protection for all users",
-      "link": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780056488
     }
   ]
 }
