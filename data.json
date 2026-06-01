@@ -1,9 +1,268 @@
 {
-  "last_updated": 1780314741,
+  "last_updated": 1780335194,
   "items": [
     {
-      "title": "Microsoft confirms outage affecting MFA, My Sign-Ins platform",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-outage-affecting-mfa-my-sign-ins-platform/",
+      "title": "Grand Theft Auto V cheat service gets hacked, exposing thousands of gamers",
+      "link": "https://techcrunch.com/2026/06/01/grand-theft-auto-v-cheat-service-gets-hacked-exposing-thousands-of-gamers/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780334566
+    },
+    {
+      "title": "WordPress malware campaign hides payloads in Steam profiles",
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780333456
+    },
+    {
+      "title": "AMD extends Socket AM5 support through at least 2029; AM4 refuses to die",
+      "link": "https://arstechnica.com/gadgets/2026/06/amd-extends-socket-am5-support-through-at-least-2029-am4-refuses-to-die/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780333342
+    },
+    {
+      "title": "Fortnite Fans Are at War Over a Controversial Streamer's Inclusion, and the Toxic Backlash It's Created",
+      "link": "https://www.ign.com/articles/fortnite-fans-are-at-war-over-a-controversial-streamers-inclusion-and-the-toxic-backlash-its-created",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780333221
+    },
+    {
+      "title": "It had the power! The weird origins of He-Man, Skeletor, and the 'Masters of the Universe'",
+      "link": "https://www.space.com/entertainment/it-had-the-power-the-weird-origins-of-he-man-skeletor-and-the-masters-of-the-universe",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780333200
+    },
+    {
+      "title": "Zigging when most are zagging, ex-Meta CTO raises $250M climate fund",
+      "link": "https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780332142
+    },
+    {
+      "title": "Anthropic files to go public",
+      "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780331815
+    },
+    {
+      "title": "007 First Light Budget Reportedly More Than $200 Million",
+      "link": "https://www.ign.com/articles/007-first-light-budget-reportedly-more-than-200-million",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780331745
+    },
+    {
+      "title": "Man of Tomorrow Set Image Reveals First Look at Lex Luthor in Full Body Armor for Superman Sequel",
+      "link": "https://www.ign.com/articles/man-of-tomorrow-set-image-reveals-first-look-at-lex-luthor-in-full-body-armor-for-superman-sequel",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780331105
+    },
+    {
+      "title": "SpaceX says it may issue ‘significant’ equity in ‘future transactions’",
+      "link": "https://techcrunch.com/2026/06/01/spacex-says-it-may-issue-significant-equity-in-future-transactions/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780330196
+    },
+    {
+      "title": "ROG Xbox Ally X20 adds OLED screen, control upgrades",
+      "link": "https://arstechnica.com/gaming/2026/06/asus-gives-the-rox-xbox-ally-the-oled-screen-it-deserves/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780329885
+    },
+    {
+      "title": "This AI weather startup is out-forecasting government agencies",
+      "link": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780329600
+    },
+    {
+      "title": "The 2025 hurricane season was devastating. Will 2026 be calmer?",
+      "link": "https://www.space.com/astronomy/earth/the-2025-hurricane-season-was-devastating-will-2026-be-calmer",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780329600
+    },
+    {
+      "title": "Asus Goes OLED With the New ROG Xbox Ally X20",
+      "link": "https://www.ign.com/articles/asus-goes-oled-with-the-new-rog-xbox-ally-x20",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780329045
+    },
+    {
+      "title": "Nvidia Announces the RTX Spark, Its First SoC for Regular People",
+      "link": "https://www.ign.com/articles/nvidia-announces-the-rtx-spark-its-first-soc-for-regular-people",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780328518
+    },
+    {
+      "title": "Avengers: Doomsday Trailer Imminent, Fans Believe, Following Teaser from Former Fortnite Boss",
+      "link": "https://www.ign.com/articles/avengers-doomsday-trailer-imminent-fans-believe-following-teaser-from-former-fortnite-boss",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780327390
+    },
+    {
+      "title": "Giannis Antetokounmpo to the Thunder? Weighing the pros, cons and likelihood of a blockbuster trade",
+      "link": "https://www.cbssports.com/nba/news/giannis-antetokounmpo-thunder-trade/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780325692
+    },
+    {
+      "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
+      "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780325350
+    },
+    {
+      "title": "Nvidia RTX Spark comes to Windows PCs with Arm CPU, RTX GPU, and unified memory",
+      "link": "https://arstechnica.com/gadgets/2026/06/nvidia-gets-into-the-arm-pc-business-with-new-high-end-rtx-spark-processor/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780325242
+    },
+    {
+      "title": "Revolut rolls out services to thousands of users in India ahead of broader launch",
+      "link": "https://techcrunch.com/2026/06/01/revolut-rolls-out-services-to-thousands-of-users-in-india-ahead-of-broader-launch/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780325168
+    },
+    {
+      "title": "Microsoft investigates Office Apps, Teams file access issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780324606
+    },
+    {
+      "title": "Magic hire Spurs assistant Sean Sweeney as next head coach",
+      "link": "https://www.cbssports.com/nba/news/magic-hire-spurs-sean-sweeney-for-head-coach/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780323662
+    },
+    {
+      "title": "Race Against Time: Why Faster Vulnerability Alerts Matter",
+      "link": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780322410
+    },
+    {
+      "title": "Manhattanhenge is back! | Space photo of the day for June 1, 2026",
+      "link": "https://www.space.com/stargazing/manhattanhenge-is-back-space-photo-of-the-day-for-june-1-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780322400
+    },
+    {
+      "title": "Your kitchen sponge is releasing microplastics every time you wash dishes",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260601025356.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1780321960
+    },
+    {
+      "title": "Pokémon Trading Card Game's 30th Anniversary Set Features All Foil Cards and 30 New Pikachu Designs",
+      "link": "https://www.ign.com/articles/pokemon-trading-card-games-30th-anniversary-set-features-all-foil-cards-and-30-new-pikachu-designs",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780321608
+    },
+    {
+      "title": "Intel: Our upcoming AI chip will be cheaper, run cooler than Nvidia, AMD options",
+      "link": "https://arstechnica.com/ai/2026/06/intel-our-upcoming-ai-chip-will-be-cheaper-run-cooler-than-nvidia-amd-options/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780320736
+    },
+    {
+      "title": "3 bright planets light up June's night sky — Here's where and when to look",
+      "link": "https://www.space.com/stargazing/3-bright-planets-light-up-junes-night-sky-heres-where-and-when-to-look",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780318800
+    },
+    {
+      "title": "Scientists discover inherited traits that break Mendel’s Laws of genetics",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260530053420.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1780318684
+    },
+    {
+      "title": "Spurs' Victor Wembanyama on fast track to GOAT status; MLB mock draft",
+      "link": "https://www.cbssports.com/nba/news/spurs-victor-wembanyama-on-fast-track-to-goat-status-mlb-mock-draft/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780318622
+    },
+    {
+      "title": "Official Baldur's Gate 2 Remake Reportedly in Development at Wizards of the Coast",
+      "link": "https://www.ign.com/articles/official-baldurs-gate-2-remake-reportedly-in-development-at-wizards-of-the-coast",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780318068
+    },
+    {
+      "title": "Critical Windows Netlogon RCE flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780317027
+    },
+    {
+      "title": "Video Games Could Have Movie-Style Product Placement to Counter Rising Costs, Ex-Dragon Age Boss Says",
+      "link": "https://www.ign.com/articles/video-games-could-have-movie-style-product-placement-to-counter-rising-costs-ex-dragon-age-boss-says",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780315796
+    },
+    {
+      "title": "Webinar tomorrow: From alert to resolution in network incident response",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780315269
+    },
+    {
+      "title": "Strava declares war on scrapers ahead of IPO",
+      "link": "https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780315200
+    },
+    {
+      "title": "Astronomers discover a 'lost world' of black hole mergers: 'It's the astronomical equivalent of uncovering an ancient civilization'",
+      "link": "https://www.space.com/astronomy/black-holes/astronomers-discover-a-lost-world-of-black-hole-mergers-its-the-astronomical-equivalent-of-uncovering-an-ancient-civilization",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780315200
+    },
+    {
+      "title": "May's Blue Moon wows stargazers worldwide — see these stunning photos of the smallest full moon of 2026",
+      "link": "https://www.space.com/stargazing/astrophotography/mays-blue-moon-wows-stargazers-worldwide-see-these-stunning-photos-of-the-smallest-full-moon-of-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780314955
+    },
+    {
+      "title": "Microsoft fixes outage affecting MFA setup, MySignIn service",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1780314016
@@ -107,39 +366,11 @@
       "timestamp": 1780302826
     },
     {
-      "title": "Alienware’s New Super Ultrawide OLED Gaming Monitor Might Just Earn Its (RGB) Stripes",
-      "link": "https://www.ign.com/articles/alienwares-new-super-ultrawide-oled-gaming-monitor-might-just-earn-its-rgb-stripes",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780268400
-    },
-    {
-      "title": "Emilia Clarke Admits 'No One Liked' Secret Invasion or Solo But Knows 'It's Not Personal'",
-      "link": "https://www.ign.com/articles/emilia-clarke-admits-no-one-liked-secret-invasion-or-solo-but-knows-its-not-personal",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780267680
-    },
-    {
-      "title": "Masters of the Universe Gets Last-Minute Imax Confirmation as Star Wars Makes Room",
-      "link": "https://www.ign.com/articles/masters-of-the-universe-gets-last-minute-imax-confirmation-as-star-wars-makes-room",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780262483
-    },
-    {
       "title": "Erin Brockovich takes aim at data center secrecy",
       "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1780261514
-    },
-    {
-      "title": "Star Wars: The Mandalorian and Grogu Suffers 69% Drop at the Box Office",
-      "link": "https://www.ign.com/articles/star-wars-the-mandalorian-and-grogu-suffers-69-drop-at-the-box-office",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780255229
     },
     {
       "title": "This weekend’s two biggest movies were both directed by YouTubers",
@@ -154,20 +385,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1780252097
-    },
-    {
-      "title": "Backrooms and Obsession Lead the Box Office as Audiences Show Up for Low-Budget Horror",
-      "link": "https://www.ign.com/articles/backrooms-and-obsession-lead-the-box-office-as-audiences-show-up-for-low-budget-horror",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780249877
-    },
-    {
-      "title": "Avengers: Doomsday Logo Reveal Has Marvel Fans Expecting a Trailer",
-      "link": "https://www.ign.com/articles/avengers-doomsday-logo-reveal-has-marvel-fans-expecting-a-trailer",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780243955
     },
     {
       "title": "TechCrunch Mobility: It doesn’t matter that people hate the Ferrari Luce",
@@ -352,27 +569,6 @@
       "timestamp": 1780180322
     },
     {
-      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
-      "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780177500
-    },
-    {
-      "title": "Rayman Origins Remaster Leak Reveals First Details About Enhanced Edition from Ubisoft",
-      "link": "https://www.ign.com/articles/rayman-origins-remaster-leak-reveals-first-details-about-enhanced-edition-from-ubisoft",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780174160
-    },
-    {
-      "title": "Stop Killing Games Gains Momentum After Bill Passes California State Assembly Vote",
-      "link": "https://www.ign.com/articles/stop-killing-games-gains-momentum-after-bill-passes-california-state-assembly-vote",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780170777
-    },
-    {
       "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
       "source": "BLEEPINGCOMPUTER",
@@ -387,46 +583,11 @@
       "timestamp": 1780164000
     },
     {
-      "title": "Snap alums unveil Ghost Angels fund",
-      "link": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780160400
-    },
-    {
-      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-      "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780158600
-    },
-    {
-      "title": "A Minecraft Movie 2 Gets Official Title Ahead of July 2027 Premiere",
-      "link": "https://www.ign.com/articles/a-minecraft-movie-2-gets-official-title-ahead-of-july-2027-premiere",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780157414
-    },
-    {
-      "title": "Meta is reportedly developing an AI pendant",
-      "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780156798
-    },
-    {
       "title": "Thunder vs. Spurs Game 7 predictions, odds: Expert picks with NBA Finals berth on the line",
       "link": "https://www.cbssports.com/nba/news/thunder-spurs-game-7-predictions-odds-picks/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1780156057
-    },
-    {
-      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-      "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780155000
     },
     {
       "title": "This Week In Space podcast: Episode 212 — Kabooms, Starship, and a Moon Base",
@@ -441,13 +602,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780153200
-    },
-    {
-      "title": "The groupthink boom: what three top VCs really think about the AI frenzy",
-      "link": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780152567
     },
     {
       "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
@@ -478,32 +632,11 @@
       "timestamp": 1780149600
     },
     {
-      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
-      "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780146000
-    },
-    {
-      "title": "This $300 pizza oven can easily help elevate your summer pizza nights",
-      "link": "https://techcrunch.com/2026/05/30/this-300-pizza-oven-can-easily-help-elevate-your-summer-pizza-nights/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780146000
-    },
-    {
       "title": "Watch the smallest full moon of 2026 tonight in this rare 'Blue Moon' livestream",
       "link": "https://www.space.com/stargazing/watch-the-smallest-full-moon-of-2026-tonight-in-this-rare-blue-moon-livestream",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780146000
-    },
-    {
-      "title": "From 'Tetris' to 'StarCraft 2' — 5 times astronauts took video games into space",
-      "link": "https://www.space.com/entertainment/space-games/from-tetris-to-starcraft-2-5-times-astronauts-took-video-games-into-space",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780142400
     },
     {
       "title": "Grifters, cynics, and true believers: The family tree of vaccine opponents",
@@ -518,13 +651,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1780135238
-    },
-    {
-      "title": "The Blue Moon rises tonight: Where and when to see the second full moon of May",
-      "link": "https://www.space.com/stargazing/the-blue-moon-rises-tonight-where-and-when-to-see-the-second-full-moon-of-may",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780135200
     },
     {
       "title": "Ancient DNA reveals how women helped transform prehistoric Europe",
@@ -555,39 +681,11 @@
       "timestamp": 1780095509
     },
     {
-      "title": "The Western Conference Finals have gone the distance but lacked the drama -- will that change in Game 7?",
-      "link": "https://www.cbssports.com/nba/news/western-conference-finals-drama-game-7/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780095128
-    },
-    {
       "title": "Kenyan court blocks Trump admin from dumping Ebola-exposed Americans there",
       "link": "https://arstechnica.com/health/2026/05/kenyan-court-blocks-trump-admin-from-dumping-ebola-exposed-americans-there/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1780089429
-    },
-    {
-      "title": "Knicks decline to say how Mitchell Robinson injured his pinky ahead of NBA Finals",
-      "link": "https://www.cbssports.com/nba/news/knicks-decline-mitchell-robinson-hurt-pinky-nba-finals/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780085118
-    },
-    {
-      "title": "Fewer players like Koa Peat will be staying in NBA Draft, but that's no consolation for Arizona's Tommy Lloyd",
-      "link": "https://www.cbssports.com/college-basketball/news/koa-peat-arizona-nba-draft-decisions-tommy-lloyd-withdrawal-deadline/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780084228
-    },
-    {
-      "title": "'Star City': Release date & how to watch Apple TV's superb Soviet space series",
-      "link": "https://www.space.com/entertainment/space-movies-shows/star-city-release-date-and-how-to-watch-apple-tvs-superb-soviet-set-space-series",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780081200
     },
     {
       "title": "Botnet of more than 17 million devices dismantled",
@@ -602,13 +700,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1780079738
-    },
-    {
-      "title": "China's Shenzhou 21 astronauts return to Earth after being briefly 'stranded', wrapping up record-breaking mission (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/chinas-shenzhou-21-astronauts-return-to-earth-in-borrowed-spacecraft-video",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780079394
     },
     {
       "title": "House of the Dragon S3 trailer revels in dragons, fire, and blood",
@@ -639,46 +730,11 @@
       "timestamp": 1780078127
     },
     {
-      "title": "Rare Blue Moon hides the red light of an ancient star on May 31: Will you be able to see it?",
-      "link": "https://www.space.com/stargazing/rare-blue-moon-hides-the-red-light-of-an-ancient-star-on-may-31-will-you-be-able-to-see-it",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780077600
-    },
-    {
       "title": "DOJ sues states that rejected ICE requests for undercover license plates",
       "link": "https://arstechnica.com/tech-policy/2026/05/doj-sues-states-that-rejected-ice-requests-for-undercover-license-plates/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1780076516
-    },
-    {
-      "title": "'For All Mankind' spin-off 'Star City' will make you want to know more about the Soviet space program",
-      "link": "https://www.space.com/entertainment/space-movies-shows/for-all-mankind-spin-off-star-city-will-make-you-want-to-know-more-about-the-soviet-space-program",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780074000
-    },
-    {
-      "title": "Startup offers free home cleaning—if it can record it all for robot training",
-      "link": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780071374
-    },
-    {
-      "title": "After years of stability, F1 reliability can no longer be taken for granted",
-      "link": "https://arstechnica.com/cars/2026/05/f1-in-2026-to-finish-first-first-you-have-to-finish/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780070608
-    },
-    {
-      "title": "Severed sea cucumber appendages don't seem to die",
-      "link": "https://arstechnica.com/science/2026/05/severed-sea-cucumber-appendages-dont-seem-to-die/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780067429
     },
     {
       "title": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market",
@@ -702,13 +758,6 @@
       "timestamp": 1780062127
     },
     {
-      "title": "Rocket Report: A dark day for Blue Origin; Pentagon eyes new launch site",
-      "link": "https://arstechnica.com/space/2026/05/rocket-report-blue-origin-suffers-setback-spacexs-falcon-9-wins-new-business/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780059826
-    },
-    {
       "title": "This bizarre crocodile relative from the Triassic looked like an ostrich dinosaur",
       "link": "https://www.sciencedaily.com/releases/2026/05/260529043641.htm",
       "source": "SCIENCEDAILY",
@@ -728,55 +777,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1780056488
-    },
-    {
-      "title": "Scientists say evolution may work differently than we thought",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260529030329.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1780053048
-    },
-    {
-      "title": "A silent kidney crisis is spreading far faster than experts expected",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260529030324.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1780053034
-    },
-    {
-      "title": "Man sent to prison for selling data of 7 millions elderly Americans",
-      "link": "https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780052827
-    },
-    {
-      "title": "US charges Google security engineer with Polymarket insider trading",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780049504
-    },
-    {
-      "title": "Charter Communications data breach affects 4.9 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780043380
-    },
-    {
-      "title": "Anthropic confirms Claude Mythos-class models will roll out to the public",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780014063
-    },
-    {
-      "title": "GreyVibe hackers use ChatGPT, Gemini to power cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780007089
     }
   ]
 }
