@@ -1,6 +1,111 @@
 {
-  "last_updated": 1780293581,
+  "last_updated": 1780314741,
   "items": [
+    {
+      "title": "Microsoft confirms outage affecting MFA, My Sign-Ins platform",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-outage-affecting-mfa-my-sign-ins-platform/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780314016
+    },
+    {
+      "title": "Hubble captures M88 on a perilous journey that could change it forever",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260601025329.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1780313896
+    },
+    {
+      "title": "NASA’s Roman telescope could reveal 100,000 hidden worlds",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260601025334.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1780311892
+    },
+    {
+      "title": "BBC Update on Doctor Who Future Imminent, Showrunner States, Amid Concern Its Return Has Now Been Scrapped or Postponed",
+      "link": "https://www.ign.com/articles/bbc-update-on-doctor-who-future-imminent-showrunner-states-amid-concern-its-return-has-now-been-scrapped-or-postponed",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780311739
+    },
+    {
+      "title": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
+      "link": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780311600
+    },
+    {
+      "title": "Microsoft fixes KB5089549 Windows security update install issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780311583
+    },
+    {
+      "title": "New Warhammer 40,000 Cinematic Stuns Fans With Official Look at the Emperor",
+      "link": "https://www.ign.com/articles/new-warhammer-40000-cinematic-stuns-fans-with-official-look-at-the-emperor",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780311234
+    },
+    {
+      "title": "Fans Think New Spider-Man: Brand New Day Poster Confirms MJ's New Boyfriend Is Boomerang — and There's Evidence From the Comics to Back This Up",
+      "link": "https://www.ign.com/articles/fans-think-new-spider-man-brand-new-day-poster-confirms-mjs-new-boyfriend-is-boomerang-and-theres-evidence-from-the-comics-to-back-this-up",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780309130
+    },
+    {
+      "title": "The forgotten organ that could predict how long you live",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260601025352.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1780309024
+    },
+    {
+      "title": "Unastella, a South Korean rocket startup that launched from home, raises $24M",
+      "link": "https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780308000
+    },
+    {
+      "title": "'A pretty significant setback': How Blue Origin's rocket explosion affects NASA's moon plans",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/a-pretty-significant-setback-how-blue-origins-rocket-explosion-affects-nasas-moon-plans",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780308000
+    },
+    {
+      "title": "Factorio Set for Its Last Major Update, a Decade After Launch",
+      "link": "https://www.ign.com/articles/factorio-set-for-its-last-major-update-a-decade-after-launch",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780307196
+    },
+    {
+      "title": "Hot on the Heels of Katsuhiro Harada's Exit From Bandai Namco, the Director of Tekken 7 and 8 Has Left Too",
+      "link": "https://www.ign.com/articles/hot-on-the-heels-of-katsuhiro-haradas-exit-from-bandai-namco-the-director-of-tekken-7-and-8-has-left-too",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780304766
+    },
+    {
+      "title": "Toy Story 5 Taylor Swift Teases Appear in Cities Nationwide and Online, as Pixar Offers Coy Response",
+      "link": "https://www.ign.com/articles/toy-story-5-taylor-swift-teases-appear-in-cities-nationwide-and-online-as-pixar-offers-coy-response",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780304758
+    },
+    {
+      "title": "Euphoria Is Officially Over With Season 3 Finale",
+      "link": "https://www.ign.com/articles/euphoria-is-officially-over-with-season-3-finale",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780302826
+    },
     {
       "title": "Alienware’s New Super Ultrawide OLED Gaming Monitor Might Just Earn Its (RGB) Stripes",
       "link": "https://www.ign.com/articles/alienwares-new-super-ultrawide-oled-gaming-monitor-might-just-earn-its-rgb-stripes",
@@ -317,25 +422,11 @@
       "timestamp": 1780156057
     },
     {
-      "title": "The Wandering Inn Author Says a Live-Action Adaptation of Their LitRPG Books Would 'Surely Fail'",
-      "link": "https://www.ign.com/articles/the-wandering-inn-author-says-a-live-action-adaptation-of-their-litrpg-books-would-surely-fail",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780155300
-    },
-    {
       "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
       "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1780155000
-    },
-    {
-      "title": "Minecraft Live May 2026: Everything Announced",
-      "link": "https://www.ign.com/articles/minecraft-live-may-2026-everything-announced",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780154876
     },
     {
       "title": "This Week In Space podcast: Episode 212 — Kabooms, Starship, and a Moon Base",
@@ -350,13 +441,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780153200
-    },
-    {
-      "title": "Call of Duty: Modern Warfare 4 Devs Say 'Keep the Receipts' Amid Commitment to Grounded Skins",
-      "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-devs-say-keep-the-receipts-amid-commitment-to-grounded-skins",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780152928
     },
     {
       "title": "The groupthink boom: what three top VCs really think about the AI frenzy",
@@ -408,13 +492,6 @@
       "timestamp": 1780146000
     },
     {
-      "title": "TikTok’s road to becoming a super app",
-      "link": "https://techcrunch.com/2026/05/30/tiktoks-road-to-becoming-a-super-app/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780146000
-    },
-    {
       "title": "Watch the smallest full moon of 2026 tonight in this rare 'Blue Moon' livestream",
       "link": "https://www.space.com/stargazing/watch-the-smallest-full-moon-of-2026-tonight-in-this-rare-blue-moon-livestream",
       "source": "SPACE",
@@ -450,20 +527,6 @@
       "timestamp": 1780135200
     },
     {
-      "title": "Bungie Thanks Fans With First Look at Monumental Destiny 2 Update",
-      "link": "https://www.ign.com/articles/bungie-thanks-fans-with-first-look-at-monumental-destiny-2-update",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780134291
-    },
-    {
-      "title": "New Xbox Boss Says Decision to Continue to Show PS5 Logos During Its Xbox Games Showcase 'Was a Miss, and I Own It'",
-      "link": "https://www.ign.com/articles/new-xbox-boss-says-decision-to-continue-to-show-ps5-logos-during-its-xbox-games-showcase-was-a-miss-and-i-own-it",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780134192
-    },
-    {
       "title": "Ancient DNA reveals how women helped transform prehistoric Europe",
       "link": "https://www.sciencedaily.com/releases/2026/05/260529043649.htm",
       "source": "SCIENCEDAILY",
@@ -483,20 +546,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1780118828
-    },
-    {
-      "title": "Marcia Lucas, Oscar-Winning Star Wars and Return of the Jedi Editor, Dies at 80",
-      "link": "https://www.ign.com/articles/marcia-lucas-star-wars-editor-dies-80",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780101680
-    },
-    {
-      "title": "Toy Story 5 Has 'One of the Most Heartbreaking Scenes' in the Franchise, Tom Hanks Says",
-      "link": "https://www.ign.com/articles/toy-story-5-heartbreaking-scene-tom-hanks",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780097183
     },
     {
       "title": "Proposed new US funding rules: We can cancel any grant at any time",
@@ -625,13 +674,6 @@
       "timestamp": 1780070608
     },
     {
-      "title": "Atlas V rocket launches 29 Amazon Leo internet satellites to orbit from Florida (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-rocket-launch-amazon-leo-7-internet-satellites",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780070400
-    },
-    {
       "title": "Severed sea cucumber appendages don't seem to die",
       "link": "https://arstechnica.com/science/2026/05/severed-sea-cucumber-appendages-dont-seem-to-die/",
       "source": "ARSTECHNICA",
@@ -665,13 +707,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1780059826
-    },
-    {
-      "title": "Here's why the failure of Blue Origin's New Glenn rocket is so catastrophic",
-      "link": "https://arstechnica.com/space/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780058615
     },
     {
       "title": "This bizarre crocodile relative from the Triassic looked like an ostrich dinosaur",
@@ -723,32 +758,11 @@
       "timestamp": 1780049504
     },
     {
-      "title": "Astronomers finally solve Saturn’s decades-long spin mystery",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260529043658.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1780043818
-    },
-    {
       "title": "Charter Communications data breach affects 4.9 million accounts",
       "link": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1780043380
-    },
-    {
-      "title": "Twisted graphene reveals a hidden superconductivity switch",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260528082511.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1780037313
-    },
-    {
-      "title": "Rogue planet moons could harbor alien life for billions of years",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260528082509.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1780034708
     },
     {
       "title": "Anthropic confirms Claude Mythos-class models will roll out to the public",
@@ -763,20 +777,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1780007089
-    },
-    {
-      "title": "BTMOB Android malware service generates custom phishing payloads",
-      "link": "https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780002611
-    },
-    {
-      "title": "FBI warns of fake FIFA websites running World Cup fraud schemes",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1779995290
     }
   ]
 }
