@@ -1,6 +1,55 @@
 {
-  "last_updated": 1780349375,
+  "last_updated": 1780356314,
   "items": [
+    {
+      "title": "How to make the Startup Battlefield Top 20 — and what every company gets regardless",
+      "link": "https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780356052
+    },
+    {
+      "title": "Alphabet plans to raise $80 billion to pay for AI buildout",
+      "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780354509
+    },
+    {
+      "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780352059
+    },
+    {
+      "title": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year",
+      "link": "https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780350035
+    },
+    {
+      "title": "Why cats prefer silver vine to catnip and other May highlights",
+      "link": "https://arstechnica.com/science/2026/06/research-roundup-7-cool-science-stories-we-almost-missed-4/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780349935
+    },
+    {
+      "title": "Red Hat npm packages compromised to steal developer credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780349909
+    },
+    {
+      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+      "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780349700
+    },
     {
       "title": "Spain arrests doxer leaking sensitive data of govt employees",
       "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
@@ -30,6 +79,20 @@
       "timestamp": 1780347600
     },
     {
+      "title": "Moderna gets $50 million to develop mRNA Ebola vaccine against Bundibugyo",
+      "link": "https://arstechnica.com/health/2026/06/moderna-gets-50-million-to-develop-mrna-ebola-vaccine-against-bundibugyo/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780347514
+    },
+    {
+      "title": "Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts",
+      "link": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780346677
+    },
+    {
       "title": "From the stage to the future: Where are Startup Battlefield’s alumni now?",
       "link": "https://techcrunch.com/2026/06/01/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/",
       "source": "TECHCRUNCH",
@@ -42,6 +105,13 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1780345366
+    },
+    {
+      "title": "Microsoft's Surface Laptop Ultra looks like its first true MacBook Pro competitor",
+      "link": "https://arstechnica.com/gadgets/2026/06/microsoft-surface-laptop-ultra-will-be-among-the-first-nvidia-rtx-spark-arm-pcs/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780344789
     },
     {
       "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
@@ -58,6 +128,13 @@
       "timestamp": 1780344000
     },
     {
+      "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
+      "link": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780343349
+    },
+    {
       "title": "Streets of Rage Movie Finds Director and Writers After Years of Silence",
       "link": "https://www.ign.com/articles/streets-of-rage-movie-finds-director-and-writers-after-years-of-silence",
       "source": "IGN",
@@ -72,7 +149,7 @@
       "timestamp": 1780342232
     },
     {
-      "title": "Doctors blast Trump for doubling down on vaccine policy modeled after Denmark",
+      "title": "New Trump vaccine order based on \"no credible scientific evidence,\" doctors say",
       "link": "https://arstechnica.com/health/2026/06/doctors-blast-trump-for-doubling-down-on-vaccine-policy-modeled-after-denmark/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -254,8 +331,8 @@
       "timestamp": 1780329045
     },
     {
-      "title": "Nvidia Announces the RTX Spark, Its First SoC for Regular People",
-      "link": "https://www.ign.com/articles/nvidia-announces-the-rtx-spark-its-first-soc-for-regular-people",
+      "title": "Nvidia Announces the RTX Spark, Claims to Reinvent the PC",
+      "link": "https://www.ign.com/articles/nvidia-announces-the-rtx-spark-claims-to-reinvent-the-pc",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1780328518
@@ -394,13 +471,6 @@
       "timestamp": 1780315269
     },
     {
-      "title": "Strava declares war on scrapers ahead of IPO",
-      "link": "https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780315200
-    },
-    {
       "title": "Astronomers discover a 'lost world' of black hole mergers: 'It's the astronomical equivalent of uncovering an ancient civilization'",
       "link": "https://www.space.com/astronomy/black-holes/astronomers-discover-a-lost-world-of-black-hole-mergers-its-the-astronomical-equivalent-of-uncovering-an-ancient-civilization",
       "source": "SPACE",
@@ -478,32 +548,11 @@
       "timestamp": 1780309024
     },
     {
-      "title": "Unastella, a South Korean rocket startup that launched from home, raises $24M",
-      "link": "https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780308000
-    },
-    {
       "title": "'A pretty significant setback': How Blue Origin's rocket explosion affects NASA's moon plans",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/a-pretty-significant-setback-how-blue-origins-rocket-explosion-affects-nasas-moon-plans",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780308000
-    },
-    {
-      "title": "Erin Brockovich takes aim at data center secrecy",
-      "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780261514
-    },
-    {
-      "title": "This weekend’s two biggest movies were both directed by YouTubers",
-      "link": "https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780252498
     },
     {
       "title": "'The Arrival' at 30: Charlie Sheen’s criminally underrated alien invasion thriller feels much scarier today",
@@ -681,20 +730,6 @@
       "timestamp": 1780150568
     },
     {
-      "title": "Grifters, cynics, and true believers: The family tree of vaccine opponents",
-      "link": "https://arstechnica.com/science/2026/05/grifters-cynics-and-true-believers-the-family-tree-of-vaccine-opponents/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780138805
-    },
-    {
-      "title": "Environmentalists turn out in force to oppose Trump coal ash rollbacks",
-      "link": "https://arstechnica.com/tech-policy/2026/05/environmentalists-turn-out-in-force-to-oppose-trump-coal-ash-rollbacks/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780135238
-    },
-    {
       "title": "Ancient DNA reveals how women helped transform prehistoric Europe",
       "link": "https://www.sciencedaily.com/releases/2026/05/260529043649.htm",
       "source": "SCIENCEDAILY",
@@ -716,46 +751,11 @@
       "timestamp": 1780118828
     },
     {
-      "title": "Proposed new US funding rules: We can cancel any grant at any time",
-      "link": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780095509
-    },
-    {
-      "title": "Kenyan court blocks Trump admin from dumping Ebola-exposed Americans there",
-      "link": "https://arstechnica.com/health/2026/05/kenyan-court-blocks-trump-admin-from-dumping-ebola-exposed-americans-there/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780089429
-    },
-    {
-      "title": "Botnet of more than 17 million devices dismantled",
-      "link": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780080393
-    },
-    {
       "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
       "link": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1780078896
-    },
-    {
-      "title": "California AG sues 23andMe over 2023 breach exposing health data",
-      "link": "https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780078127
-    },
-    {
-      "title": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market",
-      "link": "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780065122
     },
     {
       "title": "Hidden driving danger when edible cannabis and alcohol mix",
