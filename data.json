@@ -1,6 +1,34 @@
 {
-  "last_updated": 1780356314,
+  "last_updated": 1780371616,
   "items": [
+    {
+      "title": "Maverick Games’ New Open-World Driving Game Will Be Revealed in Under 12 Hours",
+      "link": "https://www.ign.com/articles/maverick-games-new-open-world-driving-game-will-be-revealed-in-under-12-hours",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780366443
+    },
+    {
+      "title": "Hall of Fame basketball coach Rick Adelman dies at 79: 'A brilliant strategist'",
+      "link": "https://www.cbssports.com/nba/news/rick-adelman-dies-at-79/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780364871
+    },
+    {
+      "title": "PlayStation 'Shovelware' Crackdown Continues as Major Publisher Warns Its Games Will Soon Be Pulled",
+      "link": "https://www.ign.com/articles/playstation-shovelware-crackdown-continues-as-major-publisher-warns-its-games-will-soon-be-pulled",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780358702
+    },
+    {
+      "title": "2026 NBA Finals betting: Model says Knicks still offer significant value in futures best bets",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-finals-betting-model-says-knicks-still-offer-significant-value-in-futures-best-bets/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780356407
+    },
     {
       "title": "How to make the Startup Battlefield Top 20 — and what every company gets regardless",
       "link": "https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/",
@@ -9,11 +37,18 @@
       "timestamp": 1780356052
     },
     {
-      "title": "Alphabet plans to raise $80 billion to pay for AI buildout",
+      "title": "Alphabet plans to raise $80B to pay for AI buildout",
       "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1780354509
+    },
+    {
+      "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
+      "link": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780352289
     },
     {
       "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
@@ -527,20 +562,6 @@
       "timestamp": 1780311583
     },
     {
-      "title": "New Warhammer 40,000 Cinematic Stuns Fans With Official Look at the Emperor",
-      "link": "https://www.ign.com/articles/new-warhammer-40000-cinematic-stuns-fans-with-official-look-at-the-emperor",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780311234
-    },
-    {
-      "title": "Fans Think New Spider-Man: Brand New Day Poster Confirms MJ's New Boyfriend Is Boomerang — and There's Evidence From the Comics to Back This Up",
-      "link": "https://www.ign.com/articles/fans-think-new-spider-man-brand-new-day-poster-confirms-mjs-new-boyfriend-is-boomerang-and-theres-evidence-from-the-comics-to-back-this-up",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780309130
-    },
-    {
       "title": "The forgotten organ that could predict how long you live",
       "link": "https://www.sciencedaily.com/releases/2026/06/260601025352.htm",
       "source": "SCIENCEDAILY",
@@ -625,13 +646,6 @@
       "timestamp": 1780226112
     },
     {
-      "title": "They call it stupid hot for a reason: Heat muddles animal brains",
-      "link": "https://arstechnica.com/science/2026/05/they-call-it-stupid-hot-for-a-reason-heat-muddles-animal-brains/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780221607
-    },
-    {
       "title": "Can solar sails really send humans out into interstellar space?",
       "link": "https://www.space.com/astronomy/can-solar-sails-really-send-humans-out-into-interstellar-space",
       "source": "SPACE",
@@ -702,25 +716,11 @@
       "timestamp": 1780180415
     },
     {
-      "title": "Spurs vs. Thunder odds, prediction: 2026 NBA Western Conference finals picks, Game 7 best bets from model",
-      "link": "https://www.cbssports.com/nba/news/spurs-thunder-odds-prediction-2026-nba-western-conference-finals-picks-game-7-best-bets-model/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780180322
-    },
-    {
       "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1780164171
-    },
-    {
-      "title": "Thunder vs. Spurs Game 7 predictions, odds: Expert picks with NBA Finals berth on the line",
-      "link": "https://www.cbssports.com/nba/news/thunder-spurs-game-7-predictions-odds-picks/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780156057
     },
     {
       "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
