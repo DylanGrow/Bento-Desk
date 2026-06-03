@@ -1,6 +1,20 @@
 {
-  "last_updated": 1780451078,
+  "last_updated": 1780469450,
   "items": [
+    {
+      "title": "VS Code zero-day lets hackers steal GitHub tokens in one click",
+      "link": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780469430
+    },
+    {
+      "title": "Sir Idris Elba Has Been Awarded a Knighthood",
+      "link": "https://www.ign.com/articles/sir-idris-elba-has-been-awarded-a-knighthood",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780466991
+    },
     {
       "title": "Phantom Blade Zero Delay Moves Launch to Late October 2026",
       "link": "https://www.ign.com/articles/phantom-blade-zero-delay-moves-launch-to-late-october-2026",
@@ -142,8 +156,8 @@
       "timestamp": 1780437348
     },
     {
-      "title": "Over 116,000 Mincraft systems infected in WeedHack malware campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/over-116-000-mincraft-systems-infected-in-weedhack-malware-campaign/",
+      "title": "Over 116,000 Minecraft systems infected in WeedHack malware campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1780437289
@@ -175,13 +189,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1780435470
-    },
-    {
-      "title": "Rayman Legends Retold Reimagines Ubisoft's Classic Platformer With 3D Visuals",
-      "link": "https://www.ign.com/articles/rayman-legends-retold-reimagines-ubisofts-classic-platformer-with-3d-visuals-includes-rayman-origins-enhanced",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780435185
     },
     {
       "title": "Scientists locate source of mysterious radio signals after 20 year search: A vampire star and its victim",
@@ -499,15 +506,15 @@
       "timestamp": 1780410640
     },
     {
-      "title": "Celestron Origin Intelligent Home Observatory Mark II smart telescope review",
-      "link": "https://www.space.com/stargazing/skywatching-kit/celestron-origin-intelligent-home-observatory-mark-ii-smart-telescope-review",
+      "title": "Student-powered 'moon' rovers put to the test | Space photo of the day for June 2, 2026",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/student-powered-moon-rovers-put-to-the-test-space-photo-of-the-day-for-june-2-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780408800
     },
     {
-      "title": "Student-powered 'moon' rovers put to the test | Space photo of the day for June 2, 2026",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/student-powered-moon-rovers-put-to-the-test-space-photo-of-the-day-for-june-2-2026",
+      "title": "Celestron Origin Intelligent Home Observatory Mark II smart telescope review",
+      "link": "https://www.space.com/stargazing/skywatching-kit/celestron-origin-intelligent-home-observatory-mark-ii-smart-telescope-review",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780408800
@@ -672,13 +679,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1780335399
-    },
-    {
-      "title": "WordPress malware campaign hides payloads in Steam profiles",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780333456
     },
     {
       "title": "Giannis Antetokounmpo to the Thunder? Weighing the pros, cons and likelihood of a blockbuster trade",
