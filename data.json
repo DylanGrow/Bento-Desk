@@ -1,12 +1,103 @@
 {
-  "last_updated": 1780469450,
+  "last_updated": 1780487672,
   "items": [
+    {
+      "title": "Acer working to patch max severity zero-days in Wave 7 routers",
+      "link": "https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780486547
+    },
+    {
+      "title": "GTA 5 Actor Ned Luke Celebrates as Swatting Perpetrator Sentenced to 4 Years",
+      "link": "https://www.ign.com/articles/gta-5-actor-ned-luke-celebrates-as-swatting-perpetrator-sentenced-to-4-years",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780485024
+    },
+    {
+      "title": "Gabe Newell Says Players Have 'Enormous Choice' When Pressed on Steam Monopoly Accusations, Report Says",
+      "link": "https://www.ign.com/articles/gabe-newell-says-players-have-enormous-choice-when-pressed-on-steam-monopoly-accusations-report-says",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780481828
+    },
+    {
+      "title": "Police dismantles 9 crime groups in illegal streaming crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780481544
+    },
+    {
+      "title": "Naughty Dog No-Show at PlayStation State of Play Leaves Fans Fearing Intergalactic: The Heretic Prophet is Still a Long Way From Launch",
+      "link": "https://www.ign.com/articles/naughty-dog-no-show-at-playstation-state-of-play-leaves-fans-fearing-intergalactic-the-heretic-prophet-is-still-a-long-way-from-launch",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780481397
+    },
+    {
+      "title": "The Internet Reacts to God of War Laufey",
+      "link": "https://www.ign.com/articles/the-internet-reacts-to-god-of-war-laufey",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780481352
+    },
+    {
+      "title": "How long will it take to rebuild Blue Origin's launch pad? We asked some SpaceX vets.",
+      "link": "https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780480807
+    },
+    {
+      "title": "The world’s largest privately owned laser just turned on",
+      "link": "https://techcrunch.com/2026/06/03/the-worlds-largest-privately-owned-laser-just-turned-on/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780480800
+    },
+    {
+      "title": "This star system creates a rare triple eclipse. Here's what that would look like",
+      "link": "https://www.space.com/astronomy/stars/this-star-system-creates-a-rare-triple-eclipse-heres-what-that-would-look-like",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780480800
+    },
+    {
+      "title": "Google adds Android protection against AI deepfake scam calls",
+      "link": "https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780477331
+    },
+    {
+      "title": "Avengers: Doomsday and Secret Wars Directors Rule Out a Third Movie, Both Are a 'Complete Expression'",
+      "link": "https://www.ign.com/articles/avengers-doomsday-and-secret-wars-directors-rule-out-a-third-movie-both-are-a-complete-expression",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780477296
+    },
+    {
+      "title": "Final Fantasy VII Rebirth Update Adds 'Streamlined Progression' to Make the Game Easier",
+      "link": "https://www.ign.com/articles/final-fantasy-vii-rebirth-update-adds-streamlined-progression-to-make-the-game-easier",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780475982
+    },
     {
       "title": "VS Code zero-day lets hackers steal GitHub tokens in one click",
       "link": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1780469430
+    },
+    {
+      "title": "Hell Let Loose: Vietnam Has Been Delayed Until August",
+      "link": "https://www.ign.com/articles/hell-let-loose-vietnam-has-been-delayed-until-august",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780468937
     },
     {
       "title": "Sir Idris Elba Has Been Awarded a Knighthood",
@@ -23,13 +114,6 @@
       "timestamp": 1780446844
     },
     {
-      "title": "Gabe Newell Says Players Have 'Enormous Choice' When Pressed on Steam Monopoly Accusations, Report Says",
-      "link": "https://www.ign.com/articles/gabe-newell-says-players-have-enormous-choice-when-pressed-on-steam-monopoly-accusations-report-says",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780445779
-    },
-    {
       "title": "Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis",
       "link": "https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/",
       "source": "TECHCRUNCH",
@@ -44,7 +128,7 @@
       "timestamp": 1780441534
     },
     {
-      "title": "Male bowerbirds hope to dazzle females with bright human-made items",
+      "title": "Male bowerbirds prefer to dazzle females with bright human-made items",
       "link": "https://arstechnica.com/science/2026/06/male-bowerbirds-prefer-colorful-human-items-to-decorate-bowers/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -121,13 +205,6 @@
       "timestamp": 1780438833
     },
     {
-      "title": "Kratos is Out, Faye is In: God of War Laufey Creators Explain Why Kratos' Wife is the New Star",
-      "link": "https://www.ign.com/articles/godofwarlaufeyreveal",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780438532
-    },
-    {
       "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
       "link": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/",
       "source": "BLEEPINGCOMPUTER",
@@ -142,13 +219,6 @@
       "timestamp": 1780437600
     },
     {
-      "title": "Until Dawn 2 Revealed for PS5 at PlayStation State of Play",
-      "link": "https://www.ign.com/articles/until-dawn-2-revealed-at-playstation-state-of-play",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780437586
-    },
-    {
       "title": "2026 NBA Finals odds, spread, time: Knicks vs. Spurs prediction, Game 1 picks from expert on 100-69 run",
       "link": "https://www.cbssports.com/nba/news/2026-nba-finals-odds-spread-time-knicks-spurs-prediction-game-1-picks-best-bets/",
       "source": "CBSSPORTS",
@@ -161,34 +231,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1780437289
-    },
-    {
-      "title": "RuneScape: Dragonwilds Launches on Consoles Later in 2026, Sony Picks Up Spinoff for PS Plus",
-      "link": "https://www.ign.com/articles/runescape-dragonwilds-launches-on-consoles-later-in-2026-sony-picks-up-spinoff-for-ps-plus",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780436899
-    },
-    {
-      "title": "Silent Hill: Townfall Gets New Trailer, Release Date at PlayStation State of Play",
-      "link": "https://www.ign.com/articles/silent-hill-townfall-gets-new-trailer-release-date-at-playstation-state-of-play",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780436860
-    },
-    {
-      "title": "PlayStation State of Play Showcase Flooded by Demands for Destiny 3",
-      "link": "https://www.ign.com/articles/playstation-state-of-play-showcase-flooded-by-demands-for-destiny-3",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780435888
-    },
-    {
-      "title": "Marvel Tokon: Fighting Souls Adds Carnage, Green Goblin, and Magneto to the Roster",
-      "link": "https://www.ign.com/articles/marvel-tokon-fighting-souls-adds-carnage-green-goblin-and-magneto-to-the-roster",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780435470
     },
     {
       "title": "Scientists locate source of mysterious radio signals after 20 year search: A vampire star and its victim",
@@ -443,13 +485,6 @@
       "timestamp": 1780416000
     },
     {
-      "title": "Board, the new game startup from Mirror founder Brynn Putnam, raises $20M, has already sold thousands",
-      "link": "https://techcrunch.com/2026/06/02/board-the-new-game-startup-from-mirror-founder-brynn-putnam-raises-20m-has-already-sold-thousands/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780415768
-    },
-    {
       "title": "Instagram users locked out after Meta AI abused to steal accounts",
       "link": "https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/",
       "source": "BLEEPINGCOMPUTER",
@@ -569,13 +604,6 @@
       "timestamp": 1780403168
     },
     {
-      "title": "Impulse Space raises $500 million as orbital maneuvering race heats up",
-      "link": "https://arstechnica.com/space/2026/06/impulse-space-raises-500-million-as-orbital-maneuvering-race-heats-up/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780401654
-    },
-    {
       "title": "Unlocking 'the true space age': Impulse Space raises $500 million to build out fleet of ultra-mobile spacecraft",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/impulse-spacex-500-million-investment-space-ultra-mobile-spacecraft",
       "source": "SPACE",
@@ -625,20 +653,6 @@
       "timestamp": 1780352059
     },
     {
-      "title": "Red Hat npm packages compromised to steal developer credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780349909
-    },
-    {
-      "title": "Spain arrests doxer leaking sensitive data of govt employees",
-      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780349321
-    },
-    {
       "title": "How do you study an invisible exoplanet? Astronomers discover planetary 'fingerprints' in the rings around stars",
       "link": "https://www.space.com/astronomy/exoplanets/how-do-you-study-an-invisible-exoplanet-astronomers-discover-planetary-fingerprints-in-the-rings-around-stars",
       "source": "SPACE",
@@ -658,20 +672,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780344000
-    },
-    {
-      "title": "'The Lone Gunmen' at 25: the underrated 'X-Files' spin-off that aspired to be 'Mission: Impossible' with geeks",
-      "link": "https://www.space.com/entertainment/space-movies-shows/the-lone-gunmen-at-25-the-underrated-x-files-spin-off-that-aspired-to-be-mission-impossible-with-geeks",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780340400
-    },
-    {
-      "title": "Dashlane password manager users locked out by brute force attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780337833
     },
     {
       "title": "Knicks vs. Spurs predictions: NBA Finals expert picks as Victor Wembanyama leads the favorites",
