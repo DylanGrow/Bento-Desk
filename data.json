@@ -1,6 +1,118 @@
 {
-  "last_updated": 1780573815,
+  "last_updated": 1780584842,
   "items": [
+    {
+      "title": "Elden Ring Tarnished Edition Has a Nintendo Switch 2 Release Date, Additional Content Also Available to Buy on Other Platforms",
+      "link": "https://www.ign.com/articles/elden-ring-tarnished-edition-has-a-nintendo-switch-2-release-date-additional-content-also-available-to-buy-on-other-platforms",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780583524
+    },
+    {
+      "title": "Elden Ring: Tarnished Edition Preorders Are Now Available, Release Date Confirmed",
+      "link": "https://www.ign.com/articles/elden-ring-tarnished-edition-preorders-reveal-80-price-still-no-release-date",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780582598
+    },
+    {
+      "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
+      "link": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780581958
+    },
+    {
+      "title": "Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780581671
+    },
+    {
+      "title": "A rainbow patchwork quilt shows agriculture from space | Space photo of the day for June 4, 2026",
+      "link": "https://www.space.com/astronomy/earth/a-rainbow-patchwork-quilt-shows-agriculture-from-space-space-photo-of-the-day-for-june-4-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780581600
+    },
+    {
+      "title": "Persona 6 Images Leak, Only to Be Removed by Sega",
+      "link": "https://www.ign.com/articles/persona-6-images-leak-only-to-be-removed-by-sega",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780580894
+    },
+    {
+      "title": "Microsoft blames unexpected Windows driver updates on caching issue",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780580502
+    },
+    {
+      "title": "The Sims 4 Developer Maxis Discusses the Game's Latest Big Update",
+      "link": "https://www.ign.com/articles/the-sims-4-morgan-henry-qol-interview",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780578729
+    },
+    {
+      "title": "'Silo' season 3 trailer teases showing us how the world ended (video)",
+      "link": "https://www.space.com/entertainment/space-movies-shows/silo-season-3-trailer-teases-showing-us-how-the-world-ended-video",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780578000
+    },
+    {
+      "title": "Jalen Brunson closes strong as Knicks steal Game 1 of NBA Finals; looking ahead to MLB trade deadline",
+      "link": "https://www.cbssports.com/nba/news/jalen-brunson-knicks-spurs-game-1-nba-finals-mlb-trade-deadline/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780577240
+    },
+    {
+      "title": "DC Comics Selling $120 Supergirl Movie Artwork That Accidentally Features a Star Wars Alien",
+      "link": "https://www.ign.com/articles/dc-comics-selling-120-supergirl-movie-artwork-that-accidentally-features-a-star-wars-alien",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780576278
+    },
+    {
+      "title": "Police dismantles fake ID marketplace used by migrant smugglers",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780576152
+    },
+    {
+      "title": "Helldivers 2 Dev Confirms Roguelite Systems, Called Planet Warfronts, as Part of Big Changes Coming to the Game",
+      "link": "https://www.ign.com/articles/helldivers-2-dev-confirms-roguelite-systems-called-planet-warfronts-as-part-of-big-changes-coming-to-the-game",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780576080
+    },
+    {
+      "title": "Interstellar comet 3I/ATLAS is not an alien spacecraft: SETI hunt for 'technosignatures' comes up empty",
+      "link": "https://www.space.com/space-exploration/search-for-life/not-an-alien-spacecraft-hunt-for-technosignatures-around-interstellar-comet-3i-atlas-comes-up-empty",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780574831
+    },
+    {
+      "title": "Domino's Pizza Wades Into God of War Laufey No Kratos Discourse, Sparks Spicy Replies",
+      "link": "https://www.ign.com/articles/dominos-pizza-wades-into-god-of-war-laufey-no-kratos-discourse-sparks-spicy-replies",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780574685
+    },
+    {
+      "title": "Oura Ring 5 review: Thinner, lighter, better",
+      "link": "https://techcrunch.com/2026/06/04/oura-ring-5-review-thinner-lighter-better/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780574400
+    },
     {
       "title": "Cisco warns of critical Unified CM flaw with PoC exploit code",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/",
@@ -240,25 +352,11 @@
       "timestamp": 1780522070
     },
     {
-      "title": "Control Resonant Has a 2-Day Early Access Period via the Digital Deluxe Edition — but Only on PS5",
-      "link": "https://www.ign.com/articles/control-resonant-has-a-2-day-early-access-period-via-the-digital-deluxe-edition-but-only-on-ps5",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780520253
-    },
-    {
       "title": "Defense tech is flooded with money, but who’s built to last?",
       "link": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1780519901
-    },
-    {
-      "title": "IGN Live 2026: Full Guest Lineup and Celebrity Appearances Revealed",
-      "link": "https://www.ign.com/articles/ign-live-2026-guest-lineup",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780519040
     },
     {
       "title": "U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors",
@@ -380,13 +478,6 @@
       "timestamp": 1780509600
     },
     {
-      "title": "The Boss of Patreon Just Publicly Shamed a LEGO Reseller Embroiled in One of the Wildest Internet Dramas in Years",
-      "link": "https://www.ign.com/articles/the-boss-of-patreon-just-publicly-shamed-a-lego-reseller-embroiled-in-one-of-the-wildest-internet-dramas-in-years",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780509358
-    },
-    {
       "title": "New social features further Plex’s evolution from media server business",
       "link": "https://arstechnica.com/gadgets/2026/06/new-social-features-further-plexs-evolution-from-media-server-business/",
       "source": "ARSTECHNICA",
@@ -429,13 +520,6 @@
       "timestamp": 1780505828
     },
     {
-      "title": "From 19 Inches of Venom to... Nothing — There's No Marvel's Wolverine Collector's Edition and Insomniac Fans Don't Know Why",
-      "link": "https://www.ign.com/articles/from-19-inches-of-venom-to-nothing-theres-no-marvels-wolverine-collectors-edition-and-insomniac-fans-dont-know-why",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780505332
-    },
-    {
       "title": "Instagram is alerting users who were targeted by hackers during AI chatbot attacks",
       "link": "https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/",
       "source": "TECHCRUNCH",
@@ -462,13 +546,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1780501826
-    },
-    {
-      "title": "2026 NBA Draft Scouting: Comparing Cameron Boozer's athletic translation vs. Caleb Wilson's untapped potential",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-draft-scouting-cameron-boozer-caleb-wilson/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780501527
     },
     {
       "title": "Sun erupts with 3 colossal solar flares in less than 24 hours, boosting chances for northern lights",
@@ -506,25 +583,11 @@
       "timestamp": 1780499583
     },
     {
-      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
-      "link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780498800
-    },
-    {
       "title": "Spain's total solar eclipse 2026 comes with a catch — here's how to avoid ruining your view",
       "link": "https://www.space.com/stargazing/solar-eclipses/spains-total-solar-eclipse-2026-comes-with-a-catch-heres-how-to-avoid-ruining-your-view",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780498800
-    },
-    {
-      "title": "GitLab cuts 14% of staff as it scales its platform to serve AI workloads",
-      "link": "https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780498770
     },
     {
       "title": "Scientists simulated a nuclear fireball and found a surprise in the fallout",
@@ -541,13 +604,6 @@
       "timestamp": 1780495332
     },
     {
-      "title": "Persona 5 Royal Headlines Xbox Game Pass June 2026 Wave 1",
-      "link": "https://www.ign.com/articles/persona-5-royal-headlines-xbox-game-pass-june-2026-wave-1",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780495262
-    },
-    {
       "title": "Happy Pride Month! Remembering Sally Ride's historic legacy | Space photo of the day for June 3, 2026",
       "link": "https://www.space.com/space-exploration/human-spaceflight/happy-pride-month-remembering-sally-rides-historic-legacy-space-photo-of-the-day-for-june-3-2026",
       "source": "SPACE",
@@ -560,20 +616,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1780493758
-    },
-    {
-      "title": "As GTA 6 Hype Hits New Levels, YouTuber Tries to Walk Inside Rockstar — Prompting the Inevitable Response",
-      "link": "https://www.ign.com/articles/as-gta-6-hype-hits-new-levels-youtuber-tries-to-walk-inside-rockstar-prompting-the-inevitable-response",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780493487
-    },
-    {
-      "title": "The Stuntman Series Returns After Almost 20 Years, With Fast & Furious, Back to the Future, and More",
-      "link": "https://www.ign.com/articles/the-stuntman-series-returns-after-almost-20-years-with-fast-furious-back-to-the-future-and-more",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780493449
     },
     {
       "title": "This new diabetes pill burns fat without the downsides of Ozempic",
@@ -590,25 +632,11 @@
       "timestamp": 1780491600
     },
     {
-      "title": "New 'Stargate' show cancelled at Amazon MGM",
-      "link": "https://www.space.com/entertainment/space-movies-shows/new-stargate-show-cancelled-at-amazon-mgm",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780489912
-    },
-    {
       "title": "Scientists reverse anxiety by fixing a tiny brain circuit",
       "link": "https://www.sciencedaily.com/releases/2026/06/260603015356.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1780489016
-    },
-    {
-      "title": "Astrophotographer captures breathtaking view of 548 galaxies from a balcony",
-      "link": "https://www.space.com/stargazing/astrophotography/astrophotographer-captures-breathtaking-view-of-548-galaxies-from-a-balcony",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780488000
     },
     {
       "title": "New discovery upends an 80-year-old theory of turbulence",
@@ -644,13 +672,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1780480807
-    },
-    {
-      "title": "This star system creates a rare triple eclipse. Here's what that would look like",
-      "link": "https://www.space.com/astronomy/stars/this-star-system-creates-a-rare-triple-eclipse-heres-what-that-would-look-like",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780480800
     },
     {
       "title": "A child's tooth and strange green stones uncover a 5,500-year-old mystery",
@@ -714,27 +735,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1780440670
-    },
-    {
-      "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780440290
-    },
-    {
-      "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780438377
-    },
-    {
-      "title": "Over 116,000 Minecraft systems infected in WeedHack malware campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780437289
     },
     {
       "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
