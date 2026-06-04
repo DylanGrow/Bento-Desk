@@ -1,6 +1,69 @@
 {
-  "last_updated": 1780561107,
+  "last_updated": 1780573815,
   "items": [
+    {
+      "title": "Cisco warns of critical Unified CM flaw with PoC exploit code",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780571390
+    },
+    {
+      "title": "Used Waymo robotaxi batteries become backup storage for power grids",
+      "link": "https://arstechnica.com/science/2026/06/used-waymo-robotaxi-batteries-become-backup-storage-for-power-grids/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780570845
+    },
+    {
+      "title": "007 First Light Estimated to Have Sold 2.2 Million Copies, Generating $150 Million in Revenue",
+      "link": "https://www.ign.com/articles/007-first-light-estimated-to-have-sold-22-million-copies-generating-150-million-in-revenue",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780569951
+    },
+    {
+      "title": "CD Projekt's New IP, Project Hadar, Gets Extremely Vague Tease via Job Ad",
+      "link": "https://www.ign.com/articles/cd-projekts-new-ip-project-hadar-gets-extremely-vague-tease-via-job-ad",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780567926
+    },
+    {
+      "title": "Meteorite found in Sahara desert may be 1st evidence of lost solar system world",
+      "link": "https://www.space.com/astronomy/solar-system/meteorite-found-in-sahara-desert-may-be-1st-evidence-of-lost-solar-system-world",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780567200
+    },
+    {
+      "title": "Stargate SG-1 Star Michael Shanks Rallies Fans After Amazon Axes Revival, Says 'Now Is the Time to Say Something'",
+      "link": "https://www.ign.com/articles/stargate-sg-1-star-michael-shanks-rallies-fans-after-amazon-axes-revival-says-now-is-the-time-to-say-something",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780566725
+    },
+    {
+      "title": "Aurora alert! 4 Earth-bound CMEs could spark northern lights as far south as Illinois and Oregon tonight",
+      "link": "https://www.space.com/stargazing/auroras/aurora-alert-4-earth-bound-cmes-could-spark-northern-lights-as-far-south-as-illinois-and-oregon-tonight-june-4-5",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780565496
+    },
+    {
+      "title": "XCOM-Like Star Wars Zero Company Release Date Leaks — and It's Coming Sooner Than You Might Think",
+      "link": "https://www.ign.com/articles/xcom-like-star-wars-zero-company-release-date-leaks-and-its-coming-sooner-than-you-might-think",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780563598
+    },
+    {
+      "title": "Avatar Legends: The Fighting Game Delayed by 3 Weeks",
+      "link": "https://www.ign.com/articles/avatar-legends-the-fighting-game-delayed-by-3-weeks",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780563213
+    },
     {
       "title": "Beluga whales keep switching mates and it may be saving their species",
       "link": "https://www.sciencedaily.com/releases/2026/06/260603023921.htm",
@@ -121,13 +184,6 @@
       "timestamp": 1780528041
     },
     {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Spurs vs. Knicks NBA Finals, MLB on Wednesday",
-      "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-spurs-knicks-nba-finals-mlb-on-wednesday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780527915
-    },
-    {
       "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
       "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
       "source": "TECHCRUNCH",
@@ -182,13 +238,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1780522070
-    },
-    {
-      "title": "Use DraftKings promo code for $200 in bonus bets by targeting Spurs-Knicks NBA Finals, Paul Skenes Wednesday",
-      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-200-bonus-bets-spurs-knicks-nba-finals-paul-skenes-wednesday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780520456
     },
     {
       "title": "Control Resonant Has a 2-Day Early Access Period via the Digital Deluxe Edition — but Only on PS5",
@@ -373,6 +422,13 @@
       "timestamp": 1780506000
     },
     {
+      "title": "Mitchell Robinson is reportedly expected to be available for Finals Game 1: Why that matters for the Knicks",
+      "link": "https://www.cbssports.com/nba/news/mitchell-robinson-injury-nba-finals-knicks-spurs-victor-wembanyama/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780505828
+    },
+    {
       "title": "From 19 Inches of Venom to... Nothing — There's No Marvel's Wolverine Collector's Edition and Insomniac Fans Don't Know Why",
       "link": "https://www.ign.com/articles/from-19-inches-of-venom-to-nothing-theres-no-marvels-wolverine-collectors-edition-and-insomniac-fans-dont-know-why",
       "source": "IGN",
@@ -406,6 +462,13 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1780501826
+    },
+    {
+      "title": "2026 NBA Draft Scouting: Comparing Cameron Boozer's athletic translation vs. Caleb Wilson's untapped potential",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-draft-scouting-cameron-boozer-caleb-wilson/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780501527
     },
     {
       "title": "Sun erupts with 3 colossal solar flares in less than 24 hours, boosting chances for northern lights",
@@ -527,25 +590,11 @@
       "timestamp": 1780491600
     },
     {
-      "title": "John Blanche, the Legendary Illustrator Who Defined the Look of Warhammer 40,000, Has Died",
-      "link": "https://www.ign.com/articles/john-blanche-the-legendary-illustrator-who-defined-the-look-of-the-warhammer-40000-setting-has-died",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780490808
-    },
-    {
       "title": "New 'Stargate' show cancelled at Amazon MGM",
       "link": "https://www.space.com/entertainment/space-movies-shows/new-stargate-show-cancelled-at-amazon-mgm",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780489912
-    },
-    {
-      "title": "Sony Confirms PS2 Games Coming to the PlayStation Plus Classics Catalog Over the Next Few Months",
-      "link": "https://www.ign.com/articles/sony-confirms-ps2-games-coming-to-the-playstation-plus-classics-catalog-over-the-next-few-months",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780489044
     },
     {
       "title": "Scientists reverse anxiety by fixing a tiny brain circuit",
@@ -562,25 +611,11 @@
       "timestamp": 1780488000
     },
     {
-      "title": "Stargate Veteran Disputes Reason for Amazon's Shock Cancellation of Series Revival",
-      "link": "https://www.ign.com/articles/stargate-veteran-disputes-reason-for-amazons-shock-cancellation-of-series-revival",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780487407
-    },
-    {
       "title": "New discovery upends an 80-year-old theory of turbulence",
       "link": "https://www.sciencedaily.com/releases/2026/06/260602021655.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1780486845
-    },
-    {
-      "title": "God of War Laufey Isn't a Prequel — Here's Why",
-      "link": "https://www.ign.com/articles/god-of-war-laufey-isnt-a-prequel-heres-why",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780486724
     },
     {
       "title": "Acer working to patch max severity zero-days in Wave 7 routers",
@@ -595,13 +630,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1780485307
-    },
-    {
-      "title": "GTA 5 Actor Ned Luke Celebrates as Swatting Perpetrator Sentenced to 4 Years",
-      "link": "https://www.ign.com/articles/gta-5-actor-ned-luke-celebrates-as-swatting-perpetrator-sentenced-to-4-years",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780485024
     },
     {
       "title": "Police dismantles 9 crime groups in illegal streaming crackdown",
@@ -702,25 +730,11 @@
       "timestamp": 1780438377
     },
     {
-      "title": "'The movie has tremendous heart': We sat down with the director of 'Masters of the Universe' to learn how he found 'the power' for the new He-Man",
-      "link": "https://www.space.com/entertainment/space-movies-shows/the-movie-has-tremendous-heart-we-sat-down-with-the-director-of-masters-of-the-universe-to-learn-how-he-found-the-power-for-the-new-he-man",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780437600
-    },
-    {
       "title": "Over 116,000 Minecraft systems infected in WeedHack malware campaign",
       "link": "https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1780437289
-    },
-    {
-      "title": "Scientists locate source of mysterious radio signals after 20 year search: A vampire star and its victim",
-      "link": "https://www.space.com/astronomy/stars/scientists-locate-source-of-mysterious-radio-signals-after-20-year-search-a-vampire-star-and-its-victim",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780434000
     },
     {
       "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
@@ -735,20 +749,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1780431461
-    },
-    {
-      "title": "AI-built ransomware toolkit automates EDR evasion, AD discovery",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780430480
-    },
-    {
-      "title": "If I had a hammer... it might actually be a rhino tooth",
-      "link": "https://arstechnica.com/science/2026/06/experiments-reveal-that-neanderthals-used-rhino-teeth-as-hammers/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780430054
     },
     {
       "title": "A single protein may be holding back CAR T cancer therapy",
