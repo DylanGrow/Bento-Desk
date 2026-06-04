@@ -1,6 +1,83 @@
 {
-  "last_updated": 1780603303,
+  "last_updated": 1780611521,
   "items": [
+    {
+      "title": "Knicks vs. Spurs odds, prediction: 2026 NBA Finals picks, Game 2 best bets from proven model",
+      "link": "https://www.cbssports.com/nba/news/knicks-spurs-odds-prediction-2026-nba-finals-picks-game-2-best-bets/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780609610
+    },
+    {
+      "title": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
+      "link": "https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780609449
+    },
+    {
+      "title": "Brave Software releases Origin for a paid, bloat-free browsing experience",
+      "link": "https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780609030
+    },
+    {
+      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+      "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780608600
+    },
+    {
+      "title": "Hola Browser for Windows compromised to deliver cryptominer",
+      "link": "https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780608445
+    },
+    {
+      "title": "Glittering star cluster image reveals missing patch of stars: 'We were not looking for the gap, but we found it'",
+      "link": "https://www.space.com/astronomy/stars/glittering-star-cluster-image-reveals-missing-patch-of-stars-we-were-not-looking-for-the-gap-but-we-found-it",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780606800
+    },
+    {
+      "title": "Startup Battlefield is returning to Australia — here’s what happened the last time we came to Sydney",
+      "link": "https://techcrunch.com/2026/06/04/startup-battlefield-is-returning-to-australia-heres-what-happened-the-last-time-we-came-to-sydney/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780606538
+    },
+    {
+      "title": "Credit card theft campaign abuses Stripe to host stolen payment info",
+      "link": "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780606036
+    },
+    {
+      "title": "Why it's time for the Spurs to start Dylan Harper over De'Aaron Fox",
+      "link": "https://www.cbssports.com/nba/news/spurs-dylan-harper-deaaron-fox-knicks-nba-finals/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780605468
+    },
+    {
+      "title": "Mavericks coaching rumors: Which top candidates can help Cooper Flagg level up in Dallas?",
+      "link": "https://www.cbssports.com/nba/news/mavericks-coaching-rumors-candidates-cooper-flagg/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780605459
+    },
+    {
+      "title": "Elon Musk tries again to escape FTC audits of X data handling",
+      "link": "https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780602552
+    },
     {
       "title": "Meta steals a tactic from Tesla and builds data centers in tents",
       "link": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
@@ -51,11 +128,25 @@
       "timestamp": 1780598187
     },
     {
+      "title": "Cable lobby warns of chaos if FCC doesn't relax ban on foreign routers",
+      "link": "https://arstechnica.com/tech-policy/2026/06/cable-lobby-warns-of-chaos-if-fcc-doesnt-relax-ban-on-foreign-routers/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780598073
+    },
+    {
       "title": "SpaceX launches back-to-back Starlink missions from both coasts 19 hours apart (photos)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-47-b1108-vsfb-ocisly-10-43-b1090-ccsfs-asog",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780596368
+    },
+    {
+      "title": "Bumblebees can spontaneously solve problems, study finds",
+      "link": "https://arstechnica.com/science/2026/06/bumblebees-can-spontaneously-solve-problems-study-finds/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780596035
     },
     {
       "title": "Fan banned from NBA arenas for life after running onto court to take selfie with Victor Wembanyama",
@@ -352,13 +443,6 @@
       "timestamp": 1780574685
     },
     {
-      "title": "Oura Ring 5 review: Thinner, lighter, better",
-      "link": "https://techcrunch.com/2026/06/04/oura-ring-5-review-thinner-lighter-better/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780574400
-    },
-    {
       "title": "Cisco warns of critical Unified CM flaw with PoC exploit code",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/",
       "source": "BLEEPINGCOMPUTER",
@@ -464,13 +548,6 @@
       "timestamp": 1780545336
     },
     {
-      "title": "Benchmark raises its first-ever growth fund as part of $2B capital haul",
-      "link": "https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780545135
-    },
-    {
       "title": "2026 NBA playoff bracket, schedule: Knicks open Finals with stunning Game 1 comeback win over Spurs",
       "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
       "source": "CBSSPORTS",
@@ -483,13 +560,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1780541195
-    },
-    {
-      "title": "Quick-commerce FirstClub doubles valuation to $255M in 9 months",
-      "link": "https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780533000
     },
     {
       "title": "Today's top games to watch, best bets, odds: Knicks vs. Spurs Game 1, Padres vs. Phillies and more",
@@ -513,14 +583,7 @@
       "timestamp": 1780529078
     },
     {
-      "title": "Knicks vs. Spurs odds, prediction: 2026 NBA Finals picks, Game 1 best bets from proven model",
-      "link": "https://www.cbssports.com/nba/news/knicks-spurs-odds-prediction-spread-line-time-2026-nba-finals-picks-game-1-best-bets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780528041
-    },
-    {
-      "title": "Microsoft, Atom Computing, EeroQ update their quantum computing progress",
+      "title": "Microsoft, Atom Computing update their quantum computing progress",
       "link": "https://arstechnica.com/science/2026/06/microsoft-atom-computing-eeroq-update-their-quantum-computing-progress/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -541,25 +604,11 @@
       "timestamp": 1780524000
     },
     {
-      "title": "NBA player prop picks, odds: Three best 2026 NBA Finals prop bets for Spurs vs. Knicks, Game 1",
-      "link": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-three-best-2026-nba-finals-prop-bets-for-spurs-vs-knicks-game-1/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780523962
-    },
-    {
       "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1780523127
-    },
-    {
-      "title": "Could Terry Rozier make an NBA comeback? Former Heat guard requests bond modification ahead of free agency",
-      "link": "https://www.cbssports.com/nba/news/terry-rozier-nba-free-agency-bond-modification-salary/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780522755
     },
     {
       "title": "U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors",
@@ -595,13 +644,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1780516394
-    },
-    {
-      "title": "Knicks vs. Spurs predictions: NBA Finals expert picks as Victor Wembanyama leads the favorites",
-      "link": "https://www.cbssports.com/nba/news/knicks-spurs-predictions-2026-nba-finals-expert-picks/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780514865
     },
     {
       "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
@@ -653,13 +695,6 @@
       "timestamp": 1780506000
     },
     {
-      "title": "Blue Origin says New Glenn rocket will launch again 'before the end of the year' after explosion",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-says-new-glenn-rocket-will-launch-again-before-the-end-of-the-year-after-explosion",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780502400
-    },
-    {
       "title": "Venus will disappear behind the Moon in a rare June sky event",
       "link": "https://www.sciencedaily.com/releases/2026/06/260603023107.htm",
       "source": "SCIENCEDAILY",
@@ -688,20 +723,6 @@
       "timestamp": 1780496748
     },
     {
-      "title": "What 345 Days of Untested Exposure Looks Like at a Bank",
-      "link": "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780495332
-    },
-    {
-      "title": "Inside Meta's attempts to play catch-up with AI",
-      "link": "https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780493758
-    },
-    {
       "title": "This new diabetes pill burns fat without the downsides of Ozempic",
       "link": "https://www.sciencedaily.com/releases/2026/06/260603015541.htm",
       "source": "SCIENCEDAILY",
@@ -721,34 +742,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1780486845
-    },
-    {
-      "title": "Acer working to patch max severity zero-days in Wave 7 routers",
-      "link": "https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780486547
-    },
-    {
-      "title": "Beans use an immune receptor to call in airstrikes on caterpillars",
-      "link": "https://arstechnica.com/science/2026/06/beans-use-an-immune-receptor-to-call-in-airstrikes-on-caterpillars/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780485307
-    },
-    {
-      "title": "Police dismantles 9 crime groups in illegal streaming crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780481544
-    },
-    {
-      "title": "How long will it take to rebuild Blue Origin's launch pad? We asked some SpaceX vets.",
-      "link": "https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780480807
     },
     {
       "title": "A child's tooth and strange green stones uncover a 5,500-year-old mystery",
