@@ -1,6 +1,34 @@
 {
-  "last_updated": 1780611521,
+  "last_updated": 1780617841,
   "items": [
+    {
+      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+      "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780613006
+    },
+    {
+      "title": "Valve Reaffirms Steam Machine Summer Launch",
+      "link": "https://www.ign.com/articles/valve-reaffirms-steam-machine-summer-launch",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780612876
+    },
+    {
+      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+      "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780612190
+    },
+    {
+      "title": "The skeptic’s guide to humanoid robots going viral on the Internet",
+      "link": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780611816
+    },
     {
       "title": "Knicks vs. Spurs odds, prediction: 2026 NBA Finals picks, Game 2 best bets from proven model",
       "link": "https://www.cbssports.com/nba/news/knicks-spurs-odds-prediction-2026-nba-finals-picks-game-2-best-bets/",
@@ -37,6 +65,13 @@
       "timestamp": 1780608445
     },
     {
+      "title": "AT&T and Verizon lose Supreme Court case over fines for selling location data",
+      "link": "https://arstechnica.com/tech-policy/2026/06/att-and-verizon-lose-supreme-court-case-over-fines-for-selling-location-data/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780608319
+    },
+    {
       "title": "Glittering star cluster image reveals missing patch of stars: 'We were not looking for the gap, but we found it'",
       "link": "https://www.space.com/astronomy/stars/glittering-star-cluster-image-reveals-missing-patch-of-stars-we-were-not-looking-for-the-gap-but-we-found-it",
       "source": "SPACE",
@@ -58,6 +93,13 @@
       "timestamp": 1780606036
     },
     {
+      "title": "These LLMs are the best at resisting Russian propaganda",
+      "link": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780605871
+    },
+    {
       "title": "Why it's time for the Spurs to start Dylan Harper over De'Aaron Fox",
       "link": "https://www.cbssports.com/nba/news/spurs-dylan-harper-deaaron-fox-knicks-nba-finals/",
       "source": "CBSSPORTS",
@@ -70,6 +112,13 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1780605459
+    },
+    {
+      "title": "Dashlane explains how attackers managed to download encrypted password vaults",
+      "link": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780603324
     },
     {
       "title": "Elon Musk tries again to escape FTC audits of X data handling",
@@ -296,13 +345,6 @@
       "timestamp": 1780585200
     },
     {
-      "title": "Chinese spies are using LinkedIn to lure Westerners into sharing sensitive information",
-      "link": "https://techcrunch.com/2026/06/04/chinese-spies-are-using-linkedin-to-lure-westerners-into-sharing-sensitive-information/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780585061
-    },
-    {
       "title": "After 20 years, scientists finally shrink a powerful laser onto a chip",
       "link": "https://www.sciencedaily.com/releases/2026/06/260604044240.htm",
       "source": "SCIENCEDAILY",
@@ -329,13 +371,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1780582292
-    },
-    {
-      "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
-      "link": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780581958
     },
     {
       "title": "Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook",
@@ -499,13 +534,6 @@
       "timestamp": 1780565496
     },
     {
-      "title": "XCOM-Like Star Wars Zero Company Release Date Leaks — and It's Coming Sooner Than You Might Think",
-      "link": "https://www.ign.com/articles/xcom-like-star-wars-zero-company-release-date-leaks-and-its-coming-sooner-than-you-might-think",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780563598
-    },
-    {
       "title": "Beluga whales keep switching mates and it may be saving their species",
       "link": "https://www.sciencedaily.com/releases/2026/06/260603023921.htm",
       "source": "SCIENCEDAILY",
@@ -646,13 +674,6 @@
       "timestamp": 1780516394
     },
     {
-      "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
-      "link": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780513803
-    },
-    {
       "title": "New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute",
       "link": "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/",
       "source": "BLEEPINGCOMPUTER",
@@ -667,25 +688,11 @@
       "timestamp": 1780513200
     },
     {
-      "title": "Trump plan to test AI models has a problem—US security teams were gutted by DOGE",
-      "link": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780510275
-    },
-    {
       "title": "The 9 best one-season space and sci-fi shows of all time",
       "link": "https://www.space.com/entertainment/space-movies-shows/best-one-season-space-and-sci-fi-shows-of-all-time",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780509600
-    },
-    {
-      "title": "New social features further Plex’s evolution from media server business",
-      "link": "https://arstechnica.com/gadgets/2026/06/new-social-features-further-plexs-evolution-from-media-server-business/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780508106
     },
     {
       "title": "Our choice for the best deep-space viewing telescope — now with $200 off, this telescope deal is worth grabbing fast",
@@ -707,13 +714,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1780500976
-    },
-    {
-      "title": "Autonomous vehicles were supposed to cut traffic—what if they don't?",
-      "link": "https://arstechnica.com/cars/2026/06/robotaxis-dont-cut-traffic-any-more-than-ride-hailing-study-finds/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780499583
     },
     {
       "title": "Scientists simulated a nuclear fireball and found a surprise in the fallout",
