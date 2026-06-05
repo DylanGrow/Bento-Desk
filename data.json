@@ -1,12 +1,131 @@
 {
-  "last_updated": 1780674672,
+  "last_updated": 1780681888,
   "items": [
+    {
+      "title": "Dark web Nemesis Market vendor gets 26 years for selling drugs",
+      "link": "https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780681858
+    },
+    {
+      "title": "GM’s electric future depends on a new battery — and this building",
+      "link": "https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780681458
+    },
+    {
+      "title": "As VC-backed e-bike startups went bankrupt, bootstrapped Lectric grew",
+      "link": "https://techcrunch.com/2026/06/05/as-vc-backed-e-bike-startups-went-bankrupt-bootstrapped-lectric-grew/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780681086
+    },
+    {
+      "title": "The most interesting startups right now want to get you off your phone",
+      "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780679826
+    },
+    {
+      "title": "Review: Spider-Noir recaptures the magic of a bygone era",
+      "link": "https://arstechnica.com/culture/2026/06/review-spider-noir-recaptures-the-magic-of-a-bygone-era/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780679102
+    },
+    {
+      "title": "NBA Mock Draft: Wizards grab AJ Dybantsa with top pick, Jazz snag Darryn Peterson but debate rages at No. 3",
+      "link": "https://www.cbssports.com/nba/news/nba-mock-draft-wizards-aj-dybantsa-jazz-darryn-peterson/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780678041
+    },
+    {
+      "title": "The Odyssey Tickets Are Being Resold for Hundreds of Dollars",
+      "link": "https://www.ign.com/articles/the-odyssey-tickets-are-being-resold-for-hundreds-of-dollars",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780677977
+    },
+    {
+      "title": "Supabase doubles valuation to $10B in 8 months",
+      "link": "https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780677147
+    },
+    {
+      "title": "Knicks vs. Spurs odds, prediction: 2026 NBA Finals picks, Game 2 best bets from proven model",
+      "link": "https://www.cbssports.com/nba/news/knicks-spurs-odds-spread-time-prediction-2026-nba-finals-picks-game-2-best-bets/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780677135
+    },
+    {
+      "title": "Earth's Mightiest Survivors: Marvel Comics Reveals Brand-New Avengers Team for 2026",
+      "link": "https://www.ign.com/articles/new-marvel-avengers-2026-team-lineup",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780676549
+    },
+    {
+      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Knicks-Spurs NBA Finals, MLB on Friday",
+      "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-get-1500-bonus-bets-knicks-spurs-nba-finals-friday/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780676181
+    },
+    {
+      "title": "Use DraftKings promo code for $200 in bonus bets by targeting Knicks-Spurs NBA Finals, MLB on Friday",
+      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-200-bonus-bets-knicks-spurs-nba-finals-mlb-friday/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780676018
+    },
+    {
+      "title": "Buffy the Vampire Slayer Star Anthony Head Has Died, Aged 72",
+      "link": "https://www.ign.com/articles/buffy-the-vampire-slayer-star-anthony-head-has-died-aged-72",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780675908
+    },
+    {
+      "title": "Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person",
+      "link": "https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780675666
+    },
+    {
+      "title": "Astrophotographer captures colossal 'Godzilla' plasma cloud stalking the edge of the sun (video)",
+      "link": "https://www.space.com/stargazing/astrophotographer-captures-colossal-godzilla-plasma-cloud-stalking-the-edge-of-the-sun-video",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780675200
+    },
+    {
+      "title": "Trump admin tries again to revive dying coal industry",
+      "link": "https://arstechnica.com/science/2026/06/trump-admin-tries-again-to-revive-dying-coal-industry/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780674914
+    },
     {
       "title": "AI-designed universal coronavirus vaccine passes first human trial",
       "link": "https://www.sciencedaily.com/releases/2026/06/260605023357.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1780674139
+    },
+    {
+      "title": "The Fitbit Air is a good wearable weighed down by a chatty AI \"coach\"",
+      "link": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780674048
     },
     {
       "title": "Astronauts on International Space Station take shelter in SpaceX Dragon as cosmonauts try to fix air leak",
@@ -154,13 +273,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780660800
-    },
-    {
-      "title": "Knicks vs. Spurs odds, prediction: 2026 NBA Finals picks, Game 2 best bets from proven model",
-      "link": "https://www.cbssports.com/nba/news/knicks-spurs-odds-spread-prediction-2026-nba-finals-picks-game-2-best-bets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780660456
     },
     {
       "title": "Steve Jobs in Exile is a fine profile of Jobs' years at NeXT",
@@ -408,13 +520,6 @@
       "timestamp": 1780602552
     },
     {
-      "title": "Meta steals a tactic from Tesla and builds data centers in tents",
-      "link": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780601589
-    },
-    {
       "title": "Today's top games to watch, best bets, odds: Hurricanes vs. Golden Knights Stanley Cup Game 2, MLB, more",
       "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-hurricanes-vs-golden-knights-stanley-cup-game-2-mlb-more/",
       "source": "CBSSPORTS",
@@ -422,25 +527,11 @@
       "timestamp": 1780601445
     },
     {
-      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
-      "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780600858
-    },
-    {
       "title": "August 2026 lunar eclipse: Everything you need to know about the 96% 'blood moon'",
       "link": "https://www.space.com/stargazing/lunar-eclipses/august-2026-lunar-eclipse-everything-you-need-to-know-about-the-96-percent-blood-moon",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780599600
-    },
-    {
-      "title": "Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft",
-      "link": "https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780599248
     },
     {
       "title": "The Odyssey Rating and Custom IMAX Camera Popcorn Bucket Revealed",
@@ -499,13 +590,6 @@
       "timestamp": 1780592400
     },
     {
-      "title": "Meta’s Oversight Board says account bans lack due process, transparency",
-      "link": "https://techcrunch.com/2026/06/04/metas-oversight-board-says-account-bans-lack-due-process-transparency/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780591632
-    },
-    {
       "title": "PlayStation Promises 'Many More Stories to Tell' With Kratos in Future, After God of War Laufey",
       "link": "https://www.ign.com/articles/playstation-promises-many-more-stories-to-tell-with-kratos-in-future-after-god-of-war-laufey",
       "source": "IGN",
@@ -518,13 +602,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1780591129
-    },
-    {
-      "title": "Meta rolls out a new AI creator assistant on Facebook",
-      "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780590768
     },
     {
       "title": "After 11 years at Mars, NASA's MAVEN spacecraft went out with a whisper",
@@ -548,13 +625,6 @@
       "timestamp": 1780588049
     },
     {
-      "title": "It doesn't feel very agricultural: The 2026 Subaru Solterra review",
-      "link": "https://arstechnica.com/cars/2026/06/2026-subaru-solterra-review-the-badge-engineered-bz-aint-bad/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780587831
-    },
-    {
       "title": "New IronWorm malware hits 36 packages in npm supply-chain attack",
       "link": "https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/",
       "source": "BLEEPINGCOMPUTER",
@@ -576,39 +646,11 @@
       "timestamp": 1780585200
     },
     {
-      "title": "Batman: Caped Crusader Season 2 Release Date and First Images Revealed",
-      "link": "https://www.ign.com/articles/batman-caped-crusader-season-2-release-date-photos",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780585200
-    },
-    {
       "title": "After 20 years, scientists finally shrink a powerful laser onto a chip",
       "link": "https://www.sciencedaily.com/releases/2026/06/260604044240.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1780584897
-    },
-    {
-      "title": "Elden Ring Tarnished Edition Has a Nintendo Switch 2 Release Date, Additional Content Also Available to Buy on Other Platforms",
-      "link": "https://www.ign.com/articles/elden-ring-tarnished-edition-has-a-nintendo-switch-2-release-date-additional-content-also-available-to-buy-on-other-platforms",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780583524
-    },
-    {
-      "title": "Elden Ring: Tarnished Edition Preorders Are Now Available, Release Date Confirmed",
-      "link": "https://www.ign.com/articles/elden-ring-tarnished-edition-preorders-reveal-80-price-still-no-release-date",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780582598
-    },
-    {
-      "title": "How some data center operators are tackling their water use problems",
-      "link": "https://arstechnica.com/ai/2026/06/how-data-center-operators-are-tackling-their-water-use-problems/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780582292
     },
     {
       "title": "Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook",
@@ -623,13 +665,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780581600
-    },
-    {
-      "title": "My SSN was exposed in a breach at Columbia—a school I have no connection with",
-      "link": "https://arstechnica.com/tech-policy/2026/06/my-ssn-was-exposed-in-a-breach-at-columbia-a-school-i-have-no-connection-with/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780580931
     },
     {
       "title": "Microsoft blames unexpected Windows driver updates on caching issue",
@@ -688,13 +723,6 @@
       "timestamp": 1780571390
     },
     {
-      "title": "Meteorite found in Sahara desert may be 1st evidence of lost solar system world",
-      "link": "https://www.space.com/astronomy/solar-system/meteorite-found-in-sahara-desert-may-be-1st-evidence-of-lost-solar-system-world",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780567200
-    },
-    {
       "title": "Scientists discover the master clock that controls biological growth and development",
       "link": "https://www.sciencedaily.com/releases/2026/06/260604044236.htm",
       "source": "SCIENCEDAILY",
@@ -737,39 +765,11 @@
       "timestamp": 1780550244
     },
     {
-      "title": "2026 NBA Finals schedule: Knicks vs. Spurs odds, dates, game times",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-finals-schedule-odds/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780545336
-    },
-    {
-      "title": "2026 NBA playoff bracket, schedule: Knicks open Finals with stunning Game 1 comeback win over Spurs",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780543724
-    },
-    {
-      "title": "Today's top games to watch, best bets, odds: Knicks vs. Spurs Game 1, Padres vs. Phillies and more",
-      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-knicks-vs-spurs-game-1-padres-vs-phillies-and-more/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780530317
-    },
-    {
       "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1780523127
-    },
-    {
-      "title": "U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors",
-      "link": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780518682
     },
     {
       "title": "Venus will disappear behind the Moon in a rare June sky event",
