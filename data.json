@@ -1,6 +1,34 @@
 {
-  "last_updated": 1780636441,
+  "last_updated": 1780652485,
   "items": [
+    {
+      "title": "Cyberpunk TCG Already Faces Significant Rule Changes After Massive $28M Kickstarter Campaign",
+      "link": "https://www.ign.com/articles/cyberpunk-tcg-rule-changes-kickstarter",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780651438
+    },
+    {
+      "title": "Crimson Desert Has a Pinball Minigame Now Because of Course It Does",
+      "link": "https://www.ign.com/articles/crimson-desert-has-a-pinball-minigame-now-because-of-course-it-does",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780648625
+    },
+    {
+      "title": "LEGO Reseller Bricks and Minifigs Will Return 'Stolen' Star Wars Sets to Collector; Parting Ways With Controversial Management",
+      "link": "https://www.ign.com/articles/lego-reseller-bricks-and-minifigs-will-return-stolen-star-wars-sets-to-collector-parting-ways-with-controversial-management",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780646776
+    },
+    {
+      "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780640660
+    },
     {
       "title": "Mira Murati steps back into the spotlight, carefully",
       "link": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
@@ -359,17 +387,17 @@
       "timestamp": 1780585324
     },
     {
-      "title": "Batman: Caped Crusader Season 2 Release Date and First Images Revealed",
-      "link": "https://www.ign.com/articles/batman-caped-crusader-season-2-release-date-photos",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780585200
-    },
-    {
       "title": "NASA's dead Mars orbiter MAVEN will crash into the Red Planet in the next 100 years. It's not the only probe in the Mars morgue",
       "link": "https://www.space.com/space-exploration/missions/nasas-dead-mars-orbiter-maven-will-crash-into-the-red-planet-in-the-next-100-years-its-not-the-only-probe-in-the-mars-morgue",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1780585200
+    },
+    {
+      "title": "Batman: Caped Crusader Season 2 Release Date and First Images Revealed",
+      "link": "https://www.ign.com/articles/batman-caped-crusader-season-2-release-date-photos",
+      "source": "IGN",
+      "category": "gaming",
       "timestamp": 1780585200
     },
     {
@@ -443,13 +471,6 @@
       "timestamp": 1780579124
     },
     {
-      "title": "The Sims 4 Developer Maxis Discusses the Game's Latest Big Update",
-      "link": "https://www.ign.com/articles/the-sims-4-morgan-henry-qol-interview",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780578729
-    },
-    {
       "title": "'Silo' season 3 trailer teases showing us how the world ended (video)",
       "link": "https://www.space.com/entertainment/space-movies-shows/silo-season-3-trailer-teases-showing-us-how-the-world-ended-video",
       "source": "SPACE",
@@ -464,13 +485,6 @@
       "timestamp": 1780577240
     },
     {
-      "title": "DC Comics Selling $120 Supergirl Movie Artwork That Accidentally Features a Star Wars Alien",
-      "link": "https://www.ign.com/articles/dc-comics-selling-120-supergirl-movie-artwork-that-accidentally-features-a-star-wars-alien",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780576278
-    },
-    {
       "title": "Goethe never knew this 40-million-year-old ant was hidden in his collection",
       "link": "https://www.sciencedaily.com/releases/2026/06/260604044252.htm",
       "source": "SCIENCEDAILY",
@@ -483,13 +497,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1780576152
-    },
-    {
-      "title": "Helldivers 2 Dev Confirms Roguelite Systems, Called Planet Warfronts, as Part of Big Changes Coming to the Game",
-      "link": "https://www.ign.com/articles/helldivers-2-dev-confirms-roguelite-systems-called-planet-warfronts-as-part-of-big-changes-coming-to-the-game",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780576080
     },
     {
       "title": "Interstellar comet 3I/ATLAS is not an alien spacecraft: SETI hunt for 'technosignatures' comes up empty",
@@ -707,13 +714,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1780502064
-    },
-    {
-      "title": "CISA warns of active attacks exploiting Android, Linux bugs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780500976
     },
     {
       "title": "Scientists simulated a nuclear fireball and found a surprise in the fallout",
