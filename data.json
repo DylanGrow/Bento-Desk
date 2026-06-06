@@ -1,12 +1,68 @@
 {
-  "last_updated": 1780752362,
+  "last_updated": 1780758767,
   "items": [
+    {
+      "title": "Beyond Instagram: Introducing the next generation of social apps",
+      "link": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780758000
+    },
+    {
+      "title": "How 'Spider-Noir' captured the multiverse in True-Hue Full Color and Authentic Black & White (interview)",
+      "link": "https://www.space.com/entertainment/space-movies-shows/how-spider-noir-captured-the-multiverse-in-true-hue-full-color-and-authentic-black-and-white-interview",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780758000
+    },
+    {
+      "title": "Netflix Movie Boss Says 'We Won't Work With' Filmmakers Who 'Still Want Theatrical' Releases",
+      "link": "https://www.ign.com/articles/netflix-movie-boss-says-we-wont-work-with-filmmakers-who-still-want-theatrical-releases",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780755880
+    },
+    {
+      "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780754966
+    },
+    {
+      "title": "Who is Lobo, the cigar-smoking alien bounty hunter in 'Supergirl'?",
+      "link": "https://www.space.com/entertainment/who-is-lobo-the-cigar-smoking-alien-bounty-hunter-in-supergirl",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780754400
+    },
+    {
+      "title": "Ozempic and similar weight-loss drugs linked to 30% lower breast cancer risk",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260605023400.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1780752504
+    },
+    {
+      "title": "Tiny X-ray telescope could unlock the Moon's hidden chemistry",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260606075508.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1780752267
+    },
     {
       "title": "This Week In Space podcast: Episode 213 — Live From ISDC With Gerry Griffin",
       "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-213-live-from-isdc-with-gerry-griffin",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780751737
+    },
+    {
+      "title": "Scientists found a surprisingly simple way to create powerful quantum states",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260606075510.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1780750939
     },
     {
       "title": "Neil deGrasse Tyson narrates new trailer for upcoming Broadway musical, 'Galileo'",
@@ -210,13 +266,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1780697913
-    },
-    {
-      "title": "Assassin's Creed Co-Creator Re-Reveals 1666 Amsterdam, 30-Minute Demo Playable Now",
-      "link": "https://www.ign.com/articles/assassins-creed-co-creator-re-reveals-1666-amsterdam-30-minute-demo-playable-now",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780697811
     },
     {
       "title": "NBA Finals 2026 Game 2 odds, prediction, time: Spurs vs. Knicks picks by expert on 141-103 run",
@@ -583,13 +632,6 @@
       "timestamp": 1780657255
     },
     {
-      "title": "Interstellar comet 3I/ATLAS is blasting out a bunch of methane. Here's why that's weird",
-      "link": "https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-is-blasting-out-a-bunch-of-methane-heres-why-thats-weird",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780653600
-    },
-    {
       "title": "Scientists discover a hidden quantum world inside cobalt",
       "link": "https://www.sciencedaily.com/releases/2026/06/260604044255.htm",
       "source": "SCIENCEDAILY",
@@ -632,13 +674,6 @@
       "timestamp": 1780635997
     },
     {
-      "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
-      "link": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780618007
-    },
-    {
       "title": "The skeptic’s guide to humanoid robots going viral on the Internet",
       "link": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
       "source": "ARSTECHNICA",
@@ -658,13 +693,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1780608445
-    },
-    {
-      "title": "Glittering star cluster image reveals missing patch of stars: 'We were not looking for the gap, but we found it'",
-      "link": "https://www.space.com/astronomy/stars/glittering-star-cluster-image-reveals-missing-patch-of-stars-we-were-not-looking-for-the-gap-but-we-found-it",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780606800
     },
     {
       "title": "Credit card theft campaign abuses Stripe to host stolen payment info",
@@ -723,13 +751,6 @@
       "timestamp": 1780581671
     },
     {
-      "title": "Microsoft blames unexpected Windows driver updates on caching issue",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780580502
-    },
-    {
       "title": "Scientists finally crack an “undruggable” pancreatic cancer target and nearly double survival",
       "link": "https://www.sciencedaily.com/releases/2026/06/260604044247.htm",
       "source": "SCIENCEDAILY",
@@ -756,27 +777,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1780559473
-    },
-    {
-      "title": "Cancer’s favorite escape trick may actually make it easier to kill",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260603023911.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1780551022
-    },
-    {
-      "title": "NASA's Webb detects methane and strange chemistry on interstellar comet 3I/ATLAS",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260603023116.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1780550244
-    },
-    {
-      "title": "Venus will disappear behind the Moon in a rare June sky event",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260603023107.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1780502064
     }
   ]
 }
