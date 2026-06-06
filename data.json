@@ -1,6 +1,27 @@
 {
-  "last_updated": 1780745027,
+  "last_updated": 1780752362,
   "items": [
+    {
+      "title": "This Week In Space podcast: Episode 213 — Live From ISDC With Gerry Griffin",
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-213-live-from-isdc-with-gerry-griffin",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780751737
+    },
+    {
+      "title": "Neil deGrasse Tyson narrates new trailer for upcoming Broadway musical, 'Galileo'",
+      "link": "https://www.space.com/entertainment/neil-degrasse-tyson-narrates-new-trailer-for-upcoming-broadway-musical-galileo",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780747200
+    },
+    {
+      "title": "Some ancient microbes frozen with Ötzi the Iceman are still growing",
+      "link": "https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780744551
+    },
     {
       "title": "I resisted smart telescopes for years — then one changed my life",
       "link": "https://www.space.com/stargazing/i-resisted-smart-telescopes-for-years-then-one-changed-my-life",
@@ -639,13 +660,6 @@
       "timestamp": 1780608445
     },
     {
-      "title": "AT&T and Verizon lose Supreme Court case over fines for selling location data",
-      "link": "https://arstechnica.com/tech-policy/2026/06/att-and-verizon-lose-supreme-court-case-over-fines-for-selling-location-data/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780608319
-    },
-    {
       "title": "Glittering star cluster image reveals missing patch of stars: 'We were not looking for the gap, but we found it'",
       "link": "https://www.space.com/astronomy/stars/glittering-star-cluster-image-reveals-missing-patch-of-stars-we-were-not-looking-for-the-gap-but-we-found-it",
       "source": "SPACE",
@@ -674,25 +688,11 @@
       "timestamp": 1780605459
     },
     {
-      "title": "August 2026 lunar eclipse: Everything you need to know about the 96% 'blood moon'",
-      "link": "https://www.space.com/stargazing/lunar-eclipses/august-2026-lunar-eclipse-everything-you-need-to-know-about-the-96-percent-blood-moon",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780599600
-    },
-    {
       "title": "DentaQuest data breach  exposed info of 2.6 million accounts",
       "link": "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1780598187
-    },
-    {
-      "title": "SpaceX launches back-to-back Starlink missions from both coasts 19 hours apart (photos)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-47-b1108-vsfb-ocisly-10-43-b1090-ccsfs-asog",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780596368
     },
     {
       "title": "UN food agency discloses breach affecting 600,000 Gaza households",
