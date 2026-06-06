@@ -1,6 +1,48 @@
 {
-  "last_updated": 1780773461,
+  "last_updated": 1780779687,
   "items": [
+    {
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780777944
+    },
+    {
+      "title": "Final Fantasy 7 Revelation Tweaks Mini-Games But Square Enix Says It Would Never Reduce Them",
+      "link": "https://www.ign.com/articles/final-fantasy-7-revelation-tweaks-mini-games-but-square-enix-says-it-would-never-reduce-them",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780776773
+    },
+    {
+      "title": "Evil Dead Burn Exclusive Clip Showcases Gross Deadite Horror | IGN Live 2026",
+      "link": "https://www.ign.com/articles/evil-dead-burn-exclusive-clip-showcases-gross-deadite-horror-ign-live-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780775100
+    },
+    {
+      "title": "IGN Live 2026: Everything Announced (Updating Live!)",
+      "link": "https://www.ign.com/articles/ign-live-2026-everything-announced",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780773050
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 4 DMZ First Details Tease a Feedback-Driven Extraction Experience",
+      "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-dmz-first-details-tease-a-feedback-driven-extraction-experience",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780772716
+    },
+    {
+      "title": "Matt Ryan on Revisiting Edward Kenway for Assassin’s Creed: Black Flag Resynced | IGN Live 2026",
+      "link": "https://www.ign.com/articles/matt-ryan-edward-kenway-black-flag-resynced",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780772196
+    },
     {
       "title": "History is pointing to a Knicks title, but Mikal Bridges has the right message: 'Stay desperate at all times'",
       "link": "https://www.cbssports.com/nba/news/history-pointing-to-knicks-title-spurs-nba-finals-mikal-bridges/",
@@ -219,13 +261,6 @@
       "timestamp": 1780704065
     },
     {
-      "title": "Super Yooka-Laylee Kart Announced, With SNES Mario Kart Vibes",
-      "link": "https://www.ign.com/articles/super-yooka-laylee-kart-announced-with-snes-mario-kart-vibes",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780704041
-    },
-    {
       "title": "Knicks vs. Spurs Game 2 odds, prediction: NBA Finals pick as San Antonio tries to bounce back",
       "link": "https://www.cbssports.com/nba/news/knicks-spurs-game-2-odds-prediction-nba-finals-tv-channel/",
       "source": "CBSSPORTS",
@@ -245,34 +280,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1780700826
-    },
-    {
-      "title": "First Alien: Isolation 2 Footage Revealed at Summer Game Fest 2026",
-      "link": "https://www.ign.com/articles/first-alien-isolation-2-footage-revealed-at-summer-game-fest-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780700573
-    },
-    {
-      "title": "Among Us Animated Series Shadow Drops on Paramount+",
-      "link": "https://www.ign.com/articles/among-us-animated-series-shadow-drops-on-paramount",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780700502
-    },
-    {
-      "title": "Final Fantasy VII Remake Part 3 Called Revelation, Out Simultaneously Across All Platforms",
-      "link": "https://www.ign.com/articles/final-fantasy-vii-remake-part-3-called-revelation-out-simultaneously-across-all-platforms",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780700416
-    },
-    {
-      "title": "Palworld Is Finally Getting Its Full 1.0 Release, Coming in July",
-      "link": "https://www.ign.com/articles/palworld-is-finally-getting-its-full-10-release-coming-in-july",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780700355
     },
     {
       "title": "Baby botulism outbreak: FDA still doesn't know cause—or how to prevent it",
@@ -546,13 +553,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1780670644
-    },
-    {
-      "title": "NASA briefly sheltered space station astronauts in SpaceX’s Dragon due to leaks",
-      "link": "https://techcrunch.com/2026/06/05/nasa-briefly-sheltered-space-station-astronauts-in-spacexs-dragon-due-to-leaks/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780670572
     },
     {
       "title": "Rocket Report: Blue Origin explosion still making headlines; Impulse raises money",
