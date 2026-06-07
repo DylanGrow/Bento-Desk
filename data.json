@@ -1,6 +1,20 @@
 {
-  "last_updated": 1780818734,
+  "last_updated": 1780827993,
   "items": [
+    {
+      "title": "Could meteor storms harm NASA's future moon missions?",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/could-meteor-storms-harm-nasas-future-moon-missions",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780826400
+    },
+    {
+      "title": "Scientists finally complete Schrödinger’s 100-year-old color theory",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260606015140.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1780818921
+    },
     {
       "title": "New PowerWash Simulator 2: Star Wars Pack Trailer Spotlights Classic Locations | IGN Live 2026",
       "link": "https://www.ign.com/articles/powerwash-simulator-2-star-wars-dlc-trailer-new",
@@ -632,13 +646,6 @@
       "timestamp": 1780661901
     },
     {
-      "title": "One of the sky's rarest phenomena is back: How to see rare night-shining clouds this summer",
-      "link": "https://www.space.com/stargazing/one-of-the-skys-rarest-phenomena-is-back-how-to-see-rare-night-shining-clouds-this-summer",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780660800
-    },
-    {
       "title": "Steve Jobs in Exile is a fine profile of Jobs' years at NeXT",
       "link": "https://arstechnica.com/apple/2026/06/steve-jobs-in-exile-is-a-fine-profile-of-jobs-years-at-next/",
       "source": "ARSTECHNICA",
@@ -770,13 +777,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1780565765
-    },
-    {
-      "title": "Beluga whales keep switching mates and it may be saving their species",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260603023921.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1780559473
     }
   ]
 }
