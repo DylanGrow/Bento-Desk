@@ -1,6 +1,27 @@
 {
-  "last_updated": 1780843776,
+  "last_updated": 1780849153,
   "items": [
+    {
+      "title": "TechCrunch Mobility: Inside GM’s $900M EV battery gamble",
+      "link": "https://techcrunch.com/2026/06/07/inside-gms-900m-ev-battery-gamble/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780848300
+    },
+    {
+      "title": "Xbox Games Showcase 2026 Live Updates: Every Game Announcement",
+      "link": "https://www.ign.com/articles/xbox-games-showcase-2026-live-updates-every-game-announcement",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780844400
+    },
+    {
+      "title": "NBA Finals overreactions: Knicks a team of destiny? Victor Wembanyama sinking the Spurs?",
+      "link": "https://www.cbssports.com/nba/news/nba-finals-overreactions-knicks-spurs-karl-anthony-towns-mvp-victor-wembanyama-deaaron-fox-jalen-brunson/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780844230
+    },
     {
       "title": "The Death of Robin Hood Director on Hugh Jackman’s Gritty New Role | IGN Live 2026",
       "link": "https://www.ign.com/articles/the-death-of-robin-hood-director-hugh-jackman",
@@ -30,17 +51,17 @@
       "timestamp": 1780840800
     },
     {
-      "title": "Trouble near the Milky Way: The Large Magellanic Cloud is ripping its smaller neighbor galaxy apart",
-      "link": "https://www.space.com/astronomy/galaxies/trouble-near-the-milky-way-the-large-magellanic-cloud-is-ripping-its-smaller-neighbor-galaxy-apart",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780840800
-    },
-    {
       "title": "Meet The Vampire Lestat's Rock Band in an Exclusive New Clip | IGN Live 2026",
       "link": "https://www.ign.com/articles/the-vampire-lestat-exclusive-new-clip-ign-live-2026",
       "source": "IGN",
       "category": "gaming",
+      "timestamp": 1780840800
+    },
+    {
+      "title": "Trouble near the Milky Way: The Large Magellanic Cloud is ripping its smaller neighbor galaxy apart",
+      "link": "https://www.space.com/astronomy/galaxies/trouble-near-the-milky-way-the-large-magellanic-cloud-is-ripping-its-smaller-neighbor-galaxy-apart",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1780840800
     },
     {
@@ -168,13 +189,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1780781105
-    },
-    {
-      "title": "Control: Resonant Creative Director on the Sequel Shifting to an Action RPG | IGN Live 2026",
-      "link": "https://www.ign.com/articles/control-resonant-creative-director-on-the-sequel-shifting-to-an-action-rpg-ign-live-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780779292
     },
     {
       "title": "Scientists ejected from diabetes conference for distributing journal reprints",
@@ -555,13 +569,6 @@
       "timestamp": 1780677147
     },
     {
-      "title": "Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person",
-      "link": "https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780675666
-    },
-    {
       "title": "Astrophotographer captures colossal 'Godzilla' plasma cloud stalking the edge of the sun (video)",
       "link": "https://www.space.com/stargazing/astrophotographer-captures-colossal-godzilla-plasma-cloud-stalking-the-edge-of-the-sun-video",
       "source": "SPACE",
@@ -728,13 +735,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1780606036
-    },
-    {
-      "title": "Why it's time for the Spurs to start Dylan Harper over De'Aaron Fox",
-      "link": "https://www.cbssports.com/nba/news/spurs-dylan-harper-deaaron-fox-knicks-nba-finals/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780605468
     },
     {
       "title": "DentaQuest data breach  exposed info of 2.6 million accounts",
