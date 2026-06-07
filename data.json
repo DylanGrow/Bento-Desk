@@ -1,6 +1,55 @@
 {
-  "last_updated": 1780834707,
+  "last_updated": 1780843776,
   "items": [
+    {
+      "title": "The Death of Robin Hood Director on Hugh Jackman’s Gritty New Role | IGN Live 2026",
+      "link": "https://www.ign.com/articles/the-death-of-robin-hood-director-hugh-jackman",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780842600
+    },
+    {
+      "title": "C0XMO botnet spreads via DD-WRT router flaw, kills rival malware",
+      "link": "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780841866
+    },
+    {
+      "title": "Silent Ransom Group targets law firms with fake IT support calls",
+      "link": "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780841359
+    },
+    {
+      "title": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far",
+      "link": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780840800
+    },
+    {
+      "title": "Trouble near the Milky Way: The Large Magellanic Cloud is ripping its smaller neighbor galaxy apart",
+      "link": "https://www.space.com/astronomy/galaxies/trouble-near-the-milky-way-the-large-magellanic-cloud-is-ripping-its-smaller-neighbor-galaxy-apart",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780840800
+    },
+    {
+      "title": "Meet The Vampire Lestat's Rock Band in an Exclusive New Clip | IGN Live 2026",
+      "link": "https://www.ign.com/articles/the-vampire-lestat-exclusive-new-clip-ign-live-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780840800
+    },
+    {
+      "title": "10 best Spanish beaches to see the total solar eclipse 2026",
+      "link": "https://www.space.com/stargazing/solar-eclipses/10-best-spanish-beaches-to-see-the-total-solar-eclipse-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780837200
+    },
     {
       "title": "'Rick and Morty' creators on their inspirations as season 9 tackles the multiverse, evolution, and a kung-fu fight in a Trader Joe's parking lot (interview)",
       "link": "https://www.space.com/entertainment/space-movies-shows/rick-and-morty-creators-on-their-inspirations-as-season-9-tackles-the-multiverse-evolution-and-a-kung-fu-fight-in-a-trader-joes-parking-lot-interview",
@@ -140,20 +189,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1780777944
-    },
-    {
-      "title": "Final Fantasy 7 Revelation Tweaks Mini-Games But Square Enix Says It Would Never Reduce Them",
-      "link": "https://www.ign.com/articles/final-fantasy-7-revelation-tweaks-mini-games-but-square-enix-says-it-would-never-reduce-them",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780776773
-    },
-    {
-      "title": "Evil Dead Burn Exclusive Clip Showcases Gross Deadite Horror | IGN Live 2026",
-      "link": "https://www.ign.com/articles/evil-dead-burn-exclusive-clip-showcases-gross-deadite-horror-ign-live-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780775100
     },
     {
       "title": "History is pointing to a Knicks title, but Mikal Bridges has the right message: 'Stay desperate at all times'",
@@ -562,25 +597,11 @@
       "timestamp": 1780673432
     },
     {
-      "title": "Venus, Jupiter and Mercury headline a stunning planet parade through June. Here's when to see it",
-      "link": "https://www.space.com/stargazing/venus-jupiter-and-mercury-headline-a-stunning-planet-parade-through-june-heres-when-to-see-it",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780671600
-    },
-    {
       "title": "Over 900 US gas station tank gauge systems exposed to attacks",
       "link": "https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1780671015
-    },
-    {
-      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
-      "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780670952
     },
     {
       "title": "Not the next R8? Audi reveals mid-engined plug-in hybrid V8 Nuvolari.",
@@ -602,13 +623,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1780668010
-    },
-    {
-      "title": "Meteor streaks across the sky above big observatory | Space photo of the day for June 5, 2026",
-      "link": "https://www.space.com/stargazing/meteor-showers/meteor-streaks-across-the-sky-above-big-observatory-space-photo-of-the-day-for-june-5-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780668000
     },
     {
       "title": "Safety officials finally have a good idea of what a big rocket explosion can do",
@@ -737,25 +751,11 @@
       "timestamp": 1780591129
     },
     {
-      "title": "New IronWorm malware hits 36 packages in npm supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780586737
-    },
-    {
       "title": "After 20 years, scientists finally shrink a powerful laser onto a chip",
       "link": "https://www.sciencedaily.com/releases/2026/06/260604044240.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1780584897
-    },
-    {
-      "title": "Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780581671
     },
     {
       "title": "Scientists finally crack an “undruggable” pancreatic cancer target and nearly double survival",
