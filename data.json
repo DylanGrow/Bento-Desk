@@ -1,6 +1,20 @@
 {
-  "last_updated": 1780827993,
+  "last_updated": 1780834707,
   "items": [
+    {
+      "title": "'Rick and Morty' creators on their inspirations as season 9 tackles the multiverse, evolution, and a kung-fu fight in a Trader Joe's parking lot (interview)",
+      "link": "https://www.space.com/entertainment/space-movies-shows/rick-and-morty-creators-on-their-inspirations-as-season-9-tackles-the-multiverse-evolution-and-a-kung-fu-fight-in-a-trader-joes-parking-lot-interview",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780833600
+    },
+    {
+      "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
+      "link": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780830510
+    },
     {
       "title": "Could meteor storms harm NASA's future moon missions?",
       "link": "https://www.space.com/space-exploration/human-spaceflight/could-meteor-storms-harm-nasas-future-moon-missions",
@@ -618,13 +632,6 @@
       "timestamp": 1780667011
     },
     {
-      "title": "$1.77 trillion! SpaceX is about to become the 7th-most valuable American company",
-      "link": "https://www.space.com/space-exploration/usd1-77-trillion-spacex-is-about-to-become-the-7th-most-valuable-american-company",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780664400
-    },
-    {
       "title": "How Yankees can survive without Aaron Judge; Spurs need to start Dylan Harper against Knicks",
       "link": "https://www.cbssports.com/mlb/news/how-yankees-can-survive-without-aaron-judge-spurs-need-to-start-dylan-harper-against-knicks/",
       "source": "CBSSPORTS",
@@ -651,13 +658,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1780658129
-    },
-    {
-      "title": "Review: AMD's Radeon RX 9070 GRE is a disappointing way to spend $549",
-      "link": "https://arstechnica.com/gadgets/2026/06/amd-radeon-rx-9070-gre-review-shrinkflation-isnt-just-for-groceries-anymore/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780657255
     },
     {
       "title": "Scientists discover a hidden quantum world inside cobalt",
