@@ -1,6 +1,55 @@
 {
-  "last_updated": 1780896506,
+  "last_updated": 1780915666,
   "items": [
+    {
+      "title": "Is this the next Artemis crew? A look at the astronauts on NASA's shortlist",
+      "link": "https://www.space.com/space-exploration/artemis/is-this-the-next-artemis-crew-a-look-at-the-astronauts-on-nasas-shortlist",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780912800
+    },
+    {
+      "title": "Spider-Man: Brand New Day's Second Trailer Leaks Online, With Sony Now Issuing Copyright Takedowns",
+      "link": "https://www.ign.com/articles/spider-man-brand-new-days-second-trailer-leaks-online-with-sony-now-issuing-copyright-takedowns",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780911949
+    },
+    {
+      "title": "Hellblade Developer Ninja Theory Has Cancelled Project Mara",
+      "link": "https://www.ign.com/articles/hellblade-developer-ninja-theory-has-cancelled-project-mara",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780911706
+    },
+    {
+      "title": "Xbox Game Exclusivity Will Be Decided on a 'Case-by-Case' Basis, Microsoft Says",
+      "link": "https://www.ign.com/articles/xbox-game-exclusivity-will-be-decided-on-a-case-by-case-basis-microsoft-says",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780909016
+    },
+    {
+      "title": "Will 007 First Light Get a Sequel? The Boss of Amazon Games Responds",
+      "link": "https://www.ign.com/articles/will-007-first-light-get-a-sequel-the-boss-of-amazon-games-responds",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780907648
+    },
+    {
+      "title": "Todd McFarlane Shows Off New Fallout and Helldivers Figures | IGN Live 2026",
+      "link": "https://www.ign.com/articles/todd-mcfarlane-shows-off-new-fallout-and-helldivers-figures-ign-live-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780901907
+    },
+    {
+      "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack",
+      "link": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780898427
+    },
     {
       "title": "Spurs vs. Knicks odds, prediction: 2026 NBA Finals picks, Game 3 best bets from model",
       "link": "https://www.cbssports.com/nba/news/spurs-knicks-odds-prediction-2026-nba-finals-picks-game-3-best-bets/",
@@ -107,46 +156,11 @@
       "timestamp": 1780860410
     },
     {
-      "title": "Grounded 2 Heads Into the Unknown With Into The Abyss DLC | IGN Live",
-      "link": "https://www.ign.com/articles/grounded-2-heads-into-the-unknown-with-into-the-abyss-dlc-ign-live",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780860363
-    },
-    {
-      "title": "Gears of War: E-Day and Clockwork Revolution Are 'Not Timed Exclusives,' Xbox Says — So They'll Never Launch on PlayStation",
-      "link": "https://www.ign.com/articles/gears-of-war-e-day-and-clockwork-revolution-are-not-timed-exclusives-xbox-says-so-theyll-never-launch-on-playstation",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780859449
-    },
-    {
-      "title": "State of Decay 3 Confirmed for PS5 as Undead Labs Stops Short of Delivering Release Date",
-      "link": "https://www.ign.com/articles/state-of-decay-3-confirmed-for-ps5-as-undead-labs-stops-short-of-delivering-release-date",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780858609
-    },
-    {
-      "title": "Call of Duty: Modern Warfare 4's Gritty Extraction Mode, DMZ, Gets First Gameplay",
-      "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4s-gritty-extraction-mode-dmz-gets-first-gameplay",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780857113
-    },
-    {
       "title": "Stacey King, three-time NBA champion with the Chicago Bulls, dies at 59",
       "link": "https://www.cbssports.com/nba/news/stacey-king-dies-bulls/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1780856867
-    },
-    {
-      "title": "Clockwork Revolution Confirmed as Xbox Console Exclusive With 2027 Launch",
-      "link": "https://www.ign.com/articles/clockwork-revolution-confirmed-as-xbox-console-exclusive-with-2027-launch",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780856369
     },
     {
       "title": "Notion restores access to Anthropic after service disruption",
@@ -618,13 +632,6 @@
       "timestamp": 1780674048
     },
     {
-      "title": "Astronauts on International Space Station take shelter in SpaceX Dragon as cosmonauts try to fix air leak",
-      "link": "https://www.space.com/space-exploration/international-space-station/astronauts-on-international-space-station-take-shelter-in-spacex-dragon-as-cosmonauts-try-to-fix-air-leak",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780673432
-    },
-    {
       "title": "Over 900 US gas station tank gauge systems exposed to attacks",
       "link": "https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/",
       "source": "BLEEPINGCOMPUTER",
@@ -735,13 +742,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1780606036
-    },
-    {
-      "title": "DentaQuest data breach  exposed info of 2.6 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780598187
     },
     {
       "title": "After 20 years, scientists finally shrink a powerful laser onto a chip",
