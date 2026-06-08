@@ -1,6 +1,111 @@
 {
-  "last_updated": 1780949437,
+  "last_updated": 1780957448,
   "items": [
+    {
+      "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
+      "link": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780956718
+    },
+    {
+      "title": "SoFi confirms third-party data breach at Hong Kong subsidiary",
+      "link": "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780955746
+    },
+    {
+      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Spurs-Knicks NBA Finals Game 3, MLB on Monday",
+      "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-spurs-knicks-nba-finals-game-3-mlb-monday/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780954885
+    },
+    {
+      "title": "OpenAI files confidentially for IPO, following Anthropic",
+      "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780954197
+    },
+    {
+      "title": "Apple plays catch-up at WWDC",
+      "link": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780953342
+    },
+    {
+      "title": "Use DraftKings promo code for $200 in bonus bets by targeting Spurs-Knicks NBA Finals Game 3, MLB on Monday",
+      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-200-bonus-bets-spurs-knicks-nba-finals-game-3-mlb-monday/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780953153
+    },
+    {
+      "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era",
+      "link": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780952636
+    },
+    {
+      "title": "New Apple feature automatically changes your compromised passwords",
+      "link": "https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780952620
+    },
+    {
+      "title": "Scientists propose spraying chemicals into Earth's magnetic field to protect us from powerful solar storms",
+      "link": "https://www.space.com/astronomy/earth/scientists-propose-spraying-chemicals-into-earths-magnetic-field-to-protect-us-from-powerful-solar-storms",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1780952400
+    },
+    {
+      "title": "iOS 27 and iPadOS 27 don't drop support for any iPhones—and just a few iPads",
+      "link": "https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780952158
+    },
+    {
+      "title": "Apple bets cheaper AI will woo small developers",
+      "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780952035
+    },
+    {
+      "title": "Waymo bought Apple’s self-driving car proving ground for $220M",
+      "link": "https://techcrunch.com/2026/06/08/waymo-bought-apples-self-driving-car-proving-ground-for-220m/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780951855
+    },
+    {
+      "title": "NBA player prop picks, odds: Three best 2026 NBA Finals prop bets for Knicks vs. Spurs, Game 3",
+      "link": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-three-best-2026-nba-finals-prop-bets-for-knicks-spurs-game-3/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780951528
+    },
+    {
+      "title": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages",
+      "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780951295
+    },
+    {
+      "title": "Meta alleges NSO violated spyware injunction with new WhatsApp attacks",
+      "link": "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1780950374
+    },
     {
       "title": "Microsoft’s open source tools were hacked to steal passwords of AI developers",
       "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
@@ -23,18 +128,11 @@
       "timestamp": 1780947692
     },
     {
-      "title": "Artemis II crew flew fast, earned new patch: Astronauts' Mach 39 emblem",
+      "title": "The fastest humans in the galaxy just got a spiffy patch to prove it",
       "link": "https://arstechnica.com/space/2026/06/artemis-ii-crew-flew-fast-earned-new-patch-astronauts-mach-39-emblem/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1780947605
-    },
-    {
-      "title": "Spurs vs. Knicks odds, prediction: 2026 NBA Finals picks, Game 3 best bets by model on 26-10 run",
-      "link": "https://www.cbssports.com/nba/news/spurs-knicks-odds-prediction-spread-time-2026-nba-finals-picks-game-3-best-bets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780947554
     },
     {
       "title": "Today's top games to watch, best bets, odds: Spurs vs. Knicks, Yankees vs. Guardians and more",
@@ -72,7 +170,7 @@
       "timestamp": 1780945200
     },
     {
-      "title": "Pentagon says Alibaba, Baidu, BYD and Unitree support China’s military",
+      "title": "Pentagon says Alibaba, Baidu, BYD, and Unitree support China’s military",
       "link": "https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -177,27 +275,6 @@
       "timestamp": 1780941600
     },
     {
-      "title": "Apple’s long-awaited AI Siri overhaul is finally here",
-      "link": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780941381
-    },
-    {
-      "title": "Apple says it’s fixed the awful search function for emails, photos",
-      "link": "https://techcrunch.com/2026/06/08/apple-says-its-fixed-the-awful-search-function-for-emails-photos/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780941209
-    },
-    {
-      "title": "Apple is tweaking its controversial Liquid Glass design",
-      "link": "https://techcrunch.com/2026/06/08/apple-is-tweaking-its-controversial-liquid-glass-design/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780939473
-    },
-    {
       "title": "Man jailed for a month despite Flock showing he was 5 miles from crime scene",
       "link": "https://arstechnica.com/tech-policy/2026/06/man-jailed-for-a-month-despite-flock-showing-he-was-5-miles-from-crime-scene/",
       "source": "ARSTECHNICA",
@@ -254,13 +331,6 @@
       "timestamp": 1780935520
     },
     {
-      "title": "How to apply to Startup Battlefield 2026, what you need ahead of today’s June 8 deadline",
-      "link": "https://techcrunch.com/2026/06/08/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-todays-june-8-deadline/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780935254
-    },
-    {
       "title": "Knicks vs. Spurs Game 3 odds, prediction: NBA Finals pick as New York looks for dominant 3-0 series lead",
       "link": "https://www.cbssports.com/nba/news/knicks-spurs-game-3-odds-prediction-nba-finals-tv-channel/",
       "source": "CBSSPORTS",
@@ -308,27 +378,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780930800
-    },
-    {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Knicks-Spurs NBA Finals Game 3, MLB on Monday",
-      "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-knicks-spurs-nba-finals-game-3-mlb-monday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780930066
-    },
-    {
-      "title": "NBA player prop picks, odds: Three best 2026 NBA Finals prop bets for Spurs vs. Knicks, Game 3",
-      "link": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-three-best-2026-nba-finals-prop-bets-for-spurs-knicks-game-3/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780929200
-    },
-    {
-      "title": "Use DraftKings promo code for $200 in bonus bets by targeting Knicks-Spurs NBA Finals Game 3, MLB on Monday",
-      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-200-bonus-bets-knicks-spurs-nba-finals-game-3-mlb-monday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780929177
     },
     {
       "title": "France Slaps Nintendo With $46 Million Fine Over Switch Joy-Con Drift",
@@ -597,32 +646,11 @@
       "timestamp": 1780833600
     },
     {
-      "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
-      "link": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780830510
-    },
-    {
-      "title": "Could meteor storms harm NASA's future moon missions?",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/could-meteor-storms-harm-nasas-future-moon-missions",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780826400
-    },
-    {
       "title": "Scientists finally complete Schrödinger’s 100-year-old color theory",
       "link": "https://www.sciencedaily.com/releases/2026/06/260606015140.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1780818921
-    },
-    {
-      "title": "Scientists ejected from diabetes conference for distributing journal reprints",
-      "link": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780779187
     },
     {
       "title": "History is pointing to a Knicks title, but Mikal Bridges has the right message: 'Stay desperate at all times'",
@@ -660,13 +688,6 @@
       "timestamp": 1780750939
     },
     {
-      "title": "Some ancient microbes frozen with Ötzi the Iceman are still growing",
-      "link": "https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780744551
-    },
-    {
       "title": "Karl-Anthony Towns for NBA Finals MVP? KAT has been the best player on the court through two games",
       "link": "https://www.cbssports.com/nba/news/karl-anthony-towns-nba-finals-mvp-knicks/",
       "source": "CBSSPORTS",
@@ -695,32 +716,11 @@
       "timestamp": 1780718416
     },
     {
-      "title": "Suspicious Polyfill login prompts pop up on Toshiba, Muji websites",
-      "link": "https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780696482
-    },
-    {
-      "title": "CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780686930
-    },
-    {
-      "title": "Chinese APT deploys new malware to keep access to hacked networks",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780682987
-    },
-    {
-      "title": "Dark web Nemesis Market vendor gets 26 years for selling drugs",
-      "link": "https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780681858
+      "title": "2026 NBA Finals schedule: Knicks vs. Spurs odds, dates, game times",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-finals-schedule-odds/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780717325
     },
     {
       "title": "AI-designed universal coronavirus vaccine passes first human trial",
