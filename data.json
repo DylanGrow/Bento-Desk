@@ -1,6 +1,230 @@
 {
-  "last_updated": 1781008460,
+  "last_updated": 1781020367,
   "items": [
+    {
+      "title": "US military claims first drone boat rescue of downed helicopter crew",
+      "link": "https://arstechnica.com/gadgets/2026/06/us-military-claims-first-drone-boat-rescue-of-downed-helicopter-crew/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781019876
+    },
+    {
+      "title": "GitHub disables Microsoft repos pushing password-stealing malware",
+      "link": "https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781019760
+    },
+    {
+      "title": "Apple says it may remove some apps from the App Store if they don’t attract users",
+      "link": "https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781018620
+    },
+    {
+      "title": "High-severity vulnerability in Linux caused by a single errant character",
+      "link": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781017963
+    },
+    {
+      "title": "iOS 27 features we didn’t see onstage",
+      "link": "https://techcrunch.com/2026/06/09/ios-27-features-we-didnt-see-on-stage/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781017572
+    },
+    {
+      "title": "'This is actually taking a page out of the Communist Party playbook': New White House proposal could deny scientists funding based on their political opinions",
+      "link": "https://www.space.com/space-exploration/this-is-actually-taking-a-page-out-of-the-communist-party-playbook-new-white-house-proposal-could-deny-scientists-funding-based-on-their-political-opinions",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781017200
+    },
+    {
+      "title": "Apple brings streaming-style subscription bundles to the App Store",
+      "link": "https://techcrunch.com/2026/06/09/apple-brings-streaming-style-subscription-bundles-to-the-app-store/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781016936
+    },
+    {
+      "title": "The Legend of Zelda: Ocarina of Time Remake Revealed for Nintendo Switch 2",
+      "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-revealed-for-nintendo-switch-2",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781016886
+    },
+    {
+      "title": "The Duskbloods Trailer Reveals Closed Network Test for Summer 2026",
+      "link": "https://www.ign.com/articles/the-duskbloods-trailer-reveals-closed-network-test-for-summer-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781016606
+    },
+    {
+      "title": "Xenoblade Genesis Revealed for Nintendo Switch 2 With 2027 Release Window",
+      "link": "https://www.ign.com/articles/xenoblade-genesis-revealed-for-nintendo-switch-2-with-2027-release-window",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781016131
+    },
+    {
+      "title": "Star Fox Demo Available Later Today",
+      "link": "https://www.ign.com/articles/star-fox-demo-announced",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781016061
+    },
+    {
+      "title": "Final Fantasy Resonance Revealed, A New HD-2D Turn-Based RPG Coming This Year",
+      "link": "https://www.ign.com/articles/final-fantasy-resonance-revealed-a-new-hd-2d-turn-based-rpg-coming-this-year",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781016057
+    },
+    {
+      "title": "Nintendo Switch Sports Resort Announced, Releasing This October",
+      "link": "https://www.ign.com/articles/nintendo-switch-sports-resort-announced-releasing-this-october",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781015889
+    },
+    {
+      "title": "Apple’s App Store rolls out personalized recommendations",
+      "link": "https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781015417
+    },
+    {
+      "title": "New Veeam vulnerability exposes backup servers to RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781015276
+    },
+    {
+      "title": "Pokémon Pokopia Free Update and 3-Part Expansion Pass DLC Revealed",
+      "link": "https://www.ign.com/articles/pokemon-pokopia-free-update-and-3-part-expansion-pass-dlc-revealed",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781015193
+    },
+    {
+      "title": "Gold isn’t inert, it just has bodyguards protecting it",
+      "link": "https://arstechnica.com/science/2026/06/gold-isnt-inert-it-just-has-bodyguards-protecting-it/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781015039
+    },
+    {
+      "title": "Nintendo Confirms Fire Emblem: Fortune's Weave Switch 2 Release Date",
+      "link": "https://www.ign.com/articles/nintendo-confirms-fire-emblem-fortunes-weave-switch-2-release-date",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781014658
+    },
+    {
+      "title": "Dragon’s Dogma 2: Dark Arisen Announced For Nintendo Switch 2",
+      "link": "https://www.ign.com/articles/dragons-dogma-2-dark-arisen-announced-for-nintendo-switch-2",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781014434
+    },
+    {
+      "title": "Here's Audi's next Q7 SUV and US-only SQ7, now with an RS V8",
+      "link": "https://arstechnica.com/cars/2026/06/heres-audis-next-q7-suv-and-us-only-sq7-now-with-an-rs-v8/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781013620
+    },
+    {
+      "title": "Astronaut captures snake-like auroras from a SpaceX Dragon | Space photo of the day for June 9, 2026",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/astronaut-captures-snake-like-auroras-from-a-spacex-dragon-space-photo-of-the-day-for-june-9-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781013600
+    },
+    {
+      "title": "Sandstone raises $30M to bring AI to in-house legal teams",
+      "link": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781012845
+    },
+    {
+      "title": "Why Steven Spielberg's 'Disclosure Day' feels like the most exciting sci-fi release of the year",
+      "link": "https://www.space.com/entertainment/space-movies-shows/why-steven-spielbergs-disclosure-day-feels-like-the-most-exciting-sci-fi-release-of-the-year",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781011800
+    },
+    {
+      "title": "Knicks' win streak is finally dead, but it's still the Spurs who are clinging to life in the NBA Finals",
+      "link": "https://www.cbssports.com/nba/news/nba-finals-knicks-win-streak-spurs/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781011526
+    },
+    {
+      "title": "Apple says its AI is still private, even when it's running on Google's servers",
+      "link": "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781010349
+    },
+    {
+      "title": "Spurs silence MSG with Game 3 victory over Knicks; Texas Tech's Brendan Sorsby eligible for 2026 season",
+      "link": "https://www.cbssports.com/nba/news/spurs-silence-msg-with-game-3-victory-over-knicks-texas-techs-brendan-sorsby-eligible-for-2026-season/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781010047
+    },
+    {
+      "title": "First Drive: The 2027 Rivian R2 entirely changes the EV game",
+      "link": "https://arstechnica.com/cars/2026/06/first-drive-the-2027-rivian-r2-entirely-changes-the-ev-game/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781010046
+    },
+    {
+      "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
+      "link": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781010000
+    },
+    {
+      "title": "How should we handle alien detection in a world of AI, deepfakes and social media? This committee is writing the rulebook",
+      "link": "https://www.space.com/space-exploration/search-for-life/how-should-we-handle-alien-detection-in-a-world-of-ai-deepfakes-and-social-media-this-committee-is-writing-the-rulebook",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781010000
+    },
+    {
+      "title": "Knicks vs. Spurs odds, prediction: 2026 NBA Finals picks, Game 4 best bets by model on 26-10 run",
+      "link": "https://www.cbssports.com/nba/news/knicks-spurs-odds-prediction-spread-2026-nba-finals-picks-game-4-best-bets/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781008369
+    },
+    {
+      "title": "ArenaNet Boss Says MMOs Have 'Stagnated' and Guild Wars 3 Will Offer the Genre Something Genuinely New",
+      "link": "https://www.ign.com/articles/arenanet-boss-says-mmos-have-stagnated-and-guild-wars-3-will-offer-the-genre-something-genuinely-new",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781006553
+    },
+    {
+      "title": "Nintendo Direct June 2026 Live Updates: Every Game Announcement",
+      "link": "https://www.ign.com/articles/nintendo-direct-june-2026-live-updates-every-game-announcement",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781006433
+    },
     {
       "title": "How an e-scooter founder raised $5 million to build space data centers",
       "link": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
@@ -114,27 +338,6 @@
       "timestamp": 1780980201
     },
     {
-      "title": "Call of Duty: Black Ops 1 and 2 Ports Have Apparently Leaked",
-      "link": "https://www.ign.com/articles/call-of-duty-black-ops-1-and-2-ports-have-apparently-leaked",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780971426
-    },
-    {
-      "title": "Helldivers Movie Loses Jason Momoa as Its Star",
-      "link": "https://www.ign.com/articles/helldivers-movie-loses-jason-momoa-as-its-star",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780970659
-    },
-    {
-      "title": "Halo: Campaign Evolved Collector's Edition Includes a Relic of a Bygone Gaming Era",
-      "link": "https://www.ign.com/articles/halo-campaign-evolved-collectors-edition-includes-a-relic-of-a-bygone-gaming-era",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780970520
-    },
-    {
       "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
       "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
       "source": "TECHCRUNCH",
@@ -147,20 +350,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1780969922
-    },
-    {
-      "title": "Xbox Says Gears of War: E-Day PS5 Port Was Not Pulled 'Last-Minute' After Art With PS5 Logo Leaks",
-      "link": "https://www.ign.com/articles/xbox-says-gears-of-war-e-day-ps5-port-was-not-pulled-last-minute-after-art-with-ps5-logo-leaks",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780968861
-    },
-    {
-      "title": "Xbox Is Unable to Meet Demand for New Consoles, Rethinking Approach to Project Helix",
-      "link": "https://www.ign.com/articles/xbox-is-unable-to-meet-demand-for-new-consoles-rethinking-approach-to-project-helix",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780967262
     },
     {
       "title": "FCC lifts looming deadline for Amazon Leo satellite broadband constellation",
@@ -189,13 +378,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1780961013
-    },
-    {
-      "title": "Spurs vs. Knicks odds, prediction: 2026 NBA Finals picks, Game 3 best bets by model on 26-10 run",
-      "link": "https://www.cbssports.com/nba/news/spurs-knicks-odds-prediction-spread-start-time-2026-nba-finals-picks-game-3-best-bets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780958733
     },
     {
       "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
@@ -303,13 +485,6 @@
       "timestamp": 1780952035
     },
     {
-      "title": "Waymo bought Apple’s self-driving car proving ground for $220M",
-      "link": "https://techcrunch.com/2026/06/08/waymo-bought-apples-self-driving-car-proving-ground-for-220m/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780951855
-    },
-    {
       "title": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages",
       "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/",
       "source": "BLEEPINGCOMPUTER",
@@ -324,25 +499,11 @@
       "timestamp": 1780950374
     },
     {
-      "title": "Microsoft’s open source tools were hacked to steal passwords of AI developers",
-      "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780949024
-    },
-    {
       "title": "James Webb Space Telescope weighs 'sleeping giant' black hole from 10 billion light-years away — and it's 6 billion times our sun's mass",
       "link": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-weighs-sleeping-giant-black-hole-from-10-billion-light-years-away-and-its-6-billion-times-our-suns-mass",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780948800
-    },
-    {
-      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-      "link": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780947692
     },
     {
       "title": "The fastest humans in the galaxy just got a spiffy patch to prove it",
@@ -366,13 +527,6 @@
       "timestamp": 1780947005
     },
     {
-      "title": "Xbox Game Pass Shed 'Millions of Subscribers' Following October 2025 Price Hike",
-      "link": "https://www.ign.com/articles/xbox-game-pass-shed-millions-of-subscribers-following-october-2025-price-hike",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780946606
-    },
-    {
       "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
       "link": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
       "source": "ARSTECHNICA",
@@ -387,32 +541,11 @@
       "timestamp": 1780945200
     },
     {
-      "title": "Pentagon says Alibaba, Baidu, BYD, and Unitree support China’s military",
-      "link": "https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780945069
-    },
-    {
       "title": "Your empty cuppa could capture carbon",
       "link": "https://arstechnica.com/science/2026/06/your-empty-cuppa-could-capture-carbon/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1780944610
-    },
-    {
-      "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
-      "link": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780944525
-    },
-    {
-      "title": "Apple will let you build workflows using AI in its new Shortcuts app",
-      "link": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780944312
     },
     {
       "title": "WhatsApp says it disrupted new NSO spyware phishing attacks",
@@ -429,25 +562,11 @@
       "timestamp": 1780943663
     },
     {
-      "title": "Apple's iOS 27, macOS 27 Golden Gate, and other updates focus on refinement",
-      "link": "https://arstechnica.com/gadgets/2026/06/apples-ios-27-macos-27-golden-gate-and-other-updates-focus-on-refinement/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780942033
-    },
-    {
       "title": "'Evolution' at 25: A perfect fusion of 'Ghostbusters' and 'Men in Black' that's become a sci-fi comedy classic",
       "link": "https://www.space.com/entertainment/space-movies-shows/evolution-at-25-a-perfect-fusion-of-ghostbusters-and-men-in-black-thats-become-a-sci-fi-comedy-classic",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780941600
-    },
-    {
-      "title": "Man jailed for a month despite Flock showing he was 5 miles from crime scene",
-      "link": "https://arstechnica.com/tech-policy/2026/06/man-jailed-for-a-month-despite-flock-showing-he-was-5-miles-from-crime-scene/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780939230
     },
     {
       "title": "This former Paralympic athlete could become the 1st person with a physical disability to live in orbit",
@@ -457,39 +576,11 @@
       "timestamp": 1780938000
     },
     {
-      "title": "WWDC 2026: Everything Announced at Apple's Annual Developers Conference",
-      "link": "https://www.ign.com/articles/wwdc-2026-everything-announced-at-apples-annual-developers-conference",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780937895
-    },
-    {
-      "title": "F1 in Monaco: Finally, the cars were flat-out in qualifying",
-      "link": "https://arstechnica.com/cars/2026/06/f1-in-monaco-finally-the-cars-were-flat-out-in-qualifying/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780937781
-    },
-    {
-      "title": "Masters of the Universe Struggles at the Box Office With $54 Million Debut",
-      "link": "https://www.ign.com/articles/masters-of-the-universe-struggles-at-the-box-office-with-54-million-debut",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780936451
-    },
-    {
-      "title": "Watch SpaceX set new rocket reuse record with 35th launch — and landing — of a Falcon 9 booster (video)",
+      "title": "SpaceX just launched — and landed — a Falcon 9 rocket booster for the 35th time. That's a new record. (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-35-b1067-ccsfs-asog",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780936200
-    },
-    {
-      "title": "Official Halo: Campaign Evolved Cinematic Story Trailer Marked 'Captured on PS5 Pro' — So What Happened?",
-      "link": "https://www.ign.com/articles/official-halo-campaign-evolved-cinematic-story-trailer-marked-captured-on-ps5-pro-so-what-happened",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780935646
     },
     {
       "title": "Gogs patches critical zero-day enabling remote code execution",
@@ -497,13 +588,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1780935520
-    },
-    {
-      "title": "A Falcon 9 booster turns 5 years old—and just set a remarkable reuse record",
-      "link": "https://arstechnica.com/space/2026/06/a-falcon-9-booster-turns-five-years-old-and-just-set-a-remarkable-reuse-record/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780934730
     },
     {
       "title": "Get ready for the next Pentagon file drop with our essential UFO reading list",
@@ -520,32 +604,11 @@
       "timestamp": 1780933879
     },
     {
-      "title": "Spider-Man: Brand New Day Runtime Revealed, And It's One of The Longest Marvel Films Ever",
-      "link": "https://www.ign.com/articles/spider-man-brand-new-day-runtime-revealed-and-its-one-of-the-longest-marvel-films-ever",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780933702
-    },
-    {
-      "title": "Only 2 Games Are Brave Enough to Go Up Against the Might of GTA 6 This November",
-      "link": "https://www.ign.com/articles/only-2-games-are-brave-enough-to-go-up-against-the-might-of-gta-6-this-november",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780933008
-    },
-    {
       "title": "Don't miss Jupiter and Venus meet in a dazzling conjunction tonight: Here's where and when to look",
       "link": "https://www.space.com/stargazing/dont-miss-jupiter-and-venus-meet-in-a-dazzling-conjunction-on-june-9-heres-where-and-when-to-look",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780930800
-    },
-    {
-      "title": "Michigan politicians want to ban Chinese-badged cars from even visiting the US",
-      "link": "https://arstechnica.com/cars/2026/06/michigan-politicians-want-to-ban-chinese-badged-cars-from-even-visiting-the-us/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780927342
     },
     {
       "title": "Reducing security operations complexity with Wazuh Cloud",
@@ -560,13 +623,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780927200
-    },
-    {
-      "title": "\"Chat is dead\": OpenAI preps overhaul of ChatGPT",
-      "link": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780926676
     },
     {
       "title": "NBA Finals MVP rankings: Karl-Anthony Towns, Jalen Brunson make it a two-man race",
@@ -625,25 +681,11 @@
       "timestamp": 1780917281
     },
     {
-      "title": "Rare daytime meteor shower peak this week — here's how to see (and even hear) them",
-      "link": "https://www.space.com/stargazing/meteor-showers/rare-daytime-meteors-peak-this-week-heres-how-to-see-and-even-hear-them",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780916400
-    },
-    {
       "title": "Scientists may have debunked one of humanity's oldest habits",
       "link": "https://www.sciencedaily.com/releases/2026/06/260606075855.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1780915772
-    },
-    {
-      "title": "Is this the next Artemis crew? A look at the astronauts on NASA's shortlist",
-      "link": "https://www.space.com/space-exploration/artemis/is-this-the-next-artemis-crew-a-look-at-the-astronauts-on-nasas-shortlist",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780912800
     },
     {
       "title": "Everyone thought these helmets were Roman until scientists uncovered the truth",
@@ -653,20 +695,6 @@
       "timestamp": 1780911756
     },
     {
-      "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack",
-      "link": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780898427
-    },
-    {
-      "title": "Hands on with Intelligent Terminal, an AI-powered Windows Terminal",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780874402
-    },
-    {
       "title": "Stacey King, three-time NBA champion with the Chicago Bulls, dies at 59",
       "link": "https://www.cbssports.com/nba/news/stacey-king-dies-bulls/",
       "source": "CBSSPORTS",
@@ -674,46 +702,11 @@
       "timestamp": 1780856867
     },
     {
-      "title": "Why a Knicks playoff hero could be changing the Giannis Antetokounmpo trade sweepstakes",
-      "link": "https://www.cbssports.com/nba/news/giannis-antetokounmpo-trade-rumors-knicks-karl-anthony-towns/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780854130
-    },
-    {
-      "title": "NBA Finals overreactions: Knicks a team of destiny? Victor Wembanyama sinking the Spurs?",
-      "link": "https://www.cbssports.com/nba/news/nba-finals-overreactions-knicks-spurs-karl-anthony-towns-mvp-victor-wembanyama-deaaron-fox-jalen-brunson/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780844230
-    },
-    {
-      "title": "Trouble near the Milky Way: The Large Magellanic Cloud is ripping its smaller neighbor galaxy apart",
-      "link": "https://www.space.com/astronomy/galaxies/trouble-near-the-milky-way-the-large-magellanic-cloud-is-ripping-its-smaller-neighbor-galaxy-apart",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780840800
-    },
-    {
-      "title": "10 best Spanish beaches to see the total solar eclipse 2026",
-      "link": "https://www.space.com/stargazing/solar-eclipses/10-best-spanish-beaches-to-see-the-total-solar-eclipse-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780837200
-    },
-    {
       "title": "Scientists finally complete Schrödinger’s 100-year-old color theory",
       "link": "https://www.sciencedaily.com/releases/2026/06/260606015140.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1780818921
-    },
-    {
-      "title": "History is pointing to a Knicks title, but Mikal Bridges has the right message: 'Stay desperate at all times'",
-      "link": "https://www.cbssports.com/nba/news/history-pointing-to-knicks-title-spurs-nba-finals-mikal-bridges/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780771573
     },
     {
       "title": "Ozempic and similar weight-loss drugs linked to 30% lower breast cancer risk",
