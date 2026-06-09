@@ -1,6 +1,62 @@
 {
-  "last_updated": 1780981380,
+  "last_updated": 1780997889,
   "items": [
+    {
+      "title": "Evotrex raises $30M to build the RV that doesn’t need a charging station",
+      "link": "https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780995600
+    },
+    {
+      "title": "Hugh Laurie Apologizes and Says He's a 'Thin-Skinned T**t' After Roasting Critic Who Said Every House Episode Was the Same",
+      "link": "https://www.ign.com/articles/hugh-laurie-apologizes-and-says-hes-a-thin-skinned-tt-after-roasting-critic-who-said-every-house-episode-was-the-same",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780995107
+    },
+    {
+      "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780993119
+    },
+    {
+      "title": "Google patches new Chrome zero-day flaw exploited in the wild",
+      "link": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1780988187
+    },
+    {
+      "title": "Final Fantasy 7 Revelation Players Can Shape Its Story But the Trilogy Will Have a 'Singular Ending' for Everyone",
+      "link": "https://www.ign.com/articles/final-fantasy-7-revelation-players-can-shape-its-story-but-the-trilogy-will-have-a-singular-ending-for-everyone",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1780985846
+    },
+    {
+      "title": "Mike Brown echoes growing frustrations of Knicks fans over NBA Finals officiating after Game 3",
+      "link": "https://www.cbssports.com/nba/news/mike-brown-officiating-knicks-spurs-nba-finals-game-3/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780984943
+    },
+    {
+      "title": "Stephon Castle calmly knocks down biggest shots of his life to save Spurs' season",
+      "link": "https://www.cbssports.com/nba/news/stephon-castle-biggest-shots-save-spurs-season/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780983031
+    },
+    {
+      "title": "Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet",
+      "link": "https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1780981637
+    },
     {
       "title": "2026 NBA playoff bracket, schedule: Spurs snap Knicks' winning streak in NBA Finals Game 3",
       "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
@@ -331,25 +387,11 @@
       "timestamp": 1780943887
     },
     {
-      "title": "Apple’s Photos app is getting new AI editing features",
-      "link": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780943764
-    },
-    {
       "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
       "link": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1780943663
-    },
-    {
-      "title": "Apple gives Siri its own dedicated app",
-      "link": "https://techcrunch.com/2026/06/08/apple-gives-siri-its-own-dedicated-app/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1780943622
     },
     {
       "title": "Apple's iOS 27, macOS 27 Golden Gate, and other updates focus on refinement",
@@ -457,7 +499,7 @@
       "timestamp": 1780933008
     },
     {
-      "title": "Don't miss Jupiter and Venus meet in a dazzling conjunction on June 9: Here's where and when to look",
+      "title": "Don't miss Jupiter and Venus meet in a dazzling conjunction tonight: Here's where and when to look",
       "link": "https://www.space.com/stargazing/dont-miss-jupiter-and-venus-meet-in-a-dazzling-conjunction-on-june-9-heres-where-and-when-to-look",
       "source": "SPACE",
       "category": "space",
@@ -485,17 +527,17 @@
       "timestamp": 1780927271
     },
     {
-      "title": "Astronaut spots Mount Vesuvius from space | Space photo of the day for June 8, 2026",
-      "link": "https://www.space.com/astronomy/earth/astronaut-spots-mount-vesuvius-from-space-space-photo-of-the-day-for-june-8-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780927200
-    },
-    {
       "title": "Netflix Reveals the Real Dog Playing Scooby-Doo in Upcoming Origins Series",
       "link": "https://www.ign.com/articles/netflix-scooby-doo-origins-series-real-dog",
       "source": "IGN",
       "category": "gaming",
+      "timestamp": 1780927200
+    },
+    {
+      "title": "Astronaut spots Mount Vesuvius from space | Space photo of the day for June 8, 2026",
+      "link": "https://www.space.com/astronomy/earth/astronaut-spots-mount-vesuvius-from-space-space-photo-of-the-day-for-june-8-2026",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1780927200
     },
     {
@@ -513,13 +555,6 @@
       "timestamp": 1780926676
     },
     {
-      "title": "Nintendo Direct Announced for This Week, as Fans Expect Huge Switch 2 Reveals",
-      "link": "https://www.ign.com/articles/nintendo-direct-announced-for-this-week-as-fans-expect-huge-switch-2-reveals",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780926430
-    },
-    {
       "title": "NBA Finals MVP rankings: Karl-Anthony Towns, Jalen Brunson make it a two-man race",
       "link": "https://www.cbssports.com/nba/news/nba-finals-mvp-rankings-knicks-karl-anthony-towns-jalen-brunson/",
       "source": "CBSSPORTS",
@@ -532,13 +567,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1780923916
-    },
-    {
-      "title": "Mortal Kombat II: Watch the Exclusive First 10 Minutes Right Now",
-      "link": "https://www.ign.com/articles/mortal-kombat-2-exclusive-first-10-minutes",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1780923600
     },
     {
       "title": "Karl-Anthony Towns makes case for NBA Finals MVP; best NFL offseason trades",
@@ -653,13 +681,6 @@
       "timestamp": 1780841866
     },
     {
-      "title": "Silent Ransom Group targets law firms with fake IT support calls",
-      "link": "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780841359
-    },
-    {
       "title": "Trouble near the Milky Way: The Large Magellanic Cloud is ripping its smaller neighbor galaxy apart",
       "link": "https://www.space.com/astronomy/galaxies/trouble-near-the-milky-way-the-large-magellanic-cloud-is-ripping-its-smaller-neighbor-galaxy-apart",
       "source": "SPACE",
@@ -695,13 +716,6 @@
       "timestamp": 1780771573
     },
     {
-      "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780754966
-    },
-    {
       "title": "Ozempic and similar weight-loss drugs linked to 30% lower breast cancer risk",
       "link": "https://www.sciencedaily.com/releases/2026/06/260605023400.htm",
       "source": "SCIENCEDAILY",
@@ -721,20 +735,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1780750939
-    },
-    {
-      "title": "Karl-Anthony Towns for NBA Finals MVP? KAT has been the best player on the court through two games",
-      "link": "https://www.cbssports.com/nba/news/karl-anthony-towns-nba-finals-mvp-knicks/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780727317
-    },
-    {
-      "title": "Victor Wembanyama's NBA Finals fairytale has turned into a clutch-time nightmare",
-      "link": "https://www.cbssports.com/nba/news/victor-wembanyama-nba-finals-clutch-nightmare/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780725924
     },
     {
       "title": "AI-designed universal coronavirus vaccine passes first human trial",
