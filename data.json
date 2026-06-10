@@ -1,6 +1,118 @@
 {
-  "last_updated": 1781085244,
+  "last_updated": 1781096068,
   "items": [
+    {
+      "title": "Snapchat limits users under 16 to sharing Spotlights with friends",
+      "link": "https://techcrunch.com/2026/06/10/snapchat-limits-users-under-16-to-sharing-spotlights-with-friends/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781095612
+    },
+    {
+      "title": "Why everyone’s an energy company now",
+      "link": "https://techcrunch.com/2026/06/10/why-everyones-an-energy-company-now/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781095500
+    },
+    {
+      "title": "Avalanche’s desktop fusion reactor delivers blistering-hot plasma",
+      "link": "https://techcrunch.com/2026/06/10/avalanches-desktop-fusion-reactor-delivers-blistering-hot-plasma/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781093700
+    },
+    {
+      "title": "Victor Wembanyama is starting to win the paint battle, and that's bad news for the Knicks",
+      "link": "https://www.cbssports.com/nba/news/victor-wembanyama-paint-battle-knicks-spurs/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781093137
+    },
+    {
+      "title": "Why two SpaceX alumni are betting on solar and batteries to power the AI craze",
+      "link": "https://techcrunch.com/2026/06/10/why-two-spacex-alumni-are-betting-on-solar-and-batteries-to-power-the-ai-craze/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781092800
+    },
+    {
+      "title": "Annular solar eclipse 2027: everything you need to know about the 'ring of fire' on Feb. 6",
+      "link": "https://www.space.com/stargazing/solar-eclipses/annular-solar-eclipse-2027-everything-you-need-to-know-about-the-ring-of-fire-on-feb-6",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781092800
+    },
+    {
+      "title": "Giannis Antetokounmpo trade rumors: 'Increasing belief' Bucks waiting to see if Knicks blow 2-0 Finals lead",
+      "link": "https://www.cbssports.com/nba/news/giannis-antetokounmpo-trade-rumors-bucks-knicks-nba-finals/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781091790
+    },
+    {
+      "title": "Assassin's Creed Shadows Final Update Arrives Next Week, Just Over a Year After Launch",
+      "link": "https://www.ign.com/articles/assassins-creed-shadows-final-update-arrives-next-week-just-over-a-year-after-launch",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781091273
+    },
+    {
+      "title": "Microsoft: Some Windows PCs fail to install latest monthly updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781091212
+    },
+    {
+      "title": "Knicks vs. Spurs odds, prediction: 2026 NBA Finals picks, Game 4 best bets by model on 26-10 run",
+      "link": "https://www.cbssports.com/nba/news/knicks-spurs-odds-prediction-spread-time-2026-nba-finals-picks-game-4-best-bets/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781090193
+    },
+    {
+      "title": "Xbox Boss Says a Mass Audience Can't Afford 'Thousands of Dollars' to Spend on a Next-Gen Console, So Microsoft Must 'Look at New Business Models'",
+      "link": "https://www.ign.com/articles/xbox-boss-says-a-mass-audience-cant-afford-thousands-of-dollars-to-spend-on-a-next-gen-console-so-microsoft-must-look-at-new-business-models",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781087835
+    },
+    {
+      "title": "'There Was No Script, No Actor Was Ever Approached': BBC Scraps Planned Doctor Who Special, Showrunner and Production Company Gone",
+      "link": "https://www.ign.com/articles/there-was-no-script-no-actor-was-ever-approached-bbc-scraps-planned-doctor-who-special-showrunner-and-production-company-gone",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781087497
+    },
+    {
+      "title": "Scientists mapped every neural connection in a fruit fly and found a surprise",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260610003047.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1781086254
+    },
+    {
+      "title": "Strange 'spacetime crystals' could give birth to tiny black holes",
+      "link": "https://www.space.com/astronomy/black-holes/strange-spacetime-crystals-could-give-birth-to-tiny-black-holes",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781085600
+    },
+    {
+      "title": "Microsoft patches YellowKey, GreenPlasma, MiniPlasma zero-days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781085453
+    },
+    {
+      "title": "Does That Space Marine Have an Extra Finger? Yes, but Games Workshop Insists It's Not AI",
+      "link": "https://www.ign.com/articles/does-that-space-marine-have-an-extra-finger-yes-but-games-workshop-insists-its-not-ai",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781082828
+    },
     {
       "title": "Waymo says it built a better benchmark for comparing robotaxis to humans",
       "link": "https://techcrunch.com/2026/06/10/waymo-says-it-built-a-better-benchmark-for-comparing-robotaxis-to-humans/",
@@ -359,25 +471,11 @@
       "timestamp": 1781024202
     },
     {
-      "title": "Rivian starts deliveries of its all-important R2 SUV",
-      "link": "https://techcrunch.com/2026/06/09/rivian-starts-deliveries-of-its-all-important-r2-suv/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781023568
-    },
-    {
       "title": "One day after discovery, Meta pulls facial recognition code from its smart glasses",
       "link": "https://arstechnica.com/tech-policy/2026/06/one-day-after-discovery-meta-pulls-facial-recognition-code-from-its-smart-glasses/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1781022670
-    },
-    {
-      "title": "Apple’s foldable iPhone could be just around the corner",
-      "link": "https://techcrunch.com/2026/06/09/apples-foldable-iphone-could-be-just-around-the-corner/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781022176
     },
     {
       "title": "2026 NBA Mock Draft: Projecting all 60 picks in Adam Finkelstein's first two-round forecast",
@@ -394,13 +492,6 @@
       "timestamp": 1781021798
     },
     {
-      "title": "It’s not FAANG anymore. It’s MANGOS.",
-      "link": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781021354
-    },
-    {
       "title": "Drone boat picked up downed US Army helicopter pilots—a first for sea rescues",
       "link": "https://arstechnica.com/gadgets/2026/06/us-military-claims-first-drone-boat-rescue-of-downed-helicopter-crew/",
       "source": "ARSTECHNICA",
@@ -413,13 +504,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1781019760
-    },
-    {
-      "title": "Apple says it may remove some apps from the App Store if they don’t attract users",
-      "link": "https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781018620
     },
     {
       "title": "High-severity vulnerability in Linux caused by a single faulty character",
@@ -462,34 +546,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1781016606
-    },
-    {
-      "title": "Xenoblade Genesis Revealed for Nintendo Switch 2 With 2027 Release Window",
-      "link": "https://www.ign.com/articles/xenoblade-genesis-revealed-for-nintendo-switch-2-with-2027-release-window",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781016131
-    },
-    {
-      "title": "Star Fox Demo Available Later Today",
-      "link": "https://www.ign.com/articles/star-fox-demo-announced",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781016061
-    },
-    {
-      "title": "Final Fantasy Resonance Revealed, A New HD-2D Turn-Based RPG Coming This Year",
-      "link": "https://www.ign.com/articles/final-fantasy-resonance-revealed-a-new-hd-2d-turn-based-rpg-coming-this-year",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781016057
-    },
-    {
-      "title": "Nintendo Switch Sports Resort Announced, Releasing This October",
-      "link": "https://www.ign.com/articles/nintendo-switch-sports-resort-announced-releasing-this-october",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781015889
     },
     {
       "title": "New Veeam vulnerability exposes backup servers to RCE attacks",
@@ -555,13 +611,6 @@
       "timestamp": 1781010000
     },
     {
-      "title": "Knicks vs. Spurs odds, prediction: 2026 NBA Finals picks, Game 4 best bets by model on 26-10 run",
-      "link": "https://www.cbssports.com/nba/news/knicks-spurs-odds-prediction-spread-2026-nba-finals-picks-game-4-best-bets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781008369
-    },
-    {
       "title": "Watch the Jupiter-Venus conjunction unfold live online today",
       "link": "https://www.space.com/stargazing/watch-the-jupiter-venus-conjunction-unfold-live-online-june-9",
       "source": "SPACE",
@@ -588,20 +637,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1780994549
-    },
-    {
-      "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780993119
-    },
-    {
-      "title": "Google patches new Chrome zero-day flaw exploited in the wild",
-      "link": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780988187
     },
     {
       "title": "Mike Brown echoes growing frustrations of Knicks fans over NBA Finals officiating after Game 3",
@@ -653,13 +688,6 @@
       "timestamp": 1780961013
     },
     {
-      "title": "Knicks vs. Spurs Game 3 odds, prediction: NBA Finals pick as New York looks for dominant 3-0 series lead",
-      "link": "https://www.cbssports.com/nba/news/knicks-spurs-game-3-odds-prediction-nba-finals-tv-channel/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780957947
-    },
-    {
       "title": "Scientists propose spraying chemicals into Earth's magnetic field to protect us from powerful solar storms",
       "link": "https://www.space.com/astronomy/earth/scientists-propose-spraying-chemicals-into-earths-magnetic-field-to-protect-us-from-powerful-solar-storms",
       "source": "SPACE",
@@ -686,20 +714,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780941600
-    },
-    {
-      "title": "This former Paralympic athlete could become the 1st person with a physical disability to live in orbit",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/this-former-paralympic-athlete-could-become-the-1st-person-with-a-physical-disability-to-live-in-orbit",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780938000
-    },
-    {
-      "title": "SpaceX just launched — and landed — a Falcon 9 rocket booster for the 35th time. That's a new record. (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-35-b1067-ccsfs-asog",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1780936200
     },
     {
       "title": "Scientists discover the brain chemical that helps you break bad habits",
@@ -763,13 +777,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1780674139
-    },
-    {
-      "title": "Octopuses use mirrors to find food they cannot see",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260605023402.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1780667011
     }
   ]
 }
