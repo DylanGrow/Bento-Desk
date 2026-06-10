@@ -1,9 +1,65 @@
 {
-  "last_updated": 1781050224,
+  "last_updated": 1781068492,
   "items": [
     {
-      "title": "How Justin Ernest invested nearly $400M into hot startups without a traditional VC fund",
-      "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/",
+      "title": "Top Lucid Motors executive departs amid new CEO’s leadership shakeup",
+      "link": "https://techcrunch.com/2026/06/09/top-lucid-motors-executive-departs-amid-new-ceos-leadership-shakeup/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781062507
+    },
+    {
+      "title": "After first loss in 46 days, Knicks know what adjustments they must make to respond vs. Spurs",
+      "link": "https://www.cbssports.com/nba/news/knicks-adjustments-spurs-nba-finals-game-4/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781057793
+    },
+    {
+      "title": "Fire Emblem: Fortune's Weave Sets Standard Physical Price at $80",
+      "link": "https://www.ign.com/articles/fire-emblem-fortunes-weave-sets-standard-physical-price-at-80",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781057411
+    },
+    {
+      "title": "Anthropic rolls out Claude Fable 5, but it's available for a limited time",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781057011
+    },
+    {
+      "title": "NBA admits Victor Wembanyama fouled Jalen Brunson with Game 3 shove, but play won't be upgraded to flagrant",
+      "link": "https://www.cbssports.com/nba/news/victor-wembanyama-jalen-brunson-flagrant-foul-review-knicks-spurs-nba-finals-game-3/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781055994
+    },
+    {
+      "title": "Xbox Will 'Try and Do More' Exclusives Once the 'Business is Healthy', Says Asha Sharma",
+      "link": "https://www.ign.com/articles/xbox-will-try-and-do-more-exclusives-once-the-business-is-healthy-says-asha-sharma",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781052505
+    },
+    {
+      "title": "Google just fired a warning shot in the AI subscription price wars",
+      "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781051170
+    },
+    {
+      "title": "NBA Finals oddities: Stunning Karl-Anthony Towns stat, Victor Wembanyama's heel turn and more",
+      "link": "https://www.cbssports.com/nba/news/knicks-spurs-nba-finals-jalen-brunson-karl-anthony-towns-victor-wembanyama/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781050016
+    },
+    {
+      "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+      "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1781047071
@@ -105,13 +161,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1781037322
-    },
-    {
-      "title": "NBA admits Victor Wembanyama fouled Jalen Brunson with Game 3 shove, flagrant review still ongoing",
-      "link": "https://www.cbssports.com/nba/news/victor-wembanyama-jalen-brunson-flagrant-foul-review-knicks-spurs-nba-finals-game-3/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781037165
     },
     {
       "title": "Commonwealth Fusion makes the physics case for its 400 MW reactor",
@@ -415,13 +464,6 @@
       "timestamp": 1781015889
     },
     {
-      "title": "Apple’s App Store rolls out personalized recommendations",
-      "link": "https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781015417
-    },
-    {
       "title": "New Veeam vulnerability exposes backup servers to RCE attacks",
       "link": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/",
       "source": "BLEEPINGCOMPUTER",
@@ -443,20 +485,6 @@
       "timestamp": 1781015039
     },
     {
-      "title": "Nintendo Confirms Fire Emblem: Fortune's Weave Switch 2 Release Date",
-      "link": "https://www.ign.com/articles/nintendo-confirms-fire-emblem-fortunes-weave-switch-2-release-date",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781014658
-    },
-    {
-      "title": "Dragon’s Dogma 2: Dark Arisen Announced For Nintendo Switch 2",
-      "link": "https://www.ign.com/articles/dragons-dogma-2-dark-arisen-announced-for-nintendo-switch-2",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781014434
-    },
-    {
       "title": "Here's Audi's next Q7 SUV and US-only SQ7, now with an RS V8",
       "link": "https://arstechnica.com/cars/2026/06/heres-audis-next-q7-suv-and-us-only-sq7-now-with-an-rs-v8/",
       "source": "ARSTECHNICA",
@@ -469,13 +497,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781013600
-    },
-    {
-      "title": "Sandstone raises $30M to bring AI to in-house legal teams",
-      "link": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781012845
     },
     {
       "title": "Why Steven Spielberg's 'Disclosure Day' feels like the most exciting sci-fi release of the year",
@@ -527,11 +548,25 @@
       "timestamp": 1781006400
     },
     {
+      "title": "Scientists think they solved the mystery of the Amaterasu particle",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260608040015.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1781003890
+    },
+    {
       "title": "French govt messaging service breached in account hijacking attack",
       "link": "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1781002380
+    },
+    {
+      "title": "Stonehenge's most mysterious stone traveled 700 kilometers across Britain",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260608040003.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1780994549
     },
     {
       "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
@@ -609,27 +644,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1780956718
-    },
-    {
-      "title": "NBA Finals 2026 Game 3 odds, prediction, time: Knicks vs. Spurs picks by expert on 142-105 run",
-      "link": "https://www.cbssports.com/nba/news/nba-finals-2026-game-3-odds-prediction-time-knicks-spurs-expert-picks-best-bets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780956049
-    },
-    {
-      "title": "SoFi confirms third-party data breach at Hong Kong subsidiary",
-      "link": "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780955746
-    },
-    {
-      "title": "Chet Holmgren still 'one of our guys,' insists Thunder's Sam Presti after ugly Western Conference Finals loss",
-      "link": "https://www.cbssports.com/nba/news/chet-holmgren-thunder-sam-presti-western-conference-finals/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1780955694
     },
     {
       "title": "Scientists propose spraying chemicals into Earth's magnetic field to protect us from powerful solar storms",
@@ -756,20 +770,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1780661901
-    },
-    {
-      "title": "Scientists discover a hidden quantum world inside cobalt",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260604044255.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1780650425
-    },
-    {
-      "title": "Giant fire tornadoes could clean up oil spills faster with less pollution",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260605023420.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1780641260
     }
   ]
 }
