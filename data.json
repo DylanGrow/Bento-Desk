@@ -1,6 +1,118 @@
 {
-  "last_updated": 1781119952,
+  "last_updated": 1781128730,
   "items": [
+    {
+      "title": "Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations",
+      "link": "https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781127212
+    },
+    {
+      "title": "Path traversal flaw in AI dev platform Langflow exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781126624
+    },
+    {
+      "title": "Knicks vs. Spurs Game 4 odds, prediction: NBA Finals pick as San Antonio looks to even series",
+      "link": "https://www.cbssports.com/nba/news/knicks-spurs-game-4-odds-prediction-nba-finals-tv-channel/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781125417
+    },
+    {
+      "title": "James Webb Space Telescope finds evidence the mysterious 'little red dots' are black hole stars",
+      "link": "https://www.space.com/astronomy/black-holes/james-webb-space-telescope-finds-evidence-the-mysterious-little-red-dots-are-black-hole-stars",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781125200
+    },
+    {
+      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Spurs-Knicks NBA Finals Game 4, MLB Wednesday",
+      "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-spurs-knicks-nba-finals-game-4-mlb-wednesday/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781123845
+    },
+    {
+      "title": "The ‘Miasma’ worm source code briefly leaked on GitHub",
+      "link": "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781123228
+    },
+    {
+      "title": "Everyone wants a piece of Tesla’s battery business",
+      "link": "https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781122885
+    },
+    {
+      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+      "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781122771
+    },
+    {
+      "title": "NASA chief defends all-male Artemis 3 astronaut crew amid backlash: 'I don't think anyone should be reading into this'",
+      "link": "https://www.space.com/space-exploration/artemis/nasa-chief-defends-all-male-artemis-3-astronaut-crew-amid-backlash-i-dont-think-anyone-should-be-reading-into-this",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781121600
+    },
+    {
+      "title": "Logitech’s foldable mouse is for people who refuse to carry a mouse with them",
+      "link": "https://arstechnica.com/gadgets/2026/06/logitechs-mobi-fold-folds-for-travel-but-i-prefer-a-different-portable-mouse/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781121476
+    },
+    {
+      "title": "North Koreans behind nearly half of US tech industry hacks, says CrowdStrike",
+      "link": "https://techcrunch.com/2026/06/10/north-koreans-behind-nearly-half-of-us-tech-industry-hacks-says-crowdstrike/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781121424
+    },
+    {
+      "title": "Wing drone delivery might not be a novelty anymore",
+      "link": "https://techcrunch.com/2026/06/10/wing-drone-delivery-might-not-be-a-novelty-anymore/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781121129
+    },
+    {
+      "title": "GitHub announces npm security changes to tackle supply-chain attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781120504
+    },
+    {
+      "title": "Today's top games to watch, best bets, odds: Spurs vs. Knicks NBA Finals Game 4, MLB and more",
+      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-spurs-vs-knicks-nba-finals-game-4-mlb-and-more/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781119839
+    },
+    {
+      "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
+      "link": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781119761
+    },
+    {
+      "title": "Ridley Scott and Glenn Close to Receive Honorary Oscars at 2026 Governors Awards",
+      "link": "https://www.ign.com/articles/glenn-close-ridley-scott-honorary-oscars-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781118934
+    },
     {
       "title": "'Voltron: Legendary Defender' turns 10 today, and we think this mecha robot reboot was just as good as 'Power Rangers' and 'Transformers'",
       "link": "https://www.space.com/entertainment/space-movies-shows/voltron-legendary-defender-turns-10-today-and-we-think-this-mecha-robot-reboot-was-just-as-good-as-power-rangers-and-transformers",
@@ -37,13 +149,6 @@
       "timestamp": 1781112600
     },
     {
-      "title": "NBA Finals 2026 Game 4 odds, prediction, time: Spurs vs. Knicks picks by expert on 143-106 run",
-      "link": "https://www.cbssports.com/nba/news/nba-finals-2026-game-4-odds-prediction-time-spurs-knicks-expert-picks-bets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781112112
-    },
-    {
       "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
       "link": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
       "source": "ARSTECHNICA",
@@ -72,24 +177,17 @@
       "timestamp": 1781111087
     },
     {
-      "title": "Knicks vs. Spurs odds, prediction: 2026 NBA Finals picks, Game 4 best bets by model on 26-10 run",
-      "link": "https://www.cbssports.com/nba/news/knicks-spurs-odds-prediction-spread-line-time-2026-nba-finals-picks-game-4-best-bets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781110821
+      "title": "Jupiter and Venus looked spectacular in this week's planetary conjunction. Here are our favorite photos",
+      "link": "https://www.space.com/stargazing/astrophotography/jupiter-and-venus-looked-spectacular-in-this-weeks-planetary-conjunction-here-are-our-favorite-photos",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781110800
     },
     {
       "title": "Ubisoft Closing 2 More Studios Amid Further Cuts and Job Losses",
       "link": "https://www.ign.com/articles/ubisoft-closing-2-more-studios-amid-further-cuts-and-job-losses",
       "source": "IGN",
       "category": "gaming",
-      "timestamp": 1781110800
-    },
-    {
-      "title": "Jupiter and Venus looked spectacular in this week's planetary conjunction. Here are our favorite photos",
-      "link": "https://www.space.com/stargazing/astrophotography/jupiter-and-venus-looked-spectacular-in-this-weeks-planetary-conjunction-here-are-our-favorite-photos",
-      "source": "SPACE",
-      "category": "space",
       "timestamp": 1781110800
     },
     {
@@ -163,13 +261,6 @@
       "timestamp": 1781106919
     },
     {
-      "title": "Knicks vs. Spurs Game 4 odds, prediction: NBA Finals pick as San Antonio looks to even series",
-      "link": "https://www.cbssports.com/nba/news/knicks-spurs-game-4-odds-prediction-nba-finals-tv-channel/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781106918
-    },
-    {
       "title": "Zest launches a restaurant discovery app powered by where people actually eat",
       "link": "https://techcrunch.com/2026/06/10/zest-launches-a-restaurant-discovery-app-powered-by-where-people-actually-eat/",
       "source": "TECHCRUNCH",
@@ -182,13 +273,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1781106082
-    },
-    {
-      "title": "Spurs vs. Knicks NBA Finals Game 4 props, trends: Bettors expecting big games from Dylan Harper, OG Anunoby",
-      "link": "https://www.cbssports.com/betting/news/spurs-vs-knicks-nba-finals-game-4-props-trends-bettors-expecting-big-games-from-dylan-harper-og-anunoby/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781104912
     },
     {
       "title": "Why enterprise AI will be a major focus at VivaTech 2026",
@@ -226,6 +310,13 @@
       "timestamp": 1781103600
     },
     {
+      "title": "Gears of War E-Day developer The Coalition explains why the prequel was 'just too good to pass up'",
+      "link": "https://www.space.com/entertainment/space-games/gears-of-war-e-day-developer-the-coalition-explains-why-the-prequel-was-just-too-good-to-pass-up",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781103600
+    },
+    {
       "title": "Capcom Explains How Tifa From Final Fantasy 7 Came to Be a Street Fighter 6 DLC Character",
       "link": "https://www.ign.com/articles/capcom-explains-how-tifa-from-final-fantasy-7-came-to-be-a-street-fighter-6-dlc-character",
       "source": "IGN",
@@ -244,13 +335,6 @@
       "link": "https://www.ign.com/articles/resident-evil-veronica-is-a-third-person-game-capcom-confirms",
       "source": "IGN",
       "category": "gaming",
-      "timestamp": 1781103600
-    },
-    {
-      "title": "Gears of War E-Day developer The Coalition explains why the prequel was 'just too good to pass up'",
-      "link": "https://www.space.com/entertainment/space-games/gears-of-war-e-day-developer-the-coalition-explains-why-the-prequel-was-just-too-good-to-pass-up",
-      "source": "SPACE",
-      "category": "space",
       "timestamp": 1781103600
     },
     {
@@ -275,39 +359,11 @@
       "timestamp": 1781101890
     },
     {
-      "title": "Use DraftKings promo code for $200 in bonus bets by targeting Knicks-Spurs NBA Finals Game 4, MLB on Wednesday",
-      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-200-bonus-bets-knicks-spurs-nba-finals-game-4-mlb-wednesday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781101407
-    },
-    {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Knicks-Spurs NBA Finals Game 4, MLB Wednesday",
-      "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-knicks-spurs-nba-finals-game-4-mlb-wednesday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781101054
-    },
-    {
-      "title": "ServiceNow tells customers a bug left some of their data exposed to the internet",
-      "link": "https://techcrunch.com/2026/06/10/servicenow-tells-customers-a-bug-left-some-of-their-data-exposed-to-the-internet/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781100782
-    },
-    {
       "title": "The 5 Best Practices for Secure Identity Verification",
       "link": "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1781100315
-    },
-    {
-      "title": "NBA player prop picks, odds: Three best 2026 NBA Finals prop bets for Spurs vs. Knicks, Game 4",
-      "link": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-three-best-2026-nba-finals-prop-bets-for-spurs-vs-knicks-game-4/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781100036
     },
     {
       "title": "Swirling spiral galaxy will hypnotize you | Space photo of the day for June 10, 2026",
@@ -331,13 +387,6 @@
       "timestamp": 1781099059
     },
     {
-      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
-      "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781098389
-    },
-    {
       "title": "Racist comments targeting politicians tripled since Meta relaxed its rules",
       "link": "https://arstechnica.com/tech-policy/2026/06/racist-comments-targeting-politicians-tripled-since-meta-relaxed-its-rules/",
       "source": "ARSTECHNICA",
@@ -352,13 +401,6 @@
       "timestamp": 1781097213
     },
     {
-      "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
-      "link": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781096876
-    },
-    {
       "title": "NASA is building a new space telescope to search for life on nearby planets. What would it see on ancient Earth?",
       "link": "https://www.space.com/space-exploration/search-for-life/nasa-is-building-a-new-space-telescope-to-search-for-life-on-nearby-planets-what-would-it-see-on-ancient-earth",
       "source": "SPACE",
@@ -371,20 +413,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781096317
-    },
-    {
-      "title": "Snapchat limits users under 16 to sharing Spotlights with friends",
-      "link": "https://techcrunch.com/2026/06/10/snapchat-limits-users-under-16-to-sharing-spotlights-with-friends/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781095612
-    },
-    {
-      "title": "Why everyone’s an energy company now",
-      "link": "https://techcrunch.com/2026/06/10/why-everyones-an-energy-company-now/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781095500
     },
     {
       "title": "Fable Romance Mechanics Revealed — Including How the RPG Handles Lovemaking",
@@ -469,13 +497,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1781082828
-    },
-    {
-      "title": "Capcom Responds to Concern the Onimusha: Way of the Sword Demo Feels \"Too Easy\"",
-      "link": "https://www.ign.com/articles/capcom-responds-to-concern-the-onimusha-way-of-the-sword-demo-feels-too-easy",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781076901
     },
     {
       "title": "Ivanti: Max severity Sentry flaw allows code execution as root",
@@ -618,39 +639,11 @@
       "timestamp": 1781032825
     },
     {
-      "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
-      "link": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781031445
-    },
-    {
-      "title": "NASA assigns crew for Artemis III, sets aggressive timeline for flying it",
-      "link": "https://arstechnica.com/space/2026/06/nasa-assigns-crew-for-artemis-iii-sets-aggressive-timeline-for-flying-it/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781030539
-    },
-    {
-      "title": "Microsoft releases Windows 10 KB5094127 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781030100
-    },
-    {
       "title": "Do galaxies have a 'kill switch' that makes them stop growing?",
       "link": "https://www.space.com/astronomy/galaxies/what-causes-galaxies-to-stop-growing",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781028000
-    },
-    {
-      "title": "Microsoft June 2026 Patch Tuesday fixes 6 zero-days, 200 flaws",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-6-zero-days-200-flaws/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781027879
     },
     {
       "title": "Knicks' win streak is finally dead, but it's still the Spurs who are clinging to life in the NBA Finals",
@@ -660,13 +653,6 @@
       "timestamp": 1781027543
     },
     {
-      "title": "Windows 11 KB5094126 & KB5093998 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5094126-and-kb5093998-cumulative-updates-released/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781026352
-    },
-    {
       "title": "NASA reveals Artemis 3 astronauts for critical moon lander test flight",
       "link": "https://www.space.com/space-exploration/artemis/nasa-reveals-artemis-3-astronaut-crew",
       "source": "SPACE",
@@ -674,18 +660,25 @@
       "timestamp": 1781024619
     },
     {
-      "title": "Don't miss the moon and Saturn put on a spectacular show before sunrise June 10",
-      "link": "https://www.space.com/stargazing/dont-miss-the-moon-and-saturn-put-on-a-spectacular-show-before-sunrise-june-10",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781024400
+      "title": "President Donald Trump unlikely to attend Game 4 of NBA Finals between Knicks and Spurs, per report",
+      "link": "https://www.cbssports.com/nba/news/nba-finals-knicks-spurs-game-4-president-trump/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781024202
     },
     {
-      "title": "'This is actually taking a page out of the Communist Party playbook': New White House proposal could deny scientists funding based on their political opinions",
-      "link": "https://www.space.com/space-exploration/this-is-actually-taking-a-page-out-of-the-communist-party-playbook-new-white-house-proposal-could-deny-scientists-funding-based-on-their-political-opinions",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781017200
+      "title": "2026 NBA Mock Draft: Projecting all 60 picks in Adam Finkelstein's first two-round forecast",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-mock-draft-two-rounds/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781022171
+    },
+    {
+      "title": "Spurs silence MSG with Game 3 victory over Knicks; Texas Tech's Brendan Sorsby eligible for 2026 season",
+      "link": "https://www.cbssports.com/nba/news/spurs-silence-msg-with-game-3-victory-over-knicks-texas-techs-brendan-sorsby-eligible-for-2026-season/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781010047
     },
     {
       "title": "Scientists think they solved the mystery of the Amaterasu particle",
@@ -700,6 +693,13 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1780994549
+    },
+    {
+      "title": "Mike Brown echoes growing frustrations of Knicks fans over NBA Finals officiating after Game 3",
+      "link": "https://www.cbssports.com/nba/news/mike-brown-officiating-knicks-spurs-nba-finals-game-3/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1780984943
     },
     {
       "title": "Planet nine mystery deepens as new discovery challenges hidden planet theory",
