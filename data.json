@@ -1,6 +1,20 @@
 {
-  "last_updated": 1781043715,
+  "last_updated": 1781050224,
   "items": [
+    {
+      "title": "How Justin Ernest invested nearly $400M into hot startups without a traditional VC fund",
+      "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781047071
+    },
+    {
+      "title": "Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781046678
+    },
     {
       "title": "Deltarune Chapter 5 Release Date Revealed as Toby Fox Offers Promising Update for the Future",
       "link": "https://www.ign.com/articles/deltarune-chapter-5-release-date-revealed-as-toby-fox-offers-promising-update-for-the-future",
@@ -30,6 +44,13 @@
       "timestamp": 1781040020
     },
     {
+      "title": "Starlink charges $10 monthly hardware fee in move away from one-time purchases",
+      "link": "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781039139
+    },
+    {
       "title": "These record-breaking black hole winds could create a category 79 hurricane on Earth",
       "link": "https://www.space.com/astronomy/black-holes/these-record-breaking-black-hole-winds-could-create-a-category-79-hurricane-on-earth",
       "source": "SPACE",
@@ -44,6 +65,13 @@
       "timestamp": 1781038800
     },
     {
+      "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
+      "link": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781038612
+    },
+    {
       "title": "Jujutsu Kaisen Rumble: Survivaton Revealed as Unexpected Collab From the Vampire Survivors Team",
       "link": "https://www.ign.com/articles/jujutsu-kaisen-rumble-survivaton-revealed-as-unexpected-collab-from-the-vampire-survivors-team",
       "source": "IGN",
@@ -51,7 +79,7 @@
       "timestamp": 1781038409
     },
     {
-      "title": "Hey Siri, here’s what I actually want from AI",
+      "title": "Hey, Siri, here’s what I actually want from AI",
       "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -72,6 +100,13 @@
       "timestamp": 1781037469
     },
     {
+      "title": "Three key vital signs make up the \"urban pulse\" of a city",
+      "link": "https://arstechnica.com/science/2026/06/study-how-to-take-the-urban-pulse-of-a-city/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781037322
+    },
+    {
       "title": "NBA admits Victor Wembanyama fouled Jalen Brunson with Game 3 shove, flagrant review still ongoing",
       "link": "https://www.cbssports.com/nba/news/victor-wembanyama-jalen-brunson-flagrant-foul-review-knicks-spurs-nba-finals-game-3/",
       "source": "CBSSPORTS",
@@ -79,7 +114,14 @@
       "timestamp": 1781037165
     },
     {
-      "title": "Netflix trying to \"poison regulators\" about WBD merger, Paramount lawyer claims",
+      "title": "Commonwealth Fusion makes the physics case for its 400 MW reactor",
+      "link": "https://arstechnica.com/science/2026/06/__trashed-19/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781036756
+    },
+    {
+      "title": "Paramount accuses Netflix of \"scorched-earth campaign\" against WBD merger",
       "link": "https://arstechnica.com/tech-policy/2026/06/netflix-trying-to-poison-regulators-about-wbd-merger-paramount-lawyer-claims/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -464,13 +506,6 @@
       "timestamp": 1781010046
     },
     {
-      "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
-      "link": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781010000
-    },
-    {
       "title": "How should we handle alien detection in a world of AI, deepfakes and social media? This committee is writing the rulebook",
       "link": "https://www.space.com/space-exploration/search-for-life/how-should-we-handle-alien-detection-in-a-world-of-ai-deepfakes-and-social-media-this-committee-is-writing-the-rulebook",
       "source": "SPACE",
@@ -548,13 +583,6 @@
       "timestamp": 1780969922
     },
     {
-      "title": "FCC lifts looming deadline for Amazon Leo satellite broadband constellation",
-      "link": "https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780966780
-    },
-    {
       "title": "NBA player prop picks, odds: Three best 2026 NBA Finals prop bets for Knicks vs. Spurs, Game 3",
       "link": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-three-best-2026-nba-finals-prop-bets-for-knicks-spurs-game-3/",
       "source": "CBSSPORTS",
@@ -590,13 +618,6 @@
       "timestamp": 1780956049
     },
     {
-      "title": "Tests suggest Russian satellites can jam GPS on a continental scale",
-      "link": "https://arstechnica.com/space/2026/06/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780955788
-    },
-    {
       "title": "SoFi confirms third-party data breach at Hong Kong subsidiary",
       "link": "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/",
       "source": "BLEEPINGCOMPUTER",
@@ -611,32 +632,11 @@
       "timestamp": 1780955694
     },
     {
-      "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era",
-      "link": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780952636
-    },
-    {
-      "title": "New Apple feature automatically changes your compromised passwords",
-      "link": "https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1780952620
-    },
-    {
       "title": "Scientists propose spraying chemicals into Earth's magnetic field to protect us from powerful solar storms",
       "link": "https://www.space.com/astronomy/earth/scientists-propose-spraying-chemicals-into-earths-magnetic-field-to-protect-us-from-powerful-solar-storms",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1780952400
-    },
-    {
-      "title": "iOS 27 and iPadOS 27 don't drop support for any iPhones—and just a few iPads",
-      "link": "https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1780952158
     },
     {
       "title": "James Webb Space Telescope weighs 'sleeping giant' black hole from 10 billion light-years away — and it's 6 billion times our sun's mass",
