@@ -1,6 +1,62 @@
 {
-  "last_updated": 1781206442,
+  "last_updated": 1781215220,
   "items": [
+    {
+      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+      "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781209990
+    },
+    {
+      "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
+      "link": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781209645
+    },
+    {
+      "title": "SpaceX sends 24 Starlink satellites into orbit as market awaits IPO launch (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-44-b1071-vsfb-ocisly",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781208000
+    },
+    {
+      "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
+      "link": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781207881
+    },
+    {
+      "title": "Bluesky launches group chats, as company shifts focus to community features",
+      "link": "https://techcrunch.com/2026/06/11/bluesky-launches-group-chats-as-company-shifts-focus-to-community-features/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781206865
+    },
+    {
+      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781206793
+    },
+    {
+      "title": "Ted Cruz and Ron Wyden try to fight censorship with bipartisan JAWBONE Act",
+      "link": "https://arstechnica.com/tech-policy/2026/06/ted-cruz-and-ron-wyden-try-to-fight-censorship-with-bipartisan-jawbone-act/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781206297
+    },
+    {
+      "title": "AcuRite admits new app falls short, delays old app’s May shutdown to fix problems",
+      "link": "https://arstechnica.com/gadgets/2026/06/iot-gadget-firm-acurite-delays-forced-app-migration-due-to-new-apps-shortfalls/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781204934
+    },
     {
       "title": "James Webb Space Telescope discovers 'galaxy-killing' wind that may explain why some early galaxies lived fast and died young",
       "link": "https://www.space.com/astronomy/galaxies/james-webb-space-telescope-discovers-galaxy-killing-wind-that-may-explain-why-some-early-galaxies-lived-fast-and-died-young",
@@ -457,20 +513,6 @@
       "timestamp": 1781151106
     },
     {
-      "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
-      "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781150539
-    },
-    {
-      "title": "Anthropic’s Dario Amodei has just one direct report",
-      "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781149986
-    },
-    {
       "title": "Spurs vs. Knicks NBA Finals Game 4 props, trends: Bettors expecting big games from Dylan Harper, OG Anunoby",
       "link": "https://www.cbssports.com/betting/news/spurs-vs-knicks-nba-finals-game-4-props-trends-bettors-expecting-big-games-from-dylan-harper-og-anunoby/",
       "source": "CBSSPORTS",
@@ -497,20 +539,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781131541
-    },
-    {
-      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-      "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781130679
-    },
-    {
-      "title": "Why Andrew Yang is building instead of waiting for Washington",
-      "link": "https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781130252
     },
     {
       "title": "Diabetes org apologizes for ejecting scientists over criticism of Trump",
@@ -660,27 +688,6 @@
       "timestamp": 1781110800
     },
     {
-      "title": "OB-GYNs release their own vaccine schedule, rejecting RFK Jr.'s meddling",
-      "link": "https://arstechnica.com/health/2026/06/bucking-rfk-jr-ob-gyns-release-vaccine-guidance-that-conflicts-with-cdc/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781110356
-    },
-    {
-      "title": "NASA's ambitious Artemis 3 mission includes 3 giant rocket launches, 2 private moon landers and 1 big question: Can it all work together?",
-      "link": "https://www.space.com/space-exploration/artemis/nasas-ambitious-artemis-3-mission-includes-3-giant-rocket-launches-2-private-moon-landers-and-1-big-question-can-it-all-work-together",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781109690
-    },
-    {
-      "title": "Valve kills its retail gift card program due to scammers",
-      "link": "https://arstechnica.com/gaming/2026/06/valve-kills-its-retail-gift-card-program-due-to-scammers/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781109583
-    },
-    {
       "title": "Scientists propose a radical new theory for how life began on Earth",
       "link": "https://www.sciencedaily.com/releases/2026/06/260610003054.htm",
       "source": "SCIENCEDAILY",
@@ -707,13 +714,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1781099059
-    },
-    {
-      "title": "Microsoft: Some Windows PCs fail to install latest monthly updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781091212
     },
     {
       "title": "Scientists mapped every neural connection in a fruit fly and found a surprise",
