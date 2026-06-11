@@ -1,12 +1,89 @@
 {
-  "last_updated": 1781149198,
+  "last_updated": 1781167443,
   "items": [
+    {
+      "title": "The 16 moments that defined the Knicks' historic Game 4 comeback, one of the best in sports history",
+      "link": "https://www.cbssports.com/nba/news/knicks-historic-game-4-comeback-spurs-biggest-moments/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781164440
+    },
+    {
+      "title": "Nottingham University data breach affects over 450,000 students",
+      "link": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781162873
+    },
+    {
+      "title": "How the Spurs authored the biggest single-game choke in NBA Finals history",
+      "link": "https://www.cbssports.com/nba/news/spurs-biggest-single-game-choke-nba-finals-history-knicks/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781161224
+    },
+    {
+      "title": "Don't miss out on Star Trek: Strange New Worlds season 4 — stream it from anywhere at warp speed using this Norton VPN deal, now up to 64% off",
+      "link": "https://www.space.com/technology/dont-miss-out-on-star-trek-strange-new-worlds-season-4-stream-it-from-anywhere-at-warp-speed-using-this-norton-vpn-deal-now-up-to-64-percent-off",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781161200
+    },
+    {
+      "title": "OG Anunoby becomes Knicks legend as iconic game-winner pushes New York to brink of first NBA title in 53 years",
+      "link": "https://www.cbssports.com/nba/news/og-anunoby-knicks-legend-game-winner-nba-finals/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781160999
+    },
+    {
+      "title": "24 Jump Street in the Works with Channing Tatum and Jonah Hill",
+      "link": "https://www.ign.com/articles/24-jump-street-in-the-works-with-channing-tatum-and-jonah-hill",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781160045
+    },
+    {
+      "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781158822
+    },
     {
       "title": "Why Victor Wembanyama's Game 4 flagrant foul could have huge ramifications",
       "link": "https://www.cbssports.com/nba/news/victor-wembanyama-game-4-flagrant-foul-ramifications/",
       "source": "CBSSPORTS",
       "category": "nba",
-      "timestamp": 1781146723
+      "timestamp": 1781154574
+    },
+    {
+      "title": "2026 NBA playoff bracket, schedule: Knicks stun Spurs with largest comeback in NBA Finals history",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781151338
+    },
+    {
+      "title": "2026 NBA Finals schedule: Knicks vs. Spurs odds, times with Game 5 on Saturday",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-finals-schedule-odds/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781151106
+    },
+    {
+      "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+      "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781150539
+    },
+    {
+      "title": "Anthropic’s Dario Amodei has just one direct report",
+      "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781149986
     },
     {
       "title": "Spurs vs. Knicks NBA Finals Game 4 props, trends: Bettors expecting big games from Dylan Harper, OG Anunoby",
@@ -352,6 +429,13 @@
       "timestamp": 1781104560
     },
     {
+      "title": "Scientists propose a radical new theory for how life began on Earth",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260610003054.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1781103660
+    },
+    {
       "title": "The Knicks regressed into old offensive habits in Game 3, and fixing that will be the key to Game 4",
       "link": "https://www.cbssports.com/nba/news/knicks-old-offensive-habits-nba-finals-game-4-spurs/",
       "source": "CBSSPORTS",
@@ -370,13 +454,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
-      "timestamp": 1781103600
-    },
-    {
-      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-      "link": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
       "timestamp": 1781103600
     },
     {
@@ -406,13 +483,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1781103600
-    },
-    {
-      "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
-      "link": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781102881
     },
     {
       "title": "The 5 Best Practices for Secure Identity Verification",
@@ -513,13 +583,6 @@
       "timestamp": 1781091212
     },
     {
-      "title": "Xbox Boss Says a Mass Audience Can't Afford 'Thousands of Dollars' to Spend on a Next-Gen Console, So Microsoft Must 'Look at New Business Models'",
-      "link": "https://www.ign.com/articles/xbox-boss-says-a-mass-audience-cant-afford-thousands-of-dollars-to-spend-on-a-next-gen-console-so-microsoft-must-look-at-new-business-models",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781087835
-    },
-    {
       "title": "Scientists mapped every neural connection in a fruit fly and found a surprise",
       "link": "https://www.sciencedaily.com/releases/2026/06/260610003047.htm",
       "source": "SCIENCEDAILY",
@@ -562,32 +625,11 @@
       "timestamp": 1781067390
     },
     {
-      "title": "After first loss in 46 days, Knicks know what adjustments they must make to respond vs. Spurs",
-      "link": "https://www.cbssports.com/nba/news/knicks-adjustments-spurs-nba-finals-game-4/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781057793
-    },
-    {
       "title": "Anthropic rolls out Claude Fable 5, but it's available for a limited time",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1781057011
-    },
-    {
-      "title": "NBA admits Victor Wembanyama fouled Jalen Brunson with Game 3 shove, but play won't be upgraded to flagrant",
-      "link": "https://www.cbssports.com/nba/news/victor-wembanyama-jalen-brunson-flagrant-foul-review-knicks-spurs-nba-finals-game-3/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781055994
-    },
-    {
-      "title": "NBA Finals oddities: Stunning Karl-Anthony Towns stat, Victor Wembanyama's heel turn and more",
-      "link": "https://www.cbssports.com/nba/news/knicks-spurs-nba-finals-jalen-brunson-karl-anthony-towns-victor-wembanyama/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781050016
     },
     {
       "title": "Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges",
@@ -602,13 +644,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1781040849
-    },
-    {
-      "title": "OpenClaw AI agent found falling for phishing attacks, spills user data",
-      "link": "https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781040020
     },
     {
       "title": "Starlink charges $10 monthly hardware fee in move away from one-time purchases",
@@ -653,39 +688,11 @@
       "timestamp": 1781035200
     },
     {
-      "title": "SAP fixes critical flaws in NetWeaver and Commerce Cloud",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781033787
-    },
-    {
-      "title": "Today's top games to watch, best bets, odds: Hurricanes vs. Golden Knights Stanley Cup Final Game 4, MLB, more",
-      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-hurricanes-vs-golden-knights-stanley-cup-final-game-4-mlb-more/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781033443
-    },
-    {
       "title": "Do galaxies have a 'kill switch' that makes them stop growing?",
       "link": "https://www.space.com/astronomy/galaxies/what-causes-galaxies-to-stop-growing",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781028000
-    },
-    {
-      "title": "Knicks' win streak is finally dead, but it's still the Spurs who are clinging to life in the NBA Finals",
-      "link": "https://www.cbssports.com/nba/news/nba-finals-knicks-win-streak-spurs/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781027543
-    },
-    {
-      "title": "NASA reveals Artemis 3 astronauts for critical moon lander test flight",
-      "link": "https://www.space.com/space-exploration/artemis/nasa-reveals-artemis-3-astronaut-crew",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781024619
     },
     {
       "title": "Scientists think they solved the mystery of the Amaterasu particle",
@@ -770,13 +777,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1780750939
-    },
-    {
-      "title": "AI-designed universal coronavirus vaccine passes first human trial",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260605023357.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1780674139
     }
   ]
 }
