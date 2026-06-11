@@ -1,6 +1,76 @@
 {
-  "last_updated": 1781196741,
+  "last_updated": 1781206442,
   "items": [
+    {
+      "title": "James Webb Space Telescope discovers 'galaxy-killing' wind that may explain why some early galaxies lived fast and died young",
+      "link": "https://www.space.com/astronomy/galaxies/james-webb-space-telescope-discovers-galaxy-killing-wind-that-may-explain-why-some-early-galaxies-lived-fast-and-died-young",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781204400
+    },
+    {
+      "title": "After nearly breaking, NASA's Deep Space Network \"worked well\" on Artemis II",
+      "link": "https://arstechnica.com/space/2026/06/after-nearly-breaking-nasas-deep-space-network-worked-well-on-artemis-ii/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781202841
+    },
+    {
+      "title": "F1 teams spend millions on their simulators—what makes them different?",
+      "link": "https://arstechnica.com/cars/2026/06/whats-so-special-about-a-formula-1-driver-in-the-loop-simulator/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781201892
+    },
+    {
+      "title": "Don't miss this beautiful 3-planet parade after sunset on June 12 — it won't last long",
+      "link": "https://www.space.com/stargazing/a-beautiful-3-planet-parade-will-shine-after-sunset-on-june-12-but-youll-have-to-be-quick-to-catch-it",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781200800
+    },
+    {
+      "title": "OG Anunoby becomes Knicks legend as iconic game-winner pushes New York to brink of first NBA title in 53 years",
+      "link": "https://www.cbssports.com/nba/news/og-anunoby-knicks-legend-game-winner-nba-finals/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781199617
+    },
+    {
+      "title": "Meta’s Edits app is getting an AI assistant and a desktop version",
+      "link": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781199000
+    },
+    {
+      "title": "Did Iron Age Britons remove brains of the dead?",
+      "link": "https://arstechnica.com/science/2026/06/did-iron-age-britons-remove-brains-of-the-dead/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781198513
+    },
+    {
+      "title": "Coinbase’s new tool can help agents trade and pay for premium research",
+      "link": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781197200
+    },
+    {
+      "title": "'Star City''s Agnes O'Casey and Anna Maxwell Martin spill the tea on Soviet severity, fighting for trousers, and furry hats",
+      "link": "https://www.space.com/entertainment/space-movies-shows/star-citys-agnes-ocasey-and-anna-maxwell-martin-spill-the-tea-on-soviet-severity-fighting-for-trousers-and-furry-hats",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781197200
+    },
+    {
+      "title": "Quantum Space’s military SPAC is trying to catch SpaceX’s IPO wave",
+      "link": "https://techcrunch.com/2026/06/11/quantum-spaces-military-spac-is-trying-to-catch-spacexs-ipo-wave/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781197168
+    },
     {
       "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
       "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
@@ -14,6 +84,13 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1781194670
+    },
+    {
+      "title": "Stranger Than Heaven Director Addresses Concerns Over Tupac's Inclusion",
+      "link": "https://www.ign.com/articles/stranger-than-heaven-director-addresses-concerns-over-tupacs-inclusion",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781194195
     },
     {
       "title": "Waymo launches a loyalty program with 10% cash back and free cancellations",
@@ -35,13 +112,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1781191800
-    },
-    {
-      "title": "OG Anunoby becomes Knicks legend as iconic game-winner pushes New York to brink of first NBA title in 53 years",
-      "link": "https://www.cbssports.com/nba/news/og-anunoby-knicks-legend-game-winner-nba-finals/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781190385
     },
     {
       "title": "Xbox Boss Asha Sharma Asked Her Chief Strategy Officer if The Brand Was 'Fixable' — Here's His Response",
@@ -457,13 +527,6 @@
       "timestamp": 1781128847
     },
     {
-      "title": "Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations",
-      "link": "https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781127212
-    },
-    {
       "title": "Man sues Florida cops over arrest spurred by \"93% match\" in facial recognition",
       "link": "https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/",
       "source": "ARSTECHNICA",
@@ -506,20 +569,6 @@
       "timestamp": 1781123228
     },
     {
-      "title": "Everyone wants a piece of Tesla’s battery business",
-      "link": "https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781122885
-    },
-    {
-      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
-      "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781122771
-    },
-    {
       "title": "NASA chief defends all-male Artemis 3 astronaut crew amid backlash: 'I don't think anyone should be reading into this'",
       "link": "https://www.space.com/space-exploration/artemis/nasa-chief-defends-all-male-artemis-3-astronaut-crew-amid-backlash-i-dont-think-anyone-should-be-reading-into-this",
       "source": "SPACE",
@@ -553,13 +602,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1781119761
-    },
-    {
-      "title": "Ridley Scott and Glenn Close to Receive Honorary Oscars at 2026 Governors Awards",
-      "link": "https://www.ign.com/articles/glenn-close-ridley-scott-honorary-oscars-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781118934
     },
     {
       "title": "'Voltron: Legendary Defender' turns 10 today, and we think this mecha robot reboot was just as good as 'Power Rangers' and 'Transformers'",
@@ -639,13 +681,6 @@
       "timestamp": 1781109583
     },
     {
-      "title": "The 2026 Honda Prelude review: Didn't expect such a head-turner",
-      "link": "https://arstechnica.com/cars/2026/06/2026-honda-prelude-review-we-need-more-affordable-coupes-like-this/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781107820
-    },
-    {
       "title": "Scientists propose a radical new theory for how life began on Earth",
       "link": "https://www.sciencedaily.com/releases/2026/06/260610003054.htm",
       "source": "SCIENCEDAILY",
@@ -660,13 +695,6 @@
       "timestamp": 1781103600
     },
     {
-      "title": "Gears of War E-Day developer The Coalition explains why the prequel was 'just too good to pass up'",
-      "link": "https://www.space.com/entertainment/space-games/gears-of-war-e-day-developer-the-coalition-explains-why-the-prequel-was-just-too-good-to-pass-up",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781103600
-    },
-    {
       "title": "The 5 Best Practices for Secure Identity Verification",
       "link": "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/",
       "source": "BLEEPINGCOMPUTER",
@@ -674,39 +702,11 @@
       "timestamp": 1781100315
     },
     {
-      "title": "Swirling spiral galaxy will hypnotize you | Space photo of the day for June 10, 2026",
-      "link": "https://www.space.com/astronomy/swirling-spiral-galaxy-will-hypnotize-you-space-photo-of-the-day-for-june-10-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781100000
-    },
-    {
       "title": "Microsoft patches Exchange Server zero-day exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1781099059
-    },
-    {
-      "title": "Racist comments targeting politicians tripled since Meta relaxed its rules",
-      "link": "https://arstechnica.com/tech-policy/2026/06/racist-comments-targeting-politicians-tripled-since-meta-relaxed-its-rules/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781098297
-    },
-    {
-      "title": "GM Energy introduces V2G support and new energy storage battery chemistry",
-      "link": "https://arstechnica.com/cars/2026/06/gm-energy-introduces-v2g-support-and-new-energy-storage-battery-chemistry/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781097213
-    },
-    {
-      "title": "NASA is building a new space telescope to search for life on nearby planets. What would it see on ancient Earth?",
-      "link": "https://www.space.com/space-exploration/search-for-life/nasa-is-building-a-new-space-telescope-to-search-for-life-on-nearby-planets-what-would-it-see-on-ancient-earth",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781096400
     },
     {
       "title": "Microsoft: Some Windows PCs fail to install latest monthly updates",
