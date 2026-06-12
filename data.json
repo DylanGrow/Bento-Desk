@@ -1,6 +1,160 @@
 {
-  "last_updated": 1781273295,
+  "last_updated": 1781285744,
   "items": [
+    {
+      "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
+      "link": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781285168
+    },
+    {
+      "title": "$130 billion in data center projects blocked by protests so far this year",
+      "link": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781284729
+    },
+    {
+      "title": "Robinhood sees ‘record-breaking’ traffic after SpaceX stock debuts",
+      "link": "https://techcrunch.com/2026/06/12/robinhood-sees-record-breaking-traffic-after-spacex-stock-debuts/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781283906
+    },
+    {
+      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781283835
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 4 Campaign Early Access Confirmed — Here's How It Works",
+      "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-campaign-early-access-confirmed-heres-how-it-works",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781283600
+    },
+    {
+      "title": "When it comes to total water use, AI data centers are a drop in the bucket",
+      "link": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781283098
+    },
+    {
+      "title": "Giannis Antetokounmpo trade rumors: What a Bucks-Heat deal could look like; Celtics, Timberwolves looming?",
+      "link": "https://www.cbssports.com/nba/news/giannis-antetokounmpo-trade-rumors-bucks-heat-celtics-timberwolves/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781282839
+    },
+    {
+      "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
+      "link": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781282076
+    },
+    {
+      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+      "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781281405
+    },
+    {
+      "title": "RFK Jr. melts down over NYT report, admits he blacklists reporters",
+      "link": "https://arstechnica.com/health/2026/06/rfk-jr-melts-down-over-nyt-report-admits-he-blacklists-reporters/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781281184
+    },
+    {
+      "title": "'Disclosure Day' review: A close encounter with Spielberg's brilliance that doesn't quite make contact",
+      "link": "https://www.space.com/entertainment/space-movies-shows/disclosure-day-review-a-close-encounter-with-spielbergs-brilliance-that-doesnt-quite-make-contact",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781280000
+    },
+    {
+      "title": "Elon Musk becomes the world’s first trillionaire after SpaceX’s historic IPO",
+      "link": "https://techcrunch.com/2026/06/12/elon-musk-becomes-the-worlds-first-trillionaire-after-spacexs-historic-ipo/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781279706
+    },
+    {
+      "title": "SpaceX opens at $150, an 11% pop for the most anticipated debut in history",
+      "link": "https://techcrunch.com/2026/06/12/spacex-opens-at-150-an-11-pop-for-the-most-anticipated-debut-in-history/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781279684
+    },
+    {
+      "title": "'The Only Way to Keep Bungie Alive Is to Support Marathon,' Ex-Destiny Community Manager Says",
+      "link": "https://www.ign.com/articles/the-only-way-to-keep-bungie-alive-is-to-support-marathon-ex-destiny-community-manager-says",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781279563
+    },
+    {
+      "title": "The Walking Dead: Streets of Survival Reimagines All Out War as a Beat 'Em Up in First Trailer",
+      "link": "https://www.ign.com/articles/the-walking-dead-streets-of-survival-reimagines-all-out-war-as-a-beat-em-up-in-first-trailer",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781279027
+    },
+    {
+      "title": "The biggest race in the world? The 24 Hours of Le Mans is this weekend.",
+      "link": "https://arstechnica.com/cars/2026/06/the-biggest-race-in-the-world-the-24-hours-of-le-mans-is-this-weekend/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781278477
+    },
+    {
+      "title": "‘Damn Shame’ — Canceled Warhammer Horus Heresy MMO Was ‘Shaping Up Nicely’",
+      "link": "https://www.ign.com/articles/damn-shame-canceled-warhammer-horus-heresy-mmo-was-shaping-up-nicely",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781278044
+    },
+    {
+      "title": "Lawsuit: ChatGPT validated suicidal woman's distrust of crisis lines",
+      "link": "https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781276632
+    },
+    {
+      "title": "'As terrible and harrowing as things were, people just had to get on with it': 'Star City's' Ruby Ashbourne Serkis and Adam Nagaitis on learning to love the Motherland in Apple TV's soviet space race spin-off (interview)",
+      "link": "https://www.space.com/entertainment/space-movies-shows/as-terrible-and-harrowing-as-things-were-people-just-had-to-get-on-with-it-star-citys-ruby-ashbourne-serkis-and-adam-nagaitis-on-learning-to-love-the-motherland-in-apple-tvs-soviet-space-race-spin-off-interview",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781276400
+    },
+    {
+      "title": "Jalen Brunson or OG Anunoby for NBA Finals MVP? Making the current case for both Knicks stars",
+      "link": "https://www.cbssports.com/nba/news/nba-finals-mvp-jalen-brunson-og-anunoby-knicks-spurs/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781274278
+    },
+    {
+      "title": "SpaceX IPO: Everything you need to know",
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781273334
+    },
+    {
+      "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
+      "link": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781272871
+    },
     {
       "title": "Satellite-boosting spacecraft inside air-launched rocket | Space photo of the day for June 12, 2026",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/satellite-boosting-spacecraft-inside-air-launched-rocket-space-photo-of-the-day-for-june-12-2026",
@@ -261,13 +415,6 @@
       "timestamp": 1781221625
     },
     {
-      "title": "The Last of Us Season 3 Casts Peter Sarsgaard as an Original Character, Unseen in the Games",
-      "link": "https://www.ign.com/articles/the-last-of-us-season-3-casts-peter-sarsgaard-as-an-original-character-unseen-in-the-games",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781221070
-    },
-    {
       "title": "Japanese energy firm loses drive with data of 10.9 million clients",
       "link": "https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/",
       "source": "BLEEPINGCOMPUTER",
@@ -394,53 +541,11 @@
       "timestamp": 1781198513
     },
     {
-      "title": "Coinbase’s new tool can help agents trade and pay for premium research",
-      "link": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781197200
-    },
-    {
       "title": "'Star City''s Agnes O'Casey and Anna Maxwell Martin spill the tea on Soviet severity, fighting for trousers, and furry hats",
       "link": "https://www.space.com/entertainment/space-movies-shows/star-citys-agnes-ocasey-and-anna-maxwell-martin-spill-the-tea-on-soviet-severity-fighting-for-trousers-and-furry-hats",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781197200
-    },
-    {
-      "title": "Quantum Space’s military SPAC is trying to catch SpaceX’s IPO wave",
-      "link": "https://techcrunch.com/2026/06/11/quantum-spaces-military-spac-is-trying-to-catch-spacexs-ipo-wave/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781197168
-    },
-    {
-      "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
-      "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781195780
-    },
-    {
-      "title": "These are the countries moving to ban social media for children",
-      "link": "https://techcrunch.com/2026/06/11/social-media-ban-children-countries-list/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781194670
-    },
-    {
-      "title": "Stranger Than Heaven Director Addresses Concerns Over Tupac's Inclusion",
-      "link": "https://www.ign.com/articles/stranger-than-heaven-director-addresses-concerns-over-tupacs-inclusion",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781194195
-    },
-    {
-      "title": "Waymo launches a loyalty program with 10% cash back and free cancellations",
-      "link": "https://techcrunch.com/2026/06/11/waymo-launches-a-loyalty-program-with-10-cash-back-and-free-cancellations/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781193623
     },
     {
       "title": "Authorities dismantle 'AudiA6' ransomware crypto-laundering service",
@@ -450,31 +555,10 @@
       "timestamp": 1781193341
     },
     {
-      "title": "Pool’s new app turns your screenshots into something useful",
-      "link": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781191800
-    },
-    {
-      "title": "Xbox Boss Asha Sharma Asked Her Chief Strategy Officer if The Brand Was 'Fixable' — Here's His Response",
-      "link": "https://www.ign.com/articles/xbox-boss-asha-sharma-asked-her-chief-strategy-officer-if-the-brand-was-fixable-heres-his-response",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781190108
-    },
-    {
       "title": "Grab our best telescope for beginners with $100 off the Celestron NexStar 4SE",
       "link": "https://www.space.com/stargazing/skywatching-kit/grab-our-best-telescope-for-beginners-with-100-dollars-off-the-celestron-nexstar-4se",
       "source": "SPACE",
       "category": "space",
-      "timestamp": 1781190000
-    },
-    {
-      "title": "Award-Winning Adventure Game The Drifter Will Arrive on Nintendo Switch Later This Month",
-      "link": "https://www.ign.com/articles/award-winning-adventure-game-the-drifter-will-arrive-on-nintendo-switch-later-this-month",
-      "source": "IGN",
-      "category": "gaming",
       "timestamp": 1781190000
     },
     {
@@ -506,25 +590,11 @@
       "timestamp": 1781186400
     },
     {
-      "title": "\"This cannot continue\": Xbox leaders lay out \"hard truths\" behind sagging brand",
-      "link": "https://arstechnica.com/gaming/2026/06/this-cannot-continue-xbox-leaders-lay-out-hard-truths-behind-sagging-brand/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781186190
-    },
-    {
       "title": "Scientists built a battery-free device that turns sunlight into fuel",
       "link": "https://www.sciencedaily.com/releases/2026/06/260611024601.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781185498
-    },
-    {
-      "title": "Alaskans will be flying blind after NSF decommissions ocean monitoring network",
-      "link": "https://arstechnica.com/science/2026/06/alaskans-will-be-flying-blind-after-nsf-decommissions-ocean-monitoring-network/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781183940
     },
     {
       "title": "The 1,100-year-old mystery of Montana’s lost bison hunting site finally solved",
@@ -569,13 +639,6 @@
       "timestamp": 1781182004
     },
     {
-      "title": "The first complex cells had genes from a complex mix of species",
-      "link": "https://arstechnica.com/science/2026/06/the-first-complex-cells-had-genes-from-a-complex-mix-of-species/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781181852
-    },
-    {
       "title": "Scientists discover a strange property in rice and turn it into a smart material",
       "link": "https://www.sciencedaily.com/releases/2026/06/260611024621.htm",
       "source": "SCIENCEDAILY",
@@ -609,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781176212
-    },
-    {
-      "title": "Several things I like about macOS 27 Golden Gate that have nothing to do with AI",
-      "link": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781175632
     },
     {
       "title": "Elon Musk wants to put 1 million AI satellites in space. Here's how SpaceX could do it",
@@ -660,13 +716,6 @@
       "timestamp": 1781161200
     },
     {
-      "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781158822
-    },
-    {
       "title": "Why Victor Wembanyama's Game 4 flagrant foul could have huge ramifications",
       "link": "https://www.cbssports.com/nba/news/victor-wembanyama-game-4-flagrant-foul-ramifications/",
       "source": "CBSSPORTS",
@@ -693,48 +742,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781134241
-    },
-    {
-      "title": "Diabetes org apologizes for ejecting scientists over criticism of Trump",
-      "link": "https://arstechnica.com/health/2026/06/diabetes-org-apologizes-for-ejecting-scientists-over-criticism-of-trump/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781129817
-    },
-    {
-      "title": "NBA Finals 2026 Game 4 odds, prediction, time: Spurs vs. Knicks picks by expert on 143-106 run",
-      "link": "https://www.cbssports.com/nba/news/nba-finals-2026-game-4-odds-prediction-time-spurs-knicks-expert-picks-best-bets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781128847
-    },
-    {
-      "title": "Man sues Florida cops over arrest spurred by \"93% match\" in facial recognition",
-      "link": "https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781127044
-    },
-    {
-      "title": "Path traversal flaw in AI dev platform Langflow exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781126624
-    },
-    {
-      "title": "James Webb Space Telescope finds evidence the mysterious 'little red dots' are black hole stars",
-      "link": "https://www.space.com/astronomy/black-holes/james-webb-space-telescope-finds-evidence-the-mysterious-little-red-dots-are-black-hole-stars",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781125200
-    },
-    {
-      "title": "NASA chief defends all-male Artemis 3 astronaut crew amid backlash: 'I don't think anyone should be reading into this'",
-      "link": "https://www.space.com/space-exploration/artemis/nasa-chief-defends-all-male-artemis-3-astronaut-crew-amid-backlash-i-dont-think-anyone-should-be-reading-into-this",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781121600
     },
     {
       "title": "Scientists propose a radical new theory for how life began on Earth",
