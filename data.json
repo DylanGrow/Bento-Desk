@@ -1,6 +1,48 @@
 {
-  "last_updated": 1781223416,
+  "last_updated": 1781242135,
   "items": [
+    {
+      "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
+      "link": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781238600
+    },
+    {
+      "title": "Forza Support Team Recommends Xbox Players Disable Quick Resume for Forza Horizon 6",
+      "link": "https://www.ign.com/articles/forza-support-team-recommends-xbox-players-disable-quick-resume-for-forza-horizon-6",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781233825
+    },
+    {
+      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+      "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781228887
+    },
+    {
+      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+      "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781226278
+    },
+    {
+      "title": "Valor Mortis Gets Short Delay to Avoid September's Onslaught of Game Releases",
+      "link": "https://www.ign.com/articles/valor-mortis-gets-short-delay-to-avoid-septembers-onslaught-of-game-releases",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781224832
+    },
+    {
+      "title": "Yellowstone, Tulsa King Video Games Are \"Priorities\" for Paramount Games",
+      "link": "https://www.ign.com/articles/yellowstone-tulsa-king-video-games-are-priorities-for-paramount-games",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781223734
+    },
     {
       "title": "Jason Momoa Won't Make a Lobo Movie Unless It's R-Rated",
       "link": "https://www.ign.com/articles/jason-momoa-wont-make-a-lobo-movie-unless-its-r-rated",
@@ -275,13 +317,6 @@
       "timestamp": 1781186667
     },
     {
-      "title": "Endurance Energy raises $54M to harness a massive untapped energy source",
-      "link": "https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781186412
-    },
-    {
       "title": "Why AI-driven threats are exposing the limits of MSP security stacks",
       "link": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/",
       "source": "BLEEPINGCOMPUTER",
@@ -322,13 +357,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1781183940
-    },
-    {
-      "title": "South Korea hits Coupang with $400M+ fine for data breach that affected millions",
-      "link": "https://techcrunch.com/2026/06/11/south-korea-hits-coupang-with-400m-fine-for-data-breach-that-affected-millions/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781183931
     },
     {
       "title": "The 1,100-year-old mystery of Montana’s lost bison hunting site finally solved",
@@ -408,13 +436,6 @@
       "timestamp": 1781179200
     },
     {
-      "title": "Anthropic taps TCS to scale its enterprise AI deployments",
-      "link": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781178535
-    },
-    {
       "title": "James Webb reveals two completely different twilights on an alien world",
       "link": "https://www.sciencedaily.com/releases/2026/06/260611024559.htm",
       "source": "SCIENCEDAILY",
@@ -471,32 +492,11 @@
       "timestamp": 1781169375
     },
     {
-      "title": "Pokémon Go Adds Virtual Item That Helps Play the Game For You",
-      "link": "https://www.ign.com/articles/pokemon-go-adds-virtual-item-that-helps-play-the-game-for-you",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781168510
-    },
-    {
       "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1781167462
-    },
-    {
-      "title": "Crimson Desert Hits New Huge Sales Milestone Less Than 3 Months After Launch",
-      "link": "https://www.ign.com/articles/crimson-desert-hits-new-huge-sales-milestone-less-than-3-months-after-launch",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781167072
-    },
-    {
-      "title": "Mario Kart World 'Forgotten,' as Nintendo Switch 2 Launch Title Goes a Year Without Major DLC",
-      "link": "https://www.ign.com/articles/mario-kart-world-forgotten-as-nintendo-switch-2-launch-title-goes-a-year-without-major-dlc",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781165626
     },
     {
       "title": "Nottingham University data breach affects over 450,000 students",
