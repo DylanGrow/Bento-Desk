@@ -1,6 +1,139 @@
 {
-  "last_updated": 1781285744,
+  "last_updated": 1781294783,
   "items": [
+    {
+      "title": "SpaceX IPO: Live updates on everything you need to know",
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781294678
+    },
+    {
+      "title": "Japan's H3 rocket bounces back from failure with successful return to flight launch carrying 6 satellites",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/japans-h3-rocket-bounces-back-from-failure-with-successful-return-to-flight-launch-carrying-6-satellites",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781294584
+    },
+    {
+      "title": "Could the secret to black hole formation be locked away in this record-breaking ancient quasar?",
+      "link": "https://www.space.com/astronomy/black-holes/could-the-secret-to-black-hole-formation-be-locked-away-in-this-record-breaking-ancient-quasar",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781294400
+    },
+    {
+      "title": "Maine disables data breach notification portal after fake disclosures",
+      "link": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781292812
+    },
+    {
+      "title": "Today's top games to watch, best bets, odds: USMNT World Cup opener, MLB and more",
+      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-usmnt-world-cup-opener-mlb-and-more/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781292642
+    },
+    {
+      "title": "SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger",
+      "link": "https://techcrunch.com/2026/06/12/spacex-president-gwynne-shotwell-just-gave-another-hint-at-a-tesla-merger/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781292511
+    },
+    {
+      "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
+      "link": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781292407
+    },
+    {
+      "title": "Batman/Superman/Weird Al: World’s Weirdest Is the Superhero Crossover We Didn't Know We Needed",
+      "link": "https://www.ign.com/articles/batmansupermanweird-al-worlds-weirdest-is-the-superhero-crossover-we-didnt-know-we-needed",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781290800
+    },
+    {
+      "title": "Controversial FISA spying law expires tonight. The spying will continue.",
+      "link": "https://arstechnica.com/tech-policy/2026/06/controversial-fisa-spying-law-expires-tonight-the-spying-will-continue/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781290671
+    },
+    {
+      "title": "Here's what Jeff Bezos' new startup Prometheus will do",
+      "link": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781289940
+    },
+    {
+      "title": "Have politics finally come for the National Academies of Science?",
+      "link": "https://arstechnica.com/science/2026/06/have-politics-finally-come-for-the-national-academies-of-science/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781289096
+    },
+    {
+      "title": "SpaceX shares soar 30% midday, vaulting it to top six most valuable U.S. companies",
+      "link": "https://techcrunch.com/2026/06/12/spacex-shares-soar-30-percent-midday-vaulting-it-to-top-six-most-valuable-us-companies/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781288450
+    },
+    {
+      "title": "phpBB forum fixes auth bypass bug lurking for a decade",
+      "link": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781288374
+    },
+    {
+      "title": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
+      "link": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781287409
+    },
+    {
+      "title": "There Are No Ghosts at the Grand Announces Tony-Nominated Actor as Lead, Wins Top Award at the Tribeca Games Festival",
+      "link": "https://www.ign.com/articles/there-are-no-ghosts-at-the-grand-announces-tony-nominated-actor-as-lead-wins-top-award-at-the-tribeca-games-festival",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781287211
+    },
+    {
+      "title": "Why is the US Space Force researching 'orbital warehouses'?",
+      "link": "https://www.space.com/space-exploration/satellites/why-is-the-us-space-force-researching-orbital-warehouses",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781287200
+    },
+    {
+      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
+      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781286868
+    },
+    {
+      "title": "Mistral is rumored to be raising €3B at €20B valuation",
+      "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781285891
+    },
+    {
+      "title": "Elden Ring Director Insists FromSoftware Is Free to Make the Games It Wants To, Teases 'Unannounced Titles'",
+      "link": "https://www.ign.com/articles/elden-ring-director-insists-fromsoftware-is-free-to-make-the-games-it-wants-to-teases-unannounced-titles",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781285215
+    },
     {
       "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
       "link": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
@@ -86,13 +219,6 @@
       "timestamp": 1781279706
     },
     {
-      "title": "SpaceX opens at $150, an 11% pop for the most anticipated debut in history",
-      "link": "https://techcrunch.com/2026/06/12/spacex-opens-at-150-an-11-pop-for-the-most-anticipated-debut-in-history/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781279684
-    },
-    {
       "title": "'The Only Way to Keep Bungie Alive Is to Support Marathon,' Ex-Destiny Community Manager Says",
       "link": "https://www.ign.com/articles/the-only-way-to-keep-bungie-alive-is-to-support-marathon-ex-destiny-community-manager-says",
       "source": "IGN",
@@ -140,13 +266,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781274278
-    },
-    {
-      "title": "SpaceX IPO: Everything you need to know",
-      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781273334
     },
     {
       "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
@@ -394,27 +513,6 @@
       "timestamp": 1781224832
     },
     {
-      "title": "Yellowstone, Tulsa King Video Games Are \"Priorities\" for Paramount Games",
-      "link": "https://www.ign.com/articles/yellowstone-tulsa-king-video-games-are-priorities-for-paramount-games",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781223734
-    },
-    {
-      "title": "Jason Momoa Won't Make a Lobo Movie Unless It's R-Rated",
-      "link": "https://www.ign.com/articles/jason-momoa-wont-make-a-lobo-movie-unless-its-r-rated",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781222093
-    },
-    {
-      "title": "X-Men Star Tyler Mane Diagnosed With Rare Form of Breast Cancer",
-      "link": "https://www.ign.com/articles/x-men-star-tyler-mane-diagnosed-with-rare-form-of-breast-cancer",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781221625
-    },
-    {
       "title": "Japanese energy firm loses drive with data of 10.9 million clients",
       "link": "https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/",
       "source": "BLEEPINGCOMPUTER",
@@ -464,13 +562,6 @@
       "timestamp": 1781207881
     },
     {
-      "title": "Bluesky launches group chats, as company shifts focus to community features",
-      "link": "https://techcrunch.com/2026/06/11/bluesky-launches-group-chats-as-company-shifts-focus-to-community-features/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781206865
-    },
-    {
       "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
       "source": "BLEEPINGCOMPUTER",
@@ -478,39 +569,11 @@
       "timestamp": 1781206793
     },
     {
-      "title": "Ted Cruz and Ron Wyden try to fight censorship with bipartisan JAWBONE Act",
-      "link": "https://arstechnica.com/tech-policy/2026/06/ted-cruz-and-ron-wyden-try-to-fight-censorship-with-bipartisan-jawbone-act/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781206297
-    },
-    {
-      "title": "AcuRite admits new app falls short, delays old app’s May shutdown to fix problems",
-      "link": "https://arstechnica.com/gadgets/2026/06/iot-gadget-firm-acurite-delays-forced-app-migration-due-to-new-apps-shortfalls/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781204934
-    },
-    {
       "title": "James Webb Space Telescope discovers 'galaxy-killing' wind that may explain why some early galaxies lived fast and died young",
       "link": "https://www.space.com/astronomy/galaxies/james-webb-space-telescope-discovers-galaxy-killing-wind-that-may-explain-why-some-early-galaxies-lived-fast-and-died-young",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781204400
-    },
-    {
-      "title": "After nearly breaking, NASA's Deep Space Network \"worked well\" on Artemis II",
-      "link": "https://arstechnica.com/space/2026/06/after-nearly-breaking-nasas-deep-space-network-worked-well-on-artemis-ii/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781202841
-    },
-    {
-      "title": "F1 teams spend millions on their simulators—what makes them different?",
-      "link": "https://arstechnica.com/cars/2026/06/whats-so-special-about-a-formula-1-driver-in-the-loop-simulator/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781201892
     },
     {
       "title": "Don't miss this beautiful 3-planet parade after sunset tonight — it won't last long",
@@ -525,20 +588,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781199617
-    },
-    {
-      "title": "Meta’s Edits app is getting an AI assistant and a desktop version",
-      "link": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781199000
-    },
-    {
-      "title": "Did Iron Age Britons remove brains of the dead?",
-      "link": "https://arstechnica.com/science/2026/06/did-iron-age-britons-remove-brains-of-the-dead/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781198513
     },
     {
       "title": "'Star City''s Agnes O'Casey and Anna Maxwell Martin spill the tea on Soviet severity, fighting for trousers, and furry hats",
@@ -632,13 +681,6 @@
       "timestamp": 1781182253
     },
     {
-      "title": "CISA tells govt agencies to patch critical exploited flaws in 3 days",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781182004
-    },
-    {
       "title": "Scientists discover a strange property in rice and turn it into a smart material",
       "link": "https://www.sciencedaily.com/releases/2026/06/260611024621.htm",
       "source": "SCIENCEDAILY",
@@ -651,13 +693,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781179371
-    },
-    {
-      "title": "Why do stars appear different colors in the night sky?",
-      "link": "https://www.space.com/stargazing/why-do-stars-appear-different-colors-in-the-night-sky",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781179200
     },
     {
       "title": "James Webb reveals two completely different twilights on an alien world",
@@ -674,13 +709,6 @@
       "timestamp": 1781176212
     },
     {
-      "title": "Elon Musk wants to put 1 million AI satellites in space. Here's how SpaceX could do it",
-      "link": "https://www.space.com/space-exploration/satellites/elon-musk-wants-to-put-1-million-ai-satellites-in-space-heres-how-spacex-could-do-it",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781172000
-    },
-    {
       "title": "AI could uncover new physics faster but there’s a surprising catch",
       "link": "https://www.sciencedaily.com/releases/2026/06/260611024557.htm",
       "source": "SCIENCEDAILY",
@@ -688,32 +716,11 @@
       "timestamp": 1781169375
     },
     {
-      "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781167462
-    },
-    {
-      "title": "Nottingham University data breach affects over 450,000 students",
-      "link": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781162873
-    },
-    {
       "title": "How the Spurs authored the biggest single-game choke in NBA Finals history",
       "link": "https://www.cbssports.com/nba/news/spurs-biggest-single-game-choke-nba-finals-history-knicks/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781161224
-    },
-    {
-      "title": "Don't miss out on Star Trek: Strange New Worlds season 4 — stream it from anywhere at warp speed using this Norton VPN deal, now up to 70% off",
-      "link": "https://www.space.com/technology/dont-miss-out-on-star-trek-strange-new-worlds-season-4-stream-it-from-anywhere-at-warp-speed-using-this-norton-vpn-deal-now-up-to-64-percent-off",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781161200
     },
     {
       "title": "Why Victor Wembanyama's Game 4 flagrant foul could have huge ramifications",
@@ -735,13 +742,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781151106
-    },
-    {
-      "title": "Spurs vs. Knicks NBA Finals Game 4 props, trends: Bettors expecting big games from Dylan Harper, OG Anunoby",
-      "link": "https://www.cbssports.com/betting/news/spurs-vs-knicks-nba-finals-game-4-props-trends-bettors-expecting-big-games-from-dylan-harper-og-anunoby/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781134241
     },
     {
       "title": "Scientists propose a radical new theory for how life began on Earth",
