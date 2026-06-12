@@ -1,12 +1,173 @@
 {
-  "last_updated": 1781258785,
+  "last_updated": 1781273295,
   "items": [
     {
-      "title": "SpaceX to go public with a mind-bogglingly historic IPO today. The space industry may never be the same.",
+      "title": "Satellite-boosting spacecraft inside air-launched rocket | Space photo of the day for June 12, 2026",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/satellite-boosting-spacecraft-inside-air-launched-rocket-space-photo-of-the-day-for-june-12-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781272800
+    },
+    {
+      "title": "Mike Brown was a victim of the NBA's coach-firing trend, and then he became its greatest success story",
+      "link": "https://www.cbssports.com/nba/news/knicks-mike-brown-coaching-success-story/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781271874
+    },
+    {
+      "title": "These tiny holes could change how the world cleans water",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260612032049.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1781269999
+    },
+    {
+      "title": "The critical robot arm on the ISS isn't working properly, but NASA has a plan to fix it",
+      "link": "https://www.space.com/space-exploration/international-space-station/the-critical-robot-arm-on-the-iss-isnt-working-properly-but-nasa-has-a-plan-to-fix-it",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781269200
+    },
+    {
+      "title": "Xbox Studio Shutdowns and Ad-Funded Subscriptions Likely After Asha Sharma's Stark 'Reset' Warning, Analysts Say",
+      "link": "https://www.ign.com/articles/xbox-studio-shutdowns-and-ad-funded-subscriptions-likely-after-asha-sharmas-stark-reset-warning-analysts-say",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781268931
+    },
+    {
+      "title": "Picks, predictions as USMNT open World Cup play; Knicks and Hurricanes eye championship titles",
+      "link": "https://www.cbssports.com/nba/news/picks-predictions-usmnt-world-cup-knicks-hurricanes-championship/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781268721
+    },
+    {
+      "title": "Crimson Desert Dev Explains How It's Changing the Game's Story, What 'DLC' Means, and Why Anything Goes",
+      "link": "https://www.ign.com/articles/crimson-desert-dev-explains-how-its-changing-the-games-story-what-dlc-means-and-why-anything-goes",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781266854
+    },
+    {
+      "title": "My quiet obsession with satellites — and how they're ruining everything",
+      "link": "https://www.space.com/stargazing/my-quiet-obsession-with-satellites-and-how-theyre-ruining-everything",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781265600
+    },
+    {
+      "title": "Giant underground neutrino detector brings scientists closer to cracking the neutrino puzzle",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260612032026.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1781265470
+    },
+    {
+      "title": "Cameras, sensors, and 3D body scans: All the tech helping eliminate blown calls",
+      "link": "https://arstechnica.com/gadgets/2026/06/cameras-sensors-and-3d-body-scans-all-the-tech-helping-eliminate-blown-calls/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781264718
+    },
+    {
+      "title": "Microsoft fixes Windows update failures linked to WUSA installer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781264698
+    },
+    {
+      "title": "US surveillance law to expire for first time after lawmakers reject Trump’s controversial pick to lead spy agencies",
+      "link": "https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781264612
+    },
+    {
+      "title": "Resident Evil Veronica Producer Says Capcom Will Adjust the Story to Fit Series' Timeline",
+      "link": "https://www.ign.com/articles/resident-evil-veronica-producer-says-capcom-will-adjust-the-story-to-fit-series-timeline",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781264034
+    },
+    {
+      "title": "Ebola cases in DRC rise to 676 as Kenya protests erupt over US plans",
+      "link": "https://arstechnica.com/health/2026/06/ebola-cases-in-drc-rise-to-676-as-kenya-protests-erupt-over-us-plans/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781263823
+    },
+    {
+      "title": "Pokémon Go players unwittingly contributed to tech with military drone uses",
+      "link": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781262941
+    },
+    {
+      "title": "Nintendo May Only Win $30,000 Payout in Pokémon Legal Battle With Palworld Developer Pocketpair, IP Expert Says",
+      "link": "https://www.ign.com/articles/nintendo-may-only-win-30000-payout-in-pokemon-legal-battle-with-palworld-developer-pocketpair-ip-expert-says",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781262708
+    },
+    {
+      "title": "Verizon sent man a refurbished phone with MDM, then deleted his data remotely",
+      "link": "https://arstechnica.com/tech-policy/2026/06/verizon-sent-man-a-refurbished-phone-with-mdm-then-deleted-his-data-remotely/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781262041
+    },
+    {
+      "title": "Rocket Report: Nova moving through test campaign; SpaceX IPO launches Friday",
+      "link": "https://arstechnica.com/space/2026/06/rocket-report-nova-moving-through-test-campaign-spacex-ipo-launches-friday/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781262013
+    },
+    {
+      "title": "Final Fantasy 7 Revelation Director Says Gameplay Streams Pose a Huge Challenge to RPGs",
+      "link": "https://www.ign.com/articles/final-fantasy-7-revelation-director-says-gameplay-streams-pose-a-huge-challenge-to-rpgs",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781259535
+    },
+    {
+      "title": "Pharma giant Novo Nordisk discloses breach of clinical trials data",
+      "link": "https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781259199
+    },
+    {
+      "title": "No, Pokémon Go Data Isn't Being Used to Train Military Drones, Niantic Spatial Insists",
+      "link": "https://www.ign.com/articles/no-pokmon-go-data-isnt-being-used-to-train-military-drones-niantic-spatial-insists",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781258970
+    },
+    {
+      "title": "SpaceX goes public with a mind-bogglingly historic IPO today. The space industry may never be the same.",
       "link": "https://www.space.com/space-exploration/private-spaceflight/spacex-to-go-public-with-a-mind-bogglingly-historic-ipo-today-the-space-industry-may-never-be-the-same",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781258400
+    },
+    {
+      "title": "Crimson Desert's Journey to Becoming an Actual Pet Simulator Is Pretty Much Complete With Latest Patch",
+      "link": "https://www.ign.com/articles/crimson-deserts-journey-to-becoming-an-actual-pet-simulator-is-pretty-much-complete-with-latest-patch",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781257854
+    },
+    {
+      "title": "The missing notebooks that solved a 55-million-year-old fossil mystery",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260612032038.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1781255742
     },
     {
       "title": "CISA orders feds to patch actively exploited Ivanti flaw by Sunday",
@@ -21,6 +182,20 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1781248151
+    },
+    {
+      "title": "A legendary golden fabric lost for 2,000 years has returned",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260612021000.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1781247775
+    },
+    {
+      "title": "Ancient DNA shared with Neanderthals may explain human language",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260611024612.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1781241207
     },
     {
       "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
@@ -289,13 +464,6 @@
       "timestamp": 1781190108
     },
     {
-      "title": "Microsoft taps Alt Carbon in sign of India’s growing role in carbon removal",
-      "link": "https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781190000
-    },
-    {
       "title": "Grab our best telescope for beginners with $100 off the Celestron NexStar 4SE",
       "link": "https://www.space.com/stargazing/skywatching-kit/grab-our-best-telescope-for-beginners-with-100-dollars-off-the-celestron-nexstar-4se",
       "source": "SPACE",
@@ -305,13 +473,6 @@
     {
       "title": "Award-Winning Adventure Game The Drifter Will Arrive on Nintendo Switch Later This Month",
       "link": "https://www.ign.com/articles/award-winning-adventure-game-the-drifter-will-arrive-on-nintendo-switch-later-this-month",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781190000
-    },
-    {
-      "title": "Ninja Scroll Gets Exclusive 4K Restoration and New Trailer Ahead of Theatrical Re-Release",
-      "link": "https://www.ign.com/articles/ninja-scroll-4k-restoration-trailer-release-news",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1781190000
@@ -329,13 +490,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781188748
-    },
-    {
-      "title": "Dead by Daylight the 'Most-Played Horror Game in History,' Its Developer Has Said",
-      "link": "https://www.ign.com/articles/dead-by-daylight-the-most-played-horror-game-in-history-its-developer-has-said",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781186667
     },
     {
       "title": "Why AI-driven threats are exposing the limits of MSP security stacks",
@@ -364,13 +518,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781185498
-    },
-    {
-      "title": "Avatar: The Last Airbender Toph Actress Wore Contacts That Completely Blocked Her Vision on Set",
-      "link": "https://www.ign.com/articles/avatar-the-last-airbender-toph-actress-wore-contacts-that-completely-blocked-her-vision-on-set",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781184371
     },
     {
       "title": "Alaskans will be flying blind after NSF decommissions ocean monitoring network",
@@ -443,13 +590,6 @@
       "timestamp": 1781179371
     },
     {
-      "title": "Doctor Who Likely Now Off Air For Years, as Report Suggests Production Companies Cautious About Continuing Series",
-      "link": "https://www.ign.com/articles/doctor-who-likely-now-off-air-for-years-as-report-suggests-production-companies-cautious-about-continuing-series",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781179219
-    },
-    {
       "title": "Why do stars appear different colors in the night sky?",
       "link": "https://www.space.com/stargazing/why-do-stars-appear-different-colors-in-the-night-sky",
       "source": "SPACE",
@@ -464,13 +604,6 @@
       "timestamp": 1781178424
     },
     {
-      "title": "Penguin Is in The Batman 2 for Just 2 Scenes, Colin Farrell Reveals Script Impressions",
-      "link": "https://www.ign.com/articles/penguin-is-in-the-batman-2-for-just-2-scenes-colin-farrell-reveals-script-impressions",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781177025
-    },
-    {
       "title": "2026 NBA Mock Draft: Mikel Brown Jr. slips into top 6 in Gary Parrish's most recent first round predictions",
       "link": "https://www.cbssports.com/nba/news/2026-nba-mock-draft-mikel-brown/",
       "source": "CBSSPORTS",
@@ -483,20 +616,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1781175632
-    },
-    {
-      "title": "Star Trek: Shadow Frontier — Paramount Says 'The Goal Is for Bloober to Make the Best Star Trek Game of All Time'",
-      "link": "https://www.ign.com/articles/star-trek-shadow-frontier-paramount-says-the-goal-is-for-bloober-to-make-the-best-star-trek-game-of-all-time",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781175329
-    },
-    {
-      "title": "1666: Amsterdam Developer Admits Using AI Assets and Apologizes, Says They'll Now Be Replaced",
-      "link": "https://www.ign.com/articles/1666-amsterdam-developer-admits-using-ai-assets-and-apologizes-says-theyll-now-be-replaced",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781172286
     },
     {
       "title": "Elon Musk wants to put 1 million AI satellites in space. Here's how SpaceX could do it",
@@ -597,25 +716,11 @@
       "timestamp": 1781127044
     },
     {
-      "title": "NBA player prop picks, odds: Three best 2026 NBA Finals prop bets for Knicks vs. Spurs, Game 4",
-      "link": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-three-best-2026-nba-finals-prop-bets-for-knicks-vs-spurs-game-4/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781126951
-    },
-    {
       "title": "Path traversal flaw in AI dev platform Langflow exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1781126624
-    },
-    {
-      "title": "Knicks vs. Spurs Game 4 odds, prediction: NBA Finals pick as San Antonio looks to even series",
-      "link": "https://www.cbssports.com/nba/news/knicks-spurs-game-4-odds-prediction-nba-finals-tv-channel/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781125417
     },
     {
       "title": "James Webb Space Telescope finds evidence the mysterious 'little red dots' are black hole stars",
@@ -625,81 +730,11 @@
       "timestamp": 1781125200
     },
     {
-      "title": "The ‘Miasma’ worm source code briefly leaked on GitHub",
-      "link": "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781123228
-    },
-    {
       "title": "NASA chief defends all-male Artemis 3 astronaut crew amid backlash: 'I don't think anyone should be reading into this'",
       "link": "https://www.space.com/space-exploration/artemis/nasa-chief-defends-all-male-artemis-3-astronaut-crew-amid-backlash-i-dont-think-anyone-should-be-reading-into-this",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781121600
-    },
-    {
-      "title": "Logitech’s foldable mouse is for people who refuse to carry a mouse with them",
-      "link": "https://arstechnica.com/gadgets/2026/06/logitechs-mobi-fold-folds-for-travel-but-i-prefer-a-different-portable-mouse/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781121476
-    },
-    {
-      "title": "GitHub announces npm security changes to tackle supply-chain attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781120504
-    },
-    {
-      "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
-      "link": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781119761
-    },
-    {
-      "title": "'Voltron: Legendary Defender' turns 10 today, and we think this mecha robot reboot was just as good as 'Power Rangers' and 'Transformers'",
-      "link": "https://www.space.com/entertainment/space-movies-shows/voltron-legendary-defender-turns-10-today-and-we-think-this-mecha-robot-reboot-was-just-as-good-as-power-rangers-and-transformers",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781118000
-    },
-    {
-      "title": "The asteroid that wiped out the dinosaurs may have created a vast underground habitat for life that lasted 8 million years",
-      "link": "https://www.space.com/astronomy/asteroids/the-asteroid-that-wiped-out-the-dinosaurs-may-have-created-a-vast-underground-habitat-for-life-that-lasted-8-million-years",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781114400
-    },
-    {
-      "title": "We managed to glean some interesting details about the Artemis III mission",
-      "link": "https://arstechnica.com/space/2026/06/we-managed-to-glean-some-interesting-details-about-the-artemis-iii-mission/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781112673
-    },
-    {
-      "title": "'Doctor Who' Christmas Special is cancelled as Russell T. Davies departs the show: What does this mean for the future of Doctor Who?",
-      "link": "https://www.space.com/entertainment/space-movies-shows/doctor-who-christmas-special-is-cancelled-as-russell-t-davies-departs-the-show-what-does-this-mean-for-the-future-of-doctor-who",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781112600
-    },
-    {
-      "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
-      "link": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781111971
-    },
-    {
-      "title": "Cheap Iranian drone downed $25 million US Army helicopter—maybe by chance",
-      "link": "https://arstechnica.com/gadgets/2026/06/cheap-iranian-drone-downed-25-million-us-army-helicopter-maybe-by-chance/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781111087
     },
     {
       "title": "Scientists propose a radical new theory for how life began on Earth",
@@ -735,41 +770,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781003890
-    },
-    {
-      "title": "Stonehenge's most mysterious stone traveled 700 kilometers across Britain",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260608040003.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1780994549
-    },
-    {
-      "title": "Planet nine mystery deepens as new discovery challenges hidden planet theory",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260608040009.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1780969922
-    },
-    {
-      "title": "Scientists found a new Alzheimer’s trigger and a drug that stops it",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260608035959.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1780961013
-    },
-    {
-      "title": "Scientists discover the brain chemical that helps you break bad habits",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260606075901.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1780918701
-    },
-    {
-      "title": "What is space-time? A mystery at the heart of reality",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260606075858.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1780918081
     }
   ]
 }
