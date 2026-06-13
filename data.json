@@ -1,6 +1,27 @@
 {
-  "last_updated": 1781309882,
+  "last_updated": 1781327925,
   "items": [
+    {
+      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781324059
+    },
+    {
+      "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+      "link": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781319634
+    },
+    {
+      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781317590
+    },
     {
       "title": "SpaceX IPO: Live updates on everything you need to know",
       "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
@@ -436,13 +457,6 @@
       "timestamp": 1781262708
     },
     {
-      "title": "Verizon sent man a refurbished phone with MDM, then deleted his data remotely",
-      "link": "https://arstechnica.com/tech-policy/2026/06/verizon-sent-man-a-refurbished-phone-with-mdm-then-deleted-his-data-remotely/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781262041
-    },
-    {
       "title": "Final Fantasy 7 Revelation Director Says Gameplay Streams Pose a Huge Challenge to RPGs",
       "link": "https://www.ign.com/articles/final-fantasy-7-revelation-director-says-gameplay-streams-pose-a-huge-challenge-to-rpgs",
       "source": "IGN",
@@ -560,20 +574,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1781217898
-    },
-    {
-      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-      "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781209990
-    },
-    {
-      "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
-      "link": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781209645
     },
     {
       "title": "SpaceX sends 24 Starlink satellites into orbit as market awaits IPO launch (video)",
