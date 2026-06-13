@@ -1,6 +1,27 @@
 {
-  "last_updated": 1781340847,
+  "last_updated": 1781349109,
   "items": [
+    {
+      "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
+      "link": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781348400
+    },
+    {
+      "title": "US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos",
+      "link": "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781344892
+    },
+    {
+      "title": "How Japanese scientists sent a real-life Transformer to the moon",
+      "link": "https://www.space.com/astronomy/moon/how-japanese-scientists-sent-a-real-life-transformer-to-the-moon",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781344800
+    },
     {
       "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
       "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
@@ -555,13 +576,6 @@
       "timestamp": 1781228887
     },
     {
-      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-      "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781226278
-    },
-    {
       "title": "Japanese energy firm loses drive with data of 10.9 million clients",
       "link": "https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/",
       "source": "BLEEPINGCOMPUTER",
@@ -625,13 +639,6 @@
       "timestamp": 1781193341
     },
     {
-      "title": "Grab our best telescope for beginners with $100 off the Celestron NexStar 4SE",
-      "link": "https://www.space.com/stargazing/skywatching-kit/grab-our-best-telescope-for-beginners-with-100-dollars-off-the-celestron-nexstar-4se",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781190000
-    },
-    {
       "title": "How Karl-Anthony Towns saved the Knicks' historic Game 4 comeback with the tip of a finger -- literally",
       "link": "https://www.cbssports.com/nba/news/nba-finals-game-4-knicks-spurs-karl-anthony-towns/",
       "source": "CBSSPORTS",
@@ -665,13 +672,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781183336
-    },
-    {
-      "title": "Coupang hit with record $409 million data breach fine in Korea",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781182361
     },
     {
       "title": "Knicks stun Spurs with biggest NBA Finals comeback in history; World Cup starts today",
