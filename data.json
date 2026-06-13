@@ -1,6 +1,34 @@
 {
-  "last_updated": 1781302967,
+  "last_updated": 1781309882,
   "items": [
+    {
+      "title": "SpaceX IPO: Live updates on everything you need to know",
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781306114
+    },
+    {
+      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+      "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781305254
+    },
+    {
+      "title": "The Batman Part 2 Officially Begins Filming as Matt Reeves Shares First Set Image",
+      "link": "https://www.ign.com/articles/the-batman-part-2-filming-begins-set-image",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781304540
+    },
+    {
+      "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
+      "link": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781302806
+    },
     {
       "title": "Ever have a scary HR meeting on your calendar? That's how the Artemis 3 crew found out their assignments",
       "link": "https://www.space.com/space-exploration/artemis/ever-have-a-scary-hr-meeting-on-your-calendar-thats-how-the-artemis-3-crew-found-out-their-assignments",
@@ -49,13 +77,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781294790
-    },
-    {
-      "title": "SpaceX IPO: Live updates on everything you need to know",
-      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781294678
     },
     {
       "title": "Japan's H3 rocket bounces back from failure with successful return to flight launch carrying 6 satellites",
@@ -422,13 +443,6 @@
       "timestamp": 1781262041
     },
     {
-      "title": "Rocket Report: Nova moving through test campaign; SpaceX IPO launches Friday",
-      "link": "https://arstechnica.com/space/2026/06/rocket-report-nova-moving-through-test-campaign-spacex-ipo-launches-friday/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781262013
-    },
-    {
       "title": "Final Fantasy 7 Revelation Director Says Gameplay Streams Pose a Huge Challenge to RPGs",
       "link": "https://www.ign.com/articles/final-fantasy-7-revelation-director-says-gameplay-streams-pose-a-huge-challenge-to-rpgs",
       "source": "IGN",
@@ -534,13 +548,6 @@
       "timestamp": 1781226278
     },
     {
-      "title": "Valor Mortis Gets Short Delay to Avoid September's Onslaught of Game Releases",
-      "link": "https://www.ign.com/articles/valor-mortis-gets-short-delay-to-avoid-septembers-onslaught-of-game-releases",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781224832
-    },
-    {
       "title": "Japanese energy firm loses drive with data of 10.9 million clients",
       "link": "https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/",
       "source": "BLEEPINGCOMPUTER",
@@ -574,13 +581,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781208000
-    },
-    {
-      "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
-      "link": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781207881
     },
     {
       "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
