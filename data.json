@@ -1,6 +1,20 @@
 {
-  "last_updated": 1781457498,
+  "last_updated": 1781464915,
   "items": [
+    {
+      "title": "Timothée Chalamet Takes Shot at the Oscars After Knicks Win NBA Championship",
+      "link": "https://www.ign.com/articles/timothee-chalamet-takes-shot-at-the-oscars-after-knicks-win-nba-championship",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781457808
+    },
+    {
+      "title": "Knicks' Jalen Brunson joins Michael Jordan, Kareem Abdul-Jabbar among few to achieve remarkable career feat",
+      "link": "https://www.cbssports.com/nba/news/knicks-jalen-brunson-nba-finals-mvp-champion-ncaa-college/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781457705
+    },
     {
       "title": "As AI companies race to go public, who else is along for the ride?",
       "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
@@ -65,17 +79,17 @@
       "timestamp": 1781446908
     },
     {
-      "title": "The new Sonos Play has become my go-to desk and kitchen speaker",
-      "link": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781445600
-    },
-    {
       "title": "How Jules Verne predicted the Artemis 2 mission to the moon almost 160 years ago",
       "link": "https://www.space.com/entertainment/how-jules-verne-predicted-the-artemis-2-mission-to-the-moon-almost-160-years-ago",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1781445600
+    },
+    {
+      "title": "The new Sonos Play has become my go-to desk and kitchen speaker",
+      "link": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
       "timestamp": 1781445600
     },
     {
@@ -280,13 +294,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1781377901
-    },
-    {
-      "title": "Cavaliers' James Harden arrested in Houston for unlawful carrying of a weapon",
-      "link": "https://www.cbssports.com/nba/news/james-harden-arrest-unlawful-carrying-of-a-weapon/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781375489
     },
     {
       "title": "Review: Disclosure Day is big on action, light on ideas",
@@ -665,13 +672,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1781278477
-    },
-    {
-      "title": "‘Damn Shame’ — Canceled Warhammer Horus Heresy MMO Was ‘Shaping Up Nicely’",
-      "link": "https://www.ign.com/articles/damn-shame-canceled-warhammer-horus-heresy-mmo-was-shaping-up-nicely",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781278044
     },
     {
       "title": "Lawsuit: ChatGPT validated suicidal woman's distrust of crisis lines",
