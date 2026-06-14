@@ -1,6 +1,62 @@
 {
-  "last_updated": 1781445392,
+  "last_updated": 1781452121,
   "items": [
+    {
+      "title": "Ranking NBA's eight recent champions by their chances to win another title",
+      "link": "https://www.cbssports.com/nba/news/ranking-nba-recent-champion-title-chances-knicks/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781449655
+    },
+    {
+      "title": "Catch Mercury shining at its best on June 15 before it slips back into the sun's glare",
+      "link": "https://www.space.com/stargazing/catch-mercury-shining-at-its-best-on-june-15-before-it-slips-back-into-the-suns-glare",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781449200
+    },
+    {
+      "title": "The Spurs' ahead-of-schedule season ended bitterly, but they'll be title favorites for years to come",
+      "link": "https://www.cbssports.com/nba/news/spurs-ahead-of-schedule-season-title-favorites/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781448347
+    },
+    {
+      "title": "FBI disrupts massive AI-powered phishing service using a million URLs",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781447783
+    },
+    {
+      "title": "NBA Finals winners and losers: Every Knicks move looks brilliant, Victor Wembanyama blows golden opportunity",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-finals-winners-and-losers-knicks-spurs/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781446908
+    },
+    {
+      "title": "The new Sonos Play has become my go-to desk and kitchen speaker",
+      "link": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781445600
+    },
+    {
+      "title": "How Jules Verne predicted the Artemis 2 mission to the moon almost 160 years ago",
+      "link": "https://www.space.com/entertainment/how-jules-verne-predicted-the-artemis-2-mission-to-the-moon-almost-160-years-ago",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781445600
+    },
+    {
+      "title": "How the NBA champion New York Knicks can run it back: Roster gets expensive, but the core can stay intact",
+      "link": "https://www.cbssports.com/nba/news/new-york-knicks-roster-run-it-back/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781445037
+    },
     {
       "title": "New moon of June 2026 brings stunning views of Mercury, Venus and Jupiter",
       "link": "https://www.space.com/stargazing/new-moon-of-june-2026-brings-stunning-views-of-mercury-venus-and-jupiter",
@@ -84,13 +140,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781411229
-    },
-    {
-      "title": "NBA Finals winners and losers: Every Knicks move looks brilliant, Victor Wembanyama blows golden opportunity",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-finals-winners-and-losers-knicks-spurs/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781411029
     },
     {
       "title": "2026 NBA playoff bracket, schedule: Knicks top Spurs in Game 5, win first championship in 53 years",
@@ -233,25 +282,11 @@
       "timestamp": 1781369238
     },
     {
-      "title": "Knicks' Jose Alvarado was built for this NBA Finals moment: 'He is New York'",
-      "link": "https://www.cbssports.com/nba/news/knicks-jose-alvarado-nba-finals-moment-new-york-spurs/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781367785
-    },
-    {
       "title": "This thin under-pillow speaker helped me fall asleep without earbuds",
       "link": "https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1781366400
-    },
-    {
-      "title": "Knicks vs. Spurs Game 5 predictions, odds: Expert picks as New York tries to clinch title",
-      "link": "https://www.cbssports.com/nba/news/knicks-spurs-game-5-predictions-odds-expert-score-picks/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781365647
     },
     {
       "title": "Xbox Reportedly Speeding Up New Elder Scrolls, Fallout, and Halo Games as Microsoft Leaves Spinning Off the Business on the Table",
@@ -415,13 +450,6 @@
       "timestamp": 1781301600
     },
     {
-      "title": "Today's top games to watch, best bets, odds: USMNT World Cup opener, MLB and more",
-      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-usmnt-world-cup-opener-mlb-and-more/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781300323
-    },
-    {
       "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
       "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
       "source": "TECHCRUNCH",
@@ -562,13 +590,6 @@
       "timestamp": 1781284729
     },
     {
-      "title": "Robinhood sees ‘record-breaking’ traffic after SpaceX stock debuts",
-      "link": "https://techcrunch.com/2026/06/12/robinhood-sees-record-breaking-traffic-after-spacex-stock-debuts/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781283906
-    },
-    {
       "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
       "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
       "source": "BLEEPINGCOMPUTER",
@@ -674,25 +695,11 @@
       "timestamp": 1781269999
     },
     {
-      "title": "The critical robot arm on the ISS isn't working properly, but NASA has a plan to fix it",
-      "link": "https://www.space.com/space-exploration/international-space-station/the-critical-robot-arm-on-the-iss-isnt-working-properly-but-nasa-has-a-plan-to-fix-it",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781269200
-    },
-    {
       "title": "Xbox Studio Shutdowns and Ad-Funded Subscriptions Likely After Asha Sharma's Stark 'Reset' Warning, Analysts Say",
       "link": "https://www.ign.com/articles/xbox-studio-shutdowns-and-ad-funded-subscriptions-likely-after-asha-sharmas-stark-reset-warning-analysts-say",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1781268931
-    },
-    {
-      "title": "My quiet obsession with satellites — and how they're ruining everything",
-      "link": "https://www.space.com/stargazing/my-quiet-obsession-with-satellites-and-how-theyre-ruining-everything",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781265600
     },
     {
       "title": "Giant underground neutrino detector brings scientists closer to cracking the neutrino puzzle",
@@ -770,13 +777,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1781217898
-    },
-    {
-      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781206793
     }
   ]
 }
