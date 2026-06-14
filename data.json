@@ -1,6 +1,27 @@
 {
-  "last_updated": 1781424800,
+  "last_updated": 1781436500,
   "items": [
+    {
+      "title": "'We were astonished': Millions of exoplanets could be born near active supermassive black holes",
+      "link": "https://www.space.com/astronomy/exoplanets/we-were-astonished-millions-of-exoplanets-could-be-born-near-active-supermassive-black-holes",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781431200
+    },
+    {
+      "title": "A dying star could create a new universe instead of a black hole",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260614011846.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1781424511
+    },
+    {
+      "title": "Millipedes beat vertebrates to land by 80 million years",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260613034213.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1781422414
+    },
     {
       "title": "Knicks' Jalen Brunson disproves the 'small guy' doubters as he wins Finals MVP",
       "link": "https://www.cbssports.com/nba/news/knicks-jalen-brunson-nba-finals-mvp/",
@@ -21,6 +42,13 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781415363
+    },
+    {
+      "title": "Scientists discover parrots may actually use names",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260613034232.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1781414776
     },
     {
       "title": "Is Jalen Brunson the greatest Knicks player of all time? Making his case after ending 53-year title drought",
@@ -44,6 +72,13 @@
       "timestamp": 1781412415
     },
     {
+      "title": "Yellowstone wolves may not have reshaped the national park after all",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260613215510.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1781411229
+    },
+    {
       "title": "NBA Finals winners and losers: Every Knicks move looks brilliant, Victor Wembanyama blows golden opportunity",
       "link": "https://www.cbssports.com/nba/news/2026-nba-finals-winners-and-losers-knicks-spurs/",
       "source": "CBSSPORTS",
@@ -63,6 +98,20 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1781406000
+    },
+    {
+      "title": "Why middle age is becoming a breaking point in the U.S.",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260613215430.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1781403852
+    },
+    {
+      "title": "Ancient Denisovan DNA still shapes human immunity today",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260613034210.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1781401954
     },
     {
       "title": "Rockstar Co-Founder Dan Houser Says There’s No Right Way to Play an Open-World Game",
@@ -723,60 +772,11 @@
       "timestamp": 1781217898
     },
     {
-      "title": "SpaceX sends 24 Starlink satellites into orbit as market awaits IPO launch (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-44-b1071-vsfb-ocisly",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781208000
-    },
-    {
       "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1781206793
-    },
-    {
-      "title": "Scientists built a battery-free device that turns sunlight into fuel",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260611024601.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1781185498
-    },
-    {
-      "title": "The 1,100-year-old mystery of Montana’s lost bison hunting site finally solved",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260610003056.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1781183336
-    },
-    {
-      "title": "Scientists discover a strange property in rice and turn it into a smart material",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260611024621.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1781180992
-    },
-    {
-      "title": "NASA reveals Artemis III crew for one of the most complex space missions ever",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260611024606.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1781179371
-    },
-    {
-      "title": "James Webb reveals two completely different twilights on an alien world",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260611024559.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1781178424
-    },
-    {
-      "title": "AI could uncover new physics faster but there’s a surprising catch",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260611024557.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1781169375
     }
   ]
 }
