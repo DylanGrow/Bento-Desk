@@ -1,6 +1,34 @@
 {
-  "last_updated": 1781452121,
+  "last_updated": 1781457498,
   "items": [
+    {
+      "title": "As AI companies race to go public, who else is along for the ride?",
+      "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781455089
+    },
+    {
+      "title": "TechCrunch Mobility: SpaceX rockets past Tesla",
+      "link": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781453100
+    },
+    {
+      "title": "Did a medieval flying monk spot Halley's comet, twice? It's complicated",
+      "link": "https://arstechnica.com/science/2026/06/did-a-medieval-flying-monk-spot-halleys-comet-twice-its-complicated/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781452973
+    },
+    {
+      "title": "Super Mario Bros. Copy Sells for Record-Breaking $3 Million at Auction",
+      "link": "https://www.ign.com/articles/super-mario-bros-copy-sells-for-record-breaking-3-million-at-auction",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781451813
+    },
     {
       "title": "Ranking NBA's eight recent champions by their chances to win another title",
       "link": "https://www.cbssports.com/nba/news/ranking-nba-recent-champion-title-chances-knicks/",
@@ -492,13 +520,6 @@
       "timestamp": 1781292812
     },
     {
-      "title": "SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger",
-      "link": "https://techcrunch.com/2026/06/12/spacex-president-gwynne-shotwell-just-gave-another-hint-at-a-tesla-merger/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781292511
-    },
-    {
       "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
       "link": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
       "source": "ARSTECHNICA",
@@ -567,13 +588,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1781286868
-    },
-    {
-      "title": "Mistral is rumored to be raising €3B at €20B valuation",
-      "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781285891
     },
     {
       "title": "Elden Ring Director Insists FromSoftware Is Free to Make the Games It Wants To, Teases 'Unannounced Titles'",
@@ -695,25 +709,11 @@
       "timestamp": 1781269999
     },
     {
-      "title": "Xbox Studio Shutdowns and Ad-Funded Subscriptions Likely After Asha Sharma's Stark 'Reset' Warning, Analysts Say",
-      "link": "https://www.ign.com/articles/xbox-studio-shutdowns-and-ad-funded-subscriptions-likely-after-asha-sharmas-stark-reset-warning-analysts-say",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781268931
-    },
-    {
       "title": "Giant underground neutrino detector brings scientists closer to cracking the neutrino puzzle",
       "link": "https://www.sciencedaily.com/releases/2026/06/260612032026.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781265470
-    },
-    {
-      "title": "Cameras, sensors, and 3D body scans: All the tech helping eliminate blown calls",
-      "link": "https://arstechnica.com/gadgets/2026/06/cameras-sensors-and-3d-body-scans-all-the-tech-helping-eliminate-blown-calls/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781264718
     },
     {
       "title": "Microsoft fixes Windows update failures linked to WUSA installer",
