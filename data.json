@@ -1,12 +1,236 @@
 {
-  "last_updated": 1781540141,
+  "last_updated": 1781554985,
   "items": [
+    {
+      "title": "UK to ban social media for kids under 16, may impose overnight curfews",
+      "link": "https://arstechnica.com/tech-policy/2026/06/uk-to-ban-social-media-for-kids-under-16-may-impose-overnight-curfews/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781554444
+    },
+    {
+      "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781554012
+    },
+    {
+      "title": "Astrobotic unveils Griffin-1 lunar lander for NASA Moon Base mission",
+      "link": "https://www.space.com/space-exploration/astrobotic-unveils-griffin-1-lunar-lander-for-nasa-moon-base-mission",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781553600
+    },
+    {
+      "title": "SpaceX sends 24 Starlink satellites to orbit on 1st launch as a public company (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-54-b1093-vsfb-ocisly",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781551661
+    },
+    {
+      "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
+      "link": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781550422
+    },
+    {
+      "title": "These are the 7 best sci-fi games I saw at Summer Game Fest 2026",
+      "link": "https://www.space.com/entertainment/space-games/these-are-the-7-best-sci-fi-games-i-saw-at-summer-game-fest-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781550000
+    },
+    {
+      "title": "A Chinese rocket breaks apart dangerously close to the Starlink constellation",
+      "link": "https://arstechnica.com/space/2026/06/a-chinese-rocket-breaks-apart-dangerously-close-to-the-starlink-constellation/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781549741
+    },
+    {
+      "title": "The Muppets Take the Marvel Universe: Marvel Reveals Kooky Crossover Special",
+      "link": "https://www.ign.com/articles/the-muppets-take-the-marvel-universe-marvel-reveals-kooky-crossover-special",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781548910
+    },
+    {
+      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+      "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781548258
+    },
+    {
+      "title": "SpaceX is public: Everything you need to know post-IPO",
+      "link": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781548234
+    },
+    {
+      "title": "Fox’s $22B Roku acquisition aims to expand its reach into smart TVs, advertising",
+      "link": "https://arstechnica.com/gadgets/2026/06/foxs-22b-roku-acquisition-aims-to-expand-its-reach-into-smart-tvs-advertising/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781548187
+    },
+    {
+      "title": "Bulls reportedly hiring Tiago Splitter as head coach as Chicago looks for fresh start",
+      "link": "https://www.cbssports.com/nba/news/bulls-tiago-splitter-head-coach/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781546404
+    },
+    {
+      "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
+      "link": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781546146
+    },
+    {
+      "title": "These are the countries moving to ban social media for children",
+      "link": "https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781545262
+    },
+    {
+      "title": "Fox Is Buying Roku for $22 Billion",
+      "link": "https://www.ign.com/articles/fox-is-buying-roku-for-22-billion",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781545120
+    },
+    {
+      "title": "OptinMonster WordPress plugin hacked in CDN supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781545027
+    },
+    {
+      "title": "NBA rumors: Celtics have made an offer for Giannis Antetokounmpo; Aaron Gordon drawing interest",
+      "link": "https://www.cbssports.com/nba/news/nba-trade-rumors-giannis-antetokounmpo-celtics-offer-nuggets-aaron-gordon/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781544861
+    },
+    {
+      "title": "Obsession Director Curry Barker Says He's in No Rush to Make Obsession 2",
+      "link": "https://www.ign.com/articles/obsession-director-curry-barker-says-hes-in-no-rush-to-make-obsession-2",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781544432
+    },
+    {
+      "title": "Giannis Antetokounmpo trade destinations: Final ranking of 12 landing spots, from Heat to mystery teams",
+      "link": "https://www.cbssports.com/nba/news/giannis-antetokounmpo-trade-destinations-final-landing-spots/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781544183
+    },
+    {
+      "title": "2026 NBA Draft Scouting: The strengths, upside and risks of the draft's four premier lead guards",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-draft-darius-acuff-keaton-wagler-mikel-brown-kingston-flemings/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781543900
+    },
+    {
+      "title": "Spider-Man: Brand New Day Official Synopsis Teases Mysterious New Villain That 'No One Can See'",
+      "link": "https://www.ign.com/articles/spider-man-brand-new-day-official-synopsis-teases-mysterious-new-villain-that-no-one-can-see",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781543620
+    },
+    {
+      "title": "What can other teams learn from the Knicks' championship? Why roster may be most anomalous in NBA history",
+      "link": "https://www.cbssports.com/nba/news/knicks-champion-roster-building-anomaly/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781543566
+    },
+    {
+      "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781543562
+    },
+    {
+      "title": "Ubisoft Bids Farewell to Assassin's Creed Shadows With Final Story Update",
+      "link": "https://www.ign.com/articles/ubisoft-bids-farewell-to-assassins-creed-shadows-with-final-story-update",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781543223
+    },
+    {
+      "title": "The First-Ever Official Studio Ghibli Store in the U.S. Is Opening Later This Month in Los Angeles",
+      "link": "https://www.ign.com/articles/exclusive-the-first-ever-official-studio-ghibli-store-in-the-us-is-opening-later-this-month-in-los-angeles",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781542800
+    },
+    {
+      "title": "'Everybody came with their A-game': Oscar-winning sound editor Andy Nelson talks reuniting with Spielberg & John Williams for 'Disclosure Day'",
+      "link": "https://www.space.com/entertainment/space-movies-shows/oscar-winning-sound-editor-andy-nelson-talks-reuniting-with-spielberg-and-john-williams-for-disclosure-day",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781542800
+    },
+    {
+      "title": "Microsoft Has Reportedly Shut Down South of Midnight Developer Compulsion Games",
+      "link": "https://www.ign.com/articles/microsoft-has-reportedly-shut-down-south-of-midnight-developer-compulsion-games",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781541768
+    },
+    {
+      "title": "Council of Europe investigates ShinyHunters data breach claims",
+      "link": "https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781541431
+    },
+    {
+      "title": "20 years of Intel Macs: Why Apple switched, and why it switched again",
+      "link": "https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781541134
+    },
+    {
+      "title": "Knicks championship run stacks up against best in history, but that's not the point",
+      "link": "https://www.cbssports.com/nba/news/knicks-championship-run-history/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781540922
+    },
+    {
+      "title": "Good news—we have extra time before the Sun ends life on Earth",
+      "link": "https://arstechnica.com/science/2026/06/good-news-we-have-extra-time-before-the-sun-ends-life-on-earth/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781540897
+    },
     {
       "title": "NASA X-ray spacecraft discovers supernova wreckage at the heart of the Milky Way",
       "link": "https://www.space.com/astronomy/stars/nasa-x-ray-spacecraft-discovers-supernova-wreckage-at-the-heart-of-the-milky-way",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781539200
+    },
+    {
+      "title": "LEGO Reveals First Look at KPop Demon Hunters Set",
+      "link": "https://www.ign.com/articles/lego-reveals-first-look-at-kpop-demon-hunters-set",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781538348
     },
     {
       "title": "FBI: Fraudsters use couriers to steal money in crypto scams",
@@ -30,17 +254,17 @@
       "timestamp": 1781537117
     },
     {
-      "title": "Live from the moon! How lasers connected us all to NASA's Artemis 2 astronauts on their epic lunar trip",
-      "link": "https://www.space.com/astronomy/moon/live-from-the-moon-how-lasers-connected-us-all-to-nasas-artemis-2-astronauts-on-their-epic-lunar-trip",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781535600
-    },
-    {
       "title": "EXCLUSIVE: Dr. Stone Comes to Fortnite With Crunchyroll Anime Island",
       "link": "https://www.ign.com/articles/exclusive-dr-stone-comes-to-fortnite-with-crunchyroll-anime-island",
       "source": "IGN",
       "category": "gaming",
+      "timestamp": 1781535600
+    },
+    {
+      "title": "Live from the moon! How lasers connected us all to NASA's Artemis 2 astronauts on their epic lunar trip",
+      "link": "https://www.space.com/astronomy/moon/live-from-the-moon-how-lasers-connected-us-all-to-nasas-artemis-2-astronauts-on-their-epic-lunar-trip",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1781535600
     },
     {
@@ -86,18 +310,11 @@
       "timestamp": 1781532000
     },
     {
-      "title": "Hubble spies a swarm of stars in a strange, irregular galaxy | Space photo of the day for 15, 2026",
+      "title": "Hubble spies a swarm of stars in a strange, irregular galaxy | Space photo of the day for June 15, 2026",
       "link": "https://www.space.com/astronomy/hubble-space-telescope/hubble-spies-a-swarm-of-stars-in-a-strange-irregular-galaxy-space-photo-of-the-day-for-15-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781532000
-    },
-    {
-      "title": "Knicks championship run stacks up against best in history, but that's not the point",
-      "link": "https://www.cbssports.com/nba/news/knicks-championship-run-history/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781531769
     },
     {
       "title": "Russia appears set to finally address long-term, serious space station cracks",
@@ -114,7 +331,7 @@
       "timestamp": 1781531168
     },
     {
-      "title": "Fox to acquire Roku in $22 billion deal",
+      "title": "Fox to acquire Roku in $22B deal",
       "link": "https://techcrunch.com/2026/06/15/fox-to-acquire-roku-in-22-billion-deal/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -240,20 +457,6 @@
       "timestamp": 1781517402
     },
     {
-      "title": "Under-16s to Be Banned From Social Media, UK Prime Minister Keir Starmer Says",
-      "link": "https://www.ign.com/articles/under-16s-to-be-banned-from-social-media-uk-prime-minister-keir-starmer-says",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781515719
-    },
-    {
-      "title": "Nintendo Removes Hidden The Legend of Zelda: Ocarina of Time Switch 2 Description That Suggested It's a Faithful Remake",
-      "link": "https://www.ign.com/articles/nintendo-removes-hidden-the-legend-of-zelda-ocarina-of-time-switch-2-description-that-suggested-its-a-faithful-remake",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781514011
-    },
-    {
       "title": "Scientists turned red lettuce green and something surprising happened",
       "link": "https://www.sciencedaily.com/releases/2026/06/260614011854.htm",
       "source": "SCIENCEDAILY",
@@ -289,53 +492,11 @@
       "timestamp": 1781496060
     },
     {
-      "title": "Dead by Daylight Terrifier Chapter Reveal Promises Art the Clown for November 2026",
-      "link": "https://www.ign.com/articles/dead-by-daylight-terrifier-chapter-reveal-promises-art-the-clown-for-november-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781495155
-    },
-    {
-      "title": "Director Confirmed for Upcoming Dead by Daylight Movie",
-      "link": "https://www.ign.com/articles/director-confirmed-for-upcoming-dead-by-daylight-movie",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781491701
-    },
-    {
-      "title": "Dead by Daylight 10th Anniversary Broadcast: Everything Announced",
-      "link": "https://www.ign.com/articles/dead-by-daylight-10th-anniversary-broadcast-everything-announced",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781478090
-    },
-    {
-      "title": "2026 Pokémon World Championships TCG Promo Cards, More, Revealed",
-      "link": "https://www.ign.com/articles/pokemon-world-championships-2026-promo-cards-competitors-merch-revealed",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781475379
-    },
-    {
-      "title": "Pokémon North America International Championships Moving to Chicago in 2027",
-      "link": "https://www.ign.com/articles/pokemon-north-america-international-championships-moving-to-chicago-in-2027",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781474706
-    },
-    {
       "title": "Startup CEO Charlie Javice is reportedly angling for a Trump pardon",
       "link": "https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1781474134
-    },
-    {
-      "title": "Musician Oliver Tree Dead at 32 After Helicopter Crash in Brazil",
-      "link": "https://www.ign.com/articles/musician-oliver-tree-dead-at-32-after-helicopter-crash-in-brazil",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781473836
     },
     {
       "title": "Honey bees have their own personal flight paths and fly them with stunning precision",
@@ -364,13 +525,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1781455089
-    },
-    {
-      "title": "TechCrunch Mobility: SpaceX rockets past Tesla",
-      "link": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781453100
     },
     {
       "title": "Did a medieval flying monk spot Halley's comet, twice? It's complicated",
@@ -413,13 +567,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781446908
-    },
-    {
-      "title": "The new Sonos Play has become my go-to desk and kitchen speaker",
-      "link": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781445600
     },
     {
       "title": "How Jules Verne predicted the Artemis 2 mission to the moon almost 160 years ago",
@@ -499,46 +646,11 @@
       "timestamp": 1781414776
     },
     {
-      "title": "Is Jalen Brunson the greatest Knicks player of all time? Making his case after ending 53-year title drought",
-      "link": "https://www.cbssports.com/nba/news/jalen-brunson-greatest-knicks-player-of-all-time/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781413691
-    },
-    {
-      "title": "With NBA Finals loss, Victor Wembanyama is experiencing painful lesson once learned by LeBron, Magic, Dirk",
-      "link": "https://www.cbssports.com/nba/news/victor-wembanyama-legacy-nba-finals-loss-spurs-knicks/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781413537
-    },
-    {
-      "title": "What's next for the Spurs? Why the path to building a champion around Wemby could include trading De'Aaron Fox",
-      "link": "https://www.cbssports.com/nba/news/spurs-offseason-preview-nba-finals-loss-knicks-victor-wembanyama-deaaron-fox/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781412415
-    },
-    {
       "title": "Yellowstone wolves may not have reshaped the national park after all",
       "link": "https://www.sciencedaily.com/releases/2026/06/260613215510.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781411229
-    },
-    {
-      "title": "2026 NBA playoff bracket, schedule: Knicks top Spurs in Game 5, win first championship in 53 years",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781410023
-    },
-    {
-      "title": "As Anthropic suspends access to new models, India debates its AI future",
-      "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781406000
     },
     {
       "title": "Why middle age is becoming a breaking point in the U.S.",
@@ -553,13 +665,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781401954
-    },
-    {
-      "title": "Knicks vs. Spurs odds, prediction: 2026 NBA Finals picks, Game 5 best bets by model on 26-10 run",
-      "link": "https://www.cbssports.com/nba/news/knicks-spurs-odds-prediction-spread-start-time-2026-nba-finals-picks-game-5-best-bets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781391646
     },
     {
       "title": "Ex-school district employee jailed for hacks on former employer",
@@ -611,13 +716,6 @@
       "timestamp": 1781358771
     },
     {
-      "title": "Closer every day: A spectacular 30-day collage of the Venus-Jupiter conjunction (photo)",
-      "link": "https://www.space.com/stargazing/astrophotography/closer-every-day-a-spectacular-30-day-collage-of-the-venus-jupiter-conjunction-photo",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781355600
-    },
-    {
       "title": "Alien planet spins revealed a hidden clue to how worlds form",
       "link": "https://www.sciencedaily.com/releases/2026/06/260613034225.htm",
       "source": "SCIENCEDAILY",
@@ -646,13 +744,6 @@
       "timestamp": 1781344892
     },
     {
-      "title": "How Japanese scientists sent a real-life Transformer to the moon",
-      "link": "https://www.space.com/astronomy/moon/how-japanese-scientists-sent-a-real-life-transformer-to-the-moon",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781344800
-    },
-    {
       "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
       "link": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
       "source": "ARSTECHNICA",
@@ -665,20 +756,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1781302806
-    },
-    {
-      "title": "Ever have a scary HR meeting on your calendar? That's how the Artemis 3 crew found out their assignments",
-      "link": "https://www.space.com/space-exploration/artemis/ever-have-a-scary-hr-meeting-on-your-calendar-thats-how-the-artemis-3-crew-found-out-their-assignments",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781301600
-    },
-    {
-      "title": "SpaceX's stock wasn't the company's only launch today — It also put 29 Starlink satellites in orbit",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-54-b1080-ccsfs-asog",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781295562
     },
     {
       "title": "Maine disables data breach notification portal after fake disclosures",
@@ -700,83 +777,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1781290671
-    },
-    {
-      "title": "Here's what Jeff Bezos' new startup Prometheus will do",
-      "link": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781289940
-    },
-    {
-      "title": "Have politics finally come for the National Academies of Science?",
-      "link": "https://arstechnica.com/science/2026/06/have-politics-finally-come-for-the-national-academies-of-science/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781289096
-    },
-    {
-      "title": "phpBB forum fixes auth bypass bug lurking for a decade",
-      "link": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781288374
-    },
-    {
-      "title": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
-      "link": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781287409
-    },
-    {
-      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
-      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781286868
-    },
-    {
-      "title": "$130 billion in data center projects blocked by protests so far this year",
-      "link": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781284729
-    },
-    {
-      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
-      "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781283835
-    },
-    {
-      "title": "When it comes to total water use, AI data centers are a drop in the bucket",
-      "link": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781283098
-    },
-    {
-      "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
-      "link": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781282076
-    },
-    {
-      "title": "RFK Jr. melts down over NYT report, admits he blacklists reporters",
-      "link": "https://arstechnica.com/health/2026/06/rfk-jr-melts-down-over-nyt-report-admits-he-blacklists-reporters/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781281184
-    },
-    {
-      "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
-      "link": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781272871
     }
   ]
 }
