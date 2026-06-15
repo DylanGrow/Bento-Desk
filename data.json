@@ -1,6 +1,55 @@
 {
-  "last_updated": 1781554985,
+  "last_updated": 1781564449,
   "items": [
+    {
+      "title": "DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act",
+      "link": "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781560615
+    },
+    {
+      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+      "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781560221
+    },
+    {
+      "title": "Heart protection from COVID shots remains amid updates, study finds",
+      "link": "https://arstechnica.com/health/2026/06/covid-vaccines-still-protect-against-heart-problems-large-study-finds/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781557466
+    },
+    {
+      "title": "The Lord of the Rings: The Hunt for Gollum Adds Anya Taylor-Joy to Its Cast",
+      "link": "https://www.ign.com/articles/the-lord-of-the-rings-the-hunt-for-gollum-adds-anya-taylor-joy-to-cast",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781557177
+    },
+    {
+      "title": "Treyarch Head Mark Gordon Steps Down from Call of Duty Studio",
+      "link": "https://www.ign.com/articles/treyarch-head-mark-gordon-steps-down-from-call-of-duty-studio",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781556595
+    },
+    {
+      "title": "Ninja Theory and Double Fine Also Reportedly Under Threat of Closure as Xbox Studios Fight for Survival",
+      "link": "https://www.ign.com/articles/ninja-theory-and-double-fine-also-reportedly-under-threat-of-closure-as-xbox-studios-fight-for-survival",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781556313
+    },
+    {
+      "title": "Meccha Chameleon, the New Hide-and-Seek Paint Game, Reaches 2 Million Copies Sold",
+      "link": "https://www.ign.com/articles/meccha-chameleon-the-new-hide-and-seek-paint-game-reaches-2-million-copies-sold",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781556263
+    },
     {
       "title": "UK to ban social media for kids under 16, may impose overnight curfews",
       "link": "https://arstechnica.com/tech-policy/2026/06/uk-to-ban-social-media-for-kids-under-16-may-impose-overnight-curfews/",
@@ -170,17 +219,17 @@
       "timestamp": 1781543223
     },
     {
-      "title": "The First-Ever Official Studio Ghibli Store in the U.S. Is Opening Later This Month in Los Angeles",
-      "link": "https://www.ign.com/articles/exclusive-the-first-ever-official-studio-ghibli-store-in-the-us-is-opening-later-this-month-in-los-angeles",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781542800
-    },
-    {
       "title": "'Everybody came with their A-game': Oscar-winning sound editor Andy Nelson talks reuniting with Spielberg & John Williams for 'Disclosure Day'",
       "link": "https://www.space.com/entertainment/space-movies-shows/oscar-winning-sound-editor-andy-nelson-talks-reuniting-with-spielberg-and-john-williams-for-disclosure-day",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1781542800
+    },
+    {
+      "title": "The First-Ever Official Studio Ghibli Store in the U.S. Is Opening Later This Month in Los Angeles",
+      "link": "https://www.ign.com/articles/exclusive-the-first-ever-official-studio-ghibli-store-in-the-us-is-opening-later-this-month-in-los-angeles",
+      "source": "IGN",
+      "category": "gaming",
       "timestamp": 1781542800
     },
     {
@@ -254,17 +303,17 @@
       "timestamp": 1781537117
     },
     {
-      "title": "EXCLUSIVE: Dr. Stone Comes to Fortnite With Crunchyroll Anime Island",
-      "link": "https://www.ign.com/articles/exclusive-dr-stone-comes-to-fortnite-with-crunchyroll-anime-island",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781535600
-    },
-    {
       "title": "Live from the moon! How lasers connected us all to NASA's Artemis 2 astronauts on their epic lunar trip",
       "link": "https://www.space.com/astronomy/moon/live-from-the-moon-how-lasers-connected-us-all-to-nasas-artemis-2-astronauts-on-their-epic-lunar-trip",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1781535600
+    },
+    {
+      "title": "EXCLUSIVE: Dr. Stone Comes to Fortnite With Crunchyroll Anime Island",
+      "link": "https://www.ign.com/articles/exclusive-dr-stone-comes-to-fortnite-with-crunchyroll-anime-island",
+      "source": "IGN",
+      "category": "gaming",
       "timestamp": 1781535600
     },
     {
@@ -289,7 +338,7 @@
       "timestamp": 1781534216
     },
     {
-      "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
       "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -394,13 +443,6 @@
       "timestamp": 1781527001
     },
     {
-      "title": "EA Sports FC, Madden NFL Publisher Announces EA Advertising",
-      "link": "https://www.ign.com/articles/ea-sports-fc-madden-nfl-publisher-announces-ea-advertising",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781525864
-    },
-    {
       "title": "Webinar: How behavioral AI stops phishing and account takeovers",
       "link": "https://www.bleepingcomputer.com/news/security/webinar-how-behavioral-ai-stops-phishing-and-account-takeovers/",
       "source": "BLEEPINGCOMPUTER",
@@ -429,32 +471,11 @@
       "timestamp": 1781522913
     },
     {
-      "title": "Capcom Pulls Dragon's Dogma 2 Microtransactions Ahead of Dark Arisen Expansion Release",
-      "link": "https://www.ign.com/articles/capcom-pulls-dragons-dogma-2-microtransactions-ahead-of-dark-arisen-expansion-release",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781522750
-    },
-    {
-      "title": "Fortnite Fans Are Obsessing Over Its New Pokémon-Like Sprite Creature Collecting",
-      "link": "https://www.ign.com/articles/fortnite-fans-are-obsessing-over-its-new-pokemon-like-sprite-creature-collecting-with-rare-species-being-sold-for-real-money-on-ebay",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781521117
-    },
-    {
       "title": "We have 4 fundamental forces of nature. 'Quantum gravity' could help lead us to a mysterious 5th",
       "link": "https://www.space.com/astronomy/we-have-4-fundamental-forces-of-nature-quantum-gravity-could-help-lead-us-to-a-mysterious-5th",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781517600
-    },
-    {
-      "title": "The Office Star Rainn Wilson Says The Series is Too 'Politically Incorrect' to Be Made Today and He Does 'Kind of Miss That'",
-      "link": "https://www.ign.com/articles/the-office-star-rainn-wilson-says-the-series-is-too-politically-incorrect-to-be-made-today-and-he-does-kind-of-miss-that",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781517402
     },
     {
       "title": "Scientists turned red lettuce green and something surprising happened",
@@ -518,13 +539,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781457705
-    },
-    {
-      "title": "As AI companies race to go public, who else is along for the ride?",
-      "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781455089
     },
     {
       "title": "Did a medieval flying monk spot Halley's comet, twice? It's complicated",
@@ -758,25 +772,11 @@
       "timestamp": 1781302806
     },
     {
-      "title": "Maine disables data breach notification portal after fake disclosures",
-      "link": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781292812
-    },
-    {
       "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
       "link": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1781292407
-    },
-    {
-      "title": "Controversial FISA spying law expires tonight. The spying will continue.",
-      "link": "https://arstechnica.com/tech-policy/2026/06/controversial-fisa-spying-law-expires-tonight-the-spying-will-continue/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781290671
     }
   ]
 }
