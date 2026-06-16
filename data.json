@@ -1,6 +1,41 @@
 {
-  "last_updated": 1781564449,
+  "last_updated": 1781581648,
   "items": [
+    {
+      "title": "Obsession Director Curry Barker Says Gen Z Is 'Tired of Slop' and 'Will Show Up' for Good Movies",
+      "link": "https://www.ign.com/articles/obsession-director-curry-barker-says-gen-z-is-tired-of-slop-and-will-show-up-for-good-movies",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781573942
+    },
+    {
+      "title": "Harry Potter TV Series Casts Peter Serafinowicz in Role Not Featured in the Films",
+      "link": "https://www.ign.com/articles/harry-potter-tv-series-casts-peter-serafinowicz-in-role-not-featured-in-the-films",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781573643
+    },
+    {
+      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+      "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781567504
+    },
+    {
+      "title": "Key mission for Europe's commercial space enterprise scrubbed again",
+      "link": "https://arstechnica.com/space/2026/06/key-mission-for-europes-commercial-space-enterprise-scrubbed-again/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781566838
+    },
+    {
+      "title": "Why Turn-Based RPGs Are Resurging, According to Final Fantasy Resonance Devs",
+      "link": "https://www.ign.com/articles/why-turn-based-rpgs-are-resurging-according-to-final-fantasy-resonance-devs",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781565976
+    },
     {
       "title": "DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act",
       "link": "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/",
@@ -317,13 +352,6 @@
       "timestamp": 1781535600
     },
     {
-      "title": "Xbox Game Studios Boss Departs Amid Growing Concern Over Layoffs and Possible Studio Shutdowns",
-      "link": "https://www.ign.com/articles/xbox-game-studios-boss-departs-amid-growing-concern-over-layoffs-and-possible-studio-shutdowns",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781535493
-    },
-    {
       "title": "SpaceX’s biggest-ever IPO just grew to $85.7 billion raised",
       "link": "https://techcrunch.com/2026/06/15/spacexs-biggest-ever-ipo-just-grew-to-85-7-billion-raised/",
       "source": "TECHCRUNCH",
@@ -387,13 +415,6 @@
       "timestamp": 1781530985
     },
     {
-      "title": "Why The Kingdom of the Crystal Skull Is Steven Spielberg's 'Weakest' Indiana Jones Movie",
-      "link": "https://www.ign.com/articles/why-the-kingdom-of-the-crystal-skull-is-steven-spielbergs-weakest-indiana-jones-movie",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781530050
-    },
-    {
       "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
       "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
       "source": "TECHCRUNCH",
@@ -434,13 +455,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1781527135
-    },
-    {
-      "title": "DC Studios Co-CEO Says Gorilla Grodd / Jimmy Olsen HBO TV Show Starts Shooting This Year",
-      "link": "https://www.ign.com/articles/dc-studios-co-ceo-says-gorilla-grodd-jimmy-olsen-hbo-tv-show-starts-shooting-this-year",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781527001
     },
     {
       "title": "Webinar: How behavioral AI stops phishing and account takeovers",
@@ -525,13 +539,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781472328
-    },
-    {
-      "title": "UK may ban social media for children under 16",
-      "link": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781468220
     },
     {
       "title": "Knicks' Jalen Brunson joins Michael Jordan, Kareem Abdul-Jabbar among few to achieve remarkable career feat",
@@ -770,13 +777,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1781302806
-    },
-    {
-      "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
-      "link": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781292407
     }
   ]
 }
