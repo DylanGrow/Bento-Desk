@@ -1,6 +1,181 @@
 {
-  "last_updated": 1781622156,
+  "last_updated": 1781638274,
   "items": [
+    {
+      "title": "Steam Workshop abused to spread malware via Wallpaper Engine app",
+      "link": "https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781634475
+    },
+    {
+      "title": "Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end",
+      "link": "https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781634144
+    },
+    {
+      "title": "Bug in FIFA World Cup internal system gave anyone ability to modify TV stream",
+      "link": "https://techcrunch.com/2026/06/16/bug-in-fifa-world-cup-internal-system-gave-anyone-ability-to-modify-tv-stream/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781633629
+    },
+    {
+      "title": "Pentagon boasts of using AI to write reports mandated by Congress",
+      "link": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781633465
+    },
+    {
+      "title": "Android 17 starts hitting Pixel phones and watches today",
+      "link": "https://arstechnica.com/gadgets/2026/06/android-17-starts-hitting-pixel-phones-and-watches-today/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781632808
+    },
+    {
+      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+      "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781632800
+    },
+    {
+      "title": "How to see the moon hide Venus in a rare daytime sky show on June 17",
+      "link": "https://www.space.com/stargazing/how-to-see-the-moon-hide-venus-in-a-rare-daytime-sky-show-on-june-17",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781632800
+    },
+    {
+      "title": "Mobileye’s US robotaxi launch will put it on both sides of the AV business",
+      "link": "https://techcrunch.com/2026/06/16/mobileye-us-robotaxi-launch-will-put-it-on-both-sides-of-the-av-business/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781632223
+    },
+    {
+      "title": "Rivian cuts hundreds of workers after R2 deliveries start",
+      "link": "https://techcrunch.com/2026/06/16/rivian-cuts-hundreds-of-workers-after-r2-deliveries-start/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781632100
+    },
+    {
+      "title": "Snap finally debuts its long-awaited AR glasses, Specs, and, oof, they aren’t cheap",
+      "link": "https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781629200
+    },
+    {
+      "title": "Resident Evil Lore Master Reveals The 5 Burning Questions Veronica Needs to Answer",
+      "link": "https://www.ign.com/articles/resident-evil-lore-master-reveals-the-5-burning-questions-veronica-needs-to-answer",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781628919
+    },
+    {
+      "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+      "link": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781628584
+    },
+    {
+      "title": "Trump admin abandons fight against wind energy as clean energy output surges",
+      "link": "https://arstechnica.com/science/2026/06/trump-admin-abandons-fight-against-wind-energy-as-clean-energy-output-surges/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781628549
+    },
+    {
+      "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
+      "link": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781627865
+    },
+    {
+      "title": "The Nikon Z fc is our choice as the best budget camera — this retro-inspired beauty is at its best price of the year in this early Amazon Prime Day deal",
+      "link": "https://www.space.com/technology/the-nikon-z-fc-is-our-choice-as-the-best-budget-camera-this-retro-inspired-beauty-is-at-its-best-price-of-the-year-in-this-early-amazon-prime-day-deal",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781627724
+    },
+    {
+      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+      "link": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781626687
+    },
+    {
+      "title": "Watch a fireball burn a 300 mile path above the Midwest US (video)",
+      "link": "https://www.space.com/stargazing/meteor-showers/watch-a-fireball-burn-a-300-mile-path-above-the-midwest-us-video",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781625600
+    },
+    {
+      "title": "SpaceX is public: Everything you need to know post-IPO",
+      "link": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781625192
+    },
+    {
+      "title": "India orders temporary ban on Telegram over exam fraud concerns",
+      "link": "https://techcrunch.com/2026/06/16/india-temporarily-blocks-access-to-telegram-over-exam-fraud-concerns/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781624940
+    },
+    {
+      "title": "Shrek 5 Trailer Reveals Shrek, His Family, and Donkey Travel to a New Kingdom",
+      "link": "https://www.ign.com/articles/shrek-5-trailer-reveals-shrek-his-family-and-donkey-travel-to-a-new-kingdom",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781624829
+    },
+    {
+      "title": "Payments startup Flutterwave hits $3.2B valuation, backed by Ripple",
+      "link": "https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781624139
+    },
+    {
+      "title": "Lord of the Rings Fans React to Anya Taylor-Joy's Casting in The Hunt for Gollum",
+      "link": "https://www.ign.com/articles/lord-of-the-rings-fans-react-to-anya-taylor-joys-casting-in-the-hunt-for-gollum",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781623628
+    },
+    {
+      "title": "Five lessons Victor Wembanyama can learn from Spurs' NBA Finals failure",
+      "link": "https://www.cbssports.com/nba/news/five-lessons-victor-wembanyama-nba-finals-failure/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781623466
+    },
+    {
+      "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
+      "link": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781622303
+    },
+    {
+      "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+      "link": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781622000
+    },
     {
       "title": "Don't miss the moon lead a dazzling mini 'planet parade' on June 17",
       "link": "https://www.space.com/stargazing/dont-miss-the-moon-lead-a-dazzling-mini-planet-parade-on-june-17",
@@ -23,6 +198,20 @@
       "timestamp": 1781620729
     },
     {
+      "title": "Spider-Man: Brand New Day's Next Trailer Expected Tomorrow — And Here's a New Image From the Film",
+      "link": "https://www.ign.com/articles/spider-man-brand-new-days-next-trailer-expected-tomorrow-and-heres-a-new-image-from-the-film",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781620674
+    },
+    {
+      "title": "Mobileye is entering the US robotaxi market with standalone service",
+      "link": "https://arstechnica.com/cars/2026/06/mobileye-is-entering-the-us-robotaxi-market-with-standalone-service/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781619651
+    },
+    {
       "title": "GhostTree Attack Abused Recursive Windows Junctions to Hide Malware",
       "link": "https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/",
       "source": "BLEEPINGCOMPUTER",
@@ -35,6 +224,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1781619034
+    },
+    {
+      "title": "New study explores potential cross-species spread of chronic wasting disease",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260615033841.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1781618784
     },
     {
       "title": "Darryn Peterson wants the Wizards to know he's all-in. Will it change the NBA Draft?",
@@ -128,18 +324,18 @@
       "timestamp": 1781611200
     },
     {
-      "title": "India orders temporary ban on Telegram over exam fraud concerns",
-      "link": "https://techcrunch.com/2026/06/16/india-temporarily-blocks-access-to-telegram-over-exam-fraud-concerns/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781609615
-    },
-    {
       "title": "5 Years On, Shang-Chi Director Says Marvel is Still Working on a Sequel",
       "link": "https://www.ign.com/articles/5-years-on-shang-chi-director-says-marvel-is-still-working-on-a-sequel",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1781609599
+    },
+    {
+      "title": "Scientists found a way to explain bird flocks that “defy” Newton’s third law",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260615033843.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1781609322
     },
     {
       "title": "This startup’s super metals could soon be in military drones, luxury watches, and chef’s knives",
@@ -149,14 +345,7 @@
       "timestamp": 1781609100
     },
     {
-      "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
-      "link": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781608901
-    },
-    {
-      "title": "Critical Copilot vulnerability allowed hackers to seal 2FA code from users",
+      "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
       "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -168,13 +357,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1781608431
-    },
-    {
-      "title": "Threads adds new personalization and community features as it reaches 500M monthly users",
-      "link": "https://techcrunch.com/2026/06/16/threads-adds-new-personalization-and-community-features-as-it-reaches-500m-monthly-users/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781607600
     },
     {
       "title": "CISA warns of another cPanel plugin flaw exploited in attacks",
@@ -191,11 +373,11 @@
       "timestamp": 1781606821
     },
     {
-      "title": "ChatGPT’s market share slips below 50% for first time",
-      "link": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781605800
+      "title": "Scientists just found a hidden weakness in forever chemicals",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260615033846.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1781605856
     },
     {
       "title": "James Gunn Describes Jimmy Olsen HBO Series as 'Both a Jimmy Olsen and a Gorilla Grodd Show'",
@@ -268,11 +450,11 @@
       "timestamp": 1781599918
     },
     {
-      "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
-      "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781593140
+      "title": "Alien messages may have reached Earth without us realizing it",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260615033851.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1781597517
     },
     {
       "title": "iRhythm discloses data breach, says hackers stole patient info",
@@ -282,32 +464,11 @@
       "timestamp": 1781591519
     },
     {
-      "title": "Watch SpaceX Dragon cargo capsule head home to Earth today",
+      "title": "SpaceX Dragon cargo capsule undocks from ISS, heads home to Earth",
       "link": "https://www.space.com/space-exploration/international-space-station/spacex-dragon-cargo-capsule-crs-34-return-to-earth",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781582700
-    },
-    {
-      "title": "Obsession Director Curry Barker Says Gen Z Is 'Tired of Slop' and 'Will Show Up' for Good Movies",
-      "link": "https://www.ign.com/articles/obsession-director-curry-barker-says-gen-z-is-tired-of-slop-and-will-show-up-for-good-movies",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781573942
-    },
-    {
-      "title": "Harry Potter TV Series Casts Peter Serafinowicz in Role Not Featured in the Films",
-      "link": "https://www.ign.com/articles/harry-potter-tv-series-casts-peter-serafinowicz-in-role-not-featured-in-the-films",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781573643
-    },
-    {
-      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
-      "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781567504
     },
     {
       "title": "Key mission for Europe's commercial space enterprise scrubbed again",
@@ -317,13 +478,6 @@
       "timestamp": 1781566838
     },
     {
-      "title": "Why Turn-Based RPGs Are Resurging, According to Final Fantasy Resonance Devs",
-      "link": "https://www.ign.com/articles/why-turn-based-rpgs-are-resurging-according-to-final-fantasy-resonance-devs",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781565976
-    },
-    {
       "title": "DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act",
       "link": "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/",
       "source": "BLEEPINGCOMPUTER",
@@ -331,25 +485,11 @@
       "timestamp": 1781560615
     },
     {
-      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
-      "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781560221
-    },
-    {
       "title": "Heart protection from COVID shots remains amid updates, study finds",
       "link": "https://arstechnica.com/health/2026/06/covid-vaccines-still-protect-against-heart-problems-large-study-finds/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1781557466
-    },
-    {
-      "title": "The Lord of the Rings: The Hunt for Gollum Adds Anya Taylor-Joy to Its Cast",
-      "link": "https://www.ign.com/articles/the-lord-of-the-rings-the-hunt-for-gollum-adds-anya-taylor-joy-to-cast",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781557177
     },
     {
       "title": "UK to ban social media for kids under 16, may impose overnight curfews",
@@ -401,20 +541,6 @@
       "timestamp": 1781549741
     },
     {
-      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
-      "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781548258
-    },
-    {
-      "title": "SpaceX is public: Everything you need to know post-IPO",
-      "link": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781548234
-    },
-    {
       "title": "Fox’s $22B Roku acquisition aims to expand its reach into smart TVs, advertising",
       "link": "https://arstechnica.com/gadgets/2026/06/foxs-22b-roku-acquisition-aims-to-expand-its-reach-into-smart-tvs-advertising/",
       "source": "ARSTECHNICA",
@@ -434,13 +560,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1781546146
-    },
-    {
-      "title": "These are the countries moving to ban social media for children",
-      "link": "https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781545262
     },
     {
       "title": "OptinMonster WordPress plugin hacked in CDN supply-chain attack",
@@ -499,25 +618,11 @@
       "timestamp": 1781541431
     },
     {
-      "title": "20 years of Intel Macs: Why Apple switched, and why it switched again",
-      "link": "https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781541134
-    },
-    {
       "title": "Knicks championship run stacks up against best in history, but that's not the point",
       "link": "https://www.cbssports.com/nba/news/knicks-championship-run-history/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781540922
-    },
-    {
-      "title": "Good news—we have extra time before the Sun ends life on Earth",
-      "link": "https://arstechnica.com/science/2026/06/good-news-we-have-extra-time-before-the-sun-ends-life-on-earth/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781540897
     },
     {
       "title": "NASA X-ray spacecraft discovers supernova wreckage at the heart of the Milky Way",
@@ -534,20 +639,6 @@
       "timestamp": 1781537423
     },
     {
-      "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
-      "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781537391
-    },
-    {
-      "title": "F1 in Spain: An old-fashioned strategy fight can still be thrilling",
-      "link": "https://arstechnica.com/cars/2026/06/f1-in-spain-an-old-fashioned-strategy-fight-can-still-be-thrilling/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781537117
-    },
-    {
       "title": "Live from the moon! How lasers connected us all to NASA's Artemis 2 astronauts on their epic lunar trip",
       "link": "https://www.space.com/astronomy/moon/live-from-the-moon-how-lasers-connected-us-all-to-nasas-artemis-2-astronauts-on-their-epic-lunar-trip",
       "source": "SPACE",
@@ -555,39 +646,11 @@
       "timestamp": 1781535600
     },
     {
-      "title": "SpaceX’s biggest-ever IPO just grew to $85.7 billion raised",
-      "link": "https://techcrunch.com/2026/06/15/spacexs-biggest-ever-ipo-just-grew-to-85-7-billion-raised/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781534703
-    },
-    {
-      "title": "Vibe coders are gonna vibe code: How CISOs are tackling code sprawl",
-      "link": "https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781532071
-    },
-    {
       "title": "Hubble spies a swarm of stars in a strange, irregular galaxy | Space photo of the day for June 15, 2026",
       "link": "https://www.space.com/astronomy/hubble-space-telescope/hubble-spies-a-swarm-of-stars-in-a-strange-irregular-galaxy-space-photo-of-the-day-for-15-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781532000
-    },
-    {
-      "title": "Russia appears set to finally address long-term, serious space station cracks",
-      "link": "https://arstechnica.com/space/2026/06/russia-appears-set-to-finally-address-long-term-serious-space-station-cracks/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781531642
-    },
-    {
-      "title": "Scientists find strange changes on sun hours before a powerful X9 solar flare: 'I was not expecting what I found'",
-      "link": "https://www.space.com/astronomy/sun/scientists-find-strange-changes-on-sun-hours-before-a-powerful-x9-solar-flare-i-was-not-expecting-what-i-found",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781528400
     },
     {
       "title": "Jalen Brunson a Knicks legend with NBA title; Stunning finish to UFC Freedom 250",
@@ -609,20 +672,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781524483
-    },
-    {
-      "title": "Our experts recommend these image-stabilized Canon binoculars for stunning, steady views of the night sky, now $100 off in this early anti-Prime Day deal",
-      "link": "https://www.space.com/technology/our-experts-recommend-these-image-stabilized-canon-binoculars-for-stunning-steady-views-of-the-night-sky-now-usd100-off-in-this-early-anti-prime-day-deal",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781522913
-    },
-    {
-      "title": "We have 4 fundamental forces of nature. 'Quantum gravity' could help lead us to a mysterious 5th",
-      "link": "https://www.space.com/astronomy/we-have-4-fundamental-forces-of-nature-quantum-gravity-could-help-lead-us-to-a-mysterious-5th",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781517600
     },
     {
       "title": "Scientists turned red lettuce green and something surprising happened",
@@ -660,13 +709,6 @@
       "timestamp": 1781457705
     },
     {
-      "title": "Did a medieval flying monk spot Halley's comet, twice? It's complicated",
-      "link": "https://arstechnica.com/science/2026/06/did-a-medieval-flying-monk-spot-halleys-comet-twice-its-complicated/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781452973
-    },
-    {
       "title": "Ranking NBA's eight recent champions by their chances to win another title",
       "link": "https://www.cbssports.com/nba/news/ranking-nba-recent-champion-title-chances-knicks/",
       "source": "CBSSPORTS",
@@ -686,13 +728,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781446908
-    },
-    {
-      "title": "How the NBA champion New York Knicks can run it back: Roster gets expensive, but the core can stay intact",
-      "link": "https://www.cbssports.com/nba/news/new-york-knicks-roster-run-it-back/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781445037
     },
     {
       "title": "Scientists crack a decades-old CO2 problem and triple fuel production",
@@ -742,41 +777,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781401954
-    },
-    {
-      "title": "Review: Disclosure Day is big on action, light on ideas",
-      "link": "https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781371064
-    },
-    {
-      "title": "Your brain can keep improving into your 90s, study finds",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260613034222.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1781362024
-    },
-    {
-      "title": "Lucy’s hunter revealed: Giant crocodile terrorized early human ancestors",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260613034229.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1781360028
-    },
-    {
-      "title": "Alien planet spins revealed a hidden clue to how worlds form",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260613034225.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1781355475
-    },
-    {
-      "title": "Learning a musical instrument in your 70s could help protect memory",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260613034217.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1781353477
     }
   ]
 }
