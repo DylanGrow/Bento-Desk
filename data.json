@@ -1,6 +1,48 @@
 {
-  "last_updated": 1781581648,
+  "last_updated": 1781601836,
   "items": [
+    {
+      "title": "Critical Fortinet FortiSandbox flaws now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781601591
+    },
+    {
+      "title": "Windows version of SprySOCKS Linux malware used to attack govt orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781600400
+    },
+    {
+      "title": "Nintendo Switch 2 System Update 22.5.0 Available — Here Are the Patch Notes",
+      "link": "https://www.ign.com/articles/nintendo-switch-2-system-update-2250-available-here-are-the-patch-notes",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781599918
+    },
+    {
+      "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+      "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781593140
+    },
+    {
+      "title": "iRhythm discloses data breach, says hackers stole patient info",
+      "link": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781591519
+    },
+    {
+      "title": "Watch SpaceX Dragon cargo capsule head home to Earth today",
+      "link": "https://www.space.com/space-exploration/international-space-station/spacex-dragon-cargo-capsule-crs-34-return-to-earth",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781582700
+    },
     {
       "title": "Obsession Director Curry Barker Says Gen Z Is 'Tired of Slop' and 'Will Show Up' for Good Movies",
       "link": "https://www.ign.com/articles/obsession-director-curry-barker-says-gen-z-is-tired-of-slop-and-will-show-up-for-good-movies",
@@ -345,13 +387,6 @@
       "timestamp": 1781535600
     },
     {
-      "title": "EXCLUSIVE: Dr. Stone Comes to Fortnite With Crunchyroll Anime Island",
-      "link": "https://www.ign.com/articles/exclusive-dr-stone-comes-to-fortnite-with-crunchyroll-anime-island",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781535600
-    },
-    {
       "title": "SpaceX’s biggest-ever IPO just grew to $85.7 billion raised",
       "link": "https://techcrunch.com/2026/06/15/spacexs-biggest-ever-ipo-just-grew-to-85-7-billion-raised/",
       "source": "TECHCRUNCH",
@@ -415,17 +450,17 @@
       "timestamp": 1781530985
     },
     {
-      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
-      "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781528400
-    },
-    {
       "title": "New attack turned Microsoft 365 Copilot into 1-click data theft tool",
       "link": "https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
+      "timestamp": 1781528400
+    },
+    {
+      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+      "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
       "timestamp": 1781528400
     },
     {
@@ -525,13 +560,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1781496060
-    },
-    {
-      "title": "Startup CEO Charlie Javice is reportedly angling for a Trump pardon",
-      "link": "https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781474134
     },
     {
       "title": "Honey bees have their own personal flight paths and fly them with stunning precision",
@@ -688,13 +716,6 @@
       "timestamp": 1781401954
     },
     {
-      "title": "Ex-school district employee jailed for hacks on former employer",
-      "link": "https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781383993
-    },
-    {
       "title": "Review: Disclosure Day is big on action, light on ideas",
       "link": "https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/",
       "source": "ARSTECHNICA",
@@ -716,25 +737,11 @@
       "timestamp": 1781360028
     },
     {
-      "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781359602
-    },
-    {
       "title": "Millions could see a rare sunset during the total solar eclipse on Aug. 12, 2026. Here's where to look",
       "link": "https://www.space.com/stargazing/solar-eclipses/millions-could-see-a-rare-sunset-during-the-total-solar-eclipse-on-aug-12-2026-heres-where-to-look",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781359200
-    },
-    {
-      "title": "This Week In Space podcast: Episode 214 — Moon Man",
-      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-214-moon-man",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781358771
     },
     {
       "title": "Alien planet spins revealed a hidden clue to how worlds form",
@@ -756,13 +763,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1781349522
-    },
-    {
-      "title": "US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos",
-      "link": "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781344892
     },
     {
       "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
