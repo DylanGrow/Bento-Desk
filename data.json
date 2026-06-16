@@ -1,6 +1,55 @@
 {
-  "last_updated": 1781638274,
+  "last_updated": 1781647720,
   "items": [
+    {
+      "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781646890
+    },
+    {
+      "title": "NASA X-ray spacecraft catches jet erupting from 1st supermassive black hole imaged by humanity",
+      "link": "https://www.space.com/astronomy/black-holes/nasa-x-ray-spacecraft-catches-jet-erupting-from-1st-supermassive-black-hole-imaged-by-humanity",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781643600
+    },
+    {
+      "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+      "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781640660
+    },
+    {
+      "title": "New Rokarolla Android malware targets 217 banking, crypto apps",
+      "link": "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781640251
+    },
+    {
+      "title": "Watch European rocket launch record-breaking mission for Amazon on June 17",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/ariane-6-rocket-record-breaking-launch-amazon-leo-le-03",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781640118
+    },
+    {
+      "title": "NBA offseason bold predictions: Stars on the move, LeBron James leaves Lakers, Draft shocker and more",
+      "link": "https://www.cbssports.com/nba/news/nba-offseason-bold-predictions-2026/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781639594
+    },
+    {
+      "title": "US approval of Paramount/Warner Bros. deal surprised DOJ lawyers, report says",
+      "link": "https://arstechnica.com/tech-policy/2026/06/us-approval-of-paramount-warner-bros-deal-surprised-doj-lawyers-report-says/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781635725
+    },
     {
       "title": "Steam Workshop abused to spread malware via Wallpaper Engine app",
       "link": "https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/",
@@ -245,13 +294,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781618400
-    },
-    {
-      "title": "SpaceX passes Amazon as valuation balloons to $2.7T",
-      "link": "https://techcrunch.com/2026/06/16/spacex-passes-amazon-as-valuation-balloons-to-2-7t/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781617717
     },
     {
       "title": "FTC warns of record $3.5 billion losses to imposter scams in 2025",
@@ -555,13 +597,6 @@
       "timestamp": 1781546404
     },
     {
-      "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
-      "link": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781546146
-    },
-    {
       "title": "OptinMonster WordPress plugin hacked in CDN supply-chain attack",
       "link": "https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/",
       "source": "BLEEPINGCOMPUTER",
@@ -611,13 +646,6 @@
       "timestamp": 1781542800
     },
     {
-      "title": "Council of Europe investigates ShinyHunters data breach claims",
-      "link": "https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781541431
-    },
-    {
       "title": "Knicks championship run stacks up against best in history, but that's not the point",
       "link": "https://www.cbssports.com/nba/news/knicks-championship-run-history/",
       "source": "CBSSPORTS",
@@ -630,27 +658,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781539200
-    },
-    {
-      "title": "FBI: Fraudsters use couriers to steal money in crypto scams",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-fraudsters-use-couriers-to-steal-money-in-crypto-scams/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781537423
-    },
-    {
-      "title": "Live from the moon! How lasers connected us all to NASA's Artemis 2 astronauts on their epic lunar trip",
-      "link": "https://www.space.com/astronomy/moon/live-from-the-moon-how-lasers-connected-us-all-to-nasas-artemis-2-astronauts-on-their-epic-lunar-trip",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781535600
-    },
-    {
-      "title": "Hubble spies a swarm of stars in a strange, irregular galaxy | Space photo of the day for June 15, 2026",
-      "link": "https://www.space.com/astronomy/hubble-space-telescope/hubble-spies-a-swarm-of-stars-in-a-strange-irregular-galaxy-space-photo-of-the-day-for-15-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781532000
     },
     {
       "title": "Jalen Brunson a Knicks legend with NBA title; Stunning finish to UFC Freedom 250",
@@ -721,13 +728,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781448347
-    },
-    {
-      "title": "NBA Finals winners and losers: Every Knicks move looks brilliant, Victor Wembanyama blows golden opportunity",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-finals-winners-and-losers-knicks-spurs/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781446908
     },
     {
       "title": "Scientists crack a decades-old CO2 problem and triple fuel production",
