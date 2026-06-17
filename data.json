@@ -1,6 +1,27 @@
 {
-  "last_updated": 1781730171,
+  "last_updated": 1781738470,
   "items": [
+    {
+      "title": "Second carcass-eating fly species cleared by FDA for maggot wound therapy",
+      "link": "https://arstechnica.com/health/2026/06/second-carcass-eating-fly-species-cleared-by-fda-for-maggot-wound-therapy/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781734280
+    },
+    {
+      "title": "2026 NBA Mock Draft: Cameron Boozer goes to Jazz at No. 2, Clippers like Mikel Brown for fifth pick",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-mock-draft-cameron-boozer-goes-to-jazz-at-no-2-clippers-like-mikel-brown-for-fifth-pick/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781733358
+    },
+    {
+      "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
+      "link": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781731850
+    },
     {
       "title": "Google to use UK and EU user IP addresses for ad personalization",
       "link": "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/",
@@ -20,7 +41,14 @@
       "link": "https://www.cbssports.com/nba/news/nba-offseason-predictions-experts-pick-landing-spots/",
       "source": "CBSSPORTS",
       "category": "nba",
-      "timestamp": 1781728386
+      "timestamp": 1781729942
+    },
+    {
+      "title": "Sooner than expected? Useful quantum error correction promised for 2028.",
+      "link": "https://arstechnica.com/science/2026/06/amazon-quera-promise-useful-quantum-error-correction-by-2028/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781729072
     },
     {
       "title": "Roelof Botha joins SpaceX’s board of directors",
@@ -44,11 +72,18 @@
       "timestamp": 1781727458
     },
     {
-      "title": "s2026 NBA Mock Draft: Cameron Boozer goes to Jazz at No. 2, Clippers like Mikel Brown for fifth pick",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-mock-draft-cameron-boozer-goes-to-jazz-at-no-2-clippers-like-mikel-brown-for-fifth-pick/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781727032
+      "title": "California says AT&T lied to FCC in attempt to shut off old phone network",
+      "link": "https://arstechnica.com/tech-policy/2026/06/california-says-att-lied-to-fcc-in-attempt-to-shut-off-old-phone-network/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781726860
+    },
+    {
+      "title": "Massive breach spills credentials for thousands of sensitive networks",
+      "link": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781726071
     },
     {
       "title": "FTC lawsuit reveals how subscription scam networks evade app store enforcement",
@@ -58,7 +93,14 @@
       "timestamp": 1781725576
     },
     {
-      "title": "AI coding agents can autonomously direct robot training",
+      "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
+      "link": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781725393
+    },
+    {
+      "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
       "link": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -252,13 +294,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1781709151
-    },
-    {
-      "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
-      "link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781708400
     },
     {
       "title": "Warframe Creative Director Says New Characters Were Inspired by Super Smash Bros.",
@@ -499,20 +534,6 @@
       "timestamp": 1781646881
     },
     {
-      "title": "Among the large new rockets Amazon was counting on, only Europe has delivered",
-      "link": "https://arstechnica.com/space/2026/06/amid-launch-bottleneck-amazon-has-hundreds-of-satellites-waiting-to-fly/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781644448
-    },
-    {
-      "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
-      "link": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781643635
-    },
-    {
       "title": "NASA X-ray spacecraft catches jet erupting from 1st supermassive black hole imaged by humanity",
       "link": "https://www.space.com/astronomy/black-holes/nasa-x-ray-spacecraft-catches-jet-erupting-from-1st-supermassive-black-hole-imaged-by-humanity",
       "source": "SPACE",
@@ -541,32 +562,11 @@
       "timestamp": 1781639594
     },
     {
-      "title": "US approval of Paramount/Warner Bros. deal surprised DOJ lawyers, report says",
-      "link": "https://arstechnica.com/tech-policy/2026/06/us-approval-of-paramount-warner-bros-deal-surprised-doj-lawyers-report-says/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781635725
-    },
-    {
       "title": "Steam Workshop abused to spread malware via Wallpaper Engine app",
       "link": "https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1781634475
-    },
-    {
-      "title": "Pentagon boasts of using AI to write reports mandated by Congress",
-      "link": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781633465
-    },
-    {
-      "title": "Android 17 starts hitting Pixel phones and watches today",
-      "link": "https://arstechnica.com/gadgets/2026/06/android-17-starts-hitting-pixel-phones-and-watches-today/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781632808
     },
     {
       "title": "Look up! The moon and Venus will stage a rare daytime disappearing act today",
