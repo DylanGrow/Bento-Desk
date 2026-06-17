@@ -1,12 +1,61 @@
 {
-  "last_updated": 1781647720,
+  "last_updated": 1781655223,
   "items": [
+    {
+      "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+      "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781649257
+    },
+    {
+      "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
+      "link": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781648564
+    },
+    {
+      "title": "Year of free HPE software a “step in the correct direction” in VMware rivalry",
+      "link": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781647875
+    },
+    {
+      "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
+      "link": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781647772
+    },
     {
       "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1781646890
+    },
+    {
+      "title": "Cockroaches scurry around with thousands of pieces of bacterial genomes",
+      "link": "https://arstechnica.com/science/2026/06/cockroaches-scurry-around-with-thousands-of-pieces-of-bacterial-genomes/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781646881
+    },
+    {
+      "title": "Among the large new rockets Amazon was counting on, only Europe has delivered",
+      "link": "https://arstechnica.com/space/2026/06/amid-launch-bottleneck-amazon-has-hundreds-of-satellites-waiting-to-fly/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781644448
+    },
+    {
+      "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+      "link": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781643635
     },
     {
       "title": "NASA X-ray spacecraft catches jet erupting from 1st supermassive black hole imaged by humanity",
@@ -331,13 +380,6 @@
       "timestamp": 1781616261
     },
     {
-      "title": "Probably raises $9M to build a more reliable kind of AI",
-      "link": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781615709
-    },
-    {
       "title": "Texas Tech's Brendan Sorsby declares for 2026 NFL supplemental draft; top 50 NBA trade candidates",
       "link": "https://www.cbssports.com/college-football/news/texas-techs-brendan-sorsby-declares-for-2026-nfl-supplemental-draft-top-50-nba-trade-candidates/",
       "source": "CBSSPORTS",
@@ -378,13 +420,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781609322
-    },
-    {
-      "title": "This startup’s super metals could soon be in military drones, luxury watches, and chef’s knives",
-      "link": "https://techcrunch.com/2026/06/16/this-startups-super-metals-could-soon-be-in-military-drones-luxury-watches-and-chefs-knives/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781609100
     },
     {
       "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
@@ -527,20 +562,6 @@
       "timestamp": 1781560615
     },
     {
-      "title": "Heart protection from COVID shots remains amid updates, study finds",
-      "link": "https://arstechnica.com/health/2026/06/covid-vaccines-still-protect-against-heart-problems-large-study-finds/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781557466
-    },
-    {
-      "title": "UK to ban social media for kids under 16, may impose overnight curfews",
-      "link": "https://arstechnica.com/tech-policy/2026/06/uk-to-ban-social-media-for-kids-under-16-may-impose-overnight-curfews/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781554444
-    },
-    {
       "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
       "link": "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/",
       "source": "BLEEPINGCOMPUTER",
@@ -562,32 +583,11 @@
       "timestamp": 1781551661
     },
     {
-      "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
-      "link": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781550422
-    },
-    {
       "title": "These are the 7 best sci-fi games I saw at Summer Game Fest 2026",
       "link": "https://www.space.com/entertainment/space-games/these-are-the-7-best-sci-fi-games-i-saw-at-summer-game-fest-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781550000
-    },
-    {
-      "title": "A Chinese rocket breaks apart dangerously close to the Starlink constellation",
-      "link": "https://arstechnica.com/space/2026/06/a-chinese-rocket-breaks-apart-dangerously-close-to-the-starlink-constellation/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781549741
-    },
-    {
-      "title": "Fox’s $22B Roku acquisition aims to expand its reach into smart TVs, advertising",
-      "link": "https://arstechnica.com/gadgets/2026/06/foxs-22b-roku-acquisition-aims-to-expand-its-reach-into-smart-tvs-advertising/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781548187
     },
     {
       "title": "Bulls reportedly hiring Tiago Splitter as head coach as Chicago looks for fresh start",
