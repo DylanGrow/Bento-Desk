@@ -1,12 +1,138 @@
 {
-  "last_updated": 1781719959,
+  "last_updated": 1781730171,
   "items": [
+    {
+      "title": "Google to use UK and EU user IP addresses for ad personalization",
+      "link": "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781730162
+    },
+    {
+      "title": "One of these twin stars has likely been snacking on exoplanets",
+      "link": "https://www.space.com/astronomy/stars/one-of-these-twin-stars-has-likely-been-snacking-on-exoplanets",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781730000
+    },
+    {
+      "title": "NBA offseason predictions: Experts pick landing spots for Giannis, LeBron, Kawhi and more",
+      "link": "https://www.cbssports.com/nba/news/nba-offseason-predictions-experts-pick-landing-spots/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781728386
+    },
+    {
+      "title": "Roelof Botha joins SpaceX’s board of directors",
+      "link": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781728372
+    },
+    {
+      "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
+      "link": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781727868
+    },
+    {
+      "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+      "link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781727458
+    },
+    {
+      "title": "s2026 NBA Mock Draft: Cameron Boozer goes to Jazz at No. 2, Clippers like Mikel Brown for fifth pick",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-mock-draft-cameron-boozer-goes-to-jazz-at-no-2-clippers-like-mikel-brown-for-fifth-pick/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781727032
+    },
+    {
+      "title": "FTC lawsuit reveals how subscription scam networks evade app store enforcement",
+      "link": "https://techcrunch.com/2026/06/17/ftc-lawsuit-reveals-how-subscription-scam-networks-evade-app-store-enforcement/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781725576
+    },
+    {
+      "title": "AI coding agents can autonomously direct robot training",
+      "link": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781724319
+    },
+    {
+      "title": "New Spider-Man: Brand New Day Trailer Reveals a Very Angry Hulk",
+      "link": "https://www.ign.com/articles/new-spider-man-brand-new-day-trailer-reveals-a-very-angry-hulk",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781724221
+    },
+    {
+      "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+      "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781722879
+    },
+    {
+      "title": "James Webb Space Telescope discovers extreme exoplanet being roasted by its home star",
+      "link": "https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-discovers-extreme-exoplanet-being-roasted-by-its-home-star",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781722800
+    },
+    {
+      "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+      "link": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781721056
+    },
+    {
+      "title": "The Slate Truck's price may have leaked, starts at $24,950",
+      "link": "https://arstechnica.com/cars/2026/06/the-slate-trucks-price-may-have-leaked-starts-at-24950/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781720601
+    },
+    {
+      "title": "Cybercriminals allegedly hacked tens of thousands of Fortinet firewalls used by major companies all over the world",
+      "link": "https://techcrunch.com/2026/06/17/cybercriminals-allegedly-hacked-tens-of-thousands-of-fortinet-firewalls-used-by-major-companies-all-over-the-world/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781720406
+    },
+    {
+      "title": "Social media’s next evolution: user-controlled algorithms",
+      "link": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781720388
+    },
+    {
+      "title": "NBA rumors: Warriors could target LeBron James if Lakers don't move; Kawhi Leonard's Clippers future, more",
+      "link": "https://www.cbssports.com/nba/news/nba-rumors-warriors-lebron-james-lakers-kawhi-leonard-clippers-jaylen-brown-celtics-draft/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781719466
+    },
     {
       "title": "'Warframe''s new Constellations update puts the focus back among the stars (interview)",
       "link": "https://www.space.com/entertainment/space-games/warframes-new-constellations-update-puts-the-focus-back-among-the-stars",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781719200
+    },
+    {
+      "title": "\"Dangerous\" AI models are coming no matter what",
+      "link": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781718646
     },
     {
       "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
@@ -128,17 +254,17 @@
       "timestamp": 1781709151
     },
     {
-      "title": "Warframe Creative Director Says New Characters Were Inspired by Super Smash Bros.",
-      "link": "https://www.ign.com/articles/warframe-jade-shadows-constellations-super-smash-bros-characters",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781708400
-    },
-    {
       "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
       "link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
       "source": "TECHCRUNCH",
       "category": "tech",
+      "timestamp": 1781708400
+    },
+    {
+      "title": "Warframe Creative Director Says New Characters Were Inspired by Super Smash Bros.",
+      "link": "https://www.ign.com/articles/warframe-jade-shadows-constellations-super-smash-bros-characters",
+      "source": "IGN",
+      "category": "gaming",
       "timestamp": 1781708400
     },
     {
@@ -147,13 +273,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1781707706
-    },
-    {
-      "title": "2026 NBA Mock Draft: Cameron Boozer goes to Jazz at No. 2, Clippers like Mikel Brown for fifth pick",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-mock-draft-cameron-boozer-goes-to-jazz-at-no-2-clippers-like-mikel-brown-for-fifth-pick/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781707218
     },
     {
       "title": "Ranking top 40 NBA free agents: Austin Reaves, Jalen Duren, LeBron James top list for 2026 offseason",
@@ -177,13 +296,6 @@
       "timestamp": 1781706183
     },
     {
-      "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
-      "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781705722
-    },
-    {
       "title": "Why Account Takeovers Are Rising and How to Stop Them",
       "link": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/",
       "source": "BLEEPINGCOMPUTER",
@@ -196,13 +308,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781704800
-    },
-    {
-      "title": "SpaceX alum nabs $22M to turn rocket engines into geothermal power plants",
-      "link": "https://techcrunch.com/2026/06/17/spacex-alum-nabs-22m-to-turn-rocket-engines-into-geothermal-power-plants/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781703000
     },
     {
       "title": "India's Telegram ban hit the UAE too. Here's how to get around it",
@@ -219,25 +324,11 @@
       "timestamp": 1781701471
     },
     {
-      "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
-      "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781699889
-    },
-    {
       "title": "Scientists discover spider that disguises itself as a parasitic fungus",
       "link": "https://www.sciencedaily.com/releases/2026/06/260617032201.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781698783
-    },
-    {
-      "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
-      "link": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781698484
     },
     {
       "title": "Microsoft Insists It Won’t Flip Flop on Exclusives as Fans Say They're Finding It Hard to Trust Xbox",
@@ -287,20 +378,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1781694917
-    },
-    {
-      "title": "Uber will bring its premium robotaxi service to Houston in 2027",
-      "link": "https://techcrunch.com/2026/06/17/uber-will-bring-its-premium-robotaxi-service-to-houston-in-2027/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781694000
-    },
-    {
-      "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
-      "link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781694000
     },
     {
       "title": "Billionaire Valve Boss Gabe Newell Buys Florida Super Mansion With Its Own Underground Tunnel for $70.8 Million",
@@ -394,20 +471,6 @@
       "timestamp": 1781669100
     },
     {
-      "title": "Saros Developer Housemarque Wants to Have the Same Growth as FromSoftware",
-      "link": "https://www.ign.com/articles/saros-developer-housemarque-wants-to-have-the-same-growth-as-fromsoftware",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781661989
-    },
-    {
-      "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
-      "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781649257
-    },
-    {
       "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
       "link": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
       "source": "ARSTECHNICA",
@@ -420,13 +483,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1781647875
-    },
-    {
-      "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
-      "link": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781647772
     },
     {
       "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
@@ -520,32 +576,11 @@
       "timestamp": 1781632800
     },
     {
-      "title": "Trump admin abandons fight against wind energy as clean energy output surges",
-      "link": "https://arstechnica.com/science/2026/06/trump-admin-abandons-fight-against-wind-energy-as-clean-energy-output-surges/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781628549
-    },
-    {
-      "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
-      "link": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781627865
-    },
-    {
       "title": "The Nikon Z fc is our choice as the best budget camera — this retro-inspired beauty is at its best price of the year in this early Amazon Prime Day deal",
       "link": "https://www.space.com/technology/the-nikon-z-fc-is-our-choice-as-the-best-budget-camera-this-retro-inspired-beauty-is-at-its-best-price-of-the-year-in-this-early-amazon-prime-day-deal",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781627724
-    },
-    {
-      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-      "link": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781626687
     },
     {
       "title": "Watch a fireball burn a 300 mile path above the Midwest US (video)",
@@ -625,20 +660,6 @@
       "timestamp": 1781614997
     },
     {
-      "title": "Move over 'Mass Effect': 'Exodus' just got an extended gameplay reveal, and we are beyond hyped for this sci-fi RPG",
-      "link": "https://www.space.com/entertainment/space-games/move-over-mass-effect-exodus-just-got-an-extended-gameplay-reveal-and-we-are-beyond-hyped-for-this-sci-fi-rpg",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781614800
-    },
-    {
-      "title": "SpaceX launches 3 huge BlueBird direct-to-cell satellites from Florida",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-bluebird-8-to-10-direct-to-cell-launch",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781611200
-    },
-    {
       "title": "Scientists found a way to explain bird flocks that “defy” Newton’s third law",
       "link": "https://www.sciencedaily.com/releases/2026/06/260615033843.htm",
       "source": "SCIENCEDAILY",
@@ -658,13 +679,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781605856
-    },
-    {
-      "title": "Ransomware gang abuses Microsoft Teams relays to hide malicious traffic",
-      "link": "https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781605128
     },
     {
       "title": "Alien messages may have reached Earth without us realizing it",
@@ -707,20 +721,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781543566
-    },
-    {
-      "title": "Knicks championship run stacks up against best in history, but that's not the point",
-      "link": "https://www.cbssports.com/nba/news/knicks-championship-run-history/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781540922
-    },
-    {
-      "title": "Jalen Brunson a Knicks legend with NBA title; Stunning finish to UFC Freedom 250",
-      "link": "https://www.cbssports.com/nba/news/jalen-brunson-a-knicks-legend-with-nba-title-stunning-finish-to-ufc-freedom-250/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781527923
     },
     {
       "title": "This strange material can become strong or fall apart in seconds",
