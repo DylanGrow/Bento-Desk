@@ -1,6 +1,118 @@
 {
-  "last_updated": 1781709577,
+  "last_updated": 1781719959,
   "items": [
+    {
+      "title": "'Warframe''s new Constellations update puts the focus back among the stars (interview)",
+      "link": "https://www.space.com/entertainment/space-games/warframes-new-constellations-update-puts-the-focus-back-among-the-stars",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781719200
+    },
+    {
+      "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+      "link": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781718187
+    },
+    {
+      "title": "Mastodon looks to newsletters to help revive the open social web",
+      "link": "https://techcrunch.com/2026/06/17/mastodon-looks-to-newsletters-to-help-revive-the-open-social-web/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781717881
+    },
+    {
+      "title": "2026 NBA Draft: Options, odds, predictions and most likely selection for every team picking in top 10",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-draft-options-odds-predictions-and-most-likely-selection-for-every-team-picking-in-top-10/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781717164
+    },
+    {
+      "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+      "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781715601
+    },
+    {
+      "title": "Two Stanford grads raise $11M to build a noninvasive wearable for hormone tracking",
+      "link": "https://techcrunch.com/2026/06/17/two-stanford-grads-raise-11m-to-build-a-noninvasive-wearable-for-hormone-tracking/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781715288
+    },
+    {
+      "title": "Google bets on Gemini to reinvent the smart home speaker",
+      "link": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781713809
+    },
+    {
+      "title": "PayPal Ventures shutters as company restructuring continues",
+      "link": "https://techcrunch.com/2026/06/17/paypal-ventures-shutters-as-company-restructuring-continues/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781712613
+    },
+    {
+      "title": "GTA Online Is Adding a Massive New Heist in July, to Keep You Busy Until GTA 6 Arrives",
+      "link": "https://www.ign.com/articles/gta-online-is-adding-a-massive-new-heist-in-july-to-keep-you-busy-until-gta-6-arrives",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781712481
+    },
+    {
+      "title": "Assassin's Creed Black Flag Resynced Achievements All Available Offline, At Any Difficulty Setting",
+      "link": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-achievements-all-available-offline-at-any-difficulty-setting",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781712332
+    },
+    {
+      "title": "The 10 best sci-fi TV shows of the 2000s",
+      "link": "https://www.space.com/entertainment/space-movies-shows/the-10-best-sci-fi-tv-shows-of-the-2000s",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781712000
+    },
+    {
+      "title": "Dispatch Developer Addresses Controversial Switch Censorship With New Patch — Though 'Some Hard Requirements From Nintendo' Remain",
+      "link": "https://www.ign.com/articles/dispatch-developer-addresses-controversial-switch-censorship-with-new-patch-though-some-hard-requirements-from-nintendo-remain",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781712000
+    },
+    {
+      "title": "Disney Dreamlight Valley 2026 Summer Showcase: Everything Announced",
+      "link": "https://www.ign.com/articles/disney-dreamlight-valley-summer-showcase-2026-everything-announced",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781711879
+    },
+    {
+      "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
+      "link": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781711834
+    },
+    {
+      "title": "Towers once planned for California shuttle launches leveled for SpaceX rockets",
+      "link": "https://arstechnica.com/space/2026/06/towers-once-planned-for-california-shuttle-launches-leveled-for-spacex-rockets/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781711229
+    },
+    {
+      "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
+      "link": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781709881
+    },
     {
       "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
       "link": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
@@ -9,11 +121,32 @@
       "timestamp": 1781709177
     },
     {
-      "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it",
+      "title": "\"Truly evil\" FDA rejection of gene therapy overturned after Trump official ousted",
+      "link": "https://arstechnica.com/health/2026/06/truly-evil-fda-rejection-of-gene-therapy-overturned-after-trump-official-ousted/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781709151
+    },
+    {
+      "title": "Warframe Creative Director Says New Characters Were Inspired by Super Smash Bros.",
+      "link": "https://www.ign.com/articles/warframe-jade-shadows-constellations-super-smash-bros-characters",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781708400
+    },
+    {
+      "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
       "link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1781708400
+    },
+    {
+      "title": "Mike Myers Says Austin Powers 4 Will Happen",
+      "link": "https://www.ign.com/articles/mike-myers-says-austin-powers-4-will-happen",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781707706
     },
     {
       "title": "2026 NBA Mock Draft: Cameron Boozer goes to Jazz at No. 2, Clippers like Mikel Brown for fifth pick",
@@ -268,27 +401,6 @@
       "timestamp": 1781661989
     },
     {
-      "title": "Death Stranding Movie Targeting 2027 Shoot Date, Characters From the Games Will Appear",
-      "link": "https://www.ign.com/articles/death-stranding-movie-targeting-2027-shoot-date-characters-from-the-games-will-appear",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781660526
-    },
-    {
-      "title": "Entire Luna Abyss Development Team Laid Off One Month After Launch",
-      "link": "https://www.ign.com/articles/entire-luna-abyss-development-team-laid-off-one-month-after-launch",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781659351
-    },
-    {
-      "title": "Tom Holland Scoured the Internet to Find Out What Fans Wanted to See in Spider-Man: Brand New Day",
-      "link": "https://www.ign.com/articles/tom-holland-scoured-the-internet-to-find-out-what-fans-wanted-to-see-in-spider-man-brand-new-day",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781658176
-    },
-    {
       "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
       "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
       "source": "TECHCRUNCH",
@@ -352,13 +464,6 @@
       "timestamp": 1781643600
     },
     {
-      "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-      "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781640660
-    },
-    {
       "title": "New Rokarolla Android malware targets 217 banking, crypto apps",
       "link": "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/",
       "source": "BLEEPINGCOMPUTER",
@@ -366,7 +471,7 @@
       "timestamp": 1781640251
     },
     {
-      "title": "European rocket launches record-breaking mission with Amazon LEO satellites",
+      "title": "European rocket launches record-breaking mission with Amazon internet satellites",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/ariane-6-rocket-record-breaking-launch-amazon-leo-le-03",
       "source": "SPACE",
       "category": "space",
@@ -394,20 +499,6 @@
       "timestamp": 1781634475
     },
     {
-      "title": "Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end",
-      "link": "https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781634144
-    },
-    {
-      "title": "Bug in FIFA World Cup internal system gave anyone ability to modify TV stream",
-      "link": "https://techcrunch.com/2026/06/16/bug-in-fifa-world-cup-internal-system-gave-anyone-ability-to-modify-tv-stream/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781633629
-    },
-    {
       "title": "Pentagon boasts of using AI to write reports mandated by Congress",
       "link": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
       "source": "ARSTECHNICA",
@@ -422,46 +513,11 @@
       "timestamp": 1781632808
     },
     {
-      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
-      "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781632800
-    },
-    {
       "title": "Look up! The moon and Venus will stage a rare daytime disappearing act today",
       "link": "https://www.space.com/stargazing/how-to-see-the-moon-hide-venus-in-a-rare-daytime-sky-show-on-june-17",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781632800
-    },
-    {
-      "title": "Mobileye’s US robotaxi launch will put it on both sides of the AV business",
-      "link": "https://techcrunch.com/2026/06/16/mobileye-us-robotaxi-launch-will-put-it-on-both-sides-of-the-av-business/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781632223
-    },
-    {
-      "title": "Rivian cuts hundreds of workers after R2 deliveries start",
-      "link": "https://techcrunch.com/2026/06/16/rivian-cuts-hundreds-of-workers-after-r2-deliveries-start/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781632100
-    },
-    {
-      "title": "Snap finally debuts its long-awaited AR glasses, Specs, and, oof, they aren’t cheap",
-      "link": "https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781629200
-    },
-    {
-      "title": "Resident Evil Lore Master Reveals The 5 Burning Questions Veronica Needs to Answer",
-      "link": "https://www.ign.com/articles/resident-evil-lore-master-reveals-the-5-burning-questions-veronica-needs-to-answer",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781628919
     },
     {
       "title": "Trump admin abandons fight against wind energy as clean energy output surges",
@@ -499,20 +555,6 @@
       "timestamp": 1781625600
     },
     {
-      "title": "Shrek 5 Trailer Reveals Shrek, His Family, and Donkey Travel to a New Kingdom",
-      "link": "https://www.ign.com/articles/shrek-5-trailer-reveals-shrek-his-family-and-donkey-travel-to-a-new-kingdom",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781624829
-    },
-    {
-      "title": "Lord of the Rings Fans React to Anya Taylor-Joy's Casting in The Hunt for Gollum",
-      "link": "https://www.ign.com/articles/lord-of-the-rings-fans-react-to-anya-taylor-joys-casting-in-the-hunt-for-gollum",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781623628
-    },
-    {
       "title": "Five lessons Victor Wembanyama can learn from Spurs' NBA Finals failure",
       "link": "https://www.cbssports.com/nba/news/five-lessons-victor-wembanyama-nba-finals-failure/",
       "source": "CBSSPORTS",
@@ -532,13 +574,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1781620729
-    },
-    {
-      "title": "Mobileye is entering the US robotaxi market with standalone service",
-      "link": "https://arstechnica.com/cars/2026/06/mobileye-is-entering-the-us-robotaxi-market-with-standalone-service/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781619651
     },
     {
       "title": "GhostTree Attack Abused Recursive Windows Junctions to Hide Malware",
@@ -576,13 +611,6 @@
       "timestamp": 1781617339
     },
     {
-      "title": "The Ars Technica 2026 Reader Survey: Let your voice be heard!",
-      "link": "https://arstechnica.com/staff/2026/06/the-ars-technica-2026-reader-survey-let-your-voice-be-heard/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781616955
-    },
-    {
       "title": "What's next for LeBron James? Re-setting the odds for his next team, plus why retirement seems less likely now",
       "link": "https://www.cbssports.com/nba/news/lebron-james-future-next-team-retirement/",
       "source": "CBSSPORTS",
@@ -618,13 +646,6 @@
       "timestamp": 1781609322
     },
     {
-      "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
-      "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781608546
-    },
-    {
       "title": "CISA warns of another cPanel plugin flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/",
       "source": "BLEEPINGCOMPUTER",
@@ -646,25 +667,11 @@
       "timestamp": 1781605128
     },
     {
-      "title": "James Webb Space Telescope forecasts extreme weather on exoplanet that rains rubies and sapphires",
-      "link": "https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-forecasts-extreme-weather-on-exoplanet-that-rains-rubies-and-sapphires",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781604000
-    },
-    {
       "title": "Alien messages may have reached Earth without us realizing it",
       "link": "https://www.sciencedaily.com/releases/2026/06/260615033851.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781597517
-    },
-    {
-      "title": "SpaceX Dragon cargo capsule undocks from ISS, heads home to Earth",
-      "link": "https://www.space.com/space-exploration/international-space-station/spacex-dragon-cargo-capsule-crs-34-return-to-earth",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781582700
     },
     {
       "title": "Bulls reportedly hiring Tiago Splitter as head coach as Chicago looks for fresh start",
@@ -714,13 +721,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781527923
-    },
-    {
-      "title": "Top 50 NBA offseason trade candidates: Giannis Antetokounmpo leads a list filled with big names",
-      "link": "https://www.cbssports.com/nba/news/nba-offseason-trade-candidates-2026/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781527733
     },
     {
       "title": "This strange material can become strong or fall apart in seconds",
