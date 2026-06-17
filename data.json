@@ -1,6 +1,160 @@
 {
-  "last_updated": 1781696674,
+  "last_updated": 1781709577,
   "items": [
+    {
+      "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
+      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781709177
+    },
+    {
+      "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it",
+      "link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781708400
+    },
+    {
+      "title": "2026 NBA Mock Draft: Cameron Boozer goes to Jazz at No. 2, Clippers like Mikel Brown for fifth pick",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-mock-draft-cameron-boozer-goes-to-jazz-at-no-2-clippers-like-mikel-brown-for-fifth-pick/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781707218
+    },
+    {
+      "title": "Ranking top 40 NBA free agents: Austin Reaves, Jalen Duren, LeBron James top list for 2026 offseason",
+      "link": "https://www.cbssports.com/nba/news/ranking-top-40-nba-free-agents-2026/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781706619
+    },
+    {
+      "title": "Humans may have hidden regenerative powers",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1781706331
+    },
+    {
+      "title": "Rockstar Dishes Out Free GTA 5 Current-Gen Upgrades to PS4 and Xbox One Owners",
+      "link": "https://www.ign.com/articles/rockstar-dishes-out-free-gta-5-current-gen-upgrades-to-ps4-and-xbox-one-owners",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781706183
+    },
+    {
+      "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+      "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781705722
+    },
+    {
+      "title": "Why Account Takeovers Are Rising and How to Stop Them",
+      "link": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781704810
+    },
+    {
+      "title": "A volcanic eruption seen from space | Space photo of the day for June 17, 2026",
+      "link": "https://www.space.com/astronomy/earth/a-volcanic-eruption-seen-from-space-space-photo-of-the-day-for-june-17-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781704800
+    },
+    {
+      "title": "SpaceX alum nabs $22M to turn rocket engines into geothermal power plants",
+      "link": "https://techcrunch.com/2026/06/17/spacex-alum-nabs-22m-to-turn-rocket-engines-into-geothermal-power-plants/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781703000
+    },
+    {
+      "title": "India's Telegram ban hit the UAE too. Here's how to get around it",
+      "link": "https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781701965
+    },
+    {
+      "title": "Lionel Messi ties all-time World Cup goals record; U.S. Open expert picks, player rankings",
+      "link": "https://www.cbssports.com/golf/news/lionel-messi-ties-all-time-world-cup-goals-record-u-s-open-expert-picks-player-rankings/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781701471
+    },
+    {
+      "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
+      "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781699889
+    },
+    {
+      "title": "Scientists discover spider that disguises itself as a parasitic fungus",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260617032201.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1781698783
+    },
+    {
+      "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
+      "link": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781698484
+    },
+    {
+      "title": "Microsoft Insists It Won’t Flip Flop on Exclusives as Fans Say They're Finding It Hard to Trust Xbox",
+      "link": "https://www.ign.com/articles/microsoft-insists-it-wont-flip-flop-on-exclusives-as-fans-say-theyre-finding-it-hard-to-trust-xbox",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781697811
+    },
+    {
+      "title": "On the brink of extinction, the vaquita gets a digital lifeline",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260616102223.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1781697697
+    },
+    {
+      "title": "Native NACS ports, infotainment upgrade for MY27 Porsche Taycan",
+      "link": "https://arstechnica.com/cars/2026/06/native-nacs-ports-infotainment-upgrade-for-my27-porsche-taycan/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781697645
+    },
+    {
+      "title": "Was life delivered to Earth by asteroids with a helping hand from Jupiter?",
+      "link": "https://www.space.com/space-exploration/search-for-life/was-life-delivered-to-earth-by-asteroids-with-a-helping-hand-from-jupiter",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781697600
+    },
+    {
+      "title": "Microsoft confirms Office apps launch issues after June updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-office-apps-launch-issues-after-june-updates/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781697261
+    },
+    {
+      "title": "Doctor Who Cancellation Avoided Episode Becoming 'Christmas-Shaped Bomb' For Show's Future, Insider Says",
+      "link": "https://www.ign.com/articles/doctor-who-cancellation-avoided-episode-becoming-christmas-shaped-bomb-for-shows-future-insider-says",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781697162
+    },
+    {
+      "title": "Windows and Linux users: The deadline to update Secure Boot keys is near",
+      "link": "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781694917
+    },
     {
       "title": "Uber will bring its premium robotaxi service to Houston in 2027",
       "link": "https://techcrunch.com/2026/06/17/uber-will-bring-its-premium-robotaxi-service-to-houston-in-2027/",
@@ -212,7 +366,7 @@
       "timestamp": 1781640251
     },
     {
-      "title": "Watch European rocket launch record-breaking mission for Amazon on June 17",
+      "title": "European rocket launches record-breaking mission with Amazon LEO satellites",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/ariane-6-rocket-record-breaking-launch-amazon-leo-le-03",
       "source": "SPACE",
       "category": "space",
@@ -310,13 +464,6 @@
       "timestamp": 1781628919
     },
     {
-      "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
-      "link": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781628584
-    },
-    {
       "title": "Trump admin abandons fight against wind energy as clean energy output surges",
       "link": "https://arstechnica.com/science/2026/06/trump-admin-abandons-fight-against-wind-energy-as-clean-energy-output-surges/",
       "source": "ARSTECHNICA",
@@ -352,32 +499,11 @@
       "timestamp": 1781625600
     },
     {
-      "title": "SpaceX is public: Everything you need to know post-IPO",
-      "link": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781625192
-    },
-    {
-      "title": "India orders temporary ban on Telegram over exam fraud concerns",
-      "link": "https://techcrunch.com/2026/06/16/india-temporarily-blocks-access-to-telegram-over-exam-fraud-concerns/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781624940
-    },
-    {
       "title": "Shrek 5 Trailer Reveals Shrek, His Family, and Donkey Travel to a New Kingdom",
       "link": "https://www.ign.com/articles/shrek-5-trailer-reveals-shrek-his-family-and-donkey-travel-to-a-new-kingdom",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1781624829
-    },
-    {
-      "title": "Payments startup Flutterwave hits $3.2B valuation, backed by Ripple",
-      "link": "https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781624139
     },
     {
       "title": "Lord of the Rings Fans React to Anya Taylor-Joy's Casting in The Hunt for Gollum",
@@ -394,13 +520,6 @@
       "timestamp": 1781623466
     },
     {
-      "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
-      "link": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781622303
-    },
-    {
       "title": "The crescent moon joins 3 planets in a beautiful sunset sky show tonight",
       "link": "https://www.space.com/stargazing/dont-miss-the-moon-lead-a-dazzling-mini-planet-parade-on-june-17",
       "source": "SPACE",
@@ -415,13 +534,6 @@
       "timestamp": 1781620729
     },
     {
-      "title": "Spider-Man: Brand New Day's Next Trailer Expected Tomorrow — And Here's a New Image From the Film",
-      "link": "https://www.ign.com/articles/spider-man-brand-new-days-next-trailer-expected-tomorrow-and-heres-a-new-image-from-the-film",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781620674
-    },
-    {
       "title": "Mobileye is entering the US robotaxi market with standalone service",
       "link": "https://arstechnica.com/cars/2026/06/mobileye-is-entering-the-us-robotaxi-market-with-standalone-service/",
       "source": "ARSTECHNICA",
@@ -434,13 +546,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1781619447
-    },
-    {
-      "title": "Tom Holland Suggests Adolescence Star Owen Cooper as His Spider-Man Successor",
-      "link": "https://www.ign.com/articles/tom-holland-suggests-adolescence-star-owen-cooper-as-his-spider-man-successor",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781619034
     },
     {
       "title": "New study explores potential cross-species spread of chronic wasting disease",
@@ -476,13 +581,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1781616955
-    },
-    {
-      "title": "Commodore Computers Is Making a Distraction-Free Cell Phone",
-      "link": "https://www.ign.com/articles/commodore-computers-is-making-a-distraction-free-cell-phone",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781616888
     },
     {
       "title": "What's next for LeBron James? Re-setting the odds for his next team, plus why retirement seems less likely now",
@@ -555,27 +653,6 @@
       "timestamp": 1781604000
     },
     {
-      "title": "Critical Fortinet FortiSandbox flaws now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781601591
-    },
-    {
-      "title": "Commodore’s newest gadget is a flip phone that blocks social media and browsers",
-      "link": "https://arstechnica.com/gadgets/2026/06/commodores-newest-gadget-is-a-flip-phone-that-blocks-social-media-and-browsers/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781600451
-    },
-    {
-      "title": "Windows version of SprySOCKS Linux malware used to attack govt orgs",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781600400
-    },
-    {
       "title": "Alien messages may have reached Earth without us realizing it",
       "link": "https://www.sciencedaily.com/releases/2026/06/260615033851.htm",
       "source": "SCIENCEDAILY",
@@ -583,46 +660,11 @@
       "timestamp": 1781597517
     },
     {
-      "title": "iRhythm discloses data breach, says hackers stole patient info",
-      "link": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781591519
-    },
-    {
       "title": "SpaceX Dragon cargo capsule undocks from ISS, heads home to Earth",
       "link": "https://www.space.com/space-exploration/international-space-station/spacex-dragon-cargo-capsule-crs-34-return-to-earth",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781582700
-    },
-    {
-      "title": "Key mission for Europe's commercial space enterprise scrubbed again",
-      "link": "https://arstechnica.com/space/2026/06/key-mission-for-europes-commercial-space-enterprise-scrubbed-again/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781566838
-    },
-    {
-      "title": "DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act",
-      "link": "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781560615
-    },
-    {
-      "title": "Astrobotic unveils Griffin-1 lunar lander for NASA Moon Base mission",
-      "link": "https://www.space.com/space-exploration/astrobotic-unveils-griffin-1-lunar-lander-for-nasa-moon-base-mission",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781553600
-    },
-    {
-      "title": "SpaceX sends 24 Starlink satellites to orbit on 1st launch as a public company (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-54-b1093-vsfb-ocisly",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781551661
     },
     {
       "title": "Bulls reportedly hiring Tiago Splitter as head coach as Chicago looks for fresh start",
@@ -716,27 +758,6 @@
       "timestamp": 1781472328
     },
     {
-      "title": "Knicks' Jalen Brunson joins Michael Jordan, Kareem Abdul-Jabbar among few to achieve remarkable career feat",
-      "link": "https://www.cbssports.com/nba/news/knicks-jalen-brunson-nba-finals-mvp-champion-ncaa-college/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781457705
-    },
-    {
-      "title": "Ranking NBA's eight recent champions by their chances to win another title",
-      "link": "https://www.cbssports.com/nba/news/ranking-nba-recent-champion-title-chances-knicks/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781449655
-    },
-    {
-      "title": "The Spurs' ahead-of-schedule season ended bitterly, but they'll be title favorites for years to come",
-      "link": "https://www.cbssports.com/nba/news/spurs-ahead-of-schedule-season-title-favorites/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781448347
-    },
-    {
       "title": "Scientists crack a decades-old CO2 problem and triple fuel production",
       "link": "https://www.sciencedaily.com/releases/2026/06/260613034234.htm",
       "source": "SCIENCEDAILY",
@@ -756,27 +777,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781422414
-    },
-    {
-      "title": "Scientists discover parrots may actually use names",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260613034232.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1781414776
-    },
-    {
-      "title": "Yellowstone wolves may not have reshaped the national park after all",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260613215510.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1781411229
-    },
-    {
-      "title": "Why middle age is becoming a breaking point in the U.S.",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260613215430.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1781403852
     }
   ]
 }
