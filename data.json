@@ -1,6 +1,90 @@
 {
-  "last_updated": 1781772205,
+  "last_updated": 1781785362,
   "items": [
+    {
+      "title": "Telegram admits it couldn't police exam-leak channels, India tells court",
+      "link": "https://www.bleepingcomputer.com/news/security/telegram-admits-it-couldnt-police-exam-leak-channels-india-tells-court/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781785129
+    },
+    {
+      "title": "Knicks parade details: Date, time, route as New York celebrates NBA championship",
+      "link": "https://www.cbssports.com/nba/news/knicks-championship-parade-details-date-route/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781784046
+    },
+    {
+      "title": "Pixi’s new iOS app turns text messages into interactive AR experiences",
+      "link": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781784000
+    },
+    {
+      "title": "Waymo recalls nearly 4,000 robotaxis to stop them driving into highway construction zones",
+      "link": "https://techcrunch.com/2026/06/18/waymo-recalls-nearly-4000-robotaxis-to-stop-them-driving-into-highway-construction-zones/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781783951
+    },
+    {
+      "title": "F5 issues out-of-band patches for critical NGINX vulnerabilities",
+      "link": "https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781782380
+    },
+    {
+      "title": "Could cosmic memory explain dark matter, dark energy, and black holes?",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260616103131.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1781778683
+    },
+    {
+      "title": "Microsoft fixes Windows Server 2016 security update failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-2016-security-update-failures/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781777660
+    },
+    {
+      "title": "Scrapped Star Wars TV Series Would Have Shown the Rise of Emperor Palpatine 'Like Hitler's'",
+      "link": "https://www.ign.com/articles/scrapped-star-wars-tv-series-would-have-shown-the-rise-of-emperor-palpatine-like-hitlers",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781776809
+    },
+    {
+      "title": "NASA's Perseverance rover just ran a marathon on Mars. Could you do the same?",
+      "link": "https://www.space.com/astronomy/mars/nasas-perseverance-rover-just-ran-a-marathon-on-mars-could-you-do-the-same",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781776800
+    },
+    {
+      "title": "Vampire Survivors Developer 'Reviewing' Fortnite Crossover Plans, After Epic Details Unreal Engine 6 AI Usage",
+      "link": "https://www.ign.com/articles/vampire-survivors-developer-reviewing-fortnite-crossover-plans-after-epic-details-unreal-engine-6-ai-usage",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781774169
+    },
+    {
+      "title": "Final Fantasy Tactics Remaster Adds New Game+, but War of the Lions Content Still Missing",
+      "link": "https://www.ign.com/articles/final-fantasy-tactics-remaster-adds-new-game-but-war-of-the-lions-content-still-missing",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781772464
+    },
+    {
+      "title": "Final Fantasy 14 Rewards Japanese Players for Paying Their Real-Life Taxes With a Giant Dog",
+      "link": "https://www.ign.com/articles/final-fantasy-14-rewards-japanese-players-for-paying-their-real-life-taxes-with-a-giant-dog",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781771486
+    },
     {
       "title": "Apple Price Rises ‘Unavoidable’, Warns CEO Tim Cook",
       "link": "https://www.ign.com/articles/apple-price-rises-unavoidable-warns-ceo-tim-cook",
@@ -240,7 +324,7 @@
       "timestamp": 1781719466
     },
     {
-      "title": "'Warframe''s new Constellations update puts the focus back among the stars (interview)",
+      "title": "Warframe's latest update is all about space combat, constellations, and cosmic mythology",
       "link": "https://www.space.com/entertainment/space-games/warframes-new-constellations-update-puts-the-focus-back-among-the-stars",
       "source": "SPACE",
       "category": "space",
@@ -273,20 +357,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781717164
-    },
-    {
-      "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
-      "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781715601
-    },
-    {
-      "title": "Two Stanford grads raise $11M to build a noninvasive wearable for hormone tracking",
-      "link": "https://techcrunch.com/2026/06/17/two-stanford-grads-raise-11m-to-build-a-noninvasive-wearable-for-hormone-tracking/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781715288
     },
     {
       "title": "GTA Online Is Adding a Massive New Heist in July, to Keep You Busy Until GTA 6 Arrives",
@@ -380,13 +450,6 @@
       "timestamp": 1781706331
     },
     {
-      "title": "Rockstar Dishes Out Free GTA 5 Current-Gen Upgrades to PS4 and Xbox One Owners",
-      "link": "https://www.ign.com/articles/rockstar-dishes-out-free-gta-5-current-gen-upgrades-to-ps4-and-xbox-one-owners",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781706183
-    },
-    {
       "title": "Why Account Takeovers Are Rising and How to Stop Them",
       "link": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/",
       "source": "BLEEPINGCOMPUTER",
@@ -422,13 +485,6 @@
       "timestamp": 1781698783
     },
     {
-      "title": "Microsoft Insists It Won’t Flip Flop on Exclusives as Fans Say They're Finding It Hard to Trust Xbox",
-      "link": "https://www.ign.com/articles/microsoft-insists-it-wont-flip-flop-on-exclusives-as-fans-say-theyre-finding-it-hard-to-trust-xbox",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781697811
-    },
-    {
       "title": "On the brink of extinction, the vaquita gets a digital lifeline",
       "link": "https://www.sciencedaily.com/releases/2026/06/260616102223.htm",
       "source": "SCIENCEDAILY",
@@ -457,25 +513,11 @@
       "timestamp": 1781697261
     },
     {
-      "title": "Doctor Who Cancellation Avoided Episode Becoming 'Christmas-Shaped Bomb' For Show's Future, Insider Says",
-      "link": "https://www.ign.com/articles/doctor-who-cancellation-avoided-episode-becoming-christmas-shaped-bomb-for-shows-future-insider-says",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781697162
-    },
-    {
       "title": "Windows and Linux users: The deadline to update Secure Boot keys is near",
       "link": "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1781694917
-    },
-    {
-      "title": "Billionaire Valve Boss Gabe Newell Buys Florida Super Mansion With Its Own Underground Tunnel for $70.8 Million",
-      "link": "https://www.ign.com/articles/billionaire-valve-boss-gabe-newell-buys-florida-super-mansion-with-its-own-underground-tunnel-for-708-million",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781693211
     },
     {
       "title": "CISA orders feds to patch max severity Joomla plugin flaw by Friday",
@@ -562,7 +604,7 @@
       "timestamp": 1781640251
     },
     {
-      "title": "European rocket launches record-breaking mission with Amazon internet satellites",
+      "title": "European rocket launches record-breaking mission with Amazon internet satellites (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/ariane-6-rocket-record-breaking-launch-amazon-leo-le-03",
       "source": "SPACE",
       "category": "space",
@@ -618,20 +660,6 @@
       "timestamp": 1781622000
     },
     {
-      "title": "UK to require ID or face scan before you can make social media accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781620729
-    },
-    {
-      "title": "GhostTree Attack Abused Recursive Windows Junctions to Hide Malware",
-      "link": "https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781619447
-    },
-    {
       "title": "New study explores potential cross-species spread of chronic wasting disease",
       "link": "https://www.sciencedaily.com/releases/2026/06/260615033841.htm",
       "source": "SCIENCEDAILY",
@@ -644,20 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781618543
-    },
-    {
-      "title": "SpaceX IPO brings Starship to NYC | Space photo of the day for June 16, 2026",
-      "link": "https://www.space.com/space-exploration/private-spaceflight/spacex-ipo-brings-starship-to-nyc-space-photo-of-the-day-for-june-16-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781618400
-    },
-    {
-      "title": "FTC warns of record $3.5 billion losses to imposter scams in 2025",
-      "link": "https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781617339
     },
     {
       "title": "What's next for LeBron James? Re-setting the odds for his next team, plus why retirement seems less likely now",
@@ -716,13 +730,6 @@
       "timestamp": 1781544183
     },
     {
-      "title": "2026 NBA Draft Scouting: The strengths, upside and risks of the draft's four premier lead guards",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-draft-darius-acuff-keaton-wagler-mikel-brown-kingston-flemings/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781543900
-    },
-    {
       "title": "This strange material can become strong or fall apart in seconds",
       "link": "https://www.sciencedaily.com/releases/2026/06/260615033849.htm",
       "source": "SCIENCEDAILY",
@@ -770,13 +777,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781424511
-    },
-    {
-      "title": "Millipedes beat vertebrates to land by 80 million years",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260613034213.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1781422414
     }
   ]
 }
