@@ -1,6 +1,125 @@
 {
-  "last_updated": 1781800069,
+  "last_updated": 1781810718,
   "items": [
+    {
+      "title": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
+      "link": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781808706
+    },
+    {
+      "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781807496
+    },
+    {
+      "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+      "link": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781806933
+    },
+    {
+      "title": "After Senate vote, Trump admin backs off plans to kill ocean monitoring",
+      "link": "https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781806784
+    },
+    {
+      "title": "Rivian owners file lawsuit alleging false promises on self-driving features",
+      "link": "https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781805633
+    },
+    {
+      "title": "Mivo’s new app takes a mindful approach to managing screen time",
+      "link": "https://techcrunch.com/2026/06/18/mivos-new-app-takes-a-mindful-approach-to-managing-screen-time/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781805600
+    },
+    {
+      "title": "Jared Leto's unreal Skeletor transformation for 'Masters of the Universe' only took '15 minutes' (interview)",
+      "link": "https://www.space.com/entertainment/space-movies-shows/jared-letos-unreal-skeletor-transformation-for-masters-of-the-universe-only-took-15-minutes-interview",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781805600
+    },
+    {
+      "title": "AI data centers just got a government-mandated fast lane to the grid",
+      "link": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781804963
+    },
+    {
+      "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
+      "link": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781804538
+    },
+    {
+      "title": "The smartphone era created an attention crisis. Slowtech is fixing it",
+      "link": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781802990
+    },
+    {
+      "title": "Texas government data breach allowed hackers to steal 3 million driver’s licenses and passports",
+      "link": "https://techcrunch.com/2026/06/18/texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781802773
+    },
+    {
+      "title": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
+      "link": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781802169
+    },
+    {
+      "title": "Watch SpaceX launch new batch of US spy satellites from California early on June 19",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-179-nro",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781802000
+    },
+    {
+      "title": "DC Revives Three Fan-Favorite Superhero Teams for DC Next Level Initiative",
+      "link": "https://www.ign.com/articles/dc-next-level-legion-of-super-heroes-teen-titans-doom-patrol",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781801993
+    },
+    {
+      "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+      "link": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781801704
+    },
+    {
+      "title": "The Evolution of Grand Theft Auto's Iconic Cover Art, Now Including GTA 6",
+      "link": "https://www.ign.com/articles/the-evolution-of-grand-theft-autos-iconic-cover-art-now-including-gta-6",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781800517
+    },
+    {
+      "title": "You can get my favorite image-stabilized binoculars for their cheapest ever price in this incredible anti-Prime Day deal",
+      "link": "https://www.space.com/stargazing/skywatching-kit/fujinon-techno-stabi-1640-binoculars-at-their-cheapest-ever-price-in-this-incredible-anti-prime-day-deal",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781799962
+    },
     {
       "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
       "link": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/",
@@ -14,6 +133,13 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781799587
+    },
+    {
+      "title": "7 Burning Questions for the GTA 6 Pre-Order Launch",
+      "link": "https://www.ign.com/articles/7-burning-questions-for-the-gta-6-pre-order-launch",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781798401
     },
     {
       "title": "Sun-like star may have swallowed an exoplanet with help from a mysterious companion: 'You are what you eat, right?'",
@@ -37,6 +163,13 @@
       "timestamp": 1781797659
     },
     {
+      "title": "Rockstar Fans Rejoice, as It Now Looks Certain GTA 6 Won't Get Delayed Again",
+      "link": "https://www.ign.com/articles/rockstar-fans-rejoice-as-it-now-looks-certain-gta-6-wont-get-delayed-again",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781797291
+    },
+    {
       "title": "General Intuition in talks to raise $300M at around $2B valuation",
       "link": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
       "source": "TECHCRUNCH",
@@ -49,6 +182,13 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1781795601
+    },
+    {
+      "title": "Hunter-gatherers in Siberia died of a plague outbreak 5,500 years ago",
+      "link": "https://arstechnica.com/science/2026/06/hunter-gatherers-in-siberia-died-of-a-plague-outbreak-5500-years-ago/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781795080
     },
     {
       "title": "Astrophotographer captures a cosmic lagoon glowing 5,200 light-years from Earth (photo)",
@@ -72,7 +212,7 @@
       "timestamp": 1781794800
     },
     {
-      "title": "Cosmonaut Aleksandr Samokutyaev, 56, is first former ISS crew member to die",
+      "title": "The first long-duration resident of the ISS, a cosmonaut, has died",
       "link": "https://arstechnica.com/space/2026/06/cosmonaut-aleksandr-samokutyaev-56-is-first-former-iss-crew-member-to-die/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -317,25 +457,11 @@
       "timestamp": 1781772464
     },
     {
-      "title": "Final Fantasy 14 Rewards Japanese Players for Paying Their Real-Life Taxes With a Giant Dog",
-      "link": "https://www.ign.com/articles/final-fantasy-14-rewards-japanese-players-for-paying-their-real-life-taxes-with-a-giant-dog",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781771486
-    },
-    {
       "title": "Major errors found in Al Gore-founded Climate TRACE database",
       "link": "https://www.sciencedaily.com/releases/2026/06/260618041519.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781770519
-    },
-    {
-      "title": "Apple Price Rises ‘Unavoidable’, Warns CEO Tim Cook",
-      "link": "https://www.ign.com/articles/apple-price-rises-unavoidable-warns-ceo-tim-cook",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781769796
     },
     {
       "title": "Hulk, Punisher join Peter Parker in Spider-Man: Brand New Day trailer",
@@ -345,27 +471,6 @@
       "timestamp": 1781764679
     },
     {
-      "title": "NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX",
-      "link": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781763984
-    },
-    {
-      "title": "Spider-Man: Brand New Day Popcorn Buckets Revealed as Tickets Go on Sale",
-      "link": "https://www.ign.com/articles/spider-man-brand-new-day-popcorn-buckets-revealed-as-tickets-go-on-sale",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781753629
-    },
-    {
-      "title": "Reality Series Survivor Is Spawning an Animated Movie Featuring Animal Contestants",
-      "link": "https://www.ign.com/articles/reality-series-survivor-is-spawning-an-animated-movie-featuring-animal-contestants",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781750660
-    },
-    {
       "title": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/",
       "source": "BLEEPINGCOMPUTER",
@@ -373,25 +478,11 @@
       "timestamp": 1781746208
     },
     {
-      "title": "How to turn off AI in your Google Docs",
-      "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781745831
-    },
-    {
       "title": "Why James Dolan's second apron comments raise big questions about Knicks' ability to keep championship roster",
       "link": "https://www.cbssports.com/nba/news/knicks-owner-james-dolan-second-apron-championship-roster/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781745563
-    },
-    {
-      "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
-      "link": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781738901
     },
     {
       "title": "Second carcass-eating fly species cleared by FDA for maggot wound therapy",
@@ -406,13 +497,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781733358
-    },
-    {
-      "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
-      "link": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781731850
     },
     {
       "title": "Google to use UK and EU user IP addresses for ad personalization",
@@ -443,27 +527,6 @@
       "timestamp": 1781729072
     },
     {
-      "title": "Roelof Botha joins SpaceX’s board of directors",
-      "link": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781728372
-    },
-    {
-      "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
-      "link": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781727868
-    },
-    {
-      "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
-      "link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781727458
-    },
-    {
       "title": "California says AT&T lied to FCC in attempt to shut off old phone network",
       "link": "https://arstechnica.com/tech-policy/2026/06/california-says-att-lied-to-fcc-in-attempt-to-shut-off-old-phone-network/",
       "source": "ARSTECHNICA",
@@ -476,13 +539,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1781726071
-    },
-    {
-      "title": "FTC lawsuit reveals how subscription scam networks evade app store enforcement",
-      "link": "https://techcrunch.com/2026/06/17/ftc-lawsuit-reveals-how-subscription-scam-networks-evade-app-store-enforcement/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781725576
     },
     {
       "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
@@ -562,13 +618,6 @@
       "timestamp": 1781711229
     },
     {
-      "title": "\"Truly evil\" FDA rejection of gene therapy overturned after Trump official ousted",
-      "link": "https://arstechnica.com/health/2026/06/truly-evil-fda-rejection-of-gene-therapy-overturned-after-trump-official-ousted/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781709151
-    },
-    {
       "title": "Ranking top 40 NBA free agents: Austin Reaves, Jalen Duren, LeBron James top list for 2026 offseason",
       "link": "https://www.cbssports.com/nba/news/ranking-top-40-nba-free-agents-2026/",
       "source": "CBSSPORTS",
@@ -625,32 +674,11 @@
       "timestamp": 1781697697
     },
     {
-      "title": "Native NACS ports, infotainment upgrade for MY27 Porsche Taycan",
-      "link": "https://arstechnica.com/cars/2026/06/native-nacs-ports-infotainment-upgrade-for-my27-porsche-taycan/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781697645
-    },
-    {
       "title": "Was life delivered to Earth by asteroids with a helping hand from Jupiter?",
       "link": "https://www.space.com/space-exploration/search-for-life/was-life-delivered-to-earth-by-asteroids-with-a-helping-hand-from-jupiter",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781697600
-    },
-    {
-      "title": "Microsoft confirms Office apps launch issues after June updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-office-apps-launch-issues-after-june-updates/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781697261
-    },
-    {
-      "title": "Windows and Linux users: The deadline to update Secure Boot keys is near",
-      "link": "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781694917
     },
     {
       "title": "'Best. Mars. Mission. Ever.' Scientists hail MAVEN's legacy as NASA retires Red Planet orbiter",
@@ -660,39 +688,11 @@
       "timestamp": 1781690400
     },
     {
-      "title": "Stream Season 3 of Silo in safety, anywhere, with 70% off 24 months of ProtonVPN Plus",
-      "link": "https://www.space.com/technology/stream-season-3-of-silo-in-safety-anywhere-with-70-percent-off-24-months-of-protonvpn-plus",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781687177
-    },
-    {
       "title": "Scientists say most of what’s in your food is still a mystery",
       "link": "https://www.sciencedaily.com/releases/2026/06/260614012011.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781670712
-    },
-    {
-      "title": "NASA discussing bold mission to boost Swift space telescope today: Listen live",
-      "link": "https://www.space.com/space-exploration/missions/nasa-discussing-bold-mission-to-boost-swift-space-telescope-today-listen-live",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781669100
-    },
-    {
-      "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
-      "link": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781648564
-    },
-    {
-      "title": "NASA X-ray spacecraft catches jet erupting from 1st supermassive black hole imaged by humanity",
-      "link": "https://www.space.com/astronomy/black-holes/nasa-x-ray-spacecraft-catches-jet-erupting-from-1st-supermassive-black-hole-imaged-by-humanity",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781643600
     },
     {
       "title": "NBA offseason bold predictions: Stars on the move, LeBron James leaves Lakers, Draft shocker and more",
