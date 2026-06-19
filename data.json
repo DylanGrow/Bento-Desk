@@ -1,8 +1,36 @@
 {
-  "last_updated": 1781820285,
+  "last_updated": 1781828642,
   "items": [
     {
-      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega round",
+      "title": "PlayStation Reportedly Pulled Out of PC Ports Due to 'Inconsistent' Releases and Lack of Revenue",
+      "link": "https://www.ign.com/articles/playstation-reportedly-pulled-out-of-pc-ports-due-to-inconsistent-releases-and-lack-of-revenue",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781822198
+    },
+    {
+      "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
+      "link": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781821912
+    },
+    {
+      "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
+      "link": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781820539
+    },
+    {
+      "title": "As China looms, Taiwan makes more drones for defense and the US military",
+      "link": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781817686
+    },
+    {
+      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
       "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -100,7 +128,7 @@
       "timestamp": 1781809974
     },
     {
-      "title": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
+      "title": "Almost half of US singles feel negatively about AI in dating, Match says",
       "link": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -422,13 +450,6 @@
       "timestamp": 1781787130
     },
     {
-      "title": "Mods Enable Bloodborne to Run on PS5 at 120 FPS and Super High Resolution",
-      "link": "https://www.ign.com/articles/mods-enable-bloodborne-to-run-on-ps5-at-120-fps-and-super-high-resolution",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781786237
-    },
-    {
       "title": "Knicks parade details: Date, time, route as New York celebrates NBA championship",
       "link": "https://www.cbssports.com/nba/news/knicks-championship-parade-details-date-route/",
       "source": "CBSSPORTS",
@@ -583,25 +604,11 @@
       "timestamp": 1781725393
     },
     {
-      "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
-      "link": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781724319
-    },
-    {
       "title": "James Webb Space Telescope discovers extreme exoplanet being roasted by its home star",
       "link": "https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-discovers-extreme-exoplanet-being-roasted-by-its-home-star",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781722800
-    },
-    {
-      "title": "The Slate Truck's price may have leaked, starts at $24,950",
-      "link": "https://arstechnica.com/cars/2026/06/the-slate-trucks-price-may-have-leaked-starts-at-24950/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781720601
     },
     {
       "title": "NBA rumors: Warriors could target LeBron James if Lakers don't move; Kawhi Leonard's Clippers future, more",
@@ -658,13 +665,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781704800
-    },
-    {
-      "title": "India's Telegram ban hit the UAE too. Here's how to get around it",
-      "link": "https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781701965
     },
     {
       "title": "Lionel Messi ties all-time World Cup goals record; U.S. Open expert picks, player rankings",
