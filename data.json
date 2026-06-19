@@ -1,6 +1,55 @@
 {
-  "last_updated": 1781849708,
+  "last_updated": 1781867984,
   "items": [
+    {
+      "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781865598
+    },
+    {
+      "title": "Juicy new details emerge about an asteroid NASA's Lucy spacecraft flew by last year",
+      "link": "https://www.space.com/astronomy/asteroids/juicy-new-details-emerge-about-an-asteroid-nasas-lucy-spacecraft-flew-by-last-year",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781863200
+    },
+    {
+      "title": "Darth Maul Voice Actor Slams Star Wars: The Phantom Menace as 'The Biggest Disappointment of My Life' and Says His Pay Was 'S***'",
+      "link": "https://www.ign.com/articles/darth-maul-voice-actor-slams-star-wars-the-phantom-menace-as-the-biggest-disappointment-of-my-life-and-says-his-pay-was-s",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781863087
+    },
+    {
+      "title": "Fallout Season 3 Adds Star Wars and The Good Place Star Manny Jacinto",
+      "link": "https://www.ign.com/articles/fallout-season-3-adds-star-wars-and-the-good-place-star-manny-jacinto",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781859613
+    },
+    {
+      "title": "NY man charged after harassing college student with AI-generated nudes",
+      "link": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781858648
+    },
+    {
+      "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
+      "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781855952
+    },
+    {
+      "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781851675
+    },
     {
       "title": "Black hole winds may be robbing giant galaxies of their future stars",
       "link": "https://www.sciencedaily.com/releases/2026/06/260618041454.htm",
@@ -310,13 +359,6 @@
       "timestamp": 1781797688
     },
     {
-      "title": "MapTap, a daily geography game, is my new Wordle",
-      "link": "https://techcrunch.com/2026/06/18/maptap-a-daily-geography-game-is-my-new-wordle/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781797659
-    },
-    {
       "title": "Rockstar Fans Rejoice, as It Now Looks Certain GTA 6 Won't Get Delayed Again",
       "link": "https://www.ign.com/articles/rockstar-fans-rejoice-as-it-now-looks-certain-gta-6-wont-get-delayed-again",
       "source": "IGN",
@@ -429,20 +471,6 @@
       "timestamp": 1781788323
     },
     {
-      "title": "GTA 6 Cover Artwork Revealed, Pre-Orders Begin June 25",
-      "link": "https://www.ign.com/articles/gta-6-cover-artwork-revealed-pre-orders-begin-june-25",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781788061
-    },
-    {
-      "title": "Robin Hood's Tree — the 1,000-Year-Old Legend of Sherwood Forest — Declared Dead",
-      "link": "https://www.ign.com/articles/robin-hoods-tree-the-1000-year-old-legend-of-sherwood-forest-declared-dead",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781787975
-    },
-    {
       "title": "'It's quite a bit more than we expected': Satellite reveals immense scale of GPS signal tampering",
       "link": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
       "source": "SPACE",
@@ -548,13 +576,6 @@
       "timestamp": 1781764679
     },
     {
-      "title": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781746208
-    },
-    {
       "title": "Why James Dolan's second apron comments raise big questions about Knicks' ability to keep championship roster",
       "link": "https://www.cbssports.com/nba/news/knicks-owner-james-dolan-second-apron-championship-roster/",
       "source": "CBSSPORTS",
@@ -574,13 +595,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781733358
-    },
-    {
-      "title": "Google to use UK and EU user IP addresses for ad personalization",
-      "link": "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781730162
     },
     {
       "title": "One of these twin stars has likely been snacking on exoplanets",
@@ -658,20 +672,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781706331
-    },
-    {
-      "title": "Why Account Takeovers Are Rising and How to Stop Them",
-      "link": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781704810
-    },
-    {
-      "title": "A volcanic eruption seen from space | Space photo of the day for June 17, 2026",
-      "link": "https://www.space.com/astronomy/earth/a-volcanic-eruption-seen-from-space-space-photo-of-the-day-for-june-17-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781704800
     },
     {
       "title": "Lionel Messi ties all-time World Cup goals record; U.S. Open expert picks, player rankings",
