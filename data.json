@@ -1,6 +1,41 @@
 {
-  "last_updated": 1781828642,
+  "last_updated": 1781849708,
   "items": [
+    {
+      "title": "Black hole winds may be robbing giant galaxies of their future stars",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260618041454.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1781843203
+    },
+    {
+      "title": "Telegram ban in India sparks a rush to VPNs, rival apps",
+      "link": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781830860
+    },
+    {
+      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781830271
+    },
+    {
+      "title": "A bold satellite rescue mission came together in record time, but will it work?",
+      "link": "https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781829570
+    },
+    {
+      "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+      "link": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1781825332
+    },
     {
       "title": "PlayStation Reportedly Pulled Out of PC Ports Due to 'Inconsistent' Releases and Lack of Revenue",
       "link": "https://www.ign.com/articles/playstation-reportedly-pulled-out-of-pc-ports-due-to-inconsistent-releases-and-lack-of-revenue",
@@ -184,7 +219,7 @@
       "timestamp": 1781804538
     },
     {
-      "title": "The smartphone era created an attention crisis. Slowtech is fixing it",
+      "title": "The smartphone era created an attention crisis — slow tech is fixing it",
       "link": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -219,7 +254,7 @@
       "timestamp": 1781801993
     },
     {
-      "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+      "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
       "link": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -289,25 +324,18 @@
       "timestamp": 1781797291
     },
     {
-      "title": "General Intuition in talks to raise $300M at around $2B valuation",
-      "link": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781796037
-    },
-    {
-      "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
-      "link": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781795601
-    },
-    {
       "title": "Hunter-gatherers in Siberia died of a plague outbreak 5,500 years ago",
       "link": "https://arstechnica.com/science/2026/06/hunter-gatherers-in-siberia-died-of-a-plague-outbreak-5500-years-ago/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1781795080
+    },
+    {
+      "title": "Astrophotographer captures a cosmic lagoon glowing 5,200 light-years from Earth (photo)",
+      "link": "https://www.space.com/stargazing/astrophotography/astrophotographer-captures-a-cosmic-lagoon-glowing-5-200-light-years-from-earth-photo",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781794800
     },
     {
       "title": "Exclusive: No Gods, No Masters Is A New Kaiju Action 5-Issue Mini-Series From BOOM! Studios and an Eisner-Nominated Creative Team",
@@ -321,13 +349,6 @@
       "link": "https://www.ign.com/articles/garfield-escape-from-monday-gameplay-trailer-teases-the-terror-of-the-curse-of-the-spinach-lasagna",
       "source": "IGN",
       "category": "gaming",
-      "timestamp": 1781794800
-    },
-    {
-      "title": "Astrophotographer captures a cosmic lagoon glowing 5,200 light-years from Earth (photo)",
-      "link": "https://www.space.com/stargazing/astrophotography/astrophotographer-captures-a-cosmic-lagoon-glowing-5-200-light-years-from-earth-photo",
-      "source": "SPACE",
-      "category": "space",
       "timestamp": 1781794800
     },
     {
@@ -359,17 +380,17 @@
       "timestamp": 1781792390
     },
     {
-      "title": "No Law's Dense Cybergrunge City Might Just Be the Most Alive Open World Ever Created",
-      "link": "https://www.ign.com/articles/no-laws-dense-cybergrunge-city-might-just-be-the-most-alive-open-world-ever-created",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781791200
-    },
-    {
       "title": "These Mars valleys are hiding 30 dust devils | Space photo of the day for June 18, 2026",
       "link": "https://www.space.com/astronomy/earth/these-mars-valleys-are-hiding-30-dust-devils-space-photo-of-the-day-for-june-18-2026",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1781791200
+    },
+    {
+      "title": "No Law's Dense Cybergrunge City Might Just Be the Most Alive Open World Ever Created",
+      "link": "https://www.ign.com/articles/no-laws-dense-cybergrunge-city-might-just-be-the-most-alive-open-world-ever-created",
+      "source": "IGN",
+      "category": "gaming",
       "timestamp": 1781791200
     },
     {
@@ -590,20 +611,6 @@
       "timestamp": 1781726860
     },
     {
-      "title": "Massive breach spills credentials for thousands of sensitive networks",
-      "link": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781726071
-    },
-    {
-      "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
-      "link": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781725393
-    },
-    {
       "title": "James Webb Space Telescope discovers extreme exoplanet being roasted by its home star",
       "link": "https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-discovers-extreme-exoplanet-being-roasted-by-its-home-star",
       "source": "SPACE",
@@ -770,13 +777,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781508586
-    },
-    {
-      "title": "Beneath our feet lies a fungal superhighway stretching 68 quadrillion miles",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260614011845.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1781499610
     }
   ]
 }
