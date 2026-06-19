@@ -1,6 +1,41 @@
 {
-  "last_updated": 1781898350,
+  "last_updated": 1781903261,
   "items": [
+    {
+      "title": "Aura’s impressive e-ink photo frame doesn’t even look digital",
+      "link": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781902834
+    },
+    {
+      "title": "A private company will build and launch NASA's next Mars orbiter in 2028 — and it's not SpaceX",
+      "link": "https://www.space.com/space-exploration/missions/a-private-company-will-build-and-launch-nasas-next-mars-orbiter-in-2028-and-its-not-spacex",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781902800
+    },
+    {
+      "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781900702
+    },
+    {
+      "title": "'This is not like life that we’ve experienced' 'Star City' cast on struggling to relate to the brutality of Soviet existence in Apple TV's For All Mankind' spin-off",
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-is-not-like-life-that-weve-experienced-star-city-cast-on-struggling-to-relate-to-the-brutality-of-soviet-existence-in-apple-tvs-for-all-mankind-spin-off",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781899200
+    },
+    {
+      "title": "2026 NBA Draft Roundtable: Who goes No. 1 overall? Experts favor AJ Dybantsa over Darryn Peterson",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-draft-roundtable-no-1-overall-aj-dybantsa-darryn-peterson/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781896657
+    },
     {
       "title": "The most unpredictable meteor shower of the year peaks next week. Here's what to expect",
       "link": "https://www.space.com/stargazing/meteor-showers/the-most-unpredictable-meteor-shower-of-the-year-peaks-next-week-heres-what-to-expect",
@@ -485,13 +520,6 @@
       "timestamp": 1781805600
     },
     {
-      "title": "AI data centers just got a government-mandated fast lane to the grid",
-      "link": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781804963
-    },
-    {
       "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
       "link": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
       "source": "ARSTECHNICA",
@@ -632,25 +660,11 @@
       "timestamp": 1781788323
     },
     {
-      "title": "'It's quite a bit more than we expected': Satellite reveals immense scale of GPS signal tampering",
-      "link": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781787600
-    },
-    {
       "title": "ShapedPlugin update flow hacked to infect WordPress sites",
       "link": "https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1781787336
-    },
-    {
-      "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
-      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781787279
     },
     {
       "title": "Trae Young is reportedly declining his player option, so what does that mean for his free agency?",
@@ -672,13 +686,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781785006
-    },
-    {
-      "title": "Astronomers solve the mystery of black holes' delayed cosmic 'burps'",
-      "link": "https://www.space.com/astronomy/black-holes/astronomers-solve-the-mystery-of-black-holes-delayed-cosmic-burps",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781784000
     },
     {
       "title": "Could cosmic memory explain dark matter, dark energy, and black holes?",
@@ -735,13 +742,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781719466
-    },
-    {
-      "title": "2026 NBA Draft: Options, odds, predictions and most likely selection for every team picking in top 10",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-draft-options-odds-predictions-and-most-likely-selection-for-every-team-picking-in-top-10/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781717164
     },
     {
       "title": "Humans may have hidden regenerative powers",
