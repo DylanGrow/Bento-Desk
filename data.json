@@ -1,6 +1,48 @@
 {
-  "last_updated": 1781963775,
+  "last_updated": 1781970311,
   "items": [
+    {
+      "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
+      "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781969026
+    },
+    {
+      "title": "This Week In Space podcast: Episode 215 — Disclosure Day",
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-215-disclosure-day",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781968619
+    },
+    {
+      "title": "De'Aaron Fox was an NBA Finals flop, but he remains a luxury the Spurs can afford to keep",
+      "link": "https://www.cbssports.com/nba/news/deaaron-fox-trade-rumors-spurs-nba-finals/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1781967849
+    },
+    {
+      "title": "Every new iOS 27 feature that’s worth knowing about",
+      "link": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781967600
+    },
+    {
+      "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1781964559
+    },
+    {
+      "title": "Supermassive black holes may be surrounded by dark matter clusters, new 'echo map' technique suggests",
+      "link": "https://www.space.com/astronomy/dark-universe/supermassive-black-holes-may-be-surrounded-by-dark-matter-clusters-new-echo-map-technique-suggests",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781964000
+    },
     {
       "title": "The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed",
       "link": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
@@ -9,15 +51,15 @@
       "timestamp": 1781954109
     },
     {
-      "title": "Do we need a lunar building code to build moon bases safely?",
-      "link": "https://www.space.com/space-exploration/artemis/do-we-need-a-lunar-building-code-to-build-moon-bases-safely",
+      "title": "Late, great singer-songwriter Elliott Smith finds immortality as an asteroid",
+      "link": "https://www.space.com/astronomy/asteroids/late-great-singer-songwriter-elliott-smith-finds-immortality-as-an-asteroid",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781949600
     },
     {
-      "title": "Late, great singer-songwriter Elliott Smith finds immortality as an asteroid",
-      "link": "https://www.space.com/astronomy/asteroids/late-great-singer-songwriter-elliott-smith-finds-immortality-as-an-asteroid",
+      "title": "Do we need a lunar building code to build moon bases safely?",
+      "link": "https://www.space.com/space-exploration/artemis/do-we-need-a-lunar-building-code-to-build-moon-bases-safely",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781949600
@@ -534,13 +576,6 @@
       "timestamp": 1781811695
     },
     {
-      "title": "Rivian owners file lawsuit alleging false promises on self-driving features",
-      "link": "https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781811105
-    },
-    {
       "title": "Marvel Comics Unveils First-Look Preview of Amazing Spider-Man #1000",
       "link": "https://www.ign.com/articles/marvel-amazing-spider-man-1000-preview",
       "source": "IGN",
@@ -590,13 +625,6 @@
       "timestamp": 1781802000
     },
     {
-      "title": "You can get my favorite image-stabilized binoculars for their cheapest ever price in this incredible anti-Prime Day deal",
-      "link": "https://www.space.com/stargazing/skywatching-kit/fujinon-techno-stabi-1640-binoculars-at-their-cheapest-ever-price-in-this-incredible-anti-prime-day-deal",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781799962
-    },
-    {
       "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
       "link": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/",
       "source": "BLEEPINGCOMPUTER",
@@ -609,13 +637,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781799587
-    },
-    {
-      "title": "Sun-like star may have swallowed an exoplanet with help from a mysterious companion: 'You are what you eat, right?'",
-      "link": "https://www.space.com/astronomy/stars/sun-like-star-may-have-swallowed-an-exoplanet-with-help-from-a-mysterious-companion-you-are-what-you-eat-right",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781798400
     },
     {
       "title": "Hunter-gatherers in Siberia died of a plague outbreak 5,500 years ago",
@@ -646,25 +667,11 @@
       "timestamp": 1781792390
     },
     {
-      "title": "5 reasons Microsoft 365 backup isn’t enough for business data protection",
-      "link": "https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781790536
-    },
-    {
       "title": "2026 NBA Draft odds: Intrigue starts with Clippers at No. 5 overall, and best betting value is Keaton Wagler",
       "link": "https://www.cbssports.com/betting/news/2026-nba-draft-odds-intrigue-starts-with-clippers-at-no-5-overall-and-best-betting-value-is-keaton-wagler/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781790059
-    },
-    {
-      "title": "Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp",
-      "link": "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781789147
     },
     {
       "title": "DR Congo, Harry Kane shine at World Cup; who will win it all at the U.S. Open?",
@@ -735,13 +742,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781729942
-    },
-    {
-      "title": "NBA rumors: Warriors could target LeBron James if Lakers don't move; Kawhi Leonard's Clippers future, more",
-      "link": "https://www.cbssports.com/nba/news/nba-rumors-warriors-lebron-james-lakers-kawhi-leonard-clippers-jaylen-brown-celtics-draft/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781719466
     },
     {
       "title": "Humans may have hidden regenerative powers",
