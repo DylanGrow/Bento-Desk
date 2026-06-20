@@ -1,6 +1,20 @@
 {
-  "last_updated": 1781970311,
+  "last_updated": 1781976211,
   "items": [
+    {
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1781973597
+    },
+    {
+      "title": "Ubisoft Co-Founder Claude Guillemot Dead at 69 After Plane Crash in France",
+      "link": "https://www.ign.com/articles/ubisoft-co-founder-claude-guillemot-dead-at-69-after-plane-crash-in-france",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1781970987
+    },
     {
       "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
       "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
@@ -44,11 +58,32 @@
       "timestamp": 1781964000
     },
     {
+      "title": "The first primates may have evolved in the cold, not the tropics",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260616103124.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1781962092
+    },
+    {
+      "title": "This DNA repair gene went rogue and exposed a cancer weakness",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260619101349.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1781958455
+    },
+    {
       "title": "The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed",
       "link": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1781954109
+    },
+    {
+      "title": "Do we need a lunar building code to build moon bases safely?",
+      "link": "https://www.space.com/space-exploration/artemis/do-we-need-a-lunar-building-code-to-build-moon-bases-safely",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1781949600
     },
     {
       "title": "Late, great singer-songwriter Elliott Smith finds immortality as an asteroid",
@@ -58,11 +93,11 @@
       "timestamp": 1781949600
     },
     {
-      "title": "Do we need a lunar building code to build moon bases safely?",
-      "link": "https://www.space.com/space-exploration/artemis/do-we-need-a-lunar-building-code-to-build-moon-bases-safely",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781949600
+      "title": "The secret language behind animal cooperation",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260619101328.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1781933026
     },
     {
       "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
@@ -93,7 +128,7 @@
       "timestamp": 1781908235
     },
     {
-      "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
+      "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026 — here’s why it matters",
       "link": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -562,25 +597,11 @@
       "timestamp": 1781812413
     },
     {
-      "title": "The 11 standout startups from YC’s Demo Day, according to VCs",
-      "link": "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781812339
-    },
-    {
       "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
       "link": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1781811695
-    },
-    {
-      "title": "Marvel Comics Unveils First-Look Preview of Amazing Spider-Man #1000",
-      "link": "https://www.ign.com/articles/marvel-amazing-spider-man-1000-preview",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781809974
     },
     {
       "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
@@ -756,27 +777,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781698783
-    },
-    {
-      "title": "On the brink of extinction, the vaquita gets a digital lifeline",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260616102223.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1781697697
-    },
-    {
-      "title": "Scientists say most of what’s in your food is still a mystery",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260614012011.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1781670712
-    },
-    {
-      "title": "New study explores potential cross-species spread of chronic wasting disease",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260615033841.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1781618784
     }
   ]
 }
