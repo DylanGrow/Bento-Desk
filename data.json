@@ -1,6 +1,34 @@
 {
-  "last_updated": 1782065880,
+  "last_updated": 1782073355,
   "items": [
+    {
+      "title": "SpaceX Falcon 9 rocket launches 24 Starlink satellites into low Earth orbit from California",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-28-b1063-vsfb-ocisly",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782067090
+    },
+    {
+      "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
+      "link": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782066871
+    },
+    {
+      "title": "2026 NBA Mock Draft: Giannis Antetokounmpo trade would create chaos; Wizards select Darryn Peterson at No. 1",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-mock-draft-giannis-antetokounmpo-trade-would-create-chaos-wizards-select-darryn-peterson-at-no-1/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782065219
+    },
+    {
+      "title": "Trump admin’s coal investments assist plants with repeated violations",
+      "link": "https://arstechnica.com/science/2026/06/trump-admins-coal-investments-assist-plants-with-repeated-violations/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782064175
+    },
     {
       "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
       "link": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
@@ -387,13 +415,6 @@
       "timestamp": 1781883977
     },
     {
-      "title": "Billionaire Ambani wants AI in every call, app, and home",
-      "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781882608
-    },
-    {
       "title": "Menstruation in space will be studied for 1st time with 'Operation Period'",
       "link": "https://www.space.com/space-exploration/human-spaceflight/menstruation-in-space-will-be-studied-for-1st-time-with-operation-period",
       "source": "SPACE",
@@ -639,13 +660,6 @@
       "timestamp": 1781815795
     },
     {
-      "title": "James Webb Space Telescope finds a salty surprise on famous 'Pink Planet'",
-      "link": "https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-finds-a-salty-surprise-on-famous-pink-planet",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781812800
-    },
-    {
       "title": "Android verification is coming: Google confirms timeline and supported app stores",
       "link": "https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/",
       "source": "ARSTECHNICA",
@@ -709,13 +723,6 @@
       "timestamp": 1781795080
     },
     {
-      "title": "The first long-duration resident of the ISS, a cosmonaut, has died",
-      "link": "https://arstechnica.com/space/2026/06/cosmonaut-aleksandr-samokutyaev-56-is-first-former-iss-crew-member-to-die/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781793276
-    },
-    {
       "title": "2026 NBA Mock Draft: Nets bet big on Nate Ament at No. 6; Keaton Wagler slides down board",
       "link": "https://www.cbssports.com/nba/news/2026-nba-mock-draft-nate-ament-keaton-wagler/",
       "source": "CBSSPORTS",
@@ -770,13 +777,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781745563
-    },
-    {
-      "title": "2026 NBA Mock Draft: Cameron Boozer goes to Jazz at No. 2, Clippers like Mikel Brown for fifth pick",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-mock-draft-cameron-boozer-goes-to-jazz-at-no-2-clippers-like-mikel-brown-for-fifth-pick/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781733358
     }
   ]
 }
