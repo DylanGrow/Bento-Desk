@@ -1,6 +1,34 @@
 {
-  "last_updated": 1782030482,
+  "last_updated": 1782042231,
   "items": [
+    {
+      "title": "Review: Widow's Bay is a boldly original take on comedic horror",
+      "link": "https://arstechnica.com/culture/2026/06/review-widows-bay-is-a-boldly-original-take-on-comedic-horror/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782036011
+    },
+    {
+      "title": "Happy Summer Solstice! Today marks the longest day of the year for the Northern Hemisphere",
+      "link": "https://www.space.com/stargazing/happy-summer-solstice-today-marks-the-longest-day-of-the-year-for-the-northern-hemisphere",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782036000
+    },
+    {
+      "title": "Think human anatomy is finished? Scientists say think again",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260618041511.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782026813
+    },
+    {
+      "title": "Scientists discover neurons must break their DNA to build the brain",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260620100422.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782023435
+    },
     {
       "title": "X-Men Star Famke Janssen Thinks Marvel 'Made a Mistake' By Not Bringing Her Jean Grey Back for Avengers: Doomsday",
       "link": "https://www.ign.com/articles/x-men-star-famke-janssen-thinks-marvel-made-a-mistake-by-not-bringing-her-jean-grey-back-for-avengers-doomsday",
@@ -135,15 +163,15 @@
       "timestamp": 1781954109
     },
     {
-      "title": "Late, great singer-songwriter Elliott Smith finds immortality as an asteroid",
-      "link": "https://www.space.com/astronomy/asteroids/late-great-singer-songwriter-elliott-smith-finds-immortality-as-an-asteroid",
+      "title": "Do we need a lunar building code to build moon bases safely?",
+      "link": "https://www.space.com/space-exploration/artemis/do-we-need-a-lunar-building-code-to-build-moon-bases-safely",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781949600
     },
     {
-      "title": "Do we need a lunar building code to build moon bases safely?",
-      "link": "https://www.space.com/space-exploration/artemis/do-we-need-a-lunar-building-code-to-build-moon-bases-safely",
+      "title": "Late, great singer-songwriter Elliott Smith finds immortality as an asteroid",
+      "link": "https://www.space.com/astronomy/asteroids/late-great-singer-songwriter-elliott-smith-finds-immortality-as-an-asteroid",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781949600
@@ -646,13 +674,6 @@
       "timestamp": 1781802169
     },
     {
-      "title": "SpaceX launches new batch of US spy satellites from California (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-179-nro",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781802000
-    },
-    {
       "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
       "link": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/",
       "source": "BLEEPINGCOMPUTER",
@@ -744,13 +765,6 @@
       "timestamp": 1781770519
     },
     {
-      "title": "Hulk, Punisher join Peter Parker in Spider-Man: Brand New Day trailer",
-      "link": "https://arstechnica.com/culture/2026/06/hulk-punisher-join-peter-parker-in-spider-man-brand-new-day-trailer/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781764679
-    },
-    {
       "title": "Why James Dolan's second apron comments raise big questions about Knicks' ability to keep championship roster",
       "link": "https://www.cbssports.com/nba/news/knicks-owner-james-dolan-second-apron-championship-roster/",
       "source": "CBSSPORTS",
@@ -763,20 +777,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781733358
-    },
-    {
-      "title": "Humans may have hidden regenerative powers",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1781706331
-    },
-    {
-      "title": "Scientists discover spider that disguises itself as a parasitic fungus",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260617032201.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1781698783
     }
   ]
 }
