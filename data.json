@@ -1,6 +1,41 @@
 {
-  "last_updated": 1782050614,
+  "last_updated": 1782059300,
   "items": [
+    {
+      "title": "TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance",
+      "link": "https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782057900
+    },
+    {
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782055697
+    },
+    {
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782052828
+    },
+    {
+      "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1782051262
+    },
+    {
+      "title": "As lakes turn brown, trout and bass decline while pike and walleye thrive",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260621060322.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782049221
+    },
     {
       "title": "A mysterious gamma-ray stream comes from the Milky Way's center. Could dark matter have something to do with it?",
       "link": "https://www.space.com/astronomy/dark-universe/a-mysterious-gamma-ray-stream-comes-from-the-milky-ways-center-could-dark-matter-have-something-to-do-with-it",
@@ -170,15 +205,15 @@
       "timestamp": 1781954109
     },
     {
-      "title": "Late, great singer-songwriter Elliott Smith finds immortality as an asteroid",
-      "link": "https://www.space.com/astronomy/asteroids/late-great-singer-songwriter-elliott-smith-finds-immortality-as-an-asteroid",
+      "title": "Do we need a lunar building code to build moon bases safely?",
+      "link": "https://www.space.com/space-exploration/artemis/do-we-need-a-lunar-building-code-to-build-moon-bases-safely",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781949600
     },
     {
-      "title": "Do we need a lunar building code to build moon bases safely?",
-      "link": "https://www.space.com/space-exploration/artemis/do-we-need-a-lunar-building-code-to-build-moon-bases-safely",
+      "title": "Late, great singer-songwriter Elliott Smith finds immortality as an asteroid",
+      "link": "https://www.space.com/astronomy/asteroids/late-great-singer-songwriter-elliott-smith-finds-immortality-as-an-asteroid",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781949600
@@ -527,13 +562,6 @@
       "timestamp": 1781858648
     },
     {
-      "title": "The US says ASML’s top chip tool may be in China, but how?",
-      "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781855952
-    },
-    {
       "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/",
       "source": "BLEEPINGCOMPUTER",
@@ -560,20 +588,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781843203
-    },
-    {
-      "title": "Telegram ban in India sparks a rush to VPNs, rival apps",
-      "link": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781830860
-    },
-    {
-      "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
-      "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781830271
     },
     {
       "title": "A bold satellite rescue mission came together in record time, but will it work?",
@@ -709,13 +723,6 @@
       "timestamp": 1781792539
     },
     {
-      "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781792390
-    },
-    {
       "title": "2026 NBA Draft odds: Intrigue starts with Clippers at No. 5 overall, and best betting value is Keaton Wagler",
       "link": "https://www.cbssports.com/betting/news/2026-nba-draft-odds-intrigue-starts-with-clippers-at-no-5-overall-and-best-betting-value-is-keaton-wagler/",
       "source": "CBSSPORTS",
@@ -756,13 +763,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781778683
-    },
-    {
-      "title": "Major errors found in Al Gore-founded Climate TRACE database",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260618041519.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1781770519
     },
     {
       "title": "Why James Dolan's second apron comments raise big questions about Knicks' ability to keep championship roster",
