@@ -1,6 +1,27 @@
 {
-  "last_updated": 1782086919,
+  "last_updated": 1782109584,
   "items": [
+    {
+      "title": "Ethan Thornton is trying to do everything all at once",
+      "link": "https://techcrunch.com/2026/06/21/ethan-thornton-is-trying-to-do-everything-all-at-once/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782106319
+    },
+    {
+      "title": "Pokémon Stop-Motion Series Gets New Artwork and Details from Aardman",
+      "link": "https://www.ign.com/articles/pokemon-stop-motion-series-gets-new-artwork-and-details-from-aardman",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782104185
+    },
+    {
+      "title": "T. rex took 40 years to reach full size, scientists find",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260621110957.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782102779
+    },
     {
       "title": "Sesame Street Movie in the Works at Netflix Following Bidding War",
       "link": "https://www.ign.com/articles/sesame-street-movie-in-the-works-at-netflix-following-bidding-war",
@@ -16,7 +37,7 @@
       "timestamp": 1782072069
     },
     {
-      "title": "SpaceX Falcon 9 rocket launches 24 Starlink satellites into low Earth orbit from California",
+      "title": "SpaceX Falcon 9 rocket launches 24 Starlink satellites into low Earth orbit from California (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-28-b1063-vsfb-ocisly",
       "source": "SPACE",
       "category": "space",
@@ -261,15 +282,15 @@
       "timestamp": 1781954109
     },
     {
-      "title": "Do we need a lunar building code to build moon bases safely?",
-      "link": "https://www.space.com/space-exploration/artemis/do-we-need-a-lunar-building-code-to-build-moon-bases-safely",
+      "title": "Late, great singer-songwriter Elliott Smith finds immortality as an asteroid",
+      "link": "https://www.space.com/astronomy/asteroids/late-great-singer-songwriter-elliott-smith-finds-immortality-as-an-asteroid",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781949600
     },
     {
-      "title": "Late, great singer-songwriter Elliott Smith finds immortality as an asteroid",
-      "link": "https://www.space.com/astronomy/asteroids/late-great-singer-songwriter-elliott-smith-finds-immortality-as-an-asteroid",
+      "title": "Do we need a lunar building code to build moon bases safely?",
+      "link": "https://www.space.com/space-exploration/artemis/do-we-need-a-lunar-building-code-to-build-moon-bases-safely",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781949600
@@ -408,13 +429,6 @@
       "timestamp": 1781885561
     },
     {
-      "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
-      "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781885297
-    },
-    {
       "title": "'No one thought it was going to be possible.' A space telescope is falling out of space. This is NASA's daring plan to save it.",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/no-one-thought-it-was-going-to-be-possible-a-space-telescope-is-falling-out-of-space-this-is-nasas-daring-plan-to-save-it",
       "source": "SPACE",
@@ -539,13 +553,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1781868754
-    },
-    {
-      "title": "Sony Ditches Mention of PC Releases From Business Strategy Document, as PlayStation's Single-Player Games Now Expected to Be Fully Exclusive",
-      "link": "https://www.ign.com/articles/sony-ditches-mention-of-pc-releases-from-business-strategy-document-as-playstations-single-player-games-now-expected-to-be-fully-exclusive",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781868268
     },
     {
       "title": "As global warming threatens corals, scientists search for reefs that can take the heat",
@@ -763,13 +770,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781785006
-    },
-    {
-      "title": "Could cosmic memory explain dark matter, dark energy, and black holes?",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260616103131.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1781778683
     },
     {
       "title": "Why James Dolan's second apron comments raise big questions about Knicks' ability to keep championship roster",
