@@ -1,6 +1,69 @@
 {
-  "last_updated": 1782109584,
+  "last_updated": 1782132452,
   "items": [
+    {
+      "title": "Launch monster: SpaceX has lofted more satellites than everyone else in history, combined",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/launch-monster-spacex-has-lofted-more-satellites-than-everyone-else-in-history-combined",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782129600
+    },
+    {
+      "title": "GTA 6 'Vampire' Ferris Wheel Sparks Tech Expert Investigation",
+      "link": "https://www.ign.com/articles/gta-6-vampire-ferris-wheel-sparks-tech-expert-investigation",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782128409
+    },
+    {
+      "title": "Tom Hanks Uncertain About Toy Story 6 Return",
+      "link": "https://www.ign.com/articles/tom-hanks-uncertain-about-toy-story-6-return",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782127661
+    },
+    {
+      "title": "Robert Downey Jr. Posts Avengers: Doomsday Father's Day Message, Which Links to Popular Fan Theory for Doctor Doom's Tragic Backstory",
+      "link": "https://www.ign.com/articles/robert-downey-jr-posts-avengers-doomsday-fathers-day-message-which-links-to-popular-fan-theory-for-doctor-dooms-tragic-backstory",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782125754
+    },
+    {
+      "title": "Scammers Are 'Dangling the One Thing' PC Gamers Won't Get Anytime Soon: GTA 6",
+      "link": "https://www.ign.com/articles/scammers-are-dangling-the-one-thing-pc-gamers-wont-get-anytime-soon-gta-6",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782125367
+    },
+    {
+      "title": "Dbrand Is Now Taking Orders for Its Steam Machine Companion Cube Case, Ships in \"Late July\"",
+      "link": "https://www.ign.com/articles/dbrand-portal-companion-cube-steam-machine-case-where-to-buy",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782123584
+    },
+    {
+      "title": "Toy Story 5 Explodes at the Box Office, but Disclosure Day Is Struggling",
+      "link": "https://www.ign.com/articles/toy-story-5-expodes-at-the-box-office-but-disclosure-day-is-struggling",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782122993
+    },
+    {
+      "title": "Could we actually terraform Mars? Scientists are trying to find out",
+      "link": "https://www.space.com/astronomy/mars/could-we-actually-terraform-mars-scientists-are-trying-to-find-out",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782122400
+    },
+    {
+      "title": "Toy Story 5 Almost Featured a Drastically Different Ending, With Huge Emotional Stakes for Jessie",
+      "link": "https://www.ign.com/articles/toy-story-5-almost-featured-a-drastically-different-ending-with-huge-emotional-stakes-for-jessie",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782121137
+    },
     {
       "title": "Ethan Thornton is trying to do everything all at once",
       "link": "https://techcrunch.com/2026/06/21/ethan-thornton-is-trying-to-do-everything-all-at-once/",
@@ -282,15 +345,15 @@
       "timestamp": 1781954109
     },
     {
-      "title": "Late, great singer-songwriter Elliott Smith finds immortality as an asteroid",
-      "link": "https://www.space.com/astronomy/asteroids/late-great-singer-songwriter-elliott-smith-finds-immortality-as-an-asteroid",
+      "title": "Do we need a lunar building code to build moon bases safely?",
+      "link": "https://www.space.com/space-exploration/artemis/do-we-need-a-lunar-building-code-to-build-moon-bases-safely",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781949600
     },
     {
-      "title": "Do we need a lunar building code to build moon bases safely?",
-      "link": "https://www.space.com/space-exploration/artemis/do-we-need-a-lunar-building-code-to-build-moon-bases-safely",
+      "title": "Late, great singer-songwriter Elliott Smith finds immortality as an asteroid",
+      "link": "https://www.space.com/astronomy/asteroids/late-great-singer-songwriter-elliott-smith-finds-immortality-as-an-asteroid",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781949600
@@ -324,32 +387,11 @@
       "timestamp": 1781908264
     },
     {
-      "title": "George Lucas Cast in Minions & Monsters After Revealing Massive Fandom",
-      "link": "https://www.ign.com/articles/george-lucas-cast-minions-monsters-movie",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781908235
-    },
-    {
       "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026 — here’s why it matters",
       "link": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1781905500
-    },
-    {
-      "title": "CD Projekt Red Co-CEO Hopes Witcher 4 Wins Back Players After 'Heartbreaking' Cyberpunk 2077 Launch",
-      "link": "https://www.ign.com/articles/cd-projekt-red-co-ceo-hopes-witcher-4-wins-back-players-after-heartbreaking-cyberpunk-2077-launch",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781905462
-    },
-    {
-      "title": "Amazon Walks Away from Nearly Complete Sam Altman Movie Just Months After OpenAI Deal",
-      "link": "https://www.ign.com/articles/amazon-walks-away-from-nearly-complete-sam-altman-movie-just-months-after-openai-deal",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781903764
     },
     {
       "title": "Aura’s impressive e-ink photo frame doesn’t even look digital",
@@ -387,7 +429,7 @@
       "timestamp": 1781896657
     },
     {
-      "title": "The most unpredictable meteor shower of the year peaks next week. Here's what to expect",
+      "title": "The most unpredictable meteor shower of the year peaks this week. Here's what to expect",
       "link": "https://www.space.com/stargazing/meteor-showers/the-most-unpredictable-meteor-shower-of-the-year-peaks-next-week-heres-what-to-expect",
       "source": "SPACE",
       "category": "space",
@@ -401,25 +443,11 @@
       "timestamp": 1781889976
     },
     {
-      "title": "Doom Composer Bobby Prince Dies at 81",
-      "link": "https://www.ign.com/articles/doom-composer-bobby-prince-dies-at-81",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781889013
-    },
-    {
       "title": "Every fusion startup that has raised over $100M",
       "link": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1781887858
-    },
-    {
-      "title": "Toy Story 5 Powers Up With Strongest Preview Opening of 2026 So Far",
-      "link": "https://www.ign.com/articles/toy-story-5-powers-up-with-strongest-preview-opening-of-2026-so-far",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781886009
     },
     {
       "title": "Texas govt data breach exposes over 3 million driver’s licenses",
@@ -429,18 +457,11 @@
       "timestamp": 1781885561
     },
     {
-      "title": "'No one thought it was going to be possible.' A space telescope is falling out of space. This is NASA's daring plan to save it.",
+      "title": "'No one thought it was going to be possible.' A space telescope is falling out of space. This is NASA's daring plan to save it. (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/no-one-thought-it-was-going-to-be-possible-a-space-telescope-is-falling-out-of-space-this-is-nasas-daring-plan-to-save-it",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781884800
-    },
-    {
-      "title": "Here's What's Leaving the PS Plus Library in July 2026",
-      "link": "https://www.ign.com/articles/heres-whats-leaving-the-ps-plus-library-in-july-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781883977
     },
     {
       "title": "Menstruation in space will be studied for 1st time with 'Operation Period'",
@@ -448,13 +469,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781881200
-    },
-    {
-      "title": "Xbox's Confusing Exclusivity Criteria Now Aided by 'EXCLUSIVE' Label on Console Dashboard",
-      "link": "https://www.ign.com/articles/xboxs-confusing-exclusivity-criteria-now-aided-by-exclusive-label-on-console-dashboard",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781879502
     },
     {
       "title": "He covered the Knicks for 23 seasons. He watched them win a title from a bar in Florida",
@@ -569,13 +583,6 @@
       "timestamp": 1781865598
     },
     {
-      "title": "Juicy new details emerge about an asteroid NASA's Lucy spacecraft flew by last year",
-      "link": "https://www.space.com/astronomy/asteroids/juicy-new-details-emerge-about-an-asteroid-nasas-lucy-spacecraft-flew-by-last-year",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781863200
-    },
-    {
       "title": "Einstein’s “biggest blunder” may finally have an explanation",
       "link": "https://www.sciencedaily.com/releases/2026/06/260619020516.htm",
       "source": "SCIENCEDAILY",
@@ -651,13 +658,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1781817686
-    },
-    {
-      "title": "Scientists trace high-energy ghost particle to the 'Shadow Blaster' galaxy",
-      "link": "https://www.space.com/science/particle-physics/scientists-trace-high-energy-ghost-particle-to-the-shadow-blaster-galaxy",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781816400
     },
     {
       "title": "NASA asks Northrop Grumman to stop working on lunar HALO module",
