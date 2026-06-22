@@ -1,6 +1,293 @@
 {
-  "last_updated": 1782132452,
+  "last_updated": 1782149887,
   "items": [
+    {
+      "title": "'Nerd' Kingston Flemings knows he could be an analyst or a scout; instead, he'll be a first-round draft pick",
+      "link": "https://www.cbssports.com/nba/news/nba-draft-kingston-flemings-houston/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782149521
+    },
+    {
+      "title": "Amazon is testing Alexa+ in India with Hindi support",
+      "link": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782149489
+    },
+    {
+      "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1782149337
+    },
+    {
+      "title": "2026 NBA Mock Draft: Adam Finkelstein's final first-round mock loaded with selection intel and trade rumors",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-mock-draft-trade-rumors-intel/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782149072
+    },
+    {
+      "title": "2016 NBA Draft 10 years later: Biggest hit, biggest whiff and best steal from up-and-down class",
+      "link": "https://www.cbssports.com/nba/news/2016-nba-draft-10-years-later-biggest-hit-biggest-whiff-and-best-steal-from-up-and-down-class/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782148408
+    },
+    {
+      "title": "Doorbell cam filmed Tesla Autopilot crash that killed woman in her home",
+      "link": "https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782148252
+    },
+    {
+      "title": "'Control Resonant' takes inspiration from 'Devil May Cry', 'Neon Genesis Evangelion', and 'Inception' to craft a trippy sci-fi action game",
+      "link": "https://www.space.com/entertainment/space-games/control-resonant-takes-inspiration-from-devil-may-cry-neon-genesis-evangelion-and-inception-to-craft-a-trippy-sci-fi-action-game",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782147600
+    },
+    {
+      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+      "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782147089
+    },
+    {
+      "title": "Sea of Thieves Live-Action Movie in Development, Microsoft Confirms",
+      "link": "https://www.ign.com/articles/sea-of-thieves-live-action-movie-in-development-microsoft-confirms",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782145813
+    },
+    {
+      "title": "Tom Holland Teases Potentially Huge Part of the Spider-Man: Brand New Day Story",
+      "link": "https://www.ign.com/articles/tom-holland-teases-potentially-huge-part-of-the-spider-man-brand-new-day-story",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782143668
+    },
+    {
+      "title": "Giannis Antetokounmpo next team predictions: Celtics slight favorites over Heat as trade for Bucks star looms",
+      "link": "https://www.cbssports.com/prediction/news/giannis-antetokounmpo-next-team-predictions-celtics-slight-favorites-over-heat-as-trade-for-bucks-star-looms/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782143540
+    },
+    {
+      "title": "Mavericks hiring Dusty May away from Michigan in basketball stunner",
+      "link": "https://www.cbssports.com/nba/news/dallas-mavericks-hire-michigan-coach-dusty-may-to-replace-jason-kidd/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782143033
+    },
+    {
+      "title": "2026 NBA Mock Draft: After hiring Michigan's Dusty May, Mavericks take former Wolverines star Aday Mara",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-mock-draft-dusty-may-mavericks-michigan-aday-mara/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782142556
+    },
+    {
+      "title": "Battlefield 6 Dev on the State of the Game, Addressing Fan Feedback, and Much More",
+      "link": "https://www.ign.com/articles/battlefield-6-dev-on-the-state-of-the-game-addressing-fan-feedback-and-much-more",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782141840
+    },
+    {
+      "title": "Lucid lays off 1,500 workers in second big cut of the year",
+      "link": "https://arstechnica.com/cars/2026/06/lucid-lays-off-1500-workers-in-second-big-cut-of-the-year/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782141766
+    },
+    {
+      "title": "WhatsApp gets new chief as Meta taps India’s CRED founder Kunal Shah and invests $900M in startup",
+      "link": "https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782141702
+    },
+    {
+      "title": "A US military exercise in space got underway with barely anyone noticing",
+      "link": "https://arstechnica.com/space/2026/06/a-us-military-exercise-in-space-got-underway-with-barely-anyone-noticing/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782141503
+    },
+    {
+      "title": "1,250 hp hybrid Corvette shatters the Pikes Peak production record",
+      "link": "https://arstechnica.com/cars/2026/06/pikes-peak-2026-was-a-battle-of-propulsion-with-an-ev-and-a-hybrid-winning-out/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782140820
+    },
+    {
+      "title": "God of War Laufey Planned Since 2018, Reveals Star Deborah Ann Woll",
+      "link": "https://www.ign.com/articles/god-of-war-laufey-planned-since-2018-reveals-star-deborah-ann-woll",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782140509
+    },
+    {
+      "title": "'Let's not fool the public': Why moon art should be more realistic in the Artemis age",
+      "link": "https://www.space.com/astronomy/moon/lets-not-fool-the-public-why-moon-art-should-be-more-realistic-in-the-artemis-age",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782140400
+    },
+    {
+      "title": "2026 NBA Draft Roundtable: Best lead guard in the class? Second round sleepers? Our experts weigh in",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-draft-roundtable-best-point-guard/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782138854
+    },
+    {
+      "title": "Our expert thinks this pocket-friendly drone is brilliant for beginners, and it's $30 off ahead of Amazon Prime Day",
+      "link": "https://www.space.com/stargazing/skywatching-kit/our-expert-thinks-this-pocket-friendly-drone-is-brilliant-for-beginners-and-its-30-dollars-off-ahead-of-amazon-prime-day",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782137982
+    },
+    {
+      "title": "Instagram looks to take on streaming services with longer-form, episodic and live formats for its TV app",
+      "link": "https://techcrunch.com/2026/06/22/instagram-looks-to-take-on-streaming-services-with-longer-form-episodic-and-live-formats-for-its-tv-app/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782137650
+    },
+    {
+      "title": "This former hacker saw the light—and now wants to collect all of it",
+      "link": "https://arstechnica.com/features/2026/06/this-former-hacker-saw-the-light-and-now-wants-to-collect-all-of-it/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782137463
+    },
+    {
+      "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1782137115
+    },
+    {
+      "title": "Nick Frost Says Some People Won't Like HBO's New Harry Potter Series, But That's Alright",
+      "link": "https://www.ign.com/articles/nick-frost-says-some-people-wont-like-hbos-new-harry-potter-series-but-thats-alright",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782137087
+    },
+    {
+      "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
+      "link": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782136800
+    },
+    {
+      "title": "Our sun is destined to 'kick and spit' its way across the solar system when it dies",
+      "link": "https://www.space.com/astronomy/stars/the-dying-sun-will-go-out-kicking-before-leaving-behind-a-white-dwarf-dead-star",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782136800
+    },
+    {
+      "title": "James Webb Space Telescope captures the star-forming clouds of Orion A in stunning detail | Space photo of the day for June 22, 2026",
+      "link": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-captures-the-star-forming-clouds-of-orion-a-in-stunning-detail-space-photo-of-the-day-for-june-22-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782136800
+    },
+    {
+      "title": "Resident Evil Creator Shinji Mikami Says It's on Developers to Make Games People Want to Play, Not Just Stream",
+      "link": "https://www.ign.com/articles/resident-evil-creator-shinji-mikami-says-its-on-developers-to-make-games-people-want-to-play-not-just-stream",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782136255
+    },
+    {
+      "title": "How Anthropic may have talked itself into an AI export ban",
+      "link": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782135924
+    },
+    {
+      "title": "Lucid Motors’ new CEO cuts 18% of staff to ‘simplify the company’",
+      "link": "https://techcrunch.com/2026/06/22/lucid-motors-new-ceo-cuts-18-of-staff-to-simplify-the-company/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782135779
+    },
+    {
+      "title": "Seedcamp raises $320M for its new fund to expand its US footprint",
+      "link": "https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782135445
+    },
+    {
+      "title": "Klue hack results in data breach at several cybersecurity firms",
+      "link": "https://techcrunch.com/2026/06/22/klue-hack-results-in-data-breach-at-several-cybersecurity-firms/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782135368
+    },
+    {
+      "title": "The Most Expensive Game on Steam Costs $1,000 and Lasts Just 10 Minutes",
+      "link": "https://www.ign.com/articles/the-most-expensive-game-on-steam-costs-1000-and-lasts-just-10-minutes",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782135316
+    },
+    {
+      "title": "2026 NBA Draft odds: Caleb Wilson heavy favorite be chosen No. 4 overall by Bulls",
+      "link": "https://www.cbssports.com/betting/news/2026-nba-draft-odds-caleb-wilson-heavy-favorite-be-chosen-no-4-overall-by-bulls/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782134627
+    },
+    {
+      "title": "Five teams that could shake up the NBA Draft with a trade",
+      "link": "https://www.cbssports.com/nba/news/nba-draft-trade-clippers-mavericks-thunder-grizzlies-pelicans/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782134555
+    },
+    {
+      "title": "Wyndham Clark wins second U.S. Open; NBA Draft a day away; will USMNT hold up in World Cup?",
+      "link": "https://www.cbssports.com/golf/news/wyndham-clark-wins-second-u-s-open-nba-draft-a-day-away-will-usmnt-hold-up-in-world-cup/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782133149
+    },
+    {
+      "title": "Halo: Campaign Evolved Main Menu Video Sparks Fan Debate Over Ring Detail",
+      "link": "https://www.ign.com/articles/halo-campaign-evolved-main-menu-video-sparks-fan-debate-over-ring-detail",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782132515
+    },
+    {
+      "title": "Future astronauts could walk across rocks from deep inside the Moon",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260622014258.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782131927
+    },
+    {
+      "title": "Zelda Fan Ditches Ocarina of Time Unreal Engine Remake After a Decade of Work",
+      "link": "https://www.ign.com/articles/zelda-fan-ditches-ocarina-of-time-unreal-engine-remake-after-a-decade-of-work",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782131128
+    },
     {
       "title": "Launch monster: SpaceX has lofted more satellites than everyone else in history, combined",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/launch-monster-spacex-has-lofted-more-satellites-than-everyone-else-in-history-combined",
@@ -35,6 +322,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1782125367
+    },
+    {
+      "title": "Butterfly that barely ages could help unlock longevity secrets",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260622014302.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782124208
     },
     {
       "title": "Dbrand Is Now Taking Orders for Its Steam Machine Companion Cube Case, Ships in \"Late July\"",
@@ -72,32 +366,11 @@
       "timestamp": 1782106319
     },
     {
-      "title": "Pokémon Stop-Motion Series Gets New Artwork and Details from Aardman",
-      "link": "https://www.ign.com/articles/pokemon-stop-motion-series-gets-new-artwork-and-details-from-aardman",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782104185
-    },
-    {
       "title": "T. rex took 40 years to reach full size, scientists find",
       "link": "https://www.sciencedaily.com/releases/2026/06/260621110957.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782102779
-    },
-    {
-      "title": "Sesame Street Movie in the Works at Netflix Following Bidding War",
-      "link": "https://www.ign.com/articles/sesame-street-movie-in-the-works-at-netflix-following-bidding-war",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782078575
-    },
-    {
-      "title": "Call of Duty: Black Ops 1 and 2 Listings Have Fans Fearing Pricey PlayStation Ports",
-      "link": "https://www.ign.com/articles/call-of-duty-black-ops-1-and-2-listings-have-fans-fearing-pricey-playstation-ports",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782072069
     },
     {
       "title": "SpaceX Falcon 9 rocket launches 24 Starlink satellites into low Earth orbit from California (video)",
@@ -133,13 +406,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1782059700
-    },
-    {
-      "title": "Avengers: Doomsday 'Leak' Pulled Offline Just as it Spreads Across Social Media",
-      "link": "https://www.ign.com/articles/avengers-doomsday-leak-pulled-offline-just-as-it-spreads-across-social-media",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782058579
     },
     {
       "title": "TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance",
@@ -212,20 +478,6 @@
       "timestamp": 1782023435
     },
     {
-      "title": "X-Men Star Famke Janssen Thinks Marvel 'Made a Mistake' By Not Bringing Her Jean Grey Back for Avengers: Doomsday",
-      "link": "https://www.ign.com/articles/x-men-star-famke-janssen-thinks-marvel-made-a-mistake-by-not-bringing-her-jean-grey-back-for-avengers-doomsday",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781995691
-    },
-    {
-      "title": "Epic Games Store Roadmap Promises 5x Faster Boot Times, User Reviews, and More",
-      "link": "https://www.ign.com/articles/epic-games-store-roadmap-promises-5x-faster-boot-times-user-reviews-and-more",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781991494
-    },
-    {
       "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
       "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
       "source": "TECHCRUNCH",
@@ -247,41 +499,6 @@
       "timestamp": 1781984471
     },
     {
-      "title": "Cheers Co-Creator James Burrows Dies at 85",
-      "link": "https://www.ign.com/articles/cheers-co-creator-james-burrows-dies-at-85",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781984030
-    },
-    {
-      "title": "Founders Fund’s outlier bet on humanely killed fish",
-      "link": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781979962
-    },
-    {
-      "title": "Halo: Campaign Evolved Split-Screen Co-Op on PS5 Will Not Require PlayStation Plus, Halo Studios Clarifies",
-      "link": "https://www.ign.com/articles/halo-campaign-evolved-split-screen-co-op-on-ps5-requires-playstation-plus-for-both-players",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781978857
-    },
-    {
-      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-      "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781973597
-    },
-    {
-      "title": "Ubisoft Co-Founder Claude Guillemot Dead at 69 After Plane Crash in France",
-      "link": "https://www.ign.com/articles/ubisoft-co-founder-claude-guillemot-dead-at-69-after-plane-crash-in-france",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1781970987
-    },
-    {
       "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
       "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
       "source": "BLEEPINGCOMPUTER",
@@ -301,13 +518,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781967849
-    },
-    {
-      "title": "Every new iOS 27 feature that’s worth knowing about",
-      "link": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781967600
     },
     {
       "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
@@ -366,39 +576,11 @@
       "timestamp": 1781933026
     },
     {
-      "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
-      "link": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781916464
-    },
-    {
-      "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
-      "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781908814
-    },
-    {
       "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
       "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1781908264
-    },
-    {
-      "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026 — here’s why it matters",
-      "link": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781905500
-    },
-    {
-      "title": "Aura’s impressive e-ink photo frame doesn’t even look digital",
-      "link": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781902834
     },
     {
       "title": "A private company will build and launch NASA's next Mars orbiter in 2028 — and it's not SpaceX",
@@ -429,25 +611,11 @@
       "timestamp": 1781896657
     },
     {
-      "title": "The most unpredictable meteor shower of the year peaks this week. Here's what to expect",
-      "link": "https://www.space.com/stargazing/meteor-showers/the-most-unpredictable-meteor-shower-of-the-year-peaks-next-week-heres-what-to-expect",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781892000
-    },
-    {
       "title": "NBA trade rumors: Latest on Giannis Antetokounmpo, plus possible backup plans for Celtics, Heat, Wolves",
       "link": "https://www.cbssports.com/nba/news/nba-trade-rumors-giannis-antetokounmpo-celtics-heat-wolves/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781889976
-    },
-    {
-      "title": "Every fusion startup that has raised over $100M",
-      "link": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781887858
     },
     {
       "title": "Texas govt data breach exposes over 3 million driver’s licenses",
@@ -457,46 +625,11 @@
       "timestamp": 1781885561
     },
     {
-      "title": "'No one thought it was going to be possible.' A space telescope is falling out of space. This is NASA's daring plan to save it. (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/no-one-thought-it-was-going-to-be-possible-a-space-telescope-is-falling-out-of-space-this-is-nasas-daring-plan-to-save-it",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781884800
-    },
-    {
-      "title": "Menstruation in space will be studied for 1st time with 'Operation Period'",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/menstruation-in-space-will-be-studied-for-1st-time-with-operation-period",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781881200
-    },
-    {
       "title": "He covered the Knicks for 23 seasons. He watched them win a title from a bar in Florida",
       "link": "https://www.cbssports.com/nba/news/marc-berman-knicks-23-season-title-bar-florida/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781878682
-    },
-    {
-      "title": "Annie Easley, a hero of NASA | Space photo of the day for June 19, 2026",
-      "link": "https://www.space.com/space-exploration/private-spaceflight/annie-easley-a-hero-of-nasa-space-photo-of-the-day-for-june-19-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781877600
-    },
-    {
-      "title": "10 biggest questions for NBA offseason: Where will Giannis land? How do Spurs rebound? What's next for LeBron?",
-      "link": "https://www.cbssports.com/nba/news/nba-offseason-questions-giannis-lebron-spurs-jaylen-brown-trae-young-kawhi-leonard/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781877184
-    },
-    {
-      "title": "2026 NBA Mock Draft: Isaac Trotter predicts all 30 first-round picks after last-second developments",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-mock-draft-isaac-trotter/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781876417
     },
     {
       "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
@@ -513,13 +646,6 @@
       "timestamp": 1781875305
     },
     {
-      "title": "Could LeBron James and Stephen Curry team up? Why the pairing is possible, 10 years after 2016 Finals",
-      "link": "https://www.cbssports.com/nba/news/lebron-james-stephen-curry-team-up-warriors/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781874708
-    },
-    {
       "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
       "link": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
       "source": "BLEEPINGCOMPUTER",
@@ -527,25 +653,11 @@
       "timestamp": 1781874619
     },
     {
-      "title": "Want to start stargazing? Here's why June is the perfect time for newcomers",
-      "link": "https://www.space.com/stargazing/want-to-start-stargazing-heres-why-june-is-the-perfect-time-for-newcomers",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781874000
-    },
-    {
       "title": "Researchers found a Wordle strategy that wins 99% of the time",
       "link": "https://www.sciencedaily.com/releases/2026/06/260619020508.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781873445
-    },
-    {
-      "title": "How USMNT can clinch Group D in World Cup; Wyndham Clark builds huge U.S. Open lead",
-      "link": "https://www.cbssports.com/golf/news/usmnt-clinch-group-world-cup-wyndham-clark-us-open/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781872811
     },
     {
       "title": "Webinar: How attackers bypass MFA and how defenders can respond",
@@ -665,118 +777,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1781815795
-    },
-    {
-      "title": "Android verification is coming: Google confirms timeline and supported app stores",
-      "link": "https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781812413
-    },
-    {
-      "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
-      "link": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781811695
-    },
-    {
-      "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781807496
-    },
-    {
-      "title": "After Senate vote, Trump admin backs off plans to kill ocean monitoring",
-      "link": "https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781806784
-    },
-    {
-      "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
-      "link": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781804538
-    },
-    {
-      "title": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
-      "link": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781802169
-    },
-    {
-      "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
-      "link": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781799606
-    },
-    {
-      "title": "Scientists discover an earthquake gate as California faults reach their highest stress levels in 1,000 years",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260617032155.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1781799587
-    },
-    {
-      "title": "Hunter-gatherers in Siberia died of a plague outbreak 5,500 years ago",
-      "link": "https://arstechnica.com/science/2026/06/hunter-gatherers-in-siberia-died-of-a-plague-outbreak-5500-years-ago/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781795080
-    },
-    {
-      "title": "2026 NBA Mock Draft: Nets bet big on Nate Ament at No. 6; Keaton Wagler slides down board",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-mock-draft-nate-ament-keaton-wagler/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781792539
-    },
-    {
-      "title": "2026 NBA Draft odds: Intrigue starts with Clippers at No. 5 overall, and best betting value is Keaton Wagler",
-      "link": "https://www.cbssports.com/betting/news/2026-nba-draft-odds-intrigue-starts-with-clippers-at-no-5-overall-and-best-betting-value-is-keaton-wagler/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781790059
-    },
-    {
-      "title": "DR Congo, Harry Kane shine at World Cup; who will win it all at the U.S. Open?",
-      "link": "https://www.cbssports.com/golf/news/dr-congo-harry-kane-world-cup-us-open-golf/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781788323
-    },
-    {
-      "title": "Trae Young is reportedly declining his player option, so what does that mean for his free agency?",
-      "link": "https://www.cbssports.com/nba/news/trae-young-free-agency-wizards-player-option/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781787130
-    },
-    {
-      "title": "Knicks parade details: Date, time, route as New York celebrates NBA championship",
-      "link": "https://www.cbssports.com/nba/news/knicks-championship-parade-details-date-route/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781785898
-    },
-    {
-      "title": "Ancient DNA reveals plague was already killing humans 5,500 years ago",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260618041450.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1781785006
-    },
-    {
-      "title": "Why James Dolan's second apron comments raise big questions about Knicks' ability to keep championship roster",
-      "link": "https://www.cbssports.com/nba/news/knicks-owner-james-dolan-second-apron-championship-roster/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781745563
     }
   ]
 }
