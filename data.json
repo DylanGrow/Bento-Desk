@@ -1,6 +1,132 @@
 {
-  "last_updated": 1782149887,
+  "last_updated": 1782160973,
   "items": [
+    {
+      "title": "Microsoft and Chevron plan one of the largest gas-powered data center projects in US",
+      "link": "https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782160639
+    },
+    {
+      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+      "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782159238
+    },
+    {
+      "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+      "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782158895
+    },
+    {
+      "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1782158462
+    },
+    {
+      "title": "NASA's Roman Space Telescope arrives in Florida ahead of SpaceX Falcon Heavy launch this summer",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-arrives-in-florida-ahead-of-spacex-falcon-heavy-launch-this-summer",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782158400
+    },
+    {
+      "title": "Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach",
+      "link": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782156300
+    },
+    {
+      "title": "Valve's Steam Machine ships June 29 for $1,049, but you probably won't be able to buy one yet",
+      "link": "https://arstechnica.com/gaming/2026/06/valves-steam-machine-ships-june-29-for-1049-but-you-probably-wont-be-able-to-buy-one-yet/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782154965
+    },
+    {
+      "title": "'Project Hail Mary' is streaming now on MGM+, and you can watch for just $0.99 for a limited time",
+      "link": "https://www.space.com/entertainment/space-movies-shows/project-hail-mary-is-streaming-now-on-mgm-and-you-can-watch-for-just-usd0-99-for-a-limited-time",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782154800
+    },
+    {
+      "title": "A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak",
+      "link": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782154224
+    },
+    {
+      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+      "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782154184
+    },
+    {
+      "title": "Three new offseason questions for Mavericks after hiring Dusty May, including what's next for Kyrie Irving",
+      "link": "https://www.cbssports.com/nba/news/mavericks-dusty-may-kyrie-irving-nba-draft/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782152821
+    },
+    {
+      "title": "Mavericks hiring Dusty May away from Michigan in basketball stunner",
+      "link": "https://www.cbssports.com/nba/news/dallas-mavericks-hire-michigan-coach-dusty-may-to-replace-jason-kidd/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782152095
+    },
+    {
+      "title": "Anthropic says Claude may want to see your ID",
+      "link": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782151513
+    },
+    {
+      "title": "Dark energy is still accelerating the expansion of the universe, and astronomers are relieved. 'Thankfully, we have averted this crisis'",
+      "link": "https://www.space.com/astronomy/dark-universe/dark-energy-is-still-accelerating-the-expansion-of-the-universe-and-astronomers-are-relieved-thankfully-we-have-averted-this-crisis",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782151356
+    },
+    {
+      "title": "Why Michigan named Mike Boynton interim coach following Dusty May's departure to Mavericks",
+      "link": "https://www.cbssports.com/college-basketball/news/mike-boynton-michigan-interim-coach-dusty-may-mavericks/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782150986
+    },
+    {
+      "title": "2026 NBA Draft Roundtable: Best lead guard in the class? Second round sleepers? Our experts weigh in",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-draft-roundtable-best-point-guard/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782150863
+    },
+    {
+      "title": "It’s Finally Happened — You Can Play As Nicolas Cage in Call of Duty",
+      "link": "https://www.ign.com/articles/its-finally-happened-you-can-play-as-nicolas-cage-in-call-of-duty",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782150281
+    },
+    {
+      "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1782150091
+    },
     {
       "title": "'Nerd' Kingston Flemings knows he could be an analyst or a scout; instead, he'll be a first-round draft pick",
       "link": "https://www.cbssports.com/nba/news/nba-draft-kingston-flemings-houston/",
@@ -23,11 +149,25 @@
       "timestamp": 1782149337
     },
     {
+      "title": "Love and Deepspace Drops New Wolfy Love Interest And I'm Not Well",
+      "link": "https://www.ign.com/articles/love-and-deepspace-drops-new-wolfy-love-interest",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782149328
+    },
+    {
       "title": "2026 NBA Mock Draft: Adam Finkelstein's final first-round mock loaded with selection intel and trade rumors",
       "link": "https://www.cbssports.com/nba/news/2026-nba-mock-draft-trade-rumors-intel/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782149072
+    },
+    {
+      "title": "Bethesda Boss Todd Howard Saw Marvel's Blade in May, Says Arkane 'Doing a Really, Really Great Job'",
+      "link": "https://www.ign.com/articles/bethesda-boss-todd-howard-saw-marvels-blade-in-may-says-arkane-doing-a-really-really-great-job",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782148874
     },
     {
       "title": "2016 NBA Draft 10 years later: Biggest hit, biggest whiff and best steal from up-and-down class",
@@ -37,11 +177,25 @@
       "timestamp": 1782148408
     },
     {
-      "title": "Doorbell cam filmed Tesla Autopilot crash that killed woman in her home",
+      "title": "NHTSA investigating alleged Tesla Autopilot crash that killed woman in her home",
       "link": "https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1782148252
+    },
+    {
+      "title": "Fortnite's Popular Pokémon-Like Sprites Are Fueling a Player Surge — and 5 More Species Get Added This Week",
+      "link": "https://www.ign.com/articles/fortnites-popular-pokemon-like-sprites-are-fueling-a-player-surge-and-5-more-species-get-added-this-week",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782148206
+    },
+    {
+      "title": "Netflix's Gears of War Movie Is an 'Origin Story' for Delta Squad",
+      "link": "https://www.ign.com/articles/netflixs-gears-of-war-movie-is-an-origin-story-for-delta-squad",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782147677
     },
     {
       "title": "'Control Resonant' takes inspiration from 'Devil May Cry', 'Neon Genesis Evangelion', and 'Inception' to craft a trippy sci-fi action game",
@@ -51,11 +205,39 @@
       "timestamp": 1782147600
     },
     {
+      "title": "The Steam Machine Costs $1049, Is That Too Much?",
+      "link": "https://www.ign.com/articles/steam-machine-price",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782147600
+    },
+    {
+      "title": "The Steam Machine Was Originally Meant to Cost About $750",
+      "link": "https://www.ign.com/articles/the-steam-machine-was-originally-meant-to-cost-about-750",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782147600
+    },
+    {
+      "title": "Valve Says Steam Deck 2 Is Getting Closer, but Still Not Ready Yet",
+      "link": "https://www.ign.com/articles/valve-says-steam-deck-2-is-getting-closer-but-still-not-ready-yet",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782147600
+    },
+    {
       "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
       "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1782147089
+    },
+    {
+      "title": "Hideo Kojima Says Upcoming Xbox Horror Game OD Has a Special System for People Who Are Too Scared to Keep Playing",
+      "link": "https://www.ign.com/articles/hideo-kojima-says-upcoming-xbox-horror-game-od-has-a-special-system-for-people-who-are-too-scared-to-keep-playing",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782146998
     },
     {
       "title": "Sea of Thieves Live-Action Movie in Development, Microsoft Confirms",
@@ -77,13 +259,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782143540
-    },
-    {
-      "title": "Mavericks hiring Dusty May away from Michigan in basketball stunner",
-      "link": "https://www.cbssports.com/nba/news/dallas-mavericks-hire-michigan-coach-dusty-may-to-replace-jason-kidd/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782143033
     },
     {
       "title": "2026 NBA Mock Draft: After hiring Michigan's Dusty May, Mavericks take former Wolverines star Aday Mara",
@@ -142,13 +317,6 @@
       "timestamp": 1782140400
     },
     {
-      "title": "2026 NBA Draft Roundtable: Best lead guard in the class? Second round sleepers? Our experts weigh in",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-draft-roundtable-best-point-guard/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782138854
-    },
-    {
       "title": "Our expert thinks this pocket-friendly drone is brilliant for beginners, and it's $30 off ahead of Amazon Prime Day",
       "link": "https://www.space.com/stargazing/skywatching-kit/our-expert-thinks-this-pocket-friendly-drone-is-brilliant-for-beginners-and-its-30-dollars-off-ahead-of-amazon-prime-day",
       "source": "SPACE",
@@ -184,13 +352,6 @@
       "timestamp": 1782137087
     },
     {
-      "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
-      "link": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782136800
-    },
-    {
       "title": "Our sun is destined to 'kick and spit' its way across the solar system when it dies",
       "link": "https://www.space.com/astronomy/stars/the-dying-sun-will-go-out-kicking-before-leaving-behind-a-white-dwarf-dead-star",
       "source": "SPACE",
@@ -202,6 +363,13 @@
       "link": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-captures-the-star-forming-clouds-of-orion-a-in-stunning-detail-space-photo-of-the-day-for-june-22-2026",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1782136800
+    },
+    {
+      "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
+      "link": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
       "timestamp": 1782136800
     },
     {
@@ -268,25 +436,11 @@
       "timestamp": 1782133149
     },
     {
-      "title": "Halo: Campaign Evolved Main Menu Video Sparks Fan Debate Over Ring Detail",
-      "link": "https://www.ign.com/articles/halo-campaign-evolved-main-menu-video-sparks-fan-debate-over-ring-detail",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782132515
-    },
-    {
       "title": "Future astronauts could walk across rocks from deep inside the Moon",
       "link": "https://www.sciencedaily.com/releases/2026/06/260622014258.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782131927
-    },
-    {
-      "title": "Zelda Fan Ditches Ocarina of Time Unreal Engine Remake After a Decade of Work",
-      "link": "https://www.ign.com/articles/zelda-fan-ditches-ocarina-of-time-unreal-engine-remake-after-a-decade-of-work",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782131128
     },
     {
       "title": "Launch monster: SpaceX has lofted more satellites than everyone else in history, combined",
@@ -296,34 +450,6 @@
       "timestamp": 1782129600
     },
     {
-      "title": "GTA 6 'Vampire' Ferris Wheel Sparks Tech Expert Investigation",
-      "link": "https://www.ign.com/articles/gta-6-vampire-ferris-wheel-sparks-tech-expert-investigation",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782128409
-    },
-    {
-      "title": "Tom Hanks Uncertain About Toy Story 6 Return",
-      "link": "https://www.ign.com/articles/tom-hanks-uncertain-about-toy-story-6-return",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782127661
-    },
-    {
-      "title": "Robert Downey Jr. Posts Avengers: Doomsday Father's Day Message, Which Links to Popular Fan Theory for Doctor Doom's Tragic Backstory",
-      "link": "https://www.ign.com/articles/robert-downey-jr-posts-avengers-doomsday-fathers-day-message-which-links-to-popular-fan-theory-for-doctor-dooms-tragic-backstory",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782125754
-    },
-    {
-      "title": "Scammers Are 'Dangling the One Thing' PC Gamers Won't Get Anytime Soon: GTA 6",
-      "link": "https://www.ign.com/articles/scammers-are-dangling-the-one-thing-pc-gamers-wont-get-anytime-soon-gta-6",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782125367
-    },
-    {
       "title": "Butterfly that barely ages could help unlock longevity secrets",
       "link": "https://www.sciencedaily.com/releases/2026/06/260622014302.htm",
       "source": "SCIENCEDAILY",
@@ -331,32 +457,11 @@
       "timestamp": 1782124208
     },
     {
-      "title": "Dbrand Is Now Taking Orders for Its Steam Machine Companion Cube Case, Ships in \"Late July\"",
-      "link": "https://www.ign.com/articles/dbrand-portal-companion-cube-steam-machine-case-where-to-buy",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782123584
-    },
-    {
-      "title": "Toy Story 5 Explodes at the Box Office, but Disclosure Day Is Struggling",
-      "link": "https://www.ign.com/articles/toy-story-5-expodes-at-the-box-office-but-disclosure-day-is-struggling",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782122993
-    },
-    {
       "title": "Could we actually terraform Mars? Scientists are trying to find out",
       "link": "https://www.space.com/astronomy/mars/could-we-actually-terraform-mars-scientists-are-trying-to-find-out",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1782122400
-    },
-    {
-      "title": "Toy Story 5 Almost Featured a Drastically Different Ending, With Huge Emotional Stakes for Jessie",
-      "link": "https://www.ign.com/articles/toy-story-5-almost-featured-a-drastically-different-ending-with-huge-emotional-stakes-for-jessie",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782121137
     },
     {
       "title": "Ethan Thornton is trying to do everything all at once",
@@ -380,13 +485,6 @@
       "timestamp": 1782067090
     },
     {
-      "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
-      "link": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782066871
-    },
-    {
       "title": "2026 NBA Mock Draft: Giannis Antetokounmpo trade would create chaos; Wizards select Darryn Peterson at No. 1",
       "link": "https://www.cbssports.com/nba/news/2026-nba-mock-draft-giannis-antetokounmpo-trade-would-create-chaos-wizards-select-darryn-peterson-at-no-1/",
       "source": "CBSSPORTS",
@@ -399,34 +497,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1782064175
-    },
-    {
-      "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
-      "link": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782059700
-    },
-    {
-      "title": "TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance",
-      "link": "https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782057900
-    },
-    {
-      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
-      "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782055697
-    },
-    {
-      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
-      "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782052828
     },
     {
       "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
@@ -478,25 +548,11 @@
       "timestamp": 1782023435
     },
     {
-      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-      "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781987549
-    },
-    {
       "title": "NBA trade rumors: Bucks have 'unrealistic' asking price for Giannis Antetokounmpo; Isaiah Stewart on the move?",
       "link": "https://www.cbssports.com/nba/news/nba-trade-rumors-giannis-antetokounmpo-asking-price-isaiah-stewart/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1781987269
-    },
-    {
-      "title": "In the Weights is your new AI-centric vanity search",
-      "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1781984471
     },
     {
       "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
@@ -555,13 +611,6 @@
       "timestamp": 1781954109
     },
     {
-      "title": "Do we need a lunar building code to build moon bases safely?",
-      "link": "https://www.space.com/space-exploration/artemis/do-we-need-a-lunar-building-code-to-build-moon-bases-safely",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781949600
-    },
-    {
       "title": "Late, great singer-songwriter Elliott Smith finds immortality as an asteroid",
       "link": "https://www.space.com/astronomy/asteroids/late-great-singer-songwriter-elliott-smith-finds-immortality-as-an-asteroid",
       "source": "SPACE",
@@ -583,25 +632,11 @@
       "timestamp": 1781908264
     },
     {
-      "title": "A private company will build and launch NASA's next Mars orbiter in 2028 — and it's not SpaceX",
-      "link": "https://www.space.com/space-exploration/missions/a-private-company-will-build-and-launch-nasas-next-mars-orbiter-in-2028-and-its-not-spacex",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781902800
-    },
-    {
       "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1781900702
-    },
-    {
-      "title": "'This is not like life that we’ve experienced' 'Star City' cast on struggling to relate to the brutality of Soviet existence in Apple TV's For All Mankind' spin-off",
-      "link": "https://www.space.com/entertainment/space-movies-shows/this-is-not-like-life-that-weve-experienced-star-city-cast-on-struggling-to-relate-to-the-brutality-of-soviet-existence-in-apple-tvs-for-all-mankind-spin-off",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781899200
     },
     {
       "title": "2026 NBA Draft Roundtable: Who goes No. 1 overall? Experts favor AJ Dybantsa over Darryn Peterson",
@@ -611,25 +646,11 @@
       "timestamp": 1781896657
     },
     {
-      "title": "NBA trade rumors: Latest on Giannis Antetokounmpo, plus possible backup plans for Celtics, Heat, Wolves",
-      "link": "https://www.cbssports.com/nba/news/nba-trade-rumors-giannis-antetokounmpo-celtics-heat-wolves/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781889976
-    },
-    {
       "title": "Texas govt data breach exposes over 3 million driver’s licenses",
       "link": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1781885561
-    },
-    {
-      "title": "He covered the Knicks for 23 seasons. He watched them win a title from a bar in Florida",
-      "link": "https://www.cbssports.com/nba/news/marc-berman-knicks-23-season-title-bar-florida/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781878682
     },
     {
       "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
@@ -709,13 +730,6 @@
       "timestamp": 1781858648
     },
     {
-      "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781851675
-    },
-    {
       "title": "This giant tropical fruit could help reverse gum disease damage",
       "link": "https://www.sciencedaily.com/releases/2026/06/260618041508.htm",
       "source": "SCIENCEDAILY",
@@ -751,13 +765,6 @@
       "timestamp": 1781825332
     },
     {
-      "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
-      "link": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781821912
-    },
-    {
       "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
       "link": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
       "source": "ARSTECHNICA",
@@ -770,13 +777,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1781817686
-    },
-    {
-      "title": "NASA asks Northrop Grumman to stop working on lunar HALO module",
-      "link": "https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781815795
     }
   ]
 }
