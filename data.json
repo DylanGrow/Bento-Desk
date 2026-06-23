@@ -1,6 +1,62 @@
 {
-  "last_updated": 1782203465,
+  "last_updated": 1782215905,
   "items": [
+    {
+      "title": "Why Valve Refuses to Subsidize Its $1,049 Steam Machine",
+      "link": "https://www.ign.com/articles/why-valve-refuses-to-subsidize-its-1049-steam-machine",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782214225
+    },
+    {
+      "title": "2026 NBA Mock Draft: Gary Parrish's final projections following Giannis Antetokounmpo blockbuster trade",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-mock-draft-giannis-antetokounmpo-trade/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782214006
+    },
+    {
+      "title": "Spider-Man: Brand New Day's Villain 'Still Very Much a Secret,' Tom Holland Teases",
+      "link": "https://www.ign.com/articles/spider-man-brand-new-days-villain-still-very-much-a-secret-tom-holland-teases",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782211304
+    },
+    {
+      "title": "James Gunn Teases Supergirl's 'Big' Role in Superman Sequel Man of Tomorrow",
+      "link": "https://www.ign.com/articles/james-gunn-teases-supergirls-big-role-in-superman-sequel-man-of-tomorrow",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782210259
+    },
+    {
+      "title": "This 'improbable' exoplanet system is so wonky because of a weird object within",
+      "link": "https://www.space.com/astronomy/exoplanets/this-improbable-exoplanet-system-is-so-wonky-because-of-a-weird-object-within",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782208800
+    },
+    {
+      "title": "This beginner-friendly travel telescope is the reason I turned into a skywatcher",
+      "link": "https://www.space.com/stargazing/skywatching-kit/this-beginner-friendly-travel-telescope-is-the-reason-i-turned-into-a-skywatcher",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782208299
+    },
+    {
+      "title": "Pokémon Winds and Waves Starter Creatures May Debut First in Pokémon Go, Fans Believe",
+      "link": "https://www.ign.com/articles/pokemon-winds-and-waves-starter-creatures-may-debut-first-in-pokemon-go-fans-believe",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782206973
+    },
+    {
+      "title": "Fallout Season 3: Todd Howard Teases 'New Things' Never Seen Before in the Games",
+      "link": "https://www.ign.com/articles/fallout-season-3-todd-howard-teases-new-things-never-seen-before-in-the-games",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782206941
+    },
     {
       "title": "Scientists open a million-year-old time capsule hidden beneath New Zealand",
       "link": "https://www.sciencedaily.com/releases/2026/06/260623011129.htm",
@@ -163,7 +219,7 @@
       "timestamp": 1782167557
     },
     {
-      "title": "SpaceX launching its 1st 'Starfall' reentry capsule early on June 23: Watch it live",
+      "title": "SpaceX launches its 1st 'Starfall' reentry capsule in early morning Falcon 9 liftoff",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-its-1st-starfall-reentry-capsule-early-on-june-23-watch-it-live",
       "source": "SPACE",
       "category": "space",
@@ -429,45 +485,10 @@
       "timestamp": 1782148252
     },
     {
-      "title": "Fortnite's Popular Pokémon-Like Sprites Are Fueling a Player Surge — and 5 More Species Get Added This Week",
-      "link": "https://www.ign.com/articles/fortnites-popular-pokemon-like-sprites-are-fueling-a-player-surge-and-5-more-species-get-added-this-week",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782148206
-    },
-    {
-      "title": "Netflix's Gears of War Movie Is an 'Origin Story' for Delta Squad",
-      "link": "https://www.ign.com/articles/netflixs-gears-of-war-movie-is-an-origin-story-for-delta-squad",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782147677
-    },
-    {
       "title": "'Control Resonant' takes inspiration from 'Devil May Cry', 'Neon Genesis Evangelion', and 'Inception' to craft a trippy sci-fi action game",
       "link": "https://www.space.com/entertainment/space-games/control-resonant-takes-inspiration-from-devil-may-cry-neon-genesis-evangelion-and-inception-to-craft-a-trippy-sci-fi-action-game",
       "source": "SPACE",
       "category": "space",
-      "timestamp": 1782147600
-    },
-    {
-      "title": "The Steam Machine Costs $1049, Is That Too Much?",
-      "link": "https://www.ign.com/articles/steam-machine-price",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782147600
-    },
-    {
-      "title": "The Steam Machine Was Originally Meant to Cost About $750",
-      "link": "https://www.ign.com/articles/the-steam-machine-was-originally-meant-to-cost-about-750",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782147600
-    },
-    {
-      "title": "Valve Says Steam Deck 2 Is Getting Closer, but Still Not Ready Yet",
-      "link": "https://www.ign.com/articles/valve-says-steam-deck-2-is-getting-closer-but-still-not-ready-yet",
-      "source": "IGN",
-      "category": "gaming",
       "timestamp": 1782147600
     },
     {
@@ -562,13 +583,6 @@
       "timestamp": 1782135924
     },
     {
-      "title": "2026 NBA Draft odds: Caleb Wilson heavy favorite be chosen No. 4 overall by Bulls",
-      "link": "https://www.cbssports.com/betting/news/2026-nba-draft-odds-caleb-wilson-heavy-favorite-be-chosen-no-4-overall-by-bulls/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782134627
-    },
-    {
       "title": "Future astronauts could walk across rocks from deep inside the Moon",
       "link": "https://www.sciencedaily.com/releases/2026/06/260622014258.htm",
       "source": "SCIENCEDAILY",
@@ -646,13 +660,6 @@
       "timestamp": 1782036011
     },
     {
-      "title": "Happy Summer Solstice! Today marks the longest day of the year for the Northern Hemisphere",
-      "link": "https://www.space.com/stargazing/happy-summer-solstice-today-marks-the-longest-day-of-the-year-for-the-northern-hemisphere",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782036000
-    },
-    {
       "title": "Think human anatomy is finished? Scientists say think again",
       "link": "https://www.sciencedaily.com/releases/2026/06/260618041511.htm",
       "source": "SCIENCEDAILY",
@@ -672,13 +679,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1781969026
-    },
-    {
-      "title": "This Week In Space podcast: Episode 215 — Disclosure Day",
-      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-215-disclosure-day",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1781968619
     },
     {
       "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
