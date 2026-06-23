@@ -1,6 +1,111 @@
 {
-  "last_updated": 1782227608,
+  "last_updated": 1782237021,
   "items": [
+    {
+      "title": "This might be your last chance to pick up a retired Lego Star Wars set before it flies off forever, and it's under $100 on Amazon for Prime Day",
+      "link": "https://www.space.com/entertainment/space-toys-lego/this-might-be-your-last-chance-to-pick-up-a-retired-lego-star-wars-set-before-it-flies-off-forever-and-its-under-100-dollars-on-amazon-for-prime-day",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782235800
+    },
+    {
+      "title": "2026 NBA Draft intel: Latest buzz on Wizards' No. 1 pick, trade chatter and prospects rising late",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-draft-rumors-picks-dybantsa-peterson-boozer-wilson/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782234629
+    },
+    {
+      "title": "Trail Blazers hire Micah Nori as head coach on unique contract with only one guaranteed year, per report",
+      "link": "https://www.cbssports.com/nba/news/portland-trail-blazers-micah-nori-unique-contract/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782234430
+    },
+    {
+      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+      "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782234000
+    },
+    {
+      "title": "A 'new' star could finally appear in the night sky this week, thanks to a once-in-a-lifetime explosion",
+      "link": "https://www.space.com/stargazing/a-new-star-could-finally-appear-in-the-night-sky-this-week-thanks-to-a-once-in-a-lifetime-explosion",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782234000
+    },
+    {
+      "title": "China's space plane appears to have released a mystery object in orbit",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/chinas-space-plane-appears-to-have-released-a-mystery-object-in-orbit",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782233548
+    },
+    {
+      "title": "NBA futures: How Giannis Antetokounmpo trade impacts 2027 NBA Finals, Eastern Conference and MVP odds",
+      "link": "https://www.cbssports.com/betting/news/nba-futures-how-giannis-antetokounmpo-trade-impacts-2027-nba-finals-eastern-conference-and-mvp-odds/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782232428
+    },
+    {
+      "title": "What telescope could cause our astrophotography expert to break their hard-and-fast rule about not traveling with a telescope? This one! Now even cheaper in this Prime Day telescope deal",
+      "link": "https://www.space.com/stargazing/skywatching-kit/this-telescope-caused-our-astrophotography-expert-to-break-their-hard-and-fast-rule-about-not-traveling-with-a-telescope",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782232200
+    },
+    {
+      "title": "2026 NBA Draft order: Complete list of all 60 picks with Wizards at No. 1",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-draft-order-complete-list-picks/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782231642
+    },
+    {
+      "title": "Trump may be mystery patient in odd case of 79yo getting experimental obesity drug",
+      "link": "https://arstechnica.com/health/2026/06/trump-may-be-mystery-patient-in-odd-case-of-79yo-getting-experimental-obesity-drug/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782231414
+    },
+    {
+      "title": "Toy Story 5 Producer Rules Out Live-Action Toy Story Movie: 'Please God No'",
+      "link": "https://www.ign.com/articles/toy-story-5-producer-rules-out-live-action-toy-story-movie-please-god-no",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782230890
+    },
+    {
+      "title": "NASA wants to dump the ISS in the sea. Experts say the plan 'raises serious concerns for ocean health'",
+      "link": "https://www.space.com/space-exploration/international-space-station/nasa-wants-to-dump-the-iss-in-the-sea-experts-say-the-plan-raises-serious-concerns-for-ocean-health",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782230400
+    },
+    {
+      "title": "New Blair Witch Project Movie Conjures Up 2027 Release Date",
+      "link": "https://www.ign.com/articles/new-blair-witch-project-movie-conjures-up-2027-release-date",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782230252
+    },
+    {
+      "title": "Scattered Spider members plead guilty to hacking Transport for London",
+      "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1782228719
+    },
+    {
+      "title": "The Unistellar Odyssey Pro helped me feel in touch with the universe and it's now 15% off",
+      "link": "https://www.space.com/stargazing/skywatching-kit/the-unistellar-odyssey-pro-helped-me-feel-in-touch-with-the-universe-and-its-now-15-percent-off",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782228600
+    },
     {
       "title": "Password manager maker LastPass says hackers stole customer support case data during Klue breach",
       "link": "https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/",
@@ -51,7 +156,7 @@
       "timestamp": 1782226016
     },
     {
-      "title": "Michael Caine Announces He's Narrating The Odyssey — But Not the Christopher Nolan Movie, And Also His Voice is Actually AI",
+      "title": "Michael Caine Announces He's Narrating The Odyssey — But Not the Christopher Nolan Movie, And Also His Voice Is Actually AI",
       "link": "https://www.ign.com/articles/michael-caine-announces-hes-narrating-the-odyssey-but-not-the-christopher-nolan-movie-and-also-his-voice-is-actually-ai",
       "source": "IGN",
       "category": "gaming",
@@ -84,13 +189,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1782223883
-    },
-    {
-      "title": "NBA futures: How Giannis Antetokounmpo trade impacts 2027 NBA Finals, Eastern Conference and MVP odds",
-      "link": "https://www.cbssports.com/betting/news/nba-futures-how-giannis-antetokounmpo-trade-impacts-2027-nba-finals-eastern-conference-and-mvp-odds/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782223873
     },
     {
       "title": "Ignite a child's imagination with the stars: Our expert-picked Astronaut Galaxy Star Projector is a Prime Day steal at just $25",
@@ -289,8 +387,8 @@
       "timestamp": 1782208299
     },
     {
-      "title": "Pokémon Winds and Waves Starter Creatures May Debut First in Pokémon Go, Fans Believe",
-      "link": "https://www.ign.com/articles/pokemon-winds-and-waves-starter-creatures-may-debut-first-in-pokemon-go-fans-believe",
+      "title": "Pokémon Go Dataminers Discount Early Launch for Pokémon Winds and Waves Creatures, Despite Earlier Hopes",
+      "link": "https://www.ign.com/articles/pokmon-go-dataminers-discount-early-launch-for-pokmon-winds-and-waves-creatures-despite-earlier-hopes",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1782206973
@@ -387,20 +485,6 @@
       "timestamp": 1782181160
     },
     {
-      "title": "The Last of Us Part 2 Multiplayer Lives On as PvP Mod Due Out Later This Year",
-      "link": "https://www.ign.com/articles/the-last-of-us-part-2-multiplayer-lives-on-as-pvp-mod-due-out-later-this-year",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782180412
-    },
-    {
-      "title": "Warframe Dev Says 'No One Is Celebrating' as Destiny 2 Support Comes to a 'Heartbreaking' End",
-      "link": "https://www.ign.com/articles/warframe-dev-says-no-one-is-celebrating-as-destiny-2-support-comes-to-a-heartbreaking-end",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782179403
-    },
-    {
       "title": "The running list: major tech layoffs in 2026 where employers cited AI",
       "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "source": "TECHCRUNCH",
@@ -450,13 +534,6 @@
       "timestamp": 1782168141
     },
     {
-      "title": "2026 NBA Draft order: Complete list of all 60 picks with Wizards at No. 1",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-draft-order-complete-list-picks/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782167557
-    },
-    {
       "title": "SpaceX launches its 1st 'Starfall' reentry capsule in early morning Falcon 9 liftoff",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-its-1st-starfall-reentry-capsule-early-on-june-23-watch-it-live",
       "source": "SPACE",
@@ -476,13 +553,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1782165138
-    },
-    {
-      "title": "Giannis Antetokounmpo next team predictions: Celtics slight favorites over Heat as trade for Bucks star looms",
-      "link": "https://www.cbssports.com/prediction/news/giannis-antetokounmpo-next-team-predictions-celtics-slight-favorites-over-heat-as-trade-for-bucks-star-looms/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782164399
     },
     {
       "title": "Report: Kennedy Space Center not ready for era of super heavy rockets",
@@ -511,13 +581,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1782162000
-    },
-    {
-      "title": "Trae Young's $212 million Wizards contract is a huge overpay, so why are they doing the deal?",
-      "link": "https://www.cbssports.com/nba/news/trae-young-contract-wizards-overpay/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782161769
     },
     {
       "title": "The AI world is getting ‘loopy’",
@@ -597,20 +660,6 @@
       "timestamp": 1782154800
     },
     {
-      "title": "A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak",
-      "link": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782154224
-    },
-    {
-      "title": "Dark energy is still accelerating the expansion of the universe, and astronomers are relieved. 'Thankfully, we have averted this crisis'",
-      "link": "https://www.space.com/astronomy/dark-universe/dark-energy-is-still-accelerating-the-expansion-of-the-universe-and-astronomers-are-relieved-thankfully-we-have-averted-this-crisis",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782151356
-    },
-    {
       "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
       "source": "BLEEPINGCOMPUTER",
@@ -630,13 +679,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1782148252
-    },
-    {
-      "title": "'Control Resonant' takes inspiration from 'Devil May Cry', 'Neon Genesis Evangelion', and 'Inception' to craft a trippy sci-fi action game",
-      "link": "https://www.space.com/entertainment/space-games/control-resonant-takes-inspiration-from-devil-may-cry-neon-genesis-evangelion-and-inception-to-craft-a-trippy-sci-fi-action-game",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782147600
     },
     {
       "title": "Lucid lays off 1,500 workers in second big cut of the year",
@@ -660,20 +702,6 @@
       "timestamp": 1782140820
     },
     {
-      "title": "'Let's not fool the public': Why moon art should be more realistic in the Artemis age",
-      "link": "https://www.space.com/astronomy/moon/lets-not-fool-the-public-why-moon-art-should-be-more-realistic-in-the-artemis-age",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782140400
-    },
-    {
-      "title": "Our expert thinks this pocket-friendly drone is brilliant for beginners, and it's $30 off ahead of Amazon Prime Day",
-      "link": "https://www.space.com/stargazing/skywatching-kit/our-expert-thinks-this-pocket-friendly-drone-is-brilliant-for-beginners-and-its-30-dollars-off-ahead-of-amazon-prime-day",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782137982
-    },
-    {
       "title": "This former hacker saw the light—and now wants to collect all of it",
       "link": "https://arstechnica.com/features/2026/06/this-former-hacker-saw-the-light-and-now-wants-to-collect-all-of-it/",
       "source": "ARSTECHNICA",
@@ -686,27 +714,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1782137115
-    },
-    {
-      "title": "Our sun is destined to 'kick and spit' its way across the solar system when it dies",
-      "link": "https://www.space.com/astronomy/stars/the-dying-sun-will-go-out-kicking-before-leaving-behind-a-white-dwarf-dead-star",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782136800
-    },
-    {
-      "title": "James Webb Space Telescope captures the star-forming clouds of Orion A in stunning detail | Space photo of the day for June 22, 2026",
-      "link": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-captures-the-star-forming-clouds-of-orion-a-in-stunning-detail-space-photo-of-the-day-for-june-22-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782136800
-    },
-    {
-      "title": "How Anthropic may have talked itself into an AI export ban",
-      "link": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782135924
     },
     {
       "title": "Future astronauts could walk across rocks from deep inside the Moon",
@@ -770,13 +777,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1781908264
-    },
-    {
-      "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781900702
     }
   ]
 }
