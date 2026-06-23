@@ -1,6 +1,62 @@
 {
-  "last_updated": 1782244724,
+  "last_updated": 1782251185,
   "items": [
+    {
+      "title": "Tata Electronics confirms cyberattack as hackers leak data",
+      "link": "https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1782248792
+    },
+    {
+      "title": "What is Starfall? A look at SpaceX's mysterious new return capsule",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/what-is-starfall-a-look-at-spacexs-mysterious-new-return-capsule",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782248400
+    },
+    {
+      "title": "Police tout using drone to disarm incapacitated person in “nationwide first”",
+      "link": "https://arstechnica.com/gadgets/2026/06/police-tout-using-drone-to-disarm-incapacitated-person-in-nationwide-first/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782247422
+    },
+    {
+      "title": "2026 NBA Mock Draft: Gary Parrish's final projections following Giannis Antetokounmpo blockbuster trade",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-mock-draft-giannis-antetokounmpo-trade/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782247110
+    },
+    {
+      "title": "Windows 11 KB5095093 update rolls out new Point-in-Time restore feature",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1782246141
+    },
+    {
+      "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+      "link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782245858
+    },
+    {
+      "title": "Space.com just launched an app! Get your inside scoop on space exploration",
+      "link": "https://www.space.com/space-exploration/space-com-just-launched-an-app-get-your-inside-scoop-on-space-exploration",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782245092
+    },
+    {
+      "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1782244752
+    },
     {
       "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
       "link": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
@@ -457,13 +513,6 @@
       "timestamp": 1782214225
     },
     {
-      "title": "2026 NBA Mock Draft: Gary Parrish's final projections following Giannis Antetokounmpo blockbuster trade",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-mock-draft-giannis-antetokounmpo-trade/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782214006
-    },
-    {
       "title": "Spider-Man: Brand New Day's Villain 'Still Very Much a Secret,' Tom Holland Teases",
       "link": "https://www.ign.com/articles/spider-man-brand-new-days-villain-still-very-much-a-secret-tom-holland-teases",
       "source": "IGN",
@@ -597,13 +646,6 @@
       "timestamp": 1782168141
     },
     {
-      "title": "SpaceX launches its 1st 'Starfall' reentry capsule in early morning Falcon 9 liftoff",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-its-1st-starfall-reentry-capsule-early-on-june-23-watch-it-live",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782165600
-    },
-    {
       "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
       "link": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/",
       "source": "ARSTECHNICA",
@@ -637,13 +679,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1782162128
-    },
-    {
-      "title": "This ball of stars named Terzan 5 may be one of the Milky Way's original building blocks",
-      "link": "https://www.space.com/astronomy/stars/this-ball-of-stars-named-terzan-5-may-be-one-of-the-milky-ways-original-building-blocks",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782162000
     },
     {
       "title": "The AI world is getting ‘loopy’",
@@ -702,20 +737,6 @@
       "timestamp": 1782149337
     },
     {
-      "title": "NHTSA investigating alleged Tesla Autopilot crash that killed woman in her home",
-      "link": "https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782148252
-    },
-    {
-      "title": "Lucid lays off 1,500 workers in second big cut of the year",
-      "link": "https://arstechnica.com/cars/2026/06/lucid-lays-off-1500-workers-in-second-big-cut-of-the-year/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782141766
-    },
-    {
       "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
       "link": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
       "source": "BLEEPINGCOMPUTER",
@@ -744,13 +765,6 @@
       "timestamp": 1782102779
     },
     {
-      "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782051262
-    },
-    {
       "title": "As lakes turn brown, trout and bass decline while pike and walleye thrive",
       "link": "https://www.sciencedaily.com/releases/2026/06/260621060322.htm",
       "source": "SCIENCEDAILY",
@@ -763,20 +777,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782026813
-    },
-    {
-      "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
-      "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781969026
-    },
-    {
-      "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1781964559
     }
   ]
 }
