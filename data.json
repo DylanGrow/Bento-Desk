@@ -1,12 +1,54 @@
 {
-  "last_updated": 1782190660,
+  "last_updated": 1782203465,
   "items": [
+    {
+      "title": "Scientists open a million-year-old time capsule hidden beneath New Zealand",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260623011129.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782199841
+    },
+    {
+      "title": "Julius Randle trade grades: Wolves' mark needs an asterisk, Nets take sensible swing",
+      "link": "https://www.cbssports.com/nba/news/julius-randle-trade-grades-wolves-nets-bulls/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782192734
+    },
+    {
+      "title": "With Starfall, SpaceX eyes an edge in global cargo delivery from orbit",
+      "link": "https://arstechnica.com/space/2026/06/with-starfall-spacex-eyes-an-edge-in-global-cargo-delivery-from-orbit/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782192316
+    },
+    {
+      "title": "Giannis Antetokounmpo trade grades: Heat earn 'B+' in blockbuster, while Bucks pay for waiting too long",
+      "link": "https://www.cbssports.com/nba/news/giannis-antetokounmpo-trade-grades-heat-bucks/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782191869
+    },
+    {
+      "title": "Meteorite reveals a lost moon-sized world from the dawn of the solar system",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260619101347.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782191362
+    },
     {
       "title": "Keanu Reeves Reportedly in Talks to Star in New LEGO Movie Project from Toy Story 4 Director",
       "link": "https://www.ign.com/articles/keanu-reeves-reportedly-in-talks-to-star-in-new-lego-movie-project-from-toy-story-4-director",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1782190076
+    },
+    {
+      "title": "NASA’s Cold Atom Lab is creating one of the weirdest forms of matter in space",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260622091507.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782189934
     },
     {
       "title": "Powerpuff Girls Movie in the Works at Warner Bros. Animation",
@@ -86,7 +128,7 @@
       "timestamp": 1782176020
     },
     {
-      "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+      "title": "OpenAI launches new initiative to help find and patch open source bugs",
       "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -527,20 +569,6 @@
       "timestamp": 1782134627
     },
     {
-      "title": "Five teams that could shake up the NBA Draft with a trade",
-      "link": "https://www.cbssports.com/nba/news/nba-draft-trade-clippers-mavericks-thunder-grizzlies-pelicans/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782134555
-    },
-    {
-      "title": "Wyndham Clark wins second U.S. Open; NBA Draft a day away; will USMNT hold up in World Cup?",
-      "link": "https://www.cbssports.com/golf/news/wyndham-clark-wins-second-u-s-open-nba-draft-a-day-away-will-usmnt-hold-up-in-world-cup/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782133149
-    },
-    {
       "title": "Future astronauts could walk across rocks from deep inside the Moon",
       "link": "https://www.sciencedaily.com/releases/2026/06/260622014258.htm",
       "source": "SCIENCEDAILY",
@@ -709,13 +737,6 @@
       "timestamp": 1781885561
     },
     {
-      "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
-      "link": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1781876213
-    },
-    {
       "title": "Scientists expected a black hole but found a neutrino factory powered by stars",
       "link": "https://www.sciencedaily.com/releases/2026/06/260619020510.htm",
       "source": "SCIENCEDAILY",
@@ -756,27 +777,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1781862187
-    },
-    {
-      "title": "This giant tropical fruit could help reverse gum disease damage",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260618041508.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1781848781
-    },
-    {
-      "title": "DNA time stamps reveal the strawberry’s surprising origins",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260618041515.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1781846866
-    },
-    {
-      "title": "Black hole winds may be robbing giant galaxies of their future stars",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260618041454.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1781843203
     }
   ]
 }
