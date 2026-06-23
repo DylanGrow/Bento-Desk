@@ -1,6 +1,13 @@
 {
-  "last_updated": 1782168301,
+  "last_updated": 1782172977,
   "items": [
+    {
+      "title": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
+      "link": "https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782169197
+    },
     {
       "title": "Shareholders sue Uber’s board over sexual assaults, other incidents",
       "link": "https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/",
@@ -14,6 +21,20 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1782168141
+    },
+    {
+      "title": "2026 NBA Draft order: Complete list of all 60 picks with Wizards at No. 1",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-draft-order-complete-list-picks/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782167557
+    },
+    {
+      "title": "Inside the stay-or-go transfer decisions for Elliot Cadeau, Michigan's roster after Mavericks poach Dusty May",
+      "link": "https://www.cbssports.com/college-basketball/news/michigan-basketball-roster-transfer-portal-dusty-may/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782165671
     },
     {
       "title": "SpaceX launching its 1st 'Starfall' reentry capsule early on June 23: Watch it live",
@@ -485,13 +506,6 @@
       "timestamp": 1782135779
     },
     {
-      "title": "Seedcamp raises $320M for its new fund to expand its US footprint",
-      "link": "https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782135445
-    },
-    {
       "title": "The Most Expensive Game on Steam Costs $1,000 and Lasts Just 10 Minutes",
       "link": "https://www.ign.com/articles/the-most-expensive-game-on-steam-costs-1000-and-lasts-just-10-minutes",
       "source": "IGN",
@@ -625,13 +639,6 @@
       "timestamp": 1782023435
     },
     {
-      "title": "NBA trade rumors: Bucks have 'unrealistic' asking price for Giannis Antetokounmpo; Isaiah Stewart on the move?",
-      "link": "https://www.cbssports.com/nba/news/nba-trade-rumors-giannis-antetokounmpo-asking-price-isaiah-stewart/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781987269
-    },
-    {
       "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
       "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
       "source": "BLEEPINGCOMPUTER",
@@ -644,13 +651,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1781968619
-    },
-    {
-      "title": "De'Aaron Fox was an NBA Finals flop, but he remains a luxury the Spurs can afford to keep",
-      "link": "https://www.cbssports.com/nba/news/deaaron-fox-trade-rumors-spurs-nba-finals/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1781967849
     },
     {
       "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
