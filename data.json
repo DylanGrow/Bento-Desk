@@ -1,12 +1,117 @@
 {
-  "last_updated": 1782333980,
+  "last_updated": 1782339263,
   "items": [
+    {
+      "title": "2026 NBA Draft team grades: Live updates for all 30 teams as Round 2 unfolds",
+      "link": "https://www.cbssports.com/nba/news/nba-draft-2026-team-grades/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782338454
+    },
+    {
+      "title": "NASA's aging infrastructure can't handle Artemis launches without $1 billion in upgrades, watchdog warns",
+      "link": "https://www.space.com/space-exploration/artemis/nasas-aging-infrastructure-cant-handle-artemis-launches-without-usd1-billion-in-upgrades-watchdog-warns",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782338400
+    },
+    {
+      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+      "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782338201
+    },
+    {
+      "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1782338143
+    },
+    {
+      "title": "AI researchers continue to leave Google for its rivals",
+      "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782337327
+    },
+    {
+      "title": "The memory chip crunch is paying off for this US company",
+      "link": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782336655
+    },
+    {
+      "title": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access",
+      "link": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1782336550
+    },
+    {
+      "title": "Bungie Communications Manager Says Destiny 2 fans Shouldn't Blame Themselves for Game Coming to an End",
+      "link": "https://www.ign.com/articles/bungie-communications-manager-says-destiny-2-fans-shouldnt-blame-themselves-for-game-coming-to-an-end",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782336087
+    },
+    {
+      "title": "New website names and shames companies that still don’t offer passkeys to users",
+      "link": "https://techcrunch.com/2026/06/24/new-website-names-and-shames-companies-that-still-dont-offer-passkeys-to-users/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782335044
+    },
+    {
+      "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
+      "link": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782335014
+    },
+    {
+      "title": "This is the largest and most detailed image of our Milky Way — with over 60 million stars and 50 exoplanet systems",
+      "link": "https://www.space.com/astronomy/galaxies/this-is-the-largest-and-most-detailed-image-of-our-milky-way-with-over-60-million-stars-and-50-exoplanet-systems",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782334800
+    },
+    {
+      "title": "Malicious Edge extension abuses Native Messaging as bridge to malware",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1782334702
+    },
+    {
+      "title": "Underpromise, overdeliver? Hands-on with the $24,950 Slate auto.",
+      "link": "https://arstechnica.com/features/2026/06/we-take-a-ride-in-slates-24950-electric-pickup/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782332887
+    },
+    {
+      "title": "Disney agreed to $50M settlement over claims it made live-TV streaming expensive",
+      "link": "https://arstechnica.com/tech-policy/2026/06/disney-agreed-to-50m-settlement-over-claims-it-made-live-tv-streaming-expensive/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782332578
+    },
     {
       "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
       "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1782331785
+    },
+    {
+      "title": "Experimental wine bottle tracks oxygen moving through the cork",
+      "link": "https://arstechnica.com/science/2026/06/experimental-wine-bottle-tracks-oxygen-moving-through-the-cork/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782331472
     },
     {
       "title": "2026 NBA Round 2 mock draft: Henri Veesaar, Meleek Thomas, Isaiah Evans go early in second round predictions",
@@ -21,6 +126,13 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1782331200
+    },
+    {
+      "title": "FCC plans ID mandate that could block anonymous use of prepaid burner phones",
+      "link": "https://arstechnica.com/tech-policy/2026/06/fcc-plans-id-mandate-that-could-block-anonymous-use-of-prepaid-burner-phones/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782330337
     },
     {
       "title": "Here’s why Slate changed the battery in its cheap EV truck",
@@ -289,13 +401,6 @@
       "timestamp": 1782309600
     },
     {
-      "title": "Valor Equity Partners looks to raise a $2.5B Fund VII, per Bloomberg",
-      "link": "https://techcrunch.com/2026/06/24/valor-equity-partners-looks-to-raise-a-2-5b-fund-vii-per-bloomberg/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782309494
-    },
-    {
       "title": "GTA 6 Story Features Distinct 'Chapters' — Could Red Dead Redemption 2 Hold the Clue to How It Works?",
       "link": "https://www.ign.com/articles/gta-6-story-features-distinct-chapters-could-red-dead-redemption-2-hold-the-clue-to-how-it-works",
       "source": "IGN",
@@ -364,13 +469,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1782304968
-    },
-    {
-      "title": "Slate Auto’s radically simple electric truck starts at $24,950",
-      "link": "https://techcrunch.com/2026/06/24/slate-autos-radically-simple-electric-truck-starts-at-24950/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782304414
     },
     {
       "title": "Some Fear GTA 6 Physical Version Marks the End of the Video Game Disc",
@@ -443,25 +541,11 @@
       "timestamp": 1782295200
     },
     {
-      "title": "Daredevil: Born Again Fans React to Return of Controversial Character From Original Netflix Series",
-      "link": "https://www.ign.com/articles/daredevil-born-again-fans-react-to-return-of-controversial-character-from-original-netflix-series",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782294294
-    },
-    {
       "title": "Early humans were bringing fire into caves 1.8 million years ago",
       "link": "https://www.sciencedaily.com/releases/2026/06/260623083123.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782292371
-    },
-    {
-      "title": "How to invest when everything is moving too fast",
-      "link": "https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782282371
     },
     {
       "title": "2026 NBA Draft Grades: Analysis for AJ Dybantsa, Darryn Peterson, Cameron Boozer, rest of first-round picks",
@@ -492,13 +576,6 @@
       "timestamp": 1782276316
     },
     {
-      "title": "2026 NBA Draft team grades: Report cards for all 30 teams after Round 1",
-      "link": "https://www.cbssports.com/nba/news/nba-draft-2026-team-grades/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782274963
-    },
-    {
       "title": "Becky Hammon defends Jalen Brunson '1A' take after Knicks title, then admits she was wrong: 'He's an outlier'",
       "link": "https://www.cbssports.com/nba/news/becky-hammon-refuses-apology-jalen-brunson-comment-knicks-title/",
       "source": "CBSSPORTS",
@@ -511,13 +588,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782261593
-    },
-    {
-      "title": "Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India",
-      "link": "https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782261000
     },
     {
       "title": "2026 NBA Mock Draft: Adam Finkelstein's final projections loaded with selection intel and latest trade rumors",
@@ -604,53 +674,11 @@
       "timestamp": 1782244752
     },
     {
-      "title": "These anti-Prime deals are giving Amazon a good run for their money",
-      "link": "https://www.space.com/stargazing/skywatching-kit/these-anti-prime-deals-are-giving-amazon-a-good-run-for-their-money",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782241200
-    },
-    {
       "title": "New macOS ClickFix attack silently mounts DMGs to push infostealer",
       "link": "https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1782239416
-    },
-    {
-      "title": "A curious crossover: The Toyota C-HR review",
-      "link": "https://arstechnica.com/cars/2026/06/a-curious-crossover-the-toyota-c-hr-review/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782238790
-    },
-    {
-      "title": "Rocket Lab launches US Space Force mission with less than 17 hours' notice — a new record",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-us-space-force-mission-with-less-than-17-hours-notice-a-new-record",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782237600
-    },
-    {
-      "title": "ABC asks viewers to protest FCC attempt to \"control who is allowed\" on The View",
-      "link": "https://arstechnica.com/tech-policy/2026/06/abc-asks-viewers-to-protest-fcc-attempt-to-control-who-is-allowed-on-the-view/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782237580
-    },
-    {
-      "title": "Early land animals skipped the tadpole phase",
-      "link": "https://arstechnica.com/science/2026/06/early-land-animals-skipped-the-tadpole-phase/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782236949
-    },
-    {
-      "title": "Trump may be mystery patient in odd case of 79yo getting experimental obesity drug",
-      "link": "https://arstechnica.com/health/2026/06/trump-may-be-mystery-patient-in-odd-case-of-79yo-getting-experimental-obesity-drug/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782231414
     },
     {
       "title": "Scattered Spider members plead guilty to hacking Transport for London",
@@ -695,13 +723,6 @@
       "timestamp": 1782223271
     },
     {
-      "title": "Everyone pays the price as patent holders on seeds stifle innovation",
-      "link": "https://arstechnica.com/tech-policy/2026/06/everyone-pays-the-price-as-patent-holders-on-seeds-stifle-innovation/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782223165
-    },
-    {
       "title": "LastPass confirms data breach in Klue supply chain attack",
       "link": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
       "source": "BLEEPINGCOMPUTER",
@@ -730,13 +751,6 @@
       "timestamp": 1782217644
     },
     {
-      "title": "Webinar: Why email security teams are drowning in alerts",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782216740
-    },
-    {
       "title": "New brain study reveals speech learning works differently than we thought",
       "link": "https://www.sciencedaily.com/releases/2026/06/260619020514.htm",
       "source": "SCIENCEDAILY",
@@ -763,20 +777,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782191362
-    },
-    {
-      "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782168141
-    },
-    {
-      "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
-      "link": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782165138
     }
   ]
 }
