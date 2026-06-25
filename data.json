@@ -1,6 +1,181 @@
 {
-  "last_updated": 1782387633,
+  "last_updated": 1782397567,
   "items": [
+    {
+      "title": "The Four Elevations of Effective Fraud Prevention",
+      "link": "https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1782396071
+    },
+    {
+      "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
+      "link": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782396000
+    },
+    {
+      "title": "Summer solstice seen from space | Space photo of the day for June 25, 2026",
+      "link": "https://www.space.com/astronomy/earth/summer-solstice-seen-from-space-space-photo-of-the-day-for-june-25-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782396000
+    },
+    {
+      "title": "New to drone flying? Our expert thinks this five-star drone gives you 'everything you could possibly need' and it's $133 off",
+      "link": "https://www.space.com/technology/drones/new-to-drone-flying-our-expert-thinks-this-five-star-drone-gives-you-everything-you-could-possibly-need-and-its-usd133-off",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782396000
+    },
+    {
+      "title": "LaMelo Ball traded to Minnesota Timberwolves: Hornets ship out All-Star point guard in stunning deal",
+      "link": "https://www.cbssports.com/nba/news/lamelo-ball-trade-grades-timberwolves-hornets/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782395893
+    },
+    {
+      "title": "Trump admin proposes axing brake-pedal requirement for AVs in a boost for Tesla",
+      "link": "https://techcrunch.com/2026/06/25/trump-admin-proposes-axing-brake-pedal-requirement-for-avs-in-a-boost-for-tesla/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782395885
+    },
+    {
+      "title": "The \"sad inevitability\" of Europe's heat wave",
+      "link": "https://arstechnica.com/science/2026/06/the-sad-inevitability-of-europes-heat-wave/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782395686
+    },
+    {
+      "title": "2026-27 NBA Rookie of the Year odds: Why Kings guard Darius Acuff Jr. provides best early betting value",
+      "link": "https://www.cbssports.com/betting/news/2026-27-nba-rookie-of-the-year-odds-why-kings-guard-darius-acuff-jr-provides-best-early-betting-value/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782395175
+    },
+    {
+      "title": "Absolute Batman, Joker: Laugh Riot and Krypto Animated Series Announced",
+      "link": "https://www.ign.com/articles/absolute-batman-joker-anime-krypto-animated-series-announced",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782394943
+    },
+    {
+      "title": "New effort will get genome sequences for entire Endangered Species list",
+      "link": "https://arstechnica.com/science/2026/06/new-effort-will-get-genome-sequences-for-entire-endangered-species-list/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782394834
+    },
+    {
+      "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
+      "link": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782394200
+    },
+    {
+      "title": "Every Homo naledi we know of is female, and the implications are fascinating",
+      "link": "https://arstechnica.com/science/2026/06/every-homo-naledi-we-know-of-is-female-and-the-implications-are-fascinating/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782394134
+    },
+    {
+      "title": "NBA Rookie of the Year predictions: Early expert picks after 2026 Draft with Cameron Boozer favored",
+      "link": "https://www.cbssports.com/nba/news/nba-rookie-of-the-year-predictions-early-picks-draft/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782393776
+    },
+    {
+      "title": "2027 NBA Mock Draft: Tyran Stokes, Amari Allen headline an early look at top 30 picks for next year's draft",
+      "link": "https://www.cbssports.com/nba/news/2027-nba-mock-draft-tyran-stokes/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782392929
+    },
+    {
+      "title": "Another 'Star' is born: SpaceX names AI megaconstellation 'Starmind'",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/another-star-is-born-spacex-names-ai-megaconstellation-starmind",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782392400
+    },
+    {
+      "title": "Watch \"Avatar: Fire and Ash\" with Disney+ and Hulu — get up to 50% off this streaming bundle",
+      "link": "https://www.space.com/entertainment/watch-avatar-fire-and-ash-with-disney-and-hulu-get-up-to-50-percent-off-this-streaming-bundle",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782392318
+    },
+    {
+      "title": "Traveling to see the total solar eclipse this August? This solar binocular Prime Day deal is a total-ly bright idea!",
+      "link": "https://www.space.com/stargazing/skywatching-kit/traveling-to-see-the-total-solar-eclipse-this-august-this-solar-binocular-prime-day-deal-is-a-total-ly-bright-idea",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782390893
+    },
+    {
+      "title": "Insomniac Responds to Wolverine Fan to Confirm Physical Edition Includes a Disc in the Box and I Suspect More Devs Will Have to Answer This Question in a Post-GTA 6 World",
+      "link": "https://www.ign.com/articles/insomniac-responds-to-wolverine-fan-to-confirm-physical-edition-includes-a-disc-in-the-box-and-i-suspect-more-devs-will-have-to-answer-this-question-in-a-post-gta-6-world",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782390415
+    },
+    {
+      "title": "Webinar: Why account takeovers remain one of the hardest threats to stop",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1782389540
+    },
+    {
+      "title": "No GTA 6 Disc Decision Will Make Some Gamers Angry, but Analysts Say 'Commercially It Just Makes Sense'",
+      "link": "https://www.ign.com/articles/no-gta-6-disc-decision-will-make-some-gamers-angry-but-analysts-say-commercially-it-just-makes-sense",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782389517
+    },
+    {
+      "title": "Grizzlies, Jazz, Wizards among NBA Draft winners; USMNT to close World Cup group play vs. Türkiye",
+      "link": "https://www.cbssports.com/nba/news/grizzlies-jazz-wizards-nba-draft-usmnt-world-cup-turkiye/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782389368
+    },
+    {
+      "title": "LaMelo Ball landing spots: Five potential trade destinations with Hornets star surprisingly available",
+      "link": "https://www.cbssports.com/nba/news/lamelo-ball-landing-spots-trade-destinations/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782389169
+    },
+    {
+      "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+      "link": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782388838
+    },
+    {
+      "title": "What time is it on the moon? The US and China disagree",
+      "link": "https://www.space.com/astronomy/moon/what-time-is-it-on-the-moon-the-us-and-china-disagree",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782388800
+    },
+    {
+      "title": "Will You Buy the $80 GTA 6 Standard Edition or $100 Ultimate Edition?",
+      "link": "https://www.ign.com/articles/will-you-buy-the-80-gta-6-standard-edition-or-100-ultimate-edition",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782385975
+    },
     {
       "title": "'I’m Mad Because This Was My Rank Up Game' — Fighting Game Player-Turned-Sumo Wrestler Bodyslams Knife-Wielding Apex Legends Fan in New York City",
       "link": "https://www.ign.com/articles/im-mad-because-this-was-my-rank-up-game-fighting-game-player-turned-sumo-wrestler-bodyslams-knife-wielding-apex-legends-fan-in-new-york-city",
@@ -16,7 +191,7 @@
       "timestamp": 1782381655
     },
     {
-      "title": "Cellebrite said it cut off Russia, but Russia used is tools anyway",
+      "title": "Cellebrite said it cut off Russia, but Russia used its tools anyway",
       "link": "https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -84,13 +259,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782361318
-    },
-    {
-      "title": "2027 NBA Mock Draft: Tyran Stokes, Amari Allen headline an early look at top 30 picks for next year's draft",
-      "link": "https://www.cbssports.com/nba/news/2027-nba-mock-draft-tyran-stokes/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782358449
     },
     {
       "title": "2026 NBA Draft team grades: Report cards for all 30 teams after Round 2",
@@ -387,13 +555,6 @@
       "timestamp": 1782321344
     },
     {
-      "title": "Deezer says its new feature lets fans remix songs with artist consent",
-      "link": "https://techcrunch.com/2026/06/24/deezer-says-its-new-feature-lets-fans-remix-songs-with-artist-consent/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782321273
-    },
-    {
       "title": "Google starts lowering Play Store fees, making good on Epic Games settlement",
       "link": "https://arstechnica.com/google/2026/06/google-starts-lowering-play-store-fees-making-good-on-epic-games-settlement/",
       "source": "ARSTECHNICA",
@@ -422,25 +583,11 @@
       "timestamp": 1782320210
     },
     {
-      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
-      "link": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782319723
-    },
-    {
       "title": "Elon Musk denies Tesla’s Autopilot caused crash that killed grandmother",
       "link": "https://arstechnica.com/tech-policy/2026/06/elon-musk-denies-teslas-autopilot-caused-crash-that-killed-grandmother/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1782319232
-    },
-    {
-      "title": "NTSB launches probe into fatal Texas Tesla crash",
-      "link": "https://techcrunch.com/2026/06/24/ntsb-launches-probe-into-fatal-texas-tesla-crash/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782319148
     },
     {
       "title": "NBA rumors: The latest on Jaylen Brown's Celtics future, the Knicks' offseason plans and Anthony Edwards",
@@ -450,60 +597,11 @@
       "timestamp": 1782317968
     },
     {
-      "title": "Figma adds code layers, support for animations, more AI features in new update",
-      "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782317700
-    },
-    {
-      "title": "NASA sent a FIFA World Cup 2026 ball to the ISS so astronauts can test their footwork in zero gravity (video)",
-      "link": "https://www.space.com/space-exploration/nasa-sent-a-fifa-world-cup-2026-ball-to-the-iss-so-astronauts-can-test-their-footwork-in-zero-gravity-video",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782316800
-    },
-    {
       "title": "Fortnite Begins Reselling Old Battle Pass Skins in Next Update",
       "link": "https://www.ign.com/articles/fortnite-begins-reselling-old-battle-pass-skins-in-next-update",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1782314664
-    },
-    {
-      "title": "Koa Peat's NBA Draft slide sparks debate: Should Arizona star have stayed another season?",
-      "link": "https://www.cbssports.com/college-basketball/news/2026-nba-draft-koa-peat-falls-to-no-30/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782314273
-    },
-    {
-      "title": "Invincible Renewed for Season 6",
-      "link": "https://www.ign.com/articles/invincible-renewed-for-season-6",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782313656
-    },
-    {
-      "title": "As 'Avatar: Fire & Ash' hits Disney+, we look at 3 of the weirdest alien creatures in the 'Avatar' movies",
-      "link": "https://www.space.com/entertainment/space-movies-shows/3-of-the-weirdest-alien-creatures-in-the-avatar-movies",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782313200
-    },
-    {
-      "title": "Military branches restore flu shot requirement after virus swept through base",
-      "link": "https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782312894
-    },
-    {
-      "title": "“Seeing this Nikon Z8 deal is painful — especially since I bought mine at full price!” Our Senior Manager took the hit so you don’t have to!",
-      "link": "https://www.space.com/stargazing/skywatching-kit/seeing-this-nikon-z8-deal-is-painful-especially-since-i-bought-mine-at-full-price-our-senior-manager-took-the-hit-so-you-dont-have-to",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782312878
     },
     {
       "title": "The universe may be hiding conscious minds stranger than we can imagine",
@@ -527,46 +625,11 @@
       "timestamp": 1782311711
     },
     {
-      "title": "Slate Auto's truck builder goes live for its $25k electric pickup",
-      "link": "https://arstechnica.com/cars/2026/06/here-are-five-ways-you-could-build-a-slate-ev-from-25000-to-37000/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782311236
-    },
-    {
-      "title": "We got a sneak peek of the final space shuttle set to go on public display",
-      "link": "https://arstechnica.com/space/2026/06/november-launch-set-for-space-shuttle-endeavours-towering-display/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782309896
-    },
-    {
       "title": "Securing the service desk: Why social engineering attacks keep succeeding",
       "link": "https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1782309732
-    },
-    {
-      "title": "NASA looks for the origins of interstellar comet 3I/ATLAS | Space photo of the day for June 24, 2026",
-      "link": "https://www.space.com/astronomy/comets/nasa-looks-for-the-origins-of-interstellar-comet-3i-atlas-space-photo-of-the-day-for-june-24-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782309600
-    },
-    {
-      "title": "GTA 6 Story Features Distinct 'Chapters' — Could Red Dead Redemption 2 Hold the Clue to How It Works?",
-      "link": "https://www.ign.com/articles/gta-6-story-features-distinct-chapters-could-red-dead-redemption-2-hold-the-clue-to-how-it-works",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782309488
-    },
-    {
-      "title": "GTA 6: Everything Rockstar Announced and Confirmed on Preorder Day",
-      "link": "https://www.ign.com/articles/gta-6-everything-rockstar-announced-and-confirmed-on-preorder-day",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782307971
     },
     {
       "title": "Scientists discover ancient brain cells that help block distractions",
@@ -581,41 +644,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782306118
-    },
-    {
-      "title": "2026 NBA Draft continues Wednesday: Where to watch second round, full order of picks, top prospects left",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-draft-where-to-watch-second-round-wednesday-full-order-of-picks-top-prospects/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782306046
-    },
-    {
-      "title": "ESA chief calls for greater European space autonomy as trust in US partnership erodes",
-      "link": "https://www.space.com/space-exploration/esa-chief-calls-for-greater-european-space-autonomy-as-trust-in-us-partnership-erodes",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782306000
-    },
-    {
-      "title": "Grades for every NBA Draft pick; why Brendan Sorsby cannot play in NFL this season",
-      "link": "https://www.cbssports.com/nba/news/grades-for-every-nba-draft-pick-why-brendan-sorsby-cannot-play-in-nfl-this-season/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782305630
-    },
-    {
-      "title": "GTA 6 Is a 'Single-Player Experience,' Rockstar Confirms — What Now for GTA Online?",
-      "link": "https://www.ign.com/articles/gta-6-is-a-single-player-experience-rockstar-confirms-what-now-for-gta-online",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782305570
-    },
-    {
-      "title": "It's a crime these Lego Star Wars sets are being retired but you can save big before they go",
-      "link": "https://www.space.com/entertainment/space-toys-lego/its-a-crime-these-lego-star-wars-sets-are-being-retired-but-you-can-save-big-before-they-go",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782304968
     },
     {
       "title": "Why South Africa’s leopards shrank to half their normal size",
@@ -637,20 +665,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782292371
-    },
-    {
-      "title": "2026 NBA Draft winners and losers: Mavericks fail to help Cooper Flagg with low-upside Morez Johnson Jr. pick",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-draft-winners-and-losers-mavericks-morez-johnson-aj-dybantsa-keaton-wagler-darius-acuff/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782279553
-    },
-    {
-      "title": "2026 NBA Draft Round 2 sleepers: Duke's Isaiah Evans, UNC's Henri Veesaar among best players still available",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-draft-round-2-sleepers-isaiah-evans-henri-veesaar-best-available/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782277952
     },
     {
       "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
@@ -688,13 +702,6 @@
       "timestamp": 1782239416
     },
     {
-      "title": "Scattered Spider members plead guilty to hacking Transport for London",
-      "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782228719
-    },
-    {
       "title": "The tea in your kombucha changes more than just the taste",
       "link": "https://www.sciencedaily.com/releases/2026/06/260621060313.htm",
       "source": "SCIENCEDAILY",
@@ -721,13 +728,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782224032
-    },
-    {
-      "title": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You",
-      "link": "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782223271
     },
     {
       "title": "This four-winged dinosaur may have terrorized Earth's earliest birds",
