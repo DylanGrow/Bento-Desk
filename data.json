@@ -1,19 +1,215 @@
 {
-  "last_updated": 1782397567,
+  "last_updated": 1782407409,
   "items": [
+    {
+      "title": "I got a sneak peek at space shuttle Endeavour's new home in California, and it's breathtaking (photos)",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/i-got-a-sneak-peek-at-space-shuttle-endeavours-new-home-and-its-breathtaking",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782406800
+    },
+    {
+      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+      "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782406500
+    },
+    {
+      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+      "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782406091
+    },
+    {
+      "title": "Microsoft Announces Significant Price Rises for Xbox Series X and S, 2TB Model Discontinued",
+      "link": "https://www.ign.com/articles/microsoft-announces-significant-price-rises-for-xbox-series-x-and-s-2tb-model-discontinued",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782406055
+    },
+    {
+      "title": "Hacked Klue says criminals are deleting stolen customer data, but now other hackers are making threats",
+      "link": "https://techcrunch.com/2026/06/25/hacked-klue-says-criminals-are-deleting-stolen-customer-data-but-now-other-hackers-are-making-threats/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782405615
+    },
+    {
+      "title": "New macOS malware embeds fake errors to confuse AI analysis tools",
+      "link": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1782404599
+    },
+    {
+      "title": "Hosting a solar eclipse viewing party? Get money off solar eclipse multipacks this Prime Day",
+      "link": "https://www.space.com/stargazing/skywatching-kit/hosting-a-solar-eclipse-viewing-party-get-money-off-solar-eclipse-multipacks-this-prime-day",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782404283
+    },
+    {
+      "title": "A SpaceX rocket will slam into the moon this August. Will we be able to see it?",
+      "link": "https://www.space.com/astronomy/moon/a-spacex-rocket-will-slam-into-the-moon-this-august-will-we-be-able-to-see-it",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782403200
+    },
+    {
+      "title": "Parker Conrad knows which employees are worth their AI spend and says Rippling can help you, too",
+      "link": "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782403200
+    },
+    {
+      "title": "Google Finance gets a dedicated app for Android",
+      "link": "https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782403200
+    },
+    {
+      "title": "Deltarune Chapter 6 Will Release in 2027, Chapter 5 Shatters Concurrent Player Records on Steam",
+      "link": "https://www.ign.com/articles/deltarune-chapter-6-will-release-in-2027-chapter-5-shatters-concurrent-player-records-on-steam",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782402858
+    },
+    {
+      "title": "LaMelo Ball trade grades: Timberwolves get 'B+' for high-risk, high-reward move, Hornets take the long view",
+      "link": "https://www.cbssports.com/nba/news/lamelo-ball-trade-grades-timberwolves-hornets/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782402239
+    },
+    {
+      "title": "Drop Dead Singer Olivia Rodrigo Joins Fortnite Today",
+      "link": "https://www.ign.com/articles/drop-dead-singer-olivia-rodrigo-joins-fortnite-today",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782402143
+    },
+    {
+      "title": "PirloTV sports piracy network disrupted as 44 domains seized",
+      "link": "https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1782401816
+    },
+    {
+      "title": "Bluekit phishing kit adopts browser-in-the-middle for login theft",
+      "link": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1782399600
+    },
+    {
+      "title": "'F9' took a car into space, but 5 years on, just how ridiculous was the scene? We asked the experts",
+      "link": "https://www.space.com/entertainment/space-movies-shows/f9-took-a-car-into-space-but-5-years-on-just-how-ridiculous-was-the-scene-we-asked-the-experts",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782399600
+    },
+    {
+      "title": "Invader Zim Publishing Rights Have Been Acquired by BOOM! Studios, Who Promises Classic Stories and New Original Content - Exclusive",
+      "link": "https://www.ign.com/articles/invader-zim-publishing-rights-have-been-acquired-by-boom-studios-who-promises-classic-stories-and-new-original-content-exclusive",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782399600
+    },
+    {
+      "title": "This common vitamin deficiency can mimic normal aging",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260623083116.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782399459
+    },
+    {
+      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+      "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782399338
+    },
+    {
+      "title": "Trump admin bars Polestar from selling its new EVs in the US",
+      "link": "https://techcrunch.com/2026/06/25/trump-admin-bars-polestar-from-selling-its-new-evs-in-the-us/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782399325
+    },
+    {
+      "title": "Apple raises Mac and iPad prices, spares iPhone for now",
+      "link": "https://techcrunch.com/2026/06/25/apple-raises-mac-and-ipad-prices-spares-iphone-for-now/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782399155
+    },
+    {
+      "title": "Feds deny Polestar authorization to sell cars in US from model year 2027",
+      "link": "https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782398423
+    },
+    {
+      "title": "FDA-approved drug may finally help immunotherapy defeat rare liver cancer",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260623014014.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782398325
+    },
+    {
+      "title": "15 of our favorite sci-fi audiobooks to transport you to another planet",
+      "link": "https://www.space.com/entertainment/grab-the-best-scifi-books-on-audible-this-prime-day",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782397800
+    },
+    {
+      "title": "Apple is the Latest Company to Raise Prices Because of AI",
+      "link": "https://www.ign.com/articles/apple-is-the-latest-company-to-raise-prices-because-of-ai",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782397785
+    },
+    {
+      "title": "Sony Confirms 'Significant' Bungie Layoffs Include 'Most of the Destiny Team and Some Marathon Team Members', as Bungie Admits 'Destiny 2 Fell Short of Expectations'",
+      "link": "https://www.ign.com/articles/bungie-announces-layoffs-as-it-admits-destiny-2-fell-short-of-expectations",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782397514
+    },
+    {
+      "title": "GTA 6 Live Updates: Screenshots, Gameplay Details, Reaction and More",
+      "link": "https://www.ign.com/articles/gta-6-live-updates-screenshots-gameplay-details-reaction-and-more",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782396938
+    },
+    {
+      "title": "Apple ratchets up prices, blames the cost of memory",
+      "link": "https://arstechnica.com/apple/2026/06/apple-ratchets-up-prices-blames-the-cost-of-memory/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782396877
+    },
+    {
+      "title": "Peppa Pig Owner Hasbro Faces Backlash After Reportedly Trying to Force Child Actors to Sign Away AI Voice Rights",
+      "link": "https://www.ign.com/articles/peppa-pig-owner-hasbro-faces-backlash-after-reportedly-trying-to-force-child-actors-to-sign-away-ai-voice-rights",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782396474
+    },
     {
       "title": "The Four Elevations of Effective Fraud Prevention",
       "link": "https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1782396071
-    },
-    {
-      "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
-      "link": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782396000
     },
     {
       "title": "Summer solstice seen from space | Space photo of the day for June 25, 2026",
@@ -30,11 +226,11 @@
       "timestamp": 1782396000
     },
     {
-      "title": "LaMelo Ball traded to Minnesota Timberwolves: Hornets ship out All-Star point guard in stunning deal",
-      "link": "https://www.cbssports.com/nba/news/lamelo-ball-trade-grades-timberwolves-hornets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782395893
+      "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
+      "link": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782396000
     },
     {
       "title": "Trump admin proposes axing brake-pedal requirement for AVs in a boost for Tesla",
@@ -49,6 +245,13 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1782395686
+    },
+    {
+      "title": "Scientists discover how a single cell builds a brain with 170 billion cells",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260618041524.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782395191
     },
     {
       "title": "2026-27 NBA Rookie of the Year odds: Why Kings guard Darius Acuff Jr. provides best early betting value",
@@ -191,10 +394,10 @@
       "timestamp": 1782381655
     },
     {
-      "title": "Cellebrite said it cut off Russia, but Russia used its tools anyway",
-      "link": "https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
+      "title": "3 billion years old! This Australian crater is the oldest known asteroid impact site on Earth",
+      "link": "https://www.space.com/astronomy/asteroids/3-billion-years-old-this-australian-crater-is-the-oldest-known-asteroid-impact-site-on-earth",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1782381600
     },
     {
@@ -205,10 +408,10 @@
       "timestamp": 1782381600
     },
     {
-      "title": "3 billion years old! This Australian crater is the oldest known asteroid impact site on Earth",
-      "link": "https://www.space.com/astronomy/asteroids/3-billion-years-old-this-australian-crater-is-the-oldest-known-asteroid-impact-site-on-earth",
-      "source": "SPACE",
-      "category": "space",
+      "title": "Cellebrite said it cut off Russia, but Russia used its tools anyway",
+      "link": "https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
       "timestamp": 1782381600
     },
     {
@@ -233,6 +436,13 @@
       "timestamp": 1782378000
     },
     {
+      "title": "After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260625014808.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782373312
+    },
+    {
       "title": "My nephew still uses this kids' star projector every night — get it for just $15 at Amazon on Prime Day",
       "link": "https://www.space.com/stargazing/skywatching-kit/my-nephew-still-uses-this-kids-star-projector-every-night-get-it-for-just-15-dollars-at-amazon-on-prime-day",
       "source": "SPACE",
@@ -245,6 +455,13 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782366106
+    },
+    {
+      "title": "NASA’s Lucy finds a wobbling peanut-shaped asteroid with signs of ancient water",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260624025455.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782365000
     },
     {
       "title": "2026 NBA Draft grades: Analysis on every pick from AJ Dybantsa, Darryn Peterson, Cameron Boozer through No. 60",
@@ -296,13 +513,6 @@
       "timestamp": 1782344777
     },
     {
-      "title": "Micron CEO Expects RAM Shortage to Last Through 2027, Start to Ease in 2028",
-      "link": "https://www.ign.com/articles/micron-ceo-expects-ram-shortage-to-last-through-2027-start-to-ease-in-2028",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782344434
-    },
-    {
       "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
       "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
       "source": "TECHCRUNCH",
@@ -331,25 +541,11 @@
       "timestamp": 1782341223
     },
     {
-      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
-      "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782340901
-    },
-    {
       "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
       "link": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1782340098
-    },
-    {
-      "title": "GTA 6 May Be Borrowing a Major Mechanic from Red Dead Redemption 2",
-      "link": "https://www.ign.com/articles/gta-6-may-be-borrowing-a-major-mechanic-from-red-dead-redemption-2",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782338728
     },
     {
       "title": "NASA's aging infrastructure can't handle Artemis launches without $1 billion in upgrades, watchdog warns",
@@ -359,13 +555,6 @@
       "timestamp": 1782338400
     },
     {
-      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
-      "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782338201
-    },
-    {
       "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
       "link": "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/",
       "source": "BLEEPINGCOMPUTER",
@@ -373,25 +562,11 @@
       "timestamp": 1782338143
     },
     {
-      "title": "AI researchers continue to leave Google for its rivals",
-      "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782337327
-    },
-    {
       "title": "13 years and $500 million for a stage adapter? Report justifies NASA cancellations.",
       "link": "https://arstechnica.com/space/2026/06/analysis-finds-the-exploration-programs-nasa-recently-canceled-were-running-way-late/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1782337263
-    },
-    {
-      "title": "The memory chip crunch is paying off for this US company",
-      "link": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782336655
     },
     {
       "title": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access",
@@ -408,32 +583,11 @@
       "timestamp": 1782336519
     },
     {
-      "title": "Bungie Communications Manager Says Destiny 2 fans Shouldn't Blame Themselves for Game Coming to an End",
-      "link": "https://www.ign.com/articles/bungie-communications-manager-says-destiny-2-fans-shouldnt-blame-themselves-for-game-coming-to-an-end",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782336087
-    },
-    {
-      "title": "New website names and shames companies that still don’t offer passkeys to users",
-      "link": "https://techcrunch.com/2026/06/24/new-website-names-and-shames-companies-that-still-dont-offer-passkeys-to-users/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782335044
-    },
-    {
       "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
       "link": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1782335014
-    },
-    {
-      "title": "This is the largest and most detailed image of our Milky Way — with over 60 million stars and 50 exoplanet systems",
-      "link": "https://www.space.com/astronomy/galaxies/this-is-the-largest-and-most-detailed-image-of-our-milky-way-with-over-60-million-stars-and-50-exoplanet-systems",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782334800
     },
     {
       "title": "Malicious Edge extension abuses Native Messaging as bridge to malware",
@@ -457,13 +611,6 @@
       "timestamp": 1782332578
     },
     {
-      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
-      "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782331785
-    },
-    {
       "title": "Experimental wine bottle tracks oxygen moving through the cork",
       "link": "https://arstechnica.com/science/2026/06/experimental-wine-bottle-tracks-oxygen-moving-through-the-cork/",
       "source": "ARSTECHNICA",
@@ -478,60 +625,11 @@
       "timestamp": 1782331227
     },
     {
-      "title": "'50% superhero and 50% noir, but 100% totally new': 'Spider-Noir' composers  on injecting retro style into the superhero multiverse (interview)",
-      "link": "https://www.space.com/entertainment/space-movies-shows/50-percent-superhero-and-50-percent-noir-but-100-percent-totally-new-spider-noir-composers-on-injecting-retro-style-into-the-superhero-multiverse-interview",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782331200
-    },
-    {
       "title": "FCC plans ID mandate that could block anonymous use of prepaid burner phones",
       "link": "https://arstechnica.com/tech-policy/2026/06/fcc-plans-id-mandate-that-could-block-anonymous-use-of-prepaid-burner-phones/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1782330337
-    },
-    {
-      "title": "Here’s why Slate changed the battery in its cheap EV truck",
-      "link": "https://techcrunch.com/2026/06/24/heres-why-slate-changed-the-battery-in-its-cheap-ev-truck/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782329276
-    },
-    {
-      "title": "Some Retailers Are Refusing to Sell GTA 6 Due to the Lack of a Disc",
-      "link": "https://www.ign.com/articles/some-retailers-are-refusing-to-sell-gta-6-due-to-the-lack-of-a-disc",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782328163
-    },
-    {
-      "title": "GTA 6 Fans Think They Spotted a Lore Mistake, but It's Likely on Purpose",
-      "link": "https://www.ign.com/articles/gta-6-fans-think-they-spotted-a-lore-mistake-but-its-likely-on-purpose",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782325995
-    },
-    {
-      "title": "Has $80 GTA 6 Opened the Door to More Expensive Games? Analysts Respond",
-      "link": "https://www.ign.com/articles/has-80-gta-6-opened-the-door-to-more-expensive-games-analysts-respond",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782324785
-    },
-    {
-      "title": "Did NASA just find evidence of ancient life on Mars? Perseverance rover spots complex carbon in Red Planet rocks",
-      "link": "https://www.space.com/astronomy/mars/did-nasa-just-find-evidence-of-ancient-life-on-mars-perseverance-rover-spots-complex-carbon-in-red-planet-rocks",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782324300
-    },
-    {
-      "title": "Actors Like Callum Turner and Jacob Elordi Reportedly 'Fit the Prototype' for Amazon's New James Bond",
-      "link": "https://www.ign.com/articles/actors-like-callum-turner-and-jacob-elordi-reportedly-fit-the-prototype-for-amazons-new-james-bond",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782322873
     },
     {
       "title": "Formula E reveals first calendar for GEN4 with lots of real race tracks",
@@ -541,32 +639,11 @@
       "timestamp": 1782322545
     },
     {
-      "title": "Facebook rolls out an AI companion app for creators",
-      "link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782321384
-    },
-    {
       "title": "What Austin Reaves' record four-year, $185 million max contract means for the Lakers, LeBron James, more",
       "link": "https://www.cbssports.com/nba/news/austin-reaves-lakers-contract-free-agency/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782321344
-    },
-    {
-      "title": "Google starts lowering Play Store fees, making good on Epic Games settlement",
-      "link": "https://arstechnica.com/google/2026/06/google-starts-lowering-play-store-fees-making-good-on-epic-games-settlement/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782320417
-    },
-    {
-      "title": "SpaceX launches 24 Starlink satellites to orbit from California (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-17-45-launch-ocisly",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782320400
     },
     {
       "title": "2026 NBA Draft fallout: Duke's Isaiah Evans, UNC's Henri Veesaar leave millions in NIL money on the table",
@@ -576,32 +653,11 @@
       "timestamp": 1782320275
     },
     {
-      "title": "Launch your sci-fi binge with these top streaming deals I found during Prime Day",
-      "link": "https://www.space.com/entertainment/launch-your-sci-fi-binge-with-these-top-streaming-deals-i-found-during-prime-day",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782320210
-    },
-    {
-      "title": "Elon Musk denies Tesla’s Autopilot caused crash that killed grandmother",
-      "link": "https://arstechnica.com/tech-policy/2026/06/elon-musk-denies-teslas-autopilot-caused-crash-that-killed-grandmother/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782319232
-    },
-    {
       "title": "NBA rumors: The latest on Jaylen Brown's Celtics future, the Knicks' offseason plans and Anthony Edwards",
       "link": "https://www.cbssports.com/nba/news/nba-rumors-jaylen-brown-trade-celtics-knicks-payroll-anthony-edwards-timberwolves/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782317968
-    },
-    {
-      "title": "Fortnite Begins Reselling Old Battle Pass Skins in Next Update",
-      "link": "https://www.ign.com/articles/fortnite-begins-reselling-old-battle-pass-skins-in-next-update",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782314664
     },
     {
       "title": "The universe may be hiding conscious minds stranger than we can imagine",
@@ -681,27 +737,6 @@
       "timestamp": 1782248792
     },
     {
-      "title": "Windows 11 KB5095093 update rolls out new Point-in-Time restore feature",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782246141
-    },
-    {
-      "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782244752
-    },
-    {
-      "title": "New macOS ClickFix attack silently mounts DMGs to push infostealer",
-      "link": "https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782239416
-    },
-    {
       "title": "The tea in your kombucha changes more than just the taste",
       "link": "https://www.sciencedaily.com/releases/2026/06/260621060313.htm",
       "source": "SCIENCEDAILY",
@@ -742,41 +777,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782217861
-    },
-    {
-      "title": "A tiny diamond defect could reveal a mysterious new kind of magnetism",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260621060304.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782217644
-    },
-    {
-      "title": "New brain study reveals speech learning works differently than we thought",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260619020514.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782216373
-    },
-    {
-      "title": "One of the world’s most popular weedkillers may be fueling deadly superbugs",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260620100434.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782214311
-    },
-    {
-      "title": "Scientists open a million-year-old time capsule hidden beneath New Zealand",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260623011129.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782199841
-    },
-    {
-      "title": "Meteorite reveals a lost moon-sized world from the dawn of the solar system",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260619101347.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782191362
     }
   ]
 }
