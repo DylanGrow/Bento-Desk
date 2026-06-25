@@ -1,6 +1,90 @@
 {
-  "last_updated": 1782407409,
+  "last_updated": 1782417355,
   "items": [
+    {
+      "title": "Order-tracking app Shop abused to push callback phishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1782416748
+    },
+    {
+      "title": "Xbox follows Apple with price increases",
+      "link": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782416395
+    },
+    {
+      "title": "Notion Mail shuts down amid agent takeover",
+      "link": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782414886
+    },
+    {
+      "title": "Modern sci-fi movie posters usually suck, but Supergirl shows that it doesn't have to be that way",
+      "link": "https://www.space.com/entertainment/space-movies-shows/modern-sci-fi-movie-posters-usually-suck-but-supergirl-shows-that-it-doesnt-have-to-be-that-way",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782414000
+    },
+    {
+      "title": "LaMelo Ball trade winners and losers: Timberwolves get Anthony Edwards the best backcourt mate of his career",
+      "link": "https://www.cbssports.com/nba/news/lamelo-ball-trade-winners-losers-anthony-edwards-kon-knueppel-timberwolves-hornets/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782413045
+    },
+    {
+      "title": "Microsoft quietly extends free Windows 10 ESU support to October 2027",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1782412160
+    },
+    {
+      "title": "Valve Now Claims Steam Machine Is Capable of 'Up To' 4K",
+      "link": "https://www.ign.com/articles/valve-now-claims-steam-machine-is-capable-of-up-to-4k",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782411159
+    },
+    {
+      "title": "Hopes for GTA 6 Trailer 3 Evaporate as Preorders Go Live Without a New Video From Rockstar",
+      "link": "https://www.ign.com/articles/hopes-for-gta-6-trailer-3-evaporate-as-preorders-go-live-without-a-new-video-from-rockstar",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782411122
+    },
+    {
+      "title": "This Prime Day, save nearly $700 on 'a camera of epic proportions'",
+      "link": "https://www.space.com/stargazing/skywatching-kit/this-prime-day-save-nearly-usd700-on-a-camera-of-epic-proportions",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782411103
+    },
+    {
+      "title": "James Webb Space Telescope catches 6 galaxies merging into one of the largest galaxies in the universe",
+      "link": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-catches-6-galaxies-merging-into-one-of-the-largest-galaxies-in-the-universe",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782410400
+    },
+    {
+      "title": "a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most",
+      "link": "https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782409925
+    },
+    {
+      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782409107
+    },
     {
       "title": "I got a sneak peek at space shuttle Endeavour's new home in California, and it's breathtaking (photos)",
       "link": "https://www.space.com/space-exploration/human-spaceflight/i-got-a-sneak-peek-at-space-shuttle-endeavours-new-home-and-its-breathtaking",
@@ -51,14 +135,7 @@
       "timestamp": 1782404283
     },
     {
-      "title": "A SpaceX rocket will slam into the moon this August. Will we be able to see it?",
-      "link": "https://www.space.com/astronomy/moon/a-spacex-rocket-will-slam-into-the-moon-this-august-will-we-be-able-to-see-it",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782403200
-    },
-    {
-      "title": "Parker Conrad knows which employees are worth their AI spend and says Rippling can help you, too",
+      "title": "Rippling now wants to be your entire data stack",
       "link": "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -69,6 +146,13 @@
       "link": "https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/",
       "source": "TECHCRUNCH",
       "category": "tech",
+      "timestamp": 1782403200
+    },
+    {
+      "title": "A SpaceX rocket will slam into the moon this August. Will we be able to see it?",
+      "link": "https://www.space.com/astronomy/moon/a-spacex-rocket-will-slam-into-the-moon-this-august-will-we-be-able-to-see-it",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1782403200
     },
     {
@@ -212,6 +296,13 @@
       "timestamp": 1782396071
     },
     {
+      "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
+      "link": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782396000
+    },
+    {
       "title": "Summer solstice seen from space | Space photo of the day for June 25, 2026",
       "link": "https://www.space.com/astronomy/earth/summer-solstice-seen-from-space-space-photo-of-the-day-for-june-25-2026",
       "source": "SPACE",
@@ -223,13 +314,6 @@
       "link": "https://www.space.com/technology/drones/new-to-drone-flying-our-expert-thinks-this-five-star-drone-gives-you-everything-you-could-possibly-need-and-its-usd133-off",
       "source": "SPACE",
       "category": "space",
-      "timestamp": 1782396000
-    },
-    {
-      "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
-      "link": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
       "timestamp": 1782396000
     },
     {
@@ -394,13 +478,6 @@
       "timestamp": 1782381655
     },
     {
-      "title": "3 billion years old! This Australian crater is the oldest known asteroid impact site on Earth",
-      "link": "https://www.space.com/astronomy/asteroids/3-billion-years-old-this-australian-crater-is-the-oldest-known-asteroid-impact-site-on-earth",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782381600
-    },
-    {
       "title": "We praised this telescope's 'legendary performance,' and the whole range is even cheaper for Prime Day",
       "link": "https://www.space.com/stargazing/skywatching-kit/we-praised-this-telescopes-legendary-performance-and-the-whole-range-is-even-cheaper-for-prime-day",
       "source": "SPACE",
@@ -408,10 +485,10 @@
       "timestamp": 1782381600
     },
     {
-      "title": "Cellebrite said it cut off Russia, but Russia used its tools anyway",
-      "link": "https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
+      "title": "3 billion years old! This Australian crater is the oldest known asteroid impact site on Earth",
+      "link": "https://www.space.com/astronomy/asteroids/3-billion-years-old-this-australian-crater-is-the-oldest-known-asteroid-impact-site-on-earth",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1782381600
     },
     {
@@ -422,32 +499,11 @@
       "timestamp": 1782380250
     },
     {
-      "title": "GTA 6 Looks Amazing, but the 63 New Screenshots Probably Don't Represent Gameplay, Tech Experts Believe",
-      "link": "https://www.ign.com/articles/gta-6-looks-amazing-but-the-63-new-screenshots-probably-dont-represent-gameplay-tech-experts-believe",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782379906
-    },
-    {
-      "title": "I regret missing Project Hail Mary on the big screen but I'm not skipping this cheapest-ever UK Prime Day Lego deal",
-      "link": "https://www.space.com/entertainment/space-toys-lego/i-regret-missing-project-hail-mary-on-the-big-screen-but-im-not-skipping-this-cheapest-ever-uk-prime-day-lego-deal",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782378000
-    },
-    {
       "title": "After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site",
       "link": "https://www.sciencedaily.com/releases/2026/06/260625014808.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782373312
-    },
-    {
-      "title": "My nephew still uses this kids' star projector every night — get it for just $15 at Amazon on Prime Day",
-      "link": "https://www.space.com/stargazing/skywatching-kit/my-nephew-still-uses-this-kids-star-projector-every-night-get-it-for-just-15-dollars-at-amazon-on-prime-day",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782371855
     },
     {
       "title": "2026 NBA Draft snubs: Milos Uzan, Kylan Boswell and Nick Boyd among notable college players not selected",
@@ -492,39 +548,11 @@
       "timestamp": 1782355383
     },
     {
-      "title": "New DLC Character Coming to BlazBlue: Central Fiction a Decade After It Was Released",
-      "link": "https://www.ign.com/articles/new-dlc-character-coming-to-blazblue-central-fiction-a-decade-after-it-was-released",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782352455
-    },
-    {
-      "title": "Europe is pushing back on Washington’s chip war",
-      "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782346116
-    },
-    {
       "title": "Google releases new privacy controls for activity history, personalization",
       "link": "https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1782344777
-    },
-    {
-      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
-      "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782343612
-    },
-    {
-      "title": "Elon suffers another day short of trillionaire status",
-      "link": "https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782342579
     },
     {
       "title": "2026 NBA Mock Draft: After hiring Michigan's Dusty May, Mavericks take former Wolverines star Aday Mara",
@@ -546,13 +574,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1782340098
-    },
-    {
-      "title": "NASA's aging infrastructure can't handle Artemis launches without $1 billion in upgrades, watchdog warns",
-      "link": "https://www.space.com/space-exploration/artemis/nasas-aging-infrastructure-cant-handle-artemis-launches-without-usd1-billion-in-upgrades-watchdog-warns",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782338400
     },
     {
       "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
@@ -653,13 +674,6 @@
       "timestamp": 1782320275
     },
     {
-      "title": "NBA rumors: The latest on Jaylen Brown's Celtics future, the Knicks' offseason plans and Anthony Edwards",
-      "link": "https://www.cbssports.com/nba/news/nba-rumors-jaylen-brown-trade-celtics-knicks-payroll-anthony-edwards-timberwolves/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782317968
-    },
-    {
       "title": "The universe may be hiding conscious minds stranger than we can imagine",
       "link": "https://www.sciencedaily.com/releases/2026/06/260623083146.htm",
       "source": "SCIENCEDAILY",
@@ -721,20 +735,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782292371
-    },
-    {
-      "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782251312
-    },
-    {
-      "title": "Tata Electronics confirms cyberattack as hackers leak data",
-      "link": "https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782248792
     },
     {
       "title": "The tea in your kombucha changes more than just the taste",
