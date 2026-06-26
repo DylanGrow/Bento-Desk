@@ -1,6 +1,76 @@
 {
-  "last_updated": 1782470907,
+  "last_updated": 1782479313,
   "items": [
+    {
+      "title": "IGN Poll Reveals 70% Plan to Buy the GTA 6 Ultimate Edition Over the Standard Edition, Which Begs the Question: Is GTA 6 Effectively the First $100 Video Game?",
+      "link": "https://www.ign.com/articles/ign-poll-reveals-70-plan-to-buy-the-gta-6-ultimate-edition-over-the-standard-edition-which-begs-the-question-is-gta-6-effectively-the-first-100-video-game",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782479031
+    },
+    {
+      "title": "Robotaxis drives miles just to get cleaned and charged; this new startup wants to fix that",
+      "link": "https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782478800
+    },
+    {
+      "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+      "link": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782478800
+    },
+    {
+      "title": "NASA's canceled Artemis hardware contracts reached $5.9 billion, audit finds",
+      "link": "https://www.space.com/space-exploration/artemis/nasa-spent-usd5-9-billion-on-artemis-program-hardware-it-may-never-use",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782478800
+    },
+    {
+      "title": "'I Torture Myself Over Every Last Detail' — Stardew Valley Creator ConcernedApe Says He's 'Still Here, Still Grinding' on Haunted Chocolatier",
+      "link": "https://www.ign.com/articles/i-torture-myself-over-every-last-detail-stardew-valley-creator-concernedape-says-hes-still-here-still-grinding-on-haunted-chocolatier",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782477058
+    },
+    {
+      "title": "NASA is paying $30 million for a 1st-of-its-kind rescue mission to the aging Swift telescope before it falls from space. Is it worth it?",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasa-is-paying-usd30-million-for-a-1st-of-its-kind-rescue-mission-to-the-aging-swift-telescope-before-it-falls-from-space-is-it-worth-it",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782475200
+    },
+    {
+      "title": "'A Historic Moment in the History of Manga' — Struggling Japanese Artist's Debut Manga Gets Official English Release After 'Can Barely Afford Cheap Coffee' Post Goes Viral",
+      "link": "https://www.ign.com/articles/a-historic-moment-in-the-history-of-manga-struggling-japanese-artists-debut-manga-gets-official-english-release-after-can-barely-afford-cheap-coffee-post-goes-viral",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782474114
+    },
+    {
+      "title": "'Regrettably, This Is Going to Be Our Version of the Dark Age of Technology' — Games Workshop Is Going After Tabletop Simulator Steam Mods That Recreate Warhammer 40,000 11th Edition",
+      "link": "https://www.ign.com/articles/regrettably-this-is-going-to-be-our-version-of-the-dark-age-of-technology-games-workshop-is-going-after-tabletop-simulator-steam-mods-that-recreate-warhammer-40000-11th-edition",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782472571
+    },
+    {
+      "title": "Rocket Report: China may soon attempt booster landing; Rocket Lab does rapid response",
+      "link": "https://arstechnica.com/space/2026/06/rocket-report-china-may-soon-attempt-booster-landing-rocket-lab-does-rapid-response/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782471659
+    },
+    {
+      "title": "PlayStation Boss Says New Console Experiences Will Involve 'Leveraging Technologies That Can Be Used in Various Forms and Locations' — and I'm Convinced He's Teasing a PS6 Handheld",
+      "link": "https://www.ign.com/articles/playstation-boss-says-new-console-experiences-will-involve-leveraging-technologies-that-can-be-used-in-various-forms-and-locations-and-im-convinced-hes-teasing-a-ps6-handheld",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782468993
+    },
     {
       "title": "June's Strawberry Moon is unlike any other full moon. Here's why",
       "link": "https://www.space.com/stargazing/junes-strawberry-moon-is-unlike-any-other-full-moon-heres-why",
@@ -359,17 +429,17 @@
       "timestamp": 1782399600
     },
     {
-      "title": "'F9' took a car into space, but 5 years on, just how ridiculous was the scene? We asked the experts",
-      "link": "https://www.space.com/entertainment/space-movies-shows/f9-took-a-car-into-space-but-5-years-on-just-how-ridiculous-was-the-scene-we-asked-the-experts",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782399600
-    },
-    {
       "title": "Invader Zim Publishing Rights Have Been Acquired by BOOM! Studios, Who Promises Classic Stories and New Original Content - Exclusive",
       "link": "https://www.ign.com/articles/invader-zim-publishing-rights-have-been-acquired-by-boom-studios-who-promises-classic-stories-and-new-original-content-exclusive",
       "source": "IGN",
       "category": "gaming",
+      "timestamp": 1782399600
+    },
+    {
+      "title": "'F9' took a car into space, but 5 years on, just how ridiculous was the scene? We asked the experts",
+      "link": "https://www.space.com/entertainment/space-movies-shows/f9-took-a-car-into-space-but-5-years-on-just-how-ridiculous-was-the-scene-we-asked-the-experts",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1782399600
     },
     {
@@ -385,20 +455,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1782399338
-    },
-    {
-      "title": "Trump administration bars Polestar from selling its new EVs in the US",
-      "link": "https://techcrunch.com/2026/06/25/trump-admin-bars-polestar-from-selling-its-new-evs-in-the-us/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782399325
-    },
-    {
-      "title": "Apple raises Mac and iPad prices, spares iPhone for now",
-      "link": "https://techcrunch.com/2026/06/25/apple-raises-mac-and-ipad-prices-spares-iphone-for-now/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782399155
     },
     {
       "title": "Feds deny Polestar authorization to sell cars in US from model year 2027",
@@ -422,39 +478,11 @@
       "timestamp": 1782397800
     },
     {
-      "title": "Apple is the Latest Company to Raise Prices Because of AI",
-      "link": "https://www.ign.com/articles/apple-is-the-latest-company-to-raise-prices-because-of-ai",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782397785
-    },
-    {
-      "title": "Sony Confirms 'Significant' Bungie Layoffs Include 'Most of the Destiny Team and Some Marathon Team Members', as Bungie Admits 'Destiny 2 Fell Short of Expectations'",
-      "link": "https://www.ign.com/articles/bungie-announces-layoffs-as-it-admits-destiny-2-fell-short-of-expectations",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782397514
-    },
-    {
-      "title": "GTA 6 Live Updates: Screenshots, Gameplay Details, Reaction and More",
-      "link": "https://www.ign.com/articles/gta-6-live-updates-screenshots-gameplay-details-reaction-and-more",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782396938
-    },
-    {
       "title": "Apple ratchets up prices, blames the cost of memory",
       "link": "https://arstechnica.com/apple/2026/06/apple-ratchets-up-prices-blames-the-cost-of-memory/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1782396877
-    },
-    {
-      "title": "Peppa Pig Owner Hasbro Faces Backlash After Reportedly Trying to Force Child Actors to Sign Away AI Voice Rights",
-      "link": "https://www.ign.com/articles/peppa-pig-owner-hasbro-faces-backlash-after-reportedly-trying-to-force-child-actors-to-sign-away-ai-voice-rights",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782396474
     },
     {
       "title": "The Four Elevations of Effective Fraud Prevention",
@@ -499,13 +527,6 @@
       "timestamp": 1782395175
     },
     {
-      "title": "Absolute Batman, Joker: Laugh Riot and Krypto Animated Series Announced",
-      "link": "https://www.ign.com/articles/absolute-batman-joker-anime-krypto-animated-series-announced",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782394943
-    },
-    {
       "title": "New effort will get genome sequences for entire Endangered Species list",
       "link": "https://arstechnica.com/science/2026/06/new-effort-will-get-genome-sequences-for-entire-endangered-species-list/",
       "source": "ARSTECHNICA",
@@ -532,20 +553,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782392929
-    },
-    {
-      "title": "Another 'Star' is born: SpaceX names AI megaconstellation 'Starmind'",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/another-star-is-born-spacex-names-ai-megaconstellation-starmind",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782392400
-    },
-    {
-      "title": "Watch \"Avatar: Fire and Ash\" with Disney+ and Hulu — get up to 50% off this streaming bundle",
-      "link": "https://www.space.com/entertainment/watch-avatar-fire-and-ash-with-disney-and-hulu-get-up-to-50-percent-off-this-streaming-bundle",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782392318
     },
     {
       "title": "Webinar: Why account takeovers remain one of the hardest threats to stop",
@@ -672,13 +679,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1782336550
-    },
-    {
-      "title": "US ends hantavirus outbreak response with no answers on draconian quarantines",
-      "link": "https://arstechnica.com/health/2026/06/us-ends-hantavirus-outbreak-response-with-no-answers-on-draconian-quarantines/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782336519
     },
     {
       "title": "Malicious Edge extension abuses Native Messaging as bridge to malware",
