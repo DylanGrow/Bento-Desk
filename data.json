@@ -1,6 +1,146 @@
 {
-  "last_updated": 1782490408,
+  "last_updated": 1782499780,
   "items": [
+    {
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+      "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782498734
+    },
+    {
+      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the U.S.",
+      "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782497976
+    },
+    {
+      "title": "Polymarket customers lose $3 million in supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1782497052
+    },
+    {
+      "title": "China plans to double the size of its Tiangong space station while the ISS nears its end",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/china-plans-to-double-the-size-of-its-tiangong-space-station-while-the-iss-nears-its-end",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782496800
+    },
+    {
+      "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
+      "link": "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1782496147
+    },
+    {
+      "title": "Antibiotic \"megacluster\" discovery provides new strategy to fight superbugs",
+      "link": "https://arstechnica.com/health/2026/06/antibiotic-megacluster-discovery-provides-new-strategy-to-fight-superbugs/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782495967
+    },
+    {
+      "title": "Only a few hours left! This expert-approved, beginner-friendly drone is $60 off for Prime Day",
+      "link": "https://www.space.com/technology/drones/only-a-few-hours-left-this-expert-approved-beginner-friendly-drone-is-usd60-off-for-prime-day",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782495900
+    },
+    {
+      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782495802
+    },
+    {
+      "title": "Russian hackers were behind $2.5 billion hack of Jaguar Land Rover: Report",
+      "link": "https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782494969
+    },
+    {
+      "title": "PS5 Exclusive Ghost of Yotei Triggers Tourism Push in Hokkaido, Japan, With Plans for Curated Tours of Locations Featured in the Game",
+      "link": "https://www.ign.com/articles/ps5-exclusive-ghost-of-yotei-triggers-tourism-push-in-hokkaido-japan-with-plans-for-curated-tours-of-locations-featured-in-the-game",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782494611
+    },
+    {
+      "title": "Moore's law tells us that the price of technology should go down over time, so why is stargazing gear getting more expensive?",
+      "link": "https://www.space.com/stargazing/skywatching-kit/moores-law-tells-us-that-the-price-of-technology-should-go-down-over-time-so-why-is-stargazing-gear-getting-more-expensive",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782493521
+    },
+    {
+      "title": "NBA rumors: Celtics want haul of picks in Jaylen Brown trade; Jalen Duren dissatisfied with Pistons' offer",
+      "link": "https://www.cbssports.com/nba/news/nba-trade-rumors-celtics-jaylen-brown-jalen-duren-pistons/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782493399
+    },
+    {
+      "title": "Cyberpunk: Edgerunners Was a Tearjerker, But One Writer Says It Almost Had 'Even Worse Endings'",
+      "link": "https://www.ign.com/articles/cyberpunk-edgerunners-was-a-tearjerker-but-one-writer-says-it-almost-had-even-worse-endings",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782492795
+    },
+    {
+      "title": "Why the Pistons are one of the NBA offseason's most interesting teams",
+      "link": "https://www.cbssports.com/nba/news/pistons-nba-offseason-most-interesting-teams/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782492680
+    },
+    {
+      "title": "Tesla settles FSD crash lawsuit as federal investigations continue",
+      "link": "https://techcrunch.com/2026/06/26/tesla-settles-fsd-crash-lawsuit-as-federal-investigations-continue/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782491575
+    },
+    {
+      "title": "TikTok’s road to becoming a super app",
+      "link": "https://techcrunch.com/2026/06/26/tiktoks-road-to-becoming-a-super-app/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782491388
+    },
+    {
+      "title": "Ars Live: What's the latest in the aftermath of the New Glenn catastrophe?",
+      "link": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782491099
+    },
+    {
+      "title": "It’s not about Anthropic vs. OpenAI anymore",
+      "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782491087
+    },
+    {
+      "title": "Beam me up to 4K: Your ultimate sci-fi collection for less than $25 on Prime Day",
+      "link": "https://www.space.com/stargazing/skywatching-kit/beam-me-up-to-4k-your-ultimate-sci-fi-collection-for-less-than-25-dollars",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782491038
+    },
+    {
+      "title": "Biggest offseason question for every East team: Will Knicks duck second apron? What's next for Celtics, Heat?",
+      "link": "https://www.cbssports.com/nba/news/nba-biggest-offseason-question-every-eastern-conference-team-knicks-celtics-heat/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782490935
+    },
     {
       "title": "Watch out for the giant scorpion hiding in the summer sky",
       "link": "https://www.space.com/stargazing/constellations/watch-out-for-the-giant-scorpion-hiding-in-the-summer-sky",
@@ -191,7 +331,7 @@
       "timestamp": 1782465593
     },
     {
-      "title": "Watch live: Rocket Lab launching 'Ten Owl of Ten' mission for Synspective today",
+      "title": "Rocket Lab launches 'Ten Owl of Ten' mission, sending up Japanese Earth-observing radar satellite (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-ten-owl-of-ten-mission-for-synspective-launch",
       "source": "SPACE",
       "category": "space",
@@ -224,13 +364,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1782435167
-    },
-    {
-      "title": "Robert Eggers’ Werwulf: First Look and Story Details Revealed for Historical Horror Movie",
-      "link": "https://www.ign.com/articles/robert-eggers-werwulf-first-look-story-details",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782434230
     },
     {
       "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
@@ -366,13 +499,6 @@
       "timestamp": 1782412160
     },
     {
-      "title": "Valve Now Claims Steam Machine Is Capable of 'Up To' 4K",
-      "link": "https://www.ign.com/articles/valve-now-claims-steam-machine-is-capable-of-up-to-4k",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782411159
-    },
-    {
       "title": "This Prime Day, save nearly $700 on 'a camera of epic proportions'",
       "link": "https://www.space.com/stargazing/skywatching-kit/this-prime-day-save-nearly-usd700-on-a-camera-of-epic-proportions",
       "source": "SPACE",
@@ -401,81 +527,11 @@
       "timestamp": 1782410400
     },
     {
-      "title": "a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most",
-      "link": "https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782409925
-    },
-    {
-      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-      "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782409107
-    },
-    {
-      "title": "I got a sneak peek at space shuttle Endeavour's new home in California, and it's breathtaking (photos)",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/i-got-a-sneak-peek-at-space-shuttle-endeavours-new-home-and-its-breathtaking",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782406800
-    },
-    {
-      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
-      "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782406500
-    },
-    {
-      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-      "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782406091
-    },
-    {
-      "title": "Hacked Klue says criminals are deleting stolen customer data, but now other hackers are making threats",
-      "link": "https://techcrunch.com/2026/06/25/hacked-klue-says-criminals-are-deleting-stolen-customer-data-but-now-other-hackers-are-making-threats/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782405615
-    },
-    {
       "title": "New macOS malware embeds fake errors to confuse AI analysis tools",
       "link": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1782404599
-    },
-    {
-      "title": "Hosting a solar eclipse viewing party? Get money off solar eclipse multipacks this Prime Day",
-      "link": "https://www.space.com/stargazing/skywatching-kit/hosting-a-solar-eclipse-viewing-party-get-money-off-solar-eclipse-multipacks-this-prime-day",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782404283
-    },
-    {
-      "title": "Rippling now wants to be your entire data stack",
-      "link": "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782403200
-    },
-    {
-      "title": "Google Finance gets a dedicated app for Android",
-      "link": "https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782403200
-    },
-    {
-      "title": "A SpaceX rocket will slam into the moon this August. Will we be able to see it?",
-      "link": "https://www.space.com/astronomy/moon/a-spacex-rocket-will-slam-into-the-moon-this-august-will-we-be-able-to-see-it",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782403200
     },
     {
       "title": "LaMelo Ball trade grades: Timberwolves get 'B+' for high-risk, high-reward move, Hornets take the long view",
@@ -496,13 +552,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
-      "timestamp": 1782399600
-    },
-    {
-      "title": "'F9' took a car into space, but 5 years on, just how ridiculous was the scene? We asked the experts",
-      "link": "https://www.space.com/entertainment/space-movies-shows/f9-took-a-car-into-space-but-5-years-on-just-how-ridiculous-was-the-scene-we-asked-the-experts",
-      "source": "SPACE",
-      "category": "space",
       "timestamp": 1782399600
     },
     {
@@ -569,13 +618,6 @@
       "timestamp": 1782394834
     },
     {
-      "title": "Every Homo naledi we know of is female, and the implications are fascinating",
-      "link": "https://arstechnica.com/science/2026/06/every-homo-naledi-we-know-of-is-female-and-the-implications-are-fascinating/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782394134
-    },
-    {
       "title": "NBA Rookie of the Year predictions: Early expert picks after 2026 Draft with Cameron Boozer favored",
       "link": "https://www.cbssports.com/nba/news/nba-rookie-of-the-year-predictions-early-picks-draft/",
       "source": "CBSSPORTS",
@@ -611,13 +653,6 @@
       "timestamp": 1782389169
     },
     {
-      "title": "IBM claims world’s first sub-1 nanometer chip technology",
-      "link": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782381655
-    },
-    {
       "title": "After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site",
       "link": "https://www.sciencedaily.com/releases/2026/06/260625014808.htm",
       "source": "SCIENCEDAILY",
@@ -646,27 +681,6 @@
       "timestamp": 1782362763
     },
     {
-      "title": "LaMelo Ball trade rumors: Hornets fielding 'aggressive offers' as deal could materialize quickly",
-      "link": "https://www.cbssports.com/nba/news/lamelo-ball-trade-rumors-hornets-aggressive-offers/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782361318
-    },
-    {
-      "title": "2026 NBA Draft team grades: Report cards for all 30 teams after Round 2",
-      "link": "https://www.cbssports.com/nba/news/nba-draft-2026-team-grades/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782356300
-    },
-    {
-      "title": "Isaiah Stewart trade grades: Pistons get important cap space, Grizzlies get valuable backup big",
-      "link": "https://www.cbssports.com/nba/news/isaiah-stewart-trade-grades-pistons-grizzlies/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782355383
-    },
-    {
       "title": "Google releases new privacy controls for activity history, personalization",
       "link": "https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/",
       "source": "BLEEPINGCOMPUTER",
@@ -688,25 +702,11 @@
       "timestamp": 1782336550
     },
     {
-      "title": "Malicious Edge extension abuses Native Messaging as bridge to malware",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782334702
-    },
-    {
       "title": "The universe may be hiding conscious minds stranger than we can imagine",
       "link": "https://www.sciencedaily.com/releases/2026/06/260623083146.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782312597
-    },
-    {
-      "title": "CISA warns of max severity Ubiquiti flaws exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782311715
     },
     {
       "title": "Scientists discover ancient brain cells that help block distractions",
