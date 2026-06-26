@@ -1,15 +1,113 @@
 {
-  "last_updated": 1782479313,
+  "last_updated": 1782490408,
   "items": [
     {
-      "title": "IGN Poll Reveals 70% Plan to Buy the GTA 6 Ultimate Edition Over the Standard Edition, Which Begs the Question: Is GTA 6 Effectively the First $100 Video Game?",
+      "title": "Watch out for the giant scorpion hiding in the summer sky",
+      "link": "https://www.space.com/stargazing/constellations/watch-out-for-the-giant-scorpion-hiding-in-the-summer-sky",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782489600
+    },
+    {
+      "title": "PlayStation Console Sales Fell to Their Lowest May Total in 26 Years Following PS5 Price Rise",
+      "link": "https://www.ign.com/articles/playstation-console-sales-fell-to-their-lowest-may-total-in-26-years-following-ps5-price-rise",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782488817
+    },
+    {
+      "title": "Xprize founder says ‘humans behave better when they’re being watched’",
+      "link": "https://techcrunch.com/2026/06/26/xprize-founder-says-humans-behave-better-when-theyre-being-watched/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782488765
+    },
+    {
+      "title": "Why the Hornets were right to move on from LaMelo Ball as the Wolves roll the dice",
+      "link": "https://www.cbssports.com/nba/news/why-hornets-were-right-move-on-lamelo-ball-wolves-trade/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782488201
+    },
+    {
+      "title": "Official Tekken Cartoon Teaser Re-Imagines Classic Fighting Game Characters With Toy-Like Visuals",
+      "link": "https://www.ign.com/articles/official-tekken-cartoon-teaser-re-imagines-classic-fighting-game-characters-with-toy-like-visuals",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782487514
+    },
+    {
+      "title": "VW may close four factories to adapt to the future, report says",
+      "link": "https://arstechnica.com/cars/2026/06/vw-may-close-four-factories-to-adapt-to-the-future-report-says/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782486603
+    },
+    {
+      "title": "Retailers Are Issuing Console Shortage Warnings Ahead of GTA 6, and Now I'm Worried Scalpers Are Going to Have a Field Day This Christmas",
+      "link": "https://www.ign.com/articles/retailers-are-issuing-console-shortage-warnings-ahead-of-gta-6-and-now-im-worried-scalpers-are-going-to-have-a-field-day-this-christmas",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782486110
+    },
+    {
+      "title": "Watch a 'Potentially hazardous asteroid' the size of a skyscraper close in on Earth live online tonight",
+      "link": "https://www.space.com/stargazing/watch-a-potentially-hazardous-asteroid-the-size-of-a-skyscraper-close-in-on-earth-live-online-tonight",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782486000
+    },
+    {
+      "title": "Feedbacks upon feedbacks: Rock weathering and the climate",
+      "link": "https://arstechnica.com/science/2026/06/feedbacks-upon-feedbacks-rock-weathering-and-the-climate/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782484878
+    },
+    {
+      "title": "Young Male Gamers Twice as Likely to Believe Conspiracy Theories, UK Study Suggests",
+      "link": "https://www.ign.com/articles/young-male-gamers-twice-as-likely-to-believe-conspiracy-theories-uk-study-suggests",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782484651
+    },
+    {
+      "title": "Nintendo Switch 2 Finishes First 12 Months on Sale as Second Fastest-Selling Hardware in U.S. History, PS5 Sales Collapse Following Price Rise",
+      "link": "https://www.ign.com/articles/nintendo-switch-2-finishes-first-12-months-on-sale-as-second-fastest-selling-hardware-in-us-history-ps5-sales-collapse-following-price-rise",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782483408
+    },
+    {
+      "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
+      "link": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1782482471
+    },
+    {
+      "title": "Neon green auroras from space will take your breath away | Space photo of the day for June 26, 2026",
+      "link": "https://www.space.com/astronomy/earth/neon-green-auroras-from-space-will-take-your-breath-away-space-photo-of-the-day-for-june-26-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782482400
+    },
+    {
+      "title": "SpaceX plans to launch Starlink mobile service in the US",
+      "link": "https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782480179
+    },
+    {
+      "title": "IGN Poll Reveals 70% Plan to Buy the GTA 6 Ultimate Edition Over the Standard Edition",
       "link": "https://www.ign.com/articles/ign-poll-reveals-70-plan-to-buy-the-gta-6-ultimate-edition-over-the-standard-edition-which-begs-the-question-is-gta-6-effectively-the-first-100-video-game",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1782479031
     },
     {
-      "title": "Robotaxis drives miles just to get cleaned and charged; this new startup wants to fix that",
+      "title": "Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that",
       "link": "https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -28,6 +126,13 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1782478800
+    },
+    {
+      "title": "USMNT turn page to World Cup knockout round; LaMelo Ball trade grades; Prisco's Top 100 NFL players",
+      "link": "https://www.cbssports.com/nba/news/usmnt-world-cup-lamelo-ball-trade-pete-prisco-top-100-nfl-players/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782478112
     },
     {
       "title": "'I Torture Myself Over Every Last Detail' — Stardew Valley Creator ConcernedApe Says He's 'Still Here, Still Grinding' on Haunted Chocolatier",
@@ -191,13 +296,6 @@
       "timestamp": 1782418765
     },
     {
-      "title": "Why the Hornets were right to move on from LaMelo Ball as the Wolves roll the dice",
-      "link": "https://www.cbssports.com/nba/news/why-hornets-were-right-move-on-lamelo-ball-wolves-trade/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782418363
-    },
-    {
       "title": "FCC may kill $2B program that connects schools and libraries to Internet",
       "link": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/",
       "source": "ARSTECHNICA",
@@ -275,13 +373,6 @@
       "timestamp": 1782411159
     },
     {
-      "title": "Hopes for GTA 6 Trailer 3 Evaporate as Preorders Go Live Without a New Video From Rockstar",
-      "link": "https://www.ign.com/articles/hopes-for-gta-6-trailer-3-evaporate-as-preorders-go-live-without-a-new-video-from-rockstar",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782411122
-    },
-    {
       "title": "This Prime Day, save nearly $700 on 'a camera of epic proportions'",
       "link": "https://www.space.com/stargazing/skywatching-kit/this-prime-day-save-nearly-usd700-on-a-camera-of-epic-proportions",
       "source": "SPACE",
@@ -345,13 +436,6 @@
       "timestamp": 1782406091
     },
     {
-      "title": "Microsoft Announces Significant Price Rises for Xbox Series X and S, 2TB Model Discontinued",
-      "link": "https://www.ign.com/articles/microsoft-announces-significant-price-rises-for-xbox-series-x-and-s-2tb-model-discontinued",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782406055
-    },
-    {
       "title": "Hacked Klue says criminals are deleting stolen customer data, but now other hackers are making threats",
       "link": "https://techcrunch.com/2026/06/25/hacked-klue-says-criminals-are-deleting-stolen-customer-data-but-now-other-hackers-are-making-threats/",
       "source": "TECHCRUNCH",
@@ -394,25 +478,11 @@
       "timestamp": 1782403200
     },
     {
-      "title": "Deltarune Chapter 6 Will Release in 2027, Chapter 5 Shatters Concurrent Player Records on Steam",
-      "link": "https://www.ign.com/articles/deltarune-chapter-6-will-release-in-2027-chapter-5-shatters-concurrent-player-records-on-steam",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782402858
-    },
-    {
       "title": "LaMelo Ball trade grades: Timberwolves get 'B+' for high-risk, high-reward move, Hornets take the long view",
       "link": "https://www.cbssports.com/nba/news/lamelo-ball-trade-grades-timberwolves-hornets/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782402239
-    },
-    {
-      "title": "Drop Dead Singer Olivia Rodrigo Joins Fortnite Today",
-      "link": "https://www.ign.com/articles/drop-dead-singer-olivia-rodrigo-joins-fortnite-today",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782402143
     },
     {
       "title": "PirloTV sports piracy network disrupted as 44 domains seized",
@@ -426,13 +496,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
-      "timestamp": 1782399600
-    },
-    {
-      "title": "Invader Zim Publishing Rights Have Been Acquired by BOOM! Studios, Who Promises Classic Stories and New Original Content - Exclusive",
-      "link": "https://www.ign.com/articles/invader-zim-publishing-rights-have-been-acquired-by-boom-studios-who-promises-classic-stories-and-new-original-content-exclusive",
-      "source": "IGN",
-      "category": "gaming",
       "timestamp": 1782399600
     },
     {
@@ -450,13 +513,6 @@
       "timestamp": 1782399459
     },
     {
-      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-      "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782399338
-    },
-    {
       "title": "Feds deny Polestar authorization to sell cars in US from model year 2027",
       "link": "https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/",
       "source": "ARSTECHNICA",
@@ -471,13 +527,6 @@
       "timestamp": 1782398325
     },
     {
-      "title": "15 of our favorite sci-fi audiobooks to transport you to another planet",
-      "link": "https://www.space.com/entertainment/grab-the-best-scifi-books-on-audible-this-prime-day",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782397800
-    },
-    {
       "title": "Apple ratchets up prices, blames the cost of memory",
       "link": "https://arstechnica.com/apple/2026/06/apple-ratchets-up-prices-blames-the-cost-of-memory/",
       "source": "ARSTECHNICA",
@@ -490,20 +539,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1782396071
-    },
-    {
-      "title": "Summer solstice seen from space | Space photo of the day for June 25, 2026",
-      "link": "https://www.space.com/astronomy/earth/summer-solstice-seen-from-space-space-photo-of-the-day-for-june-25-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782396000
-    },
-    {
-      "title": "New to drone flying? Our expert thinks this five-star drone gives you 'everything you could possibly need' and it's $133 off",
-      "link": "https://www.space.com/technology/drones/new-to-drone-flying-our-expert-thinks-this-five-star-drone-gives-you-everything-you-could-possibly-need-and-its-usd133-off",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782396000
     },
     {
       "title": "The \"sad inevitability\" of Europe's heat wave",
@@ -639,39 +674,11 @@
       "timestamp": 1782344777
     },
     {
-      "title": "2026 NBA Mock Draft: After hiring Michigan's Dusty May, Mavericks take former Wolverines star Aday Mara",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-mock-draft-dusty-may-mavericks-michigan-aday-mara/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782342047
-    },
-    {
-      "title": "Hotly anticipated Grand Theft Auto VI will cost more than other AAA games",
-      "link": "https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782341223
-    },
-    {
-      "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
-      "link": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782340098
-    },
-    {
       "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
       "link": "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1782338143
-    },
-    {
-      "title": "13 years and $500 million for a stage adapter? Report justifies NASA cancellations.",
-      "link": "https://arstechnica.com/space/2026/06/analysis-finds-the-exploration-programs-nasa-recently-canceled-were-running-way-late/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782337263
     },
     {
       "title": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access",
@@ -700,13 +707,6 @@
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1782311715
-    },
-    {
-      "title": "Amadey, StealC malware operations disrupted in Operation Endgame action",
-      "link": "https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782311711
     },
     {
       "title": "Scientists discover ancient brain cells that help block distractions",
