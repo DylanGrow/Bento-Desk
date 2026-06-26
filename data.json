@@ -1,6 +1,62 @@
 {
-  "last_updated": 1782506679,
+  "last_updated": 1782511815,
   "items": [
+    {
+      "title": "FBI: Russian hackers now target Signal backup recovery keys",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
+      "source": "BLEEPINGCOMPUTER",
+      "category": "cyber",
+      "timestamp": 1782511577
+    },
+    {
+      "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
+      "link": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782511237
+    },
+    {
+      "title": "Millie Bobby Brown and David Harbour to Play Father-Daughter Duo for New Netflix Spy Drama Series",
+      "link": "https://www.ign.com/articles/millie-bobby-brown-and-david-harbour-to-play-father-daughter-duo-for-new-netflix-spy-drama-series",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782508205
+    },
+    {
+      "title": "Valve 'Would Love' a 'More Affordable' Steam Machine But Warns Changes Aren't Coming 'Any time Soon'",
+      "link": "https://www.ign.com/articles/valve-would-love-a-more-affordable-steam-machine-but-warns-changes-arent-coming-any-time-soon",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782507924
+    },
+    {
+      "title": "Black hole's 'point of no escape' studied with the loudest gravitational waves ever heard",
+      "link": "https://www.space.com/astronomy/black-holes/black-holes-point-of-no-escape-studied-with-the-loudest-gravitational-waves-ever-heard",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782507600
+    },
+    {
+      "title": "Russian citizens told \"switch to Android\" after Apple blocks key Russian apps",
+      "link": "https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782507482
+    },
+    {
+      "title": "Scientists stunned by signs of ancient life in a place no one expected",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260621111234.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782506750
+    },
+    {
+      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+      "link": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782504295
+    },
     {
       "title": "'Exodus: The Helium Sea' author Peter F. Hamilton talks universe crafting and finishing the story in this second prequel novel for sci-fi RPG 'Exodus' (exclusive)",
       "link": "https://www.space.com/entertainment/space-books/exodus-the-helium-sea-author-peter-f-hamilton-talks-universe-crafting-and-finishing-the-story-in-this-second-prequel-novel-for-sci-fi-rpg-exodus-exclusive",
@@ -35,6 +91,13 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1782499864
+    },
+    {
+      "title": "Butter and margarine look similar but their chemistry changes everything",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260618041504.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782499390
     },
     {
       "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
@@ -93,6 +156,13 @@
       "timestamp": 1782495967
     },
     {
+      "title": "From pet to pest, goldfish can wreck entire ecosystems",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260622091524.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782495917
+    },
+    {
       "title": "Only a few hours left! This expert-approved, beginner-friendly drone is $60 off for Prime Day",
       "link": "https://www.space.com/technology/drones/only-a-few-hours-left-this-expert-approved-beginner-friendly-drone-is-usd60-off-for-prime-day",
       "source": "SPACE",
@@ -107,7 +177,7 @@
       "timestamp": 1782495802
     },
     {
-      "title": "Russian hackers were behind $2.5 billion hack of Jaguar Land Rover: Report",
+      "title": "Russian hackers were behind $2.5B hack of Jaguar Land Rover: Report",
       "link": "https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -261,6 +331,13 @@
       "timestamp": 1782484651
     },
     {
+      "title": "Researchers discover why fructose doesn't satisfy hunger like glucose",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260623083106.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782484087
+    },
+    {
       "title": "Nintendo Switch 2 Finishes First 12 Months on Sale as Second Fastest-Selling Hardware in U.S. History, PS5 Sales Collapse Following Price Rise",
       "link": "https://www.ign.com/articles/nintendo-switch-2-finishes-first-12-months-on-sale-as-second-fastest-selling-hardware-in-us-history-ps5-sales-collapse-following-price-rise",
       "source": "IGN",
@@ -380,11 +457,32 @@
       "timestamp": 1782465593
     },
     {
+      "title": "A “ghost” great white shark just reignited a 160-year Mediterranean mystery",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260621052722.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782457423
+    },
+    {
+      "title": "This newly discovered ballista spider catapults ants into a deadly trap",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260623014002.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782451742
+    },
+    {
       "title": "Rocket Lab launches 'Ten Owl of Ten' mission, sending up Japanese Earth-observing radar satellite (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-ten-owl-of-ten-mission-for-synspective-launch",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1782450428
+    },
+    {
+      "title": "Earth may have been seeding Venus with life for billions of years",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260625014805.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782444137
     },
     {
       "title": "Turn your room into a galaxy: The best Prime Day deals on star projectors for aspiring astronomers",
@@ -394,18 +492,11 @@
       "timestamp": 1782442800
     },
     {
-      "title": "Lizzy Caplan Joins FX's Far Cry TV Series",
-      "link": "https://www.ign.com/articles/lizzy-caplan-joins-fxs-far-cry-tv-series",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782440677
-    },
-    {
-      "title": "Ratatouille 2 Will Never Happen, Says Director Brad Bird",
-      "link": "https://www.ign.com/articles/ratatouille-2-will-never-happen-says-director-brad-bird",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782440199
+      "title": "Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260625060222.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782435903
     },
     {
       "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
@@ -492,25 +583,11 @@
       "timestamp": 1782416748
     },
     {
-      "title": "Xbox follows Apple with price increases",
-      "link": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782416395
-    },
-    {
       "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
       "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1782414297
-    },
-    {
-      "title": "Supergirl's brilliant poster is a reminder that they don't make sci-fi movie posters like they used to",
-      "link": "https://www.space.com/entertainment/space-movies-shows/modern-sci-fi-movie-posters-usually-suck-but-supergirl-shows-that-it-doesnt-have-to-be-that-way",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782414000
     },
     {
       "title": "LaMelo Ball trade winners and losers: Timberwolves get Anthony Edwards the best backcourt mate of his career",
@@ -583,25 +660,11 @@
       "timestamp": 1782399459
     },
     {
-      "title": "Feds deny Polestar authorization to sell cars in US from model year 2027",
-      "link": "https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782398423
-    },
-    {
       "title": "FDA-approved drug may finally help immunotherapy defeat rare liver cancer",
       "link": "https://www.sciencedaily.com/releases/2026/06/260623014014.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782398325
-    },
-    {
-      "title": "Apple ratchets up prices, blames the cost of memory",
-      "link": "https://arstechnica.com/apple/2026/06/apple-ratchets-up-prices-blames-the-cost-of-memory/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782396877
     },
     {
       "title": "The Four Elevations of Effective Fraud Prevention",
@@ -695,13 +758,6 @@
       "timestamp": 1782344777
     },
     {
-      "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782338143
-    },
-    {
       "title": "The universe may be hiding conscious minds stranger than we can imagine",
       "link": "https://www.sciencedaily.com/releases/2026/06/260623083146.htm",
       "source": "SCIENCEDAILY",
@@ -721,62 +777,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782306118
-    },
-    {
-      "title": "Why South Africa’s leopards shrank to half their normal size",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260623083113.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782302428
-    },
-    {
-      "title": "Early humans were bringing fire into caves 1.8 million years ago",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260623083123.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782292371
-    },
-    {
-      "title": "The tea in your kombucha changes more than just the taste",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260621060313.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782227160
-    },
-    {
-      "title": "A rare interstellar visitor triggered a SETI search for alien technology",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260621060309.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782226185
-    },
-    {
-      "title": "Scientists finally solved how H5N1 bird flu hid in dairy cows",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260620100315.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782225111
-    },
-    {
-      "title": "Hidden bird species discovered in Japan after DNA reveals a stunning secret",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260620100430.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782224032
-    },
-    {
-      "title": "This four-winged dinosaur may have terrorized Earth's earliest birds",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260621060311.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782219490
-    },
-    {
-      "title": "Scientists just discovered how queen bees are really made",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260623083101.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782217861
     }
   ]
 }
