@@ -1,6 +1,34 @@
 {
-  "last_updated": 1782562039,
+  "last_updated": 1782570425,
   "items": [
+    {
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782568800
+    },
+    {
+      "title": "SpaceCamp at 40: A wish-fulfillment fantasy brought down to earth by NASA's real-life disaster",
+      "link": "https://www.space.com/entertainment/space-movies-shows/spacecamp-at-40-a-wish-fulfillment-fantasy-brought-down-to-earth-by-nasas-real-life-disaster",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782568800
+    },
+    {
+      "title": "Blue Origin plans to fly New Glenn rocket again this year despite massive rocket explosion (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-working-around-the-clock-to-repair-damaged-launch-pad-after-new-glenn-rocket-explosion-video",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782565200
+    },
+    {
+      "title": "No, There Is No GTA 6 Physical Disc Coming Out at Launch or the Months After — Those Reports and Social Media Posts Are Incorrect",
+      "link": "https://www.ign.com/articles/no-there-is-no-gta-6-physical-disc-coming-out-at-launch-or-the-months-after-those-reports-and-social-media-posts-are-incorrect",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782562342
+    },
     {
       "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
       "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
@@ -506,20 +534,6 @@
       "timestamp": 1782471659
     },
     {
-      "title": "PlayStation Boss Says New Console Experiences Will Involve 'Leveraging Technologies That Can Be Used in Various Forms and Locations' — and I'm Convinced He's Teasing a PS6 Handheld",
-      "link": "https://www.ign.com/articles/playstation-boss-says-new-console-experiences-will-involve-leveraging-technologies-that-can-be-used-in-various-forms-and-locations-and-im-convinced-hes-teasing-a-ps6-handheld",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782468993
-    },
-    {
-      "title": "June's Strawberry Moon is unlike any other full moon. Here's why",
-      "link": "https://www.space.com/stargazing/junes-strawberry-moon-is-unlike-any-other-full-moon-heres-why",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782468000
-    },
-    {
       "title": "A “ghost” great white shark just reignited a 160-year Mediterranean mystery",
       "link": "https://www.sciencedaily.com/releases/2026/06/260621052722.htm",
       "source": "SCIENCEDAILY",
@@ -534,13 +548,6 @@
       "timestamp": 1782451742
     },
     {
-      "title": "Rocket Lab launches 'Ten Owl of Ten' mission, sending up Japanese Earth-observing radar satellite (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-ten-owl-of-ten-mission-for-synspective-launch",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782450428
-    },
-    {
       "title": "Earth may have been seeding Venus with life for billions of years",
       "link": "https://www.sciencedaily.com/releases/2026/06/260625014805.htm",
       "source": "SCIENCEDAILY",
@@ -553,13 +560,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782435903
-    },
-    {
-      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-      "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782430479
     },
     {
       "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
