@@ -1,6 +1,20 @@
 {
-  "last_updated": 1782518637,
+  "last_updated": 1782535859,
   "items": [
+    {
+      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+      "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782522097
+    },
+    {
+      "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
+      "link": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782520714
+    },
     {
       "title": "South Korea plans to train entire military as \"drone warriors\"",
       "link": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
@@ -576,25 +590,11 @@
       "timestamp": 1782419049
     },
     {
-      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-      "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782418765
-    },
-    {
       "title": "FCC may kill $2B program that connects schools and libraries to Internet",
       "link": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1782417668
-    },
-    {
-      "title": "Polymarket says hackers stole users’ funds",
-      "link": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782417526
     },
     {
       "title": "Order-tracking app Shop abused to push callback phishing attacks",
