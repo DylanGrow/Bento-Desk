@@ -1,6 +1,20 @@
 {
-  "last_updated": 1782511815,
+  "last_updated": 1782518637,
   "items": [
+    {
+      "title": "South Korea plans to train entire military as \"drone warriors\"",
+      "link": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782512345
+    },
+    {
+      "title": "New Warhammer 40,000 Animation Is Almost Entirely From the Perspective of a Single World Eaters Berzerker — and Now I Want a First-Person Chaos Space Marine Game",
+      "link": "https://www.ign.com/articles/new-warhammer-40000-animation-is-almost-entirely-from-the-perspective-of-a-single-world-eaters-berzerker-and-now-i-want-a-first-person-chaos-space-marine-game",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782511896
+    },
     {
       "title": "FBI: Russian hackers now target Signal backup recovery keys",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
@@ -14,6 +28,20 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1782511237
+    },
+    {
+      "title": "Doctors suspected man had brain cancer. He actually had worms.",
+      "link": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782510237
+    },
+    {
+      "title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
+      "link": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782508327
     },
     {
       "title": "Millie Bobby Brown and David Harbour to Play Father-Daughter Duo for New Netflix Spy Drama Series",
@@ -450,13 +478,6 @@
       "timestamp": 1782468000
     },
     {
-      "title": "True Scale of Bungie Layoffs Revealed, With Nearly 300 Cut From Its Bellevue, Washington Headquarters Alone",
-      "link": "https://www.ign.com/articles/true-scale-of-bungie-layoffs-revealed-with-nearly-300-cut-from-its-bellevue-washington-headquarters-alone",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782465593
-    },
-    {
       "title": "A “ghost” great white shark just reignited a 160-year Mediterranean mystery",
       "link": "https://www.sciencedaily.com/releases/2026/06/260621052722.htm",
       "source": "SCIENCEDAILY",
@@ -597,32 +618,11 @@
       "timestamp": 1782413045
     },
     {
-      "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
-      "link": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782412731
-    },
-    {
       "title": "Microsoft quietly extends free Windows 10 ESU support to October 2027",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/",
       "source": "BLEEPINGCOMPUTER",
       "category": "cyber",
       "timestamp": 1782412160
-    },
-    {
-      "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
-      "link": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782410508
-    },
-    {
-      "title": "Planet orbits so close to its star that their magnetic fields connect",
-      "link": "https://arstechnica.com/science/2026/06/planet-orbits-so-close-to-its-star-that-their-magnetic-fields-connect/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782410439
     },
     {
       "title": "New macOS malware embeds fake errors to confuse AI analysis tools",
