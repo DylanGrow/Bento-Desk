@@ -1,6 +1,34 @@
 {
-  "last_updated": 1782583191,
+  "last_updated": 1782589239,
   "items": [
+    {
+      "title": "Scientists discover what triggers belly fat as we age",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260624115133.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782586476
+    },
+    {
+      "title": "Steam Machine Scalpers on eBay Are Selling Reservations at Double the Price Valve Is Asking for",
+      "link": "https://www.ign.com/articles/steam-machine-scalpers-on-ebay-are-selling-reservations-at-double-the-price-valve-is-asking-for",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782585188
+    },
+    {
+      "title": "Biggest offseason question for every West team: Big moves for Lakers, Warriors? Can Spurs trade De'Aaron Fox?",
+      "link": "https://www.cbssports.com/nba/news/nba-biggest-offseason-questions-western-conference-spurs-thunder-lakers-warriors/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782583445
+    },
+    {
+      "title": "'Logan's Run' at 50: Remembering this disco-age sci-fi classic on its golden anniversary",
+      "link": "https://www.space.com/entertainment/space-movies-shows/logans-run-at-50-remembering-this-disco-age-sci-fi-classic-on-its-golden-anniversary",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782583200
+    },
     {
       "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
       "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
@@ -98,6 +126,13 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1782554400
+    },
+    {
+      "title": "Astronomers found two rare super puff planets lighter than cotton candy",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260626124659.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782522571
     },
     {
       "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
@@ -520,25 +555,11 @@
       "timestamp": 1782478800
     },
     {
-      "title": "NASA's canceled Artemis hardware contracts reached $5.9 billion, audit finds",
-      "link": "https://www.space.com/space-exploration/artemis/nasa-spent-usd5-9-billion-on-artemis-program-hardware-it-may-never-use",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782478800
-    },
-    {
       "title": "USMNT turn page to World Cup knockout round; LaMelo Ball trade grades; Prisco's Top 100 NFL players",
       "link": "https://www.cbssports.com/nba/news/usmnt-world-cup-lamelo-ball-trade-pete-prisco-top-100-nfl-players/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782478112
-    },
-    {
-      "title": "'I Torture Myself Over Every Last Detail' — Stardew Valley Creator ConcernedApe Says He's 'Still Here, Still Grinding' on Haunted Chocolatier",
-      "link": "https://www.ign.com/articles/i-torture-myself-over-every-last-detail-stardew-valley-creator-concernedape-says-hes-still-here-still-grinding-on-haunted-chocolatier",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782477058
     },
     {
       "title": "Rocket Report: China may soon attempt booster landing; Rocket Lab does rapid response",
@@ -744,13 +765,6 @@
       "timestamp": 1782373312
     },
     {
-      "title": "2026 NBA Draft snubs: Milos Uzan, Kylan Boswell and Nick Boyd among notable college players not selected",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-draft-snubs-milos-uzan-kylan-boswell-and-nick-boyd-among-notable-college-players-not-selected/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782366106
-    },
-    {
       "title": "NASA’s Lucy finds a wobbling peanut-shaped asteroid with signs of ancient water",
       "link": "https://www.sciencedaily.com/releases/2026/06/260624025455.htm",
       "source": "SCIENCEDAILY",
@@ -763,20 +777,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782312597
-    },
-    {
-      "title": "Scientists discover ancient brain cells that help block distractions",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260624025426.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782307809
-    },
-    {
-      "title": "Scientists discover hidden “footprints of death” that may help viruses spread",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260623014028.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782306118
     }
   ]
 }
