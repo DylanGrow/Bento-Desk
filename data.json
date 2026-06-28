@@ -1,6 +1,20 @@
 {
-  "last_updated": 1782674103,
+  "last_updated": 1782680317,
   "items": [
+    {
+      "title": "Christopher Nolan Says Mainstream Movies That 'Play It Safe' Should Take More Risks if They Want to Succeed",
+      "link": "https://www.ign.com/articles/christopher-nolan-says-mainstream-movies-that-play-it-safe-should-take-more-risks-if-they-want-to-succeed",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782675106
+    },
+    {
+      "title": "Miles Bridges trade grades: Suns burn another potential rebuild year, Hornets add to draft pick pile",
+      "link": "https://www.cbssports.com/nba/news/miles-bridges-trade-grades-suns-hornets/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782674321
+    },
     {
       "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
       "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
@@ -37,7 +51,7 @@
       "timestamp": 1782668147
     },
     {
-      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from dematerialization",
+      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
       "link": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -569,13 +583,6 @@
       "timestamp": 1782488201
     },
     {
-      "title": "Official Tekken Cartoon Teaser Re-Imagines Classic Fighting Game Characters With Toy-Like Visuals",
-      "link": "https://www.ign.com/articles/official-tekken-cartoon-teaser-re-imagines-classic-fighting-game-characters-with-toy-like-visuals",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782487514
-    },
-    {
       "title": "VW may close four factories to adapt to the future, report says",
       "link": "https://arstechnica.com/cars/2026/06/vw-may-close-four-factories-to-adapt-to-the-future-report-says/",
       "source": "ARSTECHNICA",
@@ -770,13 +777,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782392929
-    },
-    {
-      "title": "Grizzlies, Jazz, Wizards among NBA Draft winners; USMNT to close World Cup group play vs. Türkiye",
-      "link": "https://www.cbssports.com/nba/news/grizzlies-jazz-wizards-nba-draft-usmnt-world-cup-turkiye/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782389368
     }
   ]
 }
