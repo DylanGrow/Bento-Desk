@@ -1,6 +1,34 @@
 {
-  "last_updated": 1782621653,
+  "last_updated": 1782634750,
   "items": [
+    {
+      "title": "Hawaii is turning ocean plastic and fishing nets into roads",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260625014830.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782629634
+    },
+    {
+      "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
+      "link": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782622800
+    },
+    {
+      "title": "Yellowstone’s supervolcano may be fueled by something unexpected",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260622014317.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782617812
+    },
+    {
+      "title": "A rare supernova peeled back a star’s layers and revealed a hidden secret",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260616103133.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782609255
+    },
     {
       "title": "Why Nuggets should be concerned if Nikola Jokić does not sign contract extension this offseason",
       "link": "https://www.cbssports.com/nba/news/nikola-jokic-contract-extension-nuggets-nba-rumors/",
@@ -450,13 +478,6 @@
       "timestamp": 1782491099
     },
     {
-      "title": "It’s not about Anthropic vs. OpenAI anymore",
-      "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782491087
-    },
-    {
       "title": "Beam me up to 4K: Your ultimate sci-fi collection for less than $25 on Prime Day",
       "link": "https://www.space.com/stargazing/skywatching-kit/beam-me-up-to-4k-your-ultimate-sci-fi-collection-for-less-than-25-dollars",
       "source": "SPACE",
@@ -756,27 +777,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782389368
-    },
-    {
-      "title": "After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260625014808.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782373312
-    },
-    {
-      "title": "NASA’s Lucy finds a wobbling peanut-shaped asteroid with signs of ancient water",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260624025455.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782365000
-    },
-    {
-      "title": "The universe may be hiding conscious minds stranger than we can imagine",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260623083146.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782312597
     }
   ]
 }
