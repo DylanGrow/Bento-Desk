@@ -1,12 +1,89 @@
 {
-  "last_updated": 1782762766,
+  "last_updated": 1782768206,
   "items": [
     {
-      "title": "Watch out, Amazon: the Kobo eReader now has a Goodreads rival",
+      "title": "It's been 25 years since'A.I. Artificial Intelligence', and we think this was Spielberg at the top of his sci-fi game",
+      "link": "https://www.space.com/entertainment/space-movies-shows/its-been-25-years-since-a-i-artificial-intelligence-and-we-think-this-was-spielberg-at-the-top-of-his-sci-fi-game",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782766800
+    },
+    {
+      "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+      "link": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782766550
+    },
+    {
+      "title": "'We're Done Paying for Executives' Failures' — Unionized Xbox Developers Hold Press Conference to Make Their Point as Microsoft Reportedly Readies Massive Layoffs",
+      "link": "https://www.ign.com/articles/were-done-paying-for-executives-failures-unionized-xbox-developers-hold-press-conference-to-make-their-point-as-microsoft-reportedly-readies-massive-layoffs",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782766184
+    },
+    {
+      "title": "NBA landing spot predictions: Where will LeBron James, Kawhi Leonard and others end up? Experts make picks",
+      "link": "https://www.cbssports.com/nba/news/nba-landing-spot-predictions-lebron-james-kawhi-leonard/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782765021
+    },
+    {
+      "title": "Gemini’s personalized AI image generation is now free for US users",
+      "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782763979
+    },
+    {
+      "title": "US renewable boom passes key milestone in April",
+      "link": "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782763950
+    },
+    {
+      "title": "Supreme Court ruling guts government’s use of geofence warrants",
+      "link": "https://arstechnica.com/tech-policy/2026/06/supreme-court-ruling-guts-governments-use-of-geofence-warrants/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782763444
+    },
+    {
+      "title": "Watch 2 NASA astronauts fix ISS' huge robotic arm during June 30 spacewalk",
+      "link": "https://www.space.com/space-exploration/international-space-station/watch-2-nasa-astronauts-fix-iss-huge-robotic-arm-during-june-30-spacewalk",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782763200
+    },
+    {
+      "title": "Box Office Disaster Supergirl Could Reportedly Lose Warner Bros. $100 Million During Its Theatrical Run",
+      "link": "https://www.ign.com/articles/box-office-disaster-supergirl-could-reportedly-lose-warner-bros-100-million-during-its-theatrical-run",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782762597
+    },
+    {
+      "title": "Sony erases digital content from libraries; we're reminded we don’t own what we buy",
+      "link": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782760257
+    },
+    {
+      "title": "Watch out, Amazon: The Kobo eReader now has a Goodreads rival",
       "link": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1782759981
+    },
+    {
+      "title": "Ozone loss was a thing even before CFCs were widely used",
+      "link": "https://arstechnica.com/science/2026/06/ozone-damage-could-have-been-detected-decades-earlier/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782759623
     },
     {
       "title": "'Starseeker: Astroneer Expeditions' takes space exploration in a different (and friendlier) direction, and we chatted with System Era's creative director about it (interview)",
@@ -296,13 +373,6 @@
       "timestamp": 1782738000
     },
     {
-      "title": "Omen AI’s plan to optimize data centers is all wet",
-      "link": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782738000
-    },
-    {
       "title": "How NASA's 'America 250' celebrations are reaching from the sky to the moon",
       "link": "https://www.space.com/space-exploration/how-nasas-america-250-celebrations-are-reaching-from-the-sky-to-the-moon",
       "source": "SPACE",
@@ -387,13 +457,6 @@
       "timestamp": 1782717552
     },
     {
-      "title": "Dead or Alive 6 Last Round Pummeled by Negative Reviews as Koei Tecmo Asks Players to Rebuy DLC",
-      "link": "https://www.ign.com/articles/dead-or-alive-6-last-round-pummeled-by-negative-reviews-as-koei-tecmo-asks-players-to-rebuy-dlc",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782715808
-    },
-    {
       "title": "Physicists create a strange new quantum state called a fractional fermi sea",
       "link": "https://www.sciencedaily.com/releases/2026/06/260619101330.htm",
       "source": "SCIENCEDAILY",
@@ -427,20 +490,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782690845
-    },
-    {
-      "title": "California law targeting loud streaming ads takes effect on July 1",
-      "link": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782682454
-    },
-    {
-      "title": "Spider-Man: Brand New Day Star Tom Holland Says He's Working to Bring Miles Morales Into the MCU",
-      "link": "https://www.ign.com/articles/spider-man-brand-new-day-star-tom-holland-says-hes-working-to-bring-miles-morales-into-the-mcu",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782681167
     },
     {
       "title": "Miles Bridges trade grades: Suns burn another potential rebuild year, Hornets add to draft pick pile",
@@ -548,25 +597,11 @@
       "timestamp": 1782586476
     },
     {
-      "title": "'Logan's Run' at 50: Remembering this disco-age sci-fi classic on its golden anniversary",
-      "link": "https://www.space.com/entertainment/space-movies-shows/logans-run-at-50-remembering-this-disco-age-sci-fi-classic-on-its-golden-anniversary",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782583200
-    },
-    {
       "title": "Thunder re-sign Isaiah Hartenstein: Why the move was so important and what's next for OKC's offseason",
       "link": "https://www.cbssports.com/nba/news/thunder-isaiah-hartenstein-contract-oklahoma-city-offseason/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782575242
-    },
-    {
-      "title": "This Week In Space podcast: Episode 216 — Dark Matter Intelligence",
-      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-216-dark-matter-intelligence",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782573046
     },
     {
       "title": "Apple and Audi alumni have made a luxe EV based on the moon buggy",
@@ -590,39 +625,11 @@
       "timestamp": 1782512345
     },
     {
-      "title": "Doctors suspected man had brain cancer. He actually had worms.",
-      "link": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782510237
-    },
-    {
-      "title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
-      "link": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782508327
-    },
-    {
-      "title": "Russian citizens told \"switch to Android\" after Apple blocks key Russian apps",
-      "link": "https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782507482
-    },
-    {
       "title": "Scientists stunned by signs of ancient life in a place no one expected",
       "link": "https://www.sciencedaily.com/releases/2026/06/260621111234.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782506750
-    },
-    {
-      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
-      "link": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782504295
     },
     {
       "title": "Butter and margarine look similar but their chemistry changes everything",
@@ -644,13 +651,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782493399
-    },
-    {
-      "title": "Why the Pistons are one of the NBA offseason's most interesting teams",
-      "link": "https://www.cbssports.com/nba/news/pistons-nba-offseason-most-interesting-teams/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782492680
     },
     {
       "title": "Researchers discover why fructose doesn't satisfy hunger like glucose",
