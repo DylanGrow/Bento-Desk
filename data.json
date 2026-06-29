@@ -1,6 +1,13 @@
 {
-  "last_updated": 1782691527,
+  "last_updated": 1782710903,
   "items": [
+    {
+      "title": "NBA rumors: Warriors interested in signing LeBron James, trading for Anthony Davis to join Stephen Curry",
+      "link": "https://www.cbssports.com/nba/news/nba-rumors-warriors-lebron-james-anthony-davis-stephen-curry/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782703466
+    },
     {
       "title": "Kawhi Leonard trade rumors: Raptors and Clippers have held 'real' talks, Mavericks have 'registered interest'",
       "link": "https://www.cbssports.com/nba/news/kawhi-leonard-trade-rumors-raptors-clippers/",
@@ -100,13 +107,6 @@
       "timestamp": 1782661943
     },
     {
-      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-      "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782658800
-    },
-    {
       "title": "'Superman Returns' at 20: Is it a sequel? Is it a reboot? Two decades on, we're still not sure",
       "link": "https://www.space.com/entertainment/space-movies-shows/superman-returns-at-20-is-it-a-sequel-is-it-a-reboot-two-decades-on-were-still-not-sure",
       "source": "SPACE",
@@ -114,24 +114,24 @@
       "timestamp": 1782658800
     },
     {
-      "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
-      "link": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782656026
-    },
-    {
-      "title": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury",
-      "link": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/",
+      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+      "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
       "source": "TECHCRUNCH",
       "category": "tech",
-      "timestamp": 1782655200
+      "timestamp": 1782658800
     },
     {
       "title": "Japanese probe set for super-close flyby on July 5: 'We're going to discover another beast to put in the zoo of asteroids'",
       "link": "https://www.space.com/astronomy/asteroids/japanese-probe-set-for-super-close-flyby-on-july-5-were-going-to-discover-another-beast-to-put-in-the-zoo-of-asteroids",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1782655200
+    },
+    {
+      "title": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury",
+      "link": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
       "timestamp": 1782655200
     },
     {
@@ -282,24 +282,17 @@
       "timestamp": 1782570284
     },
     {
-      "title": "Clean GitHub repo tricks AI coding agents into running malware",
-      "link": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782570156
+      "title": "SpaceCamp at 40: A wish-fulfillment fantasy brought down to earth by NASA's real-life disaster",
+      "link": "https://www.space.com/entertainment/space-movies-shows/spacecamp-at-40-a-wish-fulfillment-fantasy-brought-down-to-earth-by-nasas-real-life-disaster",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782568800
     },
     {
       "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
       "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
       "source": "TECHCRUNCH",
       "category": "tech",
-      "timestamp": 1782568800
-    },
-    {
-      "title": "SpaceCamp at 40: A wish-fulfillment fantasy brought down to earth by NASA's real-life disaster",
-      "link": "https://www.space.com/entertainment/space-movies-shows/spacecamp-at-40-a-wish-fulfillment-fantasy-brought-down-to-earth-by-nasas-real-life-disaster",
-      "source": "SPACE",
-      "category": "space",
       "timestamp": 1782568800
     },
     {
@@ -317,17 +310,17 @@
       "timestamp": 1782562342
     },
     {
-      "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
-      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782561600
-    },
-    {
       "title": "NASA used a drone to deliver a human kidney. Is this the future of transplant transport?",
       "link": "https://www.space.com/technology/nasa-just-used-a-drone-to-deliver-a-human-kidney-is-this-the-future-of-transplant-transport",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1782561600
+    },
+    {
+      "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
       "timestamp": 1782561600
     },
     {
@@ -378,13 +371,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1782511896
-    },
-    {
-      "title": "FBI: Russian hackers now target Signal backup recovery keys",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782511577
     },
     {
       "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
@@ -457,13 +443,6 @@
       "timestamp": 1782504000
     },
     {
-      "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782502986
-    },
-    {
       "title": "Novak Djokovic has a new job —  advisor to private equity firm General Atlantic",
       "link": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/",
       "source": "TECHCRUNCH",
@@ -506,25 +485,11 @@
       "timestamp": 1782497992
     },
     {
-      "title": "Polymarket customers lose $3 million in supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782497052
-    },
-    {
       "title": "China plans to double the size of its Tiangong space station while the ISS nears its end",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/china-plans-to-double-the-size-of-its-tiangong-space-station-while-the-iss-nears-its-end",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1782496800
-    },
-    {
-      "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
-      "link": "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782496147
     },
     {
       "title": "Antibiotic \"megacluster\" discovery provides new strategy to fight superbugs",
@@ -611,13 +576,6 @@
       "timestamp": 1782484087
     },
     {
-      "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
-      "link": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782482471
-    },
-    {
       "title": "SpaceX plans to launch Starlink mobile service in the US",
       "link": "https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/",
       "source": "ARSTECHNICA",
@@ -667,20 +625,6 @@
       "timestamp": 1782435903
     },
     {
-      "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782428012
-    },
-    {
-      "title": "Poland busts SIM-swapping gang tied to millions in crypto theft",
-      "link": "https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782427062
-    },
-    {
       "title": "Kawhi Leonard trade rumors: Would it be possible for the Spurs or Raptors to bring back the Clippers star?",
       "link": "https://www.cbssports.com/nba/news/kawhi-leonard-trade-rumors-clippers-spurs-raptors/",
       "source": "CBSSPORTS",
@@ -702,32 +646,11 @@
       "timestamp": 1782419049
     },
     {
-      "title": "Order-tracking app Shop abused to push callback phishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782416748
-    },
-    {
       "title": "LaMelo Ball trade winners and losers: Timberwolves get Anthony Edwards the best backcourt mate of his career",
       "link": "https://www.cbssports.com/nba/news/lamelo-ball-trade-winners-losers-anthony-edwards-kon-knueppel-timberwolves-hornets/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782413045
-    },
-    {
-      "title": "Microsoft quietly extends free Windows 10 ESU support to October 2027",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782412160
-    },
-    {
-      "title": "New macOS malware embeds fake errors to confuse AI analysis tools",
-      "link": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782404599
     },
     {
       "title": "LaMelo Ball trade grades: Timberwolves get 'B+' for high-risk, high-reward move, Hornets take the long view",
@@ -737,20 +660,6 @@
       "timestamp": 1782402239
     },
     {
-      "title": "PirloTV sports piracy network disrupted as 44 domains seized",
-      "link": "https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782401816
-    },
-    {
-      "title": "Bluekit phishing kit adopts browser-in-the-middle for login theft",
-      "link": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782399600
-    },
-    {
       "title": "This common vitamin deficiency can mimic normal aging",
       "link": "https://www.sciencedaily.com/releases/2026/06/260623083116.htm",
       "source": "SCIENCEDAILY",
@@ -758,25 +667,11 @@
       "timestamp": 1782399459
     },
     {
-      "title": "The Four Elevations of Effective Fraud Prevention",
-      "link": "https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/",
-      "source": "BLEEPINGCOMPUTER",
-      "category": "cyber",
-      "timestamp": 1782396071
-    },
-    {
       "title": "2026-27 NBA Rookie of the Year odds: Why Kings guard Darius Acuff Jr. provides best early betting value",
       "link": "https://www.cbssports.com/betting/news/2026-27-nba-rookie-of-the-year-odds-why-kings-guard-darius-acuff-jr-provides-best-early-betting-value/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782395175
-    },
-    {
-      "title": "NBA Rookie of the Year predictions: Early expert picks after 2026 Draft with Cameron Boozer favored",
-      "link": "https://www.cbssports.com/nba/news/nba-rookie-of-the-year-predictions-early-picks-draft/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782393776
     }
   ]
 }
