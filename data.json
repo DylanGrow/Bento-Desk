@@ -1,12 +1,75 @@
 {
-  "last_updated": 1782710903,
+  "last_updated": 1782730289,
   "items": [
+    {
+      "title": "The Strawberry Moon rises tonight. Here's what to expect from June's full moon",
+      "link": "https://www.space.com/stargazing/the-strawberry-moon-rises-june-29-here-is-what-to-expect-from-june-full-moon",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782727200
+    },
+    {
+      "title": "The Social Network Star Jesse Eisenberg Says Turning Down Aaron Sorkin's Offer to Reprise Role as Mark Zuckerberg 'Feels Almost Like You're Letting Down America'",
+      "link": "https://www.ign.com/articles/the-social-network-star-jesse-eisenberg-says-turning-down-aaron-sorkins-offer-to-reprise-role-as-mark-zuckerberg-feels-almost-like-youre-letting-down-america",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782726422
+    },
+    {
+      "title": "Hideo Kojima and More Pay Tribute to Akihiro Miwa, the Iconic Japanese Singer and Actor Behind Wolf Goddess Moro in Princess Mononoke, Who Has Died Aged 91",
+      "link": "https://www.ign.com/articles/hideo-kojima-and-more-pay-tribute-to-akihiro-miwa-the-iconic-japanese-singer-and-actor-behind-wolf-goddess-moro-in-princess-mononoke-who-has-died-aged-91",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782722999
+    },
+    {
+      "title": "Marvel Tōkon: Fighting Souls Reveals Last 3 Playable Characters — and a Blink-and-You’ll-Miss-It Look at a PlayStation Icon",
+      "link": "https://www.ign.com/articles/marvel-tokon-fighting-souls-reveals-last-3-playable-characters-and-a-blink-and-youll-miss-it-look-at-a-playstation-icon",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782722396
+    },
+    {
+      "title": "Millions take omega-3 fish oil for brain health but a new study found no benefit",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260622014300.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782717552
+    },
+    {
+      "title": "Dead or Alive 6 Last Round Pummeled by Negative Reviews as Koei Tecmo Asks Players to Rebuy DLC",
+      "link": "https://www.ign.com/articles/dead-or-alive-6-last-round-pummeled-by-negative-reviews-as-koei-tecmo-asks-players-to-rebuy-dlc",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782715808
+    },
+    {
+      "title": "Physicists create a strange new quantum state called a fractional fermi sea",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260619101330.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782710991
+    },
     {
       "title": "NBA rumors: Warriors interested in signing LeBron James, trading for Anthony Davis to join Stephen Curry",
       "link": "https://www.cbssports.com/nba/news/nba-rumors-warriors-lebron-james-anthony-davis-stephen-curry/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782703466
+    },
+    {
+      "title": "Brain activity under anesthesia challenges what we know about consciousness",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260624025514.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782701724
+    },
+    {
+      "title": "These tiny soil microbes could rescue crops from salty farmland",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260626124703.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782696104
     },
     {
       "title": "Kawhi Leonard trade rumors: Raptors and Clippers have held 'real' talks, Mavericks have 'registered interest'",
@@ -107,13 +170,6 @@
       "timestamp": 1782661943
     },
     {
-      "title": "'Superman Returns' at 20: Is it a sequel? Is it a reboot? Two decades on, we're still not sure",
-      "link": "https://www.space.com/entertainment/space-movies-shows/superman-returns-at-20-is-it-a-sequel-is-it-a-reboot-two-decades-on-were-still-not-sure",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782658800
-    },
-    {
       "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
       "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
       "source": "TECHCRUNCH",
@@ -121,17 +177,24 @@
       "timestamp": 1782658800
     },
     {
-      "title": "Japanese probe set for super-close flyby on July 5: 'We're going to discover another beast to put in the zoo of asteroids'",
-      "link": "https://www.space.com/astronomy/asteroids/japanese-probe-set-for-super-close-flyby-on-july-5-were-going-to-discover-another-beast-to-put-in-the-zoo-of-asteroids",
+      "title": "'Superman Returns' at 20: Is it a sequel? Is it a reboot? Two decades on, we're still not sure",
+      "link": "https://www.space.com/entertainment/space-movies-shows/superman-returns-at-20-is-it-a-sequel-is-it-a-reboot-two-decades-on-were-still-not-sure",
       "source": "SPACE",
       "category": "space",
-      "timestamp": 1782655200
+      "timestamp": 1782658800
     },
     {
       "title": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury",
       "link": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/",
       "source": "TECHCRUNCH",
       "category": "tech",
+      "timestamp": 1782655200
+    },
+    {
+      "title": "Japanese probe set for super-close flyby on July 5: 'We're going to discover another beast to put in the zoo of asteroids'",
+      "link": "https://www.space.com/astronomy/asteroids/japanese-probe-set-for-super-close-flyby-on-july-5-were-going-to-discover-another-beast-to-put-in-the-zoo-of-asteroids",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1782655200
     },
     {
@@ -142,7 +205,7 @@
       "timestamp": 1782651600
     },
     {
-      "title": "Watch SpaceX launch 15,000-pound SiriusXM satellite to orbit tonight",
+      "title": "SpaceX launches 15,000-pound SiriusXM satellite to orbit from Florida",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-sirius-sxm-11-satellite-launch-falcon-9",
       "source": "SPACE",
       "category": "space",
@@ -175,13 +238,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782617812
-    },
-    {
-      "title": "A rare supernova peeled back a star’s layers and revealed a hidden secret",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260616103133.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782609255
     },
     {
       "title": "Why Nuggets should be concerned if Nikola Jokić does not sign contract extension this offseason",
@@ -282,17 +338,17 @@
       "timestamp": 1782570284
     },
     {
-      "title": "SpaceCamp at 40: A wish-fulfillment fantasy brought down to earth by NASA's real-life disaster",
-      "link": "https://www.space.com/entertainment/space-movies-shows/spacecamp-at-40-a-wish-fulfillment-fantasy-brought-down-to-earth-by-nasas-real-life-disaster",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782568800
-    },
-    {
       "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
       "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
       "source": "TECHCRUNCH",
       "category": "tech",
+      "timestamp": 1782568800
+    },
+    {
+      "title": "SpaceCamp at 40: A wish-fulfillment fantasy brought down to earth by NASA's real-life disaster",
+      "link": "https://www.space.com/entertainment/space-movies-shows/spacecamp-at-40-a-wish-fulfillment-fantasy-brought-down-to-earth-by-nasas-real-life-disaster",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1782568800
     },
     {
@@ -310,17 +366,17 @@
       "timestamp": 1782562342
     },
     {
-      "title": "NASA used a drone to deliver a human kidney. Is this the future of transplant transport?",
-      "link": "https://www.space.com/technology/nasa-just-used-a-drone-to-deliver-a-human-kidney-is-this-the-future-of-transplant-transport",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782561600
-    },
-    {
       "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
       "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
       "source": "TECHCRUNCH",
       "category": "tech",
+      "timestamp": 1782561600
+    },
+    {
+      "title": "NASA used a drone to deliver a human kidney. Is this the future of transplant transport?",
+      "link": "https://www.space.com/technology/nasa-just-used-a-drone-to-deliver-a-human-kidney-is-this-the-future-of-transplant-transport",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1782561600
     },
     {
@@ -401,13 +457,6 @@
       "timestamp": 1782508205
     },
     {
-      "title": "Valve 'Would Love' a 'More Affordable' Steam Machine But Warns Changes Aren't Coming 'Any time Soon'",
-      "link": "https://www.ign.com/articles/valve-would-love-a-more-affordable-steam-machine-but-warns-changes-arent-coming-any-time-soon",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782507924
-    },
-    {
       "title": "Black hole's 'point of no escape' studied with the loudest gravitational waves ever heard",
       "link": "https://www.space.com/astronomy/black-holes/black-holes-point-of-no-escape-studied-with-the-loudest-gravitational-waves-ever-heard",
       "source": "SPACE",
@@ -478,20 +527,6 @@
       "timestamp": 1782497998
     },
     {
-      "title": "Arc System Works Evo Collection Humble Bundle Includes Guilty Gear -Strive- and More, Helps the Raiden Science Foundation",
-      "link": "https://www.ign.com/articles/arc-system-works-evo-collection-humble-bundle-includes-guilty-gear-strive-and-more-helps-the-raiden-science-foundation",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782497992
-    },
-    {
-      "title": "China plans to double the size of its Tiangong space station while the ISS nears its end",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/china-plans-to-double-the-size-of-its-tiangong-space-station-while-the-iss-nears-its-end",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782496800
-    },
-    {
       "title": "Antibiotic \"megacluster\" discovery provides new strategy to fight superbugs",
       "link": "https://arstechnica.com/health/2026/06/antibiotic-megacluster-discovery-provides-new-strategy-to-fight-superbugs/",
       "source": "ARSTECHNICA",
@@ -506,25 +541,11 @@
       "timestamp": 1782495917
     },
     {
-      "title": "PS5 Exclusive Ghost of Yotei Triggers Tourism Push in Hokkaido, Japan, With Plans for Curated Tours of Locations Featured in the Game",
-      "link": "https://www.ign.com/articles/ps5-exclusive-ghost-of-yotei-triggers-tourism-push-in-hokkaido-japan-with-plans-for-curated-tours-of-locations-featured-in-the-game",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782494611
-    },
-    {
       "title": "NBA rumors: Celtics want haul of picks in Jaylen Brown trade; Jalen Duren dissatisfied with Pistons' offer",
       "link": "https://www.cbssports.com/nba/news/nba-trade-rumors-celtics-jaylen-brown-jalen-duren-pistons/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782493399
-    },
-    {
-      "title": "Cyberpunk: Edgerunners Was a Tearjerker, But One Writer Says It Almost Had 'Even Worse Endings'",
-      "link": "https://www.ign.com/articles/cyberpunk-edgerunners-was-a-tearjerker-but-one-writer-says-it-almost-had-even-worse-endings",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782492795
     },
     {
       "title": "Why the Pistons are one of the NBA offseason's most interesting teams",
@@ -611,20 +632,6 @@
       "timestamp": 1782451742
     },
     {
-      "title": "Earth may have been seeding Venus with life for billions of years",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260625014805.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782444137
-    },
-    {
-      "title": "Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260625060222.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782435903
-    },
-    {
       "title": "Kawhi Leonard trade rumors: Would it be possible for the Spurs or Raptors to bring back the Clippers star?",
       "link": "https://www.cbssports.com/nba/news/kawhi-leonard-trade-rumors-clippers-spurs-raptors/",
       "source": "CBSSPORTS",
@@ -658,13 +665,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782402239
-    },
-    {
-      "title": "This common vitamin deficiency can mimic normal aging",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260623083116.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782399459
     },
     {
       "title": "2026-27 NBA Rookie of the Year odds: Why Kings guard Darius Acuff Jr. provides best early betting value",
