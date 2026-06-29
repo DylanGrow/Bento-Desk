@@ -1,12 +1,54 @@
 {
-  "last_updated": 1782768206,
+  "last_updated": 1782773644,
   "items": [
+    {
+      "title": "Persona Live-Action TV Show in the Works at Netflix",
+      "link": "https://www.ign.com/articles/persona-live-action-tv-show-in-the-works-at-netflix",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782771453
+    },
+    {
+      "title": "Cyberpunk: Edgerunners 2 Teaser Features Cyberpunk 2077 Locations Set to Show Up in New Season",
+      "link": "https://www.ign.com/articles/cyberpunk-edgerunners-2-teaser-features-cyberpunk-2077-locations-set-to-show-up-in-new-season",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782770945
+    },
+    {
+      "title": "'The start of a new era': Rocket Lab buying satellite-communications company Iridium for $8 billion",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/the-start-of-a-new-era-rocket-lab-buying-satellite-communications-company-iridium-for-usd8-billion",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782770400
+    },
+    {
+      "title": "Millions of exploding stars could soon reveal dark energy's secrets",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260621060315.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782770237
+    },
+    {
+      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+      "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782767383
+    },
     {
       "title": "It's been 25 years since'A.I. Artificial Intelligence', and we think this was Spielberg at the top of his sci-fi game",
       "link": "https://www.space.com/entertainment/space-movies-shows/its-been-25-years-since-a-i-artificial-intelligence-and-we-think-this-was-spielberg-at-the-top-of-his-sci-fi-game",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1782766800
+    },
+    {
+      "title": "USC scientists just unlocked an endless supply of cancer-fighting immune cells",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260620100317.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782766736
     },
     {
       "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
@@ -436,20 +478,6 @@
       "timestamp": 1782726422
     },
     {
-      "title": "Hideo Kojima and More Pay Tribute to Akihiro Miwa, the Iconic Japanese Singer and Actor Behind Wolf Goddess Moro in Princess Mononoke, Who Has Died Aged 91",
-      "link": "https://www.ign.com/articles/hideo-kojima-and-more-pay-tribute-to-akihiro-miwa-the-iconic-japanese-singer-and-actor-behind-wolf-goddess-moro-in-princess-mononoke-who-has-died-aged-91",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782722999
-    },
-    {
-      "title": "Marvel Tōkon: Fighting Souls Reveals Last 3 Playable Characters — and a Blink-and-You’ll-Miss-It Look at a PlayStation Icon",
-      "link": "https://www.ign.com/articles/marvel-tokon-fighting-souls-reveals-last-3-playable-characters-and-a-blink-and-youll-miss-it-look-at-a-playstation-icon",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782722396
-    },
-    {
       "title": "Millions take omega-3 fish oil for brain health but a new study found no benefit",
       "link": "https://www.sciencedaily.com/releases/2026/06/260622014300.htm",
       "source": "SCIENCEDAILY",
@@ -555,13 +583,6 @@
       "timestamp": 1782648000
     },
     {
-      "title": "Could future astronauts use oysters as water filters? Here's why one company thinks so",
-      "link": "https://www.space.com/technology/could-future-astronauts-use-oysters-as-water-filters-heres-why-one-company-thinks-so",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782640800
-    },
-    {
       "title": "Hawaii is turning ocean plastic and fishing nets into roads",
       "link": "https://www.sciencedaily.com/releases/2026/06/260625014830.htm",
       "source": "SCIENCEDAILY",
@@ -618,13 +639,6 @@
       "timestamp": 1782522571
     },
     {
-      "title": "South Korea plans to train entire military as \"drone warriors\"",
-      "link": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782512345
-    },
-    {
       "title": "Scientists stunned by signs of ancient life in a place no one expected",
       "link": "https://www.sciencedaily.com/releases/2026/06/260621111234.htm",
       "source": "SCIENCEDAILY",
@@ -658,20 +672,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782484087
-    },
-    {
-      "title": "A “ghost” great white shark just reignited a 160-year Mediterranean mystery",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260621052722.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782457423
-    },
-    {
-      "title": "This newly discovered ballista spider catapults ants into a deadly trap",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260623014002.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782451742
     }
   ]
 }
