@@ -1,6 +1,90 @@
 {
-  "last_updated": 1782754438,
+  "last_updated": 1782762766,
   "items": [
+    {
+      "title": "Watch out, Amazon: the Kobo eReader now has a Goodreads rival",
+      "link": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782759981
+    },
+    {
+      "title": "'Starseeker: Astroneer Expeditions' takes space exploration in a different (and friendlier) direction, and we chatted with System Era's creative director about it (interview)",
+      "link": "https://www.space.com/entertainment/space-games/starseeker-astroneer-expeditions-takes-space-exploration-in-a-different-and-friendlier-direction-and-we-chatted-with-system-eras-creative-director-about-it-interview",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782759600
+    },
+    {
+      "title": "Warriors have a plan to get LeBron James and Anthony Davis, and Draymond Green just completed Step 1",
+      "link": "https://www.cbssports.com/nba/news/warriors-plan-lebron-james-anthony-davis-draymond-green-contract/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782758852
+    },
+    {
+      "title": "Waymo and Uber quietly part ways in Phoenix",
+      "link": "https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782758712
+    },
+    {
+      "title": "Google warns EU's plans to weaken its monopoly could expose user data",
+      "link": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782757291
+    },
+    {
+      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+      "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782756626
+    },
+    {
+      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+      "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782756468
+    },
+    {
+      "title": "NASA to launch rescue mission June 30 to save Swift space telescope from burning up in Earth's atmosphere",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasa-to-launch-ambitious-mission-to-save-a-space-telescope-from-burning-up-in-earths-atmosphere",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782756000
+    },
+    {
+      "title": "Quantum computing startup says it will leapfrog everybody",
+      "link": "https://arstechnica.com/science/2026/06/quera-promises-thousands-of-error-corrected-qubits-by-2029/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782755990
+    },
+    {
+      "title": "Kalshi sues Illinois over new tax on prediction market sports bets",
+      "link": "https://arstechnica.com/tech-policy/2026/06/kalshi-sues-illinois-over-new-tax-on-prediction-market-sports-bets/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782755291
+    },
+    {
+      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+      "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782754757
+    },
+    {
+      "title": "LeBron James next team predictions: Warriors overtake Lakers in race to land four-time MVP",
+      "link": "https://www.cbssports.com/prediction/news/lebron-james-next-team-predictions-warriors-overtake-lakers-in-race-to-land-four-time-mvp/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782754662
+    },
     {
       "title": "Steam Machine Companion Cube Canceled Because Dbrand Didn't Ask Valve for Permission",
       "link": "https://www.ign.com/articles/steam-machine-companion-cube-canceled-because-dbrand-didnt-ask-valve-for-permission",
@@ -49,13 +133,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782751699
-    },
-    {
-      "title": "Warriors have a plan to get LeBron James and Anthony Davis, and Draymond Green just completed Step 1",
-      "link": "https://www.cbssports.com/nba/news/warriors-plan-lebron-james-anthony-davis-draymond-green-contract/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782751396
     },
     {
       "title": "Unionized Xbox Workers Demand Layoff Protections Ahead of Expected Cuts to Microsoft's Gaming Business",
@@ -373,13 +450,6 @@
       "timestamp": 1782674321
     },
     {
-      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-      "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782673539
-    },
-    {
       "title": "Why did this journal retract two 1940s papers by Max Planck?",
       "link": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
       "source": "ARSTECHNICA",
@@ -401,13 +471,6 @@
       "timestamp": 1782668147
     },
     {
-      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
-      "link": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782666196
-    },
-    {
       "title": "SpaceX sends 24 Starlink satellites into Earth orbit on Falcon 9 launch from California (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-40-b1088-vsfb-ocisly",
       "source": "SPACE",
@@ -415,32 +478,11 @@
       "timestamp": 1782663716
     },
     {
-      "title": "TechCrunch Mobility: All eyes on Tesla FSD",
-      "link": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782662700
-    },
-    {
-      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-      "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782658800
-    },
-    {
       "title": "'Superman Returns' at 20: Is it a sequel? Is it a reboot? Two decades on, we're still not sure",
       "link": "https://www.space.com/entertainment/space-movies-shows/superman-returns-at-20-is-it-a-sequel-is-it-a-reboot-two-decades-on-were-still-not-sure",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1782658800
-    },
-    {
-      "title": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury",
-      "link": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782655200
     },
     {
       "title": "Japanese probe set for super-close flyby on July 5: 'We're going to discover another beast to put in the zoo of asteroids'",
@@ -527,20 +569,6 @@
       "timestamp": 1782573046
     },
     {
-      "title": "SpaceCamp at 40: A wish-fulfillment fantasy brought down to earth by NASA's real-life disaster",
-      "link": "https://www.space.com/entertainment/space-movies-shows/spacecamp-at-40-a-wish-fulfillment-fantasy-brought-down-to-earth-by-nasas-real-life-disaster",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782568800
-    },
-    {
-      "title": "Blue Origin plans to fly New Glenn rocket again this year despite massive rocket explosion (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-working-around-the-clock-to-repair-damaged-launch-pad-after-new-glenn-rocket-explosion-video",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782565200
-    },
-    {
       "title": "Apple and Audi alumni have made a luxe EV based on the moon buggy",
       "link": "https://arstechnica.com/cars/2026/06/apple-and-audi-alumni-have-made-a-luxe-ev-based-on-the-moon-buggy/",
       "source": "ARSTECHNICA",
@@ -597,32 +625,11 @@
       "timestamp": 1782504295
     },
     {
-      "title": "FCC accused of hiding Chairman Carr's messages with DOGE and Musk",
-      "link": "https://arstechnica.com/tech-policy/2026/06/fcc-accused-of-hiding-chairman-carrs-messages-with-doge-and-musk/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782499864
-    },
-    {
       "title": "Butter and margarine look similar but their chemistry changes everything",
       "link": "https://www.sciencedaily.com/releases/2026/06/260618041504.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782499390
-    },
-    {
-      "title": "Netflix now requires every user profile to be tied to unique email address",
-      "link": "https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782497998
-    },
-    {
-      "title": "Antibiotic \"megacluster\" discovery provides new strategy to fight superbugs",
-      "link": "https://arstechnica.com/health/2026/06/antibiotic-megacluster-discovery-provides-new-strategy-to-fight-superbugs/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782495967
     },
     {
       "title": "From pet to pest, goldfish can wreck entire ecosystems",
@@ -644,13 +651,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782492680
-    },
-    {
-      "title": "Biggest offseason question for every East team: Will Knicks duck second apron? What's next for Celtics, Heat?",
-      "link": "https://www.cbssports.com/nba/news/nba-biggest-offseason-question-every-eastern-conference-team-knicks-celtics-heat/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782490935
     },
     {
       "title": "Researchers discover why fructose doesn't satisfy hunger like glucose",
