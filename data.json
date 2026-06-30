@@ -1,6 +1,111 @@
 {
-  "last_updated": 1782833070,
+  "last_updated": 1782841800,
   "items": [
+    {
+      "title": "How the Warriors can pull off LeBron James, Anthony Davis coup after signing Kristaps Porziņģis",
+      "link": "https://www.cbssports.com/nba/news/warriors-lebron-james-anthony-davis-coup-kristaps-porzingis/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782840526
+    },
+    {
+      "title": "LeBron James ends Lakers tenure, and Warriors move could be next in free agency",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-lakers-warriors-free-agency/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782840283
+    },
+    {
+      "title": "Netflix Using AI to Resurrect Gene Wilder's Voice for Willy Wonka Reality Series The Golden Ticket",
+      "link": "https://www.ign.com/articles/netflix-using-ai-to-resurrect-gene-wilders-voice-for-willy-wonka-reality-series-the-golden-ticket",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782839963
+    },
+    {
+      "title": "Microsoft Reportedly Considering Canceling Marvel's Blade and Shutting Arkane Down",
+      "link": "https://www.ign.com/articles/microsoft-reportedly-considering-canceling-marvels-blade-and-shutting-arkane-down",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782839421
+    },
+    {
+      "title": "Threads adds new features to Live Chats as it expands access",
+      "link": "https://techcrunch.com/2026/06/30/threads-adds-new-features-to-live-chats-as-it-expands-access/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782838800
+    },
+    {
+      "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+      "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782838800
+    },
+    {
+      "title": "'Star Fox' is an eye-catching reimagining of a timeless sci-fi classic, but we've been here before",
+      "link": "https://www.space.com/entertainment/space-games/star-fox-is-an-eye-catching-reimagining-of-a-timeless-sci-fi-classic-but-weve-been-here-before",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782838800
+    },
+    {
+      "title": "With LeBron James set to leave the Lakers, what's next for Bronny?",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-rumors-lakers-bronny/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782838684
+    },
+    {
+      "title": "Love and Deepspace Cancels New Wolfy Love Interest Valko",
+      "link": "https://www.ign.com/articles/love-and-deepspace-cancels-new-wolfy-love-interest-valko",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782838227
+    },
+    {
+      "title": "ESA Claims Private Minecraft Servers Are 'Illegal' and 'Piracy' in Stop Killing Games Hearing",
+      "link": "https://www.ign.com/articles/esa-claims-private-minecraft-servers-are-illegal-and-piracy-in-stop-killing-games-hearing",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782837122
+    },
+    {
+      "title": "LeBron James next team predictions: Warriors heavily expected to land four-time MVP after Lakers exit",
+      "link": "https://www.cbssports.com/prediction/news/lebron-james-next-team-predictions-warriors-heavily-expected-to-land-four-time-mvp-after-lakers-exit/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782836161
+    },
+    {
+      "title": "Blue Origin still doesn’t know why its New Glenn rocket blew up last month",
+      "link": "https://techcrunch.com/2026/06/30/blue-origin-still-doesnt-know-why-its-new-glenn-rocket-blew-up-last-month/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782835797
+    },
+    {
+      "title": "The Elder Scrolls IV: Oblivion Remastered Nintendo Switch 2 Physical Edition Includes a Proper Cartridge, Bethesda Confirms Alongside Release Date and Technical Specs",
+      "link": "https://www.ign.com/articles/the-elder-scrolls-iv-oblivion-remastered-nintendo-switch-2-physical-edition-includes-a-proper-cartridge-bethesda-confirms-alongside-release-date-and-technical-specs",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782835405
+    },
+    {
+      "title": "Rubin Observatory begins filming the 'greatest cosmic movie ever' beginning a new era of astronomy",
+      "link": "https://www.space.com/astronomy/rubin-observatory-begins-filming-the-greatest-cosmic-movie-ever-beginning-a-new-era-of-astronomy",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782835200
+    },
+    {
+      "title": "Tesla starts testing Cybercab without pedals or a steering wheel in Austin",
+      "link": "https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782833570
+    },
     {
       "title": "X now offers an MCP server to make its platform easier for AI tools to use",
       "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
@@ -9,18 +114,18 @@
       "timestamp": 1782832122
     },
     {
-      "title": "Arcturus could halve the grid’s electrical losses using its nano-infused copper",
+      "title": "Lionel Messi Swings Alongside Tom Holland in Latest Spider-Man: Brand New Day Trailer for Some Reason",
+      "link": "https://www.ign.com/articles/lionel-messi-swings-alongside-tom-holland-in-latest-spider-man-brand-new-day-trailer-for-some-reason",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782831917
+    },
+    {
+      "title": "Arcturus could halve the grid’s electrical losses using its nano-infused metals",
       "link": "https://techcrunch.com/2026/06/30/arcturus-could-halve-the-grids-electrical-losses-using-its-nano-infused-copper/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1782831702
-    },
-    {
-      "title": "America 250: How has telescope technology evolved since the dawn of the U.S.?",
-      "link": "https://www.space.com/technology/america-250-how-has-telescope-technology-evolved-since-the-dawn-of-the-u-s",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782831600
     },
     {
       "title": "Podcasting platform Riverside enters the newsletter publishing game",
@@ -34,6 +139,20 @@
       "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
       "source": "TECHCRUNCH",
       "category": "tech",
+      "timestamp": 1782831600
+    },
+    {
+      "title": "America 250: How has telescope technology evolved since the dawn of the U.S.?",
+      "link": "https://www.space.com/technology/america-250-how-has-telescope-technology-evolved-since-the-dawn-of-the-u-s",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782831600
+    },
+    {
+      "title": "Bananya and Crunchyroll Are Celebrating the Franchise's 10th Anniversary With a New Mobile Game and Anime Special - Exclusive",
+      "link": "https://www.ign.com/articles/bananya-and-crunchyroll-are-celebrating-the-franchises-10th-anniversary-with-a-new-mobile-game-and-anime-special-exclusive",
+      "source": "IGN",
+      "category": "gaming",
       "timestamp": 1782831600
     },
     {
@@ -51,13 +170,6 @@
       "timestamp": 1782828240
     },
     {
-      "title": "Europe's deadly heat wave seen from space | Space photo of the day for June 30, 2026",
-      "link": "https://www.space.com/space-exploration/satellites/europes-deadly-heat-wave-seen-from-space-space-photo-of-the-day-for-june-30-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782828000
-    },
-    {
       "title": "Your brand deserves its own stage — Side Events at TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/06/30/your-brand-deserves-its-own-stage-side-events-at-techcrunch-disrupt-2026/",
       "source": "TECHCRUNCH",
@@ -69,6 +181,13 @@
       "link": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
       "source": "TECHCRUNCH",
       "category": "tech",
+      "timestamp": 1782828000
+    },
+    {
+      "title": "Europe's deadly heat wave seen from space | Space photo of the day for June 30, 2026",
+      "link": "https://www.space.com/space-exploration/satellites/europes-deadly-heat-wave-seen-from-space-space-photo-of-the-day-for-june-30-2026",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1782828000
     },
     {
@@ -177,13 +296,6 @@
       "timestamp": 1782807366
     },
     {
-      "title": "Tekken 8 Roger Jr. Trailer Inspired by Viral, Kangaroo-Punching Clip Was Prompted by Former Tekken Director Katsuhiro Harada",
-      "link": "https://www.ign.com/articles/tekken-8-roger-jr-trailer-inspired-by-viral-kangaroo-punching-clip-was-prompted-by-former-tekken-director-katsuhiro-harada",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782806951
-    },
-    {
       "title": "Scientists may have finally found how Alzheimer's spreads through the brain",
       "link": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm",
       "source": "SCIENCEDAILY",
@@ -247,20 +359,6 @@
       "timestamp": 1782771851
     },
     {
-      "title": "Persona Live-Action TV Show in the Works at Netflix",
-      "link": "https://www.ign.com/articles/persona-live-action-tv-show-in-the-works-at-netflix",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782771453
-    },
-    {
-      "title": "Cyberpunk: Edgerunners 2 Teaser Features Cyberpunk 2077 Locations Set to Show Up in New Season",
-      "link": "https://www.ign.com/articles/cyberpunk-edgerunners-2-teaser-features-cyberpunk-2077-locations-set-to-show-up-in-new-season",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782770945
-    },
-    {
       "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
       "link": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
       "source": "ARSTECHNICA",
@@ -310,13 +408,6 @@
       "timestamp": 1782766550
     },
     {
-      "title": "'We're Done Paying for Executives' Failures' — Unionized Xbox Developers Hold Press Conference to Make Their Point as Microsoft Reportedly Readies Massive Layoffs",
-      "link": "https://www.ign.com/articles/were-done-paying-for-executives-failures-unionized-xbox-developers-hold-press-conference-to-make-their-point-as-microsoft-reportedly-readies-massive-layoffs",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782766184
-    },
-    {
       "title": "Gemini’s personalized AI image generation is now free for US users",
       "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
       "source": "TECHCRUNCH",
@@ -343,13 +434,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1782763200
-    },
-    {
-      "title": "Box Office Disaster Supergirl Could Reportedly Lose Warner Bros. $100 Million During Its Theatrical Run",
-      "link": "https://www.ign.com/articles/box-office-disaster-supergirl-could-reportedly-lose-warner-bros-100-million-during-its-theatrical-run",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782762597
     },
     {
       "title": "Sony erases digital content from libraries; we're reminded we don’t own what we buy",
@@ -387,32 +471,11 @@
       "timestamp": 1782758852
     },
     {
-      "title": "Waymo and Uber quietly part ways in Phoenix",
-      "link": "https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782758712
-    },
-    {
       "title": "Google warns EU's plans to weaken its monopoly could expose user data",
       "link": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1782757291
-    },
-    {
-      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-      "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782756626
-    },
-    {
-      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
-      "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782756468
     },
     {
       "title": "NASA to launch rescue mission July 1 to save Swift space telescope from burning up in Earth's atmosphere",
@@ -434,41 +497,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1782755291
-    },
-    {
-      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
-      "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782754757
-    },
-    {
-      "title": "LeBron James next team predictions: Warriors overtake Lakers in race to land four-time MVP",
-      "link": "https://www.cbssports.com/prediction/news/lebron-james-next-team-predictions-warriors-overtake-lakers-in-race-to-land-four-time-mvp/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782754662
-    },
-    {
-      "title": "Steam Machine Companion Cube Canceled Because Dbrand Didn't Ask Valve for Permission",
-      "link": "https://www.ign.com/articles/steam-machine-companion-cube-canceled-because-dbrand-didnt-ask-valve-for-permission",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782753140
-    },
-    {
-      "title": "If LeBron James leaves the Lakers, what's next for Bronny?",
-      "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-rumors-lakers-bronny/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782752793
-    },
-    {
-      "title": "'60fps Feels Like a Bridge Too far' — Tech Experts Cast Doubt on Those GTA 6 Quality and Performance Mode 'Leaks'",
-      "link": "https://www.ign.com/articles/60fps-feels-like-a-bridge-too-far-tech-experts-cast-doubt-on-those-gta-6-quality-and-performance-mode-leaks",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782752790
     },
     {
       "title": "America 250: Here's how to find a star whose light began its journey toward Earth in 1776",
@@ -562,20 +590,6 @@
       "timestamp": 1782738000
     },
     {
-      "title": "The James Webb Space Telescope peered into one of the universe's oldest galaxy clusters, and scientists can't explain what they saw",
-      "link": "https://www.space.com/astronomy/galaxies/the-james-webb-space-telescope-peered-into-one-of-the-universes-oldest-galaxy-clusters-and-scientists-cant-explain-what-they-saw",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782734400
-    },
-    {
-      "title": "The Strawberry Moon rises on June 29. Here's what to expect from June's full moon",
-      "link": "https://www.space.com/stargazing/the-strawberry-moon-rises-june-29-here-is-what-to-expect-from-june-full-moon",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782727200
-    },
-    {
       "title": "Millions take omega-3 fish oil for brain health but a new study found no benefit",
       "link": "https://www.sciencedaily.com/releases/2026/06/260622014300.htm",
       "source": "SCIENCEDAILY",
@@ -618,13 +632,6 @@
       "timestamp": 1782690845
     },
     {
-      "title": "Miles Bridges trade grades: Suns burn another potential rebuild year, Hornets add to draft pick pile",
-      "link": "https://www.cbssports.com/nba/news/miles-bridges-trade-grades-suns-hornets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782674321
-    },
-    {
       "title": "James Webb uncovers exotic salt clouds on a mysterious pink world",
       "link": "https://www.sciencedaily.com/releases/2026/06/260623014009.htm",
       "source": "SCIENCEDAILY",
@@ -651,13 +658,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782617812
-    },
-    {
-      "title": "Why Nuggets should be concerned if Nikola Jokić does not sign contract extension this offseason",
-      "link": "https://www.cbssports.com/nba/news/nikola-jokic-contract-extension-nuggets-nba-rumors/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782601537
     },
     {
       "title": "Scientists discover what triggers belly fat as we age",
