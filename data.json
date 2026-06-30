@@ -1,6 +1,104 @@
 {
-  "last_updated": 1782821175,
+  "last_updated": 1782833070,
   "items": [
+    {
+      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+      "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782832122
+    },
+    {
+      "title": "Arcturus could halve the grid’s electrical losses using its nano-infused copper",
+      "link": "https://techcrunch.com/2026/06/30/arcturus-could-halve-the-grids-electrical-losses-using-its-nano-infused-copper/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782831702
+    },
+    {
+      "title": "America 250: How has telescope technology evolved since the dawn of the U.S.?",
+      "link": "https://www.space.com/technology/america-250-how-has-telescope-technology-evolved-since-the-dawn-of-the-u-s",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782831600
+    },
+    {
+      "title": "Podcasting platform Riverside enters the newsletter publishing game",
+      "link": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782831600
+    },
+    {
+      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+      "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782831600
+    },
+    {
+      "title": "An Updated Nintendo Switch 2 Screen Has Reportedly Surfaced Online as Fans Hope for Ghosting Issue Fix — But This Isn't the OLED Upgrade We've Been Waiting For",
+      "link": "https://www.ign.com/articles/an-updated-nintendo-switch-2-screen-has-reportedly-surfaced-online-as-fans-hope-for-ghosting-issue-fix-but-this-isnt-the-oled-upgrade-weve-been-waiting-for",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782829273
+    },
+    {
+      "title": "Quantic Dream Insists Its Star Wars Eclipse Team Has 'All the Necessary Resources to Complete Its Mission,' Despite Striking Staff Claiming Risk of Cancelation",
+      "link": "https://www.ign.com/articles/quantic-dream-insists-its-star-wars-eclipse-team-has-all-the-necessary-resources-to-complete-its-mission-despite-striking-staff-claiming-risk-of-cancelation",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782828240
+    },
+    {
+      "title": "Europe's deadly heat wave seen from space | Space photo of the day for June 30, 2026",
+      "link": "https://www.space.com/space-exploration/satellites/europes-deadly-heat-wave-seen-from-space-space-photo-of-the-day-for-june-30-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782828000
+    },
+    {
+      "title": "Your brand deserves its own stage — Side Events at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/06/30/your-brand-deserves-its-own-stage-side-events-at-techcrunch-disrupt-2026/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782828000
+    },
+    {
+      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+      "link": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782828000
+    },
+    {
+      "title": "Florida bans local governments from pursuing net-zero emissions goals",
+      "link": "https://arstechnica.com/science/2026/06/florida-bans-local-governments-from-pursuing-net-zero-emissions-goals/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782826816
+    },
+    {
+      "title": "Ars Live, today: The latest on the aftermath of the New Glenn catastrophe",
+      "link": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782825359
+    },
+    {
+      "title": "LeBron James biggest name to watch at start of NBA free agency; Paraguay stun Germany in World Cup",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-biggest-name-to-watch-at-start-of-nba-free-agency-paraguay-stun-germany-in-world-cup/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782824446
+    },
+    {
+      "title": "'Titan is actually a very reasonable destination for humans': Scientists start mapping out crewed mission to huge Saturn moon",
+      "link": "https://www.space.com/astronomy/saturn/titan-is-actually-a-very-reasonable-destination-for-humans-scientists-start-mapping-out-crewed-mission-to-huge-saturn-moon",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782824400
+    },
     {
       "title": "NBA landing spot predictions: Where will LeBron James, Kawhi Leonard and others end up? Experts make picks",
       "link": "https://www.cbssports.com/nba/news/nba-landing-spot-predictions-lebron-james-kawhi-leonard/",
@@ -14,6 +112,13 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1782820800
+    },
+    {
+      "title": "'Like Frodo Going Into Mordor': Zach Cregger's Resident Evil 'Feels Like 1 Gigantic Sequence' Following an 'Everyman' Character Burdened by a Sacred Mission",
+      "link": "https://www.ign.com/articles/like-frodo-going-into-mordor-zach-creggers-resident-evil-feels-like-1-gigantic-sequence-following-an-everyman-character-burdened-by-a-sacred-mission",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782818991
     },
     {
       "title": "Obsession Just Landed on Digital, Now Available to Preorder on Blu-ray",
@@ -121,7 +226,7 @@
       "timestamp": 1782786853
     },
     {
-      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
       "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -366,25 +471,11 @@
       "timestamp": 1782752790
     },
     {
-      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
-      "link": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782752630
-    },
-    {
-      "title": "This star's light has been crossing space since the American Revolution. Here's how to find it",
-      "link": "https://www.space.com/stargazing/this-stars-light-has-been-crossing-space-since-the-american-revolution-heres-how-to-find-it",
+      "title": "America 250: Here's how to find a star whose light began its journey toward Earth in 1776",
+      "link": "https://www.space.com/stargazing/america-250-heres-how-to-find-a-star-whose-light-began-its-journey-toward-earth-in-1776",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1782752400
-    },
-    {
-      "title": "Trump administration threatens 92 GW of new electricity supply with red tape",
-      "link": "https://techcrunch.com/2026/06/29/trump-administration-threatens-92-gw-of-new-electricity-supply-with-red-tape/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782752310
     },
     {
       "title": "Malik Beasley indicted on illegal sports gambling charges along with fellow ex-NBA player Ed Davis",
@@ -394,53 +485,11 @@
       "timestamp": 1782751699
     },
     {
-      "title": "Unionized Xbox Workers Demand Layoff Protections Ahead of Expected Cuts to Microsoft's Gaming Business",
-      "link": "https://www.ign.com/articles/unionized-xbox-workers-demand-layoff-protections-ahead-of-expected-cuts-to-microsofts-gaming-business",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782751075
-    },
-    {
-      "title": "TIDAL cracks down on AI music by cutting off monetization",
-      "link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782750544
-    },
-    {
-      "title": "In major privacy win, Supreme Court rules geofence warrants are protected by privacy rights",
-      "link": "https://techcrunch.com/2026/06/29/in-major-privacy-win-supreme-court-rules-geofence-warrants-are-protected-by-privacy-rights/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782749123
-    },
-    {
       "title": "F1 in Austria: Starts off exciting, then goes the opposite way",
       "link": "https://arstechnica.com/cars/2026/06/f1-in-austria-starts-off-exciting-then-does-the-opposite/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1782749092
-    },
-    {
-      "title": "Roblox Reveals 6 New Exclusive 18+ Games, Including an Extraction Shooter From the Co-Founder of Bungie",
-      "link": "https://www.ign.com/articles/roblox-reveals-6-new-exclusive-18-games-including-an-extraction-shooter-from-the-co-founder-of-bungie",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782748895
-    },
-    {
-      "title": "WhatsApp now lets you reserve usernames",
-      "link": "https://techcrunch.com/2026/06/29/whatsapp-now-lets-you-reserve-usernames/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782748800
-    },
-    {
-      "title": "Extended Cut of Backrooms Hits Theaters Soon With Additional 15 Minutes of 'Theatrically Exclusive' Footage After the Credits",
-      "link": "https://www.ign.com/articles/extended-cut-of-backrooms-hits-theaters-soon-with-additional-15-minutes-of-theatrically-exclusive-footage-after-the-credits",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782747936
     },
     {
       "title": "Wildwood featurette lifts the veil on building its stop-motion world",
@@ -462,13 +511,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1782746500
-    },
-    {
-      "title": "Rocket Lab continues buying spree by acquiring satellite company Iridium",
-      "link": "https://techcrunch.com/2026/06/29/rocket-lab-continues-buying-spree-by-acquiring-satellite-company-iridium/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782745327
     },
     {
       "title": "Light pollution may be erasing millions of dollars in value at US dark-sky parks",
@@ -513,13 +555,6 @@
       "timestamp": 1782739541
     },
     {
-      "title": "2026 NBA Draft grades: Report card for all 30 teams",
-      "link": "https://www.cbssports.com/nba/news/nba-draft-2026-team-grades/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782739424
-    },
-    {
       "title": "How NASA's 'America 250' celebrations are reaching from the sky to the moon",
       "link": "https://www.space.com/space-exploration/how-nasas-america-250-celebrations-are-reaching-from-the-sky-to-the-moon",
       "source": "SPACE",
@@ -534,14 +569,7 @@
       "timestamp": 1782734400
     },
     {
-      "title": "NASA's X-59 \"frankenjet\" tests supersonic flight without the sonic boom",
-      "link": "https://arstechnica.com/gadgets/2026/06/nasas-x-59-frankenjet-tests-supersonic-flight-without-the-sonic-boom/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782729036
-    },
-    {
-      "title": "The Strawberry Moon rises tonight. Here's what to expect from June's full moon",
+      "title": "The Strawberry Moon rises on June 29. Here's what to expect from June's full moon",
       "link": "https://www.space.com/stargazing/the-strawberry-moon-rises-june-29-here-is-what-to-expect-from-june-full-moon",
       "source": "SPACE",
       "category": "space",
@@ -597,13 +625,6 @@
       "timestamp": 1782674321
     },
     {
-      "title": "Why did this journal retract two 1940s papers by Max Planck?",
-      "link": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782672561
-    },
-    {
       "title": "James Webb uncovers exotic salt clouds on a mysterious pink world",
       "link": "https://www.sciencedaily.com/releases/2026/06/260623014009.htm",
       "source": "SCIENCEDAILY",
@@ -616,27 +637,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782668147
-    },
-    {
-      "title": "SpaceX sends 24 Starlink satellites into Earth orbit on Falcon 9 launch from California (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-40-b1088-vsfb-ocisly",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782663716
-    },
-    {
-      "title": "'Superman Returns' at 20: Is it a sequel? Is it a reboot? Two decades on, we're still not sure",
-      "link": "https://www.space.com/entertainment/space-movies-shows/superman-returns-at-20-is-it-a-sequel-is-it-a-reboot-two-decades-on-were-still-not-sure",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782658800
-    },
-    {
-      "title": "Japanese probe set for super-close flyby on July 5: 'We're going to discover another beast to put in the zoo of asteroids'",
-      "link": "https://www.space.com/astronomy/asteroids/japanese-probe-set-for-super-close-flyby-on-july-5-were-going-to-discover-another-beast-to-put-in-the-zoo-of-asteroids",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782655200
     },
     {
       "title": "Hawaii is turning ocean plastic and fishing nets into roads",
