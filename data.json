@@ -1,6 +1,104 @@
 {
-  "last_updated": 1782849057,
+  "last_updated": 1782854755,
   "items": [
+    {
+      "title": "Watch Rocket Lab launch Japanese Earth-observing radar satellite from New Zealand tonight",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-iqps-radar-satellite-grain-goddess-provides",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782853290
+    },
+    {
+      "title": "Blue Origin starts rebuilding launch pad damaged by New Glenn rocket explosion — and it will look very different when it's done",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-starts-rebuilding-launch-pad-damaged-by-new-glenn-rocket-explosion-and-it-will-look-very-different-when-its-done",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782853200
+    },
+    {
+      "title": "LeBron James next team: Which landing spot would be the most entertaining? Experts make their picks",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-next-team-landing-spots-predictions/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782852863
+    },
+    {
+      "title": "NASA may send a backup, nuclear-powered Mars rover to the Moon",
+      "link": "https://arstechnica.com/space/2026/06/nasa-may-send-a-backup-nuclear-powered-mars-rover-to-the-moon/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782852614
+    },
+    {
+      "title": "Google kills Tenor GIF API, forcing changes at X, Discord, and more",
+      "link": "https://arstechnica.com/gadgets/2026/06/google-kills-tenor-gif-api-forcing-changes-at-x-discord-and-more/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782851931
+    },
+    {
+      "title": "Kawhi Leonard traded to Raptors: Toronto brings back 2019 Finals MVP from Clippers, per report",
+      "link": "https://www.cbssports.com/nba/news/kawhi-leonard-raptors-clippers-trade-grades/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782851705
+    },
+    {
+      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+      "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782851628
+    },
+    {
+      "title": "‘Just in time for Canada Day’: Spacewalking astronauts repair space station’s huge Canadarm2",
+      "link": "https://www.space.com/space-exploration/international-space-station/just-in-time-for-canada-day-spacewalking-astronauts-repair-space-stations-huge-canadarm2",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782851400
+    },
+    {
+      "title": "LeBron James landing spots: Four teams that make sense as The King leaves the Lakers",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-landing-spots-warriors-cavaliers/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782851282
+    },
+    {
+      "title": "How much can your NBA team pay LeBron James next season? Complete cap salary guide with The King on the move",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-salary-cap/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782851130
+    },
+    {
+      "title": "Apple takes Epic fight over app store fees to the Supreme Court",
+      "link": "https://arstechnica.com/tech-policy/2026/06/apple-takes-epic-fight-over-app-store-fees-to-the-supreme-court/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782850829
+    },
+    {
+      "title": "Hyperkin's Drakong Goes Super-Cheap With a New Pro-Style Xbox Controller",
+      "link": "https://www.ign.com/articles/hyperkins-drakong-goes-super-cheap-with-a-new-pro-style-xbox-controller",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782850139
+    },
+    {
+      "title": "New attack provides one more reason why AI browsers are a bad idea",
+      "link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782849794
+    },
+    {
+      "title": "What's next for Lakers after LeBron James? 'A-list center' is top priority, but landing one won't be simple",
+      "link": "https://www.cbssports.com/nba/news/lakers-next-moves-lebron-james-luka-doncic-nba-rumors-free-agency/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782849474
+    },
     {
       "title": "Realta Fusion generates electricity directly from a fusion reaction, an apparent first",
       "link": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/",
@@ -42,13 +140,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1782844757
-    },
-    {
-      "title": "LeBron James landing spots: Four teams that make sense as The King leaves the Lakers",
-      "link": "https://www.cbssports.com/nba/news/lebron-james-landing-spots-warriors-cavaliers/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782844627
     },
     {
       "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
@@ -296,13 +387,6 @@
       "timestamp": 1782828000
     },
     {
-      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
-      "link": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782828000
-    },
-    {
       "title": "Europe's deadly heat wave seen from space | Space photo of the day for June 30, 2026",
       "link": "https://www.space.com/space-exploration/satellites/europes-deadly-heat-wave-seen-from-space-space-photo-of-the-day-for-june-30-2026",
       "source": "SPACE",
@@ -364,13 +448,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1782818161
-    },
-    {
-      "title": "'I Don't Want to See Any of Them': James Bond Ex-Casting Director Who Picked Timothy Dalton, Pierce Brosnan and Daniel Craig Shoots Down Current 007 Frontrunners",
-      "link": "https://www.ign.com/articles/i-dont-want-to-see-any-of-them-james-bond-ex-casting-director-who-picked-timothy-dalton-pierce-brosnan-and-daniel-craig-shoots-down-current-007-frontrunners",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782816956
     },
     {
       "title": "June's Strawberry Moon serves up a low-hanging treat for skywatchers worldwide. Here are our favorite photos",
@@ -499,13 +576,6 @@
       "timestamp": 1782760257
     },
     {
-      "title": "Ozone loss was a thing even before CFCs were widely used",
-      "link": "https://arstechnica.com/science/2026/06/ozone-damage-could-have-been-detected-decades-earlier/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782759623
-    },
-    {
       "title": "'I'm still a Trekkie at heart': 'Starseeker: Astroneer Expeditions' takes space exploration games in a friendlier direction (interview)",
       "link": "https://www.space.com/entertainment/space-games/starseeker-astroneer-expeditions-takes-space-exploration-in-a-different-and-friendlier-direction-and-we-chatted-with-system-eras-creative-director-about-it-interview",
       "source": "SPACE",
@@ -520,13 +590,6 @@
       "timestamp": 1782758852
     },
     {
-      "title": "Google warns EU's plans to weaken its monopoly could expose user data",
-      "link": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782757291
-    },
-    {
       "title": "NASA to launch rescue mission July 1 to save Swift space telescope from burning up in Earth's atmosphere",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/nasa-to-launch-ambitious-mission-to-save-a-space-telescope-from-burning-up-in-earths-atmosphere",
       "source": "SPACE",
@@ -534,67 +597,11 @@
       "timestamp": 1782756000
     },
     {
-      "title": "Quantum computing startup says it will leapfrog everybody",
-      "link": "https://arstechnica.com/science/2026/06/quera-promises-thousands-of-error-corrected-qubits-by-2029/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782755990
-    },
-    {
-      "title": "Kalshi sues Illinois over new tax on prediction market sports bets",
-      "link": "https://arstechnica.com/tech-policy/2026/06/kalshi-sues-illinois-over-new-tax-on-prediction-market-sports-bets/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782755291
-    },
-    {
-      "title": "America 250: Here's how to find a star whose light began its journey toward Earth in 1776",
-      "link": "https://www.space.com/stargazing/america-250-heres-how-to-find-a-star-whose-light-began-its-journey-toward-earth-in-1776",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782752400
-    },
-    {
       "title": "Malik Beasley indicted on illegal sports gambling charges along with fellow ex-NBA player Ed Davis",
       "link": "https://www.cbssports.com/nba/news/malik-beasley-illegal-sports-gambling-indictment-ed-davis/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782751699
-    },
-    {
-      "title": "Light pollution may be erasing millions of dollars in value at US dark-sky parks",
-      "link": "https://www.space.com/astronomy/earth/light-pollution-may-be-erasing-millions-of-dollars-in-value-at-us-dark-sky-parks",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782745200
-    },
-    {
-      "title": "2027 NBA Mock Draft: Tyran Stokes, Jordan Smith Jr. lead an early look at top 30 picks for next year's draft",
-      "link": "https://www.cbssports.com/nba/news/2027-nba-mock-draft-tyran-stokes-jordan-smith/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782743691
-    },
-    {
-      "title": "Miles Bridges trade grades: Hornets, Suns hit makeover mode; next moves for Mets, Angels after key changes",
-      "link": "https://www.cbssports.com/nba/news/miles-bridges-trade-grades-hornets-suns-hit-makeover-mode-next-moves-for-mets-angels-after-key-changes/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782743480
-    },
-    {
-      "title": "Mars orbiter watches Perseverance rover cross the marathon finish line | Space photo of the day for June 29, 2026",
-      "link": "https://www.space.com/space-exploration/mars-rovers/mars-orbiter-watches-perseverance-rover-cross-the-marathon-finish-line-space-photo-of-the-day-for-june-29-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782741600
-    },
-    {
-      "title": "An incomplete history of teams trying -- and failing -- to acquire LeBron James",
-      "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-trade-history/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782740752
     },
     {
       "title": "Millions take omega-3 fish oil for brain health but a new study found no benefit",
@@ -609,13 +616,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782710991
-    },
-    {
-      "title": "NBA rumors: Warriors interested in signing LeBron James, trading for Anthony Davis to join Stephen Curry",
-      "link": "https://www.cbssports.com/nba/news/nba-rumors-warriors-lebron-james-anthony-davis-stephen-curry/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782703466
     },
     {
       "title": "Brain activity under anesthesia challenges what we know about consciousness",
