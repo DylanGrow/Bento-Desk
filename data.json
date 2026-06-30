@@ -1,19 +1,117 @@
 {
-  "last_updated": 1782841800,
+  "last_updated": 1782849057,
   "items": [
+    {
+      "title": "Realta Fusion generates electricity directly from a fusion reaction, an apparent first",
+      "link": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782846763
+    },
+    {
+      "title": "Card Shop Suspends Yu-Gi-Oh Tournaments Over Smelly Players",
+      "link": "https://www.ign.com/articles/card-shop-suspends-yu-gi-oh-tournaments-over-smelly-players",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782846708
+    },
+    {
+      "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+      "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782846158
+    },
     {
       "title": "How the Warriors can pull off LeBron James, Anthony Davis coup after signing Kristaps Porziņģis",
       "link": "https://www.cbssports.com/nba/news/warriors-lebron-james-anthony-davis-coup-kristaps-porzingis/",
       "source": "CBSSPORTS",
       "category": "nba",
-      "timestamp": 1782840526
+      "timestamp": 1782845353
     },
     {
       "title": "LeBron James ends Lakers tenure, and Warriors move could be next in free agency",
       "link": "https://www.cbssports.com/nba/news/lebron-james-lakers-warriors-free-agency/",
       "source": "CBSSPORTS",
       "category": "nba",
-      "timestamp": 1782840283
+      "timestamp": 1782845308
+    },
+    {
+      "title": "Hideo Kojima's Xbox Horror Game, OD, Is Safe From Microsoft's 'Reset' Plan, but Other Games Are on the Chopping Block",
+      "link": "https://www.ign.com/articles/hideo-kojimas-xbox-horror-game-od-is-safe-from-microsofts-reset-plan-but-other-games-are-on-the-chopping-block",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782844757
+    },
+    {
+      "title": "LeBron James landing spots: Four teams that make sense as The King leaves the Lakers",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-landing-spots-warriors-cavaliers/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782844627
+    },
+    {
+      "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
+      "link": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782844570
+    },
+    {
+      "title": "Clicks shows off its BlackBerry-inspired phone in a new hands-on video",
+      "link": "https://techcrunch.com/2026/06/30/clicks-shows-off-its-blackberry-inspired-phone-in-a-new-hands-on-video/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782844462
+    },
+    {
+      "title": "RFK Jr. stacks FDA panel with peptide peddlers as FDA scientists oppose access",
+      "link": "https://arstechnica.com/health/2026/06/rfk-jr-stacks-fda-panel-with-peptide-peddlers-as-fda-scientists-oppose-access/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782843910
+    },
+    {
+      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+      "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782843182
+    },
+    {
+      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+      "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782842400
+    },
+    {
+      "title": "Mars may have once been filled with seas of magma that made the Red Planet habitable",
+      "link": "https://www.space.com/astronomy/mars/mars-may-have-once-been-filled-with-seas-of-magma-that-made-the-red-planet-habitable",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782842400
+    },
+    {
+      "title": "GTA 6 Developers Ask Rockstar for Union Recognition — and They're Prepared to Go to the UK Government if Necessary",
+      "link": "https://www.ign.com/articles/gta-6-developers-ask-rockstar-for-union-recognition-and-theyre-prepared-to-go-to-the-uk-government-if-necessary",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782842294
+    },
+    {
+      "title": "Acti puts AI agents directly into your smartphone keyboard",
+      "link": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782841966
+    },
+    {
+      "title": "007 First Light, Hitman Developer IO Interactive Announces Layoffs After 'Relationship With an External Partner' on Fantasy Project Ends",
+      "link": "https://www.ign.com/articles/007-first-light-hitman-developer-io-interactive-announces-layoffs-after-relationship-with-an-external-partner-on-fantasy-project-ends",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782841860
     },
     {
       "title": "Netflix Using AI to Resurrect Gene Wilder's Voice for Willy Wonka Reality Series The Golden Ticket",
@@ -51,6 +149,13 @@
       "timestamp": 1782838800
     },
     {
+      "title": "Trump's plan to redesign every .gov website leads to AI-designed horrors",
+      "link": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782838742
+    },
+    {
       "title": "With LeBron James set to leave the Lakers, what's next for Bronny?",
       "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-rumors-lakers-bronny/",
       "source": "CBSSPORTS",
@@ -86,6 +191,13 @@
       "timestamp": 1782835797
     },
     {
+      "title": "The US going 100% EV by 2040 would save more than 100k lives, study says",
+      "link": "https://arstechnica.com/cars/2026/06/the-us-going-100-ev-by-2040-would-save-more-than-100k-lives-study-says/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782835424
+    },
+    {
       "title": "The Elder Scrolls IV: Oblivion Remastered Nintendo Switch 2 Physical Edition Includes a Proper Cartridge, Bethesda Confirms Alongside Release Date and Technical Specs",
       "link": "https://www.ign.com/articles/the-elder-scrolls-iv-oblivion-remastered-nintendo-switch-2-physical-edition-includes-a-proper-cartridge-bethesda-confirms-alongside-release-date-and-technical-specs",
       "source": "IGN",
@@ -98,6 +210,13 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1782835200
+    },
+    {
+      "title": "Trump asked Musk for SpaceX stock to seed US kids’ savings accounts, report says",
+      "link": "https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782833888
     },
     {
       "title": "Tesla starts testing Cybercab without pedals or a steering wheel in Austin",
@@ -163,7 +282,7 @@
       "timestamp": 1782829273
     },
     {
-      "title": "Quantic Dream Insists Its Star Wars Eclipse Team Has 'All the Necessary Resources to Complete Its Mission,' Despite Striking Staff Claiming Risk of Cancelation",
+      "title": "Quantic Dream Insists Its Star Wars Eclipse Team Has 'All the Necessary Resources to Complete Its Mission,' Despite Striking Staff Claiming Risk of Cancellation",
       "link": "https://www.ign.com/articles/quantic-dream-insists-its-star-wars-eclipse-team-has-all-the-necessary-resources-to-complete-its-mission-despite-striking-staff-claiming-risk-of-cancelation",
       "source": "IGN",
       "category": "gaming",
@@ -254,46 +373,11 @@
       "timestamp": 1782816956
     },
     {
-      "title": "The Co-Lead Designer of Baldur's Gate 2 Turned Baldur's Gate 4 Down and I Don't Blame Him — Baldur's Gate 3 Is Pretty Much Impossible to Follow",
-      "link": "https://www.ign.com/articles/the-co-lead-designer-of-baldurs-gate-2-turned-baldurs-gate-4-down-and-i-dont-blame-him-baldurs-gate-3-is-pretty-much-impossible-to-follow",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782815491
-    },
-    {
       "title": "June's Strawberry Moon serves up a low-hanging treat for skywatchers worldwide. Here are our favorite photos",
       "link": "https://www.space.com/stargazing/junes-strawberry-moon-serves-up-a-low-hanging-treat-for-skywatchers-worldwide-here-are-our-favorite-photos",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1782814132
-    },
-    {
-      "title": "Resident Evil 2 Director Wants Leon to Return for a Cozy Game About His Retirement — And It Sounds Very Different to Resident Evil Requiem",
-      "link": "https://www.ign.com/articles/resident-evil-2-director-wants-leon-to-return-for-a-cozy-game-about-his-retirement-and-it-sounds-very-different-to-resident-evil-requiem",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782812723
-    },
-    {
-      "title": "State of Decay 3, Which Was at Xbox Games Showcase and Is Currently Running Playtests, Reportedly at Risk of Cancelation as Buyer Sought for Undead Labs",
-      "link": "https://www.ign.com/articles/state-of-decay-3-which-was-at-xbox-games-showcase-and-is-currently-running-playtests-reportedly-at-risk-of-cancelation-as-buyer-sought-for-undead-labs",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782810390
-    },
-    {
-      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
-      "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782810000
-    },
-    {
-      "title": "Dexter: Resurrection Season 2 Is Bringing Back a Dead Villain",
-      "link": "https://www.ign.com/articles/dexter-resurrection-season-2-is-bringing-back-a-dead-villain",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782807366
     },
     {
       "title": "Scientists may have finally found how Alzheimer's spreads through the brain",
@@ -308,13 +392,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782800937
-    },
-    {
-      "title": "The AI jobs debate just got messier",
-      "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782792060
     },
     {
       "title": "A massive asteroid slammed into the North Sea and triggered a 330-foot tsunami",
@@ -336,13 +413,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782786853
-    },
-    {
-      "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
-      "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782786521
     },
     {
       "title": "Jalen Duren landing spots: Lakers, Kings in pursuit of Pistons' All-NBA big man",
@@ -401,20 +471,6 @@
       "timestamp": 1782766736
     },
     {
-      "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
-      "link": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782766550
-    },
-    {
-      "title": "Gemini’s personalized AI image generation is now free for US users",
-      "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782763979
-    },
-    {
       "title": "US renewable boom passes key milestone in April",
       "link": "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/",
       "source": "ARSTECHNICA",
@@ -441,13 +497,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1782760257
-    },
-    {
-      "title": "Watch out, Amazon: The Kobo eReader now has a Goodreads rival",
-      "link": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782759981
     },
     {
       "title": "Ozone loss was a thing even before CFCs were widely used",
@@ -513,34 +562,6 @@
       "timestamp": 1782751699
     },
     {
-      "title": "F1 in Austria: Starts off exciting, then goes the opposite way",
-      "link": "https://arstechnica.com/cars/2026/06/f1-in-austria-starts-off-exciting-then-does-the-opposite/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782749092
-    },
-    {
-      "title": "Wildwood featurette lifts the veil on building its stop-motion world",
-      "link": "https://arstechnica.com/culture/2026/06/wildwood-featurette-lifts-the-veil-on-building-its-stop-motion-world/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782747830
-    },
-    {
-      "title": "In a bold move, Rocket Lab acquires Iridium Communications",
-      "link": "https://arstechnica.com/space/2026/06/in-a-bold-move-rocket-lab-acquires-iridium-communications/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782747234
-    },
-    {
-      "title": "Think tank games out how to respond to disaster scenarios in space warfare",
-      "link": "https://arstechnica.com/space/2026/06/think-tank-games-out-how-to-respond-to-disaster-scenarios-in-space-warfare/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782746500
-    },
-    {
       "title": "Light pollution may be erasing millions of dollars in value at US dark-sky parks",
       "link": "https://www.space.com/astronomy/earth/light-pollution-may-be-erasing-millions-of-dollars-in-value-at-us-dark-sky-parks",
       "source": "SPACE",
@@ -576,20 +597,6 @@
       "timestamp": 1782740752
     },
     {
-      "title": "Comcast is splitting its media and broadband properties",
-      "link": "https://arstechnica.com/tech-policy/2026/06/comcast-is-splitting-its-media-and-broadband-properties/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782739541
-    },
-    {
-      "title": "How NASA's 'America 250' celebrations are reaching from the sky to the moon",
-      "link": "https://www.space.com/space-exploration/how-nasas-america-250-celebrations-are-reaching-from-the-sky-to-the-moon",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782738000
-    },
-    {
       "title": "Millions take omega-3 fish oil for brain health but a new study found no benefit",
       "link": "https://www.sciencedaily.com/releases/2026/06/260622014300.htm",
       "source": "SCIENCEDAILY",
@@ -623,13 +630,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782696104
-    },
-    {
-      "title": "Kawhi Leonard trade rumors: Raptors and Clippers have held 'real' talks, Mavericks have 'registered interest'",
-      "link": "https://www.cbssports.com/nba/news/kawhi-leonard-trade-rumors-raptors-clippers/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782690845
     },
     {
       "title": "James Webb uncovers exotic salt clouds on a mysterious pink world",
