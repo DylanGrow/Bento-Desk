@@ -1,12 +1,54 @@
 {
-  "last_updated": 1782935393,
+  "last_updated": 1782941128,
   "items": [
+    {
+      "title": "The Lakers built an incomplete team around Luka Dončić, and now face the risk of losing him too",
+      "link": "https://www.cbssports.com/nba/news/lakers-incomplete-roster-luka-doncic-lebron-james/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1782940895
+    },
+    {
+      "title": "Scientists recreated a dinosaur nest and solved a 70-million-year-old mystery",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260621031409.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1782936824
+    },
+    {
+      "title": "Watch Atlas V rocket launch 29 Amazon Leo broadband satellites early on July 2",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-amazon-leo-8-internet-satellite-launch",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782936000
+    },
+    {
+      "title": "NASA chief praises progress Blue Origin is making after launch failure",
+      "link": "https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782935856
+    },
+    {
+      "title": "Next Metroid Game for Switch 2 Reportedly Leaked in Age Rating From Brazilian Government",
+      "link": "https://www.ign.com/articles/next-metroid-game-for-switch-2-reportedly-leaked-in-age-rating-from-brazilian-government",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782934317
+    },
     {
       "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
       "link": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1782933487
+    },
+    {
+      "title": "US home battery installations hit record high on rising electricity costs",
+      "link": "https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782933075
     },
     {
       "title": "A surprising brain discovery is forcing scientists to rethink movement disorders",
@@ -30,6 +72,13 @@
       "timestamp": 1782932400
     },
     {
+      "title": "Superworms could replace beetles for cleaning skeletal remains",
+      "link": "https://arstechnica.com/science/2026/07/museums-could-use-ravenous-superworms-to-clean-skeletons/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782932361
+    },
+    {
       "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
       "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
       "source": "TECHCRUNCH",
@@ -44,7 +93,7 @@
       "timestamp": 1782931642
     },
     {
-      "title": "Sony will stop making physical copies of PlayStation games in 2028",
+      "title": "Sony announces end of PlayStation discs, parts of digital store in the same day",
       "link": "https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -359,13 +408,6 @@
       "timestamp": 1782906212
     },
     {
-      "title": "LEGO Boba Fett Set Announced, for Ages 18 and Up",
-      "link": "https://www.ign.com/articles/lego-boba-fett-set-announced-for-ages-18-and-up",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782904744
-    },
-    {
       "title": "Scientists find no link between Tylenol and autism, again, after Trump warning",
       "link": "https://arstechnica.com/health/2026/07/trump-and-rfk-jr-still-wrong-about-tylenol-and-autism-another-study-finds/",
       "source": "ARSTECHNICA",
@@ -548,25 +590,11 @@
       "timestamp": 1782851282
     },
     {
-      "title": "Apple takes Epic fight over app store fees to the Supreme Court",
-      "link": "https://arstechnica.com/tech-policy/2026/06/apple-takes-epic-fight-over-app-store-fees-to-the-supreme-court/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782850829
-    },
-    {
       "title": "Scientists discover a completely different way to fight viruses",
       "link": "https://www.sciencedaily.com/releases/2026/06/260630020534.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782850680
-    },
-    {
-      "title": "New attack provides one more reason why AI browsers are a bad idea",
-      "link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782849794
     },
     {
       "title": "What's next for Lakers after LeBron James? 'A-list center' is top priority, but landing one won't be simple",
@@ -597,32 +625,11 @@
       "timestamp": 1782845308
     },
     {
-      "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
-      "link": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782844570
-    },
-    {
       "title": "Mars may have once been filled with seas of magma that made the Red Planet habitable",
       "link": "https://www.space.com/astronomy/mars/mars-may-have-once-been-filled-with-seas-of-magma-that-made-the-red-planet-habitable",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1782842400
-    },
-    {
-      "title": "'Star Fox' is an eye-catching reimagining of a timeless sci-fi classic, but we've been here before",
-      "link": "https://www.space.com/entertainment/space-games/star-fox-is-an-eye-catching-reimagining-of-a-timeless-sci-fi-classic-but-weve-been-here-before",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782838800
-    },
-    {
-      "title": "With LeBron James set to leave the Lakers, what's next for Bronny?",
-      "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-rumors-lakers-bronny/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782838684
     },
     {
       "title": "Scientists may have finally found how Alzheimer's spreads through the brain",
@@ -665,13 +672,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782766736
-    },
-    {
-      "title": "Millions take omega-3 fish oil for brain health but a new study found no benefit",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260622014300.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782717552
     }
   ]
 }
