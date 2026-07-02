@@ -1,6 +1,20 @@
 {
-  "last_updated": 1782974538,
+  "last_updated": 1782986898,
   "items": [
+    {
+      "title": "In 1776, the moon was a clock, a calendar and a streetlight — and it was 31 feet closer to Earth",
+      "link": "https://www.space.com/astronomy/moon/in-1776-the-moon-was-a-clock-a-calendar-and-a-streetlight-and-it-was-31-feet-closer-to-earth",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782986400
+    },
+    {
+      "title": "Sun fires off 10 solar flares in 24 hours as multiple Earth-bound CMEs raise northern lights hopes for July 4 weekend",
+      "link": "https://www.space.com/stargazing/auroras/sun-fires-off-10-solar-flares-in-24-hours-as-multiple-earth-bound-cmes-raise-northern-lights-hopes-for-july-4-weekend",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782985980
+    },
     {
       "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
       "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
@@ -128,7 +142,7 @@
       "timestamp": 1782936824
     },
     {
-      "title": "Watch Atlas V rocket launch 29 Amazon Leo broadband satellites early on July 2",
+      "title": "Atlas V rocket launches 29 Amazon Leo broadband satellites to orbit from Florida (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-amazon-leo-8-internet-satellite-launch",
       "source": "SPACE",
       "category": "space",
@@ -590,13 +604,6 @@
       "timestamp": 1782853290
     },
     {
-      "title": "Blue Origin starts rebuilding launch pad damaged by New Glenn rocket explosion — and it will look very different when it's done",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-starts-rebuilding-launch-pad-damaged-by-new-glenn-rocket-explosion-and-it-will-look-very-different-when-its-done",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782853200
-    },
-    {
       "title": "LeBron James next team: Which landing spot would be the most entertaining? Experts make their picks",
       "link": "https://www.cbssports.com/nba/news/lebron-james-next-team-landing-spots-predictions/",
       "source": "CBSSPORTS",
@@ -609,13 +616,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1782852614
-    },
-    {
-      "title": "‘Just in time for Canada Day’: Spacewalking astronauts repair space station’s huge Canadarm2",
-      "link": "https://www.space.com/space-exploration/international-space-station/just-in-time-for-canada-day-spacewalking-astronauts-repair-space-stations-huge-canadarm2",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782851400
     },
     {
       "title": "Scientists discover a completely different way to fight viruses",
