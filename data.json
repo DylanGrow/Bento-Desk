@@ -1,6 +1,62 @@
 {
-  "last_updated": 1782986898,
+  "last_updated": 1782996914,
   "items": [
+    {
+      "title": "Rivian raises EV sales forecast as Q2 production ramps up",
+      "link": "https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782995400
+    },
+    {
+      "title": "Yep, we’re using OpenClaw to date now",
+      "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1782993600
+    },
+    {
+      "title": "July full moon 2026: When, where and how to see the Buck Moon",
+      "link": "https://www.space.com/stargazing/july-full-moon-2026-when-where-and-how-to-see-the-buck-moon",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1782993600
+    },
+    {
+      "title": "'He Was on the Valium or Something': Matt Smith Can't Believe Keanu Reeves Was Spotted Watching the Infamously Terrible Movie Morbius on a Flight",
+      "link": "https://www.ign.com/articles/he-was-on-the-valium-or-something-matt-smith-cant-believe-keanu-reeves-was-spotted-watching-the-infamously-terrible-movie-morbius-on-a-flight",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782991836
+    },
+    {
+      "title": "Apple TV Teases Neuromancer Adaptation With an Iconic Line From William Gibson's Influential Cyberpunk Novel",
+      "link": "https://www.ign.com/articles/apple-tv-teases-neuromancer-adaptation-with-an-iconic-line-from-william-gibsons-influential-cyberpunk-novel",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782991718
+    },
+    {
+      "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
+      "link": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782990949
+    },
+    {
+      "title": "'I'll Do a Time Capsule for Them': How Long Will Hugh Jackman Play Wolverine? Marvel Star Suggests There's No Need to Think About Handing Over The Role Just Yet",
+      "link": "https://www.ign.com/articles/ill-do-a-time-capsule-for-them-how-long-will-hugh-jackman-play-wolverine-marvel-star-suggests-theres-no-need-to-think-about-handing-over-the-role-just-yet",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782986707
+    },
+    {
+      "title": "Editorial: It's time to step up and have your say for science",
+      "link": "https://arstechnica.com/science/2026/07/editorial-the-most-important-thing-you-can-do-to-protect-science/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1782986427
+    },
     {
       "title": "In 1776, the moon was a clock, a calendar and a streetlight — and it was 31 feet closer to Earth",
       "link": "https://www.space.com/astronomy/moon/in-1776-the-moon-was-a-clock-a-calendar-and-a-streetlight-and-it-was-31-feet-closer-to-earth",
@@ -14,6 +70,13 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1782985980
+    },
+    {
+      "title": "ESRB Leaks Warhammer 40,000: Space Marine - Master Crafted Edition for PS5 and Nintendo Switch 2",
+      "link": "https://www.ign.com/articles/esrb-leaks-warhammer-40000-space-marine-master-crafted-edition-for-ps5-and-nintendo-switch-2",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1782985547
     },
     {
       "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
@@ -373,20 +436,6 @@
       "timestamp": 1782921600
     },
     {
-      "title": "Sony Confirms PlayStation Plus Monthly Games for July 2026, Headlined by Call of Duty: Modern Warfare 3",
-      "link": "https://www.ign.com/articles/sony-confirms-playstation-plus-monthly-games-for-july-2026-headlined-by-call-of-duty-modern-warfare-3",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782921401
-    },
-    {
-      "title": "The Super Mario Galaxy Movie Is Coming to Peacock at the End of July",
-      "link": "https://www.ign.com/articles/the-super-mario-galaxy-movie-streaming-release-date-peacock",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782921271
-    },
-    {
       "title": "A space history mystery: What happened to the Viking arm used 50 years ago?",
       "link": "https://arstechnica.com/space/2026/07/50-years-on-will-the-mars-lander-arm-that-opened-the-air-and-space-raise-its-hand/",
       "source": "ARSTECHNICA",
@@ -394,25 +443,11 @@
       "timestamp": 1782919234
     },
     {
-      "title": "Stranger Things' Millie Bobby Brown Reveals the Unusual Way She Plays Grand Theft Auto Games — and That She Can't Wait for GTA 6",
-      "link": "https://www.ign.com/articles/stranger-things-millie-bobby-brown-reveals-the-unusual-way-she-plays-grand-theft-auto-games-and-that-she-cant-wait-for-gta-6",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782918350
-    },
-    {
       "title": "NASA will send a soccer ball to the moon —if the US wins the World Cup",
       "link": "https://www.space.com/astronomy/moon/nasa-will-send-a-soccer-ball-to-the-moon-if-the-us-wins-the-world-cup",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1782918000
-    },
-    {
-      "title": "Subnautica 2 Developer's Entire Staff Get Their Bonuses After Krafton Agrees to Settlement, but CEO Steps Down",
-      "link": "https://www.ign.com/articles/subnautica-2-developers-entire-staff-get-their-bonuses-after-krafton-agrees-to-settlement-but-ceo-steps-down",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782917602
     },
     {
       "title": "What's LeBron James' Lakers legacy? His jersey should go in the rafters, but he didn't do enough for a statue",
@@ -427,20 +462,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1782915923
-    },
-    {
-      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
-      "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782915619
-    },
-    {
-      "title": "Sony to end physical PlayStation game disc production in 2028",
-      "link": "https://techcrunch.com/2026/07/01/sony-to-end-physical-playstation-game-discs-in-2028/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782915392
     },
     {
       "title": "How much can your NBA team pay LeBron James next season? Complete cap salary guide with The King on the move",
@@ -590,32 +611,11 @@
       "timestamp": 1782854726
     },
     {
-      "title": "Amazon blames piracy apps with malware for killing new Fire Stick sideloading",
-      "link": "https://arstechnica.com/gadgets/2026/06/exec-blames-malware-threat-for-amazon-blocking-sideloading-on-new-fire-sticks/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782853493
-    },
-    {
-      "title": "Rocket Lab aborts launch of Japanese Earth-observing radar satellite at last second",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-iqps-radar-satellite-grain-goddess-provides",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782853290
-    },
-    {
       "title": "LeBron James next team: Which landing spot would be the most entertaining? Experts make their picks",
       "link": "https://www.cbssports.com/nba/news/lebron-james-next-team-landing-spots-predictions/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782852863
-    },
-    {
-      "title": "NASA may send a backup, nuclear-powered Mars rover to the Moon",
-      "link": "https://arstechnica.com/space/2026/06/nasa-may-send-a-backup-nuclear-powered-mars-rover-to-the-moon/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782852614
     },
     {
       "title": "Scientists discover a completely different way to fight viruses",
