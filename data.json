@@ -1,6 +1,62 @@
 {
-  "last_updated": 1783026119,
+  "last_updated": 1783033332,
   "items": [
+    {
+      "title": "Private space pilots are flying orbital missions for the US Space Force",
+      "link": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783033266
+    },
+    {
+      "title": "SpaceX Falcon 9 rocket launches 24 Starlink satellites from California",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-46-b1100-vsfb-ocisly",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783031570
+    },
+    {
+      "title": "SpaceX fires up all 6 of Starship's engines ahead of 13th test flight (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-all-6-of-starships-engines-ahead-of-13th-test-flight-video",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783029600
+    },
+    {
+      "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
+      "link": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783029430
+    },
+    {
+      "title": "Moana 3 Is in the Works, According to The Rock",
+      "link": "https://www.ign.com/articles/moana-3-is-in-the-works-according-to-the-rock",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783029275
+    },
+    {
+      "title": "'It's Not a Comedy' — Danny McBride Details New G.I. Joe Movie, Aiming to Film in 2027",
+      "link": "https://www.ign.com/articles/its-not-a-comedy-danny-mcbride-details-new-gi-joe-movie-aiming-to-film-in-2027",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783029217
+    },
+    {
+      "title": "Steven Spielberg to Produce Film Adaptation of YouTube Horror Series The Mandela Catalogue",
+      "link": "https://www.ign.com/articles/steven-spielberg-to-produce-film-adaptation-of-youtube-horror-series-the-mandela-catalogue",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783027620
+    },
+    {
+      "title": "Millie Bobby Brown Reveals She Auditioned for X-23 in Logan",
+      "link": "https://www.ign.com/articles/millie-bobby-brown-reveals-she-auditioned-for-x-23-in-logan",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783026307
+    },
     {
       "title": "'Silo' season 3: Release date & how to watch Apple TV's sensational post-apocalyptic saga",
       "link": "https://www.space.com/entertainment/space-movies-shows/silo-season-3-release-date-and-how-to-watch-apple-tvs-sensational-post-apocalyptic-saga",
@@ -42,6 +98,13 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783022151
+    },
+    {
+      "title": "Newly discovered PamStealer isn't your typical macOS malware",
+      "link": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783021137
     },
     {
       "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
@@ -303,20 +366,6 @@
       "timestamp": 1782996810
     },
     {
-      "title": "Rivian raises EV sales forecast as Q2 production ramps up",
-      "link": "https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782995400
-    },
-    {
-      "title": "Yep, we’re using OpenClaw to date now",
-      "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782993600
-    },
-    {
       "title": "July full moon 2026: When, where and how to see the Buck Moon",
       "link": "https://www.space.com/stargazing/july-full-moon-2026-when-where-and-how-to-see-the-buck-moon",
       "source": "SPACE",
@@ -464,13 +513,6 @@
       "timestamp": 1782935856
     },
     {
-      "title": "Next Metroid Game for Switch 2 Reportedly Leaked in Age Rating From Brazilian Government",
-      "link": "https://www.ign.com/articles/next-metroid-game-for-switch-2-reportedly-leaked-in-age-rating-from-brazilian-government",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782934317
-    },
-    {
       "title": "US home battery installations hit record high on rising electricity costs",
       "link": "https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/",
       "source": "ARSTECHNICA",
@@ -492,39 +534,11 @@
       "timestamp": 1782932400
     },
     {
-      "title": "Superworms could replace beetles for cleaning skeletal remains",
-      "link": "https://arstechnica.com/science/2026/07/museums-could-use-ravenous-superworms-to-clean-skeletons/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782932361
-    },
-    {
-      "title": "Virtua Fighter Crossroads Producer Says the Game Was Inspired by HBO's Watchmen Series",
-      "link": "https://www.ign.com/articles/virtua-fighter-crossroads-producer-says-the-game-was-inspired-by-hbos-watchmen-series",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782930514
-    },
-    {
       "title": "With Mitchell Robinson addition, Celtics fill biggest hole -- and weaken Knicks",
       "link": "https://www.cbssports.com/nba/news/mitchell-robinson-celtics-hole-knicks/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782929821
-    },
-    {
-      "title": "Honeycomb's Wacky Flight Gamepad Is Coming to the Xbox",
-      "link": "https://www.ign.com/articles/honeycombs-wacky-flight-gamepad-is-coming-to-the-xbox",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782929640
-    },
-    {
-      "title": "Xbox's New Console, Project Helix, Will Reportedly Not Have a Disc Drive; Microsoft Exploring Ways to Digitize Physical Games",
-      "link": "https://www.ign.com/articles/xboxs-new-console-project-helix-will-reportedly-not-have-a-disc-drive-microsoft-exploring-ways-to-digitize-physical-games",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782929290
     },
     {
       "title": "This weird 'hot Jupiter' exoplanet has a hotspot in the wrong place, and astronomers aren't sure how",
@@ -553,20 +567,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782923512
-    },
-    {
-      "title": "July's planetary lineup is changing — and Venus is the last one standing",
-      "link": "https://www.space.com/stargazing/julys-planetary-lineup-is-changing-and-venus-is-the-last-one-standing",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782921600
-    },
-    {
-      "title": "NASA will send a soccer ball to the moon —if the US wins the World Cup",
-      "link": "https://www.space.com/astronomy/moon/nasa-will-send-a-soccer-ball-to-the-moon-if-the-us-wins-the-world-cup",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782918000
     },
     {
       "title": "What's LeBron James' Lakers legacy? His jersey should go in the rafters, but he didn't do enough for a statue",
