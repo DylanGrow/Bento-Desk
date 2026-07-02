@@ -1,12 +1,61 @@
 {
-  "last_updated": 1783014221,
+  "last_updated": 1783019983,
   "items": [
+    {
+      "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
+      "link": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783019686
+    },
+    {
+      "title": "Meta quietly launches vibe-coded gaming app Pocket",
+      "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783017842
+    },
+    {
+      "title": "Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees",
+      "link": "https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783017554
+    },
+    {
+      "title": "2026 NBA free agency rankings, tracker: Resetting the market with most of top 40 signed",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-free-agency-rankings-tracker/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783017498
+    },
+    {
+      "title": "Anthropic is discussing a new custom chip with Samsung",
+      "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783017069
+    },
+    {
+      "title": "'Stellar death is not the end': James Webb Space Telescope glimpses the fate of the solar system in a weird exoplanet orbiting a dead star",
+      "link": "https://www.space.com/astronomy/stars/stellar-death-is-not-the-end-james-webb-space-telescope-glimpses-the-fate-of-the-solar-system-in-a-weird-exoplanet-orbiting-a-dead-star",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783015200
+    },
     {
       "title": "Boeing-owned Wisk Aero accused of firing manager who raised safety concerns",
       "link": "https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1783013404
+    },
+    {
+      "title": "FAA proposal: Supersonic airliners can fly over US cities if they’re quiet",
+      "link": "https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783013377
     },
     {
       "title": "Eastern Conference tiers: Knicks on top, but several new-look contenders emerge after NBA's summer shakeup",
@@ -77,13 +126,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1783005651
-    },
-    {
-      "title": "2026 NBA free agency rankings, tracker: Resetting the market with most of top 40 signed",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-free-agency-rankings-tracker/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783005489
     },
     {
       "title": "Popular TV-tracking app TV Time is shutting down as company focuses on AI",
@@ -345,27 +387,6 @@
       "timestamp": 1782946418
     },
     {
-      "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
-      "link": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782946024
-    },
-    {
-      "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
-      "link": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782944915
-    },
-    {
-      "title": "WhatsApp usernames are already raising impersonation red flags",
-      "link": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782943344
-    },
-    {
       "title": "Steven Spielberg sci-fi movies ranked, worst to best",
       "link": "https://www.space.com/entertainment/space-movies-shows/steven-spielberg-sci-fi-movies-ranked-worst-to-best",
       "source": "SPACE",
@@ -422,13 +443,6 @@
       "timestamp": 1782934317
     },
     {
-      "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
-      "link": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1782933487
-    },
-    {
       "title": "US home battery installations hit record high on rising electricity costs",
       "link": "https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/",
       "source": "ARSTECHNICA",
@@ -455,13 +469,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1782932361
-    },
-    {
-      "title": "Sony announces end of PlayStation discs, parts of digital store in the same day",
-      "link": "https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782931309
     },
     {
       "title": "Virtua Fighter Crossroads Producer Says the Game Was Inspired by HBO's Watchmen Series",
@@ -567,13 +574,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1782910849
-    },
-    {
-      "title": "In 1776, the solar system only had 6 planets. Now, it has 8. Does it end there?",
-      "link": "https://www.space.com/astronomy/solar-system/in-1776-the-solar-system-only-had-6-planets-now-it-has-8-does-it-end-there",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782907200
     },
     {
       "title": "Simple water trick slashes diesel engine pollution by over 60%",
