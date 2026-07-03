@@ -1,6 +1,27 @@
 {
-  "last_updated": 1783046449,
+  "last_updated": 1783060140,
   "items": [
+    {
+      "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
+      "link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783055100
+    },
+    {
+      "title": "A strange LIGO signal could reveal the missing link behind dark matter",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260626125703.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783050996
+    },
+    {
+      "title": "Scientists stunned as bumble bees solve a classic intelligence test",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260625014755.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783047215
+    },
     {
       "title": "2026 NBA free agency rankings, tracker: Resetting the market with most of top 40 signed",
       "link": "https://www.cbssports.com/nba/news/2026-nba-free-agency-rankings-tracker/",
@@ -37,7 +58,7 @@
       "timestamp": 1783033266
     },
     {
-      "title": "SpaceX Falcon 9 rocket launches 24 Starlink satellites from California",
+      "title": "SpaceX Falcon 9 rocket launches 24 Starlink satellites from California (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-46-b1100-vsfb-ocisly",
       "source": "SPACE",
       "category": "space",
@@ -294,13 +315,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1783003157
-    },
-    {
-      "title": "US government says it got hacked — again",
-      "link": "https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783002156
     },
     {
       "title": "Final Fantasy 7 Revelation Getting Story Expansion Pass, Store Leak Suggests",
@@ -658,20 +672,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782850680
-    },
-    {
-      "title": "Scientists may have finally found how Alzheimer's spreads through the brain",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782804066
-    },
-    {
-      "title": "Scientists say creatine may help fight depression",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260630020231.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782800937
     }
   ]
 }
