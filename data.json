@@ -1,6 +1,41 @@
 {
-  "last_updated": 1783060140,
+  "last_updated": 1783072504,
   "items": [
+    {
+      "title": "Scientists make quantum time flow backward in stunning physics breakthrough",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260625014802.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783071294
+    },
+    {
+      "title": "Spider-Man: Brand New Day Director Gives Best Look Yet at Villains Boomerang and the Hand — but Are the Photos a Misdirect?",
+      "link": "https://www.ign.com/articles/spider-man-brand-new-day-director-gives-best-look-yet-at-villains-boomerang-and-the-hand-but-are-the-photos-a-misdirect",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783069443
+    },
+    {
+      "title": "Old muscle stem cells can act young again but there’s a catch",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260622014315.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783069204
+    },
+    {
+      "title": "Nintendo Brain Training Professor Explains Why Driving a Manual Transmission Car Is Better for Your Brain Than an Automatic",
+      "link": "https://www.ign.com/articles/nintendo-brain-training-professor-explains-why-driving-a-manual-transmission-car-is-better-for-your-brain-than-an-automatic",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783066480
+    },
+    {
+      "title": "Suicide Squad: Kill the Justice League Developers Wanted to Quit the Industry After the Game Was Released",
+      "link": "https://www.ign.com/articles/suicide-squad-kill-the-justice-league-developers-wanted-to-quit-the-industry-after-the-game-was-released",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783064505
+    },
     {
       "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
       "link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
@@ -513,20 +548,6 @@
       "timestamp": 1782949572
     },
     {
-      "title": "Love and Deepspace Fans Tearfully Hold 'Funeral' for Valko at Infold HQ After Company Suddenly Drops Character",
-      "link": "https://www.ign.com/articles/love-and-deepspace-fans-tearfully-hold-funeral-for-valko-at-infold-hq-after-company-suddenly-drops-character",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782947272
-    },
-    {
-      "title": "'We Are Deeply Saddened' - Games Retailers and Historians Respond to PlayStation Abandoning Physical Media",
-      "link": "https://www.ign.com/articles/we-are-deeply-saddened-games-retailers-and-historians-respond-to-playstation-abandoning-physical-media",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782946418
-    },
-    {
       "title": "Steven Spielberg sci-fi movies ranked, worst to best",
       "link": "https://www.space.com/entertainment/space-movies-shows/steven-spielberg-sci-fi-movies-ranked-worst-to-best",
       "source": "SPACE",
@@ -546,13 +567,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1782940881
-    },
-    {
-      "title": "Ex-Modern Warfare Creative Strategist Launches New Studio, Pushing Back Against Live Service Trends",
-      "link": "https://www.ign.com/articles/ex-modern-warfare-creative-strategist-launches-new-studio-pushing-back-against-live-service-trends",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782938008
     },
     {
       "title": "Scientists recreated a dinosaur nest and solved a 70-million-year-old mystery",
@@ -658,20 +672,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782873939
-    },
-    {
-      "title": "Teeth smaller than a fingertip reveal our first primate ancestor",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260621031238.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782860158
-    },
-    {
-      "title": "Scientists discover a completely different way to fight viruses",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260630020534.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782850680
     }
   ]
 }
