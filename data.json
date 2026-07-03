@@ -1,6 +1,69 @@
 {
-  "last_updated": 1783080451,
+  "last_updated": 1783091297,
   "items": [
+    {
+      "title": "Rich Paul breaks down LeBron James' free agency: What The King's agent said about 10 teams in the hunt",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-rich-paul-details-teams-under-consideration/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783091108
+    },
+    {
+      "title": "Space science has come a long way since July 4, 1776. Here's a look back at the saga",
+      "link": "https://www.space.com/astronomy/space-science-has-come-a-long-way-since-july-4-1776-heres-a-look-back-at-the-saga",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783090472
+    },
+    {
+      "title": "Nintendo President Says The Pokémon Company Will 'Take Measures' to Respond to Widespread Card Scalping Issues",
+      "link": "https://www.ign.com/articles/nintendo-president-says-the-pokemon-company-will-take-measures-to-respond-to-widespread-card-scalping-issues",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783088517
+    },
+    {
+      "title": "Infant stars celebrate their independence with cosmic fireworks| Space photo of the day for July 3, 2026",
+      "link": "https://www.space.com/astronomy/galaxies/infant-stars-celebrate-their-independence-with-cosmic-fireworks-space-photo-of-the-day-for-july-3-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783087200
+    },
+    {
+      "title": "'A Great Foundation for Our Upcoming Projects in This Universe' — CD Projekt Hails Cyberpunk 2077 as It Hits an Incredible 40 Million Copies Sold",
+      "link": "https://www.ign.com/articles/a-great-foundation-for-our-upcoming-projects-in-this-universe-cd-projekt-hails-cyberpunk-2077-as-it-hits-an-incredible-40-million-copies-sold",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783084188
+    },
+    {
+      "title": "Ronaldo, Portugal survive Round of 32 thriller at World Cup; NBA's top 5 offseason moves",
+      "link": "https://www.cbssports.com/soccer/news/ronaldo-portugal-survive-round-of-32-thriller-at-world-cup-nbas-top-5-offseason-moves/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783082868
+    },
+    {
+      "title": "After Sony Kills PS5 Discs and GTA 6 is Just a Code in a Box, Xbox Is Using Halo: Campaign Evolved's Physical Disc as a Selling Point",
+      "link": "https://www.ign.com/articles/after-sony-kills-ps5-discs-and-gta-6-is-just-a-code-in-a-box-xbox-is-using-halo-campaign-evolveds-physical-disc-as-a-selling-point",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783082443
+    },
+    {
+      "title": "Anne Hathaway Quit Knocked Up Because 'She Didn't Want the Crowning of the Baby to Be Visually Representative,' Seth Rogen Says",
+      "link": "https://www.ign.com/articles/anne-hathaway-quit-knocked-up-because-she-didnt-want-the-crowning-of-the-baby-to-be-visually-representative-seth-rogen-says",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783080957
+    },
+    {
+      "title": "Inside the Luddite festival harnessing Gen Z’s rage against Big Tech",
+      "link": "https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783080036
+    },
     {
       "title": "Want to see Uranus? July 4 could be your best chance in decades",
       "link": "https://www.space.com/stargazing/want-to-see-uranus-july-4-could-be-your-best-chance-in-decades",
@@ -9,11 +72,32 @@
       "timestamp": 1783080000
     },
     {
+      "title": "Despite the darkness, I still see signs of hope in America",
+      "link": "https://arstechnica.com/culture/2026/07/at-250-years-there-are-still-reasons-for-hope-in-america/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783078222
+    },
+    {
+      "title": "Visiting the stars (and planets, and telescopes) in VR",
+      "link": "https://arstechnica.com/culture/2026/07/smithsonian-starstruck-vr-exhibit-lets-you-stroll-through-the-stars/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783077335
+    },
+    {
       "title": "Over 90% of IGN's Audience Do Not Want an All-Digital Gaming Future, but PlayStation Is Unlikely to U-Turn on Its Decision to Kill Discs",
       "link": "https://www.ign.com/articles/over-90-of-igns-audience-do-not-want-an-all-digital-gaming-future-but-playstation-is-unlikely-to-u-turn-on-its-decision-to-kill-discs",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1783077144
+    },
+    {
+      "title": "Wing Commander IV and the FMV future that never quite was",
+      "link": "https://arstechnica.com/gaming/2026/07/wing-commander-iv-and-the-fmv-future-that-never-quite-was/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783076619
     },
     {
       "title": "As Sony Kills Physical PS5 Games, Disc Production Factory Workers Are Set to be Reassigned",
@@ -422,25 +506,11 @@
       "timestamp": 1783000800
     },
     {
-      "title": "Avowed, The Outer Worlds, and Fallout: New Vegas Developer Obsidian Entertainment Reportedly NOT at Risk of Closure Amid Xbox 'Reset'",
-      "link": "https://www.ign.com/articles/avowed-the-outer-worlds-and-fallout-new-vegas-developer-obsidian-entertainment-reportedly-also-at-risk-of-closure-amid-xbox-reset",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783000597
-    },
-    {
       "title": "LeBron James to the 76ers? Why Jaylen Brown could help lure The King to Philly",
       "link": "https://www.cbssports.com/nba/news/lebron-james-76ers-jaylen-brown-philly/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782998511
-    },
-    {
-      "title": "Even KFC Is Dunking on Sony as the Dust Settles on PlayStation's Shock Decision to Kill Physical Game Discs",
-      "link": "https://www.ign.com/articles/even-kfc-is-dunking-on-sony-as-the-dust-settles-on-playstations-shock-decision-to-kill-physical-game-discs",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782998151
     },
     {
       "title": "Ranking five best moves of NBA offseason (so far): 76ers' shocking Jaylen Brown trade tops the list",
@@ -478,32 +548,11 @@
       "timestamp": 1782993600
     },
     {
-      "title": "'He Was on the Valium or Something': Matt Smith Can't Believe Keanu Reeves Was Spotted Watching the Infamously Terrible Movie Morbius on a Flight",
-      "link": "https://www.ign.com/articles/he-was-on-the-valium-or-something-matt-smith-cant-believe-keanu-reeves-was-spotted-watching-the-infamously-terrible-movie-morbius-on-a-flight",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782991836
-    },
-    {
-      "title": "Apple TV Teases Neuromancer Adaptation With an Iconic Line From William Gibson's Influential Cyberpunk Novel",
-      "link": "https://www.ign.com/articles/apple-tv-teases-neuromancer-adaptation-with-an-iconic-line-from-william-gibsons-influential-cyberpunk-novel",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1782991718
-    },
-    {
       "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
       "link": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1782990949
-    },
-    {
-      "title": "Editorial: It's time to step up and have your say for science",
-      "link": "https://arstechnica.com/science/2026/07/editorial-the-most-important-thing-you-can-do-to-protect-science/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782986427
     },
     {
       "title": "In 1776, the moon was a clock, a calendar and a streetlight — and it was 31 feet closer to Earth",
@@ -576,39 +625,11 @@
       "timestamp": 1782940895
     },
     {
-      "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
-      "link": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782940881
-    },
-    {
       "title": "Scientists recreated a dinosaur nest and solved a 70-million-year-old mystery",
       "link": "https://www.sciencedaily.com/releases/2026/06/260621031409.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782936824
-    },
-    {
-      "title": "Atlas V rocket launches 29 Amazon Leo broadband satellites to orbit from Florida (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-amazon-leo-8-internet-satellite-launch",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782936000
-    },
-    {
-      "title": "NASA chief praises progress Blue Origin is making after launch failure",
-      "link": "https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782935856
-    },
-    {
-      "title": "US home battery installations hit record high on rising electricity costs",
-      "link": "https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1782933075
     },
     {
       "title": "A surprising brain discovery is forcing scientists to rethink movement disorders",
@@ -618,32 +639,11 @@
       "timestamp": 1782933006
     },
     {
-      "title": "'Rocket's Red Glare': How NASA's Artemis 2 moon mission celebrated America's 250th birthday",
-      "link": "https://www.space.com/space-exploration/artemis/rockets-red-glare-how-nasas-artemis-2-moon-mission-celebrated-americas-250th-birthday",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1782932400
-    },
-    {
       "title": "With Mitchell Robinson addition, Celtics fill biggest hole -- and weaken Knicks",
       "link": "https://www.cbssports.com/nba/news/mitchell-robinson-celtics-hole-knicks/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1782929821
-    },
-    {
-      "title": "Lakers NBA odds: Walker Kessler addition gives Los Angeles major post-LeBron James boost",
-      "link": "https://www.cbssports.com/betting/news/lakers-nba-odds-walker-kessler-addition-gives-los-angeles-major-post-lebron-james-boost/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782927321
-    },
-    {
-      "title": "Walker Kessler trade grades: Lakers get C+ in massive, albeit necessary, overpay; Jazz play it perfectly",
-      "link": "https://www.cbssports.com/nba/news/lakers-walker-kessler-trade-grades-jazz-luka-doncic/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1782923512
     },
     {
       "title": "Simple water trick slashes diesel engine pollution by over 60%",
