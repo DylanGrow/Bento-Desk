@@ -1,6 +1,41 @@
 {
-  "last_updated": 1783227225,
+  "last_updated": 1783238065,
   "items": [
+    {
+      "title": "Scientists discover the deep sleep circuit that builds muscle, burns fat, and boosts the brain",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260626030433.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783237148
+    },
+    {
+      "title": "NASA's Hubble spots a stellar sparkler for the Fourth of July",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260704232642.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783224658
+    },
+    {
+      "title": "NASA's Hubble captures a crimson stellar nursery sparkling with blue and white stars",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260704232639.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783224187
+    },
+    {
+      "title": "NASA's Hubble captures a star-spangled sea of 500,000 stars",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260704232634.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783222758
+    },
+    {
+      "title": "Scientists may have finally solved the black hole information paradox",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260624025506.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783221175
+    },
     {
       "title": "Exclusive: First Details and Trailer Revealed for BEYOND BORDERS Vol.1: EMERGE MODE MIKU, a New EP Featuring Hatsune Miku Singing With Grimes, slayr, and More",
       "link": "https://www.ign.com/articles/exclusive-first-details-and-trailer-revealed-for-beyond-borders-vol1-emerge-mode-miku-a-new-ep-featuring-hatsune-miku-singing-with-grimes-slayr-and-more",
@@ -114,11 +149,32 @@
       "timestamp": 1783162800
     },
     {
+      "title": "NASA celebrates America's 250th birthday with incredible views of space",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260702230859.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783157433
+    },
+    {
+      "title": "New optical centrifuge unlocks the secrets of frictionless superfluids",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260625014840.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783153954
+    },
+    {
       "title": "Mr. Terrific TV Show in the Works With Pilot from The Sandman Alum",
       "link": "https://www.ign.com/articles/mr-terrific-tv-show-in-the-works-with-pilot-from-the-sandman-alum",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1783148958
+    },
+    {
+      "title": "New research reveals the hidden pollution left behind by fireworks",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260701205009.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783133289
     },
     {
       "title": "Knicks reportedly sign Andre Drummond, striking a major bargain in replacement for Mitchell Robinson",
@@ -184,6 +240,13 @@
       "timestamp": 1783108422
     },
     {
+      "title": "Scientists discover why some brains resist Alzheimer's",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260626125709.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783104843
+    },
+    {
       "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
       "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
       "source": "TECHCRUNCH",
@@ -233,6 +296,13 @@
       "timestamp": 1783100465
     },
     {
+      "title": "A popular climate fix could accidentally trigger massive changes to global weather",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260626030448.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783099911
+    },
+    {
       "title": "LeBron James next team predictions: Four-time MVP expected to return to Cleveland after Lakers exit",
       "link": "https://www.cbssports.com/prediction/news/lebron-james-next-team-predictions-four-time-mvp-expected-to-head-back-to-cleveland-after-lakers-exit/",
       "source": "CBSSPORTS",
@@ -261,15 +331,15 @@
       "timestamp": 1783096200
     },
     {
-      "title": "1 private spacecraft intercepts another on Space Force's groundbreaking 'Victus Haze' mission",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/1-private-spacecraft-intercepts-another-on-space-forces-groundbreaking-victus-haze-mission",
+      "title": "Celebrate 250 years of America with the Estes Liberty Star model rocket",
+      "link": "https://www.space.com/stargazing/skywatching-kit/celebrate-250-years-of-america-with-the-estes-liberty-star-model-rocket",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783094400
     },
     {
-      "title": "Celebrate 250 years of America with the Estes Liberty Star model rocket",
-      "link": "https://www.space.com/stargazing/skywatching-kit/celebrate-250-years-of-america-with-the-estes-liberty-star-model-rocket",
+      "title": "1 private spacecraft intercepts another on Space Force's groundbreaking 'Victus Haze' mission",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/1-private-spacecraft-intercepts-another-on-space-forces-groundbreaking-victus-haze-mission",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783094400
@@ -602,76 +672,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1782977583
-    },
-    {
-      "title": "How asteroids may have sparked life on Earth",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260625014827.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782973386
-    },
-    {
-      "title": "390 gravitational wave detections reveal hidden population of black holes",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260625060203.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782964322
-    },
-    {
-      "title": "Scientists reveal what really happens when water is trapped in tiny spaces",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260626124706.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782961516
-    },
-    {
-      "title": "Great ape laughter reveals a hidden origin of human speech",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260626124704.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782952589
-    },
-    {
-      "title": "Scientists recreated a dinosaur nest and solved a 70-million-year-old mystery",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260621031409.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782936824
-    },
-    {
-      "title": "A surprising brain discovery is forcing scientists to rethink movement disorders",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260623014004.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782933006
-    },
-    {
-      "title": "Simple water trick slashes diesel engine pollution by over 60%",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260621052413.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782896549
-    },
-    {
-      "title": "Modern neuroscience is rediscovering an idea Freud had 130 years ago",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260625014811.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782890696
-    },
-    {
-      "title": "Scientists discover a surprising link between vitamin C and brain health",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260626030428.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782883358
-    },
-    {
-      "title": "Melanoma's secret to cheating death has finally been revealed",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260625014833.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782873939
     }
   ]
 }
