@@ -1,6 +1,20 @@
 {
-  "last_updated": 1783274411,
+  "last_updated": 1783282261,
   "items": [
+    {
+      "title": "Marvel Tokon Blocked in 132 Countries, and It Looks Like PSN Requirements Are to Blame",
+      "link": "https://www.ign.com/articles/marvel-tokon-blocked-in-132-countries-and-it-looks-like-psn-requirements-are-to-blame",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783280868
+    },
+    {
+      "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783275224
+    },
     {
       "title": "Hideo Kojima Warns of 'Frightening' Digital Future After PlayStation Reveals Plan to End Physical Disc Production",
       "link": "https://www.ign.com/articles/hideo-kojima-warns-of-frightening-digital-future-after-playstation-reveals-plan-to-end-physical-disc-production",
@@ -408,15 +422,15 @@
       "timestamp": 1783096200
     },
     {
-      "title": "1 private spacecraft intercepts another on Space Force's groundbreaking 'Victus Haze' mission",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/1-private-spacecraft-intercepts-another-on-space-forces-groundbreaking-victus-haze-mission",
+      "title": "Celebrate 250 years of America with the Estes Liberty Star model rocket",
+      "link": "https://www.space.com/stargazing/skywatching-kit/celebrate-250-years-of-america-with-the-estes-liberty-star-model-rocket",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783094400
     },
     {
-      "title": "Celebrate 250 years of America with the Estes Liberty Star model rocket",
-      "link": "https://www.space.com/stargazing/skywatching-kit/celebrate-250-years-of-america-with-the-estes-liberty-star-model-rocket",
+      "title": "1 private spacecraft intercepts another on Space Force's groundbreaking 'Victus Haze' mission",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/1-private-spacecraft-intercepts-another-on-space-forces-groundbreaking-victus-haze-mission",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783094400
@@ -483,13 +497,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783082868
-    },
-    {
-      "title": "After Sony Kills PS5 Discs and GTA 6 is Just a Code in a Box, Xbox Is Using Halo: Campaign Evolved's Physical Disc as a Selling Point",
-      "link": "https://www.ign.com/articles/after-sony-kills-ps5-discs-and-gta-6-is-just-a-code-in-a-box-xbox-is-using-halo-campaign-evolveds-physical-disc-as-a-selling-point",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783082443
     },
     {
       "title": "Inside the Luddite festival harnessing Gen Z’s rage against Big Tech",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783009063
-    },
-    {
-      "title": "Climate scientist who “proved” humanity is warming Earth says government report got it wrong",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260625060214.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1782977583
     }
   ]
 }
