@@ -1,6 +1,20 @@
 {
-  "last_updated": 1783288701,
+  "last_updated": 1783292759,
   "items": [
+    {
+      "title": "Scientists may have finally found how Alzheimer's kills brain cells",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260626124701.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783292281
+    },
+    {
+      "title": "5,000-year-old wolves found on remote island rewrite what we know about domestication",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260624115624.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783288452
+    },
     {
       "title": "Uber’s European expansion plans may have hit a speed bump",
       "link": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
@@ -28,6 +42,20 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1783280868
+    },
+    {
+      "title": "Record-breaking ocean drilling reveals why Japan's 2011 tsunami was so deadly",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260625060220.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783280518
+    },
+    {
+      "title": "Ancient bees turned tooth sockets into tiny nurseries 20,000 years ago",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260625060216.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783279412
     },
     {
       "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
@@ -443,15 +471,15 @@
       "timestamp": 1783096200
     },
     {
-      "title": "Celebrate 250 years of America with the Estes Liberty Star model rocket",
-      "link": "https://www.space.com/stargazing/skywatching-kit/celebrate-250-years-of-america-with-the-estes-liberty-star-model-rocket",
+      "title": "1 private spacecraft intercepts another on Space Force's groundbreaking 'Victus Haze' mission",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/1-private-spacecraft-intercepts-another-on-space-forces-groundbreaking-victus-haze-mission",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783094400
     },
     {
-      "title": "1 private spacecraft intercepts another on Space Force's groundbreaking 'Victus Haze' mission",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/1-private-spacecraft-intercepts-another-on-space-forces-groundbreaking-victus-haze-mission",
+      "title": "Celebrate 250 years of America with the Estes Liberty Star model rocket",
+      "link": "https://www.space.com/stargazing/skywatching-kit/celebrate-250-years-of-america-with-the-estes-liberty-star-model-rocket",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783094400
@@ -548,32 +576,11 @@
       "timestamp": 1783071294
     },
     {
-      "title": "Old muscle stem cells can act young again but there’s a catch",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260622014315.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783069204
-    },
-    {
       "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
       "link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1783055100
-    },
-    {
-      "title": "A strange LIGO signal could reveal the missing link behind dark matter",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260626125703.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783050996
-    },
-    {
-      "title": "Scientists stunned as bumble bees solve a classic intelligence test",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260625014755.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783047215
     },
     {
       "title": "2026 NBA free agency rankings, tracker: Resetting the market with most of top 40 signed",
@@ -602,13 +609,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783024832
-    },
-    {
-      "title": "This spray-on powder can stop life-threatening bleeding in 1 second",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260625014835.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783022487
     },
     {
       "title": "LeBron James is being recruited by NFL teams and he should listen: Six landing spots that would make sense",
