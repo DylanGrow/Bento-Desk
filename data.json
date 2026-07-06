@@ -1,6 +1,48 @@
 {
-  "last_updated": 1783363975,
+  "last_updated": 1783371021,
   "items": [
+    {
+      "title": "More clues surface about the origins of interstellar comet 3I/ATLAS",
+      "link": "https://www.space.com/astronomy/comets/more-clues-surface-about-the-origins-of-interstellar-comet-3i-atlas",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783368975
+    },
+    {
+      "title": "What's the oldest Americana flown in space?",
+      "link": "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783367876
+    },
+    {
+      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783367350
+    },
+    {
+      "title": "The Elder Scrolls Online Has Reportedly Lost 'As Much as Half' of Its Development Team as Its Roadmap Is Being Re-Evaluated",
+      "link": "https://www.ign.com/articles/the-elder-scrolls-online-has-reportedly-lost-as-much-as-half-of-its-development-team-as-its-roadmap-is-being-re-evaluated",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783367240
+    },
+    {
+      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+      "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783364519
+    },
+    {
+      "title": "NASA just found a planet 'hiding' in TESS spacecraft data, all thanks to Einstein",
+      "link": "https://www.space.com/astronomy/exoplanets/nasa-just-found-a-planet-hiding-in-tess-spacecraft-data-all-thanks-to-einstein",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783364400
+    },
     {
       "title": "'We Need to Change Course' — Bethesda Boss Tells Staff the Company Must Focus on 'Our Strongest Franchises' as Xbox Layoffs Hit Hard",
       "link": "https://www.ign.com/articles/we-need-to-change-course-bethesda-boss-tells-staff-the-company-must-focus-on-our-strongest-franchises-as-xbox-layoffs-hit-hard",
@@ -9,14 +51,14 @@
       "timestamp": 1783363157
     },
     {
-      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "title": "Every major tech layoff in 2026 that has name-checked AI",
       "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1783362900
     },
     {
-      "title": "Amazon competitor Bookshop.org says Kobo e-reader support will happen this year after all",
+      "title": "Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all",
       "link": "https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -30,8 +72,15 @@
       "timestamp": 1783360800
     },
     {
+      "title": "NRC is (sort of) getting rid of \"as low as reasonably achievable\" standard",
+      "link": "https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783360125
+    },
+    {
       "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
-      "link": "https://arstechnica.com/science/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
+      "link": "https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1783358049
@@ -324,13 +373,6 @@
       "timestamp": 1783332000
     },
     {
-      "title": "'Don't Kill the Disc' — Independent Retailer Launches Petition Calling on PlayStation to Keep Physical Games, Gets Over 115,000 Signatures",
-      "link": "https://www.ign.com/articles/dont-kill-the-disc-independent-retailer-launches-petition-calling-on-playstation-to-keep-physical-games-gets-over-115000-signatures",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783330858
-    },
-    {
       "title": "Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent",
       "link": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
       "source": "TECHCRUNCH",
@@ -415,25 +457,11 @@
       "timestamp": 1783273416
     },
     {
-      "title": "5 desk gadgets that can make your workday better",
-      "link": "https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783263600
-    },
-    {
       "title": "NASA tests advanced new Mars rover prototype in the California desert (video)",
       "link": "https://www.space.com/space-exploration/nasa-tests-advanced-new-mars-rover-prototype-in-the-california-desert-video",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783260000
-    },
-    {
-      "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public",
-      "link": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783258412
     },
     {
       "title": "He-Man and beyond: 20 sci-fi cartoons (some iconic, some weird) that transported '80s and '90s kids to strange new worlds",
@@ -534,13 +562,6 @@
       "timestamp": 1783173600
     },
     {
-      "title": "What did the night sky look like on the 1st Independence Day 250 years ago?",
-      "link": "https://www.space.com/stargazing/what-did-the-night-sky-look-like-on-the-1st-independence-day-250-years-ago",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783166400
-    },
-    {
       "title": "When the ability to smell goes away",
       "link": "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
       "source": "ARSTECHNICA",
@@ -553,13 +574,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1783162841
-    },
-    {
-      "title": "30 years on, \"Independence Day\" still proves the versatility of the original \"The War of the Worlds\"",
-      "link": "https://www.space.com/entertainment/space-movies-shows/30-years-on-independence-day-still-proves-the-versatility-of-the-original-the-war-of-the-worlds",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783162800
     },
     {
       "title": "NASA celebrates America's 250th birthday with incredible views of space",
@@ -637,20 +651,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783082868
-    },
-    {
-      "title": "Inside the Luddite festival harnessing Gen Z’s rage against Big Tech",
-      "link": "https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783080036
-    },
-    {
-      "title": "Despite the darkness, I still see signs of hope in America",
-      "link": "https://arstechnica.com/culture/2026/07/at-250-years-there-are-still-reasons-for-hope-in-america/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783078222
     },
     {
       "title": "Billy Donovan hired by Spurs: Ex-Bulls coach to become Mitch Johnson's lead assistant, per report",
