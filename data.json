@@ -1,6 +1,111 @@
 {
-  "last_updated": 1783354668,
+  "last_updated": 1783363975,
   "items": [
+    {
+      "title": "'We Need to Change Course' — Bethesda Boss Tells Staff the Company Must Focus on 'Our Strongest Franchises' as Xbox Layoffs Hit Hard",
+      "link": "https://www.ign.com/articles/we-need-to-change-course-bethesda-boss-tells-staff-the-company-must-focus-on-our-strongest-franchises-as-xbox-layoffs-hit-hard",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783363157
+    },
+    {
+      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783362900
+    },
+    {
+      "title": "Amazon competitor Bookshop.org says Kobo e-reader support will happen this year after all",
+      "link": "https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783361521
+    },
+    {
+      "title": "Black holes buried in mysterious 'little red dot' galaxies could blast cosmic ghosts at Earth",
+      "link": "https://www.space.com/astronomy/black-holes/black-holes-buried-in-mysterious-little-red-dot-galaxies-could-blast-cosmic-ghosts-at-earth",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783360800
+    },
+    {
+      "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
+      "link": "https://arstechnica.com/science/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783358049
+    },
+    {
+      "title": "Undead Labs Reportedly Won't Be Required to Bring State of Decay 3 to Xbox Game Pass After Microsoft Sale",
+      "link": "https://www.ign.com/articles/undead-labs-reportedly-wont-be-required-to-bring-state-of-decay-3-to-xbox-game-pass-after-microsoft-sale",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783358018
+    },
+    {
+      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+      "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783357498
+    },
+    {
+      "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
+      "link": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783356258
+    },
+    {
+      "title": "Fans Mourn Starfield Amid Xbox Layoffs, With Bethesda Now Seemingly Focused on Fallout, Elder Scrolls, Wolfenstein, Doom, and Quake",
+      "link": "https://www.ign.com/articles/fans-mourn-starfield-amid-xbox-layoffs-with-bethesda-now-seemingly-focused-on-fallout-elder-scrolls-wolfenstein-doom-and-quake",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783356023
+    },
+    {
+      "title": "Scientists solve a 30-year rye pollen mystery that could transform cancer research",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260625014838.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783356001
+    },
+    {
+      "title": "2026 NBA free agency rankings, tracker: Latest deals as Rui Hachimura lands with Clippers",
+      "link": "https://www.cbssports.com/nba/news/2026-nba-free-agency-rankings-tracker/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783355632
+    },
+    {
+      "title": "Unidentified metal spheres found on Australian beach are 'debris from a foreign rocket body', space agency says",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/unidentified-metal-spheres-found-on-australian-beach-are-debris-from-a-foreign-rocket-body-space-agency-says",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783355400
+    },
+    {
+      "title": "As Xbox Tries to Sell or Close Arkane, the Future of Marvel's Blade Remains Unclear, With Reports Suggesting It Was Delayed Internally and Is Running Over Budget",
+      "link": "https://www.ign.com/articles/as-xbox-tries-to-sell-or-close-arkane-the-future-of-marvels-blade-remains-unclear-with-reports-suggesting-it-was-delayed-internally-and-is-running-over-budget",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783355295
+    },
+    {
+      "title": "Apple brings back card payments for Apple Account purchases in India after a four-year hiatus",
+      "link": "https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783354863
+    },
+    {
+      "title": "The incredible shrinking Xbox: Five studios, 3,200 employees let go",
+      "link": "https://arstechnica.com/gaming/2026/07/the-incredible-shrinking-xbox-five-studios-3200-employees-let-go/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783353714
+    },
     {
       "title": "'Acceleration without fuel:' Revolutionary superconducting thruster harnesses Earth's magnetic field in 1st orbital test",
       "link": "https://www.space.com/technology/acceleration-without-fuel-revolutionary-superconducting-thruster-harnesses-earths-magnetic-field-in-1st-orbital-test",
@@ -14,6 +119,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1783352947
+    },
+    {
+      "title": "F1 in Britain: Automated software to blame for crushing expectations",
+      "link": "https://arstechnica.com/cars/2026/07/f1-in-britain-automated-software-to-blame-for-crushing-expectations/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783352755
     },
     {
       "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
@@ -58,7 +170,14 @@
       "timestamp": 1783350091
     },
     {
-      "title": "Canadian spy agency says it hacked drug traffickers, extremists and a ransomware gang last year",
+      "title": "Engineers solved an airflow mystery hidden nearly a mile underground",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260624025416.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783349583
+    },
+    {
+      "title": "Canadian spy agency says it hacked drug traffickers, extremists, and a ransomware gang last year",
       "link": "https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -226,13 +345,6 @@
       "timestamp": 1783327364
     },
     {
-      "title": "ChatGPT Fiction Prompt Researchers Accidentally Stumble Upon a Super User Repeatedly Requesting Stories Featuring Pregnant Characters From Doki Doki Literature Club",
-      "link": "https://www.ign.com/articles/chatgpt-fiction-prompt-researchers-accidentally-stumble-upon-a-super-user-repeatedly-requesting-stories-featuring-pregnant-characters-from-doki-doki-literature-club",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783326512
-    },
-    {
       "title": "Astronomers witness the birth of a magnetar for the first time",
       "link": "https://www.sciencedaily.com/releases/2026/06/260626030450.htm",
       "source": "SCIENCEDAILY",
@@ -245,13 +357,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1783317929
-    },
-    {
-      "title": "Supergirl Inches Past $100 Million at the Global Box Office After One of the Biggest Second Weekend Drops in Superhero Movie History",
-      "link": "https://www.ign.com/articles/supergirl-inches-past-100-million-at-the-global-box-office-after-one-of-the-biggest-second-weekend-drops-in-superhero-movie-history",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783293935
     },
     {
       "title": "Scientists may have finally found how Alzheimer's kills brain cells",
@@ -275,25 +380,11 @@
       "timestamp": 1783287317
     },
     {
-      "title": "Star Trek 4: The Voyage Home 40th Anniversary Re-Release Confirmed for the UK",
-      "link": "https://www.ign.com/articles/star-trek-4-the-voyage-home-40th-anniversary-re-release-confirmed-for-the-uk",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783285420
-    },
-    {
       "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
       "link": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1783283345
-    },
-    {
-      "title": "Marvel Tokon Blocked in 132 Countries, and It Looks Like PSN Requirements Are to Blame",
-      "link": "https://www.ign.com/articles/marvel-tokon-blocked-in-132-countries-and-it-looks-like-psn-requirements-are-to-blame",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783280868
     },
     {
       "title": "Record-breaking ocean drilling reveals why Japan's 2011 tsunami was so deadly",
@@ -343,13 +434,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1783258412
-    },
-    {
-      "title": "Almost 90 new unicorns have been minted so far this year — here they are",
-      "link": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783255659
     },
     {
       "title": "He-Man and beyond: 20 sci-fi cartoons (some iconic, some weird) that transported '80s and '90s kids to strange new worlds",
@@ -415,13 +499,6 @@
       "timestamp": 1783221175
     },
     {
-      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-      "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783198525
-    },
-    {
       "title": "America 250: From 1776 to the moon and beyond (A Space.com series)",
       "link": "https://www.space.com/space-exploration/america-250-from-1776-to-the-moon-and-beyond-a-space-com-series",
       "source": "SPACE",
@@ -429,25 +506,11 @@
       "timestamp": 1783189125
     },
     {
-      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-      "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783188005
-    },
-    {
       "title": "Review: Supergirl is not the disaster its low box office suggests",
       "link": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1783183754
-    },
-    {
-      "title": "Alibaba reportedly bans employees from using Claude Code",
-      "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783182728
     },
     {
       "title": "This Week In Space podcast: Episode 217 — America in Space",
@@ -513,13 +576,6 @@
       "timestamp": 1783153954
     },
     {
-      "title": "New research reveals the hidden pollution left behind by fireworks",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260701205009.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783133289
-    },
-    {
       "title": "Knicks reportedly sign Andre Drummond, striking a major bargain in replacement for Mitchell Robinson",
       "link": "https://www.cbssports.com/nba/news/knicks-sign-andre-drummond-replace-mitchell-robinson/",
       "source": "CBSSPORTS",
@@ -534,32 +590,11 @@
       "timestamp": 1783121063
     },
     {
-      "title": "How to find Uranus this week, the hardest planet I've ever tried to see",
-      "link": "https://www.space.com/stargazing/how-to-find-uranus-this-week-the-hardest-planet-ive-ever-tried-to-see",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783112400
-    },
-    {
-      "title": "As 'Terminator 2: Judgment Day' turns 35, it's time to accept the truth: Terminator shouldn't be back",
-      "link": "https://www.space.com/entertainment/space-movies-shows/as-terminator-2-judgment-day-turns-35-its-time-to-accept-the-truth-terminator-shouldnt-be-back",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783108800
-    },
-    {
       "title": "Jaylen Brown says there was 'lack of respect' from Celtics, exclaims 'The Process is back' after 76ers trade",
       "link": "https://www.cbssports.com/nba/news/jaylen-brown-reaction-celtics-76ers-trade/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783108422
-    },
-    {
-      "title": "Scientists discover why some brains resist Alzheimer's",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260626125709.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783104843
     },
     {
       "title": "LeBron James free agency: Which teams could make blockbuster moves to entice the all-time great?",
@@ -618,27 +653,6 @@
       "timestamp": 1783078222
     },
     {
-      "title": "Visiting the stars (and planets, and telescopes) in VR",
-      "link": "https://arstechnica.com/culture/2026/07/smithsonian-starstruck-vr-exhibit-lets-you-stroll-through-the-stars/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783077335
-    },
-    {
-      "title": "Wing Commander IV and the FMV future that never quite was",
-      "link": "https://arstechnica.com/gaming/2026/07/wing-commander-iv-and-the-fmv-future-that-never-quite-was/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783076619
-    },
-    {
-      "title": "2026 NBA free agency rankings, tracker: Resetting the market with most of top 40 signed",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-free-agency-rankings-tracker/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783037575
-    },
-    {
       "title": "Billy Donovan hired by Spurs: Ex-Bulls coach to become Mitch Johnson's lead assistant, per report",
       "link": "https://www.cbssports.com/nba/news/billy-donovan-hired-spurs-assistant-mitch-johnson/",
       "source": "CBSSPORTS",
@@ -658,20 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783022151
-    },
-    {
-      "title": "Newly discovered PamStealer isn't your typical macOS malware",
-      "link": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783021137
-    },
-    {
-      "title": "FAA proposal: Supersonic airliners can fly over US cities if they’re quiet",
-      "link": "https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783013377
     }
   ]
 }
