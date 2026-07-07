@@ -1,6 +1,41 @@
 {
-  "last_updated": 1783453832,
+  "last_updated": 1783459241,
   "items": [
+    {
+      "title": "James Webb Space Telescope celebrates its 4th birthday with stunning image of a galaxy crash site",
+      "link": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-celebrates-its-4th-birthday-with-stunning-image-of-a-galaxy-crash-site",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783458000
+    },
+    {
+      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783454672
+    },
+    {
+      "title": "Our Milky Way galaxy might be larger than we thought",
+      "link": "https://www.space.com/science/astrophysics/our-milky-way-galaxy-might-be-larger-than-we-thought",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783454400
+    },
+    {
+      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783454300
+    },
+    {
+      "title": "Bethesda, id Software reportedly hit hard by Microsoft layoffs",
+      "link": "https://arstechnica.com/gaming/2026/07/bethesda-id-software-reportedly-hit-hard-by-microsoft-layoffs/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783453979
+    },
     {
       "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
       "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
@@ -366,20 +401,6 @@
       "timestamp": 1783385253
     },
     {
-      "title": "The ‘first’ AI-run ransomware attack still needed a human",
-      "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783382174
-    },
-    {
-      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-      "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783380063
-    },
-    {
       "title": "Brad Stevens' explanation of Jaylen Brown trade is unlikely to soothe Celtics fans",
       "link": "https://www.cbssports.com/nba/news/brad-stevens-explanation-jaylen-brown-trade-celtics/",
       "source": "CBSSPORTS",
@@ -504,27 +525,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783355632
-    },
-    {
-      "title": "Unidentified metal spheres found on Australian beach are 'debris from a foreign rocket body', space agency says",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/unidentified-metal-spheres-found-on-australian-beach-are-debris-from-a-foreign-rocket-body-space-agency-says",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783355400
-    },
-    {
-      "title": "The incredible shrinking Xbox: Five studios, 3,200 employees let go",
-      "link": "https://arstechnica.com/gaming/2026/07/the-incredible-shrinking-xbox-five-studios-3200-employees-let-go/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783353714
-    },
-    {
-      "title": "'Acceleration without fuel:' Revolutionary superconducting thruster harnesses Earth's magnetic field in 1st orbital test",
-      "link": "https://www.space.com/technology/acceleration-without-fuel-revolutionary-superconducting-thruster-harnesses-earths-magnetic-field-in-1st-orbital-test",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783353600
     },
     {
       "title": "NBA rumors: Kawhi Leonard changes agents, Rich Paul lays out factors that could influence LeBron James",
