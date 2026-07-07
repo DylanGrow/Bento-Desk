@@ -1,6 +1,76 @@
 {
-  "last_updated": 1783444245,
+  "last_updated": 1783453832,
   "items": [
+    {
+      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+      "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783452518
+    },
+    {
+      "title": "When will LeBron James pick a new team? Why his free agency could last until mid-July",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-new-team-nba-free-agency/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783451650
+    },
+    {
+      "title": "Google's Pixel 11 launch event is set for August 12, with possible price increases",
+      "link": "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783451314
+    },
+    {
+      "title": "'Project Hail Mary' is finally streaming Amazon Prime Video, and we can't wait to watch it again",
+      "link": "https://www.space.com/entertainment/project-hail-mary-is-finally-streaming-amazon-prime-video-and-we-cant-wait-to-watch-it-again",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783450800
+    },
+    {
+      "title": "Google’s Pixel event is set for August 12",
+      "link": "https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783449509
+    },
+    {
+      "title": "Figma acquires team behind a vibe-coding app",
+      "link": "https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783449421
+    },
+    {
+      "title": "The Weather Channel increases streaming subscription prices by up to $20",
+      "link": "https://arstechnica.com/gadgets/2026/07/the-weather-channels-streaming-app-gets-a-67-percent-price-hike/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783448964
+    },
+    {
+      "title": "The Nintendo Switch's days are numbered—but what is that number?",
+      "link": "https://arstechnica.com/gaming/2026/07/the-nintendo-switchs-days-are-numbered-but-what-is-that-number/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783448189
+    },
+    {
+      "title": "Artemis 2's Jeremy Hansen stepping down from active astronaut duty after epic moon mission",
+      "link": "https://www.space.com/space-exploration/artemis/artemis-2s-jeremy-hansen-stepping-down-from-active-astronaut-duty-after-epic-moon-mission",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783447200
+    },
+    {
+      "title": "Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others",
+      "link": "https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783445075
+    },
     {
       "title": "How public–private partnerships can turn Mars into an economic frontier (Op-Ed)",
       "link": "https://www.space.com/space-exploration/how-public-private-partnerships-can-turn-mars-into-an-economic-frontier-op-ed",
@@ -21,6 +91,13 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783442776
+    },
+    {
+      "title": "This race car is made from plant fibers, volcanoes, ... and seawater?",
+      "link": "https://arstechnica.com/cars/2026/07/this-race-car-is-made-from-plant-fibers-volcanoes-and-seawater/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783442718
     },
     {
       "title": "Hacked, leaked, and held for ransom: The worst breaches of 2026 so far",
@@ -51,11 +128,25 @@
       "timestamp": 1783441259
     },
     {
+      "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
+      "link": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783440893
+    },
+    {
       "title": "China releases 1st photo of Earth's elusive 'quasi-moon' Kamo'oalewa",
       "link": "https://www.space.com/space-exploration/asteroid-comet-missions/china-releases-1st-photo-of-earths-elusive-quasi-moon-kamooalewa",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783440000
+    },
+    {
+      "title": "Dragonflies maneuver like fighter pilots",
+      "link": "https://arstechnica.com/science/2026/07/dragonflies-maneuver-like-fighter-pilots/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783439658
     },
     {
       "title": "Assassin's Creed Black Flag Resynced Steam Pre-Orders Have Already Beaten Skull & Bones' Lifetime Sales, Analyst Claims",
@@ -79,7 +170,7 @@
       "timestamp": 1783437573
     },
     {
-      "title": "Chemistry Ventures is raising $500M for its second fund",
+      "title": "VC firm Chemistry is raising $500M for its second fund",
       "link": "https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -366,39 +457,11 @@
       "timestamp": 1783367876
     },
     {
-      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-      "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783367350
-    },
-    {
-      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
-      "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783364519
-    },
-    {
       "title": "NASA just found a planet 'hiding' in TESS spacecraft data, all thanks to Einstein",
       "link": "https://www.space.com/astronomy/exoplanets/nasa-just-found-a-planet-hiding-in-tess-spacecraft-data-all-thanks-to-einstein",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783364400
-    },
-    {
-      "title": "Every major tech layoff in 2026 that has name-checked AI",
-      "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783362900
-    },
-    {
-      "title": "Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all",
-      "link": "https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783361521
     },
     {
       "title": "Black holes buried in mysterious 'little red dot' galaxies could blast cosmic ghosts at Earth",
@@ -464,25 +527,11 @@
       "timestamp": 1783353600
     },
     {
-      "title": "F1 in Britain: Automated software to blame for crushing expectations",
-      "link": "https://arstechnica.com/cars/2026/07/f1-in-britain-automated-software-to-blame-for-crushing-expectations/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783352755
-    },
-    {
       "title": "NBA rumors: Kawhi Leonard changes agents, Rich Paul lays out factors that could influence LeBron James",
       "link": "https://www.cbssports.com/nba/news/nba-rumors-kawhi-leonard-changes-agents-rich-paul-lebron-james/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783351330
-    },
-    {
-      "title": "There were not one, but two asteroid encounters this weekend",
-      "link": "https://arstechnica.com/space/2026/07/there-were-not-one-but-two-asteroid-encounters-this-weekend/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783350930
     },
     {
       "title": "Engineers solved an airflow mystery hidden nearly a mile underground",
@@ -499,46 +548,11 @@
       "timestamp": 1783348897
     },
     {
-      "title": "Japan's Hayabusa2 probe captures remarkable photo of a two-headed asteroid 62 million miles away",
-      "link": "https://www.space.com/space-exploration/asteroid-comet-missions/japans-hayabusa2-probe-captures-remarkable-photo-of-a-two-headed-asteroid-62-million-miles-away",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783347604
-    },
-    {
-      "title": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
-      "link": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783347462
-    },
-    {
-      "title": "Artemis moon astronauts visit Capitol Hill | Space photo of the day for July 6, 2026",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/artemis-moon-astronauts-visit-capitol-hill-space-photo-of-the-day-for-july-6-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783346400
-    },
-    {
       "title": "Why LeBron James should sign with the Minnesota Timberwolves",
       "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-timberwolves-championship-anthony-edwards/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783343563
-    },
-    {
-      "title": "Bentley teases its first EV, the Torcal",
-      "link": "https://arstechnica.com/cars/2026/07/bentley-teases-its-first-ev-the-torcal/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783337438
-    },
-    {
-      "title": "The Czinger 21C might be the wildest car we drive all year",
-      "link": "https://arstechnica.com/cars/2026/07/the-czinger-21c-might-be-the-wildest-car-we-drive-all-year/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783335614
     },
     {
       "title": "Streetlights are trapping thousands of pill bugs in giant “death spirals”",
@@ -588,13 +602,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1783275224
-    },
-    {
-      "title": "Chemical accidents rise as Trump administration proposes weakening safety rules",
-      "link": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783249522
     },
     {
       "title": "Scientists discover the deep sleep circuit that builds muscle, burns fat, and boosts the brain",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783108422
-    },
-    {
-      "title": "LeBron James free agency: Which teams could make blockbuster moves to entice the all-time great?",
-      "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-kyrie-irving-anthony-davis-warriors-cavaliers-76ers/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783103541
     }
   ]
 }
