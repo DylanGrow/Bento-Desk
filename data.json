@@ -1,6 +1,111 @@
 {
-  "last_updated": 1783424747,
+  "last_updated": 1783434346,
   "items": [
+    {
+      "title": "This startup pits dealerships against each other to bid on your used car",
+      "link": "https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783432800
+    },
+    {
+      "title": "Astronaut flexes his muscles mid-spacewalk | Space photo of the day for July 7, 2026",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/astronaut-flexes-his-muscles-mid-spacewalk-space-photo-of-the-day-for-july-7-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783432800
+    },
+    {
+      "title": "PlayStation's First Tweet Since It Announced Plans to Kill Discs Is Going About as Well as You'd Expect",
+      "link": "https://www.ign.com/articles/playstations-first-tweet-since-it-announced-plans-to-kill-discs-is-going-about-as-well-as-youd-expect",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783431758
+    },
+    {
+      "title": "Xbox Makes First Game Pass Lineup Announcement Following Layoffs — and CEO Asha Sharma's Admission That Microsoft's Gaming Strategy Failed to Work Out",
+      "link": "https://www.ign.com/articles/xbox-makes-first-game-pass-lineup-announcement-following-layoffs-and-ceo-asha-sharmas-admission-that-microsofts-gaming-strategy-failed-to-work-out",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783430324
+    },
+    {
+      "title": "Nikola Jokić plans to wait until next offseason to extend: What that means for the Nuggets",
+      "link": "https://www.cbssports.com/nba/news/nikola-jokic-nuggets-contract-extension-delay/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783430108
+    },
+    {
+      "title": "Hacktivists call out Trump by hacking and defacing US Army websites",
+      "link": "https://techcrunch.com/2026/07/07/hacktivists-call-out-trump-by-hacking-and-defacing-us-army-websites/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783429800
+    },
+    {
+      "title": "Analyzing USMNT's run after World Cup exit; Top 25 MLB trade deadline candidates",
+      "link": "https://www.cbssports.com/mlb/news/analyzing-usmnts-run-after-world-cup-exit-top-25-mlb-trade-deadline-candidates/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783429491
+    },
+    {
+      "title": "Chinese scientists find the best way to nuke an asteroid on its way to impact Earth",
+      "link": "https://www.space.com/space-exploration/asteroid-comet-missions/chinese-scientists-find-the-best-way-to-nuke-an-asteroid-on-its-way-to-impact-earth",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783429200
+    },
+    {
+      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+      "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783425600
+    },
+    {
+      "title": "SpaceX just launched the 1st-ever nuclear-powered commercial satellite",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-just-launched-the-1st-ever-nuclear-powered-commercial-satellite",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783425600
+    },
+    {
+      "title": "'My Heart's With All of You' — John Romero Says id Software Has 'Done a Great Job' Moving the Studio's Legacy Forward and Hopes Someone Is Working to Preserve It All Amid Xbox Layoffs",
+      "link": "https://www.ign.com/articles/my-hearts-with-all-of-you-john-romero-says-id-software-has-done-a-great-job-moving-the-studios-legacy-forward-and-hopes-someone-is-working-to-preserve-it-all-amid-xbox-layoffs",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783424947
+    },
+    {
+      "title": "ULA's last six Atlas Vs can't launch anything besides Boeing's Starliner",
+      "link": "https://arstechnica.com/space/2026/07/after-a-stellar-career-ulas-atlas-v-rocket-last-act-is-waiting-on-starliner/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783422915
+    },
+    {
+      "title": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
+      "link": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783422018
+    },
+    {
+      "title": "Staff at Fallout: New Vegas Developer Obsidian Reportedly Left Unsure How 'Huge List of Projects' Can Continue After Xbox Layoffs Hit Hard",
+      "link": "https://www.ign.com/articles/staff-at-fallout-new-vegas-developer-obsidian-reportedly-left-unsure-how-huge-list-of-projects-can-continue-after-xbox-layoffs-hit-hard",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783421841
+    },
+    {
+      "title": "First LEGO Pokémon Minifigures Revealed, Including Professor Oak and Red, Plus Pikachu and Eevee",
+      "link": "https://www.ign.com/articles/first-lego-pokmon-minifigures-revealed-including-professor-oak-and-red-plus-pikachu-and-eevee",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783421830
+    },
     {
       "title": "'She'd Be Great as Mystique': Obsession Star Inde Navarette Confirms Meeting With X-Men Director Jake Schreier, as Marvel Fans Discuss Who She's Likely to Play",
       "link": "https://www.ign.com/articles/shed-be-great-as-mystique-obsession-star-inde-navarette-confirms-meeting-with-x-men-director-jake-schreier-as-marvel-fans-discuss-who-shes-likely-to-play",
@@ -268,13 +373,6 @@
       "timestamp": 1783355400
     },
     {
-      "title": "As Xbox Tries to Sell or Close Arkane, the Future of Marvel's Blade Remains Unclear, With Reports Suggesting It Was Delayed Internally and Is Running Over Budget",
-      "link": "https://www.ign.com/articles/as-xbox-tries-to-sell-or-close-arkane-the-future-of-marvels-blade-remains-unclear-with-reports-suggesting-it-was-delayed-internally-and-is-running-over-budget",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783355295
-    },
-    {
       "title": "Apple brings back card payments for Apple Account purchases in India after a four-year hiatus",
       "link": "https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/",
       "source": "TECHCRUNCH",
@@ -294,13 +392,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783353600
-    },
-    {
-      "title": "Nintendo Switch Consoles Will No Longer Be Sold From Mid-February 2027 Onwards — at Least in Europe",
-      "link": "https://www.ign.com/articles/nintendo-switch-consoles-will-no-longer-be-sold-from-mid-february-2027-onwards-at-least-in-europe",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783352947
     },
     {
       "title": "F1 in Britain: Automated software to blame for crushing expectations",
@@ -338,20 +429,6 @@
       "timestamp": 1783350930
     },
     {
-      "title": "Double Fine and Compulsion Confirm Status Following Xbox Cuts, Get to Keep Franchises Such as Psychonauts and South of Midnight",
-      "link": "https://www.ign.com/articles/double-fine-and-compulsion-confirm-status-following-xbox-cuts-get-to-keep-franchises-such-as-psychonauts-and-south-of-midnight",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783350437
-    },
-    {
-      "title": "The Most Significant Restructure in Xbox History: Live Report",
-      "link": "https://www.ign.com/articles/the-most-significant-restructure-in-xbox-history-live-report",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783350091
-    },
-    {
       "title": "Engineers solved an airflow mystery hidden nearly a mile underground",
       "link": "https://www.sciencedaily.com/releases/2026/06/260624025416.htm",
       "source": "SCIENCEDAILY",
@@ -387,13 +464,6 @@
       "timestamp": 1783347462
     },
     {
-      "title": "How to reserve and change your WhatsApp username",
-      "link": "https://techcrunch.com/2026/07/06/how-to-reserve-and-change-your-whatsapp-username/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783347330
-    },
-    {
       "title": "Artemis moon astronauts visit Capitol Hill | Space photo of the day for July 6, 2026",
       "link": "https://www.space.com/space-exploration/human-spaceflight/artemis-moon-astronauts-visit-capitol-hill-space-photo-of-the-day-for-july-6-2026",
       "source": "SPACE",
@@ -401,25 +471,11 @@
       "timestamp": 1783346400
     },
     {
-      "title": "Xbox Boss Asha Sharma Announces 3,200 Layoffs, Including 1,600 Today, With 4 Studios Leaving for New Management — Read the Email to Staff in Full",
-      "link": "https://www.ign.com/articles/xbox-boss-asha-sharma-announces-3200-layoffs-including-1600-today-with-4-studios-leaving-for-new-management-read-the-email-to-staff-in-full",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783344701
-    },
-    {
       "title": "Why LeBron James should sign with the Minnesota Timberwolves",
       "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-timberwolves-championship-anthony-edwards/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783343563
-    },
-    {
-      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
-      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783342800
     },
     {
       "title": "NASA will have to find a way to service its new alien-hunting space telescope",
@@ -455,13 +511,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783332000
-    },
-    {
-      "title": "Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent",
-      "link": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783328400
     },
     {
       "title": "Streetlights are trapping thousands of pill bugs in giant “death spirals”",
@@ -513,20 +562,6 @@
       "timestamp": 1783275224
     },
     {
-      "title": "NASA tests advanced new Mars rover prototype in the California desert (video)",
-      "link": "https://www.space.com/space-exploration/nasa-tests-advanced-new-mars-rover-prototype-in-the-california-desert-video",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783260000
-    },
-    {
-      "title": "He-Man and beyond: 20 sci-fi cartoons (some iconic, some weird) that transported '80s and '90s kids to strange new worlds",
-      "link": "https://www.space.com/entertainment/space-movies-shows/he-man-and-beyond-20-sci-fi-cartoons-some-iconic-some-weird-that-transported-80s-and-90s-kids-to-strange-new-worlds",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783252800
-    },
-    {
       "title": "Chemical accidents rise as Trump administration proposes weakening safety rules",
       "link": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/",
       "source": "ARSTECHNICA",
@@ -539,13 +574,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1783248902
-    },
-    {
-      "title": "10 best Spanish cities to see the total solar eclipse 2026",
-      "link": "https://www.space.com/stargazing/solar-eclipses/10-best-spanish-cities-to-see-the-total-solar-eclipse-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783245600
     },
     {
       "title": "Scientists discover the deep sleep circuit that builds muscle, burns fat, and boosts the brain",
@@ -583,25 +611,11 @@
       "timestamp": 1783221175
     },
     {
-      "title": "Review: Supergirl is not the disaster its low box office suggests",
-      "link": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783183754
-    },
-    {
       "title": "Timberwolves have a simple pitch for LeBron James, and there's a chance it works",
       "link": "https://www.cbssports.com/nba/news/timberwolves-simple-free-agency-pitch-lebron-james/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783177613
-    },
-    {
-      "title": "When the ability to smell goes away",
-      "link": "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783163071
     },
     {
       "title": "NASA celebrates America's 250th birthday with incredible views of space",
@@ -658,20 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783091108
-    },
-    {
-      "title": "Ronaldo, Portugal survive Round of 32 thriller at World Cup; NBA's top 5 offseason moves",
-      "link": "https://www.cbssports.com/soccer/news/ronaldo-portugal-survive-round-of-32-thriller-at-world-cup-nbas-top-5-offseason-moves/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783082868
-    },
-    {
-      "title": "Billy Donovan hired by Spurs: Ex-Bulls coach to become Mitch Johnson's lead assistant, per report",
-      "link": "https://www.cbssports.com/nba/news/billy-donovan-hired-spurs-assistant-mitch-johnson/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783036113
     }
   ]
 }
