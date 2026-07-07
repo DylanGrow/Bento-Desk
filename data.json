@@ -1,12 +1,75 @@
 {
-  "last_updated": 1783459241,
+  "last_updated": 1783465100,
   "items": [
+    {
+      "title": "Final extension: Startup Battlefield Australia applications now close July 20",
+      "link": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783463400
+    },
+    {
+      "title": "Call of Duty: Black Ops 1 and 2's Leaked PS5 Trophy List Indicates Some Content May Be Missing",
+      "link": "https://www.ign.com/articles/call-of-duty-black-ops-1-and-2s-leaked-ps5-trophy-list-indicates-some-content-may-be-missing",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783463200
+    },
+    {
+      "title": "Meta rolls out Muse, a new AI image generator",
+      "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783462690
+    },
+    {
+      "title": "New Minecraft Update Finally Allows Players to Sit Down",
+      "link": "https://www.ign.com/articles/new-minecraft-update-finally-allows-players-to-sit-down",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783462168
+    },
+    {
+      "title": "Why the Celtics traded Jaylen Brown, and why they could actually be better for it",
+      "link": "https://www.cbssports.com/nba/news/why-celtics-traded-jaylen-brown-better-for-it/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783460245
+    },
+    {
+      "title": "NBA rumors: Lakers 'most active' in Jonathan Kuminga talks, pitching him on 'likely starting role'",
+      "link": "https://www.cbssports.com/nba/news/nba-rumors-jonathan-kuminga-lakers/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783458325
+    },
+    {
+      "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
+      "link": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783458187
+    },
     {
       "title": "James Webb Space Telescope celebrates its 4th birthday with stunning image of a galaxy crash site",
       "link": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-celebrates-its-4th-birthday-with-stunning-image-of-a-galaxy-crash-site",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783458000
+    },
+    {
+      "title": "Surprisingly large number of people may have marker for tick-linked meat allergy",
+      "link": "https://arstechnica.com/health/2026/07/surprisingly-large-number-of-people-may-have-marker-for-tick-linked-meat-allergy/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783456359
+    },
+    {
+      "title": "SCOTUS lets Texas enforce app store law that Big Tech calls \"censorship regime\"",
+      "link": "https://arstechnica.com/tech-policy/2026/07/supreme-court-lets-texas-enforce-age-verification-law-on-app-stores/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783455504
     },
     {
       "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
@@ -380,25 +443,11 @@
       "timestamp": 1783416047
     },
     {
-      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-      "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783414800
-    },
-    {
       "title": "AI just supercharged the race to find room temperature superconductors",
       "link": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1783402791
-    },
-    {
-      "title": "Netflix invented binge-watching. Now it may have outgrown it.",
-      "link": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783385253
     },
     {
       "title": "Brad Stevens' explanation of Jaylen Brown trade is unlikely to soothe Celtics fans",
@@ -443,25 +492,11 @@
       "timestamp": 1783371600
     },
     {
-      "title": "Meccha Chameleon Hits an Astonishing 15 Million Sales, Teases Collaboration With Famous Japanese Star — and Fans Have Theories for Who It Might Be",
-      "link": "https://www.ign.com/articles/meccha-chameleon-hits-an-astonishing-15-million-sales-teases-collaboration-with-famous-japanese-star-and-fans-have-theories-for-who-it-might-be",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783371375
-    },
-    {
       "title": "Kremlin suspected of flying drones over Europe using Russian shadow fleet",
       "link": "https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1783371162
-    },
-    {
-      "title": "U.S. Helps Vietnam Arrest 7 People Allegedly Involved in One of the Largest and Most Popular Free Streaming Sites for Anime",
-      "link": "https://www.ign.com/articles/us-helps-vietnam-arrest-7-people-allegedly-involved-in-one-of-the-largest-and-most-popular-free-streaming-sites-for-anime",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783370040
     },
     {
       "title": "More clues surface about the origins of interstellar comet 3I/ATLAS",
@@ -490,27 +525,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783360800
-    },
-    {
-      "title": "NRC is (sort of) getting rid of \"as low as reasonably achievable\" standard",
-      "link": "https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783360125
-    },
-    {
-      "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
-      "link": "https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783358049
-    },
-    {
-      "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
-      "link": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783356258
     },
     {
       "title": "Scientists solve a 30-year rye pollen mystery that could transform cancer research",
@@ -658,20 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783129835
-    },
-    {
-      "title": "The Warriors are in trouble if their LeBron James dream doesn't come true",
-      "link": "https://www.cbssports.com/nba/news/warriors-offseason-lebron-james-free-agency-steph-curry/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783121063
-    },
-    {
-      "title": "Jaylen Brown says there was 'lack of respect' from Celtics, exclaims 'The Process is back' after 76ers trade",
-      "link": "https://www.cbssports.com/nba/news/jaylen-brown-reaction-celtics-76ers-trade/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783108422
     }
   ]
 }
