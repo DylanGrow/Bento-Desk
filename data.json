@@ -1,6 +1,118 @@
 {
-  "last_updated": 1783434346,
+  "last_updated": 1783444245,
   "items": [
+    {
+      "title": "How public–private partnerships can turn Mars into an economic frontier (Op-Ed)",
+      "link": "https://www.space.com/space-exploration/how-public-private-partnerships-can-turn-mars-into-an-economic-frontier-op-ed",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783443600
+    },
+    {
+      "title": "Christopher Nolan's The Prestige Is Returning to Theaters",
+      "link": "https://www.ign.com/articles/christopher-nolans-the-prestige-is-returning-to-theaters",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783442914
+    },
+    {
+      "title": "Jalen Brunson played through Knicks' championship run with wrist injury, is scheduled for surgery",
+      "link": "https://www.cbssports.com/nba/news/jalen-brunson-injury-timeline-wrist-surgery-knicks/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783442776
+    },
+    {
+      "title": "Hacked, leaked, and held for ransom: The worst breaches of 2026 so far",
+      "link": "https://techcrunch.com/2026/07/07/the-worst-hacks-and-breaches-of-2026-so-far/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783442700
+    },
+    {
+      "title": "Matt Damon Says Christopher Nolan Filmed a 60-Foot Cyclops Puppet in a Real-Life Cave for The Odyssey, Rather Than Just Relying on CGI",
+      "link": "https://www.ign.com/articles/matt-damon-says-christopher-nolan-filmed-a-60-foot-cyclops-puppet-in-a-real-life-cave-for-the-odyssey-rather-than-just-relying-on-cgi",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783442635
+    },
+    {
+      "title": "Claude Cowork expands to mobile and web",
+      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783441638
+    },
+    {
+      "title": "LeBron James landing spot predictions: Favorite emerges one week into free agency",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-landing-spot-predictions-favorite-free-agency-july-7/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783441259
+    },
+    {
+      "title": "China releases 1st photo of Earth's elusive 'quasi-moon' Kamo'oalewa",
+      "link": "https://www.space.com/space-exploration/asteroid-comet-missions/china-releases-1st-photo-of-earths-elusive-quasi-moon-kamooalewa",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783440000
+    },
+    {
+      "title": "Assassin's Creed Black Flag Resynced Steam Pre-Orders Have Already Beaten Skull & Bones' Lifetime Sales, Analyst Claims",
+      "link": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-steam-pre-orders-have-already-beaten-skull-bones-lifetime-sales-analyst-claims",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783439586
+    },
+    {
+      "title": "The Avatar: The Last Airbender Movie That Suffered Such a Devastating Leak Earlier This Year Finally Has a Release Date on Paramount+",
+      "link": "https://www.ign.com/articles/the-avatar-the-last-airbender-movie-that-suffered-such-a-devastating-leak-earlier-this-year-finally-has-a-release-date-on-paramount",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783438058
+    },
+    {
+      "title": "X adds a video editor to encourage creators to post original content, not stolen reposts",
+      "link": "https://techcrunch.com/2026/07/07/x-adds-a-video-editor-to-encourage-creators-to-post-original-content-not-stolen-reposts/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783437573
+    },
+    {
+      "title": "Chemistry Ventures is raising $500M for its second fund",
+      "link": "https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783436522
+    },
+    {
+      "title": "'That's going to come back and bite us': Former NASA chief questions Artemis moon lander plans",
+      "link": "https://www.space.com/space-exploration/artemis/thats-going-to-come-back-and-bite-us-former-nasa-chief-questions-artemis-moon-lander-plans",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783436400
+    },
+    {
+      "title": "Donovan Mitchell signs $273M contract extension with Cavaliers: What it means for Cavs future, LeBron pursuit",
+      "link": "https://www.cbssports.com/nba/news/donovan-mitchell-contract-extension-cavaliers-lebron-pusuit/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783435810
+    },
+    {
+      "title": "AI law startup Norm raises $120M, hits unicorn valuation",
+      "link": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783434942
+    },
+    {
+      "title": "Bond and Hitman Developer Closing a Studio and Laying Off Staff After Xbox Pulls Funding",
+      "link": "https://www.ign.com/articles/bond-and-hitman-developer-closing-a-studio-and-laying-off-staff-after-xbox-pulls-funding",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783433927
+    },
     {
       "title": "This startup pits dealerships against each other to bid on your used car",
       "link": "https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/",
@@ -28,6 +140,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1783430324
+    },
+    {
+      "title": "New virus catalog reveals which pathogens pose the greatest threat",
+      "link": "https://arstechnica.com/health/2026/07/new-virus-catalog-reveals-which-pathogens-pose-the-greatest-threat/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783430149
     },
     {
       "title": "Nikola Jokić plans to wait until next offseason to extend: What that means for the Nuggets",
@@ -240,13 +359,6 @@
       "timestamp": 1783368975
     },
     {
-      "title": "Pokémon Go Hosting Major 10th Anniversary Broadcast This Week",
-      "link": "https://www.ign.com/articles/pokmon-go-hosting-major-10th-anniversary-broadcast-this-week",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783368000
-    },
-    {
       "title": "What is the oldest American object ever launched into space?",
       "link": "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/",
       "source": "ARSTECHNICA",
@@ -261,13 +373,6 @@
       "timestamp": 1783367350
     },
     {
-      "title": "The Elder Scrolls Online Has Reportedly Lost 'As Much as Half' of Its Development Team as Its Roadmap Is Being Re-Evaluated",
-      "link": "https://www.ign.com/articles/the-elder-scrolls-online-has-reportedly-lost-as-much-as-half-of-its-development-team-as-its-roadmap-is-being-re-evaluated",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783367240
-    },
-    {
       "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
       "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
       "source": "TECHCRUNCH",
@@ -280,13 +385,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783364400
-    },
-    {
-      "title": "'We Need to Change Course' — Bethesda Boss Tells Staff the Company Must Focus on 'Our Strongest Franchises' as Xbox Layoffs Hit Hard",
-      "link": "https://www.ign.com/articles/we-need-to-change-course-bethesda-boss-tells-staff-the-company-must-focus-on-our-strongest-franchises-as-xbox-layoffs-hit-hard",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783363157
     },
     {
       "title": "Every major tech layoff in 2026 that has name-checked AI",
@@ -324,32 +422,11 @@
       "timestamp": 1783358049
     },
     {
-      "title": "Undead Labs Reportedly Won't Be Required to Bring State of Decay 3 to Xbox Game Pass After Microsoft Sale",
-      "link": "https://www.ign.com/articles/undead-labs-reportedly-wont-be-required-to-bring-state-of-decay-3-to-xbox-game-pass-after-microsoft-sale",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783358018
-    },
-    {
-      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
-      "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783357498
-    },
-    {
       "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
       "link": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1783356258
-    },
-    {
-      "title": "Fans Mourn Starfield Amid Xbox Layoffs, With Bethesda Now Seemingly Focused on Fallout, Elder Scrolls, Wolfenstein, Doom, and Quake",
-      "link": "https://www.ign.com/articles/fans-mourn-starfield-amid-xbox-layoffs-with-bethesda-now-seemingly-focused-on-fallout-elder-scrolls-wolfenstein-doom-and-quake",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783356023
     },
     {
       "title": "Scientists solve a 30-year rye pollen mystery that could transform cancer research",
@@ -373,13 +450,6 @@
       "timestamp": 1783355400
     },
     {
-      "title": "Apple brings back card payments for Apple Account purchases in India after a four-year hiatus",
-      "link": "https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783354863
-    },
-    {
       "title": "The incredible shrinking Xbox: Five studios, 3,200 employees let go",
       "link": "https://arstechnica.com/gaming/2026/07/the-incredible-shrinking-xbox-five-studios-3200-employees-let-go/",
       "source": "ARSTECHNICA",
@@ -401,25 +471,11 @@
       "timestamp": 1783352755
     },
     {
-      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
-      "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783351963
-    },
-    {
       "title": "NBA rumors: Kawhi Leonard changes agents, Rich Paul lays out factors that could influence LeBron James",
       "link": "https://www.cbssports.com/nba/news/nba-rumors-kawhi-leonard-changes-agents-rich-paul-lebron-james/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783351330
-    },
-    {
-      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
-      "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783351328
     },
     {
       "title": "There were not one, but two asteroid encounters this weekend",
@@ -434,13 +490,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1783349583
-    },
-    {
-      "title": "Canadian spy agency says it hacked drug traffickers, extremists, and a ransomware gang last year",
-      "link": "https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783349039
     },
     {
       "title": "LeBron James next team predictions: Four-time MVP highly likely to go back to Cavaliers after leaving Lakers",
@@ -478,20 +527,6 @@
       "timestamp": 1783343563
     },
     {
-      "title": "NASA will have to find a way to service its new alien-hunting space telescope",
-      "link": "https://www.space.com/space-exploration/nasa-will-have-to-find-a-way-to-service-its-new-alien-hunting-space-telescope",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783342800
-    },
-    {
-      "title": "Astronomers discover radio signals coming from rare 'Blue Eye Pulsar' after decades of silence",
-      "link": "https://www.space.com/astronomy/stars/astronomers-discover-radio-signals-coming-from-rare-blue-eye-pulsar-after-decades-of-silence",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783339200
-    },
-    {
       "title": "Bentley teases its first EV, the Torcal",
       "link": "https://arstechnica.com/cars/2026/07/bentley-teases-its-first-ev-the-torcal/",
       "source": "ARSTECHNICA",
@@ -504,13 +539,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1783335614
-    },
-    {
-      "title": "'Once-in-a-millennium' asteroid flyby will be visible to much of the world in 2029",
-      "link": "https://www.space.com/astronomy/asteroids/once-in-a-millennium-asteroid-flyby-will-be-visible-to-much-of-the-world-in-2029",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783332000
     },
     {
       "title": "Streetlights are trapping thousands of pill bugs in giant “death spirals”",
@@ -567,13 +595,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1783249522
-    },
-    {
-      "title": "The missing 500 million: Cosmic bombardment melted Earth's first crust",
-      "link": "https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783248902
     },
     {
       "title": "Scientists discover the deep sleep circuit that builds muscle, burns fat, and boosts the brain",
@@ -651,27 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783103541
-    },
-    {
-      "title": "Deandre Ayton trade grades: Lakers ship veteran center to Wizards with eyes on free-agent replacement",
-      "link": "https://www.cbssports.com/nba/news/deandre-ayton-trade-grades-lakers-wizards-walker-kessler/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783102721
-    },
-    {
-      "title": "NBA odds, futures: How will Jaylen Brown's trade impact 2027 NBA Finals, Eastern Conference outlook?",
-      "link": "https://www.cbssports.com/betting/news/nba-odds-futures-how-will-jaylen-browns-trade-impact-2027-nba-finals-eastern-conference-outlook/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783101849
-    },
-    {
-      "title": "Rich Paul breaks down LeBron James' free agency: What The King's agent said about 10 teams in the hunt",
-      "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-rich-paul-details-teams-under-consideration/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783091108
     }
   ]
 }
