@@ -1,12 +1,131 @@
 {
-  "last_updated": 1783531556,
+  "last_updated": 1783538414,
   "items": [
+    {
+      "title": "This startup thinks robotics is about to have its ChatGPT moment",
+      "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783538355
+    },
+    {
+      "title": "Trump gifts Artemis astronauts a flag from the US Capitol to plant on the moon",
+      "link": "https://www.space.com/space-exploration/artemis/trump-gifts-artemis-astronauts-a-flag-from-the-us-capitol-to-plant-on-the-moon",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783537200
+    },
+    {
+      "title": "Dune: Part Three's New Trailer Highlights the Rift Between Paul Atreides and Chani",
+      "link": "https://www.ign.com/articles/dune-part-threes-new-trailer-highlights-the-rift-between-paul-atreides-and-chani",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783536648
+    },
+    {
+      "title": "Obsidian Reportedly Cancels Avowed 2 to Focus on a New Fallout Game",
+      "link": "https://www.ign.com/articles/obsidian-cancels-avowed-2-to-focus-on-new-fallout-game",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783536495
+    },
+    {
+      "title": "Skybound Unveils Surprise G.I. Joe and Tomb Raider Comic Crossover",
+      "link": "https://www.ign.com/articles/skybound-unveils-surprise-gi-joe-and-tomb-raider-comic-crossover",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783536431
+    },
+    {
+      "title": "Elon Musk says X will send DMs when posts you’ve engaged with are corrected",
+      "link": "https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783536380
+    },
+    {
+      "title": "Emmy Nominations 2026: The Full List for Every Major Category",
+      "link": "https://www.ign.com/articles/emmy-nominations-2026-the-full-list-for-every-major-category",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783536050
+    },
+    {
+      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+      "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783535408
+    },
+    {
+      "title": "Aussie gov't tells volunteers to throw out thousands of functioning test routers",
+      "link": "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783534216
+    },
+    {
+      "title": "TikTok users don't have as much agency over their FYPs as they think",
+      "link": "https://arstechnica.com/science/2026/07/how-much-control-do-tiktok-users-really-have-over-fyps/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783533649
+    },
+    {
+      "title": "Shoebox-sized 'detector satellites' could sniff out a nuclear bomb in space",
+      "link": "https://www.space.com/space-exploration/satellites/shoebox-sized-detector-satellites-could-sniff-out-a-nuclear-bomb-in-space",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783533600
+    },
+    {
+      "title": "Mariska Hargitay? Peyton Manning? Who should get the chance to pitch LeBron James on their team next?",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-pitch-warriors-knicks-nuggets-cavaliers-timberwolves-celtics-mavericks-heat/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783532961
+    },
+    {
+      "title": "Why this CEO thinks video games make better training data than the internet",
+      "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783532875
+    },
+    {
+      "title": "US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers",
+      "link": "https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783532694
+    },
+    {
+      "title": "Miami-based City Labs achieves a first for commercial nuclear power in space",
+      "link": "https://arstechnica.com/space/2026/07/miami-based-city-labs-achieves-a-first-for-commercial-nuclear-power-in-space/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783531604
+    },
+    {
+      "title": "'The Internet Did the Internet' — Dwayne Johnson Laughs Off Live-Action Moana Wig Memes",
+      "link": "https://www.ign.com/articles/the-internet-did-the-internet-dwayne-johnson-laughs-off-live-action-moana-wig-memes",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783531589
+    },
     {
       "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
       "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1783530678
+    },
+    {
+      "title": "OpenAI releases new voice models for more natural live conversations",
+      "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783530000
     },
     {
       "title": "Venus takes center stage with 2 easy-to-see sky shows this July. Here's when and where to look",
@@ -21,6 +140,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1783529007
+    },
+    {
+      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
+      "link": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783528788
     },
     {
       "title": "Crypto VC firm Paradigm raises $1.2B to invest in ‘technical frontier’ startups",
@@ -247,20 +373,6 @@
       "timestamp": 1783508534
     },
     {
-      "title": "Controversial Uwe Boll Movie Citizen Vigilante Gets PS5 Tie-In Game Next Week — And It Looks as Rough As You'd Expect",
-      "link": "https://www.ign.com/articles/controversial-uwe-boll-movie-citizen-vigilante-gets-ps5-tie-in-game-next-week-and-it-looks-as-rough-as-youd-expect",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783507212
-    },
-    {
-      "title": "Christopher Nolan Explains Why He Went for Contemporary Dialogue in The Odyssey, but Admits the Decision 'Might Bite Me on the Ass'",
-      "link": "https://www.ign.com/articles/christopher-nolan-explains-why-he-went-for-contemporary-dialogue-in-the-odyssey-but-admits-the-decision-might-bite-me-on-the-ass",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783506369
-    },
-    {
       "title": "Earth may survive the sun's death after all, new study suggests",
       "link": "https://www.space.com/astronomy/earth/earth-may-survive-the-suns-death-after-all-new-study-suggests",
       "source": "SPACE",
@@ -268,46 +380,11 @@
       "timestamp": 1783504800
     },
     {
-      "title": "Microsoft Reportedly Plans to Make More of Its Best Games Console Exclusive So People Have a Reason to Buy an Xbox — So What Could Skip PlayStation?",
-      "link": "https://www.ign.com/articles/microsoft-reportedly-plans-to-make-more-of-its-best-games-console-exclusive-so-people-have-a-reason-to-buy-an-xbox-so-what-could-skip-playstation",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783502702
-    },
-    {
-      "title": "Nintendo Switch Online July Additions Include a Wario Classic",
-      "link": "https://www.ign.com/articles/nintendo-switch-online-july-additions-include-a-wario-classic",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783501278
-    },
-    {
-      "title": "Nintendo Confirms Mario Kart Tour Shutdown After 7 Years, No Offline Version Offered",
-      "link": "https://www.ign.com/articles/nintendo-confirms-mario-kart-tour-shutdown-after-7-years-no-offline-version-offered",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783500174
-    },
-    {
-      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-      "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783497600
-    },
-    {
       "title": "Ancient DNA reveals the mysterious collapse of Europe's megalith builders",
       "link": "https://www.sciencedaily.com/releases/2026/07/260707054108.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1783497055
-    },
-    {
-      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-      "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783494960
     },
     {
       "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
@@ -352,25 +429,11 @@
       "timestamp": 1783466429
     },
     {
-      "title": "Final extension: Startup Battlefield Australia applications now close July 20",
-      "link": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783463400
-    },
-    {
       "title": "Michigan sees explosive outbreak of diarrheal parasite with over 700 cases",
       "link": "https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1783463340
-    },
-    {
-      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
-      "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783462690
     },
     {
       "title": "Why the Celtics traded Jaylen Brown, and why they could actually be better for it",
@@ -415,13 +478,6 @@
       "timestamp": 1783455504
     },
     {
-      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
-      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783454672
-    },
-    {
       "title": "Our Milky Way galaxy might be larger than we thought",
       "link": "https://www.space.com/science/astrophysics/our-milky-way-galaxy-might-be-larger-than-we-thought",
       "source": "SPACE",
@@ -457,20 +513,6 @@
       "timestamp": 1783450800
     },
     {
-      "title": "The Weather Channel increases streaming subscription prices by up to $20",
-      "link": "https://arstechnica.com/gadgets/2026/07/the-weather-channels-streaming-app-gets-a-67-percent-price-hike/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783448964
-    },
-    {
-      "title": "The Nintendo Switch's days are numbered—but what is that number?",
-      "link": "https://arstechnica.com/gaming/2026/07/the-nintendo-switchs-days-are-numbered-but-what-is-that-number/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783448189
-    },
-    {
       "title": "Artemis 2's Jeremy Hansen stepping down from active astronaut duty after epic moon mission",
       "link": "https://www.space.com/space-exploration/artemis/artemis-2s-jeremy-hansen-stepping-down-from-active-astronaut-duty-after-epic-moon-mission",
       "source": "SPACE",
@@ -492,13 +534,6 @@
       "timestamp": 1783442776
     },
     {
-      "title": "This race car is made from plant fibers, volcanoes, ... and seawater?",
-      "link": "https://arstechnica.com/cars/2026/07/this-race-car-is-made-from-plant-fibers-volcanoes-and-seawater/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783442718
-    },
-    {
       "title": "LeBron James landing spot predictions: Favorite emerges one week into free agency",
       "link": "https://www.cbssports.com/nba/news/lebron-james-landing-spot-predictions-favorite-free-agency-july-7/",
       "source": "CBSSPORTS",
@@ -506,25 +541,11 @@
       "timestamp": 1783441259
     },
     {
-      "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
-      "link": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783440893
-    },
-    {
       "title": "China releases 1st photo of Earth's elusive 'quasi-moon' Kamo'oalewa",
       "link": "https://www.space.com/space-exploration/asteroid-comet-missions/china-releases-1st-photo-of-earths-elusive-quasi-moon-kamooalewa",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783440000
-    },
-    {
-      "title": "Dragonflies maneuver like fighter pilots",
-      "link": "https://arstechnica.com/science/2026/07/dragonflies-maneuver-like-fighter-pilots/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783439658
     },
     {
       "title": "'That's going to come back and bite us': Former NASA chief questions Artemis moon lander plans",
@@ -541,13 +562,6 @@
       "timestamp": 1783435810
     },
     {
-      "title": "Astronaut flexes his muscles mid-spacewalk | Space photo of the day for July 7, 2026",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/astronaut-flexes-his-muscles-mid-spacewalk-space-photo-of-the-day-for-july-7-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783432800
-    },
-    {
       "title": "Nikola Jokić plans to wait until next offseason to extend: What that means for the Nuggets",
       "link": "https://www.cbssports.com/nba/news/nikola-jokic-nuggets-contract-extension-delay/",
       "source": "CBSSPORTS",
@@ -560,13 +574,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783429491
-    },
-    {
-      "title": "Chinese scientists find the best way to nuke an asteroid on its way to impact Earth",
-      "link": "https://www.space.com/space-exploration/asteroid-comet-missions/chinese-scientists-find-the-best-way-to-nuke-an-asteroid-on-its-way-to-impact-earth",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783429200
     },
     {
       "title": "The Neanderthal “love story” isn’t what the DNA actually shows",
@@ -609,13 +616,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783355632
-    },
-    {
-      "title": "NBA rumors: Kawhi Leonard changes agents, Rich Paul lays out factors that could influence LeBron James",
-      "link": "https://www.cbssports.com/nba/news/nba-rumors-kawhi-leonard-changes-agents-rich-paul-lebron-james/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783351330
     },
     {
       "title": "Engineers solved an airflow mystery hidden nearly a mile underground",
