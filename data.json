@@ -1,5 +1,5 @@
 {
-  "last_updated": 1783465100,
+  "last_updated": 1783468962,
   "items": [
     {
       "title": "Final extension: Startup Battlefield Australia applications now close July 20",
@@ -7,6 +7,13 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1783463400
+    },
+    {
+      "title": "Michigan sees explosive outbreak of diarrheal parasite with over 700 cases",
+      "link": "https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783463340
     },
     {
       "title": "Call of Duty: Black Ops 1 and 2's Leaked PS5 Trophy List Indicates Some Content May Be Missing",
@@ -504,13 +511,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783368975
-    },
-    {
-      "title": "What is the oldest American object ever launched into space?",
-      "link": "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783367876
     },
     {
       "title": "NASA just found a planet 'hiding' in TESS spacecraft data, all thanks to Einstein",
