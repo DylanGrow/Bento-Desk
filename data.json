@@ -1,6 +1,55 @@
 {
-  "last_updated": 1783505592,
+  "last_updated": 1783513074,
   "items": [
+    {
+      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+      "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783512000
+    },
+    {
+      "title": "Revolutionary rocket engine company Venus Aerospace raises $91 million to scale design",
+      "link": "https://www.space.com/technology/revolutionary-rocket-engine-company-venus-aerospace-raises-usd91-million-to-scale-design",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783512000
+    },
+    {
+      "title": "'They Now Wait for This Storm to Pass' — PS5 Owners Are Cancelling PlayStation Plus Subscriptions to Protest Sony Killing Discs, but Analysts Say It Won't Make Any Difference",
+      "link": "https://www.ign.com/articles/they-now-wait-for-this-storm-to-pass-ps5-owners-are-cancelling-playstation-plus-subscriptions-to-protest-sony-killing-discs-but-analysts-say-it-wont-make-any-difference",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783511889
+    },
+    {
+      "title": "NASA's New Horizons probe just woke up from hibernation 6 billion miles away beyond Pluto. What's it doing out there?",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-new-horizon-probe-just-woke-up-from-hibernation-6-billion-miles-away-beyond-pluto-whats-it-doing-out-there",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783511153
+    },
+    {
+      "title": "Palworld Hits an Incredible 40 Million Players 2.5 Years After Early Access Launch, and With 1.0 Right Around the Corner",
+      "link": "https://www.ign.com/articles/palworld-hits-an-incredible-40-million-players-25-years-after-early-access-launch-and-with-10-right-around-the-corner",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783508534
+    },
+    {
+      "title": "Controversial Uwe Boll Movie Citizen Vigilante Gets PS5 Tie-In Game Next Week — And It Looks as Rough As You'd Expect",
+      "link": "https://www.ign.com/articles/controversial-uwe-boll-movie-citizen-vigilante-gets-ps5-tie-in-game-next-week-and-it-looks-as-rough-as-youd-expect",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783507212
+    },
+    {
+      "title": "Christopher Nolan Explains Why He Went for Contemporary Dialogue in The Odyssey, but Admits the Decision 'Might Bite Me on the Ass'",
+      "link": "https://www.ign.com/articles/christopher-nolan-explains-why-he-went-for-contemporary-dialogue-in-the-odyssey-but-admits-the-decision-might-bite-me-on-the-ass",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783506369
+    },
     {
       "title": "Earth may survive the sun's death after all, new study suggests",
       "link": "https://www.space.com/astronomy/earth/earth-may-survive-the-suns-death-after-all-new-study-suggests",
@@ -415,32 +464,11 @@
       "timestamp": 1783433927
     },
     {
-      "title": "This startup pits dealerships against each other to bid on your used car",
-      "link": "https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783432800
-    },
-    {
       "title": "Astronaut flexes his muscles mid-spacewalk | Space photo of the day for July 7, 2026",
       "link": "https://www.space.com/space-exploration/human-spaceflight/astronaut-flexes-his-muscles-mid-spacewalk-space-photo-of-the-day-for-july-7-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783432800
-    },
-    {
-      "title": "PlayStation's First Tweet Since It Announced Plans to Kill Discs Is Going About as Well as You'd Expect",
-      "link": "https://www.ign.com/articles/playstations-first-tweet-since-it-announced-plans-to-kill-discs-is-going-about-as-well-as-youd-expect",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783431758
-    },
-    {
-      "title": "Xbox Makes First Game Pass Lineup Announcement Following Layoffs — and CEO Asha Sharma's Admission That Microsoft's Gaming Strategy Failed to Work Out",
-      "link": "https://www.ign.com/articles/xbox-makes-first-game-pass-lineup-announcement-following-layoffs-and-ceo-asha-sharmas-admission-that-microsofts-gaming-strategy-failed-to-work-out",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783430324
     },
     {
       "title": "New virus catalog reveals which pathogens pose the greatest threat",
@@ -478,13 +506,6 @@
       "timestamp": 1783425600
     },
     {
-      "title": "'My Heart's With All of You' — John Romero Says id Software Has 'Done a Great Job' Moving the Studio's Legacy Forward and Hopes Someone Is Working to Preserve It All Amid Xbox Layoffs",
-      "link": "https://www.ign.com/articles/my-hearts-with-all-of-you-john-romero-says-id-software-has-done-a-great-job-moving-the-studios-legacy-forward-and-hopes-someone-is-working-to-preserve-it-all-amid-xbox-layoffs",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783424947
-    },
-    {
       "title": "ULA's last six Atlas Vs can't launch anything besides Boeing's Starliner",
       "link": "https://arstechnica.com/space/2026/07/after-a-stellar-career-ulas-atlas-v-rocket-last-act-is-waiting-on-starliner/",
       "source": "ARSTECHNICA",
@@ -497,13 +518,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1783422018
-    },
-    {
-      "title": "Staff at Fallout: New Vegas Developer Obsidian Reportedly Left Unsure How 'Huge List of Projects' Can Continue After Xbox Layoffs Hit Hard",
-      "link": "https://www.ign.com/articles/staff-at-fallout-new-vegas-developer-obsidian-reportedly-left-unsure-how-huge-list-of-projects-can-continue-after-xbox-layoffs-hit-hard",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783421841
     },
     {
       "title": "The sun's atmosphere is way hotter than its surface. Scientists may finally know why",
@@ -560,20 +574,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783371600
-    },
-    {
-      "title": "More clues surface about the origins of interstellar comet 3I/ATLAS",
-      "link": "https://www.space.com/astronomy/comets/more-clues-surface-about-the-origins-of-interstellar-comet-3i-atlas",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783368975
-    },
-    {
-      "title": "NASA just found a planet 'hiding' in TESS spacecraft data, all thanks to Einstein",
-      "link": "https://www.space.com/astronomy/exoplanets/nasa-just-found-a-planet-hiding-in-tess-spacecraft-data-all-thanks-to-einstein",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783364400
     },
     {
       "title": "Scientists solve a 30-year rye pollen mystery that could transform cancer research",
