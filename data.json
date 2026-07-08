@@ -1,6 +1,34 @@
 {
-  "last_updated": 1783468962,
+  "last_updated": 1783483909,
   "items": [
+    {
+      "title": "Scientists resurrect 3.2-billion-year-old enzyme to reveal how life began on Earth",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260623014024.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783474768
+    },
+    {
+      "title": "Schrödinger’s anthill: Quantum entanglement found in a crystal large enough to hold",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260701015242.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783471566
+    },
+    {
+      "title": "Incredible new material makes heat programmable",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260707025046.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783466930
+    },
+    {
+      "title": "In Toronto, Kyle Lowry transformed himself and the Raptors franchise",
+      "link": "https://www.cbssports.com/nba/news/kyle-lowry-toronto-raptors-retirement/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783466429
+    },
     {
       "title": "Final extension: Startup Battlefield Australia applications now close July 20",
       "link": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
@@ -23,7 +51,7 @@
       "timestamp": 1783463200
     },
     {
-      "title": "Meta rolls out Muse, a new AI image generator",
+      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
       "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -450,6 +478,13 @@
       "timestamp": 1783416047
     },
     {
+      "title": "The Neanderthal “love story” isn’t what the DNA actually shows",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260626030443.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783406860
+    },
+    {
       "title": "AI just supercharged the race to find room temperature superconductors",
       "link": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm",
       "source": "SCIENCEDAILY",
@@ -632,46 +667,11 @@
       "timestamp": 1783224658
     },
     {
-      "title": "NASA's Hubble captures a crimson stellar nursery sparkling with blue and white stars",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260704232639.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783224187
-    },
-    {
-      "title": "NASA's Hubble captures a star-spangled sea of 500,000 stars",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260704232634.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783222758
-    },
-    {
-      "title": "Scientists may have finally solved the black hole information paradox",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260624025506.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783221175
-    },
-    {
       "title": "Timberwolves have a simple pitch for LeBron James, and there's a chance it works",
       "link": "https://www.cbssports.com/nba/news/timberwolves-simple-free-agency-pitch-lebron-james/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783177613
-    },
-    {
-      "title": "NASA celebrates America's 250th birthday with incredible views of space",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260702230859.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783157433
-    },
-    {
-      "title": "Knicks reportedly sign Andre Drummond, striking a major bargain in replacement for Mitchell Robinson",
-      "link": "https://www.cbssports.com/nba/news/knicks-sign-andre-drummond-replace-mitchell-robinson/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783129835
     }
   ]
 }
