@@ -1,6 +1,125 @@
 {
-  "last_updated": 1783604804,
+  "last_updated": 1783614322,
   "items": [
+    {
+      "title": "How Lakers' all-in move for Walker Kessler created a dilemma they're trying to solve with Jonathan Kuminga",
+      "link": "https://www.cbssports.com/nba/news/lakers-walker-kessler-jonathan-kuminga-free-agency/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783611316
+    },
+    {
+      "title": "GTA Online's Next Big Update, the Kortz Center Heist, Releases Next Week, and Fans Have Already Spotted a Few Rockstar-Related Easter Eggs",
+      "link": "https://www.ign.com/articles/gta-onlines-next-big-update-the-kortz-center-heist-releases-next-week-and-fans-have-already-spotted-a-few-rockstar-related-easter-eggs",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783610872
+    },
+    {
+      "title": "Block reaches $45M settlement with 46 states over Cash App fraud probe",
+      "link": "https://techcrunch.com/2026/07/09/block-reaches-45m-settlement-with-46-states-over-cash-app-fraud-probe/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783610194
+    },
+    {
+      "title": "Could evidence of life on Mars be hiding in clay? Europe wants to send a rover to check",
+      "link": "https://www.space.com/space-exploration/search-for-life/could-evidence-of-life-on-mars-be-hiding-in-clay-europe-wants-to-send-a-rover-to-check",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783609200
+    },
+    {
+      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+      "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783608789
+    },
+    {
+      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+      "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783608660
+    },
+    {
+      "title": "Godzilla Minus Zero Teaser Trailer Shows That Dropping a Nuke on the Legendary King of the Monsters Might Just Make It Angry",
+      "link": "https://www.ign.com/articles/godzilla-minus-zero-teaser-trailer-shows-that-dropping-a-nuke-on-the-legendary-king-of-the-monsters-might-just-make-it-angry",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783608602
+    },
+    {
+      "title": "Conspiracies and regrets abound in Dune: Part Three trailer",
+      "link": "https://arstechnica.com/culture/2026/07/conspiracies-and-regrets-abound-in-dune-part-three-trailer/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783608344
+    },
+    {
+      "title": "Ruf debuts new flat-eight engine at Goodwood",
+      "link": "https://arstechnica.com/cars/2026/07/ruf-debuts-new-flat-eight-engine-at-goodwood/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783607568
+    },
+    {
+      "title": "Take a trip to the turquoise waters of the Bahamas (from space) | Space photo of the day for July 9, 2026",
+      "link": "https://www.space.com/astronomy/earth/take-a-trip-to-the-turquoise-waters-of-the-bahamas-from-space-space-photo-of-the-day-for-july-9-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783605600
+    },
+    {
+      "title": "Nickelodeon’s San Diego Comic-Con 2026 Plans Include a Slime-Fueled Outdoor Experience",
+      "link": "https://www.ign.com/articles/nickelodeon-san-diego-comic-con-2026-plans",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783605600
+    },
+    {
+      "title": "Scream Operator: Haunted House Manager Announced for PC",
+      "link": "https://www.ign.com/articles/scream-operator-haunted-house-manager-announced-for-pc",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783605600
+    },
+    {
+      "title": "NBA summer league storylines: AJ Dybantsa, Darryn Peterson meet in highly anticipated showdown",
+      "link": "https://www.cbssports.com/nba/news/nba-summer-league-storylines-aj-dybantsa-darryn-peterson/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783605227
+    },
+    {
+      "title": "Former Dragon Age Lead Writer Says BioWare's Fantasy Series is Unlikely to Ever Return Under EA — Though He Knows What He'd Do With Dragon Age 5 if He Made It",
+      "link": "https://www.ign.com/articles/former-dragon-age-lead-writer-says-biowares-fantasy-series-is-unlikely-to-ever-return-under-ea-though-he-knows-what-hed-do-with-dragon-age-5-if-he-made-it",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783604982
+    },
+    {
+      "title": "MobLand Season 2 Trailer Confirms Paramount+ Release Date and a First Look at the Returning Tom Hardy — but Will He Appear in Season 3?",
+      "link": "https://www.ign.com/articles/mobland-season-2-trailer-confirms-paramount-release-date-and-a-first-look-at-the-returning-tom-hardy-but-will-he-appear-in-season-3",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783604216
+    },
+    {
+      "title": "Free Waymo rides in California? You can thank a regulatory quirk.",
+      "link": "https://arstechnica.com/cars/2026/07/free-waymo-rides-in-california-you-can-thank-a-regulatory-quirk/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783603860
+    },
+    {
+      "title": "The newest entrant in the military’s launch competition isn't actually a launch company",
+      "link": "https://arstechnica.com/space/2026/07/the-newest-entrant-in-the-militarys-launch-competition-isnt-actually-a-launch-company/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783602507
+    },
     {
       "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
       "link": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
@@ -21,6 +140,13 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783602000
+    },
+    {
+      "title": "2026 NBA Las Vegas Summer League tips off with marquee rookie matchup between AJ Dybantsa, Darryn Peterson",
+      "link": "https://www.cbssports.com/betting/news/2026-nba-las-vegas-summer-league-tips-off-with-marquee-rookie-matchup-between-aj-dybantsa-darryn-peterson/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783601781
     },
     {
       "title": "Doubts Microsoft Would Be Able to Sell Off Xbox in Its Entirety Even if It Wanted To, but Big Companies May Try to Buy Parts of It",
@@ -338,27 +464,6 @@
       "timestamp": 1783536431
     },
     {
-      "title": "Elon Musk says X will send DMs when posts you’ve engaged with are corrected",
-      "link": "https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783536380
-    },
-    {
-      "title": "Emmy Nominations 2026: The Full List for Every Major Category",
-      "link": "https://www.ign.com/articles/emmy-nominations-2026-the-full-list-for-every-major-category",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783536050
-    },
-    {
-      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
-      "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783535408
-    },
-    {
       "title": "Aussie gov't tells volunteers to throw out thousands of functioning test routers",
       "link": "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/",
       "source": "ARSTECHNICA",
@@ -387,13 +492,6 @@
       "timestamp": 1783532961
     },
     {
-      "title": "Why this CEO thinks video games make better training data than the internet",
-      "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783532875
-    },
-    {
       "title": "US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers",
       "link": "https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/",
       "source": "ARSTECHNICA",
@@ -408,25 +506,11 @@
       "timestamp": 1783531604
     },
     {
-      "title": "'The Internet Did the Internet' — Dwayne Johnson Laughs Off Live-Action Moana Wig Memes",
-      "link": "https://www.ign.com/articles/the-internet-did-the-internet-dwayne-johnson-laughs-off-live-action-moana-wig-memes",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783531589
-    },
-    {
       "title": "Venus takes center stage with 2 easy-to-see sky shows this July. Here's when and where to look",
       "link": "https://www.space.com/stargazing/venus-takes-center-stage-with-2-easy-to-see-sky-shows-this-july-heres-when-and-where-to-look",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783530000
-    },
-    {
-      "title": "More Than 8 Years on From Its Announcement, The Elder Scrolls 6 Is Reportedly Still at Least 2 More Years From Release",
-      "link": "https://www.ign.com/articles/more-than-8-years-on-from-its-announcement-the-elder-scrolls-6-is-reportedly-still-at-least-2-more-years-from-release",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783529007
     },
     {
       "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
@@ -443,13 +527,6 @@
       "timestamp": 1783526400
     },
     {
-      "title": "Destiny 2 Players Get One Last Surprise from Bungie, Developer Reveals Limited Support Plans",
-      "link": "https://www.ign.com/articles/destiny-2-players-get-one-last-surprise-from-bungie-developer-reveals-limited-support-plans",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783526161
-    },
-    {
       "title": "Two teens learn the hard way not to do toy gun drive-bys from a Waymo",
       "link": "https://arstechnica.com/cars/2026/07/two-teens-learn-the-hard-way-not-to-do-toy-gun-drivebys-from-a-waymo/",
       "source": "ARSTECHNICA",
@@ -464,13 +541,6 @@
       "timestamp": 1783524102
     },
     {
-      "title": "Avatar Aang: The Last Airbender Leak Was 'Very Unceremonious and Abrupt and a Bit Rude,' Avatar Co-Creator Says",
-      "link": "https://www.ign.com/articles/avatar-aang-the-last-airbender-leak-was-very-unceremonious-and-abrupt-and-a-bit-rude-avatar-co-creator-says",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783523529
-    },
-    {
       "title": "Ocean rift zone saw spreading happen in a sudden burst",
       "link": "https://arstechnica.com/science/2026/07/newly-installed-monitoring-system-watched-the-seafloor-spread/",
       "source": "ARSTECHNICA",
@@ -478,25 +548,11 @@
       "timestamp": 1783523378
     },
     {
-      "title": "Tom Holland Says The Odyssey Is His Last Chance to ‘Play a Boy’",
-      "link": "https://www.ign.com/articles/tom-holland-says-the-odyssey-is-his-last-chance-to-play-a-boy",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783522269
-    },
-    {
       "title": "NASA's Roman Space Telescope prepares for launch | Space photo of the day for July 8, 2026",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-prepares-for-launch-space-photo-of-the-day-for-july-8-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783519200
-    },
-    {
-      "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
-      "link": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783517170
     },
     {
       "title": "The next Jaylen Brown? Three high-paid NBA players whose contracts could eventually make them trade candidates",
@@ -520,13 +576,6 @@
       "timestamp": 1783515579
     },
     {
-      "title": "Blue Origin, for the first time, is expected to raise private capital",
-      "link": "https://arstechnica.com/space/2026/07/blue-origin-for-the-first-time-is-expected-to-raise-private-capital/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783514855
-    },
-    {
       "title": "Revolutionary rocket engine company Venus Aerospace raises $91 million to scale design",
       "link": "https://www.space.com/technology/revolutionary-rocket-engine-company-venus-aerospace-raises-usd91-million-to-scale-design",
       "source": "SPACE",
@@ -534,32 +583,11 @@
       "timestamp": 1783512000
     },
     {
-      "title": "NASA's New Horizons probe just woke up from hibernation 6 billion miles away beyond Pluto. What's it doing out there?",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-new-horizon-probe-just-woke-up-from-hibernation-6-billion-miles-away-beyond-pluto-whats-it-doing-out-there",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783511153
-    },
-    {
-      "title": "Earth may survive the sun's death after all, new study suggests",
-      "link": "https://www.space.com/astronomy/earth/earth-may-survive-the-suns-death-after-all-new-study-suggests",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783504800
-    },
-    {
       "title": "Ancient DNA reveals the mysterious collapse of Europe's megalith builders",
       "link": "https://www.sciencedaily.com/releases/2026/07/260707054108.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1783497055
-    },
-    {
-      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-      "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783494051
     },
     {
       "title": "New AI model reveals how neutron star mergers forge heavy elements",
@@ -588,13 +616,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783466429
-    },
-    {
-      "title": "Michigan sees explosive outbreak of diarrheal parasite with over 700 cases",
-      "link": "https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783463340
     },
     {
       "title": "Why the Celtics traded Jaylen Brown, and why they could actually be better for it",
@@ -639,20 +660,6 @@
       "timestamp": 1783435810
     },
     {
-      "title": "Nikola Jokić plans to wait until next offseason to extend: What that means for the Nuggets",
-      "link": "https://www.cbssports.com/nba/news/nikola-jokic-nuggets-contract-extension-delay/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783430108
-    },
-    {
-      "title": "Analyzing USMNT's run after World Cup exit; Top 25 MLB trade deadline candidates",
-      "link": "https://www.cbssports.com/mlb/news/analyzing-usmnts-run-after-world-cup-exit-top-25-mlb-trade-deadline-candidates/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783429491
-    },
-    {
       "title": "The Neanderthal “love story” isn’t what the DNA actually shows",
       "link": "https://www.sciencedaily.com/releases/2026/06/260626030443.htm",
       "source": "SCIENCEDAILY",
@@ -665,13 +672,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1783402791
-    },
-    {
-      "title": "Brad Stevens' explanation of Jaylen Brown trade is unlikely to soothe Celtics fans",
-      "link": "https://www.cbssports.com/nba/news/brad-stevens-explanation-jaylen-brown-trade-celtics/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783377677
     }
   ]
 }
