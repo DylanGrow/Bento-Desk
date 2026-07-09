@@ -1,12 +1,89 @@
 {
-  "last_updated": 1783629868,
+  "last_updated": 1783635550,
   "items": [
     {
-      "title": "Kawhi Leonard trade on hold as Raptors, Clippers await results of NBA investigation",
+      "title": "An AI agent startup just let its agent run its $100 million fundraise",
+      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783634938
+    },
+    {
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+      "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783634634
+    },
+    {
+      "title": "Wally Funk, trailblazing pilot and astronaut, passes away at 87",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/wally-funk-trailblazing-pilot-and-astronaut-passes-away-at-87",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783634400
+    },
+    {
+      "title": "Naruto Live-Action Movie Director, Studio Launch Worldwide Casting Search for Lead Roles",
+      "link": "https://www.ign.com/articles/naruto-live-action-movie-global-casting-search",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783634400
+    },
+    {
+      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+      "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783634262
+    },
+    {
+      "title": "Kawhi Leonard trade on hold: What's next as Raptors, Clippers await results of NBA investigation",
       "link": "https://www.cbssports.com/nba/news/kawhi-leonard-trade-on-hold-raptors-clippers-explained/",
       "source": "CBSSPORTS",
       "category": "nba",
-      "timestamp": 1783626520
+      "timestamp": 1783634096
+    },
+    {
+      "title": "Can AI answer the $3 trillion question?",
+      "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783633670
+    },
+    {
+      "title": "Xbox CEO Asha Sharma Is Advising the Federal Reserve on the Economic Impact of AI as Part of a 'Productivity and Jobs' Taskforce",
+      "link": "https://www.ign.com/articles/xbox-ceo-asha-sharma-is-advising-the-federal-reserve-on-the-economic-impact-of-ai-as-part-of-a-productivity-and-jobs-taskforce",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783633450
+    },
+    {
+      "title": "Scientists have discovered the oldest quasar ever seen, and it shines with the light of a trillion suns",
+      "link": "https://www.space.com/astronomy/black-holes/scientists-have-discovered-the-oldest-quasar-ever-seen-and-it-shines-with-the-light-of-a-trillion-suns",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783630800
+    },
+    {
+      "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
+      "link": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783630375
+    },
+    {
+      "title": "Allstate accuses Broadcom of auditing it because it quit VMware, CA",
+      "link": "https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783628935
+    },
+    {
+      "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
+      "link": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783627923
     },
     {
       "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
@@ -177,32 +254,11 @@
       "timestamp": 1783610872
     },
     {
-      "title": "Block reaches $45M settlement with 46 states over Cash App fraud probe",
-      "link": "https://techcrunch.com/2026/07/09/block-reaches-45m-settlement-with-46-states-over-cash-app-fraud-probe/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783610194
-    },
-    {
       "title": "Could evidence of life on Mars be hiding in clay? Europe wants to send a rover to check",
       "link": "https://www.space.com/space-exploration/search-for-life/could-evidence-of-life-on-mars-be-hiding-in-clay-europe-wants-to-send-a-rover-to-check",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783609200
-    },
-    {
-      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
-      "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783608789
-    },
-    {
-      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
-      "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783608660
     },
     {
       "title": "Godzilla Minus Zero Teaser Trailer Shows That Dropping a Nuke on the Legendary King of the Monsters Might Just Make It Angry",
@@ -282,13 +338,6 @@
       "timestamp": 1783602507
     },
     {
-      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
-      "link": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783602000
-    },
-    {
       "title": "The US wants to build offshore rocket launch sites. Critics say 'our coasts deserve better'",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/the-us-wants-to-build-offshore-rocket-launch-sites-critics-say-our-coasts-deserve-better",
       "source": "SPACE",
@@ -366,13 +415,6 @@
       "timestamp": 1783591200
     },
     {
-      "title": "Sony Settles With Fired Marathon Game Director Who Sued PlayStation and Bungie for More Than $200 Million, Adds Name to Credits",
-      "link": "https://www.ign.com/articles/sony-settles-with-fired-marathon-game-director-who-sued-playstation-and-bungie-for-more-than-200-million-adds-name-to-credits",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783587148
-    },
-    {
       "title": "Scientists finally solved a 150-year-old gallium mystery",
       "link": "https://www.sciencedaily.com/releases/2026/07/260707054119.htm",
       "source": "SCIENCEDAILY",
@@ -413,13 +455,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1783556158
-    },
-    {
-      "title": "id Software Was Reportedly 'Toying With' Pitches for a New Perfect Dark, a John Wick-Inspired Game, and More Before Layoffs",
-      "link": "https://www.ign.com/articles/id-software-was-reportedly-toying-with-pitches-for-a-new-perfect-dark-a-john-wick-inspired-game-and-more-before-layoffs",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783555694
     },
     {
       "title": "Rare goblin shark filmed alive for the first time in the deep sea",
@@ -520,13 +555,6 @@
       "timestamp": 1783534216
     },
     {
-      "title": "TikTok users don't have as much agency over their FYPs as they think",
-      "link": "https://arstechnica.com/science/2026/07/how-much-control-do-tiktok-users-really-have-over-fyps/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783533649
-    },
-    {
       "title": "Shoebox-sized 'detector satellites' could sniff out a nuclear bomb in space",
       "link": "https://www.space.com/space-exploration/satellites/shoebox-sized-detector-satellites-could-sniff-out-a-nuclear-bomb-in-space",
       "source": "SPACE",
@@ -539,34 +567,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783532961
-    },
-    {
-      "title": "US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers",
-      "link": "https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783532694
-    },
-    {
-      "title": "Miami-based City Labs achieves a first for commercial nuclear power in space",
-      "link": "https://arstechnica.com/space/2026/07/miami-based-city-labs-achieves-a-first-for-commercial-nuclear-power-in-space/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783531604
-    },
-    {
-      "title": "Venus takes center stage with 2 easy-to-see sky shows this July. Here's when and where to look",
-      "link": "https://www.space.com/stargazing/venus-takes-center-stage-with-2-easy-to-see-sky-shows-this-july-heres-when-and-where-to-look",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783530000
-    },
-    {
-      "title": "'This is the future of spatial intelligence': Vantor unveils stunning 3D satellite views of Earth (photos)",
-      "link": "https://www.space.com/space-exploration/satellites/this-is-the-future-of-spatial-intelligence-vantor-unveils-stunning-3d-satellite-views-of-earth-photos",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783526400
     },
     {
       "title": "LeBron James next team predictions: Four-time MVP highly likely to go back to Cavaliers after leaving Lakers",
