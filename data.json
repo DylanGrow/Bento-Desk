@@ -1,6 +1,125 @@
 {
-  "last_updated": 1783579230,
+  "last_updated": 1783604804,
   "items": [
+    {
+      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+      "link": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783602000
+    },
+    {
+      "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
+      "link": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783602000
+    },
+    {
+      "title": "The US wants to build offshore rocket launch sites. Critics say 'our coasts deserve better'",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/the-us-wants-to-build-offshore-rocket-launch-sites-critics-say-our-coasts-deserve-better",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783602000
+    },
+    {
+      "title": "Doubts Microsoft Would Be Able to Sell Off Xbox in Its Entirety Even if It Wanted To, but Big Companies May Try to Buy Parts of It",
+      "link": "https://www.ign.com/articles/doubts-microsoft-would-be-able-to-sell-off-xbox-in-its-entirety-even-if-it-wanted-to-but-big-companies-may-try-to-buy-parts-of-it",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783601158
+    },
+    {
+      "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+      "link": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783598400
+    },
+    {
+      "title": "China announces plan to build early-warning system for dangerous asteroids",
+      "link": "https://www.space.com/space-exploration/asteroid-comet-missions/china-announces-plan-to-build-early-warning-system-for-dangerous-asteroids",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783598400
+    },
+    {
+      "title": "Laid-Off MindsEye Developers Plan Protest Outside Company Office Over 'All-Expenses-Paid Playtest Day'",
+      "link": "https://www.ign.com/articles/laid-off-mindseye-developers-plan-protest-outside-company-office-over-all-expenses-paid-playtest-day",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783597891
+    },
+    {
+      "title": "The Elder Scrolls 6 Will Suffer Because of Xbox Layoffs, Bethesda Staff Say, Fearing Delays, Crunch, and Generational Talent Being Replaced by Contractors",
+      "link": "https://www.ign.com/articles/the-elder-scrolls-6-will-suffer-because-of-xbox-layoffs-bethesda-staff-say-fearing-delays-crunch-and-generational-talent-being-replaced-by-contractors",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783596658
+    },
+    {
+      "title": "These ancient quasars shouldn't exist so soon after the Big Bang",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260707025049.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783595573
+    },
+    {
+      "title": "Payloads used to dictate the terms of launch. That's finally changing.",
+      "link": "https://arstechnica.com/space/2026/07/rocket-developers-used-to-chase-satellite-trends-is-the-inverse-now-true/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783594826
+    },
+    {
+      "title": "This Mars rover could finally reveal whether life ever existed on Mars",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260707025051.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783593652
+    },
+    {
+      "title": "Total Eclipse of the Heart Singer Bonnie Tyler Has Died Aged of 75",
+      "link": "https://www.ign.com/articles/total-eclipse-of-the-heart-singer-bonnie-tyler-has-died-aged-of-75",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783591657
+    },
+    {
+      "title": "Staffing the moon base: How many astronauts should live in NASA's lunar outpost?",
+      "link": "https://www.space.com/astronomy/moon/staffing-the-moon-base-how-many-astronauts-should-live-in-nasas-lunar-outpost",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783591200
+    },
+    {
+      "title": "Sony Settles With Fired Marathon Game Director Who Sued PlayStation and Bungie for More Than $200 Million, Adds Name to Credits",
+      "link": "https://www.ign.com/articles/sony-settles-with-fired-marathon-game-director-who-sued-playstation-and-bungie-for-more-than-200-million-adds-name-to-credits",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783587148
+    },
+    {
+      "title": "Scientists finally solved a 150-year-old gallium mystery",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260707054119.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783582857
+    },
+    {
+      "title": "Trees keep absorbing carbon long after they stop growing",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260708022210.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783578524
+    },
+    {
+      "title": "A vitamin A discovery is changing what scientists know about vision",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260708022214.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783574115
+    },
     {
       "title": "Why did 20% of the NBA participate in a complicated six-team trade involving 10 role players?",
       "link": "https://www.cbssports.com/nba/news/khris-middleton-six-team-trade-nba-wizards-mavericks-clippers-grizzlies-pistons-bucks/",
@@ -51,7 +170,7 @@
       "timestamp": 1783551605
     },
     {
-      "title": "Watch a SpaceX Falcon 9 rocket launch for record-breaking 36th time early on July 9",
+      "title": "SpaceX Falcon 9 rocket launches for record-breaking 36th time",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launch-36th-time-new-record",
       "source": "SPACE",
       "category": "space",
@@ -296,20 +415,6 @@
       "timestamp": 1783531589
     },
     {
-      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
-      "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783530678
-    },
-    {
-      "title": "OpenAI releases new voice models for more natural live conversations",
-      "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783530000
-    },
-    {
       "title": "Venus takes center stage with 2 easy-to-see sky shows this July. Here's when and where to look",
       "link": "https://www.space.com/stargazing/venus-takes-center-stage-with-2-easy-to-see-sky-shows-this-july-heres-when-and-where-to-look",
       "source": "SPACE",
@@ -329,13 +434,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1783528788
-    },
-    {
-      "title": "Crypto VC firm Paradigm raises $1.2B to invest in ‘technical frontier’ startups",
-      "link": "https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783528175
     },
     {
       "title": "'This is the future of spatial intelligence': Vantor unveils stunning 3D satellite views of Earth (photos)",
@@ -394,38 +492,10 @@
       "timestamp": 1783519200
     },
     {
-      "title": "Deepward, a Brutal FPS Roguelite Set in the 1920s, Announced",
-      "link": "https://www.ign.com/articles/deepward-a-brutal-fps-roguelite-set-in-the-1920s-announced",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783519200
-    },
-    {
-      "title": "'It Has Become a Success Beyond Our Wildest Dreams' — Palworld Dev Pocketpair Decides Against Raising the Price of the Game for 1.0 Launch",
-      "link": "https://www.ign.com/articles/it-has-become-a-success-beyond-our-wildest-dreams-palworld-dev-pocketpair-decides-against-raising-the-price-of-the-game-for-10-launch",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783519072
-    },
-    {
-      "title": "Nintendo Switch 2 Leak Reveals The Crew Motorfest, With Physical Launch Via Game-Key Card",
-      "link": "https://www.ign.com/articles/nintendo-switch-2-leak-reveals-the-crew-motorfest-with-physical-launch-via-game-key-card",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783517900
-    },
-    {
       "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
       "link": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
       "source": "ARSTECHNICA",
       "category": "hacker",
-      "timestamp": 1783517170
-    },
-    {
-      "title": "'It Never Trickles Down' — Bernie Sanders Hits Out at Microsoft Over Xbox Layoffs and Console Price Rises, Says They Prove Corporate Tax Breaks Do Not Create Jobs",
-      "link": "https://www.ign.com/articles/it-never-trickles-down-bernie-sanders-hits-out-at-microsoft-over-xbox-layoffs-and-console-price-rises-says-they-prove-corporate-tax-breaks-do-not-create-jobs",
-      "source": "IGN",
-      "category": "gaming",
       "timestamp": 1783517170
     },
     {
@@ -455,13 +525,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1783514855
-    },
-    {
-      "title": "Subnautica 2 Early Access 1.1 Update Improves Creature Flinches So You'll Know When You've Hit Them With the Survival Multitool — but No, You Still Can't Kill Fish",
-      "link": "https://www.ign.com/articles/subnautica-2-early-access-11-update-improves-creature-flinches-so-youll-know-when-youve-hit-them-with-the-survival-multitool-but-no-you-still-cant-kill-fish",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783513243
     },
     {
       "title": "Revolutionary rocket engine company Venus Aerospace raises $91 million to scale design",
@@ -548,39 +611,11 @@
       "timestamp": 1783458325
     },
     {
-      "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
-      "link": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783458187
-    },
-    {
-      "title": "James Webb Space Telescope celebrates its 4th birthday with stunning image of a galaxy crash site",
-      "link": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-celebrates-its-4th-birthday-with-stunning-image-of-a-galaxy-crash-site",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783458000
-    },
-    {
-      "title": "Our Milky Way galaxy might be larger than we thought",
-      "link": "https://www.space.com/science/astrophysics/our-milky-way-galaxy-might-be-larger-than-we-thought",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783454400
-    },
-    {
       "title": "When will LeBron James pick a new team? Why his free agency could last until mid-July",
       "link": "https://www.cbssports.com/nba/news/lebron-james-new-team-nba-free-agency/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783451650
-    },
-    {
-      "title": "'Project Hail Mary' is finally streaming Amazon Prime Video, and we can't wait to watch it again",
-      "link": "https://www.space.com/entertainment/project-hail-mary-is-finally-streaming-amazon-prime-video-and-we-cant-wait-to-watch-it-again",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783450800
     },
     {
       "title": "Jalen Brunson played through Knicks' championship run with wrist injury, is scheduled for surgery",
@@ -637,41 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783377677
-    },
-    {
-      "title": "Scientists solve a 30-year rye pollen mystery that could transform cancer research",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260625014838.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783356001
-    },
-    {
-      "title": "Engineers solved an airflow mystery hidden nearly a mile underground",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260624025416.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783349583
-    },
-    {
-      "title": "Streetlights are trapping thousands of pill bugs in giant “death spirals”",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260626125707.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783327364
-    },
-    {
-      "title": "Astronomers witness the birth of a magnetar for the first time",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260626030450.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783325749
-    },
-    {
-      "title": "Scientists may have finally found how Alzheimer's kills brain cells",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260626124701.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783292281
     }
   ]
 }
