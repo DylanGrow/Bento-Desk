@@ -1,12 +1,110 @@
 {
-  "last_updated": 1783614322,
+  "last_updated": 1783622883,
   "items": [
+    {
+      "title": "Mercor is in talks for a $20B valuation",
+      "link": "https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783622542
+    },
+    {
+      "title": "Google will now disclose which ads are made with AI",
+      "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783622451
+    },
+    {
+      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+      "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783622075
+    },
+    {
+      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+      "link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783621359
+    },
+    {
+      "title": "'Reckless' space-based data centers lack environmental review, drawing criticism",
+      "link": "https://www.space.com/astronomy/earth/reckless-space-based-data-centers-lack-environmental-review-drawing-criticism",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783620000
+    },
+    {
+      "title": "How to stop Meta’s AI image generator from using your Instagram photos",
+      "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783619807
+    },
+    {
+      "title": "Call of Duty: Black Ops 1 and 2 Ports Out Now on PS5, But They Come at a High Cost",
+      "link": "https://www.ign.com/articles/call-of-duty-black-ops-1-and-2-ports-out-now-on-ps5-but-they-come-at-a-high-cost",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783617969
+    },
+    {
+      "title": "Meta’s new AI chips will begin production in September",
+      "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783617457
+    },
+    {
+      "title": "Nvidia is a victim of the compute marketplace it created",
+      "link": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783616771
+    },
+    {
+      "title": "'Silo' season 3 showrunner Graham Yost explains the time jumps and turning half of the show into a political thriller (interview)",
+      "link": "https://www.space.com/entertainment/space-movies-shows/silo-season-3-showrunner-graham-yost-explains-the-time-jumps-and-turning-half-of-the-show-into-a-political-thriller-interview",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783616400
+    },
+    {
+      "title": "Assassin's Creed Black Flag Resynced Has Already Earned the Series' Biggest Player Peak on Steam",
+      "link": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-has-already-earned-the-series-biggest-player-peak-on-steam",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783616022
+    },
+    {
+      "title": "Love and Deepspace Fans Continue Calls for Valko's Return After Update Excludes Him",
+      "link": "https://www.ign.com/articles/love-and-deepspace-fans-continue-calls-for-valkos-return-after-update-excludes-him",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783615176
+    },
+    {
+      "title": "Pokémon Go 10 Year Anniversary Celebration Livestream — Updating Live",
+      "link": "https://www.ign.com/articles/pokemon-go-10-year-anniversary-celebration-event-updating-live",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783613340
+    },
     {
       "title": "How Lakers' all-in move for Walker Kessler created a dilemma they're trying to solve with Jonathan Kuminga",
       "link": "https://www.cbssports.com/nba/news/lakers-walker-kessler-jonathan-kuminga-free-agency/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783611316
+    },
+    {
+      "title": "Surprised doctors find 10-inch worm in man's groin during elective surgery",
+      "link": "https://arstechnica.com/health/2026/07/surprised-doctors-find-10-inch-worm-in-mans-groin-during-elective-surgery/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783611221
     },
     {
       "title": "GTA Online's Next Big Update, the Kortz Center Heist, Releases Next Week, and Fans Have Already Spotted a Few Rockstar-Related Easter Eggs",
@@ -324,13 +422,6 @@
       "timestamp": 1783548000
     },
     {
-      "title": "Feds demand autonomous vehicle companies stop interfering with first responders",
-      "link": "https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783547373
-    },
-    {
       "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
       "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
       "source": "ARSTECHNICA",
@@ -359,34 +450,6 @@
       "timestamp": 1783544400
     },
     {
-      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
-      "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783543023
-    },
-    {
-      "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
-      "link": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783542590
-    },
-    {
-      "title": "Dune: Part Three Trailer Event Reveals Intense Battle Sequence Screening Before The Odyssey",
-      "link": "https://www.ign.com/articles/dune-part-three-trailer-battle-sequence-the-odyssey",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783541796
-    },
-    {
-      "title": "Autonomous drone delivery startup Manna plots major US expansion",
-      "link": "https://techcrunch.com/2026/07/08/autonomous-drone-delivery-startup-manna-plots-major-u-s-expansion/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783541214
-    },
-    {
       "title": "NASA begins funding hardware for 'Skyfall' Mars helicopter mission",
       "link": "https://www.space.com/space-exploration/missions/nasa-begins-funding-hardware-for-skyfall-mars-helicopter-mission",
       "source": "SPACE",
@@ -399,27 +462,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1783540597
-    },
-    {
-      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
-      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783539016
-    },
-    {
-      "title": "‘Slow-cial’ app Roost forces you to slow down to the speed of a carrier pigeon",
-      "link": "https://techcrunch.com/2026/07/08/slow-cial-app-roost-forces-you-to-slow-down-to-the-speed-of-a-carrier-pigeon/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783538531
-    },
-    {
-      "title": "This startup thinks robotics is about to have its ChatGPT moment",
-      "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783538355
     },
     {
       "title": "Judge rejects Kalshi attempt to override New York state gambling laws",
@@ -441,27 +483,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783537200
-    },
-    {
-      "title": "Dune: Part Three's New Trailer Highlights the Rift Between Paul Atreides and Chani",
-      "link": "https://www.ign.com/articles/dune-part-threes-new-trailer-highlights-the-rift-between-paul-atreides-and-chani",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783536648
-    },
-    {
-      "title": "Obsidian Reportedly Cancels Avowed 2 to Focus on a New Fallout Game",
-      "link": "https://www.ign.com/articles/obsidian-cancels-avowed-2-to-focus-on-new-fallout-game",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783536495
-    },
-    {
-      "title": "Skybound Unveils Surprise G.I. Joe and Tomb Raider Comic Crossover",
-      "link": "https://www.ign.com/articles/skybound-unveils-surprise-gi-joe-and-tomb-raider-comic-crossover",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783536431
     },
     {
       "title": "Aussie gov't tells volunteers to throw out thousands of functioning test routers",
@@ -541,13 +562,6 @@
       "timestamp": 1783524102
     },
     {
-      "title": "Ocean rift zone saw spreading happen in a sudden burst",
-      "link": "https://arstechnica.com/science/2026/07/newly-installed-monitoring-system-watched-the-seafloor-spread/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783523378
-    },
-    {
       "title": "NASA's Roman Space Telescope prepares for launch | Space photo of the day for July 8, 2026",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-prepares-for-launch-space-photo-of-the-day-for-july-8-2026",
       "source": "SPACE",
@@ -562,25 +576,11 @@
       "timestamp": 1783516700
     },
     {
-      "title": "The US Space Force just got a new electromagnetic weapon to jam adversary satellites",
-      "link": "https://www.space.com/space-exploration/satellites/the-us-space-force-just-got-a-new-electromagnetic-weapon-to-jam-adversary-satellites",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783515600
-    },
-    {
       "title": "Lionel Messi leads Argentina to incredible World Cup comeback; LeBron James inching closer to decision",
       "link": "https://www.cbssports.com/nba/news/lionel-messi-leads-argentina-to-incredible-world-cup-comeback-lebron-james-inching-closer-to-decision/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783515579
-    },
-    {
-      "title": "Revolutionary rocket engine company Venus Aerospace raises $91 million to scale design",
-      "link": "https://www.space.com/technology/revolutionary-rocket-engine-company-venus-aerospace-raises-usd91-million-to-scale-design",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783512000
     },
     {
       "title": "Ancient DNA reveals the mysterious collapse of Europe's megalith builders",
