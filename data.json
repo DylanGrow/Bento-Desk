@@ -1,6 +1,69 @@
 {
-  "last_updated": 1783622883,
+  "last_updated": 1783629868,
   "items": [
+    {
+      "title": "Kawhi Leonard trade on hold as Raptors, Clippers await results of NBA investigation",
+      "link": "https://www.cbssports.com/nba/news/kawhi-leonard-trade-on-hold-raptors-clippers-explained/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783626520
+    },
+    {
+      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+      "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783626045
+    },
+    {
+      "title": "SpaceX wants to launch 100,000 Starlink satellites to orbit",
+      "link": "https://www.space.com/space-exploration/satellites/spacex-wants-to-launch-100-000-starlink-satellites-to-orbit",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783625325
+    },
+    {
+      "title": "Charles Hudson shares the common mistakes he’s seen after investing in 500+ startups",
+      "link": "https://techcrunch.com/2026/07/09/charles-hudson-shares-the-common-mistakes-hes-seen-after-investing-in-500-startups/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783625191
+    },
+    {
+      "title": "Judge doesn't like Elon Musk settlement with SEC, but says court can't block it",
+      "link": "https://arstechnica.com/tech-policy/2026/07/judge-doesnt-like-elon-musk-settlement-with-sec-but-says-court-cant-block-it/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783624233
+    },
+    {
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783623958
+    },
+    {
+      "title": "Slate Auto teams up with Crayola to color its EV truck",
+      "link": "https://techcrunch.com/2026/07/09/slate-auto-teams-up-with-crayola-to-color-its-ev-truck/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783623676
+    },
+    {
+      "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
+      "link": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783623473
+    },
+    {
+      "title": "FanDuel sent a video from star athlete Bryce Harper to a customer with a gambling problem",
+      "link": "https://techcrunch.com/2026/07/09/fanduel-sent-a-video-from-star-athlete-bryce-harper-to-a-customer-with-a-gambling-problem/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783623000
+    },
     {
       "title": "Mercor is in talks for a $20B valuation",
       "link": "https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/",
@@ -37,7 +100,7 @@
       "timestamp": 1783620000
     },
     {
-      "title": "How to stop Meta’s AI image generator from using your Instagram photos",
+      "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
       "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -226,13 +289,6 @@
       "timestamp": 1783602000
     },
     {
-      "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
-      "link": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783602000
-    },
-    {
       "title": "The US wants to build offshore rocket launch sites. Critics say 'our coasts deserve better'",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/the-us-wants-to-build-offshore-rocket-launch-sites-critics-say-our-coasts-deserve-better",
       "source": "SPACE",
@@ -252,13 +308,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1783601158
-    },
-    {
-      "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
-      "link": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783598400
     },
     {
       "title": "China announces plan to build early-warning system for dangerous asteroids",
@@ -359,13 +408,6 @@
       "timestamp": 1783565286
     },
     {
-      "title": "Truecaller clashes with India’s telecom regulator over anti-spam rules",
-      "link": "https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783564200
-    },
-    {
       "title": "Heidelberg physicists just united two opposing quantum theories",
       "link": "https://www.sciencedaily.com/releases/2026/07/260708022154.htm",
       "source": "SCIENCEDAILY",
@@ -380,13 +422,6 @@
       "timestamp": 1783555694
     },
     {
-      "title": "Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement",
-      "link": "https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783552302
-    },
-    {
       "title": "Rare goblin shark filmed alive for the first time in the deep sea",
       "link": "https://www.sciencedaily.com/releases/2026/07/260708022208.htm",
       "source": "SCIENCEDAILY",
@@ -399,13 +434,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783551600
-    },
-    {
-      "title": "Lovable reportedly in talks to double its valuation to $13.2B",
-      "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783550493
     },
     {
       "title": "Scientists used AI to crack one of water's biggest mysteries",
@@ -534,13 +562,6 @@
       "timestamp": 1783530000
     },
     {
-      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
-      "link": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783528788
-    },
-    {
       "title": "'This is the future of spatial intelligence': Vantor unveils stunning 3D satellite views of Earth (photos)",
       "link": "https://www.space.com/space-exploration/satellites/this-is-the-future-of-spatial-intelligence-vantor-unveils-stunning-3d-satellite-views-of-earth-photos",
       "source": "SPACE",
@@ -548,25 +569,11 @@
       "timestamp": 1783526400
     },
     {
-      "title": "Two teens learn the hard way not to do toy gun drive-bys from a Waymo",
-      "link": "https://arstechnica.com/cars/2026/07/two-teens-learn-the-hard-way-not-to-do-toy-gun-drivebys-from-a-waymo/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783525244
-    },
-    {
       "title": "LeBron James next team predictions: Four-time MVP highly likely to go back to Cavaliers after leaving Lakers",
       "link": "https://www.cbssports.com/prediction/news/lebron-james-next-team-predictions-four-time-mvp-highly-likely-to-go-back-to-cavaliers-after-leaving-lakers/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783524102
-    },
-    {
-      "title": "NASA's Roman Space Telescope prepares for launch | Space photo of the day for July 8, 2026",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-prepares-for-launch-space-photo-of-the-day-for-july-8-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783519200
     },
     {
       "title": "The next Jaylen Brown? Three high-paid NBA players whose contracts could eventually make them trade candidates",
@@ -651,13 +658,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783441259
-    },
-    {
-      "title": "Donovan Mitchell signs $273M contract extension with Cavaliers: What it means for Cavs future, LeBron pursuit",
-      "link": "https://www.cbssports.com/nba/news/donovan-mitchell-contract-extension-cavaliers-lebron-pusuit/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783435810
     },
     {
       "title": "The Neanderthal “love story” isn’t what the DNA actually shows",
