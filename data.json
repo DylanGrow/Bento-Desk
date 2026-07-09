@@ -1,6 +1,41 @@
 {
-  "last_updated": 1783551794,
+  "last_updated": 1783564835,
   "items": [
+    {
+      "title": "Truecaller clashes with India’s telecom regulator over anti-spam rules",
+      "link": "https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783564200
+    },
+    {
+      "title": "Heidelberg physicists just united two opposing quantum theories",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260708022154.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783556158
+    },
+    {
+      "title": "id Software Was Reportedly 'Toying With' Pitches for a New Perfect Dark, a John Wick-Inspired Game, and More Before Layoffs",
+      "link": "https://www.ign.com/articles/id-software-was-reportedly-toying-with-pitches-for-a-new-perfect-dark-a-john-wick-inspired-game-and-more-before-layoffs",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783555694
+    },
+    {
+      "title": "Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement",
+      "link": "https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783552302
+    },
+    {
+      "title": "Rare goblin shark filmed alive for the first time in the deep sea",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260708022208.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783551605
+    },
     {
       "title": "Watch a SpaceX Falcon 9 rocket launch for record-breaking 36th time early on July 9",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launch-36th-time-new-record",
@@ -14,6 +49,13 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1783550493
+    },
+    {
+      "title": "Scientists used AI to crack one of water's biggest mysteries",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260707025047.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783549890
     },
     {
       "title": "Why did 20% of the NBA participate in a complicated six-team trade involving 10 role players?",
@@ -37,7 +79,7 @@
       "timestamp": 1783547373
     },
     {
-      "title": "\"We cannot choose to become idiots\": The AI cheating scandal roiling Brown University",
+      "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
       "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -49,6 +91,13 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783546369
+    },
+    {
+      "title": "Scientists finally crack nature's secret for building better cancer drugs",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260701205001.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783546111
     },
     {
       "title": "Dance of death between binary stars leads to an unusual supernova",
@@ -282,20 +331,6 @@
       "timestamp": 1783528175
     },
     {
-      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
-      "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783527758
-    },
-    {
-      "title": "Another massive data breach exposed millions of driver’s license numbers",
-      "link": "https://techcrunch.com/2026/07/08/another-massive-data-breach-exposed-millions-of-drivers-license-numbers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783527289
-    },
-    {
       "title": "'This is the future of spatial intelligence': Vantor unveils stunning 3D satellite views of Earth (photos)",
       "link": "https://www.space.com/space-exploration/satellites/this-is-the-future-of-spatial-intelligence-vantor-unveils-stunning-3d-satellite-views-of-earth-photos",
       "source": "SPACE",
@@ -429,13 +464,6 @@
       "timestamp": 1783512000
     },
     {
-      "title": "'They Now Wait for This Storm to Pass' — PS5 Owners Are Cancelling PlayStation Plus Subscriptions to Protest Sony Killing Discs, but Analysts Say It Won't Make Any Difference",
-      "link": "https://www.ign.com/articles/they-now-wait-for-this-storm-to-pass-ps5-owners-are-cancelling-playstation-plus-subscriptions-to-protest-sony-killing-discs-but-analysts-say-it-wont-make-any-difference",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783511889
-    },
-    {
       "title": "NASA's New Horizons probe just woke up from hibernation 6 billion miles away beyond Pluto. What's it doing out there?",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-new-horizon-probe-just-woke-up-from-hibernation-6-billion-miles-away-beyond-pluto-whats-it-doing-out-there",
       "source": "SPACE",
@@ -469,13 +497,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1783483660
-    },
-    {
-      "title": "Scientists resurrect 3.2-billion-year-old enzyme to reveal how life began on Earth",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260623014024.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783474768
     },
     {
       "title": "Schrödinger’s anthill: Quantum entanglement found in a crystal large enough to hold",
@@ -651,27 +672,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1783288452
-    },
-    {
-      "title": "Record-breaking ocean drilling reveals why Japan's 2011 tsunami was so deadly",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260625060220.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783280518
-    },
-    {
-      "title": "Ancient bees turned tooth sockets into tiny nurseries 20,000 years ago",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260625060216.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783279412
-    },
-    {
-      "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783275224
     }
   ]
 }
