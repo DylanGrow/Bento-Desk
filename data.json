@@ -1,6 +1,20 @@
 {
-  "last_updated": 1783564835,
+  "last_updated": 1783579230,
   "items": [
+    {
+      "title": "Why did 20% of the NBA participate in a complicated six-team trade involving 10 role players?",
+      "link": "https://www.cbssports.com/nba/news/khris-middleton-six-team-trade-nba-wizards-mavericks-clippers-grizzlies-pistons-bucks/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783571742
+    },
+    {
+      "title": "Harvard scientists turn a silicon chip into a DNA writing machine",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783565286
+    },
     {
       "title": "Truecaller clashes with India’s telecom regulator over anti-spam rules",
       "link": "https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/",
@@ -56,13 +70,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1783549890
-    },
-    {
-      "title": "Why did 20% of the NBA participate in a complicated six-team trade involving 10 role players?",
-      "link": "https://www.cbssports.com/nba/news/khris-middleton-six-team-trade-nba-wizards-mavericks-clippers-grizzlies-pistons-bucks/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783549395
     },
     {
       "title": "Japanese company books 1,100 pounds of cargo space on SpaceX Starship mission to the moon",
@@ -665,13 +672,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1783292281
-    },
-    {
-      "title": "5,000-year-old wolves found on remote island rewrite what we know about domestication",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260624115624.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783288452
     }
   ]
 }
