@@ -1,6 +1,62 @@
 {
-  "last_updated": 1783714795,
+  "last_updated": 1783720717,
   "items": [
+    {
+      "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
+      "link": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783720315
+    },
+    {
+      "title": "China recovered its first reusable rocket and showed a new way to do it",
+      "link": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783719703
+    },
+    {
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783717229
+    },
+    {
+      "title": "A ravenous black hole in our backyard could be our window into the ancient universe",
+      "link": "https://www.space.com/astronomy/black-holes/a-ravenous-black-hole-in-our-backyard-could-be-our-window-into-the-ancient-universe",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783717200
+    },
+    {
+      "title": "God of War Laufey Physical Disc Release Confirmed, Suggesting 2027 Launch",
+      "link": "https://www.ign.com/articles/god-of-war-laufey-physical-disc-release-confirmed-suggesting-2027-launch",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783715303
+    },
+    {
+      "title": "Check out the first images of Quest shipwreck",
+      "link": "https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783713571
+    },
+    {
+      "title": "Ransomware negotiator hired to represent victims was working for the attackers",
+      "link": "https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783712411
+    },
+    {
+      "title": "Study shows how toxic RFK Jr.’s change to measles vaccine is for US toddlers",
+      "link": "https://arstechnica.com/health/2026/07/anti-vaccine-changes-under-rfk-jr-will-hurt-vulnerable-toddlers-study-confirms/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783711504
+    },
     {
       "title": "Launching from 2 continents: Germany's Isar Aerospace leases Canadian pad for $150 million",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/launching-from-2-continents-germanys-isar-aerospace-leases-canadian-pad-for-usd150-million",
@@ -366,13 +422,6 @@
       "timestamp": 1783640803
     },
     {
-      "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
-      "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783640280
-    },
-    {
       "title": "'To Continue Being Produced Long Term, Games Need to Succeed, Not Just Be Beloved' — John Carmack Responds to id Software Layoffs",
       "link": "https://www.ign.com/articles/to-continue-being-produced-long-term-games-need-to-succeed-not-just-be-beloved-john-carmack-responds-to-id-software-layoffs",
       "source": "IGN",
@@ -385,13 +434,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1783636150
-    },
-    {
-      "title": "OpenAI launches its new family of models with GPT-5.6",
-      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783635864
     },
     {
       "title": "Wally Funk, trailblazing pilot and astronaut, dies at 87",
@@ -436,13 +478,6 @@
       "timestamp": 1783632442
     },
     {
-      "title": "OpenAI wants its new tool to do your work for you and with you",
-      "link": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783632355
-    },
-    {
       "title": "Scientists have discovered the oldest quasar ever seen, and it shines with the light of a trillion suns",
       "link": "https://www.space.com/astronomy/black-holes/scientists-have-discovered-the-oldest-quasar-ever-seen-and-it-shines-with-the-light-of-a-trillion-suns",
       "source": "SPACE",
@@ -455,27 +490,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1783630617
-    },
-    {
-      "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
-      "link": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783630375
-    },
-    {
-      "title": "Allstate accuses Broadcom of auditing it because it quit VMware, CA",
-      "link": "https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783628935
-    },
-    {
-      "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
-      "link": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783627923
     },
     {
       "title": "A hidden immune backup system could supercharge mRNA cancer vaccines",
@@ -520,13 +534,6 @@
       "timestamp": 1783616022
     },
     {
-      "title": "Love and Deepspace Fans Continue Calls for Valko's Return After Update Excludes Him",
-      "link": "https://www.ign.com/articles/love-and-deepspace-fans-continue-calls-for-valkos-return-after-update-excludes-him",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783615176
-    },
-    {
       "title": "How Lakers' all-in move for Walker Kessler created a dilemma they're trying to solve with Jonathan Kuminga",
       "link": "https://www.cbssports.com/nba/news/lakers-walker-kessler-jonathan-kuminga-free-agency/",
       "source": "CBSSPORTS",
@@ -539,13 +546,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783609200
-    },
-    {
-      "title": "Take a trip to the turquoise waters of the Bahamas (from space) | Space photo of the day for July 9, 2026",
-      "link": "https://www.space.com/astronomy/earth/take-a-trip-to-the-turquoise-waters-of-the-bahamas-from-space-space-photo-of-the-day-for-july-9-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783605600
     },
     {
       "title": "NBA summer league storylines: AJ Dybantsa, Darryn Peterson meet in highly anticipated showdown",
