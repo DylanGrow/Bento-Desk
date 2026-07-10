@@ -1,12 +1,117 @@
 {
-  "last_updated": 1783693042,
+  "last_updated": 1783702387,
   "items": [
+    {
+      "title": "China is catching up to Elon Musk’s reusable rockets",
+      "link": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783702267
+    },
+    {
+      "title": "The NBA's seven biggest non-LeBron James and Kawhi Leonard questions left to be answered this offseason",
+      "link": "https://www.cbssports.com/nba/news/nba-offseason-biggest-questions-thunder-lakers-knicks-pistons-nuggets/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783701859
+    },
+    {
+      "title": "Disney+ is considering a free streaming tier, report says",
+      "link": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783700945
+    },
+    {
+      "title": "SpaceX ignites all 33 powerful engines on Starship booster test ahead of Flight 13 launch",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-ignites-all-33-powerful-engines-on-starship-booster-test-ahead-of-flight-13-test-launch",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783700028
+    },
+    {
+      "title": "Dumb Co dared me to trade my iPhone for a hacked flip phone",
+      "link": "https://techcrunch.com/2026/07/10/dumb-co-dared-me-to-trade-my-iphone-for-a-hacked-flip-phone/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783699609
+    },
+    {
+      "title": "These rare glowing 'space clouds' are summer's best-kept skywatching secret",
+      "link": "https://www.space.com/stargazing/these-rare-glowing-space-clouds-are-summers-best-kept-skywatching-secret",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783699433
+    },
+    {
+      "title": "Disable auto-play and infinite scroll or risk massive fines, EU tells Meta",
+      "link": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783698378
+    },
+    {
+      "title": "Palworld 1.0 Players Spot a Number of Pal Redesigns — and Some Say They Now Look Less Like the Pokémon They Resembled",
+      "link": "https://www.ign.com/articles/better-late-than-never-palworld-10-quietly-changes-the-designs-of-some-creatures-to-look-less-like-the-pokemon-they-resembled",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783697297
+    },
+    {
+      "title": "NASA sure seems to be asking an awful lot of private space stations",
+      "link": "https://arstechnica.com/space/2026/07/nasa-finally-releases-a-critical-planning-document-for-private-space-stations/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783696558
+    },
+    {
+      "title": "Stardew Valley Is Getting an Official Crochet Book With 45 Adorable Projects",
+      "link": "https://www.ign.com/articles/official-stardew-valley-crochet-book-announcement",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783696403
+    },
+    {
+      "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
+      "link": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783695609
+    },
+    {
+      "title": "Netflix could be planning ‘always-on’ live TV channels",
+      "link": "https://techcrunch.com/2026/07/10/netflix-could-be-planning-always-on-live-tv-channels/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783695188
+    },
+    {
+      "title": "AJ Dybantsa, Darryn Peterson deliver glimpse of the NBA's bright future in Summer League showdown",
+      "link": "https://www.cbssports.com/nba/news/aj-dybantsa-darryn-peterson-nba-summer-league/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783695052
+    },
+    {
+      "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
+      "link": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783693180
+    },
     {
       "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
       "link": "https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1783692663
+    },
+    {
+      "title": "LeBron James rumors: Stephen Curry addresses 'pipe dream' for Warriors, Rich Paul is getting the (voice) memos",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-rumors-stephen-curry-pipe-dream-warriors/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783692457
     },
     {
       "title": "SpaceX launch creates colorful 'jellyfish' in the night sky | Space photo of the day for July 10, 2026",
@@ -16,7 +121,7 @@
       "timestamp": 1783692000
     },
     {
-      "title": "VW Group and unions disagree on plan to streamline the automaker",
+      "title": "Volkswagen Group tells its board how to fix it, unions disagree",
       "link": "https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -105,13 +210,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1783681232
-    },
-    {
-      "title": "AJ Dybantsa, Darryn Peterson deliver glimpse of the NBA's bright future in Summer League showdown",
-      "link": "https://www.cbssports.com/nba/news/aj-dybantsa-darryn-peterson-nba-summer-league/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783681014
     },
     {
       "title": "'There's a Lot of Elevating It Because It's Old' — The Odyssey Director Christopher Nolan Set Out to 'Do Away' With 'Cultural Prejudice' Around How We View the Ancient World",
@@ -240,7 +338,7 @@
       "timestamp": 1783634634
     },
     {
-      "title": "Wally Funk, trailblazing pilot and astronaut, passes away at 87",
+      "title": "Wally Funk, trailblazing pilot and astronaut, dies at 87",
       "link": "https://www.space.com/space-exploration/human-spaceflight/wally-funk-trailblazing-pilot-and-astronaut-passes-away-at-87",
       "source": "SPACE",
       "category": "space",
@@ -345,25 +443,11 @@
       "timestamp": 1783627508
     },
     {
-      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-      "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783626045
-    },
-    {
       "title": "SpaceX wants to launch 100,000 Starlink satellites to orbit",
       "link": "https://www.space.com/space-exploration/satellites/spacex-wants-to-launch-100-000-starlink-satellites-to-orbit",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783625325
-    },
-    {
-      "title": "Charles Hudson shares the common mistakes he’s seen after investing in 500+ startups",
-      "link": "https://techcrunch.com/2026/07/09/charles-hudson-shares-the-common-mistakes-hes-seen-after-investing-in-500-startups/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783625191
     },
     {
       "title": "Judge doesn't like Elon Musk settlement with SEC, but says court can't block it",
@@ -373,39 +457,11 @@
       "timestamp": 1783624233
     },
     {
-      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-      "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783623958
-    },
-    {
-      "title": "Slate Auto teams up with Crayola to color its EV truck",
-      "link": "https://techcrunch.com/2026/07/09/slate-auto-teams-up-with-crayola-to-color-its-ev-truck/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783623676
-    },
-    {
       "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
       "link": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1783623473
-    },
-    {
-      "title": "FanDuel sent a video from star athlete Bryce Harper to a customer with a gambling problem",
-      "link": "https://techcrunch.com/2026/07/09/fanduel-sent-a-video-from-star-athlete-bryce-harper-to-a-customer-with-a-gambling-problem/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783623000
-    },
-    {
-      "title": "Mercor is in talks for a $20B valuation",
-      "link": "https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783622542
     },
     {
       "title": "'Reckless' space-based data centers lack environmental review, drawing criticism",
@@ -478,38 +534,10 @@
       "timestamp": 1783609200
     },
     {
-      "title": "Godzilla Minus Zero Teaser Trailer Shows That Dropping a Nuke on the Legendary King of the Monsters Might Just Make It Angry",
-      "link": "https://www.ign.com/articles/godzilla-minus-zero-teaser-trailer-shows-that-dropping-a-nuke-on-the-legendary-king-of-the-monsters-might-just-make-it-angry",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783608602
-    },
-    {
-      "title": "Conspiracies and regrets abound in Dune: Part Three trailer",
-      "link": "https://arstechnica.com/culture/2026/07/conspiracies-and-regrets-abound-in-dune-part-three-trailer/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783608344
-    },
-    {
-      "title": "Ruf debuts new flat-eight engine at Goodwood",
-      "link": "https://arstechnica.com/cars/2026/07/ruf-debuts-new-flat-eight-engine-at-goodwood/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783607568
-    },
-    {
       "title": "Take a trip to the turquoise waters of the Bahamas (from space) | Space photo of the day for July 9, 2026",
       "link": "https://www.space.com/astronomy/earth/take-a-trip-to-the-turquoise-waters-of-the-bahamas-from-space-space-photo-of-the-day-for-july-9-2026",
       "source": "SPACE",
       "category": "space",
-      "timestamp": 1783605600
-    },
-    {
-      "title": "Nickelodeon’s San Diego Comic-Con 2026 Plans Include a Slime-Fueled Outdoor Experience",
-      "link": "https://www.ign.com/articles/nickelodeon-san-diego-comic-con-2026-plans",
-      "source": "IGN",
-      "category": "gaming",
       "timestamp": 1783605600
     },
     {
@@ -534,13 +562,6 @@
       "timestamp": 1783601781
     },
     {
-      "title": "China announces plan to build early-warning system for dangerous asteroids",
-      "link": "https://www.space.com/space-exploration/asteroid-comet-missions/china-announces-plan-to-build-early-warning-system-for-dangerous-asteroids",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783598400
-    },
-    {
       "title": "These ancient quasars shouldn't exist so soon after the Big Bang",
       "link": "https://www.sciencedaily.com/releases/2026/07/260707025049.htm",
       "source": "SCIENCEDAILY",
@@ -553,13 +574,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1783593652
-    },
-    {
-      "title": "Staffing the moon base: How many astronauts should live in NASA's lunar outpost?",
-      "link": "https://www.space.com/astronomy/moon/staffing-the-moon-base-how-many-astronauts-should-live-in-nasas-lunar-outpost",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783591200
     },
     {
       "title": "Scientists finally solved a 150-year-old gallium mystery",
@@ -658,20 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783460245
-    },
-    {
-      "title": "NBA rumors: Lakers 'most active' in Jonathan Kuminga talks, pitching him on 'likely starting role'",
-      "link": "https://www.cbssports.com/nba/news/nba-rumors-jonathan-kuminga-lakers/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783458325
-    },
-    {
-      "title": "When will LeBron James pick a new team? Why his free agency could last until mid-July",
-      "link": "https://www.cbssports.com/nba/news/lebron-james-new-team-nba-free-agency/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783451650
     }
   ]
 }
