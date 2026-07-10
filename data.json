@@ -1,8 +1,36 @@
 {
-  "last_updated": 1783635550,
+  "last_updated": 1783641697,
   "items": [
     {
-      "title": "An AI agent startup just let its agent run its $100 million fundraise",
+      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783640280
+    },
+    {
+      "title": "'To Continue Being Produced Long Term, Games Need to Succeed, Not Just Be Beloved' — John Carmack Responds to id Software Layoffs",
+      "link": "https://www.ign.com/articles/to-continue-being-produced-long-term-games-need-to-succeed-not-just-be-beloved-john-carmack-responds-to-id-software-layoffs",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783638125
+    },
+    {
+      "title": "Flores Hobbits' eating habits offer clues about their evolutionary past",
+      "link": "https://arstechnica.com/science/2026/07/flores-hobbits-scavenged-komodo-dragons-elephant-kills-study-suggests/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783636150
+    },
+    {
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783635864
+    },
+    {
+      "title": "An AI agent startup just let its agent run its $100M fundraise",
       "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -16,17 +44,17 @@
       "timestamp": 1783634634
     },
     {
-      "title": "Wally Funk, trailblazing pilot and astronaut, passes away at 87",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/wally-funk-trailblazing-pilot-and-astronaut-passes-away-at-87",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783634400
-    },
-    {
       "title": "Naruto Live-Action Movie Director, Studio Launch Worldwide Casting Search for Lead Roles",
       "link": "https://www.ign.com/articles/naruto-live-action-movie-global-casting-search",
       "source": "IGN",
       "category": "gaming",
+      "timestamp": 1783634400
+    },
+    {
+      "title": "Wally Funk, trailblazing pilot and astronaut, passes away at 87",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/wally-funk-trailblazing-pilot-and-astronaut-passes-away-at-87",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1783634400
     },
     {
@@ -35,6 +63,13 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1783634262
+    },
+    {
+      "title": "Michigan's explosive outbreak of diarrheal parasite jumps to over 1,200 cases",
+      "link": "https://arstechnica.com/health/2026/07/michigans-explosive-outbreak-of-diarrheal-parasite-jumps-to-over-1200-cases/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783634204
     },
     {
       "title": "Kawhi Leonard trade on hold: What's next as Raptors, Clippers await results of NBA investigation",
@@ -56,6 +91,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1783633450
+    },
+    {
+      "title": "OpenAI wants its new tool to do your work for you and with you",
+      "link": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783632355
     },
     {
       "title": "Scientists have discovered the oldest quasar ever seen, and it shines with the light of a trillion suns",
@@ -191,20 +233,6 @@
       "timestamp": 1783617969
     },
     {
-      "title": "Meta’s new AI chips will begin production in September",
-      "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783617457
-    },
-    {
-      "title": "Nvidia is a victim of the compute marketplace it created",
-      "link": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783616771
-    },
-    {
       "title": "'Silo' season 3 showrunner Graham Yost explains the time jumps and turning half of the show into a political thriller (interview)",
       "link": "https://www.space.com/entertainment/space-movies-shows/silo-season-3-showrunner-graham-yost-explains-the-time-jumps-and-turning-half-of-the-show-into-a-political-thriller-interview",
       "source": "SPACE",
@@ -282,13 +310,6 @@
       "timestamp": 1783607568
     },
     {
-      "title": "Take a trip to the turquoise waters of the Bahamas (from space) | Space photo of the day for July 9, 2026",
-      "link": "https://www.space.com/astronomy/earth/take-a-trip-to-the-turquoise-waters-of-the-bahamas-from-space-space-photo-of-the-day-for-july-9-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783605600
-    },
-    {
       "title": "Nickelodeon’s San Diego Comic-Con 2026 Plans Include a Slime-Fueled Outdoor Experience",
       "link": "https://www.ign.com/articles/nickelodeon-san-diego-comic-con-2026-plans",
       "source": "IGN",
@@ -300,6 +321,13 @@
       "link": "https://www.ign.com/articles/scream-operator-haunted-house-manager-announced-for-pc",
       "source": "IGN",
       "category": "gaming",
+      "timestamp": 1783605600
+    },
+    {
+      "title": "Take a trip to the turquoise waters of the Bahamas (from space) | Space photo of the day for July 9, 2026",
+      "link": "https://www.space.com/astronomy/earth/take-a-trip-to-the-turquoise-waters-of-the-bahamas-from-space-space-photo-of-the-day-for-july-9-2026",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1783605600
     },
     {
@@ -399,13 +427,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1783593652
-    },
-    {
-      "title": "Total Eclipse of the Heart Singer Bonnie Tyler Has Died Aged of 75",
-      "link": "https://www.ign.com/articles/total-eclipse-of-the-heart-singer-bonnie-tyler-has-died-aged-of-75",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783591657
     },
     {
       "title": "Staffing the moon base: How many astronauts should live in NASA's lunar outpost?",
@@ -527,32 +548,11 @@
       "timestamp": 1783540597
     },
     {
-      "title": "Judge rejects Kalshi attempt to override New York state gambling laws",
-      "link": "https://arstechnica.com/tech-policy/2026/07/new-york-can-restrict-sports-gambling-on-prediction-markets-us-judge-rules/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783538042
-    },
-    {
-      "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
-      "link": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783537279
-    },
-    {
       "title": "Trump gifts Artemis astronauts an American flag from the US Capitol to plant on the moon",
       "link": "https://www.space.com/space-exploration/artemis/trump-gifts-artemis-astronauts-a-flag-from-the-us-capitol-to-plant-on-the-moon",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783537200
-    },
-    {
-      "title": "Aussie gov't tells volunteers to throw out thousands of functioning test routers",
-      "link": "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783534216
     },
     {
       "title": "Shoebox-sized 'detector satellites' could sniff out a nuclear bomb in space",
