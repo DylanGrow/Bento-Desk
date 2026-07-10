@@ -1,6 +1,111 @@
 {
-  "last_updated": 1783684086,
+  "last_updated": 1783693042,
   "items": [
+    {
+      "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
+      "link": "https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783692663
+    },
+    {
+      "title": "SpaceX launch creates colorful 'jellyfish' in the night sky | Space photo of the day for July 10, 2026",
+      "link": "https://www.space.com/space-exploration/spacex-launch-creates-colorful-jellyfish-in-the-night-sky-space-photo-of-the-day-for-july-10-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783692000
+    },
+    {
+      "title": "VW Group and unions disagree on plan to streamline the automaker",
+      "link": "https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783691470
+    },
+    {
+      "title": "'Additional Packs Are Entirely Optional': Ubisoft Responds to Assassin's Creed Black Flag Resynced Microtransactions Backlash, as $60 Game Arrives With $85 of DLC",
+      "link": "https://www.ign.com/articles/additional-packs-are-entirely-optional-ubisoft-responds-to-assassins-creed-black-flag-resynced-microtransactions-backlash-as-60-game-arrives-with-85-of-dlc",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783689450
+    },
+    {
+      "title": "'This Is a Deeply Odd State of Affairs' — Tech Experts Slam Activision's 'Low Effort' Call of Duty: Black Ops PS5 Port",
+      "link": "https://www.ign.com/articles/this-is-a-deeply-odd-state-of-affairs-tech-experts-slam-activisions-low-effort-call-of-duty-black-ops-ps5-port",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783688550
+    },
+    {
+      "title": "The moon, Mars and the Pleiades form a stunning lineup before dawn on July 11. Here's how to see it",
+      "link": "https://www.space.com/stargazing/the-moon-mars-and-the-pleiades-form-a-stunning-lineup-before-dawn-on-july-11-heres-how-to-see-it",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783688400
+    },
+    {
+      "title": "Why Kawhi Leonard's reunion with Raptors could fall through; Kylian Mbappé injury update after World Cup win",
+      "link": "https://www.cbssports.com/nba/news/kawhi-leonard-raptors-kylian-mbappe-injury-world-cup/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783687215
+    },
+    {
+      "title": "Supreme Court ruling on mail-in ballots ensures astronauts can vote from space  — or anywhere else",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/supreme-court-ruling-on-mail-in-ballots-ensures-astronauts-can-vote-from-space-or-anywhere-else",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783684800
+    },
+    {
+      "title": "This common pesticide may be quietly wiping out future bumblebees",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260709160630.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783684701
+    },
+    {
+      "title": "Wally Funk, last of Mercury 13 and oldest woman in space, dies at 87",
+      "link": "https://arstechnica.com/space/2026/07/wally-funk-last-of-mercury-13-and-oldest-woman-in-space-dies-at-87/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783683029
+    },
+    {
+      "title": "'I Just Can't Believe My Luck' — Dark Souls Superfan Peter Serafinowicz Reveals How He Landed a Role in the Upcoming Elden Ring Movie",
+      "link": "https://www.ign.com/articles/i-just-cant-believe-my-luck-dark-souls-superfan-peter-serafinowicz-reveals-how-he-landed-a-role-in-the-upcoming-elden-ring-movie",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783682845
+    },
+    {
+      "title": "Europe's most active volcano may have a secret origin",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260709160653.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783682219
+    },
+    {
+      "title": "Is an air-conditioning revolution coming to Europe?",
+      "link": "https://arstechnica.com/science/2026/07/is-an-air-conditioning-revolution-coming-to-europe/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783681808
+    },
+    {
+      "title": "Rocket Report: \"Panic\" over Transporter availability; Isar to launch from Canada",
+      "link": "https://arstechnica.com/space/2026/07/rocket-report-panic-over-transporter-availability-isar-to-launch-from-canada/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783681243
+    },
+    {
+      "title": "Like a cheat code for your car: We investigate ECU tuning",
+      "link": "https://arstechnica.com/cars/2026/07/like-a-cheat-code-for-your-car-we-investigate-ecu-tuning/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783681232
+    },
     {
       "title": "AJ Dybantsa, Darryn Peterson deliver glimpse of the NBA's bright future in Summer League showdown",
       "link": "https://www.cbssports.com/nba/news/aj-dybantsa-darryn-peterson-nba-summer-league/",
@@ -35,6 +140,13 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783666544
+    },
+    {
+      "title": "The galaxy’s coldest “stars” may actually be alien megastructures",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260710003524.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783663484
     },
     {
       "title": "After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV",
@@ -86,7 +198,7 @@
       "timestamp": 1783640803
     },
     {
-      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
       "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -296,13 +408,6 @@
       "timestamp": 1783622542
     },
     {
-      "title": "Google will now disclose which ads are made with AI",
-      "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783622451
-    },
-    {
       "title": "'Reckless' space-based data centers lack environmental review, drawing criticism",
       "link": "https://www.space.com/astronomy/earth/reckless-space-based-data-centers-lack-environmental-review-drawing-criticism",
       "source": "SPACE",
@@ -408,46 +513,11 @@
       "timestamp": 1783605600
     },
     {
-      "title": "Scream Operator: Haunted House Manager Announced for PC",
-      "link": "https://www.ign.com/articles/scream-operator-haunted-house-manager-announced-for-pc",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783605600
-    },
-    {
       "title": "NBA summer league storylines: AJ Dybantsa, Darryn Peterson meet in highly anticipated showdown",
       "link": "https://www.cbssports.com/nba/news/nba-summer-league-storylines-aj-dybantsa-darryn-peterson/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783605227
-    },
-    {
-      "title": "Former Dragon Age Lead Writer Says BioWare's Fantasy Series is Unlikely to Ever Return Under EA — Though He Knows What He'd Do With Dragon Age 5 if He Made It",
-      "link": "https://www.ign.com/articles/former-dragon-age-lead-writer-says-biowares-fantasy-series-is-unlikely-to-ever-return-under-ea-though-he-knows-what-hed-do-with-dragon-age-5-if-he-made-it",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783604982
-    },
-    {
-      "title": "MobLand Season 2 Trailer Confirms Paramount+ Release Date and a First Look at the Returning Tom Hardy — but Will He Appear in Season 3?",
-      "link": "https://www.ign.com/articles/mobland-season-2-trailer-confirms-paramount-release-date-and-a-first-look-at-the-returning-tom-hardy-but-will-he-appear-in-season-3",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783604216
-    },
-    {
-      "title": "Free Waymo rides in California? You can thank a regulatory quirk.",
-      "link": "https://arstechnica.com/cars/2026/07/free-waymo-rides-in-california-you-can-thank-a-regulatory-quirk/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783603860
-    },
-    {
-      "title": "The newest entrant in the military’s launch competition isn't actually a launch company",
-      "link": "https://arstechnica.com/space/2026/07/the-newest-entrant-in-the-militarys-launch-competition-isnt-actually-a-launch-company/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783602507
     },
     {
       "title": "The US wants to build offshore rocket launch sites. Critics say 'our coasts deserve better'",
@@ -476,13 +546,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1783595573
-    },
-    {
-      "title": "Payloads used to dictate the terms of launch. That's finally changing.",
-      "link": "https://arstechnica.com/space/2026/07/rocket-developers-used-to-chase-satellite-trends-is-the-inverse-now-true/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783594826
     },
     {
       "title": "This Mars rover could finally reveal whether life ever existed on Mars",
@@ -548,60 +611,11 @@
       "timestamp": 1783551605
     },
     {
-      "title": "SpaceX Falcon 9 rocket launches for record-breaking 36th time",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launch-36th-time-new-record",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783551600
-    },
-    {
-      "title": "Scientists used AI to crack one of water's biggest mysteries",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260707025047.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783549890
-    },
-    {
-      "title": "Japanese company books 1,100 pounds of cargo space on SpaceX Starship mission to the moon",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/japanese-company-books-1-100-pounds-of-cargo-space-on-spacex-starship-mission-to-the-moon",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783548000
-    },
-    {
-      "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
-      "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783546964
-    },
-    {
       "title": "2026 NBA Las Vegas Summer League schedule: How to watch, live stream as action tips off Thursday",
       "link": "https://www.cbssports.com/nba/news/2026-nba-las-vegas-summer-league-schedule-watch-live-stream/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783546369
-    },
-    {
-      "title": "Scientists finally crack nature's secret for building better cancer drugs",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260701205001.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783546111
-    },
-    {
-      "title": "Dance of death between binary stars leads to an unusual supernova",
-      "link": "https://www.space.com/astronomy/stars/dance-of-death-between-binary-stars-leads-to-an-unusual-supernova",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783544400
-    },
-    {
-      "title": "Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself",
-      "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783540597
     },
     {
       "title": "Mariska Hargitay? Peyton Manning? Who should get the chance to pitch LeBron James on their team next?",
@@ -632,13 +646,6 @@
       "timestamp": 1783515579
     },
     {
-      "title": "Ancient DNA reveals the mysterious collapse of Europe's megalith builders",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260707054108.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783497055
-    },
-    {
       "title": "In Toronto, Kyle Lowry transformed himself and the Raptors franchise",
       "link": "https://www.cbssports.com/nba/news/kyle-lowry-toronto-raptors-retirement/",
       "source": "CBSSPORTS",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783451650
-    },
-    {
-      "title": "Jalen Brunson played through Knicks' championship run with wrist injury, is scheduled for surgery",
-      "link": "https://www.cbssports.com/nba/news/jalen-brunson-injury-timeline-wrist-surgery-knicks/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783442776
     }
   ]
 }
