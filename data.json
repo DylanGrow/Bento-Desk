@@ -1,6 +1,48 @@
 {
-  "last_updated": 1783702387,
+  "last_updated": 1783707652,
   "items": [
+    {
+      "title": "Launching from 2 continents: Germany's Isar Aerospace leases Canadian pad for $150 million",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/launching-from-2-continents-germanys-isar-aerospace-leases-canadian-pad-for-usd150-million",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783706400
+    },
+    {
+      "title": "id Software Issues Statement Following Xbox Layoffs, Says It's Back to the Size It Was When It Made 2016's Doom",
+      "link": "https://www.ign.com/articles/id-software-issues-statement-following-xbox-layoffs-says-its-back-to-the-size-it-was-when-it-made-2016s-doom",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783705822
+    },
+    {
+      "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
+      "link": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783705356
+    },
+    {
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783703832
+    },
+    {
+      "title": "'I'd Take It in a Second' — Cyberpunk 2077 Player Resurgence Has Fans Calling on CD Projekt to Change Its Mind and Release More DLC",
+      "link": "https://www.ign.com/articles/id-take-it-in-a-second-cyberpunk-2077-player-resurgence-has-fans-calling-on-cd-projekt-to-change-its-mind-and-release-more-dlc",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783703560
+    },
+    {
+      "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
+      "link": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783703511
+    },
     {
       "title": "China is catching up to Elon Musk’s reusable rockets",
       "link": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
@@ -23,7 +65,7 @@
       "timestamp": 1783700945
     },
     {
-      "title": "SpaceX ignites all 33 powerful engines on Starship booster test ahead of Flight 13 launch",
+      "title": "SpaceX ignites all 33 powerful engines on Starship booster ahead of Flight 13 launch",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-ignites-all-33-powerful-engines-on-starship-booster-test-ahead-of-flight-13-test-launch",
       "source": "SPACE",
       "category": "space",
@@ -112,6 +154,13 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783692457
+    },
+    {
+      "title": "Hugging Face’s CEO on why companies are done renting their AI",
+      "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783692000
     },
     {
       "title": "SpaceX launch creates colorful 'jellyfish' in the night sky | Space photo of the day for July 10, 2026",
@@ -324,20 +373,6 @@
       "timestamp": 1783635864
     },
     {
-      "title": "An AI agent startup just let its agent run its $100M fundraise",
-      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783634938
-    },
-    {
-      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-      "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783634634
-    },
-    {
       "title": "Wally Funk, trailblazing pilot and astronaut, dies at 87",
       "link": "https://www.space.com/space-exploration/human-spaceflight/wally-funk-trailblazing-pilot-and-astronaut-passes-away-at-87",
       "source": "SPACE",
@@ -352,13 +387,6 @@
       "timestamp": 1783634400
     },
     {
-      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
-      "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783634262
-    },
-    {
       "title": "Michigan's explosive outbreak of diarrheal parasite jumps to over 1,200 cases",
       "link": "https://arstechnica.com/health/2026/07/michigans-explosive-outbreak-of-diarrheal-parasite-jumps-to-over-1200-cases/",
       "source": "ARSTECHNICA",
@@ -371,13 +399,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783634096
-    },
-    {
-      "title": "Can AI answer the $3 trillion question?",
-      "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783633670
     },
     {
       "title": "Xbox CEO Asha Sharma Is Advising the Federal Reserve on the Economic Impact of AI as Part of a 'Productivity and Jobs' Taskforce",
@@ -499,13 +520,6 @@
       "timestamp": 1783615176
     },
     {
-      "title": "Everything Announced at the Pokémon Go 10 Year Anniversary Celebration Livestream",
-      "link": "https://www.ign.com/articles/everything-announced-at-the-pokmon-go-10-year-anniversary-celebration-livestream",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783613340
-    },
-    {
       "title": "How Lakers' all-in move for Walker Kessler created a dilemma they're trying to solve with Jonathan Kuminga",
       "link": "https://www.cbssports.com/nba/news/lakers-walker-kessler-jonathan-kuminga-free-agency/",
       "source": "CBSSPORTS",
@@ -518,13 +532,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1783611221
-    },
-    {
-      "title": "GTA Online's Next Big Update, the Kortz Center Heist, Releases Next Week, and Fans Have Already Spotted a Few Rockstar-Related Easter Eggs",
-      "link": "https://www.ign.com/articles/gta-onlines-next-big-update-the-kortz-center-heist-releases-next-week-and-fans-have-already-spotted-a-few-rockstar-related-easter-eggs",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783610872
     },
     {
       "title": "Could evidence of life on Mars be hiding in clay? Europe wants to send a rover to check",
@@ -546,13 +553,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783605227
-    },
-    {
-      "title": "The US wants to build offshore rocket launch sites. Critics say 'our coasts deserve better'",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/the-us-wants-to-build-offshore-rocket-launch-sites-critics-say-our-coasts-deserve-better",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783602000
     },
     {
       "title": "2026 NBA Las Vegas Summer League tips off with marquee rookie matchup between AJ Dybantsa, Darryn Peterson",
