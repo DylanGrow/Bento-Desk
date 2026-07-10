@@ -1,6 +1,55 @@
 {
-  "last_updated": 1783641697,
+  "last_updated": 1783658912,
   "items": [
+    {
+      "title": "After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV",
+      "link": "https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783658180
+    },
+    {
+      "title": "'We Really Had a Good Time Making It': JK Simmons Speaks Out About Canceled Batgirl Movie",
+      "link": "https://www.ign.com/articles/we-really-had-a-good-time-making-it-jk-simmons-speaks-out-about-canceled-batgirl-movie",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783651534
+    },
+    {
+      "title": "Dead by Daylight, Control, and McDonald's Are Helping Advertise Assassin's Creed Black Flag Resynced",
+      "link": "https://www.ign.com/articles/dead-by-daylight-control-and-mcdonalds-are-helping-advertise-assassins-creed-black-flag-resynced",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783651170
+    },
+    {
+      "title": "Scientists just debunked a dangerous baby rattlesnake myth",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260707054123.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783648790
+    },
+    {
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+      "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783642614
+    },
+    {
+      "title": "Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him",
+      "link": "https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783642380
+    },
+    {
+      "title": "Physicists created a tiny universe where time emerged without a clock",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260709160632.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783640803
+    },
     {
       "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
       "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
@@ -44,17 +93,17 @@
       "timestamp": 1783634634
     },
     {
-      "title": "Naruto Live-Action Movie Director, Studio Launch Worldwide Casting Search for Lead Roles",
-      "link": "https://www.ign.com/articles/naruto-live-action-movie-global-casting-search",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783634400
-    },
-    {
       "title": "Wally Funk, trailblazing pilot and astronaut, passes away at 87",
       "link": "https://www.space.com/space-exploration/human-spaceflight/wally-funk-trailblazing-pilot-and-astronaut-passes-away-at-87",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1783634400
+    },
+    {
+      "title": "Naruto Live-Action Movie Director, Studio Launch Worldwide Casting Search for Lead Roles",
+      "link": "https://www.ign.com/articles/naruto-live-action-movie-global-casting-search",
+      "source": "IGN",
+      "category": "gaming",
       "timestamp": 1783634400
     },
     {
@@ -93,6 +142,13 @@
       "timestamp": 1783633450
     },
     {
+      "title": "This alien planet never has sunrise or sunset. It may support life",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260709160657.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783632442
+    },
+    {
       "title": "OpenAI wants its new tool to do your work for you and with you",
       "link": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
       "source": "ARSTECHNICA",
@@ -105,6 +161,13 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783630800
+    },
+    {
+      "title": "Hawaii's famous “happy-face” spider has a surprising relative",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260709160627.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783630617
     },
     {
       "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
@@ -126,6 +189,13 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1783627923
+    },
+    {
+      "title": "A hidden immune backup system could supercharge mRNA cancer vaccines",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260708022212.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783627508
     },
     {
       "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
@@ -198,32 +268,11 @@
       "timestamp": 1783622451
     },
     {
-      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-      "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783622075
-    },
-    {
-      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
-      "link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783621359
-    },
-    {
       "title": "'Reckless' space-based data centers lack environmental review, drawing criticism",
       "link": "https://www.space.com/astronomy/earth/reckless-space-based-data-centers-lack-environmental-review-drawing-criticism",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783620000
-    },
-    {
-      "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
-      "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783619807
     },
     {
       "title": "Call of Duty: Black Ops 1 and 2 Ports Out Now on PS5, But They Come at a High Cost",
@@ -254,8 +303,8 @@
       "timestamp": 1783615176
     },
     {
-      "title": "Pokémon Go 10 Year Anniversary Celebration Livestream — Updating Live",
-      "link": "https://www.ign.com/articles/pokemon-go-10-year-anniversary-celebration-event-updating-live",
+      "title": "Everything Announced at the Pokémon Go 10 Year Anniversary Celebration Livestream",
+      "link": "https://www.ign.com/articles/everything-announced-at-the-pokmon-go-10-year-anniversary-celebration-livestream",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1783613340
@@ -310,6 +359,13 @@
       "timestamp": 1783607568
     },
     {
+      "title": "Take a trip to the turquoise waters of the Bahamas (from space) | Space photo of the day for July 9, 2026",
+      "link": "https://www.space.com/astronomy/earth/take-a-trip-to-the-turquoise-waters-of-the-bahamas-from-space-space-photo-of-the-day-for-july-9-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783605600
+    },
+    {
       "title": "Nickelodeon’s San Diego Comic-Con 2026 Plans Include a Slime-Fueled Outdoor Experience",
       "link": "https://www.ign.com/articles/nickelodeon-san-diego-comic-con-2026-plans",
       "source": "IGN",
@@ -321,13 +377,6 @@
       "link": "https://www.ign.com/articles/scream-operator-haunted-house-manager-announced-for-pc",
       "source": "IGN",
       "category": "gaming",
-      "timestamp": 1783605600
-    },
-    {
-      "title": "Take a trip to the turquoise waters of the Bahamas (from space) | Space photo of the day for July 9, 2026",
-      "link": "https://www.space.com/astronomy/earth/take-a-trip-to-the-turquoise-waters-of-the-bahamas-from-space-space-photo-of-the-day-for-july-9-2026",
-      "source": "SPACE",
-      "category": "space",
       "timestamp": 1783605600
     },
     {
@@ -392,20 +441,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783598400
-    },
-    {
-      "title": "Laid-Off MindsEye Developers Plan Protest Outside Company Office Over 'All-Expenses-Paid Playtest Day'",
-      "link": "https://www.ign.com/articles/laid-off-mindseye-developers-plan-protest-outside-company-office-over-all-expenses-paid-playtest-day",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783597891
-    },
-    {
-      "title": "The Elder Scrolls 6 Will Suffer Because of Xbox Layoffs, Bethesda Staff Say, Fearing Delays, Crunch, and Generational Talent Being Replaced by Contractors",
-      "link": "https://www.ign.com/articles/the-elder-scrolls-6-will-suffer-because-of-xbox-layoffs-bethesda-staff-say-fearing-delays-crunch-and-generational-talent-being-replaced-by-contractors",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783596658
     },
     {
       "title": "These ancient quasars shouldn't exist so soon after the Big Bang",
@@ -597,27 +632,6 @@
       "timestamp": 1783497055
     },
     {
-      "title": "New AI model reveals how neutron star mergers forge heavy elements",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260626030426.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783483660
-    },
-    {
-      "title": "Schrödinger’s anthill: Quantum entanglement found in a crystal large enough to hold",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260701015242.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783471566
-    },
-    {
-      "title": "Incredible new material makes heat programmable",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260707025046.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783466930
-    },
-    {
       "title": "In Toronto, Kyle Lowry transformed himself and the Raptors franchise",
       "link": "https://www.cbssports.com/nba/news/kyle-lowry-toronto-raptors-retirement/",
       "source": "CBSSPORTS",
@@ -658,20 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783441259
-    },
-    {
-      "title": "The Neanderthal “love story” isn’t what the DNA actually shows",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260626030443.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783406860
-    },
-    {
-      "title": "AI just supercharged the race to find room temperature superconductors",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783402791
     }
   ]
 }
