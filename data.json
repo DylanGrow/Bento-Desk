@@ -1,5 +1,5 @@
 {
-  "last_updated": 1783720717,
+  "last_updated": 1783724594,
   "items": [
     {
       "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
@@ -9,11 +9,32 @@
       "timestamp": 1783720315
     },
     {
+      "title": "Victor Wembanyama 'considering' giving Spurs a Jalen Brunson-like discount with upcoming extension, per report",
+      "link": "https://www.cbssports.com/nba/news/victor-wembanyama-contract-spurs-jalen-brunson-discount/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783720100
+    },
+    {
       "title": "China recovered its first reusable rocket and showed a new way to do it",
       "link": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1783719703
+    },
+    {
+      "title": "Assassin's Creed Black Flag Resynced Sales Reach 2 Million on Day 1",
+      "link": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-sales-reach-2-million-on-day-1",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783718267
+    },
+    {
+      "title": "EA Sports College Football 27 Faces Backlash After Fans Discover XP Microtransactions for Offline Game Modes",
+      "link": "https://www.ign.com/articles/ea-sports-college-football-27-faces-backlash-after-fans-discover-xp-microtransactions-for-offline-game-modes",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783718245
     },
     {
       "title": "Apple sues OpenAI over alleged trade secret theft",
@@ -513,25 +534,11 @@
       "timestamp": 1783620000
     },
     {
-      "title": "Call of Duty: Black Ops 1 and 2 Ports Out Now on PS5, But They Come at a High Cost",
-      "link": "https://www.ign.com/articles/call-of-duty-black-ops-1-and-2-ports-out-now-on-ps5-but-they-come-at-a-high-cost",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783617969
-    },
-    {
       "title": "'Silo' season 3 showrunner Graham Yost explains the time jumps and turning half of the show into a political thriller (interview)",
       "link": "https://www.space.com/entertainment/space-movies-shows/silo-season-3-showrunner-graham-yost-explains-the-time-jumps-and-turning-half-of-the-show-into-a-political-thriller-interview",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783616400
-    },
-    {
-      "title": "Assassin's Creed Black Flag Resynced Has Already Earned the Series' Biggest Player Peak on Steam",
-      "link": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-has-already-earned-the-series-biggest-player-peak-on-steam",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783616022
     },
     {
       "title": "How Lakers' all-in move for Walker Kessler created a dilemma they're trying to solve with Jonathan Kuminga",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783466429
-    },
-    {
-      "title": "Why the Celtics traded Jaylen Brown, and why they could actually be better for it",
-      "link": "https://www.cbssports.com/nba/news/why-celtics-traded-jaylen-brown-better-for-it/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783460245
     }
   ]
 }
