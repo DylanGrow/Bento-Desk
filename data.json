@@ -1,5 +1,5 @@
 {
-  "last_updated": 1783707652,
+  "last_updated": 1783714795,
   "items": [
     {
       "title": "Launching from 2 continents: Germany's Isar Aerospace leases Canadian pad for $150 million",
@@ -44,6 +44,13 @@
       "timestamp": 1783703511
     },
     {
+      "title": "Valve's new Steam Machine verification system is silent on these Steam Deck-busters",
+      "link": "https://arstechnica.com/gaming/2026/07/valves-steam-machine-verified-ratings-offer-more-questions-than-answers/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783702411
+    },
+    {
       "title": "China is catching up to Elon Musk’s reusable rockets",
       "link": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
       "source": "TECHCRUNCH",
@@ -56,6 +63,13 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783701859
+    },
+    {
+      "title": "Firmware update bricks Hue Bridge Pro devices; Philips gives free replacements",
+      "link": "https://arstechnica.com/gadgets/2026/07/firmware-update-bricks-hue-bridge-pro-devices-philips-gives-free-replacements/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783701369
     },
     {
       "title": "Disney+ is considering a free streaming tier, report says",
@@ -72,6 +86,13 @@
       "timestamp": 1783700028
     },
     {
+      "title": "An orbiting disco ball gave Einstein’s theory its most precise test yet",
+      "link": "https://arstechnica.com/science/2026/07/an-orbiting-disco-ball-gave-einsteins-theory-its-most-precise-test-yet/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783699895
+    },
+    {
       "title": "Dumb Co dared me to trade my iPhone for a hacked flip phone",
       "link": "https://techcrunch.com/2026/07/10/dumb-co-dared-me-to-trade-my-iphone-for-a-hacked-flip-phone/",
       "source": "TECHCRUNCH",
@@ -86,7 +107,7 @@
       "timestamp": 1783699433
     },
     {
-      "title": "Disable auto-play and infinite scroll or risk massive fines, EU tells Meta",
+      "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
       "link": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -471,20 +492,6 @@
       "timestamp": 1783625325
     },
     {
-      "title": "Judge doesn't like Elon Musk settlement with SEC, but says court can't block it",
-      "link": "https://arstechnica.com/tech-policy/2026/07/judge-doesnt-like-elon-musk-settlement-with-sec-but-says-court-cant-block-it/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783624233
-    },
-    {
-      "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
-      "link": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783623473
-    },
-    {
       "title": "'Reckless' space-based data centers lack environmental review, drawing criticism",
       "link": "https://www.space.com/astronomy/earth/reckless-space-based-data-centers-lack-environmental-review-drawing-criticism",
       "source": "SPACE",
@@ -525,13 +532,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783611316
-    },
-    {
-      "title": "Surprised doctors find 10-inch worm in man's groin during elective surgery",
-      "link": "https://arstechnica.com/health/2026/07/surprised-doctors-find-10-inch-worm-in-mans-groin-during-elective-surgery/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783611221
     },
     {
       "title": "Could evidence of life on Mars be hiding in clay? Europe wants to send a rover to check",
