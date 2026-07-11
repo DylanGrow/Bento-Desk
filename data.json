@@ -1,19 +1,82 @@
 {
-  "last_updated": 1783724594,
+  "last_updated": 1783736612,
   "items": [
+    {
+      "title": "Victor Wembanyama's contract, explained: How big of a discount is he taking? What does it mean for the Spurs?",
+      "link": "https://www.cbssports.com/nba/news/victor-wembanyama-contract-explained-discount-spurs/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783734269
+    },
+    {
+      "title": "Victor Wembanyama reportedly agrees to five-year, $252M extension with Spurs while leaving money on the table",
+      "link": "https://www.cbssports.com/nba/news/victor-wembanyama-contract-spurs-jalen-brunson-discount/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783732022
+    },
+    {
+      "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
+      "link": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783731688
+    },
+    {
+      "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+      "link": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783729765
+    },
+    {
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783727707
+    },
+    {
+      "title": "Bam Adebayo, Tyler Herro involved in physical altercation on Las Vegas practice court, per report",
+      "link": "https://www.cbssports.com/nba/news/bam-adebayo-tyler-herro-physical-altercation-miami-heat/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783726837
+    },
+    {
+      "title": "Quantum error correction can constantly recalibrate a processor",
+      "link": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783724550
+    },
+    {
+      "title": "The Odyssey Director Christopher Nolan Says 'AI Slop' Is Being 'Utterly Rejected' By Younger Audiences",
+      "link": "https://www.ign.com/articles/the-odyssey-director-christopher-nolan-says-ai-slop-is-being-utterly-rejected-by-younger-audiences",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783723869
+    },
+    {
+      "title": "Increased drone surveillance of illegal July 4th fireworks led to $100K fine",
+      "link": "https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783723042
+    },
+    {
+      "title": "Fallout 5, The Elder Scrolls 6, Blade, and More: As Xbox Layoffs Hit Hard, What's Going on at Bethesda?",
+      "link": "https://www.ign.com/articles/fallout-5-the-elder-scrolls-6-blade-and-more-as-xbox-layoffs-hit-hard-whats-going-on-at-bethesda",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783721783
+    },
     {
       "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
       "link": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1783720315
-    },
-    {
-      "title": "Victor Wembanyama 'considering' giving Spurs a Jalen Brunson-like discount with upcoming extension, per report",
-      "link": "https://www.cbssports.com/nba/news/victor-wembanyama-contract-spurs-jalen-brunson-discount/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783720100
     },
     {
       "title": "China recovered its first reusable rocket and showed a new way to do it",
@@ -30,7 +93,7 @@
       "timestamp": 1783718267
     },
     {
-      "title": "EA Sports College Football 27 Faces Backlash After Fans Discover XP Microtransactions for Offline Game Modes",
+      "title": "EA Confirms Plan to Remove Paid Progression Options in EA Sports College Football 27 Following Community Backlash",
       "link": "https://www.ign.com/articles/ea-sports-college-football-27-faces-backlash-after-fans-discover-xp-microtransactions-for-offline-game-modes",
       "source": "IGN",
       "category": "gaming",
@@ -394,13 +457,6 @@
       "timestamp": 1783663484
     },
     {
-      "title": "After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV",
-      "link": "https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783658180
-    },
-    {
       "title": "'We Really Had a Good Time Making It': JK Simmons Speaks Out About Canceled Batgirl Movie",
       "link": "https://www.ign.com/articles/we-really-had-a-good-time-making-it-jk-simmons-speaks-out-about-canceled-batgirl-movie",
       "source": "IGN",
@@ -422,20 +478,6 @@
       "timestamp": 1783648790
     },
     {
-      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-      "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783642614
-    },
-    {
-      "title": "Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him",
-      "link": "https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783642380
-    },
-    {
       "title": "Physicists created a tiny universe where time emerged without a clock",
       "link": "https://www.sciencedaily.com/releases/2026/07/260709160632.htm",
       "source": "SCIENCEDAILY",
@@ -450,13 +492,6 @@
       "timestamp": 1783638125
     },
     {
-      "title": "Flores Hobbits' eating habits offer clues about their evolutionary past",
-      "link": "https://arstechnica.com/science/2026/07/flores-hobbits-scavenged-komodo-dragons-elephant-kills-study-suggests/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783636150
-    },
-    {
       "title": "Wally Funk, trailblazing pilot and astronaut, dies at 87",
       "link": "https://www.space.com/space-exploration/human-spaceflight/wally-funk-trailblazing-pilot-and-astronaut-passes-away-at-87",
       "source": "SPACE",
@@ -464,32 +499,11 @@
       "timestamp": 1783634400
     },
     {
-      "title": "Naruto Live-Action Movie Director, Studio Launch Worldwide Casting Search for Lead Roles",
-      "link": "https://www.ign.com/articles/naruto-live-action-movie-global-casting-search",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783634400
-    },
-    {
-      "title": "Michigan's explosive outbreak of diarrheal parasite jumps to over 1,200 cases",
-      "link": "https://arstechnica.com/health/2026/07/michigans-explosive-outbreak-of-diarrheal-parasite-jumps-to-over-1200-cases/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783634204
-    },
-    {
       "title": "Kawhi Leonard trade on hold: What's next as Raptors, Clippers await results of NBA investigation",
       "link": "https://www.cbssports.com/nba/news/kawhi-leonard-trade-on-hold-raptors-clippers-explained/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783634096
-    },
-    {
-      "title": "Xbox CEO Asha Sharma Is Advising the Federal Reserve on the Economic Impact of AI as Part of a 'Productivity and Jobs' Taskforce",
-      "link": "https://www.ign.com/articles/xbox-ceo-asha-sharma-is-advising-the-federal-reserve-on-the-economic-impact-of-ai-as-part-of-a-productivity-and-jobs-taskforce",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783633450
     },
     {
       "title": "This alien planet never has sunrise or sunset. It may support life",
@@ -658,20 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783516700
-    },
-    {
-      "title": "Lionel Messi leads Argentina to incredible World Cup comeback; LeBron James inching closer to decision",
-      "link": "https://www.cbssports.com/nba/news/lionel-messi-leads-argentina-to-incredible-world-cup-comeback-lebron-james-inching-closer-to-decision/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783515579
-    },
-    {
-      "title": "In Toronto, Kyle Lowry transformed himself and the Raptors franchise",
-      "link": "https://www.cbssports.com/nba/news/kyle-lowry-toronto-raptors-retirement/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783466429
     }
   ]
 }
