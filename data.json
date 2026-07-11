@@ -1,6 +1,27 @@
 {
-  "last_updated": 1783775495,
+  "last_updated": 1783781391,
   "items": [
+    {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783779180
+    },
+    {
+      "title": "NBA Summer League takeaways: Caleb Wilson, Yaxel Lendeborg shine; Keaton Wagler struggles",
+      "link": "https://www.cbssports.com/nba/news/nba-summer-league-caleb-wilson-aj-dybantsa-darryn-peterson-yaxel-lendeborg-keaton-wagler/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783778102
+    },
+    {
+      "title": "Scientists warn invasive Asian mantises are threatening Europe's wildlife",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260710003540.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783774435
+    },
     {
       "title": "A Jupiter-size planet that escaped its star's death",
       "link": "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/",
@@ -35,6 +56,20 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783742540
+    },
+    {
+      "title": "Why the human body has so many design flaws",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260709160641.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783737302
+    },
+    {
+      "title": "Rare fossil goose rewrites the story of New Zealand's giant birds",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260709160637.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783735034
     },
     {
       "title": "Victor Wembanyama's contract, explained: How big of a discount is he taking? What does it mean for the Spurs?",
@@ -352,13 +387,6 @@
       "timestamp": 1783692457
     },
     {
-      "title": "Hugging Face’s CEO on why companies are done renting their AI",
-      "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783692000
-    },
-    {
       "title": "SpaceX launch creates colorful 'jellyfish' in the night sky | Space photo of the day for July 10, 2026",
       "link": "https://www.space.com/space-exploration/spacex-launch-creates-colorful-jellyfish-in-the-night-sky-space-photo-of-the-day-for-july-10-2026",
       "source": "SPACE",
@@ -583,13 +611,6 @@
       "timestamp": 1783601781
     },
     {
-      "title": "These ancient quasars shouldn't exist so soon after the Big Bang",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260707025049.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783595573
-    },
-    {
       "title": "This Mars rover could finally reveal whether life ever existed on Mars",
       "link": "https://www.sciencedaily.com/releases/2026/07/260707025051.htm",
       "source": "SCIENCEDAILY",
@@ -632,20 +653,6 @@
       "timestamp": 1783565286
     },
     {
-      "title": "Heidelberg physicists just united two opposing quantum theories",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260708022154.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783556158
-    },
-    {
-      "title": "Rare goblin shark filmed alive for the first time in the deep sea",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260708022208.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783551605
-    },
-    {
       "title": "2026 NBA Las Vegas Summer League schedule: How to watch, live stream as action tips off Thursday",
       "link": "https://www.cbssports.com/nba/news/2026-nba-las-vegas-summer-league-schedule-watch-live-stream/",
       "source": "CBSSPORTS",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783524102
-    },
-    {
-      "title": "The next Jaylen Brown? Three high-paid NBA players whose contracts could eventually make them trade candidates",
-      "link": "https://www.cbssports.com/nba/news/next-jaylen-brown-nba-trade-candidates-deaaron-fox-donovan-mitchell/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783516700
     }
   ]
 }
