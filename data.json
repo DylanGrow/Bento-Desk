@@ -1,6 +1,27 @@
 {
-  "last_updated": 1783806304,
+  "last_updated": 1783809829,
   "items": [
+    {
+      "title": "TennoCon 2026: Everything Announced at the Warframe and Soulframe Fan Event",
+      "link": "https://www.ign.com/articles/tennocon-2026-everything-announced-at-the-warframe-and-soulframe-fan-event",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783807251
+    },
+    {
+      "title": "This slushie machine was a lifesaver during NYC’s heat wave",
+      "link": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783807200
+    },
+    {
+      "title": "LeBron James not 'chasing the ring' in free agency, agent Rich Paul says: 'There's nothing to chase'",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-rich-paul-ring-chasing/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783806008
+    },
     {
       "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
       "link": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
@@ -394,13 +415,6 @@
       "timestamp": 1783695052
     },
     {
-      "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
-      "link": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783693180
-    },
-    {
       "title": "LeBron James rumors: Stephen Curry addresses 'pipe dream' for Warriors, Rich Paul is getting the (voice) memos",
       "link": "https://www.cbssports.com/nba/news/lebron-james-rumors-stephen-curry-pipe-dream-warriors/",
       "source": "CBSSPORTS",
@@ -534,13 +548,6 @@
       "timestamp": 1783651534
     },
     {
-      "title": "Dead by Daylight, Control, and McDonald's Are Helping Advertise Assassin's Creed Black Flag Resynced",
-      "link": "https://www.ign.com/articles/dead-by-daylight-control-and-mcdonalds-are-helping-advertise-assassins-creed-black-flag-resynced",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783651170
-    },
-    {
       "title": "Scientists just debunked a dangerous baby rattlesnake myth",
       "link": "https://www.sciencedaily.com/releases/2026/07/260707054123.htm",
       "source": "SCIENCEDAILY",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783532961
-    },
-    {
-      "title": "LeBron James next team predictions: Four-time MVP highly likely to go back to Cavaliers after leaving Lakers",
-      "link": "https://www.cbssports.com/prediction/news/lebron-james-next-team-predictions-four-time-mvp-highly-likely-to-go-back-to-cavaliers-after-leaving-lakers/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783524102
     }
   ]
 }
