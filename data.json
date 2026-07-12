@@ -1,6 +1,20 @@
 {
-  "last_updated": 1783871799,
+  "last_updated": 1783875561,
   "items": [
+    {
+      "title": "TechCrunch Mobility: A robotaxi ultimatum",
+      "link": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783872420
+    },
+    {
+      "title": "Why space games still struggle with the scale of the universe",
+      "link": "https://www.space.com/entertainment/space-games/why-space-games-still-struggle-with-the-scale-of-the-universe",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783872000
+    },
     {
       "title": "149 million views! Artemis II moon mission breaks NASA's streaming record",
       "link": "https://www.space.com/space-exploration/artemis/149-million-views-artemis-ii-moon-mission-breaks-nasas-streaming-record",
@@ -471,13 +485,6 @@
       "timestamp": 1783696403
     },
     {
-      "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
-      "link": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783695609
-    },
-    {
       "title": "AJ Dybantsa, Darryn Peterson deliver glimpse of the NBA's bright future in Summer League showdown",
       "link": "https://www.cbssports.com/nba/news/aj-dybantsa-darryn-peterson-nba-summer-league/",
       "source": "CBSSPORTS",
@@ -574,13 +581,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1783678438
-    },
-    {
-      "title": "Astronomers may have heard the 1st 'whispers' of ghost particles created by supernova explosions",
-      "link": "https://www.space.com/astronomy/stars/cosmic-ghost-neutrinos-may-be-the-whispers-of-stars-that-died-in-supernova-explosions",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783677600
     },
     {
       "title": "The galaxy’s coldest “stars” may actually be alien megastructures",
