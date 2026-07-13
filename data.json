@@ -1,6 +1,62 @@
 {
-  "last_updated": 1783973505,
+  "last_updated": 1783979597,
   "items": [
+    {
+      "title": "SpaceX Starship Flight 13 launch updates: SpaceX sets target date for next Starship rocket launch",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-13-launch-updates-july-13-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783977026
+    },
+    {
+      "title": "Hallmark Debuts New PlayStation Console Ornament That Plays the Original Startup Sound",
+      "link": "https://www.ign.com/articles/hallmark-playstation-console-ornament-2026-gaming-collection",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783976963
+    },
+    {
+      "title": "These mysterious exoplanets may have clouds of vaporized rock and grounds of scorching magma oceans",
+      "link": "https://www.space.com/astronomy/exoplanets/these-mysterious-exoplanets-may-have-clouds-of-vaporized-rock-and-grounds-of-scorching-magma-oceans",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783976400
+    },
+    {
+      "title": "Russia's launching a NASA astronaut and 2 cosmonauts to the International Space Station on July 14: Watch it live",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/soyuz-ms-29-astronaut-launch-international-space-station-anil-menon",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783976400
+    },
+    {
+      "title": "Why college basketball recruiting returned to Las Vegas, which is poised to become an annual offseason mecca",
+      "link": "https://www.cbssports.com/college-basketball/news/why-college-basketball-recruiting-returned-to-las-vegas-which-is-poised-to-become-an-annual-offseason-mecca/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783976389
+    },
+    {
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783976340
+    },
+    {
+      "title": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
+      "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783975286
+    },
+    {
+      "title": "Nova Movie in Development at Marvel Studios, Loki Writer Michael Waldron to Write and Direct",
+      "link": "https://www.ign.com/articles/nova-movie-in-development-at-marvel-studios-loki-writer-michael-waldron-to-write-and-direct",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783975243
+    },
     {
       "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
       "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
@@ -9,11 +65,53 @@
       "timestamp": 1783972817
     },
     {
+      "title": "New Look at Kingdom Hearts 4 May Be Coming Next Month",
+      "link": "https://www.ign.com/articles/new-look-at-kingdom-hearts-4-may-be-coming-next-month",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783972761
+    },
+    {
+      "title": "California creates $3,500 rebate for new electric vehicle buyers",
+      "link": "https://arstechnica.com/cars/2026/07/first-time-ev-buyers-in-california-can-now-claim-a-new-rebate/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783972368
+    },
+    {
+      "title": "Former Xbox Studio Compulsion Games Says It's Open to Collaborations",
+      "link": "https://www.ign.com/articles/former-xbox-studio-compulsion-games-says-its-open-to-collaborations",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783970620
+    },
+    {
+      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+      "link": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783970271
+    },
+    {
       "title": "University Gives Students Up to $15K in Scholarships for Rare Gaming Achievements",
       "link": "https://www.ign.com/articles/university-gives-students-up-to-15k-in-scholarships-for-rare-gaming-achievements",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1783969310
+    },
+    {
+      "title": "Solution to Feynman's reverse sprinkler puzzle also applies to \"silly sprinklers\"",
+      "link": "https://arstechnica.com/science/2026/07/solution-to-feynmans-reverse-sprinkler-puzzle-also-applies-to-silly-sprinklers/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783969247
+    },
+    {
+      "title": "States sue to block Paramount/WBD merger that was approved by Trump admin",
+      "link": "https://arstechnica.com/tech-policy/2026/07/states-sue-to-block-paramount-wbd-merger-that-was-approved-by-trump-admin/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783967675
     },
     {
       "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
@@ -30,11 +128,18 @@
       "timestamp": 1783965572
     },
     {
-      "title": "Summer Games Done Quick Cancels Sponsored SNK Stream Due to \"Human Rights Concerns\"",
+      "title": "Summer Games Done Quick Cancels Sponsored SNK Stream Due to 'Human Rights Concerns'",
       "link": "https://www.ign.com/articles/summer-games-done-quick-cancels-sponsored-snk-stream-due-to-human-rights-concerns",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1783965147
+    },
+    {
+      "title": "Tom Cruise is utterly transformed in Digger trailer",
+      "link": "https://arstechnica.com/culture/2026/07/digger-trailer-is-giving-big-dr-strangelove-vibes/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783964996
     },
     {
       "title": "Nightmare on Elm Street Reboot in the Works at Paramount",
@@ -282,13 +387,6 @@
       "timestamp": 1783940451
     },
     {
-      "title": "Daredevil and The Defenders' Madame Gao Actress Wai Ching Ho Dies Aged 83",
-      "link": "https://www.ign.com/articles/daredevil-and-the-defenders-madame-gao-actress-wai-ching-ho-dies-aged-83",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783939835
-    },
-    {
       "title": "Stephen Hawking's black hole laws just got a major upgrade",
       "link": "https://www.sciencedaily.com/releases/2026/07/260713000757.htm",
       "source": "SCIENCEDAILY",
@@ -301,27 +399,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783936800
-    },
-    {
-      "title": "LA Noire Developer Considered Mad Men Star Jon Hamm for the Role of Cole Phelps, but Had a Very Good Reason for Going With Aaron Staton Instead",
-      "link": "https://www.ign.com/articles/la-noire-developer-considered-mad-men-star-jon-hamm-for-the-role-of-cole-phelps-but-had-a-very-good-reason-for-going-with-aaron-staton-instead",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783934134
-    },
-    {
-      "title": "LEGO Leak Reveals $200 Donkey Kong Arcade Cabinet",
-      "link": "https://www.ign.com/articles/lego-leak-reveals-200-donkey-kong-arcade-cabinet",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783932614
-    },
-    {
-      "title": "Christopher Nolan Says Batman Helped Him Prepare for 'Irrelevant' Backlash to The Odyssey",
-      "link": "https://www.ign.com/articles/christopher-nolan-says-batman-helped-him-prepare-for-irrelevant-backlash-to-the-odyssey",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783932322
     },
     {
       "title": "Physicists say quantum mechanics may not need imaginary numbers after all",
@@ -450,13 +527,6 @@
       "timestamp": 1783806008
     },
     {
-      "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
-      "link": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783791000
-    },
-    {
       "title": "Victor Wembanyama's contract, explained: How big of a discount is he taking? What does it mean for the Spurs?",
       "link": "https://www.cbssports.com/nba/news/victor-wembanyama-contract-explained-discount-spurs/",
       "source": "CBSSPORTS",
@@ -476,13 +546,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783783259
-    },
-    {
-      "title": "Sci-fi action movies were better in the '90s. 'Independence Day' is full of reasons why",
-      "link": "https://www.space.com/entertainment/space-movies-shows/sci-fi-action-movies-were-better-in-the-90s-independence-day-is-full-of-reasons-why",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783782000
     },
     {
       "title": "NBA Summer League takeaways: Caleb Wilson, Yaxel Lendeborg shine; Keaton Wagler struggles",
@@ -511,20 +574,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1783768286
-    },
-    {
-      "title": "White House appoints Harvard astronomer Avi Loeb to lead new UFO study group",
-      "link": "https://www.space.com/space-exploration/search-for-life/white-house-appoints-harvard-astronomer-avi-loeb-to-lead-new-ufo-study-group",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783764000
-    },
-    {
-      "title": "SpaceX Falcon 9 rocket launches for 35th time, hauls Starlink satellites to orbit (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-35th-mission-starlink-launch",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783742540
     },
     {
       "title": "Why the human body has so many design flaws",
@@ -560,48 +609,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1783724550
-    },
-    {
-      "title": "Increased drone surveillance of illegal July 4th fireworks led to $100K fine",
-      "link": "https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783723042
-    },
-    {
-      "title": "China recovered its first reusable rocket and showed a new way to do it",
-      "link": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783719703
-    },
-    {
-      "title": "Check out the first images of Quest shipwreck",
-      "link": "https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783713571
-    },
-    {
-      "title": "Ransomware negotiator hired to represent victims was working for the attackers",
-      "link": "https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783712411
-    },
-    {
-      "title": "Study shows how toxic RFK Jr.’s change to measles vaccine is for US toddlers",
-      "link": "https://arstechnica.com/health/2026/07/anti-vaccine-changes-under-rfk-jr-will-hurt-vulnerable-toddlers-study-confirms/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783711504
-    },
-    {
-      "title": "Valve's new Steam Machine verification system is silent on these Steam Deck-busters",
-      "link": "https://arstechnica.com/gaming/2026/07/valves-steam-machine-verified-ratings-offer-more-questions-than-answers/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783702411
     },
     {
       "title": "The NBA's seven biggest non-LeBron James and Kawhi Leonard questions left to be answered this offseason",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783601781
-    },
-    {
-      "title": "Why did 20% of the NBA participate in a complicated six-team trade involving 10 role players?",
-      "link": "https://www.cbssports.com/nba/news/khris-middleton-six-team-trade-nba-wizards-mavericks-clippers-grizzlies-pistons-bucks/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783571742
     }
   ]
 }
