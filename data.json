@@ -1,6 +1,34 @@
 {
-  "last_updated": 1783983201,
+  "last_updated": 1783986717,
   "items": [
+    {
+      "title": "Why college basketball recruiting returned to Las Vegas, which is poised to become an annual offseason mecca",
+      "link": "https://www.cbssports.com/college-basketball/news/why-college-basketball-recruiting-returned-to-las-vegas-which-is-poised-to-become-an-annual-offseason-mecca/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783986287
+    },
+    {
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783985478
+    },
+    {
+      "title": "Avengers: Doomsday Runtime Revealed, Ticket Pre-Sales Begin Soon",
+      "link": "https://www.ign.com/articles/avengers-doomsday-runtime-revealed-ticket-pre-sales-begin-soon",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783983283
+    },
+    {
+      "title": "Thousands of Xbox Players Demand an End to Layoffs, Studio Closures on Microsoft's Own Fan Feedback Website",
+      "link": "https://www.ign.com/articles/thousands-of-xbox-players-demand-an-end-to-layoffs-studio-closures-on-microsofts-own-fan-feedback-website",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783982255
+    },
     {
       "title": "SpaceX Starship Flight 13 launch updates: SpaceX sets target date for next Starship rocket launch",
       "link": "https://www.space.com/news/live/spacex-starship-flight-13-launch-updates-july-13-2026",
@@ -16,13 +44,6 @@
       "timestamp": 1783976963
     },
     {
-      "title": "Russia's launching a NASA astronaut and 2 cosmonauts to the International Space Station on July 14: Watch it live",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/soyuz-ms-29-astronaut-launch-international-space-station-anil-menon",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783976400
-    },
-    {
       "title": "These mysterious exoplanets may have clouds of vaporized rock and grounds of scorching magma oceans",
       "link": "https://www.space.com/astronomy/exoplanets/these-mysterious-exoplanets-may-have-clouds-of-vaporized-rock-and-grounds-of-scorching-magma-oceans",
       "source": "SPACE",
@@ -30,11 +51,11 @@
       "timestamp": 1783976400
     },
     {
-      "title": "Why college basketball recruiting returned to Las Vegas, which is poised to become an annual offseason mecca",
-      "link": "https://www.cbssports.com/college-basketball/news/why-college-basketball-recruiting-returned-to-las-vegas-which-is-poised-to-become-an-annual-offseason-mecca/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783976389
+      "title": "Russia's launching a NASA astronaut and 2 cosmonauts to the International Space Station on July 14: Watch it live",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/soyuz-ms-29-astronaut-launch-international-space-station-anil-menon",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783976400
     },
     {
       "title": "Satya Nadella has issued a shocking warning to companies using AI",
@@ -303,17 +324,17 @@
       "timestamp": 1783952018
     },
     {
-      "title": "False Echo, an Alternate-History Cryptography Thriller, Announced for PC",
-      "link": "https://www.ign.com/articles/false-echo-an-alternate-history-cryptography-thriller-announced-for-pc",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783951200
-    },
-    {
       "title": "Extremely Large Telescope reaches a major milestone | Space photo of the day for July 13, 2026",
       "link": "https://www.space.com/astronomy/extremely-large-telescope-reaches-a-major-milestone-space-photo-of-the-day-for-july-13-2026",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1783951200
+    },
+    {
+      "title": "False Echo, an Alternate-History Cryptography Thriller, Announced for PC",
+      "link": "https://www.ign.com/articles/false-echo-an-alternate-history-cryptography-thriller-announced-for-pc",
+      "source": "IGN",
+      "category": "gaming",
       "timestamp": 1783951200
     },
     {
@@ -329,13 +350,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1783949666
-    },
-    {
-      "title": "Tom Cruise Says Alejandro G. Iñárritu’s 'Totally Original' Digger Is Unlike Any Film He’s Ever Made",
-      "link": "https://www.ign.com/articles/tom-cruise-digger-inarritu-comedy",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783947600
     },
     {
       "title": "Getting Vikram-1 to orbit: Inside Skyroot Aerospace's coming bid to make spaceflight history",
@@ -364,13 +378,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1783944747
-    },
-    {
-      "title": "'I Would Have Been So Miscast': Hamilton Star Lin-Manuel Miranda Reveals Surprising MCU Spider-Man Role He Turned Down",
-      "link": "https://www.ign.com/articles/i-would-have-been-so-miscast-hamilton-star-lin-manuel-miranda-reveals-surprising-mcu-spider-man-role-he-turned-down",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783944648
     },
     {
       "title": "Space junk debris cloud discovered in high-traffic orbit 'is a potential minefield' for the costliest satellites",
@@ -511,13 +518,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1783815366
-    },
-    {
-      "title": "This slushie machine was a lifesaver during NYC’s heat wave",
-      "link": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783807200
     },
     {
       "title": "LeBron James not 'chasing the ring' in free agency, agent Rich Paul says: 'There's nothing to chase'",
