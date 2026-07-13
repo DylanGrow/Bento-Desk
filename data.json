@@ -1,12 +1,103 @@
 {
-  "last_updated": 1783960156,
+  "last_updated": 1783968076,
   "items": [
+    {
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783966930
+    },
+    {
+      "title": "Too-early NBA Power Rankings: Why Spurs have edge over Knicks, Cavaliers and Heat both really need LeBron",
+      "link": "https://www.cbssports.com/nba/news/too-early-nba-power-rankings-spurs-knicks-cavaliers-heat-lebron-july-13/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783965572
+    },
+    {
+      "title": "Summer Games Done Quick Cancels Sponsored SNK Stream Due to \"Human Rights Concerns\"",
+      "link": "https://www.ign.com/articles/summer-games-done-quick-cancels-sponsored-snk-stream-due-to-human-rights-concerns",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783965147
+    },
+    {
+      "title": "Nightmare on Elm Street Reboot in the Works at Paramount",
+      "link": "https://www.ign.com/articles/nightmare-on-elm-street-reboot-in-the-works-at-paramount",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1783963928
+    },
+    {
+      "title": "Sam Altman’s space data center trash talk is what most experts already believe",
+      "link": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783963717
+    },
+    {
+      "title": "Apple and Samsung benefit as memory shortage pushes smartphone shipments to historic lows",
+      "link": "https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783963105
+    },
+    {
+      "title": "Investors send General Fusion soaring in debut as first publicly traded fusion company",
+      "link": "https://techcrunch.com/2026/07/13/investors-send-general-fusion-soaring-in-debut-as-first-publicly-traded-fusion-company/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783962191
+    },
+    {
+      "title": "12 states sue to block Paramount’s $110B Warner Bros. deal",
+      "link": "https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783962014
+    },
+    {
+      "title": "Colorado will decide whether a \"right to natural gas\" is added to state constitution",
+      "link": "https://arstechnica.com/tech-policy/2026/07/colorado-will-decide-whether-a-right-to-natural-gas-is-added-to-state-constitution/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783961375
+    },
+    {
+      "title": "NASA begins stacking rocket ahead of 2027 Artemis III astronaut launch (photos)",
+      "link": "https://www.space.com/space-exploration/artemis/nasa-begins-stacking-rocket-ahead-of-2027-artemis-iii-astronaut-launch-photos",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783961027
+    },
+    {
+      "title": "Hackers quickly prove that Neo Geo Doom ports are not \"impossible\"",
+      "link": "https://arstechnica.com/gaming/2026/07/hackers-quickly-prove-that-neo-geo-doom-ports-are-not-impossible/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783960634
+    },
+    {
+      "title": "Should AI help you get away with killing your spouse?",
+      "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783960283
+    },
     {
       "title": "The Lord of the Rings: The Hunt for Gollum Will Use AI to De-Age Some of Its Characters",
       "link": "https://www.ign.com/articles/the-lord-of-the-rings-the-hunt-for-gollum-will-use-ai-to-de-age-some-of-its-characters",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1783959047
+    },
+    {
+      "title": "A \"disaster waiting to happen\"? Industry officials worry about Crew Dragon availability.",
+      "link": "https://arstechnica.com/space/2026/07/what-happens-if-crew-dragon-stops-flying-in-the-2030s/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783958703
     },
     {
       "title": "SpaceX targets July 16 for Starship Flight 13, reveals what went wrong on previous launch",
@@ -35,6 +126,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1783956640
+    },
+    {
+      "title": "Now, defenders are embracing the prompt injection, too",
+      "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783955194
     },
     {
       "title": "\"The Ninth Jedi\" is a bold new Star Wars anime project hitting Disney+ next month, and it looks sick!",
@@ -163,6 +261,13 @@
       "timestamp": 1783944000
     },
     {
+      "title": "Simulating everything, sort of: The promise and limits of world models",
+      "link": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783940451
+    },
+    {
       "title": "Daredevil and The Defenders' Madame Gao Actress Wai Ching Ho Dies Aged 83",
       "link": "https://www.ign.com/articles/daredevil-and-the-defenders-madame-gao-actress-wai-ching-ho-dies-aged-83",
       "source": "IGN",
@@ -226,25 +331,11 @@
       "timestamp": 1783903696
     },
     {
-      "title": "Disney's Live-Action Moana Bombs at the Box Office With Opening Weekend That Barely Beats Snow White",
-      "link": "https://www.ign.com/articles/disneys-live-action-moana-bombs-at-the-box-office-with-opening-weekend-that-barely-beats-snow-white",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783900508
-    },
-    {
       "title": "Spider-like creatures help uncover the surprising origins of fatherhood",
       "link": "https://www.sciencedaily.com/releases/2026/07/260712011737.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1783900187
-    },
-    {
-      "title": "Obsidian Director Blasts People 'Running Their Mouths' About How the Studio Has Changed Following Xbox Layoffs",
-      "link": "https://www.ign.com/articles/obsidian-director-blasts-people-running-their-mouths-about-how-the-studio-has-changed-following-xbox-layoffs",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783893387
     },
     {
       "title": "TechCrunch Mobility: A robotaxi ultimatum",
@@ -457,27 +548,6 @@
       "timestamp": 1783732022
     },
     {
-      "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
-      "link": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783731688
-    },
-    {
-      "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
-      "link": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783729765
-    },
-    {
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783727707
-    },
-    {
       "title": "Bam Adebayo, Tyler Herro involved in physical altercation on Las Vegas practice court, per report",
       "link": "https://www.cbssports.com/nba/news/bam-adebayo-tyler-herro-physical-altercation-miami-heat/",
       "source": "CBSSPORTS",
@@ -499,32 +569,11 @@
       "timestamp": 1783723042
     },
     {
-      "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
-      "link": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783720315
-    },
-    {
       "title": "China recovered its first reusable rocket and showed a new way to do it",
       "link": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1783719703
-    },
-    {
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783717229
-    },
-    {
-      "title": "A ravenous black hole in our backyard could be our window into the ancient universe",
-      "link": "https://www.space.com/astronomy/black-holes/a-ravenous-black-hole-in-our-backyard-could-be-our-window-into-the-ancient-universe",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783717200
     },
     {
       "title": "Check out the first images of Quest shipwreck",
@@ -562,34 +611,6 @@
       "timestamp": 1783701859
     },
     {
-      "title": "Firmware update bricks Hue Bridge Pro devices; Philips gives free replacements",
-      "link": "https://arstechnica.com/gadgets/2026/07/firmware-update-bricks-hue-bridge-pro-devices-philips-gives-free-replacements/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783701369
-    },
-    {
-      "title": "An orbiting disco ball gave Einstein’s theory its most precise test yet",
-      "link": "https://arstechnica.com/science/2026/07/an-orbiting-disco-ball-gave-einsteins-theory-its-most-precise-test-yet/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783699895
-    },
-    {
-      "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
-      "link": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783698378
-    },
-    {
-      "title": "NASA sure seems to be asking an awful lot of private space stations",
-      "link": "https://arstechnica.com/space/2026/07/nasa-finally-releases-a-critical-planning-document-for-private-space-stations/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783696558
-    },
-    {
       "title": "AJ Dybantsa, Darryn Peterson deliver glimpse of the NBA's bright future in Summer League showdown",
       "link": "https://www.cbssports.com/nba/news/aj-dybantsa-darryn-peterson-nba-summer-league/",
       "source": "CBSSPORTS",
@@ -604,13 +625,6 @@
       "timestamp": 1783692457
     },
     {
-      "title": "Volkswagen Group tells its board how to fix it, unions disagree",
-      "link": "https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783691470
-    },
-    {
       "title": "Why Kawhi Leonard's reunion with Raptors could fall through; Kylian Mbappé injury update after World Cup win",
       "link": "https://www.cbssports.com/nba/news/kawhi-leonard-raptors-kylian-mbappe-injury-world-cup/",
       "source": "CBSSPORTS",
@@ -623,13 +637,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1783684701
-    },
-    {
-      "title": "Wally Funk, last of Mercury 13 and oldest woman in space, dies at 87",
-      "link": "https://arstechnica.com/space/2026/07/wally-funk-last-of-mercury-13-and-oldest-woman-in-space-dies-at-87/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783683029
     },
     {
       "title": "Kawhi Leonard trade on hold: What's next as Raptors, Clippers await results of NBA investigation",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783571742
-    },
-    {
-      "title": "2026 NBA Las Vegas Summer League schedule: How to watch, live stream as action tips off Thursday",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-las-vegas-summer-league-schedule-watch-live-stream/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783546369
     }
   ]
 }
