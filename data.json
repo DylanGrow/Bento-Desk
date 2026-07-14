@@ -1,6 +1,34 @@
 {
-  "last_updated": 1783986717,
+  "last_updated": 1783994990,
   "items": [
+    {
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783989900
+    },
+    {
+      "title": "How will LeBron James announce his free agency decision? Six possibilities as NBA awaits another decision",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-decision-podcast/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1783987597
+    },
+    {
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783987200
+    },
+    {
+      "title": "X just tweaked its algorithm to make it more friendly, less battleground",
+      "link": "https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783987107
+    },
     {
       "title": "Why college basketball recruiting returned to Las Vegas, which is poised to become an annual offseason mecca",
       "link": "https://www.cbssports.com/college-basketball/news/why-college-basketball-recruiting-returned-to-las-vegas-which-is-poised-to-become-an-annual-offseason-mecca/",
@@ -30,6 +58,13 @@
       "timestamp": 1783982255
     },
     {
+      "title": "US continues to shun Ebola-infected citizens; second American sent to Germany",
+      "link": "https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783980454
+    },
+    {
       "title": "SpaceX Starship Flight 13 launch updates: SpaceX sets target date for next Starship rocket launch",
       "link": "https://www.space.com/news/live/spacex-starship-flight-13-launch-updates-july-13-2026",
       "source": "SPACE",
@@ -44,15 +79,22 @@
       "timestamp": 1783976963
     },
     {
-      "title": "These mysterious exoplanets may have clouds of vaporized rock and grounds of scorching magma oceans",
-      "link": "https://www.space.com/astronomy/exoplanets/these-mysterious-exoplanets-may-have-clouds-of-vaporized-rock-and-grounds-of-scorching-magma-oceans",
+      "title": "The US government warns that Russia state hackers are coming after your router",
+      "link": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783976587
+    },
+    {
+      "title": "Russia's launching a NASA astronaut and 2 cosmonauts to the International Space Station on July 14: Watch it live",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/soyuz-ms-29-astronaut-launch-international-space-station-anil-menon",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783976400
     },
     {
-      "title": "Russia's launching a NASA astronaut and 2 cosmonauts to the International Space Station on July 14: Watch it live",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/soyuz-ms-29-astronaut-launch-international-space-station-anil-menon",
+      "title": "These mysterious exoplanets may have clouds of vaporized rock and grounds of scorching magma oceans",
+      "link": "https://www.space.com/astronomy/exoplanets/these-mysterious-exoplanets-may-have-clouds-of-vaporized-rock-and-grounds-of-scorching-magma-oceans",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783976400
@@ -324,17 +366,17 @@
       "timestamp": 1783952018
     },
     {
-      "title": "Extremely Large Telescope reaches a major milestone | Space photo of the day for July 13, 2026",
-      "link": "https://www.space.com/astronomy/extremely-large-telescope-reaches-a-major-milestone-space-photo-of-the-day-for-july-13-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783951200
-    },
-    {
       "title": "False Echo, an Alternate-History Cryptography Thriller, Announced for PC",
       "link": "https://www.ign.com/articles/false-echo-an-alternate-history-cryptography-thriller-announced-for-pc",
       "source": "IGN",
       "category": "gaming",
+      "timestamp": 1783951200
+    },
+    {
+      "title": "Extremely Large Telescope reaches a major milestone | Space photo of the day for July 13, 2026",
+      "link": "https://www.space.com/astronomy/extremely-large-telescope-reaches-a-major-milestone-space-photo-of-the-day-for-july-13-2026",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1783951200
     },
     {
@@ -364,13 +406,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1783946990
-    },
-    {
-      "title": "Uber’s robotaxi lobbying effort puts it on a collision course with Waymo",
-      "link": "https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783945800
     },
     {
       "title": "Scientists discovered the brain doesn't make decisions the way we thought",
@@ -427,13 +462,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1783900187
-    },
-    {
-      "title": "TechCrunch Mobility: A robotaxi ultimatum",
-      "link": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783872420
     },
     {
       "title": "Why space games still struggle with the scale of the universe",
@@ -513,13 +541,6 @@
       "timestamp": 1783823765
     },
     {
-      "title": "Reed Jobs would rather talk about curing cancer than his last name",
-      "link": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783815366
-    },
-    {
       "title": "LeBron James not 'chasing the ring' in free agency, agent Rich Paul says: 'There's nothing to chase'",
       "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-rich-paul-ring-chasing/",
       "source": "CBSSPORTS",
@@ -569,13 +590,6 @@
       "timestamp": 1783771258
     },
     {
-      "title": "Overhaul of public lands grazing regulations seeks to cut public involvement",
-      "link": "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783768286
-    },
-    {
       "title": "Why the human body has so many design flaws",
       "link": "https://www.sciencedaily.com/releases/2026/07/260709160641.htm",
       "source": "SCIENCEDAILY",
@@ -602,13 +616,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783726837
-    },
-    {
-      "title": "Quantum error correction can constantly recalibrate a processor",
-      "link": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783724550
     },
     {
       "title": "The NBA's seven biggest non-LeBron James and Kawhi Leonard questions left to be answered this offseason",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783605227
-    },
-    {
-      "title": "2026 NBA Las Vegas Summer League tips off with marquee rookie matchup between AJ Dybantsa, Darryn Peterson",
-      "link": "https://www.cbssports.com/betting/news/2026-nba-las-vegas-summer-league-tips-off-with-marquee-rookie-matchup-between-aj-dybantsa-darryn-peterson/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783601781
     }
   ]
 }
