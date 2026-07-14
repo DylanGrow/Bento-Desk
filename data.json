@@ -1,12 +1,96 @@
 {
-  "last_updated": 1784066417,
+  "last_updated": 1784073041,
   "items": [
+    {
+      "title": "Lorde says AI glasses are “not sexy”",
+      "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784070602
+    },
+    {
+      "title": "From NBA Summer League back to college basketball? NCAA coaches bracing for more roster chaos",
+      "link": "https://www.cbssports.com/college-basketball/news/from-nba-summer-league-back-to-college-basketball-ncaa-coaches-bracing-for-more-roster-chaos/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784068682
+    },
+    {
+      "title": "Dead Space Creator Glen Schofield Announces Retirement From Gaming Industry",
+      "link": "https://www.ign.com/articles/dead-space-creator-glen-schofield-announces-retirement-from-gaming-industry",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784068271
+    },
+    {
+      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+      "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784067744
+    },
+    {
+      "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
+      "link": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784067648
+    },
+    {
+      "title": "Trump admin puts Americans in Congo on \"do-not-board\" list, barring return",
+      "link": "https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784066971
+    },
+    {
+      "title": "Halo Studios Reportedly Cancels New Multiplayer Project",
+      "link": "https://www.ign.com/articles/halo-studios-reportedly-cancels-new-multiplayer-project",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784066897
+    },
+    {
+      "title": "OpenAI pushes back on Apple trade secret lawsuit",
+      "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784066862
+    },
+    {
+      "title": "SpaceX launches flight-proven rocket for 600th time, sending Starlink satellites to orbit",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-15-14-b1093-vsfb-ocisly-10-45-b1080-ccsfs-asog",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784066400
+    },
     {
       "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
       "link": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1784065811
+    },
+    {
+      "title": "Far Cry TV Series Casts Steve Buscemi in Mystery Role",
+      "link": "https://www.ign.com/articles/far-cry-tv-series-casts-steve-buscemi-in-mystery-role",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784065461
+    },
+    {
+      "title": "Blue Beetle to Return in Superman Sequel Man of Tomorrow",
+      "link": "https://www.ign.com/articles/blue-beetle-to-return-in-superman-sequel-man-of-tomorrow",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784064763
+    },
+    {
+      "title": "NBA's investigation into Kawhi Leonard, Clippers has 'grown in scope,' causing delays, per report",
+      "link": "https://www.cbssports.com/nba/news/nba-investigation-kawhi-leonard-clippers-aspiration/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784063755
     },
     {
       "title": "Capcom Gives Monster Hunter Wilds a 'Permanent Price Reduction' as New DLC Bundles Announced",
@@ -77,13 +161,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1784057979
-    },
-    {
-      "title": "From NBA Summer League back to college basketball? NCAA coaches bracing for more roster chaos",
-      "link": "https://www.cbssports.com/college-basketball/news/from-nba-summer-league-back-to-college-basketball-ncaa-coaches-bracing-for-more-roster-chaos/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784057782
     },
     {
       "title": "Crunchyroll Limits Official Store to Its Most Expensive Subscription Tiers",
@@ -289,27 +366,6 @@
       "timestamp": 1784040311
     },
     {
-      "title": "Reflection inks $1B compute deal with Nebius",
-      "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784039868
-    },
-    {
-      "title": "The real AI race may no longer be at the frontier",
-      "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784039093
-    },
-    {
-      "title": "Telegram’s shortlink domain is back online after day-long suspension",
-      "link": "https://techcrunch.com/2026/07/14/telegrams-shortlink-domain-is-back-online-after-day-long-suspension/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784038213
-    },
-    {
       "title": "The Odyssey Director Christopher Nolan Says Getting Told Off by His Brother Over Memento Means He Will Never Explain Any of His Movies",
       "link": "https://www.ign.com/articles/the-odyssey-director-christopher-nolan-says-getting-told-off-by-his-brother-over-memento-means-he-will-never-explain-any-of-his-movies",
       "source": "IGN",
@@ -322,13 +378,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784037600
-    },
-    {
-      "title": "Dying Light: The Beast for PS4 and Xbox One Canceled After Dev Accepts 'The Technical Realities of Development'",
-      "link": "https://www.ign.com/articles/dying-light-the-beast-for-ps4-and-xbox-one-canceled-after-dev-accepts-the-technical-realities-of-development",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784035339
     },
     {
       "title": "Boomers, not Gen Z, are the generation cutting back most on alcohol",
@@ -345,13 +394,6 @@
       "timestamp": 1784034252
     },
     {
-      "title": "The biggest skywatching day of 2026 is coming. Here's what you'll see in North America and Europe",
-      "link": "https://www.space.com/stargazing/the-biggest-skywatching-day-of-2026-is-coming-heres-what-youll-see-in-north-america-and-europe",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784030400
-    },
-    {
       "title": "How to watch SpaceX launch Starship Flight 13 on July 16",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/how-to-watch-spacex-launch-starship-flight-13-on-july-16",
       "source": "SPACE",
@@ -359,25 +401,11 @@
       "timestamp": 1784030400
     },
     {
-      "title": "'Now, It's All About What the Fans Think' — Star Wars Creator George Lucas Says Hollywood Takes the Wrong Message From Focus Groups and 'Let the Audience Actually Make the Movie'",
-      "link": "https://www.ign.com/articles/now-its-all-about-what-the-fans-think-star-wars-creator-george-lucas-says-hollywood-takes-the-wrong-message-from-focus-groups-and-let-the-audience-actually-make-the-movie",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784028832
-    },
-    {
-      "title": "Nintendo Reportedly Considering Switch 2 OLED Model — Though Remains Concerned Over How Much It Would Cost",
-      "link": "https://www.ign.com/articles/nintendo-reportedly-considering-switch-2-oled-model-though-remains-concerned-over-how-much-it-would-cost",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784028026
-    },
-    {
-      "title": "'They're Bringing the Heat': Marvel Fans Hyped for X-Men Reboot Casting as Adam Driver Rumors Swirl",
-      "link": "https://www.ign.com/articles/theyre-bringing-the-heat-marvel-fans-hyped-for-x-men-reboot-casting-as-adam-driver-rumors-swirl",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784026363
+      "title": "The biggest skywatching day of 2026 is coming. Here's what you'll see in North America and Europe",
+      "link": "https://www.space.com/stargazing/the-biggest-skywatching-day-of-2026-is-coming-heres-what-youll-see-in-north-america-and-europe",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784030400
     },
     {
       "title": "Moon landings could destroy evidence of life's origins",
@@ -478,15 +506,15 @@
       "timestamp": 1783976587
     },
     {
-      "title": "These mysterious exoplanets may have clouds of vaporized rock and grounds of scorching magma oceans",
-      "link": "https://www.space.com/astronomy/exoplanets/these-mysterious-exoplanets-may-have-clouds-of-vaporized-rock-and-grounds-of-scorching-magma-oceans",
+      "title": "Russia launches NASA astronaut Anil Menon and 2 cosmonauts to the International Space Station (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/soyuz-ms-29-astronaut-launch-international-space-station-anil-menon",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783976400
     },
     {
-      "title": "Russia launches NASA astronaut Anil Menon and 2 cosmonauts to the International Space Station (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/soyuz-ms-29-astronaut-launch-international-space-station-anil-menon",
+      "title": "These mysterious exoplanets may have clouds of vaporized rock and grounds of scorching magma oceans",
+      "link": "https://www.space.com/astronomy/exoplanets/these-mysterious-exoplanets-may-have-clouds-of-vaporized-rock-and-grounds-of-scorching-magma-oceans",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783976400
@@ -520,25 +548,11 @@
       "timestamp": 1783969247
     },
     {
-      "title": "States sue to block Paramount/WBD merger that was approved by Trump admin",
-      "link": "https://arstechnica.com/tech-policy/2026/07/states-sue-to-block-paramount-wbd-merger-that-was-approved-by-trump-admin/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783967675
-    },
-    {
       "title": "Too-early NBA Power Rankings: Why Spurs have edge over Knicks, Cavaliers and Heat both really need LeBron",
       "link": "https://www.cbssports.com/nba/news/too-early-nba-power-rankings-spurs-knicks-cavaliers-heat-lebron-july-13/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783965572
-    },
-    {
-      "title": "Tom Cruise is utterly transformed in Digger trailer",
-      "link": "https://arstechnica.com/culture/2026/07/digger-trailer-is-giving-big-dr-strangelove-vibes/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783964996
     },
     {
       "title": "NASA begins stacking rocket ahead of 2027 Artemis III astronaut launch (photos)",
@@ -567,13 +581,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783954788
-    },
-    {
-      "title": "Extremely Large Telescope reaches a major milestone | Space photo of the day for July 13, 2026",
-      "link": "https://www.space.com/astronomy/extremely-large-telescope-reaches-a-major-milestone-space-photo-of-the-day-for-july-13-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783951200
     },
     {
       "title": "A 200-year-old physics experiment could help build future computers",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783726837
-    },
-    {
-      "title": "The NBA's seven biggest non-LeBron James and Kawhi Leonard questions left to be answered this offseason",
-      "link": "https://www.cbssports.com/nba/news/nba-offseason-biggest-questions-thunder-lakers-knicks-pistons-nuggets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783701859
     }
   ]
 }
