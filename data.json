@@ -1,6 +1,55 @@
 {
-  "last_updated": 1784045460,
+  "last_updated": 1784051939,
   "items": [
+    {
+      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+      "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784051155
+    },
+    {
+      "title": "The Odyssey Movie Rival Launches This Year, Made Entirely by AI — But Based on Its First Trailer, Christopher Nolan Has Nothing to Worry About",
+      "link": "https://www.ign.com/articles/the-odyssey-movie-rival-launches-this-year-made-entirely-by-ai-but-based-on-its-first-trailer-christopher-nolan-has-nothing-to-worry-about",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784049420
+    },
+    {
+      "title": "PlayStation's FlexStrike Wireless Fight Stick Postponed Due to \"Unexpected Production Delays\"",
+      "link": "https://www.ign.com/articles/playstations-flexstrike-wireless-fight-stick-postponed-due-to-unexpected-production-delays",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784048651
+    },
+    {
+      "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
+      "link": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784047523
+    },
+    {
+      "title": "Assassin's Creed Black Flag Resynced's Controversial Day 1 DLC Earned $1 Million, Just on Steam",
+      "link": "https://www.ign.com/articles/assassins-creed-black-flag-resynceds-controversial-day-1-dlc-earned-1-million-just-on-steam",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784047206
+    },
+    {
+      "title": "Draymond Green uses Bam Adebayo-Tyler Herro altercation to get into his own scuffle with Udonis Haslem",
+      "link": "https://www.cbssports.com/nba/news/draymond-green-bam-adebayo-tyler-herro-udonis-haslem/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784046524
+    },
+    {
+      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+      "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784046135
+    },
     {
       "title": "Google Images gets a Pinterest-like redesign focused on discovery",
       "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
@@ -14,6 +63,27 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784044800
+    },
+    {
+      "title": "As England's World Cup Semi-Final Nears, David Beckham Announces He's Joining Fortnite",
+      "link": "https://www.ign.com/articles/as-englands-world-cup-semi-final-nears-david-beckham-announces-hes-joining-fortnite",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784044568
+    },
+    {
+      "title": "LeBron James rumors: What top suitors for 'The King' are saying as free agency saga enters third week",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-rumors-free-agency-cavaliers-heat-76ers-warriors-timberwolves/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784043852
+    },
+    {
+      "title": "Rockstar Should Charge $200 for GTA 6, Analyst Says, as It'll Be 'The Last Great Game' Before Everything is Built Using AI",
+      "link": "https://www.ign.com/articles/rockstar-should-charge-200-for-gta-6-analyst-says-as-itll-be-the-last-great-game-before-everything-is-built-using-ai",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784043004
     },
     {
       "title": "New York State halts construction of all new data centers",
@@ -30,6 +100,13 @@
       "timestamp": 1784042080
     },
     {
+      "title": "New York bans data center construction for a year, rattling AI industry",
+      "link": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784041588
+    },
+    {
       "title": "'There's Real Nostalgia There' — Riot Has Unveiled League of Legends Classic, but Don't Expect a One-to-One Recreation of the Old Times",
       "link": "https://www.ign.com/articles/theres-real-nostalgia-there-riot-has-unveiled-league-of-legends-classic-but-dont-expect-a-one-to-one-recreation-of-the-old-times",
       "source": "IGN",
@@ -37,7 +114,7 @@
       "timestamp": 1784041376
     },
     {
-      "title": "Taco Bell eyed in explosive diarrheal outbreak; leafy greens suspected",
+      "title": "Probe into explosive diarrheal cases points to Taco Bell and bad lettuce",
       "link": "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -282,20 +359,6 @@
       "timestamp": 1783987597
     },
     {
-      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-      "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783987200
-    },
-    {
-      "title": "X just tweaked its algorithm to make it more friendly, less battleground",
-      "link": "https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783987107
-    },
-    {
       "title": "Why college basketball recruiting returned to Las Vegas, which is poised to become an annual offseason mecca",
       "link": "https://www.cbssports.com/college-basketball/news/why-college-basketball-recruiting-returned-to-las-vegas-which-is-poised-to-become-an-annual-offseason-mecca/",
       "source": "CBSSPORTS",
@@ -303,25 +366,11 @@
       "timestamp": 1783986287
     },
     {
-      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783985478
-    },
-    {
       "title": "Avengers: Doomsday Runtime Revealed, Ticket Pre-Sales Begin Soon",
       "link": "https://www.ign.com/articles/avengers-doomsday-runtime-revealed-ticket-pre-sales-begin-soon",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1783983283
-    },
-    {
-      "title": "Thousands of Xbox Players Demand an End to Layoffs, Studio Closures on Microsoft's Own Fan Feedback Website",
-      "link": "https://www.ign.com/articles/thousands-of-xbox-players-demand-an-end-to-layoffs-studio-closures-on-microsofts-own-fan-feedback-website",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783982255
     },
     {
       "title": "US continues to shun Ebola-infected citizens; second American sent to Germany",
@@ -336,13 +385,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783977026
-    },
-    {
-      "title": "Hallmark Debuts New PlayStation Console Ornament That Plays the Original Startup Sound",
-      "link": "https://www.ign.com/articles/hallmark-playstation-console-ornament-2026-gaming-collection",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783976963
     },
     {
       "title": "The US government warns that Russia state hackers are coming after your router",
@@ -373,32 +415,11 @@
       "timestamp": 1783975286
     },
     {
-      "title": "Nova Movie in Development at Marvel Studios, Loki Writer Michael Waldron to Write and Direct",
-      "link": "https://www.ign.com/articles/nova-movie-in-development-at-marvel-studios-loki-writer-michael-waldron-to-write-and-direct",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783975243
-    },
-    {
-      "title": "New Look at Kingdom Hearts 4 May Be Coming Next Month",
-      "link": "https://www.ign.com/articles/new-look-at-kingdom-hearts-4-may-be-coming-next-month",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783972761
-    },
-    {
       "title": "California creates $3,500 rebate for new electric vehicle buyers",
       "link": "https://arstechnica.com/cars/2026/07/first-time-ev-buyers-in-california-can-now-claim-a-new-rebate/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1783972368
-    },
-    {
-      "title": "Former Xbox Studio Compulsion Games Says It's Open to Collaborations",
-      "link": "https://www.ign.com/articles/former-xbox-studio-compulsion-games-says-its-open-to-collaborations",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783970620
     },
     {
       "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
@@ -476,13 +497,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783958404
-    },
-    {
-      "title": "Now, defenders are embracing the prompt injection, too",
-      "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783955194
     },
     {
       "title": "\"The Ninth Jedi\" is a bold new Star Wars anime project hitting Disney+ next month, and it looks sick!",
@@ -658,20 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783634096
-    },
-    {
-      "title": "How Lakers' all-in move for Walker Kessler created a dilemma they're trying to solve with Jonathan Kuminga",
-      "link": "https://www.cbssports.com/nba/news/lakers-walker-kessler-jonathan-kuminga-free-agency/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783611316
-    },
-    {
-      "title": "NBA summer league storylines: AJ Dybantsa, Darryn Peterson meet in highly anticipated showdown",
-      "link": "https://www.cbssports.com/nba/news/nba-summer-league-storylines-aj-dybantsa-darryn-peterson/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783605227
     }
   ]
 }
