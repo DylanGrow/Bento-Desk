@@ -1,6 +1,20 @@
 {
-  "last_updated": 1783994990,
+  "last_updated": 1784006785,
   "items": [
+    {
+      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+      "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1783997202
+    },
+    {
+      "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
+      "link": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1783991834
+    },
     {
       "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
       "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
@@ -86,15 +100,15 @@
       "timestamp": 1783976587
     },
     {
-      "title": "Russia's launching a NASA astronaut and 2 cosmonauts to the International Space Station on July 14: Watch it live",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/soyuz-ms-29-astronaut-launch-international-space-station-anil-menon",
+      "title": "These mysterious exoplanets may have clouds of vaporized rock and grounds of scorching magma oceans",
+      "link": "https://www.space.com/astronomy/exoplanets/these-mysterious-exoplanets-may-have-clouds-of-vaporized-rock-and-grounds-of-scorching-magma-oceans",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783976400
     },
     {
-      "title": "These mysterious exoplanets may have clouds of vaporized rock and grounds of scorching magma oceans",
-      "link": "https://www.space.com/astronomy/exoplanets/these-mysterious-exoplanets-may-have-clouds-of-vaporized-rock-and-grounds-of-scorching-magma-oceans",
+      "title": "Russia's launching a NASA astronaut and 2 cosmonauts to the International Space Station on July 14: Watch it live",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/soyuz-ms-29-astronaut-launch-international-space-station-anil-menon",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783976400
@@ -359,24 +373,17 @@
       "timestamp": 1783952296
     },
     {
-      "title": "LAPD lets contract with surveillance giant Flock expire, citing ‘serious concerns’ over civil liberties and privacy",
-      "link": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783952018
+      "title": "Extremely Large Telescope reaches a major milestone | Space photo of the day for July 13, 2026",
+      "link": "https://www.space.com/astronomy/extremely-large-telescope-reaches-a-major-milestone-space-photo-of-the-day-for-july-13-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1783951200
     },
     {
       "title": "False Echo, an Alternate-History Cryptography Thriller, Announced for PC",
       "link": "https://www.ign.com/articles/false-echo-an-alternate-history-cryptography-thriller-announced-for-pc",
       "source": "IGN",
       "category": "gaming",
-      "timestamp": 1783951200
-    },
-    {
-      "title": "Extremely Large Telescope reaches a major milestone | Space photo of the day for July 13, 2026",
-      "link": "https://www.space.com/astronomy/extremely-large-telescope-reaches-a-major-milestone-space-photo-of-the-day-for-july-13-2026",
-      "source": "SPACE",
-      "category": "space",
       "timestamp": 1783951200
     },
     {
@@ -581,13 +588,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1783774435
-    },
-    {
-      "title": "A Jupiter-size planet that escaped its star's death",
-      "link": "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783771258
     },
     {
       "title": "Why the human body has so many design flaws",
