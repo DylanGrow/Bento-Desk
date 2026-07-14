@@ -1,6 +1,27 @@
 {
-  "last_updated": 1784006785,
+  "last_updated": 1784015886,
   "items": [
+    {
+      "title": "This dinosaur fossil captures the final moments of a T. rex attack",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260713000811.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784011732
+    },
+    {
+      "title": "NASA's Perseverance just completed a marathon on Mars",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260713084858.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784007132
+    },
+    {
+      "title": "NASA selects four new Moon missions to build a permanent lunar base",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260713084853.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784004026
+    },
     {
       "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
       "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
@@ -9,11 +30,32 @@
       "timestamp": 1783997202
     },
     {
+      "title": "New dark matter theory could solve multiple cosmic mysteries at once",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260711010128.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783996253
+    },
+    {
       "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
       "link": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1783991834
+    },
+    {
+      "title": "Yale scientists found a hidden network inside the eye",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260713000804.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783991750
+    },
+    {
+      "title": "Exercise doesn't just strengthen the heart. It rewires it",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260712011755.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1783990053
     },
     {
       "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
@@ -100,15 +142,15 @@
       "timestamp": 1783976587
     },
     {
-      "title": "These mysterious exoplanets may have clouds of vaporized rock and grounds of scorching magma oceans",
-      "link": "https://www.space.com/astronomy/exoplanets/these-mysterious-exoplanets-may-have-clouds-of-vaporized-rock-and-grounds-of-scorching-magma-oceans",
+      "title": "Russia's launching a NASA astronaut and 2 cosmonauts to the International Space Station on July 14: Watch it live",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/soyuz-ms-29-astronaut-launch-international-space-station-anil-menon",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783976400
     },
     {
-      "title": "Russia's launching a NASA astronaut and 2 cosmonauts to the International Space Station on July 14: Watch it live",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/soyuz-ms-29-astronaut-launch-international-space-station-anil-menon",
+      "title": "These mysterious exoplanets may have clouds of vaporized rock and grounds of scorching magma oceans",
+      "link": "https://www.space.com/astronomy/exoplanets/these-mysterious-exoplanets-may-have-clouds-of-vaporized-rock-and-grounds-of-scorching-magma-oceans",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783976400
@@ -534,20 +576,6 @@
       "timestamp": 1783842178
     },
     {
-      "title": "Scientists finally solved the mystery of Earth's greatest mass extinction",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260711010122.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783828920
-    },
-    {
-      "title": "Why gold never tarnishes has finally been explained",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260710003511.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783823765
-    },
-    {
       "title": "LeBron James not 'chasing the ring' in free agency, agent Rich Paul says: 'There's nothing to chase'",
       "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-rich-paul-ring-chasing/",
       "source": "CBSSPORTS",
@@ -581,27 +609,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783778102
-    },
-    {
-      "title": "Scientists warn invasive Asian mantises are threatening Europe's wildlife",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260710003540.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783774435
-    },
-    {
-      "title": "Why the human body has so many design flaws",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260709160641.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783737302
-    },
-    {
-      "title": "Rare fossil goose rewrites the story of New Zealand's giant birds",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260709160637.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783735034
     },
     {
       "title": "Victor Wembanyama reportedly agrees to five-year, $252M extension with Spurs while leaving money on the table",
@@ -644,13 +651,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783687215
-    },
-    {
-      "title": "This common pesticide may be quietly wiping out future bumblebees",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260709160630.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783684701
     },
     {
       "title": "Kawhi Leonard trade on hold: What's next as Raptors, Clippers await results of NBA investigation",
