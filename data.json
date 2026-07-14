@@ -1,12 +1,82 @@
 {
-  "last_updated": 1784051939,
+  "last_updated": 1784057809,
   "items": [
+    {
+      "title": "Crunchyroll Limits Official Store to Its Most Expensive Subscription Tiers",
+      "link": "https://www.ign.com/articles/crunchyroll-limits-official-store-to-its-most-expensive-subscription-tiers",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784055969
+    },
+    {
+      "title": "'Once Upon a Time in Space': How to watch PBS's out-of-this-world astronaut documentary",
+      "link": "https://www.space.com/entertainment/space-movies-shows/once-upon-a-time-in-space-how-to-watch-pbss-out-of-this-world-astronaut-documentary",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784055600
+    },
+    {
+      "title": "Lucid Motors denies report it’s considering bankruptcy",
+      "link": "https://techcrunch.com/2026/07/14/lucid-motors-denies-report-its-considering-bankruptcy/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784054834
+    },
+    {
+      "title": "Google faces another AI training lawsuit from major publishers",
+      "link": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784054011
+    },
+    {
+      "title": "How to fix NBA's unpopular CBA: Four ideas to maintain parity and bring back free agency",
+      "link": "https://www.cbssports.com/nba/news/fix-nba-unpopular-cba-four-ideas-parity-free-agency/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784053632
+    },
+    {
+      "title": "Sony Faces Anti-Trust Lawsuit From Mexican Lawmakers Over Its Decision to End Production of Physical Games",
+      "link": "https://www.ign.com/articles/sony-faces-anti-trust-lawsuit-from-mexican-lawmakers-over-its-decision-to-end-production-of-physical-games",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784053468
+    },
+    {
+      "title": "US military sent explosive drone boats into combat for the first time",
+      "link": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784052001
+    },
+    {
+      "title": "1st-ever X-rays in space offer hope for possible patients headed to the moon",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/1st-ever-x-rays-in-space-offer-hope-for-possible-patients-headed-to-the-moon",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784052000
+    },
     {
       "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
       "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1784051155
+    },
+    {
+      "title": "These painted e-tattoos could be the future of wearable biosensors",
+      "link": "https://arstechnica.com/science/2026/07/these-painted-e-tattoos-could-be-the-future-of-wearable-biosensors/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784050318
+    },
+    {
+      "title": "Tyler Herro comments on altercation with Bam Adebayo, eager to build 'something special' with Bucks",
+      "link": "https://www.cbssports.com/nba/news/tyler-herro-bam-adebayo-altercation-heat-bucks/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784049997
     },
     {
       "title": "The Odyssey Movie Rival Launches This Year, Made Entirely by AI — But Based on Its First Trailer, Christopher Nolan Has Nothing to Worry About",
@@ -42,6 +112,13 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784046524
+    },
+    {
+      "title": "Google revamps image search for its 25th anniversary with more images and more AI",
+      "link": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784046494
     },
     {
       "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
@@ -205,15 +282,15 @@
       "timestamp": 1784032200
     },
     {
-      "title": "The biggest skywatching day of 2026 is coming. Here's what you'll see in North America and Europe",
-      "link": "https://www.space.com/stargazing/the-biggest-skywatching-day-of-2026-is-coming-heres-what-youll-see-in-north-america-and-europe",
+      "title": "How to watch SpaceX launch Starship Flight 13 on July 16",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/how-to-watch-spacex-launch-starship-flight-13-on-july-16",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784030400
     },
     {
-      "title": "How to watch SpaceX launch Starship Flight 13 on July 16",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/how-to-watch-spacex-launch-starship-flight-13-on-july-16",
+      "title": "The biggest skywatching day of 2026 is coming. Here's what you'll see in North America and Europe",
+      "link": "https://www.space.com/stargazing/the-biggest-skywatching-day-of-2026-is-coming-heres-what-youll-see-in-north-america-and-europe",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784030400
@@ -282,13 +359,6 @@
       "timestamp": 1784019600
     },
     {
-      "title": "'This Was Never Going to Be a Straight Adaptation' — Mike Flanagan's Carrie TV Show Makes Big Changes From Stephen King's Horror Novel",
-      "link": "https://www.ign.com/articles/this-was-never-going-to-be-a-straight-adaptation-mike-flanagans-carrie-tv-show-makes-big-changes-from-stephen-kings-horror-novel",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784018272
-    },
-    {
       "title": "This dinosaur fossil captures the final moments of a T. rex attack",
       "link": "https://www.sciencedaily.com/releases/2026/07/260713000811.htm",
       "source": "SCIENCEDAILY",
@@ -308,13 +378,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1784004026
-    },
-    {
-      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-      "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783997202
     },
     {
       "title": "New dark matter theory could solve multiple cosmic mysteries at once",
@@ -345,13 +408,6 @@
       "timestamp": 1783990053
     },
     {
-      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be ‘everything for everyone’",
-      "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783989900
-    },
-    {
       "title": "How will LeBron James announce his free agency decision? Six possibilities as NBA awaits another decision",
       "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-decision-podcast/",
       "source": "CBSSPORTS",
@@ -364,13 +420,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783986287
-    },
-    {
-      "title": "Avengers: Doomsday Runtime Revealed, Ticket Pre-Sales Begin Soon",
-      "link": "https://www.ign.com/articles/avengers-doomsday-runtime-revealed-ticket-pre-sales-begin-soon",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783983283
     },
     {
       "title": "US continues to shun Ebola-infected citizens; second American sent to Germany",
@@ -401,7 +450,7 @@
       "timestamp": 1783976400
     },
     {
-      "title": "Russia launches a NASA astronaut and 2 cosmonauts to the International Space Station",
+      "title": "Russia launches NASA astronaut Anil Menon and 2 cosmonauts to the International Space Station",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/soyuz-ms-29-astronaut-launch-international-space-station-anil-menon",
       "source": "SPACE",
       "category": "space",
@@ -464,32 +513,11 @@
       "timestamp": 1783963105
     },
     {
-      "title": "Colorado will decide whether a \"right to natural gas\" is added to state constitution",
-      "link": "https://arstechnica.com/tech-policy/2026/07/colorado-will-decide-whether-a-right-to-natural-gas-is-added-to-state-constitution/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783961375
-    },
-    {
       "title": "NASA begins stacking rocket ahead of 2027 Artemis III astronaut launch (photos)",
       "link": "https://www.space.com/space-exploration/artemis/nasa-begins-stacking-rocket-ahead-of-2027-artemis-iii-astronaut-launch-photos",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783961027
-    },
-    {
-      "title": "Hackers quickly prove that Neo Geo Doom ports are not \"impossible\"",
-      "link": "https://arstechnica.com/gaming/2026/07/hackers-quickly-prove-that-neo-geo-doom-ports-are-not-impossible/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783960634
-    },
-    {
-      "title": "A \"disaster waiting to happen\"? Industry officials worry about Crew Dragon availability.",
-      "link": "https://arstechnica.com/space/2026/07/what-happens-if-crew-dragon-stops-flying-in-the-2030s/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783958703
     },
     {
       "title": "SpaceX targets July 16 for Starship Flight 13, reveals what went wrong on previous launch",
@@ -555,13 +583,6 @@
       "timestamp": 1783939303
     },
     {
-      "title": "The FCC just gave Reflect Orbital permission to launch its 1st space mirror to orbit. Tens of thousands more could follow",
-      "link": "https://www.space.com/space-exploration/satellites/reflect-orbital-just-got-permission-to-launch-its-1st-space-mirror-to-orbit-tens-of-thousands-more-could-follow",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783936800
-    },
-    {
       "title": "Physicists say quantum mechanics may not need imaginary numbers after all",
       "link": "https://www.sciencedaily.com/releases/2026/07/260713000807.htm",
       "source": "SCIENCEDAILY",
@@ -581,13 +602,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1783900187
-    },
-    {
-      "title": "Why space games still struggle with the scale of the universe",
-      "link": "https://www.space.com/entertainment/space-games/why-space-games-still-struggle-with-the-scale-of-the-universe",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783872000
     },
     {
       "title": "Alzheimer's tau protein has a surprising secret role in memory",
@@ -658,20 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783692457
-    },
-    {
-      "title": "Why Kawhi Leonard's reunion with Raptors could fall through; Kylian Mbappé injury update after World Cup win",
-      "link": "https://www.cbssports.com/nba/news/kawhi-leonard-raptors-kylian-mbappe-injury-world-cup/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783687215
-    },
-    {
-      "title": "Kawhi Leonard trade on hold: What's next as Raptors, Clippers await results of NBA investigation",
-      "link": "https://www.cbssports.com/nba/news/kawhi-leonard-trade-on-hold-raptors-clippers-explained/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783634096
     }
   ]
 }
