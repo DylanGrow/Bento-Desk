@@ -1,12 +1,61 @@
 {
-  "last_updated": 1784023355,
+  "last_updated": 1784030898,
   "items": [
+    {
+      "title": "The biggest skywatching day of 2026 is coming. Here's what you'll see in North America and Europe",
+      "link": "https://www.space.com/stargazing/the-biggest-skywatching-day-of-2026-is-coming-heres-what-youll-see-in-north-america-and-europe",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784030400
+    },
+    {
+      "title": "How to watch SpaceX launch Starship Flight 13 on July 16",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/how-to-watch-spacex-launch-starship-flight-13-on-july-16",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784030400
+    },
+    {
+      "title": "Nintendo Reportedly Considering Switch 2 OLED Model — Though Remains Concerned Over How Much It Would Cost",
+      "link": "https://www.ign.com/articles/nintendo-reportedly-considering-switch-2-oled-model-though-remains-concerned-over-how-much-it-would-cost",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784028026
+    },
+    {
+      "title": "'They're Bringing the Heat': Marvel Fans Hyped for X-Men Reboot Casting as Adam Driver Rumors Swirl",
+      "link": "https://www.ign.com/articles/theyre-bringing-the-heat-marvel-fans-hyped-for-x-men-reboot-casting-as-adam-driver-rumors-swirl",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784026363
+    },
+    {
+      "title": "It Sounds Like Mike Flanagan Is Having a Tough Time Getting the Green Light on His Long-Awaited Dark Tower TV Series",
+      "link": "https://www.ign.com/articles/it-sounds-like-mike-flanagan-is-having-a-tough-time-getting-the-green-light-on-his-long-awaited-dark-tower-tv-series",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784024380
+    },
     {
       "title": "Moon landings could destroy evidence of life's origins",
       "link": "https://www.space.com/astronomy/moon/moon-landings-could-destroy-evidence-of-lifes-origins",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784023200
+    },
+    {
+      "title": "The Hunt for Gollum Star Anya Taylor-Joy Says She's About to Read the Lord of the Rings Books, but She Won't Find Her 'Lethal Elf' Character in Any of J. R. R. Tolkien's Text",
+      "link": "https://www.ign.com/articles/the-hunt-for-gollum-star-anya-taylor-joy-says-shes-about-to-read-the-lord-of-the-rings-books-but-she-wont-find-her-lethal-elf-character-in-any-of-j-r-r-tolkiens-text",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784021741
+    },
+    {
+      "title": "Assassin's Creed Black Flag Developers in Barcelona Are Being Laid Off as Ubisoft Celebrates Game's Success",
+      "link": "https://www.ign.com/articles/assassins-creed-black-flag-developers-in-barcelona-are-being-laid-off-as-ubisoft-celebrates-games-success",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784021356
     },
     {
       "title": "Pinwheel launches a retro-inspired landline phone for kids",
@@ -79,7 +128,7 @@
       "timestamp": 1783990053
     },
     {
-      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be ‘everything for everyone’",
       "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -380,13 +429,6 @@
       "timestamp": 1783956899
     },
     {
-      "title": "Call of Duty: Black Ops Port Deemed 'Unplayable' As Lobbies Are Filled With Exploiters",
-      "link": "https://www.ign.com/articles/call-of-duty-black-ops-port-deemed-unplayable-as-lobbies-are-filled-with-exploiters",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783956640
-    },
-    {
       "title": "Now, defenders are embracing the prompt injection, too",
       "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
       "source": "ARSTECHNICA",
@@ -408,20 +450,6 @@
       "timestamp": 1783954788
     },
     {
-      "title": "The Elder Scrolls Online Dev ZeniMax Online Studios Insists It's Now the Same Size It Was When It Made Much-Loved DLCs, Moves to Reassure Worried Fans After Xbox Layoffs",
-      "link": "https://www.ign.com/articles/the-elder-scrolls-online-dev-zenimax-online-studios-insists-its-now-the-same-size-it-was-when-it-made-much-loved-dlcs-moves-to-reassure-worried-fans-after-xbox-layoffs",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783953980
-    },
-    {
-      "title": "My Chemical Romance Singer Gerard Way Takes Break During Live Show to Discuss Baldur's Gate — Though, Bizarrely, He's Still Not Played BG3",
-      "link": "https://www.ign.com/articles/my-chemical-romance-singer-gerard-way-takes-break-during-live-show-to-discuss-baldurs-gate-though-bizarrely-hes-still-not-played-bg3",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783953875
-    },
-    {
       "title": "SpaceX cleared to fly Starship again after booster failure in May",
       "link": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
       "source": "TECHCRUNCH",
@@ -434,20 +462,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783951200
-    },
-    {
-      "title": "False Echo, an Alternate-History Cryptography Thriller, Announced for PC",
-      "link": "https://www.ign.com/articles/false-echo-an-alternate-history-cryptography-thriller-announced-for-pc",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783951200
-    },
-    {
-      "title": "'A Triumph of Corporate Convenience Over Consumer Choice' — Backlash to PlayStation Killing Discs Intensifies as Retailer Association Slams Sony",
-      "link": "https://www.ign.com/articles/a-triumph-of-corporate-convenience-over-consumer-choice-backlash-to-playstation-killing-discs-intensifies-as-retailer-association-slams-sony",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783949848
     },
     {
       "title": "Getting Vikram-1 to orbit: Inside Skyroot Aerospace's coming bid to make spaceflight history",
@@ -569,13 +583,6 @@
       "timestamp": 1783854739
     },
     {
-      "title": "1 month until the total solar eclipse 2026 — Here's what you need to know",
-      "link": "https://www.space.com/stargazing/solar-eclipses/1-month-until-the-total-solar-eclipse-2026-heres-what-you-need-to-know",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783850400
-    },
-    {
       "title": "Scientists discover how the brain rewires itself to truly multitask",
       "link": "https://www.sciencedaily.com/releases/2026/07/260712011912.htm",
       "source": "SCIENCEDAILY",
@@ -595,13 +602,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783787155
-    },
-    {
-      "title": "Your lost dog can now call home with the world's 1st satellite-connected dog collar",
-      "link": "https://www.space.com/space-exploration/satellites/your-lost-dog-can-now-call-home-with-the-worlds-1st-satellite-connected-dog-collar",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783785600
     },
     {
       "title": "NBA Summer League takeaways: Caleb Wilson, Yaxel Lendeborg shine; Keaton Wagler struggles",
