@@ -1,6 +1,27 @@
 {
-  "last_updated": 1784015886,
+  "last_updated": 1784023355,
   "items": [
+    {
+      "title": "Moon landings could destroy evidence of life's origins",
+      "link": "https://www.space.com/astronomy/moon/moon-landings-could-destroy-evidence-of-lifes-origins",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784023200
+    },
+    {
+      "title": "Pinwheel launches a retro-inspired landline phone for kids",
+      "link": "https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784019600
+    },
+    {
+      "title": "'This Was Never Going to Be a Straight Adaptation' — Mike Flanagan's Carrie TV Show Makes Big Changes From Stephen King's Horror Novel",
+      "link": "https://www.ign.com/articles/this-was-never-going-to-be-a-straight-adaptation-mike-flanagans-carrie-tv-show-makes-big-changes-from-stephen-kings-horror-novel",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784018272
+    },
     {
       "title": "This dinosaur fossil captures the final moments of a T. rex attack",
       "link": "https://www.sciencedaily.com/releases/2026/07/260713000811.htm",
@@ -142,15 +163,15 @@
       "timestamp": 1783976587
     },
     {
-      "title": "Russia's launching a NASA astronaut and 2 cosmonauts to the International Space Station on July 14: Watch it live",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/soyuz-ms-29-astronaut-launch-international-space-station-anil-menon",
+      "title": "These mysterious exoplanets may have clouds of vaporized rock and grounds of scorching magma oceans",
+      "link": "https://www.space.com/astronomy/exoplanets/these-mysterious-exoplanets-may-have-clouds-of-vaporized-rock-and-grounds-of-scorching-magma-oceans",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783976400
     },
     {
-      "title": "These mysterious exoplanets may have clouds of vaporized rock and grounds of scorching magma oceans",
-      "link": "https://www.space.com/astronomy/exoplanets/these-mysterious-exoplanets-may-have-clouds-of-vaporized-rock-and-grounds-of-scorching-magma-oceans",
+      "title": "Russia's launching a NASA astronaut and 2 cosmonauts to the International Space Station on July 14: Watch it live",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/soyuz-ms-29-astronaut-launch-international-space-station-anil-menon",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783976400
@@ -408,13 +429,6 @@
       "timestamp": 1783952384
     },
     {
-      "title": "Waze adds new AI-powered features and customization updates",
-      "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1783952296
-    },
-    {
       "title": "Extremely Large Telescope reaches a major milestone | Space photo of the day for July 13, 2026",
       "link": "https://www.space.com/astronomy/extremely-large-telescope-reaches-a-major-milestone-space-photo-of-the-day-for-july-13-2026",
       "source": "SPACE",
@@ -434,13 +448,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1783949848
-    },
-    {
-      "title": "Digger Trailer Reveals Tom Cruise in What May Be His Least Recognizable Role Ever — And I Can't Wait to See More",
-      "link": "https://www.ign.com/articles/digger-trailer-reveals-tom-cruise-in-what-may-be-his-least-recognizable-role-ever-and-i-cant-wait-to-see-more",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1783949666
     },
     {
       "title": "Getting Vikram-1 to orbit: Inside Skyroot Aerospace's coming bid to make spaceflight history",
@@ -595,13 +602,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783785600
-    },
-    {
-      "title": "This Week In Space podcast: Episode 218 — Which Way to the Moonbase?",
-      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-218-which-way-to-the-moonbase",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783783259
     },
     {
       "title": "NBA Summer League takeaways: Caleb Wilson, Yaxel Lendeborg shine; Keaton Wagler struggles",
