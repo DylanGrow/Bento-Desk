@@ -1,12 +1,110 @@
 {
-  "last_updated": 1784138603,
+  "last_updated": 1784145938,
   "items": [
+    {
+      "title": "Watch Archimedes burn! Rocket Lab fires up engine for its powerful next-gen Neutron launcher (video)",
+      "link": "https://www.space.com/space-exploration/watch-archimedes-burn-rocket-lab-fires-up-engine-for-its-powerful-next-gen-neutron-launcher-video",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784145600
+    },
+    {
+      "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
+      "link": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784144814
+    },
+    {
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784144498
+    },
+    {
+      "title": "The 10 best British sci-fi shows of all time",
+      "link": "https://www.space.com/entertainment/space-movies-shows/the-10-best-british-sci-fi-shows-of-all-time",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784142000
+    },
+    {
+      "title": "FCC to repeal 39% TV ownership cap in boost for Trump-friendly news orgs",
+      "link": "https://arstechnica.com/tech-policy/2026/07/fcc-to-repeal-39-tv-ownership-cap-in-boost-for-trump-friendly-news-orgs/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784141542
+    },
+    {
+      "title": "Microsoft patches bug in video game Age of Empires II",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784141221
+    },
+    {
+      "title": "In memoriam: 7 of our favorite Sam Neill films",
+      "link": "https://arstechnica.com/culture/2026/07/in-memoriam-seven-of-our-favorite-sam-neill-films/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784140798
+    },
+    {
+      "title": "Fourth Wing Author Rebecca Yarros Announces Threshing Day, New Book in Empyrean Series",
+      "link": "https://www.ign.com/articles/fourth-wing-rebecca-yarros-announces-threshing-day-new-book-in-empyrean-series",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784140550
+    },
+    {
+      "title": "Fallout: New Vegas Lead Designer Chris Avellone Admits He Feels 'Embarrassed' by TV Show's Dialogue",
+      "link": "https://www.ign.com/articles/fallout-new-vegas-lead-designer-chris-avellone-admits-he-feels-embarrassed-by-tv-shows-dialogue",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784140341
+    },
+    {
+      "title": "Apple bans home services from its upcoming Maps ads",
+      "link": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784139682
+    },
+    {
+      "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
+      "link": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784138765
+    },
+    {
+      "title": "Meteorite that crashed through New Jersey house could hold the clues to life's origins",
+      "link": "https://www.space.com/astronomy/meteorite-that-crashed-through-new-jersey-house-could-hold-the-clues-to-lifes-origins",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784138700
+    },
+    {
+      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784138646
+    },
     {
       "title": "Phone maker OnePlus reportedly plans to wind down US and Europe operations",
       "link": "https://techcrunch.com/2026/07/15/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1784138012
+    },
+    {
+      "title": "Leon Kennedy's Voice Actor Says Capcom Cut His 'Favorite' Line From Resident Evil Requiem",
+      "link": "https://www.ign.com/articles/leon-kennedys-voice-actor-says-capcom-cut-his-favorite-line-from-resident-evil-requiem",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784137493
     },
     {
       "title": "Google’s biggest clean power project is 40 miles north of xAI’s unpermitted gas power plant",
@@ -51,6 +149,13 @@
       "timestamp": 1784134800
     },
     {
+      "title": "Third-party app stores coming to Google Play next week as Epic settlement withdrawn",
+      "link": "https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784134512
+    },
+    {
       "title": "Explaining four most confusing moves of NBA offseason: Gary Trent for $64M? Two years for DeAndre Jordan?",
       "link": "https://www.cbssports.com/nba/news/most-confusing-moves-nba-offseason-gary-trent/",
       "source": "CBSSPORTS",
@@ -77,6 +182,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1784132100
+    },
+    {
+      "title": "OpenAI's first branded hardware is... a light-up keyboard?",
+      "link": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784131233
     },
     {
       "title": "The 10 best places in the UK to see the partial solar eclipse on Aug. 12",
@@ -121,6 +233,13 @@
       "timestamp": 1784128631
     },
     {
+      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+      "link": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784127600
+    },
+    {
       "title": "Bobiverse #6: The Infinite Extent Hits Audible This September - Exclusive",
       "link": "https://www.ign.com/articles/bobiverse-6-infinite-extent-audible-release-date",
       "source": "IGN",
@@ -147,13 +266,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1784126392
-    },
-    {
-      "title": "US charges Russian ‘bulletproof’ web hosts over cyberattacks that netted $62M from cybercrime victims",
-      "link": "https://techcrunch.com/2026/07/15/us-charges-russian-bulletproof-web-hosts-over-cyberattacks-that-netted-62m-from-cybercrime-victims/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784125309
     },
     {
       "title": "NBA Summer League winners and losers: Brayden Burries looks like key piece as Bucks enter new era",
@@ -191,31 +303,10 @@
       "timestamp": 1784123250
     },
     {
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-      "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784121047
-    },
-    {
       "title": "'Found you!' Astronomers spot faintest exoplanet ever seen from Earth after a decade of hide-and-seek",
       "link": "https://www.space.com/astronomy/exoplanets/found-you-astronomers-spot-faintest-exoplanet-ever-seen-from-earth-after-a-decade-of-hide-and-seek",
       "source": "SPACE",
       "category": "space",
-      "timestamp": 1784120400
-    },
-    {
-      "title": "Rime picks up $24M Series A to help enterprises field customer calls",
-      "link": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784120400
-    },
-    {
-      "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
-      "link": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
       "timestamp": 1784120400
     },
     {
@@ -254,27 +345,6 @@
       "timestamp": 1784116800
     },
     {
-      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
-      "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784116800
-    },
-    {
-      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
-      "link": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784116800
-    },
-    {
-      "title": "Why Realta Fusion is building a fusion reactor at an old hot dog factory",
-      "link": "https://techcrunch.com/2026/07/15/why-realta-fusion-is-building-a-fusion-reactor-at-an-old-hot-dog-factory/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784116800
-    },
-    {
       "title": "Netflix Shadow-Drops Retro VHS-Inspired Version of Stranger Things Season 1 on Series 10th Anniversary",
       "link": "https://www.ign.com/articles/netflix-shadow-drops-retro-vhs-inspired-version-of-stranger-things-season-1-on-series-10th-anniversary",
       "source": "IGN",
@@ -303,13 +373,6 @@
       "timestamp": 1784113209
     },
     {
-      "title": "'Below Any Reasonable Standard': Assassin's Creed Black Flag Resynced Developers Fighting to Save Jobs, Secure Fair Severance Pay at Ubisoft Barcelona",
-      "link": "https://www.ign.com/articles/below-any-reasonable-standard-assassins-creed-black-flag-resynced-developers-fighting-to-save-jobs-secure-fair-severance-pay-at-ubisoft-barcelona",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784111833
-    },
-    {
       "title": "Sotheby's big T. rex auction raises concerns hype and wealth are upending science",
       "link": "https://arstechnica.com/science/2026/07/sothebys-big-t-rex-auction-raises-concerns-hype-and-wealth-are-upending-science/",
       "source": "ARSTECHNICA",
@@ -317,25 +380,11 @@
       "timestamp": 1784111439
     },
     {
-      "title": "Microsoft Pulls Tony Hawk’s Pro Skater 1+2 From July 2026 Xbox Game Pass Lineup Without Explanation",
-      "link": "https://www.ign.com/articles/microsoft-pulls-tony-hawks-pro-skater-12-from-july-2026-xbox-game-pass-lineup-without-explanation",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784110226
-    },
-    {
       "title": "What time is SpaceX's Starship Flight 13 launch on July 16? (Full mission timeline)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-13-launch-what-time",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784109600
-    },
-    {
-      "title": "Filming Begins on The Lord of the Rings: The Hunt for Gollum, With First Look Video Showing Andy Serkis Back in Character",
-      "link": "https://www.ign.com/articles/filming-begins-on-the-lord-of-the-rings-the-hunt-for-gollum-with-first-look-video-showing-andy-serkis-back-in-character",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784108239
     },
     {
       "title": "Astronomers just found four hidden white dwarf stars near Earth",
@@ -527,27 +576,6 @@
       "timestamp": 1784034252
     },
     {
-      "title": "The biggest skywatching day of 2026 is coming. Here's what you'll see in North America and Europe",
-      "link": "https://www.space.com/stargazing/the-biggest-skywatching-day-of-2026-is-coming-heres-what-youll-see-in-north-america-and-europe",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784030400
-    },
-    {
-      "title": "How to watch SpaceX launch Starship Flight 13 on July 16",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/how-to-watch-spacex-launch-starship-flight-13-on-july-16",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784030400
-    },
-    {
-      "title": "Moon landings could destroy evidence of life's origins",
-      "link": "https://www.space.com/astronomy/moon/moon-landings-could-destroy-evidence-of-lifes-origins",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784023200
-    },
-    {
       "title": "Popular weight-loss drugs Ozempic and Wegovy may slow biological aging",
       "link": "https://www.sciencedaily.com/releases/2026/07/260713084907.htm",
       "source": "SCIENCEDAILY",
@@ -583,13 +611,6 @@
       "timestamp": 1783996253
     },
     {
-      "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
-      "link": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783991834
-    },
-    {
       "title": "Yale scientists found a hidden network inside the eye",
       "link": "https://www.sciencedaily.com/releases/2026/07/260713000804.htm",
       "source": "SCIENCEDAILY",
@@ -609,27 +630,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783986287
-    },
-    {
-      "title": "US continues to shun Ebola-infected citizens; second American sent to Germany",
-      "link": "https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783980454
-    },
-    {
-      "title": "The US government warns that Russia state hackers are coming after your router",
-      "link": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783976587
-    },
-    {
-      "title": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
-      "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783975286
     },
     {
       "title": "Too-early NBA Power Rankings: Why Spurs have edge over Knicks, Cavaliers and Heat both really need LeBron",
