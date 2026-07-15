@@ -1,6 +1,62 @@
 {
-  "last_updated": 1784112367,
+  "last_updated": 1784117535,
   "items": [
+    {
+      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+      "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784116800
+    },
+    {
+      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+      "link": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784116800
+    },
+    {
+      "title": "Why Realta Fusion is building a fusion reactor at an old hot dog factory",
+      "link": "https://techcrunch.com/2026/07/15/why-realta-fusion-is-building-a-fusion-reactor-at-an-old-hot-dog-factory/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784116800
+    },
+    {
+      "title": "Every SpaceX Starlink satellite has to dodge a collision almost weekly, and experts fear the worst",
+      "link": "https://www.space.com/space-exploration/satellites/every-spacex-starlink-satellite-has-to-dodge-a-collision-almost-weekly-and-experts-fear-the-worst",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784116800
+    },
+    {
+      "title": "How hard is it to build orbital data centers, actually?",
+      "link": "https://arstechnica.com/space/2026/07/how-hard-is-it-to-build-orbital-data-centers-actually/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784113209
+    },
+    {
+      "title": "Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse",
+      "link": "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784113200
+    },
+    {
+      "title": "'Below Any Reasonable Standard': Assassin's Creed Black Flag Resynced Developers Fighting to Save Jobs, Secure Fair Severance Pay at Ubisoft Barcelona",
+      "link": "https://www.ign.com/articles/below-any-reasonable-standard-assassins-creed-black-flag-resynced-developers-fighting-to-save-jobs-secure-fair-severance-pay-at-ubisoft-barcelona",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784111833
+    },
+    {
+      "title": "Sotheby's big T. rex auction raises concerns hype and wealth are upending science",
+      "link": "https://arstechnica.com/science/2026/07/sothebys-big-t-rex-auction-raises-concerns-hype-and-wealth-are-upending-science/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784111439
+    },
     {
       "title": "A SpaceX vet raised $65M to pull wire harnesses out of the Cold War era",
       "link": "https://techcrunch.com/2026/07/15/a-spacex-vet-raised-65m-to-pull-wire-harnesses-out-of-the-cold-war-era/",
@@ -331,20 +387,6 @@
       "timestamp": 1784049420
     },
     {
-      "title": "PlayStation's FlexStrike Wireless Fight Stick Postponed Due to \"Unexpected Production Delays\"",
-      "link": "https://www.ign.com/articles/playstations-flexstrike-wireless-fight-stick-postponed-due-to-unexpected-production-delays",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784048651
-    },
-    {
-      "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
-      "link": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784047523
-    },
-    {
       "title": "Draymond Green uses Bam Adebayo-Tyler Herro altercation to get into his own scuffle with Udonis Haslem",
       "link": "https://www.cbssports.com/nba/news/draymond-green-bam-adebayo-tyler-herro-udonis-haslem/",
       "source": "CBSSPORTS",
@@ -359,20 +401,6 @@
       "timestamp": 1784046494
     },
     {
-      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
-      "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784046135
-    },
-    {
-      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
-      "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784044800
-    },
-    {
       "title": "This cosmic 'lighthouse' is blazing a magnetic trail through the Milky Way",
       "link": "https://www.space.com/astronomy/stars/this-cosmic-lighthouse-is-blazing-a-magnetic-trail-through-the-milky-way",
       "source": "SPACE",
@@ -385,13 +413,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784043852
-    },
-    {
-      "title": "New York State halts construction of all new data centers",
-      "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784042279
     },
     {
       "title": "New York bans data center construction for a year, rattling AI industry",
@@ -520,8 +541,8 @@
       "timestamp": 1783980454
     },
     {
-      "title": "SpaceX Starship Flight 13 launch updates: Super Heavy booster rolled back for final checkouts",
-      "link": "https://www.space.com/news/live/spacex-starship-flight-13-launch-updates-july-14-2026",
+      "title": "SpaceX Starship Flight 13 launch updates: Starship undergoing preparations to launch tomorrow",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-13-launch-updates-july-15-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783977026
@@ -562,20 +583,6 @@
       "timestamp": 1783972368
     },
     {
-      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
-      "link": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783970271
-    },
-    {
-      "title": "Solution to Feynman's reverse sprinkler puzzle also applies to \"silly sprinklers\"",
-      "link": "https://arstechnica.com/science/2026/07/solution-to-feynmans-reverse-sprinkler-puzzle-also-applies-to-silly-sprinklers/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1783969247
-    },
-    {
       "title": "Too-early NBA Power Rankings: Why Spurs have edge over Knicks, Cavaliers and Heat both really need LeBron",
       "link": "https://www.cbssports.com/nba/news/too-early-nba-power-rankings-spurs-knicks-cavaliers-heat-lebron-july-13/",
       "source": "CBSSPORTS",
@@ -588,13 +595,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1783961027
-    },
-    {
-      "title": "SpaceX targets July 16 for Starship Flight 13, reveals what went wrong on previous launch",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-targets-july-16-for-starship-flight-13-reveals-what-went-wrong-on-previous-launch",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1783958404
     },
     {
       "title": "LeBron James next team predictions: Four-time MVP highly likely to go back to Cavaliers after leaving Lakers",
