@@ -1,6 +1,13 @@
 {
-  "last_updated": 1784093247,
+  "last_updated": 1784102589,
   "items": [
+    {
+      "title": "Astronomers just found four hidden white dwarf stars near Earth",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260714225528.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784097025
+    },
     {
       "title": "Adam Silver updates Kawhi Leonard investigation timeline as probe reportedly grows in scope",
       "link": "https://www.cbssports.com/nba/news/nba-investigation-kawhi-leonard-clippers-aspiration/",
@@ -9,11 +16,25 @@
       "timestamp": 1784089412
     },
     {
+      "title": "Scientists finally solved why some frogs survive a deadly fungus",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260714225523.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784086743
+    },
+    {
       "title": "The Grand Tour Returns in September With Its New Trio of Hosts",
       "link": "https://www.ign.com/articles/the-grand-tour-returns-in-september-with-its-new-trio-of-hosts",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1784084455
+    },
+    {
+      "title": "Why have humans collected crystals for 780,000 years? Chimpanzees may hold the answer",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260713000813.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784084174
     },
     {
       "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
@@ -394,15 +415,15 @@
       "timestamp": 1784034252
     },
     {
-      "title": "The biggest skywatching day of 2026 is coming. Here's what you'll see in North America and Europe",
-      "link": "https://www.space.com/stargazing/the-biggest-skywatching-day-of-2026-is-coming-heres-what-youll-see-in-north-america-and-europe",
+      "title": "How to watch SpaceX launch Starship Flight 13 on July 16",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/how-to-watch-spacex-launch-starship-flight-13-on-july-16",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784030400
     },
     {
-      "title": "How to watch SpaceX launch Starship Flight 13 on July 16",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/how-to-watch-spacex-launch-starship-flight-13-on-july-16",
+      "title": "The biggest skywatching day of 2026 is coming. Here's what you'll see in North America and Europe",
+      "link": "https://www.space.com/stargazing/the-biggest-skywatching-day-of-2026-is-coming-heres-what-youll-see-in-north-america-and-europe",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784030400
@@ -616,27 +637,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1783903696
-    },
-    {
-      "title": "Spider-like creatures help uncover the surprising origins of fatherhood",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260712011737.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783900187
-    },
-    {
-      "title": "Alzheimer's tau protein has a surprising secret role in memory",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260710003535.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783860792
-    },
-    {
-      "title": "Physicists recreate black hole energy extraction in the lab",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260711010120.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783859321
     },
     {
       "title": "LeBron James not 'chasing the ring' in free agency, agent Rich Paul says: 'There's nothing to chase'",
