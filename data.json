@@ -1,6 +1,20 @@
 {
-  "last_updated": 1784081250,
+  "last_updated": 1784093247,
   "items": [
+    {
+      "title": "Adam Silver updates Kawhi Leonard investigation timeline as probe reportedly grows in scope",
+      "link": "https://www.cbssports.com/nba/news/nba-investigation-kawhi-leonard-clippers-aspiration/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784089412
+    },
+    {
+      "title": "The Grand Tour Returns in September With Its New Trio of Hosts",
+      "link": "https://www.ign.com/articles/the-grand-tour-returns-in-september-with-its-new-trio-of-hosts",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784084455
+    },
     {
       "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
       "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
@@ -91,13 +105,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1784064763
-    },
-    {
-      "title": "NBA's investigation into Kawhi Leonard, Clippers has 'grown in scope,' causing delays, per report",
-      "link": "https://www.cbssports.com/nba/news/nba-investigation-kawhi-leonard-clippers-aspiration/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784063755
     },
     {
       "title": "Capcom Gives Monster Hunter Wilds a 'Permanent Price Reduction' as New DLC Bundles Announced",
@@ -366,13 +373,6 @@
       "timestamp": 1784041376
     },
     {
-      "title": "The Odyssey Director Christopher Nolan Says Getting Told Off by His Brother Over Memento Means He Will Never Explain Any of His Movies",
-      "link": "https://www.ign.com/articles/the-odyssey-director-christopher-nolan-says-getting-told-off-by-his-brother-over-memento-means-he-will-never-explain-any-of-his-movies",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784038116
-    },
-    {
       "title": "Honeycomb structures spotted on Mars | Space photo of the day for July 14, 2026",
       "link": "https://www.space.com/astronomy/mars/honeycomb-structures-spotted-on-mars-space-photo-of-the-day-for-july-14-2026",
       "source": "SPACE",
@@ -394,15 +394,15 @@
       "timestamp": 1784034252
     },
     {
-      "title": "How to watch SpaceX launch Starship Flight 13 on July 16",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/how-to-watch-spacex-launch-starship-flight-13-on-july-16",
+      "title": "The biggest skywatching day of 2026 is coming. Here's what you'll see in North America and Europe",
+      "link": "https://www.space.com/stargazing/the-biggest-skywatching-day-of-2026-is-coming-heres-what-youll-see-in-north-america-and-europe",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784030400
     },
     {
-      "title": "The biggest skywatching day of 2026 is coming. Here's what you'll see in North America and Europe",
-      "link": "https://www.space.com/stargazing/the-biggest-skywatching-day-of-2026-is-coming-heres-what-youll-see-in-north-america-and-europe",
+      "title": "How to watch SpaceX launch Starship Flight 13 on July 16",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/how-to-watch-spacex-launch-starship-flight-13-on-july-16",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784030400
