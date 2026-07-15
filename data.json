@@ -1,12 +1,54 @@
 {
-  "last_updated": 1784145938,
+  "last_updated": 1784152613,
   "items": [
+    {
+      "title": "Sheetz moves 838 stores off VMware: Broadcom created “too much uncertainty\"",
+      "link": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784151716
+    },
+    {
+      "title": "Judge: Trump can’t deport researchers just for working in content moderation",
+      "link": "https://arstechnica.com/tech-policy/2026/07/judge-trump-cant-deport-researchers-just-for-working-in-content-moderation/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784150762
+    },
+    {
+      "title": "Engineer identifies and explains every '90s computer seen in Jurassic Park",
+      "link": "https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784149462
+    },
+    {
+      "title": "Call of Duty: Black Ops Modder Highlights Major Exploits With New Port, Activision Is Investigating",
+      "link": "https://www.ign.com/articles/call-of-duty-black-ops-modder-highlights-major-exploits-with-new-port-activision-is-investigating",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784148631
+    },
+    {
+      "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
+      "link": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784146972
+    },
     {
       "title": "Watch Archimedes burn! Rocket Lab fires up engine for its powerful next-gen Neutron launcher (video)",
       "link": "https://www.space.com/space-exploration/watch-archimedes-burn-rocket-lab-fires-up-engine-for-its-powerful-next-gen-neutron-launcher-video",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784145600
+    },
+    {
+      "title": "Windows 0-day drops the same day Microsoft releases record number of patches",
+      "link": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784145588
     },
     {
       "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
@@ -21,6 +63,13 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1784144498
+    },
+    {
+      "title": "Danny McBride to Direct New G.I. Joe Movie as Bradley Cooper Rumored for Role",
+      "link": "https://www.ign.com/articles/danny-mcbride-to-direct-new-gi-joe-movie-as-bradley-cooper-rumored-for-role",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784144386
     },
     {
       "title": "The 10 best British sci-fi shows of all time",
@@ -72,8 +121,8 @@
       "timestamp": 1784139682
     },
     {
-      "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
-      "link": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
+      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+      "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1784138765
@@ -261,13 +310,6 @@
       "timestamp": 1784126530
     },
     {
-      "title": "India bets billions on breaking China’s grip on smartphone manufacturing",
-      "link": "https://techcrunch.com/2026/07/15/india-bets-billions-on-breaking-chinas-grip-on-smartphone-manufacturing/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784126392
-    },
-    {
       "title": "NBA Summer League winners and losers: Brayden Burries looks like key piece as Bucks enter new era",
       "link": "https://www.cbssports.com/nba/news/nba-summer-league-winners-losers-brayden-burries-cody-williams-dailyn-swain/",
       "source": "CBSSPORTS",
@@ -331,25 +373,11 @@
       "timestamp": 1784118071
     },
     {
-      "title": "It's Been 15 Years Since Game of Thrones' HBO Debut, And Now There's Official British Money to Celebrate",
-      "link": "https://www.ign.com/articles/its-been-15-years-since-game-of-thrones-hbo-debut-and-now-theres-official-british-money-to-celebrate",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784117161
-    },
-    {
       "title": "Every SpaceX Starlink satellite has to dodge a collision almost weekly, and experts fear the worst",
       "link": "https://www.space.com/space-exploration/satellites/every-spacex-starlink-satellite-has-to-dodge-a-collision-almost-weekly-and-experts-fear-the-worst",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784116800
-    },
-    {
-      "title": "Netflix Shadow-Drops Retro VHS-Inspired Version of Stranger Things Season 1 on Series 10th Anniversary",
-      "link": "https://www.ign.com/articles/netflix-shadow-drops-retro-vhs-inspired-version-of-stranger-things-season-1-on-series-10th-anniversary",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784115044
     },
     {
       "title": "A most improbable astronaut just went to space",
@@ -506,13 +534,6 @@
       "timestamp": 1784052000
     },
     {
-      "title": "These painted e-tattoos could be the future of wearable biosensors",
-      "link": "https://arstechnica.com/science/2026/07/these-painted-e-tattoos-could-be-the-future-of-wearable-biosensors/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784050318
-    },
-    {
       "title": "Tyler Herro comments on altercation with Bam Adebayo, eager to build 'something special' with Bucks",
       "link": "https://www.cbssports.com/nba/news/tyler-herro-bam-adebayo-altercation-heat-bucks/",
       "source": "CBSSPORTS",
@@ -525,13 +546,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784046524
-    },
-    {
-      "title": "Google revamps image search for its 25th anniversary with more images and more AI",
-      "link": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784046494
     },
     {
       "title": "This cosmic 'lighthouse' is blazing a magnetic trail through the Milky Way",
@@ -548,25 +562,11 @@
       "timestamp": 1784043852
     },
     {
-      "title": "New York bans data center construction for a year, rattling AI industry",
-      "link": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784041588
-    },
-    {
       "title": "Honeycomb structures spotted on Mars | Space photo of the day for July 14, 2026",
       "link": "https://www.space.com/astronomy/mars/honeycomb-structures-spotted-on-mars-space-photo-of-the-day-for-july-14-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784037600
-    },
-    {
-      "title": "Boomers, not Gen Z, are the generation cutting back most on alcohol",
-      "link": "https://arstechnica.com/health/2026/07/boomers-not-gen-z-are-the-generation-cutting-back-most-on-alcohol/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784035156
     },
     {
       "title": "Are there aliens on exoplanet K2-18b? Scientists just scanned it for signals",
