@@ -1,12 +1,61 @@
 {
-  "last_updated": 1784201814,
+  "last_updated": 1784209402,
   "items": [
+    {
+      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+      "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784207879
+    },
+    {
+      "title": "Argentina return to World Cup final after dramatic comeback; Open Championship in full swing",
+      "link": "https://www.cbssports.com/golf/news/argentina-world-cup-final-comeback-open-championship/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784205994
+    },
+    {
+      "title": "Watch SpaceX launch 21 'data transport' satellites for US military today",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-sda-titl-3-military-satellites",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784203200
+    },
+    {
+      "title": "Is dark matter 'tuned in' to a hidden dimension?",
+      "link": "https://www.space.com/astronomy/dark-universe/is-dark-matter-tuned-in-to-a-hidden-dimension",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784203200
+    },
+    {
+      "title": "Great New Games Are Getting Caught Up in the Online Backlash Against PlayStation Killing Discs",
+      "link": "https://www.ign.com/articles/great-new-games-are-getting-caught-up-in-the-online-backlash-against-playstation-killing-discs",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784203059
+    },
+    {
+      "title": "Pokémon Go Fans React in Disgust as Players Hand-Picked to Attend Exclusive Times Square Event Sell Their Prized Mewtwo for Thousands of Dollars, Breaking the Game's Rules",
+      "link": "https://www.ign.com/articles/pokemon-go-fans-react-in-disgust-as-players-hand-picked-to-attend-exclusive-times-square-event-sell-their-prized-mewtwo-for-thousands-of-dollars-breaking-the-games-rules",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784202915
+    },
     {
       "title": "Ultrahuman’s former hardware VP raises $5.5M for devices that control AI agents, not just record you",
       "link": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1784201400
+    },
+    {
+      "title": "Move over, GPS: Navigation satellites in low-Earth orbit are making a comeback",
+      "link": "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784199621
     },
     {
       "title": "Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot",
@@ -23,7 +72,7 @@
       "timestamp": 1784196000
     },
     {
-      "title": "Phone maker OnePlus says it won’t release new phones in the U.S. and Europe",
+      "title": "Phone maker OnePlus says it won’t release new phones in the US and Europe",
       "link": "https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -282,13 +331,6 @@
       "timestamp": 1784135372
     },
     {
-      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
-      "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784134834
-    },
-    {
       "title": "How and when will LeBron James announce his next team? NBA superstar to record live podcast this week",
       "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-decision-podcast/",
       "source": "CBSSPORTS",
@@ -366,25 +408,11 @@
       "timestamp": 1784127600
     },
     {
-      "title": "New Details Revealed on Whore of the Orient, LA Noire's Canceled Spiritual Successor",
-      "link": "https://www.ign.com/articles/new-details-revealed-on-whore-of-the-orient-la-noires-canceled-spiritual-successor",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784127043
-    },
-    {
       "title": "NBA Summer League winners and losers: Brayden Burries looks like key piece as Bucks enter new era",
       "link": "https://www.cbssports.com/nba/news/nba-summer-league-winners-losers-brayden-burries-cody-williams-dailyn-swain/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784125263
-    },
-    {
-      "title": "'What's Wrong With These People?' — Stephen King Hits Out at Utah for Banning Novella Collection That Inspired Stand by Me and The Shawshank Redemption From All Public Schools",
-      "link": "https://www.ign.com/articles/whats-wrong-with-these-people-stephen-king-hits-out-at-utah-for-banning-novella-collection-that-inspired-stand-by-me-and-the-shawshank-redemption-from-all-public-schools",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784124790
     },
     {
       "title": "Glaciers spotted flowing across the Himalayas from space | Space photo of the day for July 15, 2026",
@@ -534,13 +562,6 @@
       "timestamp": 1784061680
     },
     {
-      "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
-      "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784059553
-    },
-    {
       "title": "The 1st of 10,000 'missing' black holes in the Omega Centauri star cluster has been found by the Hubble and James Webb space telescopes",
       "link": "https://www.space.com/astronomy/black-holes/the-1st-of-10-000-missing-black-holes-in-the-omega-centauri-star-cluster-has-been-found-by-the-hubble-and-james-webb-space-telescopes",
       "source": "SPACE",
@@ -548,25 +569,11 @@
       "timestamp": 1784059200
     },
     {
-      "title": "'Once Upon a Time in Space': How to watch PBS's out-of-this-world astronaut documentary",
-      "link": "https://www.space.com/entertainment/space-movies-shows/once-upon-a-time-in-space-how-to-watch-pbss-out-of-this-world-astronaut-documentary",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784055600
-    },
-    {
       "title": "How to fix NBA's unpopular CBA: Four ideas to maintain parity and bring back free agency",
       "link": "https://www.cbssports.com/nba/news/fix-nba-unpopular-cba-four-ideas-parity-free-agency/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784053632
-    },
-    {
-      "title": "1st-ever X-rays in space offer hope for possible patients headed to the moon",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/1st-ever-x-rays-in-space-offer-hope-for-possible-patients-headed-to-the-moon",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784052000
     },
     {
       "title": "Tyler Herro comments on altercation with Bam Adebayo, eager to build 'something special' with Bucks",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783806008
-    },
-    {
-      "title": "Victor Wembanyama's contract, explained: How big of a discount is he taking? What does it mean for the Spurs?",
-      "link": "https://www.cbssports.com/nba/news/victor-wembanyama-contract-explained-discount-spurs/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783787155
     }
   ]
 }
