@@ -1,6 +1,34 @@
 {
-  "last_updated": 1784156312,
+  "last_updated": 1784160208,
   "items": [
+    {
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784159984
+    },
+    {
+      "title": "Zach Cregger's Resident Evil Runtime Revealed, and It Matches Early Audience Reactions",
+      "link": "https://www.ign.com/articles/zach-creggers-resident-evil-runtime-revealed-and-it-matches-early-audience-reactions",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784155600
+    },
+    {
+      "title": "Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there",
+      "link": "https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784154988
+    },
+    {
+      "title": "Buzz Aldrin sells famous felt-tip pen that helped launch Apollo from the Moon",
+      "link": "https://arstechnica.com/space/2026/07/apollo-11s-broken-switch-and-mission-saving-pen-sell-for-860k/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784153441
+    },
     {
       "title": "'Full steam ahead': NASA ramps up prep for Artemis III astronaut launch in 2027",
       "link": "https://www.space.com/space-exploration/artemis/full-steam-ahead-nasa-ramps-up-prep-for-artemis-iii-astronaut-launch-in-2027",
@@ -9,7 +37,7 @@
       "timestamp": 1784152800
     },
     {
-      "title": "Sheetz moves 838 stores off VMware: Broadcom created “too much uncertainty\"",
+      "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
       "link": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -317,13 +345,6 @@
       "timestamp": 1784127043
     },
     {
-      "title": "Spotify expands parent-managed accounts to users on its free tier",
-      "link": "https://techcrunch.com/2026/07/15/spotify-expands-parent-managed-accounts-to-users-on-its-free-tier/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784126530
-    },
-    {
       "title": "NBA Summer League winners and losers: Brayden Burries looks like key piece as Bucks enter new era",
       "link": "https://www.cbssports.com/nba/news/nba-summer-league-winners-losers-brayden-burries-cody-williams-dailyn-swain/",
       "source": "CBSSPORTS",
@@ -336,13 +357,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1784124790
-    },
-    {
-      "title": "Robert Pattinson's Return in The Batman: Part 2 Delayed Again, Now Arriving 2028",
-      "link": "https://www.ign.com/articles/robert-pattinsons-return-in-the-batman-part-2-delayed-again-now-arriving-2028",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784124276
     },
     {
       "title": "Glaciers spotted flowing across the Himalayas from space | Space photo of the day for July 15, 2026",
@@ -506,13 +520,6 @@
       "timestamp": 1784059200
     },
     {
-      "title": "Probe into explosive diarrheal cases points to Taco Bell and bad lettuce",
-      "link": "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784055602
-    },
-    {
       "title": "'Once Upon a Time in Space': How to watch PBS's out-of-this-world astronaut documentary",
       "link": "https://www.space.com/entertainment/space-movies-shows/once-upon-a-time-in-space-how-to-watch-pbss-out-of-this-world-astronaut-documentary",
       "source": "SPACE",
@@ -525,13 +532,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784053632
-    },
-    {
-      "title": "US military sent explosive drone boats into combat for the first time",
-      "link": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784052001
     },
     {
       "title": "1st-ever X-rays in space offer hope for possible patients headed to the moon",
