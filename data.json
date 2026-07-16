@@ -1,6 +1,62 @@
 {
-  "last_updated": 1784221945,
+  "last_updated": 1784228681,
   "items": [
+    {
+      "title": "Google Vids now lets you star in your own AI videos",
+      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784226774
+    },
+    {
+      "title": "Roblox launches an AI-powered game creation feature in its mobile app",
+      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784226126
+    },
+    {
+      "title": "8bitdo's Latest Phone Accessory Is a Clip-on, Game Boy-Like Controller",
+      "link": "https://www.ign.com/articles/8bitdos-latest-phone-accessory-is-a-clip-on-game-boy-like-controller",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784226093
+    },
+    {
+      "title": "NBA looking into Gary Trent Jr.'s contract: Why $64 million extension with Bucks has raised eyebrows",
+      "link": "https://www.cbssports.com/nba/news/gary-trent-contract-bucks-nba-investigation/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784224824
+    },
+    {
+      "title": "We've seen helium baked off a rocky exoplanet's atmosphere",
+      "link": "https://arstechnica.com/science/2026/07/weve-seen-helium-baked-off-a-rocky-exoplanets-atmosphere/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784224815
+    },
+    {
+      "title": "Astronomers discover 1st atmosphere around a rocky Earth-like planet in the habitable zone",
+      "link": "https://www.space.com/astronomy/exoplanets/astronomers-discover-1st-atmosphere-around-a-rocky-earth-like-planet-in-the-habitable-zone",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784224800
+    },
+    {
+      "title": "Marvel Comics to Leave New York City for Hollywood After 90 Years",
+      "link": "https://www.ign.com/articles/marvel-comics-to-leave-new-york-city-for-hollywood-after-90-years",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784223483
+    },
+    {
+      "title": "Oil giant BP shutters its corporate venture arm after 20 years",
+      "link": "https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784223423
+    },
     {
       "title": "Uber’s $14.8B Delivery Hero deal would nearly double its global footprint",
       "link": "https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/",
@@ -16,8 +72,8 @@
       "timestamp": 1784221638
     },
     {
-      "title": "Newsletter platform Beehiiv’s now lets subscribers chat with each other, adds AI",
-      "link": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiivs-now-lets-subscribers-chat-with-each-other-adds-ai/",
+      "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
+      "link": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1784221200
@@ -30,6 +86,13 @@
       "timestamp": 1784221200
     },
     {
+      "title": "New Saber Exec Moves to Reassure Fan Worried About Warhammer 40,000: Space Marine 3 Monetization, Ends Up Suggesting a 2028 Launch Window That May Even Include the KOTOR Remake",
+      "link": "https://www.ign.com/articles/new-saber-exec-moves-to-reassure-fan-worried-about-warhammer-40000-space-marine-3-monetization-ends-up-suggesting-a-2028-launch-window-that-may-even-include-the-kotor-remake",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784220443
+    },
+    {
       "title": "X cracks down on creators who steal content",
       "link": "https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content/",
       "source": "TECHCRUNCH",
@@ -37,7 +100,7 @@
       "timestamp": 1784220036
     },
     {
-      "title": "OnePlus ends phone releases in US and Europe, further reducing smartphone choice",
+      "title": "OnePlus confirms shutdown in the US and Europe, ending months of speculation",
       "link": "https://arstechnica.com/gadgets/2026/07/oneplus-ends-phone-releases-in-us-and-europe-further-reducing-smartphone-choice/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -191,13 +254,6 @@
       "timestamp": 1784212554
     },
     {
-      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
-      "link": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784211989
-    },
-    {
       "title": "Call of Duty: Modern Warfare 4 Has a Bespoke Tactical SUV Designed by Aston Martin — It's Called Dreadnought, and We've Got a First Look",
       "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-has-a-bespoke-tactical-suv-designed-by-aston-martin-its-called-dreadnought-and-weve-got-a-first-look",
       "source": "IGN",
@@ -224,13 +280,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1784210400
-    },
-    {
-      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-      "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784207879
     },
     {
       "title": "Argentina return to World Cup final after dramatic comeback; Open Championship in full swing",
@@ -266,13 +315,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1784202915
-    },
-    {
-      "title": "Ultrahuman’s former hardware VP raises $5.5M for devices that control AI agents, not just record you",
-      "link": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784201400
     },
     {
       "title": "Move over, GPS: Navigation satellites in low-Earth orbit are making a comeback",
@@ -387,13 +429,6 @@
       "timestamp": 1784145588
     },
     {
-      "title": "Danny McBride to Direct New G.I. Joe Movie as Bradley Cooper Rumored for Role",
-      "link": "https://www.ign.com/articles/danny-mcbride-to-direct-new-gi-joe-movie-as-bradley-cooper-rumored-for-role",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784144386
-    },
-    {
       "title": "The 10 best British sci-fi shows of all time",
       "link": "https://www.space.com/entertainment/space-movies-shows/the-10-best-british-sci-fi-shows-of-all-time",
       "source": "SPACE",
@@ -413,20 +448,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1784140798
-    },
-    {
-      "title": "Fourth Wing Author Rebecca Yarros Announces Threshing Day, New Book in Empyrean Series",
-      "link": "https://www.ign.com/articles/fourth-wing-rebecca-yarros-announces-threshing-day-new-book-in-empyrean-series",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784140550
-    },
-    {
-      "title": "Fallout: New Vegas Senior Designer Chris Avellone Admits He Feels 'Embarrassed' by TV Show's Dialogue",
-      "link": "https://www.ign.com/articles/fallout-new-vegas-senior-designer-chris-avellone-admits-he-feels-embarrassed-by-tv-shows-dialogue",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784140341
     },
     {
       "title": "Meteorite that crashed through New Jersey house could hold the clues to life's origins",
@@ -499,13 +520,6 @@
       "timestamp": 1784123250
     },
     {
-      "title": "'Found you!' Astronomers spot faintest exoplanet ever seen from Earth after a decade of hide-and-seek",
-      "link": "https://www.space.com/astronomy/exoplanets/found-you-astronomers-spot-faintest-exoplanet-ever-seen-from-earth-after-a-decade-of-hide-and-seek",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784120400
-    },
-    {
       "title": "AL pitchers blank NL in MLB All-Star Game; Spain shut down France to reach World Cup final",
       "link": "https://www.cbssports.com/mlb/news/al-pitchers-nl-mlb-all-star-game-spain-france-world-cup-final/",
       "source": "CBSSPORTS",
@@ -518,13 +532,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1784118071
-    },
-    {
-      "title": "A most improbable astronaut just went to space",
-      "link": "https://arstechnica.com/space/2026/07/a-most-improbable-astronaut-just-went-to-space/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784115007
     },
     {
       "title": "Are humans really the ultimate super-predator?",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783965572
-    },
-    {
-      "title": "LeBron James next team predictions: Four-time MVP highly likely to go back to Cavaliers after leaving Lakers",
-      "link": "https://www.cbssports.com/prediction/news/lebron-james-next-team-predictions-four-time-mvp-highly-likely-to-go-back-to-cavaliers-after-leaving-lakers/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1783954788
     }
   ]
 }
