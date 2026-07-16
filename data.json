@@ -1,6 +1,41 @@
 {
-  "last_updated": 1784174308,
+  "last_updated": 1784183055,
   "items": [
+    {
+      "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784175408
+    },
+    {
+      "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
+      "link": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784174400
+    },
+    {
+      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784174400
+    },
+    {
+      "title": "NASA's James Webb Space Telescope reveals a strange atmosphere on a hellish lava planet",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260712011743.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784171990
+    },
+    {
+      "title": "Common constipation drug may help clear depression brain fog",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260712011751.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784162949
+    },
     {
       "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
       "link": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
@@ -310,20 +345,6 @@
       "timestamp": 1784130240
     },
     {
-      "title": "Stripe and Advent reportedly offered to buy PayPal for around $53.4B",
-      "link": "https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784129426
-    },
-    {
-      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-      "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784129373
-    },
-    {
       "title": "Of Course The Odyssey is Joining Fortnite — And Matt Damon is a Skin",
       "link": "https://www.ign.com/articles/of-course-the-odyssey-is-joining-fortnite-and-matt-damon-is-a-skin",
       "source": "IGN",
@@ -618,13 +639,6 @@
       "timestamp": 1783991750
     },
     {
-      "title": "Exercise doesn't just strengthen the heart. It rewires it",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260712011755.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783990053
-    },
-    {
       "title": "Why college basketball recruiting returned to Las Vegas, which is poised to become an annual offseason mecca",
       "link": "https://www.cbssports.com/college-basketball/news/why-college-basketball-recruiting-returned-to-las-vegas-which-is-poised-to-become-an-annual-offseason-mecca/",
       "source": "CBSSPORTS",
@@ -644,20 +658,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1783954788
-    },
-    {
-      "title": "A 200-year-old physics experiment could help build future computers",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260713000755.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783946990
-    },
-    {
-      "title": "Scientists discovered the brain doesn't make decisions the way we thought",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260712011757.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1783944747
     },
     {
       "title": "LeBron James not 'chasing the ring' in free agency, agent Rich Paul says: 'There's nothing to chase'",
