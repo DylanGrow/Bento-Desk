@@ -1,6 +1,62 @@
 {
-  "last_updated": 1784299247,
+  "last_updated": 1784304751,
   "items": [
+    {
+      "title": "Making history: Watch Vikram-1, India's 1st private orbital rocket, launch early on July 18",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/skyroot-aerospace-india-first-private-orbital-launch-vikram-1",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784304000
+    },
+    {
+      "title": "Amazon fixing bug that billed some AWS customers billions of dollars",
+      "link": "https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784302161
+    },
+    {
+      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784301677
+    },
+    {
+      "title": "'The Starry Night' in space: Dark Energy Camera channels a cosmic Van Gogh (video)",
+      "link": "https://www.space.com/astronomy/stars/the-starry-night-in-space-dark-energy-camera-channels-a-cosmic-van-gogh-video",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784300429
+    },
+    {
+      "title": "The Elder Scrolls V: Skyrim Officially Joins The Witcher 3 on 65 Million Units Sold",
+      "link": "https://www.ign.com/articles/the-elder-scrolls-v-skyrim-officially-joins-the-witcher-3-on-65-million-units-sold",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784300404
+    },
+    {
+      "title": "Battlefield 6 to Get Top Gun Crossover in August",
+      "link": "https://www.ign.com/articles/battlefield-6-to-get-top-gun-crossover-in-august",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784300400
+    },
+    {
+      "title": "reMarkable’s new Paper Pure is good. That’s why I wrote this review on it.",
+      "link": "https://techcrunch.com/2026/07/17/remarkables-new-paper-pure-is-good-thats-why-i-wrote-this-review-on-it/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784299647
+    },
+    {
+      "title": "Bethesda Game Studios Says Starfield 'Remains an Important Part of Our Future,' Confirms 17 Million Players and Teases Starborn DLC for 2027",
+      "link": "https://www.ign.com/articles/bethesda-game-studios-says-starfield-remains-an-important-part-of-our-future-confirms-17-million-players-and-teases-starborn-dlc-for-2027",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784298966
+    },
     {
       "title": "No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling",
       "link": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
@@ -212,13 +268,6 @@
       "timestamp": 1784241553
     },
     {
-      "title": "Robert Pattinson Thought Matt Damon Was a 'Complete Psycho' When He Heard Him 'Screaming' to Prepare for The Odyssey",
-      "link": "https://www.ign.com/articles/robert-pattinson-thought-matt-damon-was-a-complete-psycho-when-he-heard-him-screaming-to-prepare-for-the-odyssey",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784241503
-    },
-    {
       "title": "Two Trump health nominees crash and burn in tense Senate hearing",
       "link": "https://arstechnica.com/health/2026/07/two-trump-health-nominees-crash-and-burn-in-tense-senate-hearing/",
       "source": "ARSTECHNICA",
@@ -245,20 +294,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1784236951
-    },
-    {
-      "title": "Lost Fan Simon Pegg 'Loved' the Show But Has at Least One Idea to Fix Its Ending",
-      "link": "https://www.ign.com/articles/lost-fan-simon-pegg-loved-the-show-but-has-at-least-one-idea-to-fix-its-ending",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784236591
-    },
-    {
-      "title": "Microsoft Restores Player's 25-Year-Old Account With Son's Baby Photos After Nuking It Due to Hacker",
-      "link": "https://www.ign.com/articles/microsoft-restores-players-25-year-old-account-with-sons-baby-photos-after-nuking-it-due-to-hacker",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784236259
     },
     {
       "title": "T-Mobile bungled forced plan migration, canceling some users' free lines",
@@ -415,27 +450,6 @@
       "timestamp": 1784218892
     },
     {
-      "title": "AI-powered travel agency Fora hits unicorn status, raises $60M",
-      "link": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784218120
-    },
-    {
-      "title": "Google’s AI Mode now lets you link and interact with select apps",
-      "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784217600
-    },
-    {
-      "title": "Google continues its renaming streak by turning NotebookLM to Gemini Notebook",
-      "link": "https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784217600
-    },
-    {
       "title": "Stephen Hawking's famous 'leaky' black hole theory gets much-needed update",
       "link": "https://www.space.com/astronomy/black-holes/stephen-hawkings-famous-leaky-black-hole-theory-gets-much-needed-update",
       "source": "SPACE",
@@ -464,13 +478,6 @@
       "timestamp": 1784205994
     },
     {
-      "title": "SpaceX launches 21 'data transport' satellites for US military (video, photos)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-sda-titl-3-military-satellites",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784203200
-    },
-    {
       "title": "Is dark matter 'tuned in' to a hidden dimension?",
       "link": "https://www.space.com/astronomy/dark-universe/is-dark-matter-tuned-in-to-a-hidden-dimension",
       "source": "SPACE",
@@ -478,18 +485,11 @@
       "timestamp": 1784203200
     },
     {
-      "title": "SpaceX will launch Starship, the world's largest rocket, on critical Flight 13 test today. Here's what to expect.",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-13-starlink-v3-satellites",
+      "title": "SpaceX launches 21 'data transport' satellites for US military (video, photos)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-sda-titl-3-military-satellites",
       "source": "SPACE",
       "category": "space",
-      "timestamp": 1784196000
-    },
-    {
-      "title": "'Full steam ahead': NASA ramps up prep for Artemis III astronaut launch in 2027",
-      "link": "https://www.space.com/space-exploration/artemis/full-steam-ahead-nasa-ramps-up-prep-for-artemis-iii-astronaut-launch-in-2027",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784152800
+      "timestamp": 1784203200
     },
     {
       "title": "How and when will LeBron James announce his next team? NBA superstar to record live podcast this week",
