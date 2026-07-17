@@ -1,12 +1,117 @@
 {
-  "last_updated": 1784304751,
+  "last_updated": 1784311365,
   "items": [
+    {
+      "title": "I replaced my space heater and ceiling fan with one Dyson appliance",
+      "link": "https://techcrunch.com/2026/07/17/i-replaced-my-space-heater-and-ceiling-fan-with-one-dyson-appliance/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784311217
+    },
+    {
+      "title": "'Aliens' at 40: Here are 26 reasons why James Cameron's sequel is still the greatest sci-fi action movie of all time",
+      "link": "https://www.space.com/entertainment/space-movies-shows/aliens-at-40-here-are-26-reasons-why-james-camerons-sequel-is-still-the-greatest-sci-fi-action-movie-of-all-time",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784311200
+    },
+    {
+      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784310346
+    },
+    {
+      "title": "Fallout 5: Everything Todd Howard Has Said About Bethesda's New Game",
+      "link": "https://www.ign.com/articles/fallout-5-everything-todd-howard-has-said-about-bethesdas-new-game",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784309061
+    },
+    {
+      "title": "NBA Summer League grades for every lottery pick: AJ Dybantsa earns 'A' as heralded rookie class shines",
+      "link": "https://www.cbssports.com/nba/news/nba-summer-league-grades-aj-dybantsa-darryn-peterson-cameron-boozer-caleb-wilson/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784308333
+    },
+    {
+      "title": "Troubling new details emerge on diabetes ouster controversy",
+      "link": "https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784308085
+    },
+    {
+      "title": "Earth's largest particle accelerator opens new window into the early universe just after the Big Bang: 'A culmination of a decades-long quest'",
+      "link": "https://www.space.com/science/particle-physics/earths-largest-particle-accelerator-opens-new-window-into-the-early-universe-just-after-the-big-bang-a-culmination-of-a-decades-long-quest",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784307600
+    },
+    {
+      "title": "Will Russia's answer to the Falcon 9 rocket ever take flight?",
+      "link": "https://arstechnica.com/space/2026/07/will-russias-answer-to-the-falcon-9-rocket-ever-take-flight/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784306539
+    },
+    {
+      "title": "Three ripple effects of LeBron James' lengthy free agency, and why Adam Silver is anxious for a decision",
+      "link": "https://www.cbssports.com/nba/news/ripple-effects-lebron-james-lengthy-free-agency/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784305821
+    },
+    {
+      "title": "Fubo hikes prices by $15 after restoring some NBCU channels lost in November",
+      "link": "https://arstechnica.com/gadgets/2026/07/fubo-hikes-prices-by-15-after-restoring-some-nbcu-channels-lost-in-november/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784305461
+    },
+    {
+      "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
+      "link": "https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784305089
+    },
+    {
+      "title": "Parents want safer phones for kids. These companies are answering the call.",
+      "link": "https://techcrunch.com/2026/07/17/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784304766
+    },
+    {
+      "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
+      "link": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784304605
+    },
     {
       "title": "Making history: Watch Vikram-1, India's 1st private orbital rocket, launch early on July 18",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/skyroot-aerospace-india-first-private-orbital-launch-vikram-1",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784304000
+    },
+    {
+      "title": "Ars is looking for a senior technology reporter, and you might be it!",
+      "link": "https://arstechnica.com/staff/2026/07/ars-is-looking-for-a-senior-technology-reporter-and-you-might-be-it/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784303548
+    },
+    {
+      "title": "Todd Howard Dismisses 'Fan Chatter' About Purported Rivalry Between Bethesda and Obsidian as the New Vegas Developer Starts Work on a New Fallout Game",
+      "link": "https://www.ign.com/articles/todd-howard-dismisses-fan-chatter-about-purported-rivalry-between-bethesda-and-obsidian-as-the-new-vegas-developer-starts-work-on-a-new-fallout-game",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784303126
     },
     {
       "title": "Amazon fixing bug that billed some AWS customers billions of dollars",
@@ -254,20 +359,6 @@
       "timestamp": 1784242887
     },
     {
-      "title": "Backrooms Director Kane Parsons Promises He’s 'Looking Into' A24 Copyright Strikes on Fan Art",
-      "link": "https://www.ign.com/articles/backrooms-director-kane-parsons-promises-hes-looking-into-a24-copyright-strikes-on-fan-art",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784242796
-    },
-    {
-      "title": "GTA 6 Hacker Moved to Prison for Retrial Two Years After Indefinite Sentence to Secure Hospital",
-      "link": "https://www.ign.com/articles/gta-6-hacker-moved-to-prison-for-retrial-two-years-after-indefinite-sentence-to-secure-hospital",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784241553
-    },
-    {
       "title": "Two Trump health nominees crash and burn in tense Senate hearing",
       "link": "https://arstechnica.com/health/2026/07/two-trump-health-nominees-crash-and-burn-in-tense-senate-hearing/",
       "source": "ARSTECHNICA",
@@ -338,34 +429,6 @@
       "timestamp": 1784232000
     },
     {
-      "title": "Trump teleprompter aide made $100,000 betting on what Trump would say, reports say",
-      "link": "https://arstechnica.com/culture/2026/07/trump-teleprompter-aide-made-100000-betting-on-what-trump-would-say-reports-say/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784231746
-    },
-    {
-      "title": "2026 Toyota RAV4 plug-in: Big battery means daily drives are all-electric",
-      "link": "https://arstechnica.com/cars/2026/07/2026-toyota-rav4-plug-in-review-good-but-skip-the-gr-sport/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784231182
-    },
-    {
-      "title": "Now, even Russia's most elite hackers are using Clickfix to infect devices",
-      "link": "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784230113
-    },
-    {
-      "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
-      "link": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784229503
-    },
-    {
       "title": "Google Vids now lets you star in your own AI videos",
       "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
       "source": "TECHCRUNCH",
@@ -387,13 +450,6 @@
       "timestamp": 1784224824
     },
     {
-      "title": "We've seen helium baked off a rocky exoplanet's atmosphere",
-      "link": "https://arstechnica.com/science/2026/07/weve-seen-helium-baked-off-a-rocky-exoplanets-atmosphere/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784224815
-    },
-    {
       "title": "Astronomers discover 1st atmosphere around a rocky Earth-like planet in the habitable zone",
       "link": "https://www.space.com/astronomy/exoplanets/astronomers-discover-1st-atmosphere-around-a-rocky-earth-like-planet-in-the-habitable-zone",
       "source": "SPACE",
@@ -401,32 +457,11 @@
       "timestamp": 1784224800
     },
     {
-      "title": "Oil giant BP shutters its corporate venture arm after 20 years",
-      "link": "https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784223423
-    },
-    {
-      "title": "Uber’s $14.8B Delivery Hero deal would nearly double its global footprint",
-      "link": "https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784221920
-    },
-    {
-      "title": "SpaceX stacks massive Starship rocket ahead of today's Flight 13 test launch (video)",
+      "title": "SpaceX stacks massive Starship rocket ahead of July 20's Flight 13 test launch (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-stacks-massive-starship-rocket-ahead-of-todays-flight-13-test-launch-video",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784221638
-    },
-    {
-      "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
-      "link": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784221200
     },
     {
       "title": "An animated sci-fi rom-com wasn't on our wish list, but we'll be damned if 'Not Alone' doesn't look sweet, stylish, and hilarious",
@@ -434,13 +469,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784221200
-    },
-    {
-      "title": "X cracks down on creators who steal content",
-      "link": "https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784220036
     },
     {
       "title": "NBA will not punish Bam Adebayo, Tyler Herro after Las Vegas altercation: 'Everyone would prefer to move on'",
@@ -476,20 +504,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784205994
-    },
-    {
-      "title": "Is dark matter 'tuned in' to a hidden dimension?",
-      "link": "https://www.space.com/astronomy/dark-universe/is-dark-matter-tuned-in-to-a-hidden-dimension",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784203200
-    },
-    {
-      "title": "SpaceX launches 21 'data transport' satellites for US military (video, photos)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-sda-titl-3-military-satellites",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784203200
     },
     {
       "title": "How and when will LeBron James announce his next team? NBA superstar to record live podcast this week",
@@ -546,20 +560,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784053632
-    },
-    {
-      "title": "Tyler Herro comments on altercation with Bam Adebayo, eager to build 'something special' with Bucks",
-      "link": "https://www.cbssports.com/nba/news/tyler-herro-bam-adebayo-altercation-heat-bucks/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784049997
-    },
-    {
-      "title": "Draymond Green uses Bam Adebayo-Tyler Herro altercation to get into his own scuffle with Udonis Haslem",
-      "link": "https://www.cbssports.com/nba/news/draymond-green-bam-adebayo-tyler-herro-udonis-haslem/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784046524
     }
   ]
 }
