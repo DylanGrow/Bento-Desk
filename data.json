@@ -1,6 +1,27 @@
 {
-  "last_updated": 1784325019,
+  "last_updated": 1784328323,
   "items": [
+    {
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784326376
+    },
+    {
+      "title": "Assassin’s Creed Stunt Recreated in Real Life as Red Bull Athlete Sets Haystack Jump World Record",
+      "link": "https://www.ign.com/articles/assassins-creed-stunt-recreated-in-real-life-as-red-bull-athlete-sets-haystack-jump-world-record",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784325905
+    },
+    {
+      "title": "Remembering 'Ulysses 31', the '80s cartoon that transported 'The Odyssey' to outer space",
+      "link": "https://www.space.com/entertainment/space-movies-shows/remembering-ulysses-31-the-80s-cartoon-that-transported-the-odyssey-to-outer-space",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784325600
+    },
     {
       "title": "The Zoom hack that says, ‘Don’t record me’",
       "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
@@ -373,13 +394,6 @@
       "timestamp": 1784289600
     },
     {
-      "title": "id Software Creative Director Says Claims the Doom Developer Was 'Nerfed Into the Ground' by Xbox Layoffs Are Untrue",
-      "link": "https://www.ign.com/articles/id-software-creative-director-says-claims-the-doom-developer-was-nerfed-into-the-ground-by-xbox-layoffs-are-untrue",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784287865
-    },
-    {
       "title": "The report oil companies are worried about: Climate attribution science",
       "link": "https://arstechnica.com/science/2026/07/national-academies-climate-attribution-is-maturing-but-still-has-limits/",
       "source": "ARSTECHNICA",
@@ -420,13 +434,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1784246574
-    },
-    {
-      "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
-      "link": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784244322
     },
     {
       "title": "SpaceX's Starship Flight 13 test launch aborts at last second (video)",
@@ -497,13 +504,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784218892
-    },
-    {
-      "title": "Stephen Hawking's famous 'leaky' black hole theory gets much-needed update",
-      "link": "https://www.space.com/astronomy/black-holes/stephen-hawkings-famous-leaky-black-hole-theory-gets-much-needed-update",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784217600
     },
     {
       "title": "Argentina return to World Cup final after dramatic comeback; Open Championship in full swing",
