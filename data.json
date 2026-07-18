@@ -1,6 +1,34 @@
 {
-  "last_updated": 1784375932,
+  "last_updated": 1784381832,
   "items": [
+    {
+      "title": "A shattered asteroid may have bombarded Earth 800 million years ago",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260716023559.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784379633
+    },
+    {
+      "title": "'We knew we had a lot to live up to': As 'Aliens' turns 40, we chat to the legendary VFX masters who created the Alien Queen (interview)",
+      "link": "https://www.space.com/entertainment/space-movies-shows/we-knew-we-had-a-lot-to-live-up-to-as-aliens-turns-40-we-chat-to-the-legendary-vfx-masters-who-created-the-alien-queen-interview",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784379600
+    },
+    {
+      "title": "Earth’s biggest volcanic event transformed an entire oceanic plate",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260716023618.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784378163
+    },
+    {
+      "title": "Will AI fix prior authorization—or make it worse?",
+      "link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784373505
+    },
     {
       "title": "Beyond the Perseids: 6 meteor showers worth watching this summer",
       "link": "https://www.space.com/stargazing/meteor-showers/beyond-the-perseids-6-meteor-showers-worth-watching-this-summer",
@@ -28,6 +56,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1784348377
+    },
+    {
+      "title": "NASA’s James Webb catches a supermassive black hole feeding",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260716023601.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784344175
     },
     {
       "title": "Colman Domingo and Robert O’Hara in Talks to Write Live-Action Princess and the Frog Tiana Spinoff Movie",
@@ -366,6 +401,13 @@
       "timestamp": 1784299647
     },
     {
+      "title": "Terraforming Mars may be more realistic than scientists once thought",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260714225535.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784297684
+    },
+    {
       "title": "Adam Silver says it's unfair that Caitlin Clark has become a 'political football in this country'",
       "link": "https://www.cbssports.com/wnba/news/adam-silver-unfair-caitlin-clark-political-football/",
       "source": "CBSSPORTS",
@@ -380,6 +422,13 @@
       "timestamp": 1784296800
     },
     {
+      "title": "“Silly sprinklers” help scientists finally solve Feynman’s famous sprinkler mystery",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260715083535.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784296732
+    },
+    {
       "title": "LeBron James free agency heats up; Lucas Herbert ties major record at Open with 62",
       "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-heats-up-lucas-herbert-ties-major-record-at-open-with-62/",
       "source": "CBSSPORTS",
@@ -387,11 +436,25 @@
       "timestamp": 1784295051
     },
     {
+      "title": "Tiny plastics in drinking water may be making dangerous bacteria stronger",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260714225532.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784294050
+    },
+    {
       "title": "The Perseid meteor shower is here! How to see the best shooting stars this summer",
       "link": "https://www.space.com/stargazing/meteor-showers/the-perseid-meteor-shower-is-here-how-to-see-the-best-shooting-stars-this-summer",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784293200
+    },
+    {
+      "title": "Your fingers may hold a secret of human brain evolution",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260717033350.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784289759
     },
     {
       "title": "Astronauts just launched on a Soyuz rocket with an energy-drink ad on it, continuing a Russian tradition",
@@ -436,6 +499,34 @@
       "timestamp": 1784282400
     },
     {
+      "title": "Koalas nearly went extinct before humans arrived, DNA study reveals",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260715083551.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784281870
+    },
+    {
+      "title": "Scientists built a camera that can track invisible particles in 3D",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784268297
+    },
+    {
+      "title": "New Alzheimer's drug repairs DNA damage and reduces brain inflammation",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260711010118.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784261976
+    },
+    {
+      "title": "This sugar-coated therapy boosted survival against deadly brain cancer by 50% in mice",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260715083542.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784253112
+    },
+    {
       "title": "SpaceX scrubs Starship launch after some of its engines didn't start",
       "link": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
       "source": "ARSTECHNICA",
@@ -455,13 +546,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1784241204
-    },
-    {
-      "title": "HP fined 1.4 billion rupees for “cartelization” of ink cartridges, toner, PCs",
-      "link": "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784239351
     },
     {
       "title": "Pat Riley hints at Heat's LeBron James pursuit while Miami introduces Giannis Antetokounmpo",
@@ -492,13 +576,6 @@
       "timestamp": 1784224800
     },
     {
-      "title": "SpaceX stacks massive Starship rocket ahead of July 20's Flight 13 test launch (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-stacks-massive-starship-rocket-ahead-of-todays-flight-13-test-launch-video",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784221638
-    },
-    {
       "title": "NBA will not punish Bam Adebayo, Tyler Herro after Las Vegas altercation: 'Everyone would prefer to move on'",
       "link": "https://www.cbssports.com/nba/news/bam-adebayo-tyler-herro-fight-nba-punishment/",
       "source": "CBSSPORTS",
@@ -506,11 +583,46 @@
       "timestamp": 1784218892
     },
     {
+      "title": "This ancient sea worm has “bio-metal” jaws unlike anything scientists have seen",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260714225530.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784208573
+    },
+    {
       "title": "Argentina return to World Cup final after dramatic comeback; Open Championship in full swing",
       "link": "https://www.cbssports.com/golf/news/argentina-world-cup-final-comeback-open-championship/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784205994
+    },
+    {
+      "title": "Sun-like star caught after eating one of its own planets",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260715083538.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784199122
+    },
+    {
+      "title": "AI flags more than 250,000 suspicious cancer research papers",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260714225538.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784190319
+    },
+    {
+      "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784175408
+    },
+    {
+      "title": "NASA's James Webb Space Telescope reveals a strange atmosphere on a hellish lava planet",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260712011743.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784171990
     },
     {
       "title": "How and when will LeBron James announce his next team? NBA superstar to record live podcast this week",
