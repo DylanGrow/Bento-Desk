@@ -1,6 +1,20 @@
 {
-  "last_updated": 1784401135,
+  "last_updated": 1784405141,
   "items": [
+    {
+      "title": "Waymo says San Francisco service has resumed after one-hour pause",
+      "link": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784403023
+    },
+    {
+      "title": "Call of Duty Movie to Take Place in the Modern Warfare Universe, Director Confirms",
+      "link": "https://www.ign.com/articles/call-of-duty-movie-to-take-place-in-the-modern-warfare-universe-director-confirms",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784401396
+    },
     {
       "title": "Kimi: Threat or menace?",
       "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
@@ -380,13 +394,6 @@
       "timestamp": 1784305461
     },
     {
-      "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
-      "link": "https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784305089
-    },
-    {
       "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
       "link": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
       "source": "ARSTECHNICA",
@@ -406,13 +413,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1784303548
-    },
-    {
-      "title": "Todd Howard Dismisses 'Fan Chatter' About Purported Rivalry Between Bethesda and Obsidian as the New Vegas Developer Starts Work on a New Fallout Game",
-      "link": "https://www.ign.com/articles/todd-howard-dismisses-fan-chatter-about-purported-rivalry-between-bethesda-and-obsidian-as-the-new-vegas-developer-starts-work-on-a-new-fallout-game",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784303126
     },
     {
       "title": "'The Starry Night' in space: Dark Energy Camera channels a cosmic Van Gogh (video)",
