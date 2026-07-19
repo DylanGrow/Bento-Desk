@@ -1,6 +1,20 @@
 {
-  "last_updated": 1784427946,
+  "last_updated": 1784440124,
   "items": [
+    {
+      "title": "Scientists identify the rare meteorite that killed the dinosaurs 66 million years ago",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260718010142.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784434920
+    },
+    {
+      "title": "Jalen Brunson main events, Karl-Anthony Towns chokeslams WWE superstars in return to Madison Square Garden",
+      "link": "https://www.cbssports.com/nba/news/jalen-brunson-main-events-karl-anthony-towns-chokeslams-wwe-superstars-in-return-to-madison-square-garden/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784428114
+    },
     {
       "title": "Common antidepressant may ease long COVID’s crushing fatigue",
       "link": "https://www.sciencedaily.com/releases/2026/07/260718010158.htm",
@@ -618,13 +632,6 @@
       "timestamp": 1784199122
     },
     {
-      "title": "AI flags more than 250,000 suspicious cancer research papers",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260714225538.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1784190319
-    },
-    {
       "title": "How and when will LeBron James announce his next team? NBA superstar to record live podcast this week",
       "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-decision-podcast/",
       "source": "CBSSPORTS",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784068682
-    },
-    {
-      "title": "LeBron James free agency: What is Plan B for teams that miss out on signing NBA's all-time scoring leader?",
-      "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-plan-b-cavaliers-heat-warriors-76ers/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784061680
     }
   ]
 }
