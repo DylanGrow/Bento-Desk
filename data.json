@@ -1,6 +1,13 @@
 {
-  "last_updated": 1784483769,
+  "last_updated": 1784487887,
   "items": [
+    {
+      "title": "Lu Dort trade grades: Thunder clean up their books; Mavericks take buy-low swing on former No. 1 pick",
+      "link": "https://www.cbssports.com/nba/news/lu-dort-trade-grades-thunder-mavericks-hawks-zaccharie-risacher/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784482829
+    },
     {
       "title": "The Odyssey Blows Box Office Expectations Out of the Water With $264.1 Million Opening Weekend",
       "link": "https://www.ign.com/articles/the-odyssey-blows-box-office-expectations-out-of-the-water-with-2641-million-opening-weekend",
@@ -37,17 +44,17 @@
       "timestamp": 1784472728
     },
     {
-      "title": "How Christopher Nolan's 'Interstellar' turned general relativity into the bad guy",
-      "link": "https://www.space.com/entertainment/space-movies-shows/how-christopher-nolans-interstellar-turned-general-relativity-into-the-bad-guy",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784469600
-    },
-    {
       "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
       "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
       "source": "TECHCRUNCH",
       "category": "tech",
+      "timestamp": 1784469600
+    },
+    {
+      "title": "How Christopher Nolan's 'Interstellar' turned general relativity into the bad guy",
+      "link": "https://www.space.com/entertainment/space-movies-shows/how-christopher-nolans-interstellar-turned-general-relativity-into-the-bad-guy",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1784469600
     },
     {
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784089412
-    },
-    {
-      "title": "From NBA Summer League back to college basketball? NCAA coaches bracing for more roster chaos",
-      "link": "https://www.cbssports.com/college-basketball/news/from-nba-summer-league-back-to-college-basketball-ncaa-coaches-bracing-for-more-roster-chaos/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784068682
     }
   ]
 }
