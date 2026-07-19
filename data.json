@@ -1,6 +1,20 @@
 {
-  "last_updated": 1784480097,
+  "last_updated": 1784483769,
   "items": [
+    {
+      "title": "The Odyssey Blows Box Office Expectations Out of the Water With $264.1 Million Opening Weekend",
+      "link": "https://www.ign.com/articles/the-odyssey-blows-box-office-expectations-out-of-the-water-with-2641-million-opening-weekend",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784481946
+    },
+    {
+      "title": "'Aliens' at 40: James Cameron's sequel is a sci-fi icon, but did you know he quit the movie twice?",
+      "link": "https://www.space.com/entertainment/space-movies-shows/aliens-at-40-james-camerons-sequel-is-a-sci-fi-icon-but-did-you-know-he-quit-the-movie-twice",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784480400
+    },
     {
       "title": "TechCrunch Mobility: The battle over robotaxi rules",
       "link": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
@@ -23,17 +37,17 @@
       "timestamp": 1784472728
     },
     {
-      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784469600
-    },
-    {
       "title": "How Christopher Nolan's 'Interstellar' turned general relativity into the bad guy",
       "link": "https://www.space.com/entertainment/space-movies-shows/how-christopher-nolans-interstellar-turned-general-relativity-into-the-bad-guy",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1784469600
+    },
+    {
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
       "timestamp": 1784469600
     },
     {
@@ -422,13 +436,6 @@
       "timestamp": 1784313361
     },
     {
-      "title": "Marathon Game Director Joseph Ziegler Is Leaving Bungie",
-      "link": "https://www.ign.com/articles/marathon-game-director-joseph-ziegler-is-leaving-bungie",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784311223
-    },
-    {
       "title": "'Aliens' at 40: Here are 26 reasons why James Cameron's sequel is still the greatest sci-fi action movie of all time",
       "link": "https://www.space.com/entertainment/space-movies-shows/aliens-at-40-here-are-26-reasons-why-james-camerons-sequel-is-still-the-greatest-sci-fi-action-movie-of-all-time",
       "source": "SPACE",
@@ -497,13 +504,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1784303548
-    },
-    {
-      "title": "'The Starry Night' in space: Dark Energy Camera channels a cosmic Van Gogh (video)",
-      "link": "https://www.space.com/astronomy/stars/the-starry-night-in-space-dark-energy-camera-channels-a-cosmic-van-gogh-video",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784300429
     },
     {
       "title": "Terraforming Mars may be more realistic than scientists once thought",
