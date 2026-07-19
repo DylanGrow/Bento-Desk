@@ -1,19 +1,19 @@
 {
-  "last_updated": 1784472738,
+  "last_updated": 1784476475,
   "items": [
+    {
+      "title": "Should we trust AI in the search for alien life? Scientists aren't so sure",
+      "link": "https://www.space.com/space-exploration/search-for-life/should-we-trust-ai-in-the-search-for-alien-life-scientists-arent-so-sure",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784473200
+    },
     {
       "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
       "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1784472728
-    },
-    {
-      "title": "How Christopher Nolan's 'Interstellar' turned general relativity into the bad guy",
-      "link": "https://www.space.com/entertainment/space-movies-shows/how-christopher-nolans-interstellar-turned-general-relativity-into-the-bad-guy",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784469600
     },
     {
       "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
@@ -23,11 +23,32 @@
       "timestamp": 1784469600
     },
     {
+      "title": "How Christopher Nolan's 'Interstellar' turned general relativity into the bad guy",
+      "link": "https://www.space.com/entertainment/space-movies-shows/how-christopher-nolans-interstellar-turned-general-relativity-into-the-bad-guy",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784469600
+    },
+    {
+      "title": "A tiny universe in a bottle reveals clues to the origins of life",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260718010156.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784466621
+    },
+    {
       "title": "10 places in the US and Canada to see August's partial solar eclipse and Perseid meteor shower in 1 trip",
       "link": "https://www.space.com/stargazing/10-places-in-the-us-and-canada-to-see-augusts-partial-solar-eclipse-and-perseid-meteor-shower-in-1-trip",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784466000
+    },
+    {
+      "title": "The mysterious hum heard around the world may finally have an explanation",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260719040002.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784462833
     },
     {
       "title": "James Webb Space Telescope discovers how black holes feed themselves",
@@ -499,13 +520,6 @@
       "timestamp": 1784297423
     },
     {
-      "title": "Smoke from devastating Canada wildfires visible from space | Space photo of the day for July 17, 2026",
-      "link": "https://www.space.com/astronomy/earth/smoke-from-devastating-canada-wildfires-visible-from-space-space-photo-of-the-day-for-july-17-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784296800
-    },
-    {
       "title": "“Silly sprinklers” help scientists finally solve Feynman’s famous sprinkler mystery",
       "link": "https://www.sciencedaily.com/releases/2026/07/260715083535.htm",
       "source": "SCIENCEDAILY",
@@ -583,13 +597,6 @@
       "timestamp": 1784261976
     },
     {
-      "title": "This sugar-coated therapy boosted survival against deadly brain cancer by 50% in mice",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260715083542.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1784253112
-    },
-    {
       "title": "SpaceX scrubs Starship launch after some of its engines didn't start",
       "link": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
       "source": "ARSTECHNICA",
@@ -616,13 +623,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784218892
-    },
-    {
-      "title": "This ancient sea worm has “bio-metal” jaws unlike anything scientists have seen",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260714225530.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1784208573
     },
     {
       "title": "Argentina return to World Cup final after dramatic comeback; Open Championship in full swing",
