@@ -1,6 +1,104 @@
 {
-  "last_updated": 1784549851,
+  "last_updated": 1784560150,
   "items": [
+    {
+      "title": "Hackers stole ‘significant’ amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
+      "link": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784559680
+    },
+    {
+      "title": "Artemis II was an incredible reminder of our shared humanity just when we needed it most (op-ed)",
+      "link": "https://www.space.com/space-exploration/artemis/artemis-ii-was-an-incredible-reminder-of-our-shared-humanity-just-when-we-needed-it-most-op-ed",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784559600
+    },
+    {
+      "title": "The first trailer for Avengers: Doomsday is finally here",
+      "link": "https://arstechnica.com/culture/2026/07/the-first-trailer-for-avengers-doomsday-is-finally-here/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784558026
+    },
+    {
+      "title": "Watch Flock Safety CEO Garrett Langley discuss the future of surveillance at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784557800
+    },
+    {
+      "title": "Get stabilized views of the cosmos with the Canon 18x50 IS binoculars, now almost 30% off",
+      "link": "https://www.space.com/stargazing/skywatching-kit/get-stabilized-views-of-the-cosmos-with-the-canon-18x50-is-binoculars-now-almost-30-percent-off",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784557646
+    },
+    {
+      "title": "Marvel's Ominous Avengers: Doomsday Poster Makes Doctor Doom's Motivations Clear",
+      "link": "https://www.ign.com/articles/marvels-ominous-avengers-doomsday-poster-makes-doctor-dooms-motivations-clear",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784556114
+    },
+    {
+      "title": "Pay up or not? Ransomware surge has victims facing tough choices",
+      "link": "https://arstechnica.com/security/2026/07/pay-up-or-not-ransomware-surge-has-victims-facing-tough-choices/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784556050
+    },
+    {
+      "title": "Ancient sandstorm leaves behind wreckage on Mars | Space photo of the day for July 20, 2026",
+      "link": "https://www.space.com/astronomy/mars/ancient-sandstorm-leaves-behind-wreckage-on-mars-space-photo-of-the-day-for-july-20-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784556000
+    },
+    {
+      "title": "Some dinosaurs could rise like giants until they grew too big",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260719231758.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784553824
+    },
+    {
+      "title": "First Proper Avengers: Doomsday Trailer Reveals Thor, Steve Rogers, and Doctor Doom Himself",
+      "link": "https://www.ign.com/articles/first-proper-avengers-doomsday-trailer-reveals-thor-steve-rogers-and-doctor-doom-himself",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784552893
+    },
+    {
+      "title": "Rocket launch costs have dropped 96% since 1960. How low can they go?",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-launch-costs-have-dropped-96-percent-since-1960-how-low-can-they-go",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784552400
+    },
+    {
+      "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
+      "link": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784551168
+    },
+    {
+      "title": "StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community",
+      "link": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784550600
+    },
+    {
+      "title": "Gears of War Designer Cliff Bleszinski Reveals Struggle With Alcoholism, Discusses the Failure of LawBreakers and Potential Return to Video Game Development",
+      "link": "https://www.ign.com/articles/gears-of-war-designer-cliff-bleszinski-reveals-struggle-with-alcoholism-discusses-the-failure-of-lawbreakers-and-potential-return-to-video-game-development",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784550470
+    },
     {
       "title": "Did Viking 1 find life on Mars 50 years ago? Here's why the debate continues",
       "link": "https://www.space.com/astronomy/mars/did-viking-1-find-life-on-mars-50-years-ago-heres-why-the-debate-continues",
@@ -51,6 +149,13 @@
       "timestamp": 1784542180
     },
     {
+      "title": "Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784541934
+    },
+    {
       "title": "An artificial 'Saturn's ring' of satellites could soon fill the sky, astronomers warn",
       "link": "https://www.space.com/space-exploration/satellites/an-artificial-saturns-ring-of-satellites-could-soon-fill-the-sky-astronomers-warn",
       "source": "SPACE",
@@ -70,6 +175,27 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1784538245
+    },
+    {
+      "title": "An ordinary laptop solved a problem thought to require a quantum computer",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260719040000.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784533209
+    },
+    {
+      "title": "UCLA scientists develop mineral sunscreen without the chalky white cast",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260718010200.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784518332
+    },
+    {
+      "title": "Scientists found two powerful new ways to destroy forever chemicals",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260718010147.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1784514681
     },
     {
       "title": "Call of Duty Ambience Website Lets You Fall Asleep to Nostalgic Black Ops and MW2 Lobbies",
@@ -268,13 +394,6 @@
       "timestamp": 1784403023
     },
     {
-      "title": "Call of Duty Movie to Take Place in the Modern Warfare Universe, Director Confirms",
-      "link": "https://www.ign.com/articles/call-of-duty-movie-to-take-place-in-the-modern-warfare-universe-director-confirms",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784401396
-    },
-    {
       "title": "Kimi: Threat or menace?",
       "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
       "source": "TECHCRUNCH",
@@ -282,14 +401,7 @@
       "timestamp": 1784400667
     },
     {
-      "title": "Disco Elysium Dev ZA/UM Announces Layoffs Affecting Up to 32 Staff",
-      "link": "https://www.ign.com/articles/disco-elysium-dev-zaum-announces-layoffs-affecting-up-to-32-staff",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784393544
-    },
-    {
-      "title": "All the EVs that were discontinued or killed off in the U.S. this year",
+      "title": "All the EVs that were discontinued or killed off in the US this year",
       "link": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -366,13 +478,6 @@
       "timestamp": 1784368800
     },
     {
-      "title": "Christopher Nolan Says It Will Be 'At Least' 3 Years Before We See His Next Film, After The Odyssey Pushed Him to His Limits",
-      "link": "https://www.ign.com/articles/christopher-nolan-says-it-will-be-at-least-3-years-before-we-see-his-next-film-after-the-odyssey-pushed-him-to-his-limits",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784367196
-    },
-    {
       "title": "Neil Rimer thinks the AI money is coming back out",
       "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
       "source": "TECHCRUNCH",
@@ -385,48 +490,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1784344175
-    },
-    {
-      "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
-      "link": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784329680
-    },
-    {
-      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784328909
-    },
-    {
-      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784326376
-    },
-    {
-      "title": "Remembering 'Ulysses 31', the '80s cartoon that transported 'The Odyssey' to outer space",
-      "link": "https://www.space.com/entertainment/space-movies-shows/remembering-ulysses-31-the-80s-cartoon-that-transported-the-odyssey-to-outer-space",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784325600
-    },
-    {
-      "title": "The Zoom hack that says, ‘Don’t record me’",
-      "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784323247
-    },
-    {
-      "title": "These 'metallic' dunes on Mars look like sci-fi. What are they really?",
-      "link": "https://www.space.com/astronomy/mars/these-metallic-dunes-on-mars-look-like-sci-fi-what-are-they-really",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784322000
     },
     {
       "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
@@ -450,13 +513,6 @@
       "timestamp": 1784314927
     },
     {
-      "title": "The Perseid meteor shower starts this week. Here's why you should look up now",
-      "link": "https://www.space.com/stargazing/meteor-showers/the-perseid-meteor-shower-starts-this-week-heres-why-you-should-look-up-now",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784314800
-    },
-    {
       "title": "Hegseth wants a \"High-T\" military; doctors call it a clinical minefield",
       "link": "https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/",
       "source": "ARSTECHNICA",
@@ -469,13 +525,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1784313923
-    },
-    {
-      "title": "'Aliens' at 40: Here are 26 reasons why James Cameron's sequel is still the greatest sci-fi action movie of all time",
-      "link": "https://www.space.com/entertainment/space-movies-shows/aliens-at-40-here-are-26-reasons-why-james-camerons-sequel-is-still-the-greatest-sci-fi-action-movie-of-all-time",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784311200
     },
     {
       "title": "NBA Summer League grades for every lottery pick: AJ Dybantsa earns 'A' as heralded rookie class shines",
@@ -555,60 +604,11 @@
       "timestamp": 1784295051
     },
     {
-      "title": "Tiny plastics in drinking water may be making dangerous bacteria stronger",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260714225532.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1784294050
-    },
-    {
-      "title": "Your fingers may hold a secret of human brain evolution",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260717033350.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1784289759
-    },
-    {
       "title": "The report oil companies are worried about: Climate attribution science",
       "link": "https://arstechnica.com/science/2026/07/national-academies-climate-attribution-is-maturing-but-still-has-limits/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1784287810
-    },
-    {
-      "title": "FCC took pricey gifts from Paramount as the company needed approval for deals",
-      "link": "https://arstechnica.com/tech-policy/2026/07/fcc-took-pricey-gifts-from-paramount-as-the-company-needed-approval-for-deals/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784286955
-    },
-    {
-      "title": "2026 Lucid Gravity Touring review: A strong act 2",
-      "link": "https://arstechnica.com/cars/2026/07/2026-lucid-gravity-touring-review-a-strong-act-2/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784286030
-    },
-    {
-      "title": "Koalas nearly went extinct before humans arrived, DNA study reveals",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260715083551.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1784281870
-    },
-    {
-      "title": "Scientists built a camera that can track invisible particles in 3D",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1784268297
-    },
-    {
-      "title": "New Alzheimer's drug repairs DNA damage and reduces brain inflammation",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260711010118.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1784261976
     },
     {
       "title": "Pat Riley hints at Heat's LeBron James pursuit while Miami introduces Giannis Antetokounmpo",
