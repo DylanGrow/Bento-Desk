@@ -1,6 +1,48 @@
 {
-  "last_updated": 1784581721,
+  "last_updated": 1784588208,
   "items": [
+    {
+      "title": "DC Announces New Tag Fighting Game And Injustice Fans Are Confused",
+      "link": "https://www.ign.com/articles/dc-announces-new-tag-fighting-game-and-injustice-fans-are-confused",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784586974
+    },
+    {
+      "title": "Trump’s latest AI czar has already resigned",
+      "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784586064
+    },
+    {
+      "title": "Warhammer 40,000: Dawn of War IV Necron CGI Trailer Stomps All Over the Adeptus Mechanicus Trailer, but the Orks Trailer Is Still My Favorite",
+      "link": "https://www.ign.com/articles/warhammer-40000-dawn-of-war-iv-necron-cgi-trailer-stomps-all-over-the-adeptus-mechanicus-trailer-but-the-orks-trailer-is-still-my-favorite",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784583148
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 4 Beta Dates Confirmed",
+      "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-beta-dates-confirmed",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784582595
+    },
+    {
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784582475
+    },
+    {
+      "title": "Inde Navarrette Stunned After Fan Gifts Her a Rare Sealed Copy of Modern Warfare 2",
+      "link": "https://www.ign.com/articles/inde-navarrette-stunned-after-fan-gifts-her-a-rare-sealed-copy-of-modern-warfare-2",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784581805
+    },
     {
       "title": "The 1st 'Avengers: Doomsday' trailer is here, and it's stuffed to bursting with superheroes",
       "link": "https://www.space.com/entertainment/space-movies-shows/the-1st-avengers-doomsday-trailer-is-here-and-its-stuffed-to-bursting-with-superheroes",
@@ -14,6 +56,13 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784581200
+    },
+    {
+      "title": "Pat Riley knows he had to 'let go' after LeBron James left Heat: 'I thought we were looking at a dynasty'",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-heat-pat-riley-legacy/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784581117
     },
     {
       "title": "AI’s most important protocol is getting a little bit easier to use",
@@ -128,17 +177,17 @@
       "timestamp": 1784568739
     },
     {
-      "title": "'Stranger Things' at 10: The Netflix streaming icon that made it cool to like science again",
-      "link": "https://www.space.com/entertainment/space-movies-shows/stranger-things-at-10-the-netflix-streaming-icon-that-made-it-cool-to-like-science-again",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784566800
-    },
-    {
       "title": "Rehaunted, a First-Person Psychological Horror Detective Game, Announced for PC",
       "link": "https://www.ign.com/articles/rehaunted-a-first-person-psychological-horror-detective-game-announced-for-pc",
       "source": "IGN",
       "category": "gaming",
+      "timestamp": 1784566800
+    },
+    {
+      "title": "'Stranger Things' at 10: The Netflix streaming icon that made it cool to like science again",
+      "link": "https://www.space.com/entertainment/space-movies-shows/stranger-things-at-10-the-netflix-streaming-icon-that-made-it-cool-to-like-science-again",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1784566800
     },
     {
@@ -310,13 +359,6 @@
       "timestamp": 1784553824
     },
     {
-      "title": "First Proper Avengers: Doomsday Trailer Reveals Thor, Steve Rogers, and Doctor Doom Himself",
-      "link": "https://www.ign.com/articles/first-proper-avengers-doomsday-trailer-reveals-thor-steve-rogers-and-doctor-doom-himself",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784552893
-    },
-    {
       "title": "Rocket launch costs have dropped 96% since 1960. How low can they go?",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-launch-costs-have-dropped-96-percent-since-1960-how-low-can-they-go",
       "source": "SPACE",
@@ -338,13 +380,6 @@
       "timestamp": 1784550600
     },
     {
-      "title": "Gears of War Designer Cliff Bleszinski Reveals Struggle With Alcoholism, Discusses the Failure of LawBreakers and Potential Return to Video Game Development",
-      "link": "https://www.ign.com/articles/gears-of-war-designer-cliff-bleszinski-reveals-struggle-with-alcoholism-discusses-the-failure-of-lawbreakers-and-potential-return-to-video-game-development",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784550470
-    },
-    {
       "title": "Did Viking 1 find life on Mars 50 years ago? Here's why the debate continues",
       "link": "https://www.space.com/astronomy/mars/did-viking-1-find-life-on-mars-50-years-ago-heres-why-the-debate-continues",
       "source": "SPACE",
@@ -352,25 +387,11 @@
       "timestamp": 1784548800
     },
     {
-      "title": "Slowpoke Just Got a New Pokémon Trading Card Game Move, And It's Called 'All-You-Can-Yeet'",
-      "link": "https://www.ign.com/articles/slowpoke-just-got-a-new-pokemon-trading-card-game-move-and-its-called-all-you-can-yeet",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784547590
-    },
-    {
       "title": "Beyond grep: The case for a context-rich AI coding harness",
       "link": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1784546410
-    },
-    {
-      "title": "'Three Distinct Universes': Avengers: Doomsday Official Plot Description Teases Scale and Scope",
-      "link": "https://www.ign.com/articles/three-distinct-universes-avengers-doomsday-official-plot-description-teases-scale-and-scope",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784545687
     },
     {
       "title": "Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
@@ -420,20 +441,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1784497500
-    },
-    {
-      "title": "What to watch for after Jensen Huang’s Japan visit",
-      "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784495767
-    },
-    {
-      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784489085
     },
     {
       "title": "Lu Dort trade grades: Thunder clean up their books; Mavericks take buy-low swing on former No. 1 pick",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784134812
-    },
-    {
-      "title": "Explaining four most confusing moves of NBA offseason: Gary Trent for $64M? Two years for DeAndre Jordan?",
-      "link": "https://www.cbssports.com/nba/news/most-confusing-moves-nba-offseason-gary-trent/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784134073
     }
   ]
 }
