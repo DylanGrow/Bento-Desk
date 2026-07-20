@@ -1,6 +1,62 @@
 {
-  "last_updated": 1784576907,
+  "last_updated": 1784581721,
   "items": [
+    {
+      "title": "The 1st 'Avengers: Doomsday' trailer is here, and it's stuffed to bursting with superheroes",
+      "link": "https://www.space.com/entertainment/space-movies-shows/the-1st-avengers-doomsday-trailer-is-here-and-its-stuffed-to-bursting-with-superheroes",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784581509
+    },
+    {
+      "title": "SpaceX targets July 23 for crucial Starship Flight 13 test launch after abort",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-targets-july-23-for-crucial-starship-flight-13-test-launch-after-abort",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784581200
+    },
+    {
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784580640
+    },
+    {
+      "title": "The Space Force is now seeking to buy up to $30 billion in rocket launches",
+      "link": "https://arstechnica.com/science/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784579425
+    },
+    {
+      "title": "Kevin Feige Denies the MCU Will Reboot With Secret Wars, Points to 2015 Comic as 'Nice Roadmap' for the Future",
+      "link": "https://www.ign.com/articles/kevin-feige-denies-the-mcu-will-reboot-with-secret-wars-points-to-2015-comic-as-nice-roadmap-for-the-future",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784579001
+    },
+    {
+      "title": "District 9 Director Neill Blomkamp Faces Backlash Over AI-Generated Zombie Short Film",
+      "link": "https://www.ign.com/articles/district-9-director-neill-blomkamp-faces-backlash-over-ai-generated-zombie-short-film",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784577862
+    },
+    {
+      "title": "Scientists discover mystery molecule on Pluto and Saturn's moon Titan: 'We cannot say what it is'",
+      "link": "https://www.space.com/astronomy/james-webb-space-telescope/scientists-discover-mystery-molecule-on-pluto-and-saturns-moon-titan-we-cannot-say-what-it-is",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784577600
+    },
+    {
+      "title": "The Lakers are signing Matisse Thybulle, which creates a roster crunch a Bronny James trade could solve",
+      "link": "https://www.cbssports.com/nba/news/lakers-signing-matisse-thybulle-roster-bronny-james-trade/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784576335
+    },
     {
       "title": "X relaunches a rebuilt Android app after year-long effort",
       "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
@@ -16,6 +72,13 @@
       "timestamp": 1784576005
     },
     {
+      "title": "AT&T loses key ruling in bid to stop offering basic phone service in California",
+      "link": "https://arstechnica.com/tech-policy/2026/07/att-loses-key-ruling-in-bid-to-stop-offering-basic-phone-service-in-california/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784575249
+    },
+    {
       "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
       "link": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
       "source": "TECHCRUNCH",
@@ -28,6 +91,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1784572002
+    },
+    {
+      "title": "RIP bargain bin: The price impact of Sony's disc-free PlayStation plan",
+      "link": "https://arstechnica.com/gaming/2026/07/our-playstation-price-analysis-shows-why-physical-games-still-matter/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784570765
     },
     {
       "title": "50 years after Viking 1's historic Mars landing, NASA is looking to the Red Planet's skies",
@@ -303,20 +373,6 @@
       "timestamp": 1784545687
     },
     {
-      "title": "Bethesda Chief Todd Howard Issues Rare Reddit Comment, Fans Immediately Call for The Elder Scrolls IV: Oblivion Remastered Patch",
-      "link": "https://www.ign.com/articles/bethesda-chief-todd-howard-issues-rare-reddit-comment-fans-immediately-call-for-the-elder-scrolls-iv-oblivion-remastered-patch",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784545674
-    },
-    {
-      "title": "Dragonlance: War Wizard Is the Next Novel in the Legendary Fantasy Series From Margaret Weis and Tracy Hickman — and We’ve Got an Exclusive Excerpt",
-      "link": "https://www.ign.com/articles/dragonlance-war-wizard-is-the-next-novel-in-the-legendary-fantasy-series-from-margaret-weis-and-tracy-hickman-and-weve-got-an-exclusive-excerpt",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784542638
-    },
-    {
       "title": "Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
       "link": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm",
       "source": "SCIENCEDAILY",
@@ -394,13 +450,6 @@
       "timestamp": 1784480400
     },
     {
-      "title": "TechCrunch Mobility: The battle over robotaxi rules",
-      "link": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784477100
-    },
-    {
       "title": "Should we trust AI in the search for alien life? Scientists aren't so sure",
       "link": "https://www.space.com/space-exploration/search-for-life/should-we-trust-ai-in-the-search-for-alien-life-scientists-arent-so-sure",
       "source": "SPACE",
@@ -422,13 +471,6 @@
       "timestamp": 1784466621
     },
     {
-      "title": "10 places in the US and Canada to see August's partial solar eclipse and Perseid meteor shower in 1 trip",
-      "link": "https://www.space.com/stargazing/10-places-in-the-us-and-canada-to-see-augusts-partial-solar-eclipse-and-perseid-meteor-shower-in-1-trip",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784466000
-    },
-    {
       "title": "The mysterious hum heard around the world may finally have an explanation",
       "link": "https://www.sciencedaily.com/releases/2026/07/260719040002.htm",
       "source": "SCIENCEDAILY",
@@ -436,25 +478,11 @@
       "timestamp": 1784462833
     },
     {
-      "title": "James Webb Space Telescope discovers how black holes feed themselves",
-      "link": "https://www.space.com/astronomy/black-holes/james-webb-space-telescope-discovers-how-black-holes-feed-themselves",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784462400
-    },
-    {
       "title": "As mosquito ranges expand, better monitoring is key to preventing disease",
       "link": "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1784459971
-    },
-    {
-      "title": "Scientists told them, 'No, it's too dangerous,' but they did it anyway: Inside Japan's super-close asteroid flyby",
-      "link": "https://www.space.com/space-exploration/asteroid-comet-missions/scientists-told-them-no-its-too-dangerous-but-they-did-it-anyway-inside-japans-super-close-asteroid-flyby",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784455200
     },
     {
       "title": "Scientists just discovered a lost branch of Australia’s marsupials",
@@ -569,32 +597,11 @@
       "timestamp": 1784308085
     },
     {
-      "title": "Will Russia's answer to the Falcon 9 rocket ever take flight?",
-      "link": "https://arstechnica.com/space/2026/07/will-russias-answer-to-the-falcon-9-rocket-ever-take-flight/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784306539
-    },
-    {
       "title": "Three ripple effects of LeBron James' lengthy free agency, and why Adam Silver is anxious for a decision",
       "link": "https://www.cbssports.com/nba/news/ripple-effects-lebron-james-lengthy-free-agency/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784305821
-    },
-    {
-      "title": "Fubo hikes prices by $15 after restoring some NBCU channels lost in November",
-      "link": "https://arstechnica.com/gadgets/2026/07/fubo-hikes-prices-by-15-after-restoring-some-nbcu-channels-lost-in-november/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784305461
-    },
-    {
-      "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
-      "link": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784304605
     },
     {
       "title": "Terraforming Mars may be more realistic than scientists once thought",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784134073
-    },
-    {
-      "title": "NBA Summer League winners and losers: Brayden Burries looks like key piece as Bucks enter new era",
-      "link": "https://www.cbssports.com/nba/news/nba-summer-league-winners-losers-brayden-burries-cody-williams-dailyn-swain/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784125263
     }
   ]
 }
