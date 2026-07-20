@@ -1,6 +1,139 @@
 {
-  "last_updated": 1784560150,
+  "last_updated": 1784570288,
   "items": [
+    {
+      "title": "Masters of the Universe Is Coming to Prime Video This Week",
+      "link": "https://www.ign.com/articles/masters-of-the-universe-prime-video-streaming-release-date",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784569034
+    },
+    {
+      "title": "Paramount and Warner Bros. Merger Paused for at Least 2 Weeks by Judge",
+      "link": "https://www.ign.com/articles/paramount-and-warner-bros-merger-paused-for-at-least-2-weeks-by-judge",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784568739
+    },
+    {
+      "title": "'Stranger Things' at 10: The Netflix streaming icon that made it cool to like science again",
+      "link": "https://www.space.com/entertainment/space-movies-shows/stranger-things-at-10-the-netflix-streaming-icon-that-made-it-cool-to-like-science-again",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784566800
+    },
+    {
+      "title": "Rehaunted, a First-Person Psychological Horror Detective Game, Announced for PC",
+      "link": "https://www.ign.com/articles/rehaunted-a-first-person-psychological-horror-detective-game-announced-for-pc",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784566800
+    },
+    {
+      "title": "All-NBA Summer League teams: Top four picks all show out in Vegas, Cavs' second rounder shines, Bucks have MVP",
+      "link": "https://www.cbssports.com/nba/news/all-nba-summer-league-teams-2026/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784566323
+    },
+    {
+      "title": "Spider-Man: Brand New Day Star Sadie Sink Asked About Jean Grey Rumor, Tries to Respond Without Spoiling Anything",
+      "link": "https://www.ign.com/articles/spider-man-brand-new-day-star-sadie-sink-asked-about-jean-grey-rumor-tries-to-respond-without-spoiling-anything",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784564126
+    },
+    {
+      "title": "Twice in a row: SpaceX rocket aborts launch at last second again (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-abort-falcon-9-starlink-satellites-vandenberg",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784563780
+    },
+    {
+      "title": "GameStop CEO Ryan Cohen Continues Push to Buy eBay, Bumps Ownership to 10%",
+      "link": "https://www.ign.com/articles/gamestop-ceo-ryan-cohen-continues-push-to-buy-ebay-bumps-ownership-to-10",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784563676
+    },
+    {
+      "title": "Four astronauts, 3 spacecraft, 2 weeks in orbit: Artemis III will be NASA's most complicated mission ever",
+      "link": "https://www.space.com/space-exploration/artemis/four-astronauts-3-spacecraft-2-weeks-in-orbit-artemis-iii-will-be-nasas-most-complicated-mission-ever",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784563200
+    },
+    {
+      "title": "F1 in Belgium: Machine learning algorithms are ruining the sport",
+      "link": "https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784563158
+    },
+    {
+      "title": "Adobe camera app’s new feature will critique your photos using AI",
+      "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784562300
+    },
+    {
+      "title": "Hackers are exploiting recently patched WordPress bugs, putting millions of websites at risk",
+      "link": "https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784561737
+    },
+    {
+      "title": "AliExpress hit with record $625M fine after failing to make EU-ordered fixes",
+      "link": "https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784561565
+    },
+    {
+      "title": "Marvel Studios Boss Kevin Feige Feels Like a 'Gigantic Loser and Failure' Over Doomed Blade Reboot With Mahershala Ali",
+      "link": "https://www.ign.com/articles/marvel-studios-boss-kevin-feige-feels-like-a-gigantic-loser-and-failure-over-doomed-blade-reboot-with-mahershala-ali",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784561449
+    },
+    {
+      "title": "Ryan Reynolds Teases Deadpool 4, Hints There's Still a 'Few Deep Cuts' to Adapt From the Comics",
+      "link": "https://www.ign.com/articles/ryan-reynolds-teases-deadpool-4-hints-theres-still-a-few-deep-cuts-to-adapt-from-the-comics",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784561420
+    },
+    {
+      "title": "NBA offseason grades for every East team: 76ers, Hornets ace moves, Celtics among many in C- range",
+      "link": "https://www.cbssports.com/nba/news/nba-offseason-grades-for-every-east-team-2026-76ers-celtics/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784560990
+    },
+    {
+      "title": "YouTube clarifies policies around AI slop and upsetting videos",
+      "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784560986
+    },
+    {
+      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
+      "link": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784560500
+    },
+    {
+      "title": "Kevin Feige Says Star Wars Actor Adam Driver Turning Down Marvel Roles Has Become a 'Tradition,' as X-Men Rumors Swirl",
+      "link": "https://www.ign.com/articles/kevin-feige-says-star-wars-actor-adam-driver-turning-down-marvel-roles-has-become-a-tradition-as-x-men-rumors-swirl",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784559922
+    },
     {
       "title": "Hackers stole ‘significant’ amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
       "link": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/",
@@ -44,7 +177,7 @@
       "timestamp": 1784556114
     },
     {
-      "title": "Pay up or not? Ransomware surge has victims facing tough choices",
+      "title": "Pay up or not? Ransomware surge has victims facing tough choices.",
       "link": "https://arstechnica.com/security/2026/07/pay-up-or-not-ransomware-surge-has-victims-facing-tough-choices/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -163,20 +296,6 @@
       "timestamp": 1784541600
     },
     {
-      "title": "Greek Translator Who Christopher Nolan Cited as Inspiration for The Odyssey Recommends People See the Film, but Has a Few Issues With the Changes He Made",
-      "link": "https://www.ign.com/articles/greek-translator-who-christopher-nolan-cited-as-inspiration-for-the-odyssey-recommends-people-see-the-film-but-has-a-few-issues-with-the-changes-he-made",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784539723
-    },
-    {
-      "title": "'How Long Do We Have?' — Marvel Just Posted a Brief Avengers: Doomsday Teaser, And It Sounds Like The Fantastic Four Are Under Pressure",
-      "link": "https://www.ign.com/articles/how-long-do-we-have-marvel-just-posted-a-brief-avengers-doomsday-teaser-and-it-sounds-like-the-fantastic-four-are-under-pressure",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784538245
-    },
-    {
       "title": "An ordinary laptop solved a problem thought to require a quantum computer",
       "link": "https://www.sciencedaily.com/releases/2026/07/260719040000.htm",
       "source": "SCIENCEDAILY",
@@ -198,14 +317,7 @@
       "timestamp": 1784514681
     },
     {
-      "title": "Call of Duty Ambience Website Lets You Fall Asleep to Nostalgic Black Ops and MW2 Lobbies",
-      "link": "https://www.ign.com/articles/call-of-duty-ambience-website-lets-you-fall-asleep-to-nostalgic-black-ops-and-mw2-lobbies",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784502343
-    },
-    {
-      "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
+      "title": "India's first privately developed rocket reaches orbit on dramatic debut launch",
       "link": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -217,13 +329,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1784497500
-    },
-    {
-      "title": "World of Warcraft and RuneScape Fans Want Official Jimothy Support After Game Devs Show Love for Viral Raccoon",
-      "link": "https://www.ign.com/articles/world-of-warcraft-and-runescape-fans-want-official-jimothy-support-after-game-devs-show-love-for-viral-raccoon",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784497367
     },
     {
       "title": "What to watch for after Jensen Huang’s Japan visit",
@@ -240,25 +345,11 @@
       "timestamp": 1784489085
     },
     {
-      "title": "Xbox Says More Exclusives Are Coming But Tells Players Not to 'Overly Fixate on Single-Player' Games",
-      "link": "https://www.ign.com/articles/xbox-says-more-exclusives-are-coming-but-tells-players-not-to-overly-fixate-on-single-player-games",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784488557
-    },
-    {
       "title": "Lu Dort trade grades: Thunder clean up their books; Mavericks take buy-low swing on former No. 1 pick",
       "link": "https://www.cbssports.com/nba/news/lu-dort-trade-grades-thunder-mavericks-hawks-zaccharie-risacher/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784482829
-    },
-    {
-      "title": "The Odyssey Blows Box Office Expectations Out of the Water With $264.1 Million Opening Weekend",
-      "link": "https://www.ign.com/articles/the-odyssey-blows-box-office-expectations-out-of-the-water-with-2641-million-opening-weekend",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784481946
     },
     {
       "title": "'Aliens' at 40: James Cameron's sequel is a sci-fi icon, but did you know he quit the movie twice?",
@@ -373,20 +464,6 @@
       "timestamp": 1784426133
     },
     {
-      "title": "Matt Damon Wants New Jason Bourne Movie to 'Be Like the First 3' as Work With Conclave Director Continues",
-      "link": "https://www.ign.com/articles/matt-damon-wants-new-jason-bourne-movie-to-be-like-the-first-3-as-work-with-conclave-director-continues",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784415250
-    },
-    {
-      "title": "Steam Machine Engineers at Valve Signal Grim Future as Memory Crisis Is 'Still Getting Worse'",
-      "link": "https://www.ign.com/articles/steam-machine-engineers-at-valve-signal-grim-future-as-memory-crisis-is-still-getting-worse",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784409112
-    },
-    {
       "title": "Waymo says San Francisco service has resumed after one-hour pause",
       "link": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
       "source": "TECHCRUNCH",
@@ -399,27 +476,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1784400667
-    },
-    {
-      "title": "All the EVs that were discontinued or killed off in the US this year",
-      "link": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784392200
-    },
-    {
-      "title": "Federal employees can download TikTok on their work phones again",
-      "link": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784390064
-    },
-    {
-      "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
-      "link": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784385120
     },
     {
       "title": "Another reusable rocket? Japan launches, lands RV-X  prototype (video)",
@@ -436,25 +492,11 @@
       "timestamp": 1784382957
     },
     {
-      "title": "This Week In Space podcast: Episode 219 — SpaceX Goes to War!",
-      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-219-spacex-goes-to-war",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784382010
-    },
-    {
       "title": "A shattered asteroid may have bombarded Earth 800 million years ago",
       "link": "https://www.sciencedaily.com/releases/2026/07/260716023559.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1784379633
-    },
-    {
-      "title": "'We knew we had a lot to live up to': As 'Aliens' turns 40, we chat with the legendary VFX masters who created the Alien Queen (interview)",
-      "link": "https://www.space.com/entertainment/space-movies-shows/we-knew-we-had-a-lot-to-live-up-to-as-aliens-turns-40-we-chat-with-the-legendary-vfx-masters-who-created-the-alien-queen-interview",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784379600
     },
     {
       "title": "Earth’s biggest volcanic event transformed an entire oceanic plate",
@@ -469,20 +511,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1784373505
-    },
-    {
-      "title": "Beyond the Perseids: 6 meteor showers worth watching this summer",
-      "link": "https://www.space.com/stargazing/meteor-showers/beyond-the-perseids-6-meteor-showers-worth-watching-this-summer",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784368800
-    },
-    {
-      "title": "Neil Rimer thinks the AI money is coming back out",
-      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784350045
     },
     {
       "title": "NASA’s James Webb catches a supermassive black hole feeding",
@@ -569,13 +597,6 @@
       "timestamp": 1784304605
     },
     {
-      "title": "Ars is looking for a senior technology reporter, and you might be it!",
-      "link": "https://arstechnica.com/staff/2026/07/ars-is-looking-for-a-senior-technology-reporter-and-you-might-be-it/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784303548
-    },
-    {
       "title": "Terraforming Mars may be more realistic than scientists once thought",
       "link": "https://www.sciencedaily.com/releases/2026/07/260714225535.htm",
       "source": "SCIENCEDAILY",
@@ -602,13 +623,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784295051
-    },
-    {
-      "title": "The report oil companies are worried about: Climate attribution science",
-      "link": "https://arstechnica.com/science/2026/07/national-academies-climate-attribution-is-maturing-but-still-has-limits/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784287810
     },
     {
       "title": "Pat Riley hints at Heat's LeBron James pursuit while Miami introduces Giannis Antetokounmpo",
@@ -658,20 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784125263
-    },
-    {
-      "title": "AL pitchers blank NL in MLB All-Star Game; Spain shut down France to reach World Cup final",
-      "link": "https://www.cbssports.com/mlb/news/al-pitchers-nl-mlb-all-star-game-spain-france-world-cup-final/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784120036
-    },
-    {
-      "title": "Adam Silver updates Kawhi Leonard investigation timeline as probe reportedly grows in scope",
-      "link": "https://www.cbssports.com/nba/news/nba-investigation-kawhi-leonard-clippers-aspiration/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784089412
     }
   ]
 }
