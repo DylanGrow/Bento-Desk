@@ -1,12 +1,82 @@
 {
-  "last_updated": 1784648448,
+  "last_updated": 1784654045,
   "items": [
+    {
+      "title": "Google releases three new Gemini models — but no 3.5 Pro",
+      "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784653910
+    },
+    {
+      "title": "Artemis III astronauts will beam 4k video from Orion to Earth using SpaceX Starlink lasers",
+      "link": "https://www.space.com/space-exploration/artemis/artemis-iii-astronauts-will-beam-4k-video-from-orion-to-earth-using-spacex-starlink-lasers",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784653200
+    },
+    {
+      "title": "'No Banner, Only Hulk': The Final Spider-Man: Brand New Day Trailer is Here, With a Few New Shots",
+      "link": "https://www.ign.com/articles/no-banner-only-hulk-the-final-spider-man-brand-new-day-trailer-is-here-with-a-few-new-shots",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784652497
+    },
+    {
+      "title": "Instagram now lets you swap out the music in your old posts",
+      "link": "https://techcrunch.com/2026/07/21/instagram-now-lets-you-swap-out-the-music-in-your-old-posts/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784650500
+    },
+    {
+      "title": "Disney Layoffs Hit Hundreds of Staff, With Pixar Cuts Reportedly in Part Due to Underperformance of Hoppers",
+      "link": "https://www.ign.com/articles/disney-layoffs-hit-hundreds-of-staff-with-pixar-cuts-reportedly-in-part-due-to-underperformance-of-hoppers",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784650483
+    },
+    {
+      "title": "Threads rolls out parental supervision tools",
+      "link": "https://techcrunch.com/2026/07/21/threads-rolls-out-parental-supervision-tools/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784649600
+    },
+    {
+      "title": "The 'Avengers Doomsday' trailer is cool, but it's missing something... where's all the space stuff?",
+      "link": "https://www.space.com/entertainment/space-movies-shows/the-avengers-doomsday-trailer-is-cool-but-its-missing-something-wheres-all-the-space-stuff-at",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784649600
+    },
+    {
+      "title": "LeBron James rumors: Rich Paul says free agency decision 'is not going to be rushed'",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-rumors-rich-paul-not-going-to-be-rushed/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784648738
+    },
     {
       "title": "US threatens sanctions against Chinese AI models over IP theft",
       "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1784648225
+    },
+    {
+      "title": "Kaylee Hottle, Who Played Jia in Godzilla vs. Kong and Godzilla X Kong: The New Empire, Dies Aged 18",
+      "link": "https://www.ign.com/articles/kaylee-hottle-who-played-jia-in-godzilla-vs-kong-and-godzilla-x-kong-the-new-empire-dies-aged-18",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784648032
+    },
+    {
+      "title": "San Diego Comic-Con 2026: How to Watch and What to Expect",
+      "link": "https://www.ign.com/articles/san-diego-comic-con-2026-how-to-watch-and-what-to-expect",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784647807
     },
     {
       "title": "NBA offseason grades for every West team: Clippers have had the best summer ... for now",
@@ -16,6 +86,20 @@
       "timestamp": 1784647186
     },
     {
+      "title": "The X-Files LEGO Set Has Gillian Anderson Snapping on a Pair of Latex Gloves Once More",
+      "link": "https://www.ign.com/articles/the-x-files-lego-set-has-gillian-anderson-snapping-on-a-pair-of-latex-gloves-once-more",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784646848
+    },
+    {
+      "title": "'We've Been Going Full Speed Ahead for Over 11 years': Nintendo Explains Why It Hasn't Made Splatoon 4 — Yet",
+      "link": "https://www.ign.com/articles/weve-been-going-full-speed-ahead-for-over-11-years-nintendo-explains-why-it-hasnt-made-splatoon-4-yet",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784646667
+    },
+    {
       "title": "Scientists may have found the 1st twin star system where both stars exploded",
       "link": "https://www.space.com/astronomy/stars/scientists-may-have-found-the-1st-twin-star-system-where-both-stars-exploded",
       "source": "SPACE",
@@ -23,7 +107,7 @@
       "timestamp": 1784646060
     },
     {
-      "title": "Light made a flip phone. It’s colorful and it’s cheap.",
+      "title": "Light made a flip phone — it’s colorful and it’s cheap",
       "link": "https://techcrunch.com/2026/07/21/light-is-modernizing-the-flip-phone-with-light-flip/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -65,17 +149,17 @@
       "timestamp": 1784642620
     },
     {
-      "title": "James Webb Space Telescope looks back in time 4.4 billion years | Space photo of the day for July 21, 2026",
-      "link": "https://www.space.com/astronomy/james-webb-space-telescope-looks-back-in-time-4-4-billion-years-space-photo-of-the-day-for-july-21-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784642400
-    },
-    {
       "title": "The Xteink X4 Pro could be the tiny e-reader of your dreams",
       "link": "https://techcrunch.com/2026/07/21/the-xteink-x4-pro-could-be-the-tiny-e-reader-of-your-dreams/",
       "source": "TECHCRUNCH",
       "category": "tech",
+      "timestamp": 1784642400
+    },
+    {
+      "title": "James Webb Space Telescope looks back in time 4.4 billion years | Space photo of the day for July 21, 2026",
+      "link": "https://www.space.com/astronomy/james-webb-space-telescope-looks-back-in-time-4-4-billion-years-space-photo-of-the-day-for-july-21-2026",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1784642400
     },
     {
@@ -198,17 +282,17 @@
       "timestamp": 1784629328
     },
     {
-      "title": "Galaxy cluster's magnetic field reconstructed for 1st time with record-breaking astronomy map",
-      "link": "https://www.space.com/astronomy/galaxies/galaxy-clusters-magnetic-field-reconstructed-for-1st-time-with-record-breaking-astronomy-map",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784628000
-    },
-    {
       "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
       "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
       "source": "TECHCRUNCH",
       "category": "tech",
+      "timestamp": 1784628000
+    },
+    {
+      "title": "Galaxy cluster's magnetic field reconstructed for 1st time with record-breaking astronomy map",
+      "link": "https://www.space.com/astronomy/galaxies/galaxy-clusters-magnetic-field-reconstructed-for-1st-time-with-record-breaking-astronomy-map",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1784628000
     },
     {
@@ -275,13 +359,6 @@
       "timestamp": 1784601655
     },
     {
-      "title": "Leon Kennedy Voice Actor Says Metallica, Nirvana Helped Shape His Performance for the Resident Evil Character",
-      "link": "https://www.ign.com/articles/leon-kennedy-voice-actor-says-metallica-nirvana-helped-shape-his-performance-for-the-resident-evil-character",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784593781
-    },
-    {
       "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
       "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
       "source": "TECHCRUNCH",
@@ -289,32 +366,11 @@
       "timestamp": 1784592744
     },
     {
-      "title": "Kingdom Hearts Missing-Link Leak Has Fans Wishing Square Enix Hadn't Canceled Its Mobile Spinoff",
-      "link": "https://www.ign.com/articles/kingdom-hearts-missing-link-leak-has-fans-wishing-square-enix-hadnt-canceled-its-mobile-spinoff",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784591028
-    },
-    {
       "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
       "link": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1784590775
-    },
-    {
-      "title": "Nier Creator Yoko Taro Mourns Death of Physical Media as PlayStation Plans to End Production of Game Discs",
-      "link": "https://www.ign.com/articles/nier-creator-yoko-taro-mourns-death-of-physical-media-as-playstation-plans-to-end-production-of-game-discs",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784589521
-    },
-    {
-      "title": "DC Announces New Tag Fighting Game And Injustice Fans Are Confused",
-      "link": "https://www.ign.com/articles/dc-announces-new-tag-fighting-game-and-injustice-fans-are-confused",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784586974
     },
     {
       "title": "Trump’s latest AI czar has already resigned",
@@ -336,27 +392,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1784584552
-    },
-    {
-      "title": "Warhammer 40,000: Dawn of War IV Necron CGI Trailer Stomps All Over the Adeptus Mechanicus Trailer, but the Orks Trailer Is Still My Favorite",
-      "link": "https://www.ign.com/articles/warhammer-40000-dawn-of-war-iv-necron-cgi-trailer-stomps-all-over-the-adeptus-mechanicus-trailer-but-the-orks-trailer-is-still-my-favorite",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784583148
-    },
-    {
-      "title": "Call of Duty: Modern Warfare 4 Beta Dates Confirmed",
-      "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-beta-dates-confirmed",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784582595
-    },
-    {
-      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784582475
     },
     {
       "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
@@ -387,13 +422,6 @@
       "timestamp": 1784581117
     },
     {
-      "title": "AI’s most important protocol is getting a little bit easier to use",
-      "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784580640
-    },
-    {
       "title": "The Space Force is now seeking to buy up to $30 billion in rocket launches",
       "link": "https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
       "source": "ARSTECHNICA",
@@ -413,13 +441,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784576335
-    },
-    {
-      "title": "X relaunches a rebuilt Android app after year-long effort",
-      "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784576259
     },
     {
       "title": "AT&T loses key ruling in bid to stop offering basic phone service in California",
@@ -520,25 +541,11 @@
       "timestamp": 1784556050
     },
     {
-      "title": "Ancient sandstorm leaves behind wreckage on Mars | Space photo of the day for July 20, 2026",
-      "link": "https://www.space.com/astronomy/mars/ancient-sandstorm-leaves-behind-wreckage-on-mars-space-photo-of-the-day-for-july-20-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784556000
-    },
-    {
       "title": "Some dinosaurs could rise like giants until they grew too big",
       "link": "https://www.sciencedaily.com/releases/2026/07/260719231758.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1784553824
-    },
-    {
-      "title": "Rocket launch costs have dropped 96% since 1960. How low can they go?",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-launch-costs-have-dropped-96-percent-since-1960-how-low-can-they-go",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784552400
     },
     {
       "title": "Beyond grep: The case for a context-rich AI coding harness",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784224824
-    },
-    {
-      "title": "NBA will not punish Bam Adebayo, Tyler Herro after Las Vegas altercation: 'Everyone would prefer to move on'",
-      "link": "https://www.cbssports.com/nba/news/bam-adebayo-tyler-herro-fight-nba-punishment/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784218892
     }
   ]
 }
