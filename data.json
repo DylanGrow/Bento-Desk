@@ -1,6 +1,97 @@
 {
-  "last_updated": 1784641301,
+  "last_updated": 1784648448,
   "items": [
+    {
+      "title": "US threatens sanctions against Chinese AI models over IP theft",
+      "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784648225
+    },
+    {
+      "title": "NBA offseason grades for every West team: Clippers have had the best summer ... for now",
+      "link": "https://www.cbssports.com/nba/news/nba-offseason-grades-western-conference-2026/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784647186
+    },
+    {
+      "title": "Scientists may have found the 1st twin star system where both stars exploded",
+      "link": "https://www.space.com/astronomy/stars/scientists-may-have-found-the-1st-twin-star-system-where-both-stars-exploded",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784646060
+    },
+    {
+      "title": "Light made a flip phone. It’s colorful and it’s cheap.",
+      "link": "https://techcrunch.com/2026/07/21/light-is-modernizing-the-flip-phone-with-light-flip/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784646000
+    },
+    {
+      "title": "After TikTok, Snap settles social media addiction case",
+      "link": "https://techcrunch.com/2026/07/21/after-tiktok-snap-settles-social-media-addiction-case/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784645659
+    },
+    {
+      "title": "AI music generator Suno breach affects 55M users, per Have I Been Pwned",
+      "link": "https://techcrunch.com/2026/07/21/ai-music-generator-suno-breach-affects-55m-users-per-have-i-been-pwned/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784645298
+    },
+    {
+      "title": "What to know about the landmark Warner Bros. Discovery sale",
+      "link": "https://techcrunch.com/2026/07/21/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784643339
+    },
+    {
+      "title": "UK government scraps plans for digital ID cards after millions of Brits opposed",
+      "link": "https://techcrunch.com/2026/07/21/uk-government-scraps-plans-for-digital-id-cards-after-millions-of-brits-opposed/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784643201
+    },
+    {
+      "title": "Ex-Forza Horizon Director Traces a Line From the Failure of 'Well-Meaning' Game Pass to the Current Xbox Layoffs",
+      "link": "https://www.ign.com/articles/ex-forza-horizon-director-traces-a-line-from-the-failure-of-well-meaning-game-pass-to-the-current-xbox-layoffs",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784642620
+    },
+    {
+      "title": "James Webb Space Telescope looks back in time 4.4 billion years | Space photo of the day for July 21, 2026",
+      "link": "https://www.space.com/astronomy/james-webb-space-telescope-looks-back-in-time-4-4-billion-years-space-photo-of-the-day-for-july-21-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784642400
+    },
+    {
+      "title": "The Xteink X4 Pro could be the tiny e-reader of your dreams",
+      "link": "https://techcrunch.com/2026/07/21/the-xteink-x4-pro-could-be-the-tiny-e-reader-of-your-dreams/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784642400
+    },
+    {
+      "title": "Spider-Man: Brand New Day Director Insists 'There's a Very Real Reason Not to Tell People Who Sadie Sink is Playing'",
+      "link": "https://www.ign.com/articles/spider-man-brand-new-day-director-insists-theres-a-very-real-reason-not-to-tell-people-who-sadie-sink-is-playing",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784641563
+    },
+    {
+      "title": "When your vehicle outlives its cloud: What happens next?",
+      "link": "https://arstechnica.com/cars/2026/07/when-your-vehicle-outlives-its-cloud-what-happens-next/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784640977
+    },
     {
       "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
       "link": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
@@ -9,11 +100,32 @@
       "timestamp": 1784640462
     },
     {
+      "title": "Halo: Campaign Evolved and Game Freak's Beast of Reincarnation Lead Xbox Game Pass July 2026 Wave 2 Lineup",
+      "link": "https://www.ign.com/articles/halo-campaign-evolved-and-game-freaks-beast-of-reincarnation-lead-xbox-game-pass-july-2026-wave-2-lineup",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784640148
+    },
+    {
       "title": "Bluecore Energy raises $10M to build portable nuclear reactors on barges",
       "link": "https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1784640000
+    },
+    {
+      "title": "Apps targeted at US troops contain Chinese and Russian code",
+      "link": "https://arstechnica.com/security/2026/07/apps-targeted-at-us-troops-contain-chinese-and-russian-code/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784639978
+    },
+    {
+      "title": "2027 Kia Seltos first drive gives you plenty of SUV for not much $",
+      "link": "https://arstechnica.com/cars/2026/07/2027-kia-seltos-first-drive-telluride-vibes-in-a-smaller-package/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784638808
     },
     {
       "title": "SpaceX will launch a satellite repair drone with robot arms to Earth orbit today: How to watch it live",
@@ -86,17 +198,17 @@
       "timestamp": 1784629328
     },
     {
-      "title": "Gritt exits stealth with $34 million for robots to build solar plants — then, everything else",
-      "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784628000
-    },
-    {
       "title": "Galaxy cluster's magnetic field reconstructed for 1st time with record-breaking astronomy map",
       "link": "https://www.space.com/astronomy/galaxies/galaxy-clusters-magnetic-field-reconstructed-for-1st-time-with-record-breaking-astronomy-map",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1784628000
+    },
+    {
+      "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
+      "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
       "timestamp": 1784628000
     },
     {
@@ -254,13 +366,6 @@
       "timestamp": 1784581814
     },
     {
-      "title": "Inde Navarrette Stunned After Fan Gifts Her a Rare Sealed Copy of Modern Warfare 2",
-      "link": "https://www.ign.com/articles/inde-navarrette-stunned-after-fan-gifts-her-a-rare-sealed-copy-of-modern-warfare-2",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784581805
-    },
-    {
       "title": "The 1st 'Avengers: Doomsday' trailer is here, and it's stuffed to bursting with superheroes",
       "link": "https://www.space.com/entertainment/space-movies-shows/the-1st-avengers-doomsday-trailer-is-here-and-its-stuffed-to-bursting-with-superheroes",
       "source": "SPACE",
@@ -296,20 +401,6 @@
       "timestamp": 1784579425
     },
     {
-      "title": "Kevin Feige Denies the MCU Will Reboot With Secret Wars, Points to 2015 Comic as 'Nice Roadmap' for the Future",
-      "link": "https://www.ign.com/articles/kevin-feige-denies-the-mcu-will-reboot-with-secret-wars-points-to-2015-comic-as-nice-roadmap-for-the-future",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784579001
-    },
-    {
-      "title": "District 9 Director Neill Blomkamp Faces Backlash Over AI-Generated Zombie Short Film",
-      "link": "https://www.ign.com/articles/district-9-director-neill-blomkamp-faces-backlash-over-ai-generated-zombie-short-film",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784577862
-    },
-    {
       "title": "Scientists discover mystery molecule on Pluto and Saturn's moon Titan: 'We cannot say what it is'",
       "link": "https://www.space.com/astronomy/james-webb-space-telescope/scientists-discover-mystery-molecule-on-pluto-and-saturns-moon-titan-we-cannot-say-what-it-is",
       "source": "SPACE",
@@ -331,25 +422,11 @@
       "timestamp": 1784576259
     },
     {
-      "title": "OpenAI is scared of open-weight models. Should the US be?",
-      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784576005
-    },
-    {
       "title": "AT&T loses key ruling in bid to stop offering basic phone service in California",
       "link": "https://arstechnica.com/tech-policy/2026/07/att-loses-key-ruling-in-bid-to-stop-offering-basic-phone-service-in-california/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1784575249
-    },
-    {
-      "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
-      "link": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784574685
     },
     {
       "title": "RIP bargain bin: The price impact of Sony's disc-free PlayStation plan",
@@ -364,13 +441,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784570400
-    },
-    {
-      "title": "Judge pauses $110B Paramount-Warner Bros. merger",
-      "link": "https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784570330
     },
     {
       "title": "'Stranger Things' at 10: The Netflix streaming icon that made it cool to like science again",
@@ -408,20 +478,6 @@
       "timestamp": 1784563158
     },
     {
-      "title": "Adobe camera app’s new feature will critique your photos using AI",
-      "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784562300
-    },
-    {
-      "title": "Hackers are exploiting recently patched WordPress bugs, putting millions of websites at risk",
-      "link": "https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784561737
-    },
-    {
       "title": "AliExpress hit with record $625M fine after failing to make EU-ordered fixes",
       "link": "https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/",
       "source": "ARSTECHNICA",
@@ -434,20 +490,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784560990
-    },
-    {
-      "title": "YouTube clarifies policies around AI slop and upsetting videos",
-      "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784560986
-    },
-    {
-      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
-      "link": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784560500
     },
     {
       "title": "Artemis II was an incredible reminder of our shared humanity just when we needed it most (op-ed)",
@@ -499,13 +541,6 @@
       "timestamp": 1784552400
     },
     {
-      "title": "Did Viking 1 find life on Mars 50 years ago? Here's why the debate continues",
-      "link": "https://www.space.com/astronomy/mars/did-viking-1-find-life-on-mars-50-years-ago-heres-why-the-debate-continues",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784548800
-    },
-    {
       "title": "Beyond grep: The case for a context-rich AI coding harness",
       "link": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
       "source": "ARSTECHNICA",
@@ -518,13 +553,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1784541934
-    },
-    {
-      "title": "An artificial 'Saturn's ring' of satellites could soon fill the sky, astronomers warn",
-      "link": "https://www.space.com/space-exploration/satellites/an-artificial-saturns-ring-of-satellites-could-soon-fill-the-sky-astronomers-warn",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784541600
     },
     {
       "title": "An ordinary laptop solved a problem thought to require a quantum computer",
@@ -590,27 +618,6 @@
       "timestamp": 1784428114
     },
     {
-      "title": "Will AI fix prior authorization—or make it worse?",
-      "link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784373505
-    },
-    {
-      "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
-      "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784317818
-    },
-    {
-      "title": "The Pentagon's Space Development Agency hasn't moved as fast as anyone would like",
-      "link": "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784315982
-    },
-    {
       "title": "LeBron James says he 'trusts the process,' but that doesn't guarantee he's joining the 76ers",
       "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-trust-the-process-76ers/",
       "source": "CBSSPORTS",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784218892
-    },
-    {
-      "title": "Argentina return to World Cup final after dramatic comeback; Open Championship in full swing",
-      "link": "https://www.cbssports.com/golf/news/argentina-world-cup-final-comeback-open-championship/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784205994
     }
   ]
 }
