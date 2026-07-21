@@ -1,6 +1,90 @@
 {
-  "last_updated": 1784661370,
+  "last_updated": 1784667878,
   "items": [
+    {
+      "title": "James Webb Space Telescope discovers the secrets of cosmic 'factories' that filled the early universe with stardust",
+      "link": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-discovers-the-secrets-of-cosmic-factories-that-filled-the-early-universe-with-stardust",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784667600
+    },
+    {
+      "title": "These are the countries moving to ban social media for children",
+      "link": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784667455
+    },
+    {
+      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
+      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784667415
+    },
+    {
+      "title": "LeBron James next team predictions: Four-time MVP in no rush to make decision, Heat gain ground on Cavs",
+      "link": "https://www.cbssports.com/prediction/news/lebron-james-next-team-predictions-four-time-mvp-in-no-rush-to-make-decision-heat-gain-ground-on-cavs/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784665369
+    },
+    {
+      "title": "Alien life likely can't survive on exoplanets smaller than Mars, scientists say",
+      "link": "https://www.space.com/space-exploration/search-for-life/alien-life-likely-cant-survive-on-exoplanets-smaller-than-mars-scientists-say",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784664916
+    },
+    {
+      "title": "Metal Gear Solid Creator Hideo Kojima Quips That He Wants to Die in a Movie Theater, Just as the Film Itself Is About to Start",
+      "link": "https://www.ign.com/articles/metal-gear-solid-creator-hideo-kojima-quips-that-he-wants-to-die-in-a-movie-theater-just-as-the-film-itself-is-about-to-start",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784664187
+    },
+    {
+      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+      "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784663021
+    },
+    {
+      "title": "AI and the rise of the universal entertainment app",
+      "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784662770
+    },
+    {
+      "title": "Bucking EV slowdown, Sila raises $300M to expand battery materials factory",
+      "link": "https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784662595
+    },
+    {
+      "title": "Lara Croft’s Acrobatics Were So Important to Tomb Raider: Legacy of Atlantis That Actress Alix Wilton Regan Started Rock-Climbing to Get Into Character",
+      "link": "https://www.ign.com/articles/lara-crofts-acrobatics-were-so-important-to-tomb-raider-legacy-of-atlantis-that-actress-alix-wilton-regan-started-rock-climbing-to-get-into-character",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784661316
+    },
+    {
+      "title": "Dbrand's Steam Machine Wraps Are Here",
+      "link": "https://www.ign.com/articles/dbrands-steam-machine-wraps-are-here",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784661017
+    },
+    {
+      "title": "Nintendo customers have no legal right to tariff refunds, company tells judge",
+      "link": "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784660959
+    },
     {
       "title": "Space Force orders 36 more Golden Dome missile-tracking satellites, for $1.75 billion",
       "link": "https://www.space.com/space-exploration/satellites/space-force-orders-36-more-golden-dome-missile-tracking-satellites-for-usd1-75-billion",
@@ -28,6 +112,13 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1784657923
+    },
+    {
+      "title": "Let Tom Hiddleston be your guide to Pompeii's final day",
+      "link": "https://arstechnica.com/science/2026/07/tom-hiddleston-tracks-possible-pompeii-survivors-in-new-docuseries/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784657875
     },
     {
       "title": "The most overlooked element of the LeBron James free agency saga? This season doesn't need to be his last",
@@ -72,7 +163,21 @@
       "timestamp": 1784656800
     },
     {
-      "title": "Steam Deck sales are losing steam since May's price hike",
+      "title": "Naked mole-rat queens use a chemical signal to suppress fertility in rivals",
+      "link": "https://arstechnica.com/science/2026/07/naked-mole-rat-queens-keep-their-colonies-in-line-with-a-scent/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784656312
+    },
+    {
+      "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
+      "link": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784655194
+    },
+    {
+      "title": "Sales of Valve's Steam Deck crater after recent price hike",
       "link": "https://arstechnica.com/gaming/2026/07/steam-deck-sales-are-losing-steam-since-mays-price-hike/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -219,32 +324,11 @@
       "timestamp": 1784645298
     },
     {
-      "title": "What to know about the landmark Warner Bros. Discovery sale",
-      "link": "https://techcrunch.com/2026/07/21/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784643339
-    },
-    {
-      "title": "UK government scraps plans for digital ID cards after millions of Brits opposed",
-      "link": "https://techcrunch.com/2026/07/21/uk-government-scraps-plans-for-digital-id-cards-after-millions-of-brits-opposed/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784643201
-    },
-    {
       "title": "Ex-Forza Horizon Director Traces a Line From the Failure of 'Well-Meaning' Game Pass to the Current Xbox Layoffs",
       "link": "https://www.ign.com/articles/ex-forza-horizon-director-traces-a-line-from-the-failure-of-well-meaning-game-pass-to-the-current-xbox-layoffs",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1784642620
-    },
-    {
-      "title": "The Xteink X4 Pro could be the tiny e-reader of your dreams",
-      "link": "https://techcrunch.com/2026/07/21/the-xteink-x4-pro-could-be-the-tiny-e-reader-of-your-dreams/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784642400
     },
     {
       "title": "James Webb Space Telescope looks back in time 4.4 billion years | Space photo of the day for July 21, 2026",
@@ -268,25 +352,11 @@
       "timestamp": 1784640977
     },
     {
-      "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
-      "link": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784640462
-    },
-    {
       "title": "Halo: Campaign Evolved and Game Freak's Beast of Reincarnation Lead Xbox Game Pass July 2026 Wave 2 Lineup",
       "link": "https://www.ign.com/articles/halo-campaign-evolved-and-game-freaks-beast-of-reincarnation-lead-xbox-game-pass-july-2026-wave-2-lineup",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1784640148
-    },
-    {
-      "title": "Bluecore Energy raises $10M to build portable nuclear reactors on barges",
-      "link": "https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784640000
     },
     {
       "title": "Apps targeted at US troops contain Chinese and Russian code",
@@ -345,32 +415,11 @@
       "timestamp": 1784633471
     },
     {
-      "title": "Switch 2 Customers Have No Right to U.S. Tariff Refunds, Nintendo Argues, as They 'Received Exactly What They Bargained and Paid For'",
-      "link": "https://www.ign.com/articles/switch-2-customers-have-no-right-to-us-tariff-refunds-nintendo-argues-as-they-received-exactly-what-they-bargained-and-paid-for",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784632248
-    },
-    {
       "title": "Astronomers find the first atmosphere on a rocky world in the habitable zone",
       "link": "https://www.sciencedaily.com/releases/2026/07/260721000825.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1784631461
-    },
-    {
-      "title": "Matilda 2? Mara Wilson Says It's Possible, but Doesn't Quite Understand How It Would Work for One Good Reason",
-      "link": "https://www.ign.com/articles/matilda-2-mara-wilson-says-its-possible-but-doesnt-quite-understand-how-it-would-work-for-one-good-reason",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784631172
-    },
-    {
-      "title": "The Odyssey Isn't 100% Matt Damon's Bulging Biceps — for One Scene His Stunt Double Was a Woman Who Had 'The Greatest Arms I've Ever Seen'",
-      "link": "https://www.ign.com/articles/the-odyssey-isnt-100-matt-damons-bulging-biceps-for-one-scene-his-stunt-double-was-a-woman-who-had-the-greatest-arms-ive-ever-seen",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784629328
     },
     {
       "title": "Galaxy cluster's magnetic field reconstructed for 1st time with record-breaking astronomy map",
@@ -513,13 +562,6 @@
       "timestamp": 1784570400
     },
     {
-      "title": "'Stranger Things' at 10: The Netflix streaming icon that made it cool to like science again",
-      "link": "https://www.space.com/entertainment/space-movies-shows/stranger-things-at-10-the-netflix-streaming-icon-that-made-it-cool-to-like-science-again",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784566800
-    },
-    {
       "title": "All-NBA Summer League teams: Top four picks all show out in Vegas, Cavs' second rounder shines, Bucks have MVP",
       "link": "https://www.cbssports.com/nba/news/all-nba-summer-league-teams-2026/",
       "source": "CBSSPORTS",
@@ -527,46 +569,11 @@
       "timestamp": 1784566323
     },
     {
-      "title": "Twice in a row: SpaceX rocket aborts launch at last second again (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-abort-falcon-9-starlink-satellites-vandenberg",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784563780
-    },
-    {
-      "title": "F1 in Belgium: Machine learning algorithms are ruining the sport",
-      "link": "https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784563158
-    },
-    {
-      "title": "AliExpress hit with record $625M fine after failing to make EU-ordered fixes",
-      "link": "https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784561565
-    },
-    {
       "title": "NBA offseason grades for every East team: 76ers, Hornets ace moves, Celtics among many in C- range",
       "link": "https://www.cbssports.com/nba/news/nba-offseason-grades-for-every-east-team-2026-76ers-celtics/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784560990
-    },
-    {
-      "title": "The first trailer for Avengers: Doomsday is finally here",
-      "link": "https://arstechnica.com/culture/2026/07/the-first-trailer-for-avengers-doomsday-is-finally-here/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784558026
-    },
-    {
-      "title": "Pay up or not? Ransomware surge has victims facing tough choices.",
-      "link": "https://arstechnica.com/security/2026/07/pay-up-or-not-ransomware-surge-has-victims-facing-tough-choices/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784556050
     },
     {
       "title": "Some dinosaurs could rise like giants until they grew too big",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784295051
-    },
-    {
-      "title": "Pat Riley hints at Heat's LeBron James pursuit while Miami introduces Giannis Antetokounmpo",
-      "link": "https://www.cbssports.com/nba/news/pat-riley-heeat-lebron-james-pursuit-giannis-antetokounmpo/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784238234
     }
   ]
 }
