@@ -1,6 +1,83 @@
 {
-  "last_updated": 1784654045,
+  "last_updated": 1784661370,
   "items": [
+    {
+      "title": "Space Force orders 36 more Golden Dome missile-tracking satellites, for $1.75 billion",
+      "link": "https://www.space.com/space-exploration/satellites/space-force-orders-36-more-golden-dome-missile-tracking-satellites-for-usd1-75-billion",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784660400
+    },
+    {
+      "title": "Einride bets $38M on EV charging as it scales electric trucking",
+      "link": "https://techcrunch.com/2026/07/21/einride-bets-38m-on-ev-charging-as-it-scales-electric-trucking/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784659718
+    },
+    {
+      "title": "SpaceX Falcon 9 rocket sends Starlink satellites to orbit a day after rare launch abort",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-39-b1082-vsfb-ocisly",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784658600
+    },
+    {
+      "title": "Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs",
+      "link": "https://techcrunch.com/2026/07/21/apple-teams-up-with-klarna-to-launch-a-lease-to-own-program-for-iphones-ipads-and-macs/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784657923
+    },
+    {
+      "title": "The most overlooked element of the LeBron James free agency saga? This season doesn't need to be his last",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-rumors-free-agency-next-team/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784657514
+    },
+    {
+      "title": "A Free Dungeon Crawler Carl Flash Game Is Now Available to Play Online",
+      "link": "https://www.ign.com/articles/a-free-dungeon-crawler-carl-flash-game-is-now-available-to-play-online",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784657389
+    },
+    {
+      "title": "Data centers expected to use 4x more electricity by 2035",
+      "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784657198
+    },
+    {
+      "title": "Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings",
+      "link": "https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784657110
+    },
+    {
+      "title": "Robocop Gets New Reboot Series Coming to Prime Video",
+      "link": "https://www.ign.com/articles/robocop-gets-new-reboot-series-coming-to-prime-video",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784657088
+    },
+    {
+      "title": "Billions of miles and thousands of years in the making: This is the life of a Perseid shooting star",
+      "link": "https://www.space.com/stargazing/meteor-showers/billions-of-miles-and-thousands-of-years-in-the-making-this-is-the-life-of-a-perseid-shooting-star",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784656800
+    },
+    {
+      "title": "Steam Deck sales are losing steam since May's price hike",
+      "link": "https://arstechnica.com/gaming/2026/07/steam-deck-sales-are-losing-steam-since-mays-price-hike/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784653954
+    },
     {
       "title": "Google releases three new Gemini models — but no 3.5 Pro",
       "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
@@ -16,7 +93,14 @@
       "timestamp": 1784653200
     },
     {
-      "title": "'No Banner, Only Hulk': The Final Spider-Man: Brand New Day Trailer is Here, With a Few New Shots",
+      "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+      "link": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784653105
+    },
+    {
+      "title": "'No Banner, Only Hulk': The Final Spider-Man: Brand New Day Trailer Is Here, With a Few New Shots",
       "link": "https://www.ign.com/articles/no-banner-only-hulk-the-final-spider-man-brand-new-day-trailer-is-here-with-a-few-new-shots",
       "source": "IGN",
       "category": "gaming",
@@ -84,6 +168,13 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784647186
+    },
+    {
+      "title": "TreeSize won't renew perpetual-license support unless users subscribe",
+      "link": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784647103
     },
     {
       "title": "The X-Files LEGO Set Has Gillian Anderson Snapping on a Pair of Latex Gloves Once More",
@@ -282,13 +373,6 @@
       "timestamp": 1784629328
     },
     {
-      "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
-      "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784628000
-    },
-    {
       "title": "Galaxy cluster's magnetic field reconstructed for 1st time with record-breaking astronomy map",
       "link": "https://www.space.com/astronomy/galaxies/galaxy-clusters-magnetic-field-reconstructed-for-1st-time-with-record-breaking-astronomy-map",
       "source": "SPACE",
@@ -296,25 +380,11 @@
       "timestamp": 1784628000
     },
     {
-      "title": "Avengers: Doomsday Describes the Return of Steve Rogers as a 'Miracle,' but Some Marvel Fans Believe There's More Going on Than Meets the Eye",
-      "link": "https://www.ign.com/articles/avengers-doomsday-describes-the-return-of-steve-rogers-as-a-miracle-but-some-marvel-fans-believe-theres-more-going-on-than-meets-the-eye",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784626756
-    },
-    {
       "title": "Ancient DNA reveals a chilling secret at China’s 4,000-year-old Shimao city",
       "link": "https://www.sciencedaily.com/releases/2026/07/260721000828.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1784624364
-    },
-    {
-      "title": "Just 7 PlayStation Games Have Sold More Than 100,000 Physical Copies in the U.S. So Far This Year",
-      "link": "https://www.ign.com/articles/just-7-playstation-games-have-sold-more-than-100000-physical-copies-in-the-us-so-far-this-year",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784623992
     },
     {
       "title": "A hidden “switch-off” signal could predict solar storms seven years early",
@@ -357,27 +427,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1784601655
-    },
-    {
-      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784592744
-    },
-    {
-      "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
-      "link": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784590775
-    },
-    {
-      "title": "Trump’s latest AI czar has already resigned",
-      "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784586064
     },
     {
       "title": "DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him",
@@ -485,13 +534,6 @@
       "timestamp": 1784563780
     },
     {
-      "title": "Four astronauts, 3 spacecraft, 2 weeks in orbit: Artemis III will be NASA's most complicated mission ever",
-      "link": "https://www.space.com/space-exploration/artemis/four-astronauts-3-spacecraft-2-weeks-in-orbit-artemis-iii-will-be-nasas-most-complicated-mission-ever",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784563200
-    },
-    {
       "title": "F1 in Belgium: Machine learning algorithms are ruining the sport",
       "link": "https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks/",
       "source": "ARSTECHNICA",
@@ -513,25 +555,11 @@
       "timestamp": 1784560990
     },
     {
-      "title": "Artemis II was an incredible reminder of our shared humanity just when we needed it most (op-ed)",
-      "link": "https://www.space.com/space-exploration/artemis/artemis-ii-was-an-incredible-reminder-of-our-shared-humanity-just-when-we-needed-it-most-op-ed",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784559600
-    },
-    {
       "title": "The first trailer for Avengers: Doomsday is finally here",
       "link": "https://arstechnica.com/culture/2026/07/the-first-trailer-for-avengers-doomsday-is-finally-here/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1784558026
-    },
-    {
-      "title": "Get stabilized views of the cosmos with the Canon 18x50 IS binoculars, now almost 30% off",
-      "link": "https://www.space.com/stargazing/skywatching-kit/get-stabilized-views-of-the-cosmos-with-the-canon-18x50-is-binoculars-now-almost-30-percent-off",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784557646
     },
     {
       "title": "Pay up or not? Ransomware surge has victims facing tough choices.",
@@ -546,13 +574,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1784553824
-    },
-    {
-      "title": "Beyond grep: The case for a context-rich AI coding harness",
-      "link": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784546410
     },
     {
       "title": "Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
@@ -583,13 +604,6 @@
       "timestamp": 1784514681
     },
     {
-      "title": "India's first privately developed rocket reaches orbit on dramatic debut launch",
-      "link": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784499081
-    },
-    {
       "title": "Lu Dort trade grades: Thunder clean up their books; Mavericks take buy-low swing on former No. 1 pick",
       "link": "https://www.cbssports.com/nba/news/lu-dort-trade-grades-thunder-mavericks-hawks-zaccharie-risacher/",
       "source": "CBSSPORTS",
@@ -609,13 +623,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1784462833
-    },
-    {
-      "title": "As mosquito ranges expand, better monitoring is key to preventing disease",
-      "link": "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784459971
     },
     {
       "title": "Jalen Brunson main events, Karl-Anthony Towns chokeslams WWE superstars in return to Madison Square Garden",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784238234
-    },
-    {
-      "title": "NBA looking into Gary Trent Jr.'s contract: Why $64 million extension with Bucks has raised eyebrows",
-      "link": "https://www.cbssports.com/nba/news/gary-trent-contract-bucks-nba-investigation/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784224824
     }
   ]
 }
