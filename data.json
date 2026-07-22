@@ -1,6 +1,83 @@
 {
-  "last_updated": 1784740448,
+  "last_updated": 1784747472,
   "items": [
+    {
+      "title": "After nearly 30 years, NASA realized this near-Earth asteroid is actually a comet. The discovery may help us defend the planet some day",
+      "link": "https://www.space.com/astronomy/comets/after-nearly-30-years-nasa-realized-this-near-earth-asteroid-is-actually-a-comet-the-discovery-may-help-us-defend-the-planet-some-day",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784746800
+    },
+    {
+      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+      "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784746244
+    },
+    {
+      "title": "Former Louisville star Montrezl Harrell pulls double duty in Big3, TBT as ex-Cardinals face Kentucky alumni",
+      "link": "https://www.cbssports.com/college-basketball/news/montrezl-harrell-louisville-kentucky-tbt-big3-chicago-triplets-ville-la-familia/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784745766
+    },
+    {
+      "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
+      "link": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784744292
+    },
+    {
+      "title": "Science Corporation’s vision-restoring chip wins EU approval",
+      "link": "https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784744282
+    },
+    {
+      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+      "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784744038
+    },
+    {
+      "title": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)",
+      "link": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784743377
+    },
+    {
+      "title": "NASA's Roman Space Telescope could reveal black holes ripping up stars. It's set to launch Aug. 30",
+      "link": "https://www.space.com/astronomy/black-holes/nasas-roman-space-telescope-could-reveal-black-holes-ripping-up-stars-its-set-to-launch-aug-30",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784743272
+    },
+    {
+      "title": "Don't Watch the Brilliantly Disgusting Clayface Trailer While You're Eating",
+      "link": "https://www.ign.com/articles/dont-watch-the-brilliantly-disgusting-clayface-trailer-while-youre-eating",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784743052
+    },
+    {
+      "title": "Monday.com lays off hundreds to focus on AI",
+      "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784742854
+    },
+    {
+      "title": "Shenmue Fans Get Count Binface — a Man Dressed as a Trash Can Who's Going Up Against Nigel Farage in a UK Election — to Call on Sega to Make Shenmue 4",
+      "link": "https://www.ign.com/articles/shenmue-fans-get-count-binface-a-man-dressed-as-a-trash-can-whos-going-up-against-nigel-farage-in-a-uk-election-to-call-on-sega-to-make-shenmue-4",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784740800
+    },
     {
       "title": "Google is making it easier to switch from iPhone to Android",
       "link": "https://techcrunch.com/2026/07/22/google-is-making-it-easier-to-switch-from-iphone-to-android/",
@@ -9,11 +86,25 @@
       "timestamp": 1784740083
     },
     {
+      "title": "Next Space Force chief throws cold water on the idea of space privateers",
+      "link": "https://arstechnica.com/space/2026/07/next-space-force-chief-throws-cold-water-on-the-idea-of-space-privateers/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784739764
+    },
+    {
       "title": "If space war erupts, 'none of us will be able to avoid the war zone,' warns outgoing Space Force chief in final public speech",
       "link": "https://www.space.com/space-exploration/satellites/if-space-war-erupts-none-of-us-will-be-able-to-avoid-the-war-zone-warns-outgoing-space-force-chief-in-final-public-speech",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784739600
+    },
+    {
+      "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
+      "link": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784738869
     },
     {
       "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
@@ -289,13 +380,6 @@
       "timestamp": 1784712232
     },
     {
-      "title": "Avengers: Doomsday Off to Huge Start in Advance Ticket Sales, Second-Biggest Trailer Launch Ever Behind Only Spider-Man: Brand New Day",
-      "link": "https://www.ign.com/articles/avengers-doomsday-off-to-huge-start-in-advance-ticket-sales-second-biggest-trailer-launch-ever-behind-only-spider-man-brand-new-day",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784710543
-    },
-    {
       "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
       "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
       "source": "TECHCRUNCH",
@@ -317,39 +401,11 @@
       "timestamp": 1784698864
     },
     {
-      "title": "PAX Aus 2026 Guest Lineup Includes Former WWE superstar Austin Creed, Doom Composer Mick Gordon, and More",
-      "link": "https://www.ign.com/articles/pax-aus-2026-guest-lineup-includes-former-wwe-superstar-austin-creed-doom-composer-mick-gordon-and-more",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784696536
-    },
-    {
       "title": "Magic mushrooms may reshape the brain long after the trip ends",
       "link": "https://www.sciencedaily.com/releases/2026/07/260719040005.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1784693566
-    },
-    {
-      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-      "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784690457
-    },
-    {
-      "title": "Dimension Capital’s $800M third fund shows the intersection of science and compute is booming",
-      "link": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784683678
-    },
-    {
-      "title": "Meta is testing an AI bedtime story app for people with no imagination",
-      "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784678110
     },
     {
       "title": "Range Rover answers the question: \"What if we built a not-SUV?\"",
@@ -371,20 +427,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784667600
-    },
-    {
-      "title": "These are the countries moving to ban social media for children",
-      "link": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784667455
-    },
-    {
-      "title": "OpenAI says Hugging Face was breached by its pre-release models",
-      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784667415
     },
     {
       "title": "Alien life likely can't survive on exoplanets smaller than Mars, scientists say",
@@ -478,13 +520,6 @@
       "timestamp": 1784653200
     },
     {
-      "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
-      "link": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784653105
-    },
-    {
       "title": "The 'Avengers Doomsday' trailer is cool, but it's missing something... where's all the space stuff?",
       "link": "https://www.space.com/entertainment/space-movies-shows/the-avengers-doomsday-trailer-is-cool-but-its-missing-something-wheres-all-the-space-stuff-at",
       "source": "SPACE",
@@ -504,34 +539,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784647186
-    },
-    {
-      "title": "TreeSize won't renew perpetual-license support unless users subscribe",
-      "link": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784647103
-    },
-    {
-      "title": "Scientists may have found the 1st twin star system where both stars exploded",
-      "link": "https://www.space.com/astronomy/stars/scientists-may-have-found-the-1st-twin-star-system-where-both-stars-exploded",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784646060
-    },
-    {
-      "title": "James Webb Space Telescope looks back in time 4.4 billion years | Space photo of the day for July 21, 2026",
-      "link": "https://www.space.com/astronomy/james-webb-space-telescope-looks-back-in-time-4-4-billion-years-space-photo-of-the-day-for-july-21-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784642400
-    },
-    {
-      "title": "When your vehicle outlives its cloud: What happens next?",
-      "link": "https://arstechnica.com/cars/2026/07/when-your-vehicle-outlives-its-cloud-what-happens-next/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784640977
     },
     {
       "title": "MLB trade deadline buyers and sellers guide; handing out NBA offseason grades",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784308333
-    },
-    {
-      "title": "Three ripple effects of LeBron James' lengthy free agency, and why Adam Silver is anxious for a decision",
-      "link": "https://www.cbssports.com/nba/news/ripple-effects-lebron-james-lengthy-free-agency/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784305821
     }
   ]
 }
