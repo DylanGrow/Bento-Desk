@@ -1,6 +1,13 @@
 {
-  "last_updated": 1784754460,
+  "last_updated": 1784761131,
   "items": [
+    {
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784757712
+    },
     {
       "title": "China's record-breaking Gravity-1 rocket launches 9 satellites from a ship at sea (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/chinas-record-breaking-gravity-1-rocket-launches-9-satellites-from-a-ship-at-sea-video",
@@ -30,6 +37,20 @@
       "timestamp": 1784752601
     },
     {
+      "title": "Microsoft brings original Xbox backward compatibility to Windows PCs",
+      "link": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784752579
+    },
+    {
+      "title": "ISPs' long nightmare of having to list all the fees they charge is finally over",
+      "link": "https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784751438
+    },
+    {
       "title": "5 disturbing things we saw after digging into the recent 'Dune: Part 3' trailer",
       "link": "https://www.space.com/entertainment/space-movies-shows/5-disturbing-things-we-saw-after-digging-into-the-recent-dune-part-3-trailer",
       "source": "SPACE",
@@ -42,6 +63,13 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1784749376
+    },
+    {
+      "title": "Clayface trailer leans into the body horror",
+      "link": "https://arstechnica.com/culture/2026/07/clayface-trailer-leans-into-the-body-horror/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784747897
     },
     {
       "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
@@ -289,13 +317,6 @@
       "timestamp": 1784727317
     },
     {
-      "title": "Cascade raises $3.5M to help construction firms find and win projects",
-      "link": "https://techcrunch.com/2026/07/22/cascade-raises-3-5m-to-help-construction-firms-find-and-win-projects/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784726916
-    },
-    {
       "title": "Ancient ferns turned Triassic Europe into a wildfire inferno",
       "link": "https://www.sciencedaily.com/releases/2026/07/260722032105.htm",
       "source": "SCIENCEDAILY",
@@ -504,27 +525,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784656800
-    },
-    {
-      "title": "Naked mole-rat queens use a chemical signal to suppress fertility in rivals",
-      "link": "https://arstechnica.com/science/2026/07/naked-mole-rat-queens-keep-their-colonies-in-line-with-a-scent/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784656312
-    },
-    {
-      "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
-      "link": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784655194
-    },
-    {
-      "title": "Sales of Valve's Steam Deck crater after recent price hike",
-      "link": "https://arstechnica.com/gaming/2026/07/steam-deck-sales-are-losing-steam-since-mays-price-hike/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784653954
     },
     {
       "title": "LeBron James rumors: Rich Paul says free agency decision 'is not going to be rushed'",
