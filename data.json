@@ -1,6 +1,69 @@
 {
-  "last_updated": 1784734680,
+  "last_updated": 1784740448,
   "items": [
+    {
+      "title": "Google is making it easier to switch from iPhone to Android",
+      "link": "https://techcrunch.com/2026/07/22/google-is-making-it-easier-to-switch-from-iphone-to-android/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784740083
+    },
+    {
+      "title": "If space war erupts, 'none of us will be able to avoid the war zone,' warns outgoing Space Force chief in final public speech",
+      "link": "https://www.space.com/space-exploration/satellites/if-space-war-erupts-none-of-us-will-be-able-to-avoid-the-war-zone-warns-outgoing-space-force-chief-in-final-public-speech",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784739600
+    },
+    {
+      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+      "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784737448
+    },
+    {
+      "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+      "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784737389
+    },
+    {
+      "title": "OpenAI’s AI spending spree has ballooned to $750B",
+      "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784736810
+    },
+    {
+      "title": "'Terminator 2: Judgment Day' is time-travelling back into theaters next month for a 35th anniversary re-release",
+      "link": "https://www.space.com/entertainment/space-movies-shows/terminator-2-judgment-day-is-time-travelling-back-into-theaters-next-month-for-a-35th-anniversary-re-release",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784736000
+    },
+    {
+      "title": "Star Trek Legend William Shatner and His Daughter Melanie Reveal They Battled Stage 4 Cancer at the Same Time",
+      "link": "https://www.ign.com/articles/star-trek-legend-william-shatner-and-his-daughter-melanie-reveal-they-battled-stage-4-cancer-at-the-same-time",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784735946
+    },
+    {
+      "title": "Microsoft Announces Xbox Backward Compatibility on PC, With New Features and Achievements",
+      "link": "https://www.ign.com/articles/microsoft-announces-xbox-backward-compatibility-on-pc-with-new-features-and-achievements",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784734924
+    },
+    {
+      "title": "LeBron James next team predictions: Heat jump ahead Cavs after mistakenly published press conference link",
+      "link": "https://www.cbssports.com/prediction/news/lebron-james-next-team-predictions-heat-jump-ahead-cavs-after-mistakenly-published-press-conference-link/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784734867
+    },
     {
       "title": "If you pay a hacker’s ransom, chances are that they’ll come back for more",
       "link": "https://techcrunch.com/2026/07/22/if-you-pay-a-hackers-ransom-chances-are-that-theyll-come-back-for-more/",
@@ -14,6 +77,20 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784734108
+    },
+    {
+      "title": "Stalker 2 Turned a Profit Before It Came Out Thanks to Money Microsoft Paid for Xbox Exclusivity",
+      "link": "https://www.ign.com/articles/stalker-2-turned-a-profit-before-it-came-out-thanks-to-money-microsoft-paid-for-xbox-exclusivity",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784734029
+    },
+    {
+      "title": "Kevin Feige Says Marvel Has Movies Planned 'All the Way Up to 2042,' Including a Major X-Men Push and Live-Action Miles Morales",
+      "link": "https://www.ign.com/articles/kevin-feige-says-marvel-has-movies-planned-all-the-way-up-to-2042-including-a-major-x-men-push-and-live-action-miles-morales",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784733686
     },
     {
       "title": "Astronomers may have discovered the 1st moon outside of our solar system — or is it something weirder?",
@@ -30,17 +107,17 @@
       "timestamp": 1784729828
     },
     {
-      "title": "How Luke and Anakin's Missing Hands Reshaped Kylo Ren's Lightsaber - Exclusive",
-      "link": "https://www.ign.com/articles/why-kylo-ren-lightsaber-has-crossguard",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784728800
-    },
-    {
       "title": "Our 1st-ever up-close look at the Martian surface | Space photo of the day for July 22, 2026",
       "link": "https://www.space.com/astronomy/mars/our-1st-ever-up-close-look-at-the-martian-surface-space-photo-of-the-day-for-july-22-2026",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1784728800
+    },
+    {
+      "title": "How Luke and Anakin's Missing Hands Reshaped Kylo Ren's Lightsaber - Exclusive",
+      "link": "https://www.ign.com/articles/why-kylo-ren-lightsaber-has-crossguard",
+      "source": "IGN",
+      "category": "gaming",
       "timestamp": 1784728800
     },
     {
@@ -107,17 +184,17 @@
       "timestamp": 1784725200
     },
     {
-      "title": "Black Lake Horror Game Announced for PC",
-      "link": "https://www.ign.com/articles/black-lake-horror-game-announced-for-pc",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784725200
-    },
-    {
       "title": "'The court has to intervene now': Indigenous groups and conservationists condemn SpaceX's South Texas land swap",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/the-court-has-to-intervene-now-indigenous-groups-and-conservationists-condemn-spacexs-south-texas-land-swap",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1784725200
+    },
+    {
+      "title": "Black Lake Horror Game Announced for PC",
+      "link": "https://www.ign.com/articles/black-lake-horror-game-announced-for-pc",
+      "source": "IGN",
+      "category": "gaming",
       "timestamp": 1784725200
     },
     {
@@ -247,13 +324,6 @@
       "timestamp": 1784696536
     },
     {
-      "title": "Wreckreation 2 Announced Despite Studio Closure, Just Nine Months After the Original Arrived",
-      "link": "https://www.ign.com/articles/wreckreation-2-announced-despite-studio-closure-just-nine-months-after-the-original-arrived",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784695166
-    },
-    {
       "title": "Magic mushrooms may reshape the brain long after the trip ends",
       "link": "https://www.sciencedaily.com/releases/2026/07/260719040005.htm",
       "source": "SCIENCEDAILY",
@@ -275,13 +345,6 @@
       "timestamp": 1784683678
     },
     {
-      "title": "Former Tekken Director Katsuhiro Harada Reveals He Totally Misunderstood What Getting Invited To the Cookout Meant After Fans Loved the Leroy Smith Reveal",
-      "link": "https://www.ign.com/articles/former-tekken-director-katsuhiro-harada-reveals-he-totally-misunderstood-what-getting-invited-to-the-cookout-meant-after-fans-loved-the-leroy-smith-reveal",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784681766
-    },
-    {
       "title": "Meta is testing an AI bedtime story app for people with no imagination",
       "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
       "source": "TECHCRUNCH",
@@ -289,25 +352,11 @@
       "timestamp": 1784678110
     },
     {
-      "title": "Ed Harris Reveals Dutton Ranch Scene Producers Cut That Made Him Want to Quit the Yellowstone Spinoff",
-      "link": "https://www.ign.com/articles/ed-harris-reveals-dutton-ranch-scene-producers-cut-that-made-him-want-to-quit-the-yellowstone-spinoff",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784675755
-    },
-    {
       "title": "Range Rover answers the question: \"What if we built a not-SUV?\"",
       "link": "https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1784674883
-    },
-    {
-      "title": "New La La Land Poster Finally Fixes Issue That Bothered Ryan Gosling for Years",
-      "link": "https://www.ign.com/articles/new-la-la-land-poster-finally-fixes-issue-that-bothered-ryan-gosling-for-years",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784671716
     },
     {
       "title": "On the run for 20 years, most-wanted fugitive caught hiding as a biotech exec",
@@ -338,13 +387,6 @@
       "timestamp": 1784667415
     },
     {
-      "title": "LeBron James next team predictions: Four-time MVP in no rush to make decision, Heat gain ground on Cavs",
-      "link": "https://www.cbssports.com/prediction/news/lebron-james-next-team-predictions-four-time-mvp-in-no-rush-to-make-decision-heat-gain-ground-on-cavs/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784665369
-    },
-    {
       "title": "Alien life likely can't survive on exoplanets smaller than Mars, scientists say",
       "link": "https://www.space.com/space-exploration/search-for-life/alien-life-likely-cant-survive-on-exoplanets-smaller-than-mars-scientists-say",
       "source": "SPACE",
@@ -359,32 +401,11 @@
       "timestamp": 1784663410
     },
     {
-      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-      "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784663021
-    },
-    {
-      "title": "AI and the rise of the universal entertainment app",
-      "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784662770
-    },
-    {
       "title": "Confusion swirls on source of diarrhea outbreak, but it’s still Taylor Farms",
       "link": "https://arstechnica.com/health/2026/07/confusion-swirls-on-source-of-diarrhea-outbreak-but-its-still-taylor-farms/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1784662750
-    },
-    {
-      "title": "Bucking EV slowdown, Sila raises $300M to expand battery materials factory",
-      "link": "https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784662595
     },
     {
       "title": "Nintendo says users voluntarily paid higher prices, have no right to tariff refunds",
@@ -399,13 +420,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784660400
-    },
-    {
-      "title": "Einride bets $38M on EV charging as it scales electric trucking",
-      "link": "https://techcrunch.com/2026/07/21/einride-bets-38m-on-ev-charging-as-it-scales-electric-trucking/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784659718
     },
     {
       "title": "SpaceX Falcon 9 rocket sends Starlink satellites to orbit a day after rare launch abort",
@@ -520,13 +534,6 @@
       "timestamp": 1784640977
     },
     {
-      "title": "SpaceX launches satellite repair drone with 10-foot robotic arms to Earth orbit (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-northrop-grumman-mrv-mep-satellite-servicing-mission",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784638800
-    },
-    {
       "title": "MLB trade deadline buyers and sellers guide; handing out NBA offseason grades",
       "link": "https://www.cbssports.com/mlb/news/mlb-trade-deadline-buyers-sellers-nba-offseason-grades/",
       "source": "CBSSPORTS",
@@ -539,13 +546,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1784637575
-    },
-    {
-      "title": "A massive crater was spotted on Google Earth. It could be a scar from an ancient meteorite impact",
-      "link": "https://www.space.com/astronomy/earth/a-massive-crater-was-spotted-on-google-earth-it-could-be-a-scar-from-an-ancient-meteorite-impact",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784635200
     },
     {
       "title": "Astronomers find the first atmosphere on a rocky world in the habitable zone",
