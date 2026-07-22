@@ -1,6 +1,55 @@
 {
-  "last_updated": 1784747472,
+  "last_updated": 1784754460,
   "items": [
+    {
+      "title": "China's record-breaking Gravity-1 rocket launches 9 satellites from a ship at sea (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/chinas-record-breaking-gravity-1-rocket-launches-9-satellites-from-a-ship-at-sea-video",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784754000
+    },
+    {
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+      "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784753343
+    },
+    {
+      "title": "Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips",
+      "link": "https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784753018
+    },
+    {
+      "title": "Social media addiction lawsuit against Meta is dropped",
+      "link": "https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784752601
+    },
+    {
+      "title": "5 disturbing things we saw after digging into the recent 'Dune: Part 3' trailer",
+      "link": "https://www.space.com/entertainment/space-movies-shows/5-disturbing-things-we-saw-after-digging-into-the-recent-dune-part-3-trailer",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784750400
+    },
+    {
+      "title": "SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown",
+      "link": "https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784749376
+    },
+    {
+      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784747506
+    },
     {
       "title": "After nearly 30 years, NASA realized this near-Earth asteroid is actually a comet. The discovery may help us defend the planet some day",
       "link": "https://www.space.com/astronomy/comets/after-nearly-30-years-nasa-realized-this-near-earth-asteroid-is-actually-a-comet-the-discovery-may-help-us-defend-the-planet-some-day",
@@ -170,7 +219,7 @@
       "timestamp": 1784734108
     },
     {
-      "title": "Stalker 2 Turned a Profit Before It Came Out Thanks to Money Microsoft Paid for Xbox Exclusivity",
+      "title": "[UPDATE] Stalker 2 Dev Hits Out at Founder's Comments on Xbox Exclusivity, Insist He Doesn't Know What He's Talking About",
       "link": "https://www.ign.com/articles/stalker-2-turned-a-profit-before-it-came-out-thanks-to-money-microsoft-paid-for-xbox-exclusivity",
       "source": "IGN",
       "category": "gaming",
@@ -247,32 +296,11 @@
       "timestamp": 1784726916
     },
     {
-      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-      "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784726435
-    },
-    {
       "title": "Ancient ferns turned Triassic Europe into a wildfire inferno",
       "link": "https://www.sciencedaily.com/releases/2026/07/260722032105.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1784725801
-    },
-    {
-      "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
-      "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784725200
-    },
-    {
-      "title": "WhatsApp adds Apple CarPlay and Android Auto upgrades, iPad sign-ups, and more",
-      "link": "https://techcrunch.com/2026/07/22/whatsapp-adds-apple-carplay-and-android-auto-upgrades-ipad-sign-ups-and-more/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784725200
     },
     {
       "title": "'The court has to intervene now': Indigenous groups and conservationists condemn SpaceX's South Texas land swap",
@@ -352,13 +380,6 @@
       "timestamp": 1784715737
     },
     {
-      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-      "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784714400
-    },
-    {
       "title": "Metal spheres found in Australia show how little we still know about falling space debris, experts say",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/metal-spheres-found-in-australia-show-how-little-we-still-know-about-falling-space-debris-experts-say",
       "source": "SPACE",
@@ -378,13 +399,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1784712232
-    },
-    {
-      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-      "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784707200
     },
     {
       "title": "Scientists revive a powerful antibiotic that superbugs had defeated",
@@ -511,20 +525,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1784653954
-    },
-    {
-      "title": "Artemis III astronauts will beam 4k video from Orion to Earth using SpaceX Starlink lasers",
-      "link": "https://www.space.com/space-exploration/artemis/artemis-iii-astronauts-will-beam-4k-video-from-orion-to-earth-using-spacex-starlink-lasers",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784653200
-    },
-    {
-      "title": "The 'Avengers Doomsday' trailer is cool, but it's missing something... where's all the space stuff?",
-      "link": "https://www.space.com/entertainment/space-movies-shows/the-avengers-doomsday-trailer-is-cool-but-its-missing-something-wheres-all-the-space-stuff-at",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784649600
     },
     {
       "title": "LeBron James rumors: Rich Paul says free agency decision 'is not going to be rushed'",
