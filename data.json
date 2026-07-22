@@ -1,6 +1,34 @@
 {
-  "last_updated": 1784678016,
+  "last_updated": 1784686984,
   "items": [
+    {
+      "title": "Dimension Capital’s $800M third fund shows the intersection of science and compute is booming",
+      "link": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784683678
+    },
+    {
+      "title": "Former Tekken Director Katsuhiro Harada Reveals He Totally Misunderstood What Getting Invited To the Cookout Meant After Fans Loved the Leroy Smith Reveal",
+      "link": "https://www.ign.com/articles/former-tekken-director-katsuhiro-harada-reveals-he-totally-misunderstood-what-getting-invited-to-the-cookout-meant-after-fans-loved-the-leroy-smith-reveal",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784681766
+    },
+    {
+      "title": "Meta is testing an AI bedtime story app for people with no imagination",
+      "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784678110
+    },
+    {
+      "title": "Ed Harris Reveals Dutton Ranch Scene Producers Cut That Made Him Want to Quit the Yellowstone Spinoff",
+      "link": "https://www.ign.com/articles/ed-harris-reveals-dutton-ranch-scene-producers-cut-that-made-him-want-to-quit-the-yellowstone-spinoff",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784675755
+    },
     {
       "title": "Range Rover answers the question: \"What if we built a not-SUV?\"",
       "link": "https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/",
@@ -44,8 +72,8 @@
       "timestamp": 1784667455
     },
     {
-      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
-      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+      "title": "OpenAI says Hugging Face was breached by its pre-release models",
+      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1784667415
@@ -352,20 +380,6 @@
       "timestamp": 1784646000
     },
     {
-      "title": "After TikTok, Snap settles social media addiction case",
-      "link": "https://techcrunch.com/2026/07/21/after-tiktok-snap-settles-social-media-addiction-case/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784645659
-    },
-    {
-      "title": "AI music generator Suno breach affects 55M users, per Have I Been Pwned",
-      "link": "https://techcrunch.com/2026/07/21/ai-music-generator-suno-breach-affects-55m-users-per-have-i-been-pwned/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784645298
-    },
-    {
       "title": "Ex-Forza Horizon Director Traces a Line From the Failure of 'Well-Meaning' Game Pass to the Current Xbox Layoffs",
       "link": "https://www.ign.com/articles/ex-forza-horizon-director-traces-a-line-from-the-failure-of-well-meaning-game-pass-to-the-current-xbox-layoffs",
       "source": "IGN",
@@ -380,25 +394,11 @@
       "timestamp": 1784642400
     },
     {
-      "title": "Spider-Man: Brand New Day Director Insists 'There's a Very Real Reason Not to Tell People Who Sadie Sink is Playing'",
-      "link": "https://www.ign.com/articles/spider-man-brand-new-day-director-insists-theres-a-very-real-reason-not-to-tell-people-who-sadie-sink-is-playing",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784641563
-    },
-    {
       "title": "When your vehicle outlives its cloud: What happens next?",
       "link": "https://arstechnica.com/cars/2026/07/when-your-vehicle-outlives-its-cloud-what-happens-next/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1784640977
-    },
-    {
-      "title": "Halo: Campaign Evolved and Game Freak's Beast of Reincarnation Lead Xbox Game Pass July 2026 Wave 2 Lineup",
-      "link": "https://www.ign.com/articles/halo-campaign-evolved-and-game-freaks-beast-of-reincarnation-lead-xbox-game-pass-july-2026-wave-2-lineup",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784640148
     },
     {
       "title": "Apps targeted at US troops contain Chinese and Russian code",
