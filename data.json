@@ -1,6 +1,48 @@
 {
-  "last_updated": 1784827096,
+  "last_updated": 1784833841,
   "items": [
+    {
+      "title": "Anthropic updates Claude voice mode with more capable models",
+      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784833200
+    },
+    {
+      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784831914
+    },
+    {
+      "title": "Final Coyote vs. Acme trailer drops at SDCC",
+      "link": "https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784829706
+    },
+    {
+      "title": "How much better is the Canon EOS R6 III than previous models for astrophotography?",
+      "link": "https://www.space.com/stargazing/astrophotography/how-much-better-is-the-canon-eos-r6-iii-than-previous-models-for-astrophotography",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784829600
+    },
+    {
+      "title": "US government says Iran-linked hackers are disrupting American water and energy providers",
+      "link": "https://techcrunch.com/2026/07/23/us-government-says-iran-linked-hackers-are-disrupting-american-water-and-energy-providers/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784827628
+    },
+    {
+      "title": "The Steam Deck's Demand Has Reportedly Cratered",
+      "link": "https://www.ign.com/articles/the-steam-decks-demand-has-reportedly-cratered",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784826754
+    },
     {
       "title": "Runway launches AI model router as generative media gets crowded",
       "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
@@ -9,7 +51,7 @@
       "timestamp": 1784826455
     },
     {
-      "title": "OpenAI makes ChatGPT Health available to all U.S. users",
+      "title": "OpenAI makes ChatGPT Health available to all US users",
       "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -23,11 +65,25 @@
       "timestamp": 1784825922
     },
     {
+      "title": "A woman got a UTI. Two years later, the bacteria had evolved, invaded her brain.",
+      "link": "https://arstechnica.com/health/2026/07/woman-loses-vision-in-one-eye-after-uti-bacteria-evolves-to-invade-her-brain/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784825906
+    },
+    {
       "title": "Supergirl Sets Digital Release Date After Disappointing Run in Theaters",
       "link": "https://www.ign.com/articles/supergirl-sets-digital-release-date-after-disappointing-run-in-theaters",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1784825894
+    },
+    {
+      "title": "Google hit with $1 billion in fines as EU braces for Trump battle",
+      "link": "https://arstechnica.com/tech-policy/2026/07/google-hit-with-1-billion-in-fines-as-eu-braces-for-trump-battle/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784824896
     },
     {
       "title": "Disgaea Creator Slams Sony for Scrapping Discs, Says PlayStation Might as Well 'Go All the Way' and Scrap Consoles Too",
@@ -51,6 +107,13 @@
       "timestamp": 1784824130
     },
     {
+      "title": "Sony's decision to ditch discs was practically inevitable, data shows",
+      "link": "https://arstechnica.com/gaming/2026/07/the-playstation-game-disc-was-dying-long-before-sony-pulled-the-plug/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784823946
+    },
+    {
       "title": "'She's Not in This Movie': Tom Holland Insists Jean Grey Won't Appear in Spider-Man: Brand New Day — So Is He Lying, or Is Sadie Sink Really Playing Someone Else?",
       "link": "https://www.ign.com/articles/shes-not-in-this-movie-tom-holland-insists-jean-grey-wont-appear-in-spider-man-brand-new-day-so-is-he-lying-or-is-sadie-sink-really-playing-someone-else",
       "source": "IGN",
@@ -63,6 +126,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1784822747
+    },
+    {
+      "title": "Google just had its first negative cash flow quarter due to massive AI spending",
+      "link": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784822659
     },
     {
       "title": "Google will now let you sign in to your account with a selfie video",
@@ -275,25 +345,11 @@
       "timestamp": 1784805801
     },
     {
-      "title": "Sony Knew Killing Discs Would Be 'An Enormous PR Issue' and Had 'Strictest' Guidelines to Gag Staff From Commenting on Controversy, Former God of War Dev Claims",
-      "link": "https://www.ign.com/articles/sony-knew-killing-discs-would-be-an-enormous-pr-issue-and-had-strictest-guidelines-to-gag-staff-from-commenting-on-controversy-former-god-of-war-dev-claims",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784804928
-    },
-    {
       "title": "I wanted a clock that never needed setting. Things escalated.",
       "link": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1784804450
-    },
-    {
-      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
-      "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784804400
     },
     {
       "title": "The James Webb Space Telescope's disappearing 'Little Red Dots' may lead to another cosmic puzzle",
@@ -308,13 +364,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1784787240
-    },
-    {
-      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-      "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784786953
     },
     {
       "title": "NASA’s Webb telescope discovers giant planet hiding in one of astronomy’s most famous systems",
@@ -336,13 +385,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1784769039
-    },
-    {
-      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-      "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784764074
     },
     {
       "title": "Sales were up at Tesla but so were costs and spending",
@@ -457,13 +499,6 @@
       "timestamp": 1784732400
     },
     {
-      "title": "What happens when you try to chop a photon in half?",
-      "link": "https://arstechnica.com/science/2026/07/what-happens-when-you-try-to-chop-a-photon-in-half/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784729828
-    },
-    {
       "title": "Our 1st-ever up-close look at the Martian surface | Space photo of the day for July 22, 2026",
       "link": "https://www.space.com/astronomy/mars/our-1st-ever-up-close-look-at-the-martian-surface-space-photo-of-the-day-for-july-22-2026",
       "source": "SPACE",
@@ -471,25 +506,11 @@
       "timestamp": 1784728800
     },
     {
-      "title": "Samsung unveils new Galaxy Z8 foldables and Galaxy Watches, available August 7",
-      "link": "https://arstechnica.com/gadgets/2026/07/samsung-unveils-new-galaxy-z8-foldables-and-galaxy-watches-available-august-7/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784728704
-    },
-    {
       "title": "Heat say LeBron James video was posted accidentally after sparking social media frenzy",
       "link": "https://www.cbssports.com/nba/news/heat-lebron-james-video-posted-accidentally/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784727534
-    },
-    {
-      "title": "Unlimited AI tokens aren't unlimited after all as US Army burns through supply",
-      "link": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784727317
     },
     {
       "title": "Ancient ferns turned Triassic Europe into a wildfire inferno",
@@ -527,20 +548,6 @@
       "timestamp": 1784721600
     },
     {
-      "title": "Ukrainian drones deliver robots directly into battle by sea and air",
-      "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drones-deliver-robots-directly-into-battle-by-sea-and-air/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784718903
-    },
-    {
-      "title": "Metal spheres found in Australia show how little we still know about falling space debris, experts say",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/metal-spheres-found-in-australia-show-how-little-we-still-know-about-falling-space-debris-experts-say",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784714400
-    },
-    {
       "title": "Scientists revive a powerful antibiotic that superbugs had defeated",
       "link": "https://www.sciencedaily.com/releases/2026/07/260722032108.htm",
       "source": "SCIENCEDAILY",
@@ -560,13 +567,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1784693566
-    },
-    {
-      "title": "Range Rover answers the question: \"What if we built a not-SUV?\"",
-      "link": "https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784674883
     },
     {
       "title": "The most overlooked element of the LeBron James free agency saga? This season doesn't need to be his last",
