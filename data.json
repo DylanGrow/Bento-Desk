@@ -1,6 +1,69 @@
 {
-  "last_updated": 1784801928,
+  "last_updated": 1784809325,
   "items": [
+    {
+      "title": "Should Artemis IV astronauts actually land near the moon's south pole? Artemis II pilot says the lunar equator might be better",
+      "link": "https://www.space.com/space-exploration/artemis/should-artemis-iv-astronauts-actually-land-near-the-moons-south-pole-artemis-ii-pilot-says-the-lunar-equator-might-be-better",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784808000
+    },
+    {
+      "title": "After Star Fox's Launch and Zelda: Ocarina of Time's Announcement, Miyamoto Defends Nintendo's Recent Spate of Remakes and Says They Lead to 'Future Developments'",
+      "link": "https://www.ign.com/articles/after-star-foxs-launch-and-zelda-ocarina-of-times-announcement-miyamoto-defends-nintendos-recent-spate-of-remakes-and-says-they-lead-to-future-developments",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784806679
+    },
+    {
+      "title": "White House report says Trump can usher in a \"new golden age\" of science",
+      "link": "https://arstechnica.com/science/2026/07/white-house-report-says-trump-can-usher-in-a-new-golden-age-of-science/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784805801
+    },
+    {
+      "title": "Sony Knew Killing Discs Would Be 'An Enormous PR Issue' and Had 'Strictest' Guidelines to Gag Staff From Commenting on Controversy, Former God of War Dev Claims",
+      "link": "https://www.ign.com/articles/sony-knew-killing-discs-would-be-an-enormous-pr-issue-and-had-strictest-guidelines-to-gag-staff-from-commenting-on-controversy-former-god-of-war-dev-claims",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784804928
+    },
+    {
+      "title": "I wanted a clock that never needed setting. Things escalated.",
+      "link": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784804450
+    },
+    {
+      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+      "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784804400
+    },
+    {
+      "title": "For One Night Only is a New Showcase Celebrating UK Video Game Talent, Here’s How To Watch.",
+      "link": "https://www.ign.com/articles/for-one-night-only-is-a-new-showcase-celebrating-uk-video-game-talent-heres-how-to-watch",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784803990
+    },
+    {
+      "title": "First Look at Warhammer Blood Bowl, the Free Overhaul for Blood Bowl 3 Due Out Fall 2026",
+      "link": "https://www.ign.com/articles/first-look-at-warhammer-blood-bowl-the-free-overhaul-for-blood-bowl-3-due-out-fall-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784802265
+    },
+    {
+      "title": "The Lord of the Rings: The Rings of Power is Finally Introducing Galadriel's Husband Celeborn — And a Famous Face From Stranger Things is Playing Her 'Lover-Boy' Beau",
+      "link": "https://www.ign.com/articles/the-lord-of-the-rings-the-rings-of-power-is-finally-introducing-galadriels-husband-celeborn-and-a-famous-face-from-stranger-things-is-playing-her-lover-boy-beau",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784801243
+    },
     {
       "title": "The James Webb Space Telescope's disappearing 'Little Red Dots' may lead to another cosmic puzzle",
       "link": "https://www.space.com/astronomy/james-webb-space-telescope/the-james-webb-space-telescopes-disappearing-little-red-dots-may-lead-to-another-cosmic-puzzle",
@@ -268,13 +331,6 @@
       "timestamp": 1784737448
     },
     {
-      "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
-      "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784737389
-    },
-    {
       "title": "'Terminator 2: Judgment Day' is time-travelling back into theaters next month for a 35th anniversary re-release",
       "link": "https://www.space.com/entertainment/space-movies-shows/terminator-2-judgment-day-is-time-travelling-back-into-theaters-next-month-for-a-35th-anniversary-re-release",
       "source": "SPACE",
@@ -317,13 +373,6 @@
       "timestamp": 1784734029
     },
     {
-      "title": "Kevin Feige Says Marvel Has Movies Planned 'All the Way Up to 2042,' Including a Major X-Men Push and Live-Action Miles Morales",
-      "link": "https://www.ign.com/articles/kevin-feige-says-marvel-has-movies-planned-all-the-way-up-to-2042-including-a-major-x-men-push-and-live-action-miles-morales",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784733686
-    },
-    {
       "title": "Astronomers may have discovered the 1st moon outside of our solar system — or is it something weirder?",
       "link": "https://www.space.com/astronomy/exoplanets/astronomers-may-have-discovered-the-1st-moon-outside-of-our-solar-system-or-is-it-something-weirder",
       "source": "SPACE",
@@ -345,25 +394,11 @@
       "timestamp": 1784728800
     },
     {
-      "title": "How Luke and Anakin's Missing Hands Reshaped Kylo Ren's Lightsaber - Exclusive",
-      "link": "https://www.ign.com/articles/why-kylo-ren-lightsaber-has-crossguard",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784728800
-    },
-    {
       "title": "Samsung unveils new Galaxy Z8 foldables and Galaxy Watches, available August 7",
       "link": "https://arstechnica.com/gadgets/2026/07/samsung-unveils-new-galaxy-z8-foldables-and-galaxy-watches-available-august-7/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1784728704
-    },
-    {
-      "title": "Avengers: Doomsday Trailer Has Some Fans Saying Marvel Should Have Built Up Towards Doctor Doom's Appearance Like It Did for Thanos — but There's a Clear Counterpoint",
-      "link": "https://www.ign.com/articles/avengers-doomsday-trailer-has-some-fans-saying-marvel-should-have-built-up-towards-doctor-dooms-appearance-like-it-did-for-thanos-but-theres-a-clear-counterpoint",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784728456
     },
     {
       "title": "Heat say LeBron James video was posted accidentally after sparking social media frenzy",
@@ -394,25 +429,11 @@
       "timestamp": 1784725200
     },
     {
-      "title": "Black Lake Horror Game Announced for PC",
-      "link": "https://www.ign.com/articles/black-lake-horror-game-announced-for-pc",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784725200
-    },
-    {
       "title": "Lab-grown mini brains may predict which Alzheimer’s treatments will work",
       "link": "https://www.sciencedaily.com/releases/2026/07/260721000844.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1784723665
-    },
-    {
-      "title": "Elon Musk Claims That Before the End of 2026, Grok Will Make a Full-Length AI Movie of The Odyssey 'That Is Historically Accurate and True to the Art of Homer'",
-      "link": "https://www.ign.com/articles/elon-musk-claims-that-before-the-end-of-2026-grok-will-make-a-full-length-ai-movie-of-the-odyssey-that-is-historically-accurate-and-true-to-the-art-of-homer",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784723340
     },
     {
       "title": "A strange quantum effect dramatically boosts energy transfer",
@@ -492,32 +513,11 @@
       "timestamp": 1784664916
     },
     {
-      "title": "Sony releases one last trailer for Spider-Man: Brand New Day",
-      "link": "https://arstechnica.com/culture/2026/07/sony-releases-one-last-trailer-for-spider-man-brand-new-day/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784663410
-    },
-    {
-      "title": "Confusion swirls on source of diarrhea outbreak, but it’s still Taylor Farms",
-      "link": "https://arstechnica.com/health/2026/07/confusion-swirls-on-source-of-diarrhea-outbreak-but-its-still-taylor-farms/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784662750
-    },
-    {
       "title": "Space Force orders 36 more Golden Dome missile-tracking satellites, for $1.75 billion",
       "link": "https://www.space.com/space-exploration/satellites/space-force-orders-36-more-golden-dome-missile-tracking-satellites-for-usd1-75-billion",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784660400
-    },
-    {
-      "title": "SpaceX Falcon 9 rocket sends Starlink satellites to orbit a day after rare launch abort",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-39-b1082-vsfb-ocisly",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784658600
     },
     {
       "title": "The most overlooked element of the LeBron James free agency saga? This season doesn't need to be his last",
