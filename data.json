@@ -1,6 +1,104 @@
 {
-  "last_updated": 1784906593,
+  "last_updated": 1784914005,
   "items": [
+    {
+      "title": "Build in public, fail in public: what it’s like to be a founder under 20 right now",
+      "link": "https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784912400
+    },
+    {
+      "title": "Anthropic launches Opus 5",
+      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784912400
+    },
+    {
+      "title": "India’s move against Jack Dorsey’s Bitchat sparks legal debate",
+      "link": "https://techcrunch.com/2026/07/24/indias-move-against-jack-dorseys-bitchat-sparks-legal-debate/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784912098
+    },
+    {
+      "title": "What's next for Bronny James after LeBron's decision to sign with the 76ers?",
+      "link": "https://www.cbssports.com/nba/news/bronny-james-next-move-lebron-lakers-76ers/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784911808
+    },
+    {
+      "title": "OpenAI’s own model went rogue before Kimi had Wall Street sweating",
+      "link": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784911808
+    },
+    {
+      "title": "LeBron James lands with 76ers: NBA superstar picks Philly over Cavs, Heat in shocking move",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-lands-76ers-free-agency/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784909846
+    },
+    {
+      "title": "Sam Altman’s biometric startup World raises $52.5M via crypto sale",
+      "link": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784909516
+    },
+    {
+      "title": "Even the Resident Evil Movie Isn't Safe from the PlayStation Physical Disc Controversy",
+      "link": "https://www.ign.com/articles/even-the-resident-evil-movie-isnt-safe-from-the-playstation-physical-disc-controversy",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784908928
+    },
+    {
+      "title": "LeBron James explains his decision to join the 76ers and how close he came to retiring",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-explains-76ers-decision/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784908906
+    },
+    {
+      "title": "What lurks beneath the volcanoes of Jupiter's moon Io? NASA's Juno probe just took a peek",
+      "link": "https://www.space.com/astronomy/jupiter/juno-probe-reveals-whats-happening-beneath-the-surface-of-jupiters-most-volcanic-moon",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784908800
+    },
+    {
+      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+      "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784908309
+    },
+    {
+      "title": "Tomb Raider: Catalyst Delay to 2028 Confirmed by Amazon Games Boss",
+      "link": "https://www.ign.com/articles/tomb-raider-catalyst-delay-to-2028-confirmed-by-amazon-games-boss",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784907503
+    },
+    {
+      "title": "Sony's Nightmare Month Gets Worse as PlayStation Network Goes Down — Leaving Fans Unable to Play Digital Games Just Weeks After Killing Disc Controversy Erupted",
+      "link": "https://www.ign.com/articles/sonys-nightmare-month-gets-worse-as-playstation-network-goes-down-leaving-fans-unable-to-play-digital-games-just-weeks-after-killing-disc-controversy-erupted",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784906788
+    },
+    {
+      "title": "This is the world's most advanced robotic servicing satellite—that we know about",
+      "link": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784906586
+    },
     {
       "title": "Rivian sues the US government for ‘full refund’ of Trump tariffs",
       "link": "https://techcrunch.com/2026/07/24/rivian-sues-the-us-government-for-full-refund-of-trump-tariffs/",
@@ -23,6 +121,13 @@
       "timestamp": 1784905795
     },
     {
+      "title": "Rocket Report: Lightning strikes in China; Starship launch on deck",
+      "link": "https://arstechnica.com/space/2026/07/rocket-report-lightning-strikes-in-china-starship-launch-on-deck/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784903665
+    },
+    {
       "title": "Planet hunter gets the silent treatment | Space photo of the day for July 24, 2026",
       "link": "https://www.space.com/space-exploration/planet-hunter-gets-the-silent-treatment-space-photo-of-the-day-for-july-24-2026",
       "source": "SPACE",
@@ -35,6 +140,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1784901050
+    },
+    {
+      "title": "AI firms want more data centers; Trump's EPA may give neighbors less say",
+      "link": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784900978
     },
     {
       "title": "AI helps Stanford scientists discover “natural Ozempic” without the usual side effects",
@@ -268,20 +380,6 @@
       "timestamp": 1784838607
     },
     {
-      "title": "Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks",
-      "link": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784837604
-    },
-    {
-      "title": "Tesla’s door handles may spur new US safety rules",
-      "link": "https://techcrunch.com/2026/07/23/teslas-door-handles-may-spur-new-u-s-safety-rules/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784837181
-    },
-    {
       "title": "Scientists may have finally solved the mystery of the sun's missing silver",
       "link": "https://www.space.com/astronomy/sun/scientists-may-have-finally-solved-the-mystery-of-the-suns-missing-silver",
       "source": "SPACE",
@@ -294,20 +392,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1784836766
-    },
-    {
-      "title": "Meta drops out of a major clean energy pact as its natural gas buildout accelerates",
-      "link": "https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784835714
-    },
-    {
-      "title": "New Blue and Yellow Joy-Con 2 Are Now Available",
-      "link": "https://www.ign.com/articles/new-blue-and-yellow-joy-con-2-are-now-available",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784834684
     },
     {
       "title": "FDA reports new outbreak of explosive diarrhea with 72 cases identified",
@@ -331,20 +415,6 @@
       "timestamp": 1784833681
     },
     {
-      "title": "Anthropic updates Claude voice mode with more capable models",
-      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784833200
-    },
-    {
-      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784831914
-    },
-    {
       "title": "Tweety gets the third degree in final Coyote vs. Acme trailer",
       "link": "https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/",
       "source": "ARSTECHNICA",
@@ -359,20 +429,6 @@
       "timestamp": 1784829600
     },
     {
-      "title": "US government says Iran-linked hackers are disrupting American water and energy providers",
-      "link": "https://techcrunch.com/2026/07/23/us-government-says-iran-linked-hackers-are-disrupting-american-water-and-energy-providers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784827628
-    },
-    {
-      "title": "The Steam Deck's Demand Has Reportedly Cratered",
-      "link": "https://www.ign.com/articles/the-steam-decks-demand-has-reportedly-cratered",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784826754
-    },
-    {
       "title": "Former Louisville star Montrezl Harrell shines in Big3 after his double duty with team of ex-Cardinals in TBT",
       "link": "https://www.cbssports.com/college-basketball/news/montrezl-harrell-louisville-kentucky-tbt-big3-chicago-triplets-ville-la-familia/",
       "source": "CBSSPORTS",
@@ -385,13 +441,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1784825906
-    },
-    {
-      "title": "Supergirl Sets Digital Release Date After Disappointing Run in Theaters",
-      "link": "https://www.ign.com/articles/supergirl-sets-digital-release-date-after-disappointing-run-in-theaters",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784825894
     },
     {
       "title": "Google hit with $1 billion in fines as EU braces for Trump battle",
@@ -513,13 +562,6 @@
       "timestamp": 1784786284
     },
     {
-      "title": "Watch orcas ram a sunfish so hard it explodes",
-      "link": "https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784779238
-    },
-    {
       "title": "Scientists discover the hidden brain switch that assigns bees their jobs",
       "link": "https://www.sciencedaily.com/releases/2026/07/260722032117.htm",
       "source": "SCIENCEDAILY",
@@ -527,32 +569,11 @@
       "timestamp": 1784769039
     },
     {
-      "title": "Sales were up at Tesla but so were costs and spending",
-      "link": "https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784754919
-    },
-    {
       "title": "China's record-breaking Gravity-1 rocket launches 9 satellites from a ship at sea (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/chinas-record-breaking-gravity-1-rocket-launches-9-satellites-from-a-ship-at-sea-video",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784754000
-    },
-    {
-      "title": "Microsoft brings original Xbox backward compatibility to Windows PCs",
-      "link": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784752579
-    },
-    {
-      "title": "5 disturbing things we saw after digging into the recent 'Dune: Part 3' trailer",
-      "link": "https://www.space.com/entertainment/space-movies-shows/5-disturbing-things-we-saw-after-digging-into-the-recent-dune-part-3-trailer",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784750400
     },
     {
       "title": "LeBron James next team predictions: Heat jump ahead Cavs after mistakenly published press conference link",
@@ -651,27 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784576335
-    },
-    {
-      "title": "All-NBA Summer League teams: Top four picks all show out in Vegas, Cavs' second rounder shines, Bucks have MVP",
-      "link": "https://www.cbssports.com/nba/news/all-nba-summer-league-teams-2026/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784566323
-    },
-    {
-      "title": "NBA offseason grades for every East team: 76ers, Hornets ace moves, Celtics among many in C- range",
-      "link": "https://www.cbssports.com/nba/news/nba-offseason-grades-for-every-east-team-2026-76ers-celtics/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784560990
-    },
-    {
-      "title": "Lu Dort trade grades: Thunder clean up their books; Mavericks take buy-low swing on former No. 1 pick",
-      "link": "https://www.cbssports.com/nba/news/lu-dort-trade-grades-thunder-mavericks-hawks-zaccharie-risacher/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784482829
     }
   ]
 }
