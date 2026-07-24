@@ -1,6 +1,55 @@
 {
-  "last_updated": 1784920799,
+  "last_updated": 1784926721,
   "items": [
+    {
+      "title": "Waymo reportedly mulling a breakup with Uber",
+      "link": "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784925815
+    },
+    {
+      "title": "LeBron James picks the 76ers: Grading his 'last decision' as Philly beats out Heat, Cavaliers, Warriors",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-76ers-grades/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784923524
+    },
+    {
+      "title": "LeBron James lands with 76ers: NBA superstar picks Philly over Cavs, Heat in shocking move",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-lands-76ers-free-agency/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784923485
+    },
+    {
+      "title": "ZWO Seestar S30 Pro smart telescope review",
+      "link": "https://www.space.com/stargazing/skywatching-kit/zwo-seestar-s30-pro-smart-telescope-review",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784923200
+    },
+    {
+      "title": "Volkswagen engineers charged with insider trading tied to Rivian joint venture",
+      "link": "https://techcrunch.com/2026/07/24/volkswagen-engineers-charged-with-insider-trading-tied-to-rivian-joint-venture/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784922983
+    },
+    {
+      "title": "Halo: Campaign Evolved Secret Ending Cutscene Suggests a Halo 2 Remake Is on the Way",
+      "link": "https://www.ign.com/articles/halo-campaign-evolved-secret-ending-cutscene-suggests-a-halo-2-remake-is-on-the-way",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784922198
+    },
+    {
+      "title": "Incredibles Director Brad Bird's Long-Planned 1906 San Francisco Earthquake Project Could Become a Miniseries | Comic Con 2026",
+      "link": "https://www.ign.com/articles/brad-bird-1906-earthquake-miniseries",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784920852
+    },
     {
       "title": "RFK Jr.'s hand-picked committee approves manufacture of peptides he uses",
       "link": "https://arstechnica.com/health/2026/07/rfk-jr-s-hand-picked-committee-approves-manufacture-of-peptides-he-uses/",
@@ -9,11 +58,32 @@
       "timestamp": 1784920209
     },
     {
+      "title": "Why the 76ers have the Celtics and Knicks to thank for landing LeBron James",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-signs-with-76ers-celtics-knicks-nba/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784918881
+    },
+    {
+      "title": "LeBron James, against all odds, trusts the process -- and he's exactly what the title-starved 76ers need",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-trusts-the-process-76ers/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784918422
+    },
+    {
       "title": "In The Lord of the Rings: The Rings of Power Season 3, the Balrog Speaks — and It's Simon Pegg | Comic Con 2026",
       "link": "https://www.ign.com/articles/in-the-lord-of-the-rings-the-rings-of-power-season-3-the-balrog-speaks-and-its-simon-pegg-comic-con-2026",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1784917807
+    },
+    {
+      "title": "NBA odds: LeBron James signing with 76ers causes massive movement in futures markets",
+      "link": "https://www.cbssports.com/betting/news/nba-odds-lebron-james-signing-with-76ers-causes-massive-movement-in-futures-markets/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784916685
     },
     {
       "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
@@ -56,13 +126,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1784915105
-    },
-    {
-      "title": "LeBron James picks the 76ers: Grading his 'last decision' as Philly beats out Heat, Cavaliers, Warriors",
-      "link": "https://www.cbssports.com/nba/news/lebron-james-76ers-grades/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784914455
     },
     {
       "title": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark",
@@ -121,13 +184,6 @@
       "timestamp": 1784911808
     },
     {
-      "title": "LeBron James lands with 76ers: NBA superstar picks Philly over Cavs, Heat in shocking move",
-      "link": "https://www.cbssports.com/nba/news/lebron-james-lands-76ers-free-agency/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784909846
-    },
-    {
       "title": "Sam Altman’s biometric startup World raises $52.5M via crypto sale",
       "link": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
       "source": "TECHCRUNCH",
@@ -170,7 +226,7 @@
       "timestamp": 1784907503
     },
     {
-      "title": "Sony's Nightmare Month Gets Worse as PlayStation Network Goes Down — Leaving Fans Unable to Play Digital Games Just Weeks After Killing Disc Controversy Erupted",
+      "title": "PlayStation Network Back Online After Outage Causes PSN Users to Lose Access to Their Games for Hours",
       "link": "https://www.ign.com/articles/sonys-nightmare-month-gets-worse-as-playstation-network-goes-down-leaving-fans-unable-to-play-digital-games-just-weeks-after-killing-disc-controversy-erupted",
       "source": "IGN",
       "category": "gaming",
@@ -373,34 +429,6 @@
       "timestamp": 1784857510
     },
     {
-      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784854800
-    },
-    {
-      "title": "Meet the judges who will crown Australia’s next breakout startup",
-      "link": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784851500
-    },
-    {
-      "title": "House of the Dragon Larys Strong Actor Matthew Needham Voices Joker in Batman: Caped Crusader Season 2 | Comic Con 2026",
-      "link": "https://www.ign.com/articles/house-of-the-dragon-larys-strong-actor-matthew-needham-voices-joker-in-batman-caped-crusader-season-2-comic-con-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784849442
-    },
-    {
-      "title": "Amazon Prime Has an Exclusive Batman Video Game Set to Launch Alongside Batman: Caped Crusader Season 2 | Comic Con 2026",
-      "link": "https://www.ign.com/articles/amazon-prime-has-an-exclusive-batman-video-game-set-to-launch-alongside-batman-caped-crusader-season-2-comic-con-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784849405
-    },
-    {
       "title": "Winners and losers of LeBron James' long free agency: Prediction markets cash in as NBA schedule makers wait",
       "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-winners-losers-nba-rich-paul-heat/",
       "source": "CBSSPORTS",
@@ -555,13 +583,6 @@
       "timestamp": 1784808000
     },
     {
-      "title": "The James Webb Space Telescope's disappearing 'Little Red Dots' may lead to another cosmic puzzle",
-      "link": "https://www.space.com/astronomy/james-webb-space-telescope/the-james-webb-space-telescopes-disappearing-little-red-dots-may-lead-to-another-cosmic-puzzle",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784800800
-    },
-    {
       "title": "NASA will test SpaceX and Blue Origin Moon landers before the next lunar landing",
       "link": "https://www.sciencedaily.com/releases/2026/07/260722032113.htm",
       "source": "SCIENCEDAILY",
@@ -651,27 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784648738
-    },
-    {
-      "title": "NBA offseason grades for every West team: Clippers have had the best summer ... for now",
-      "link": "https://www.cbssports.com/nba/news/nba-offseason-grades-western-conference-2026/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784647186
-    },
-    {
-      "title": "MLB trade deadline buyers and sellers guide; handing out NBA offseason grades",
-      "link": "https://www.cbssports.com/mlb/news/mlb-trade-deadline-buyers-sellers-nba-offseason-grades/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784638487
-    },
-    {
-      "title": "Pat Riley knows he had to 'let go' after LeBron James left Heat: 'I thought we were looking at a dynasty'",
-      "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-heat-pat-riley-legacy/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784581117
     }
   ]
 }
