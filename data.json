@@ -1,6 +1,90 @@
 {
-  "last_updated": 1784914005,
+  "last_updated": 1784920799,
   "items": [
+    {
+      "title": "RFK Jr.'s hand-picked committee approves manufacture of peptides he uses",
+      "link": "https://arstechnica.com/health/2026/07/rfk-jr-s-hand-picked-committee-approves-manufacture-of-peptides-he-uses/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784920209
+    },
+    {
+      "title": "In The Lord of the Rings: The Rings of Power Season 3, the Balrog Speaks — and It's Simon Pegg | Comic Con 2026",
+      "link": "https://www.ign.com/articles/in-the-lord-of-the-rings-the-rings-of-power-season-3-the-balrog-speaks-and-its-simon-pegg-comic-con-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784917807
+    },
+    {
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784916452
+    },
+    {
+      "title": "Judge rebuffs Trump admin demand for phone records from NYT reporters",
+      "link": "https://arstechnica.com/tech-policy/2026/07/judge-rebuffs-trump-admin-demand-for-phone-records-from-nyt-reporters/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784916141
+    },
+    {
+      "title": "We boldly chat to 'Star Trek: Strange New Worlds' showrunners about dinosaurs in space and Lovecraftian horrors for season 4 (interview)",
+      "link": "https://www.space.com/entertainment/space-movies-shows/we-boldly-chat-to-star-trek-strange-new-worlds-showrunners-about-dinosaurs-in-space-and-lovecraftian-horrors-for-season-4-interview",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784916000
+    },
+    {
+      "title": "Marvel Is Finally Publishing New Indiana Jones Comics | Comic Con 2026",
+      "link": "https://www.ign.com/articles/marvel-is-finally-publishing-new-indiana-jones-comics-comic-con-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784916000
+    },
+    {
+      "title": "US accuses American of allegedly wiping his phone using a ‘duress’ password during border search",
+      "link": "https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784915610
+    },
+    {
+      "title": "European Union grants US request to restrict satellite images of Iran War region",
+      "link": "https://arstechnica.com/space/2026/07/european-union-grants-us-request-to-restrict-satellite-images-of-iran-war-region/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784915105
+    },
+    {
+      "title": "LeBron James picks the 76ers: Grading his 'last decision' as Philly beats out Heat, Cavaliers, Warriors",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-76ers-grades/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1784914455
+    },
+    {
+      "title": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark",
+      "link": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784914399
+    },
+    {
+      "title": "The Future's Bright in Blade Runner 2099's Debut Trailer | Comic Con 2026",
+      "link": "https://www.ign.com/articles/the-futures-bright-in-blade-runner-2099s-debut-trailer-comic-con-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784914296
+    },
+    {
+      "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
+      "link": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784914286
+    },
     {
       "title": "Build in public, fail in public: what it’s like to be a founder under 20 right now",
       "link": "https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
@@ -23,17 +107,17 @@
       "timestamp": 1784912098
     },
     {
-      "title": "What's next for Bronny James after LeBron's decision to sign with the 76ers?",
-      "link": "https://www.cbssports.com/nba/news/bronny-james-next-move-lebron-lakers-76ers/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784911808
-    },
-    {
       "title": "OpenAI’s own model went rogue before Kimi had Wall Street sweating",
       "link": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/",
       "source": "TECHCRUNCH",
       "category": "tech",
+      "timestamp": 1784911808
+    },
+    {
+      "title": "What's next for Bronny James after LeBron's decision to sign with the 76ers?",
+      "link": "https://www.cbssports.com/nba/news/bronny-james-next-move-lebron-lakers-76ers/",
+      "source": "CBSSPORTS",
+      "category": "nba",
       "timestamp": 1784911808
     },
     {
@@ -205,7 +289,7 @@
       "timestamp": 1784892043
     },
     {
-      "title": "'It's Good to Be Back': Johnny Depp Meets Fans as Ebenezer Scrooge, as First Trailer Drops for His Big Hollywood Return",
+      "title": "'It's Good to Be Back': Johnny Depp Meets Fans as Ebenezer Scrooge, as First Trailer Drops for His Big Hollywood Return | Comic Con 2026",
       "link": "https://www.ign.com/articles/its-good-to-be-back-johnny-depp-meets-fans-as-ebenezer-scrooge-as-first-trailer-drops-for-his-big-hollywood-return",
       "source": "IGN",
       "category": "gaming",
@@ -261,7 +345,7 @@
       "timestamp": 1784872815
     },
     {
-      "title": "Seth Green’s Star Wars: Detours Will Finally See the Light of Day",
+      "title": "Seth Green’s Star Wars: Detours Will Finally See the Light of Day | Comic Con 2026",
       "link": "https://www.ign.com/articles/seth-greens-star-wars-detours-will-finally-see-the-light-of-day",
       "source": "IGN",
       "category": "gaming",
@@ -317,13 +401,6 @@
       "timestamp": 1784849405
     },
     {
-      "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
-      "link": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784846408
-    },
-    {
       "title": "Winners and losers of LeBron James' long free agency: Prediction markets cash in as NBA schedule makers wait",
       "link": "https://www.cbssports.com/nba/news/lebron-james-free-agency-winners-losers-nba-rich-paul-heat/",
       "source": "CBSSPORTS",
@@ -331,25 +408,11 @@
       "timestamp": 1784843964
     },
     {
-      "title": "After the Avengers Fall, Marvel Will Introduce the Maximum X-Men | Comic Con 2026",
-      "link": "https://www.ign.com/articles/after-the-avengers-fall-marvel-will-introduce-the-maximum-x-men-comic-con-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784843100
-    },
-    {
       "title": "Vulcan Centaur swapped out again: NASA goes with SpaceX Falcon Heavy rocket for launch of space weather mission",
       "link": "https://www.space.com/space-exploration/missions/vulcan-centaur-swapped-out-again-nasa-goes-with-spacex-falcon-heavy-rocket-for-launch-of-space-weather-mission",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784840400
-    },
-    {
-      "title": "Avatar: Seven Havens Gets Paramount+ Release Date and Teaser Trailer | Comic Con 2026",
-      "link": "https://www.ign.com/articles/avatar-seven-havens-gets-paramount-release-date-and-teaser-trailer-comic-con-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784839830
     },
     {
       "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
@@ -366,32 +429,11 @@
       "timestamp": 1784839515
     },
     {
-      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784838782
-    },
-    {
-      "title": "Patreon lays off 20% of its workforce",
-      "link": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784838607
-    },
-    {
       "title": "Scientists may have finally solved the mystery of the sun's missing silver",
       "link": "https://www.space.com/astronomy/sun/scientists-may-have-finally-solved-the-mystery-of-the-suns-missing-silver",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784836800
-    },
-    {
-      "title": "Marvel Tōkon: Fighting Souls Reveals First Year 1 DLC Character, Opening Movie Released | Comic Con 2026",
-      "link": "https://www.ign.com/articles/marvel-tkon-fighting-souls-reveals-first-year-1-dlc-character-opening-movie-released-comic-con-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784836766
     },
     {
       "title": "FDA reports new outbreak of explosive diarrhea with 72 cases identified",
@@ -457,25 +499,11 @@
       "timestamp": 1784823946
     },
     {
-      "title": "Google just had its first negative cash flow quarter due to massive AI spending",
-      "link": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784822659
-    },
-    {
       "title": "NASA's retired astronauts are hitting the road to get young people to vote: 'one small step for you, and one giant leap for our country.'",
       "link": "https://www.space.com/space-exploration/human-spaceflight/nasas-retired-astronauts-are-hitting-the-road-to-get-young-people-to-vote-one-small-step-for-you-and-one-giant-leap-for-our-country",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784822400
-    },
-    {
-      "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
-      "link": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784817905
     },
     {
       "title": "Who needs LeBron James the most? Ranking which suitors are in the most trouble if he picks someone else",
@@ -527,20 +555,6 @@
       "timestamp": 1784808000
     },
     {
-      "title": "White House report says Trump can usher in a \"new golden age\" of science",
-      "link": "https://arstechnica.com/science/2026/07/white-house-report-says-trump-can-usher-in-a-new-golden-age-of-science/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784805801
-    },
-    {
-      "title": "I wanted a clock that never needed setting. Things escalated.",
-      "link": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784804450
-    },
-    {
       "title": "The James Webb Space Telescope's disappearing 'Little Red Dots' may lead to another cosmic puzzle",
       "link": "https://www.space.com/astronomy/james-webb-space-telescope/the-james-webb-space-telescopes-disappearing-little-red-dots-may-lead-to-another-cosmic-puzzle",
       "source": "SPACE",
@@ -567,13 +581,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1784769039
-    },
-    {
-      "title": "China's record-breaking Gravity-1 rocket launches 9 satellites from a ship at sea (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/chinas-record-breaking-gravity-1-rocket-launches-9-satellites-from-a-ship-at-sea-video",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784754000
     },
     {
       "title": "LeBron James next team predictions: Heat jump ahead Cavs after mistakenly published press conference link",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784581117
-    },
-    {
-      "title": "The Lakers are signing Matisse Thybulle, which creates a roster crunch a Bronny James trade could solve",
-      "link": "https://www.cbssports.com/nba/news/lakers-signing-matisse-thybulle-roster-bronny-james-trade/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784576335
     }
   ]
 }
