@@ -1,6 +1,62 @@
 {
-  "last_updated": 1784890860,
+  "last_updated": 1784900213,
   "items": [
+    {
+      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+      "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784900202
+    },
+    {
+      "title": "The easiest way to learn the summer night sky starts with these 3 stars",
+      "link": "https://www.space.com/stargazing/the-easiest-way-to-learn-the-summer-night-sky-starts-with-these-3-stars",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784898000
+    },
+    {
+      "title": "Epic photo captures lightning striking a Chinese rocket during liftoff",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/epic-photo-captures-lightning-striking-a-chinese-rocket-during-liftoff",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784897823
+    },
+    {
+      "title": "Facebook launches a dedicated Marketplace app for sellers, adds a free verification system",
+      "link": "https://techcrunch.com/2026/07/24/facebook-launches-a-dedicated-marketplace-app-for-sellers-adds-a-free-verification-system/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784897235
+    },
+    {
+      "title": "This Week In Space LIVE: The Viking Mars landings 50 years later",
+      "link": "https://www.space.com/astronomy/mars/this-week-in-space-live-the-viking-mars-landings-50-years-later",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784894400
+    },
+    {
+      "title": "The Lord of the Rings: The Rings of Power Will Introduce the Ringwraiths, And Has Invented an Early Version Named the Nazgnagôl",
+      "link": "https://www.ign.com/articles/the-lord-of-the-rings-the-rings-of-power-will-introduce-the-ringwraiths-and-has-invented-an-early-version-named-the-nazgnagl",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784893899
+    },
+    {
+      "title": "Robot snakes searched for Venezuela earthquake survivors in collapsed buildings",
+      "link": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784892043
+    },
+    {
+      "title": "'It's Good to Be Back': Johnny Depp Meets Fans as Ebenezer Scrooge, as First Trailer Drops for His Big Hollywood Return",
+      "link": "https://www.ign.com/articles/its-good-to-be-back-johnny-depp-meets-fans-as-ebenezer-scrooge-as-first-trailer-drops-for-his-big-hollywood-return",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1784888720
+    },
     {
       "title": "Hubble telescope watches unique nova explosion fire cosmic 'bullets' through the Milky Way at 20 million mph",
       "link": "https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-watches-unique-nova-explosion-fire-cosmic-bullets-through-the-milky-way-at-20-million-mph",
@@ -212,7 +268,7 @@
       "timestamp": 1784831914
     },
     {
-      "title": "Final Coyote vs. Acme trailer drops at SDCC",
+      "title": "Tweety gets the third degree in final Coyote vs. Acme trailer",
       "link": "https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -296,13 +352,6 @@
       "timestamp": 1784824199
     },
     {
-      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
-      "link": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784824130
-    },
-    {
       "title": "Sony's decision to ditch discs was practically inevitable, data shows",
       "link": "https://arstechnica.com/gaming/2026/07/the-playstation-game-disc-was-dying-long-before-sony-pulled-the-plug/",
       "source": "ARSTECHNICA",
@@ -310,32 +359,11 @@
       "timestamp": 1784823946
     },
     {
-      "title": "'She's Not in This Movie': Tom Holland Insists Jean Grey Won't Appear in Spider-Man: Brand New Day — So Is He Lying, or Is Sadie Sink Really Playing Someone Else?",
-      "link": "https://www.ign.com/articles/shes-not-in-this-movie-tom-holland-insists-jean-grey-wont-appear-in-spider-man-brand-new-day-so-is-he-lying-or-is-sadie-sink-really-playing-someone-else",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784823522
-    },
-    {
-      "title": "Scott Pilgrim Creator Bryan Lee O'Malley Returns to the Series for the First New Comic in 16 Years | Comic Con 2026",
-      "link": "https://www.ign.com/articles/scott-pilgrim-creator-bryan-lee-omalley-returns-to-the-series-for-the-first-new-comic-in-16-years-comic-con-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784822747
-    },
-    {
       "title": "Google just had its first negative cash flow quarter due to massive AI spending",
       "link": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1784822659
-    },
-    {
-      "title": "Google will now let you sign in to your account with a selfie video",
-      "link": "https://techcrunch.com/2026/07/23/google-will-now-let-you-sign-in-to-your-account-with-a-selfie-video/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784822463
     },
     {
       "title": "NASA's retired astronauts are hitting the road to get young people to vote: 'one small step for you, and one giant leap for our country.'",
@@ -471,13 +499,6 @@
       "timestamp": 1784752579
     },
     {
-      "title": "ISPs' long nightmare of having to list all the fees they charge is finally over",
-      "link": "https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784751438
-    },
-    {
       "title": "5 disturbing things we saw after digging into the recent 'Dune: Part 3' trailer",
       "link": "https://www.space.com/entertainment/space-movies-shows/5-disturbing-things-we-saw-after-digging-into-the-recent-dune-part-3-trailer",
       "source": "SPACE",
@@ -490,27 +511,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784746800
-    },
-    {
-      "title": "NASA's Roman Space Telescope could reveal black holes ripping up stars. It's set to launch Aug. 30",
-      "link": "https://www.space.com/astronomy/black-holes/nasas-roman-space-telescope-could-reveal-black-holes-ripping-up-stars-its-set-to-launch-aug-30",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784743272
-    },
-    {
-      "title": "If space war erupts, 'none of us will be able to avoid the war zone,' warns outgoing Space Force chief in final public speech",
-      "link": "https://www.space.com/space-exploration/satellites/if-space-war-erupts-none-of-us-will-be-able-to-avoid-the-war-zone-warns-outgoing-space-force-chief-in-final-public-speech",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784739600
-    },
-    {
-      "title": "'Terminator 2: Judgment Day' is time-travelling back into theaters next month for a 35th anniversary re-release",
-      "link": "https://www.space.com/entertainment/space-movies-shows/terminator-2-judgment-day-is-time-travelling-back-into-theaters-next-month-for-a-35th-anniversary-re-release",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784736000
     },
     {
       "title": "LeBron James next team predictions: Heat jump ahead Cavs after mistakenly published press conference link",
