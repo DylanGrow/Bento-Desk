@@ -1,6 +1,27 @@
 {
-  "last_updated": 1785016358,
+  "last_updated": 1785019930,
   "items": [
+    {
+      "title": "Neuromancer Release Date Revealed for Apple TV+",
+      "link": "https://www.ign.com/articles/neuromancer-release-date-revealed-for-apple-tv",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785017222
+    },
+    {
+      "title": "Dungeons & Dragons Movie Sequel Has a Script But 'Financial Reasons' Might Keep It from Ever Coming Out",
+      "link": "https://www.ign.com/articles/dungeons-dragons-movie-sequel-has-a-script-but-financial-reasons-might-keep-it-from-ever-coming-out",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785015265
+    },
+    {
+      "title": "The Most Anticipated Warhammer 40,000 Animation Ever Finally Has a Release Date",
+      "link": "https://www.ign.com/articles/the-most-anticipated-warhammer-40000-animation-ever-finally-has-a-release-date",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785014898
+    },
     {
       "title": "Everything Announced at the Marvel Studios SDCC Panel | Comic Con 2026",
       "link": "https://www.ign.com/articles/everything-announced-at-the-marvel-studios-sdcc-panel-comic-con-2026",
@@ -14,6 +35,13 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1785012911
+    },
+    {
+      "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
+      "link": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785012750
     },
     {
       "title": "The hacker who humiliated spyware makers and was never caught",
@@ -282,13 +310,6 @@
       "timestamp": 1784933334
     },
     {
-      "title": "5 Biggest Reveals From the Lanterns San Diego Comic-Con Panel | Comic Con 2026",
-      "link": "https://www.ign.com/articles/five-biggest-reveals-from-the-lanterns-san-diego-comic-con-panel",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784932921
-    },
-    {
       "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
       "link": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
       "source": "ARSTECHNICA",
@@ -301,20 +322,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1784931958
-    },
-    {
-      "title": "San Diego Comic-Con 2026: Everything Announced So Far | Comic Con 2026",
-      "link": "https://www.ign.com/articles/san-diego-comic-con-2026-everything-announced-sdcc",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784931544
-    },
-    {
-      "title": "Paramount and Warner Bros. Deal Officially Paused, Could Be on Hold Until June 2027",
-      "link": "https://www.ign.com/articles/paramount-and-warner-bros-deal-officially-paused-could-be-on-hold-until-june-2027",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1784931343
     },
     {
       "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
@@ -560,13 +567,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784894400
-    },
-    {
-      "title": "Robot snakes searched for Venezuela earthquake survivors in collapsed buildings",
-      "link": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784892043
     },
     {
       "title": "Hubble telescope watches unique nova explosion fire cosmic 'bullets' through the Milky Way at 20 million mph",
