@@ -1,6 +1,34 @@
 {
-  "last_updated": 1784977575,
+  "last_updated": 1784985466,
   "items": [
+    {
+      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1784984700
+    },
+    {
+      "title": "An off-the-shelf camera could help us find more black holes smashing together",
+      "link": "https://www.space.com/astronomy/black-holes/an-off-the-shelf-camera-could-help-us-find-more-black-holes-smashing-together",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1784984400
+    },
+    {
+      "title": "With help from data, art museums are reframing the visitor experience",
+      "link": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784977232
+    },
+    {
+      "title": "Big Tech accused of stonewalling European social media researchers",
+      "link": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1784976332
+    },
     {
       "title": "NASA astronaut, 2 cosmonauts returning to Earth on July 26: Watch it live",
       "link": "https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-two-cosmonauts-return-to-earth-soyuz-ms-28",
@@ -401,13 +429,6 @@
       "timestamp": 1784908800
     },
     {
-      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-      "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784908309
-    },
-    {
       "title": "This is the world's most advanced robotic servicing satellite—that we know about",
       "link": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
       "source": "ARSTECHNICA",
@@ -548,20 +569,6 @@
       "timestamp": 1784836800
     },
     {
-      "title": "FDA reports new outbreak of explosive diarrhea with 72 cases identified",
-      "link": "https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784834556
-    },
-    {
-      "title": "Forgot your Google password? Now you can log in with a selfie.",
-      "link": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784834065
-    },
-    {
       "title": "How much better is the Canon EOS R6 III than previous models for astrophotography?",
       "link": "https://www.space.com/stargazing/astrophotography/how-much-better-is-the-canon-eos-r6-iii-than-previous-models-for-astrophotography",
       "source": "SPACE",
@@ -588,13 +595,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784815437
-    },
-    {
-      "title": "Satellite spots a 'hummingbird' in Antarctica | Space photo of the day for July 23, 2026",
-      "link": "https://www.space.com/astronomy/earth/radar-satellite-spots-a-hummingbird-in-antarctica-space-photo-of-the-day-for-july-23-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784815200
     },
     {
       "title": "Orcas filmed smashing giant sunfish into thousands of pieces",
