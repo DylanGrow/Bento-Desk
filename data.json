@@ -1,12 +1,40 @@
 {
-  "last_updated": 1785056973,
+  "last_updated": 1785064574,
   "items": [
+    {
+      "title": "I'm not an astronaut, but I went to the International Space Station (sort of)",
+      "link": "https://www.space.com/space-exploration/international-space-station/im-not-an-astronaut-but-i-went-to-the-international-space-station-sort-of",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785060000
+    },
+    {
+      "title": "Inside the Backrooms: The internet’s creepiest place is becoming a tourist attraction",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260726015254.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785053795
+    },
+    {
+      "title": "Hidden genetic diversity helped inbred brown tree snakes conquer guam",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260726015236.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785050138
+    },
     {
       "title": "Kevin Feige Pushes Back at Criticisms That Dr. Doom Hasn't Had Thanos-Level Buildup",
       "link": "https://www.ign.com/articles/kevin-feige-pushes-back-at-criticisms-that-dr-doom-hasnt-had-thanos-level-buildup",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1785049821
+    },
+    {
+      "title": "Scientists trace the shocking origin of human eyes to an ancient “cyclops”",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260725105554.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785042629
     },
     {
       "title": "'I Would Stay at That Haunted Inn' — Widow's Bay Cast and Crew Are Just as Attached to the Island as the Rest of Us | Comic Con 2026",
@@ -632,13 +660,6 @@
       "timestamp": 1784839515
     },
     {
-      "title": "Scientists may have finally solved the mystery of the sun's missing silver",
-      "link": "https://www.space.com/astronomy/sun/scientists-may-have-finally-solved-the-mystery-of-the-suns-missing-silver",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784836800
-    },
-    {
       "title": "Orcas filmed smashing giant sunfish into thousands of pieces",
       "link": "https://www.sciencedaily.com/releases/2026/07/260723084040.htm",
       "source": "SCIENCEDAILY",
@@ -651,27 +672,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1784814327
-    },
-    {
-      "title": "NASA will test SpaceX and Blue Origin Moon landers before the next lunar landing",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260722032113.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1784787240
-    },
-    {
-      "title": "NASA’s Webb telescope discovers giant planet hiding in one of astronomy’s most famous systems",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260722032111.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1784786284
-    },
-    {
-      "title": "Scientists discover the hidden brain switch that assigns bees their jobs",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260722032117.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1784769039
     }
   ]
 }
