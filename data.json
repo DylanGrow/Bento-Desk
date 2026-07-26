@@ -1,12 +1,26 @@
 {
-  "last_updated": 1785084915,
+  "last_updated": 1785088756,
   "items": [
+    {
+      "title": "Inside one London founder house rewriting the founder-house rules",
+      "link": "https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785085399
+    },
     {
       "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
       "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1785083593
+    },
+    {
+      "title": "Kevin Feige Says Ryan Gosling Approached Him With a 'Specific Vision' for Ghost Rider in the MCU",
+      "link": "https://www.ign.com/articles/kevin-feige-says-ryan-gosling-approached-him-with-a-specific-vision-for-ghost-rider-in-the-mcu",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785083326
     },
     {
       "title": "TechCrunch Mobility: Uber bets on its former CEO",
@@ -198,13 +212,6 @@
       "timestamp": 1785007412
     },
     {
-      "title": "DC's Next Level Initiative Expands, Including a Must-Read Batman Comic | Comic Con 2026",
-      "link": "https://www.ign.com/articles/dcs-next-level-initiative-expands-including-a-must-read-batman-comic-comic-con-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785007259
-    },
-    {
       "title": "What's next in NBA offseason after LeBron James' decision? James Harden, Draymond Green, Jalen Duren eye deals",
       "link": "https://www.cbssports.com/nba/news/nba-free-agency-offseason-lebron-james-james-harden-draymond-green-jalen-duren/",
       "source": "CBSSPORTS",
@@ -324,7 +331,7 @@
       "timestamp": 1784976332
     },
     {
-      "title": "NASA astronaut, 2 cosmonauts return to Earth after 241 days on space station",
+      "title": "NASA astronaut, 2 cosmonauts return to Earth after 241 days on space station (video)",
       "link": "https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-two-cosmonauts-return-to-earth-soyuz-ms-28",
       "source": "SPACE",
       "category": "space",
@@ -476,13 +483,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1784923200
-    },
-    {
-      "title": "Volkswagen engineers charged with insider trading tied to Rivian joint venture",
-      "link": "https://techcrunch.com/2026/07/24/volkswagen-engineers-charged-with-insider-trading-tied-to-rivian-joint-venture/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1784922983
     },
     {
       "title": "Roku raises streaming stick prices by up to 60 percent",
