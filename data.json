@@ -1,6 +1,13 @@
 {
-  "last_updated": 1785071616,
+  "last_updated": 1785078130,
   "items": [
+    {
+      "title": "The best way to save giant sequoias may be more fire",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260726015243.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785071939
+    },
     {
       "title": "What happened to space horror movies?",
       "link": "https://www.space.com/entertainment/space-movies-shows/what-happened-to-space-horror-movies",
@@ -303,7 +310,7 @@
       "timestamp": 1784976332
     },
     {
-      "title": "NASA astronaut, 2 cosmonauts returning to Earth on July 26: Watch it live",
+      "title": "NASA astronaut, 2 cosmonauts return to Earth after 241 days on space station",
       "link": "https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-two-cosmonauts-return-to-earth-soyuz-ms-28",
       "source": "SPACE",
       "category": "space",
@@ -665,13 +672,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1784814959
-    },
-    {
-      "title": "A healthier global diet could cut farm emissions by 85%",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260716023557.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1784814327
     }
   ]
 }
