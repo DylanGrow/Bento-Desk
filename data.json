@@ -1,6 +1,69 @@
 {
-  "last_updated": 1785186401,
+  "last_updated": 1785193080,
   "items": [
+    {
+      "title": "Ubisoft Gives Free PC Copies to Xbox Owners of Select Games",
+      "link": "https://www.ign.com/articles/ubisoft-gives-free-pc-copies-to-xbox-owners-of-select-games",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785189842
+    },
+    {
+      "title": "Starship in space! See highlights of SpaceX megarocket's epic Flight 13 test launch (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/starship-in-space-see-highlights-of-spacex-megarockets-epic-flight-13-test-launch-video",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785189600
+    },
+    {
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785189374
+    },
+    {
+      "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
+      "link": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785188427
+    },
+    {
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785187031
+    },
+    {
+      "title": "The Marvel Tokon: Fighting Souls Beta Proves Fans Still Really Want That Blade Movie",
+      "link": "https://www.ign.com/articles/the-marvel-tokon-fighting-souls-beta-proves-fans-still-really-want-that-blade-movie",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785186791
+    },
+    {
+      "title": "The Odyssey Translator Unleashes Scathing Review of Christopher Nolan's Film Adaptation",
+      "link": "https://www.ign.com/articles/the-odyssey-translator-unleashes-scathing-review-of-christopher-nolans-film-adaptation",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785185432
+    },
+    {
+      "title": "'I Can't Not Hear His Voice in My Head' — Matt Dinniman Reflects on Writing Dungeon Crawler Carl With Jeff Hays in Mind",
+      "link": "https://www.ign.com/articles/matt-dinniman-reflects-on-writing-dungeon-crawler-carl-for-audiobooks-and-jeff-hays",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785185129
+    },
+    {
+      "title": "Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies",
+      "link": "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785184933
+    },
     {
       "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
       "link": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/",
@@ -16,11 +79,32 @@
       "timestamp": 1785184800
     },
     {
+      "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
+      "link": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785184365
+    },
+    {
+      "title": "A missing underscore sent innocent man to prison for 18 months",
+      "link": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785183723
+    },
+    {
       "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
       "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1785183582
+    },
+    {
+      "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
+      "link": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785183162
     },
     {
       "title": "Rocket Lab to start launching missile-defense missions from Alaska under $266 million Space Force deal",
@@ -156,7 +240,7 @@
       "timestamp": 1785173026
     },
     {
-      "title": "On this day in space! July 27, 1962:  The 1st zero-g cosmonaut training flight takes off on a Soviet jetliner",
+      "title": "On this day in space! July 27, 1962:  The 1st zero-g cosmonaut training flight took off on a Soviet jetliner",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-27-2026",
       "source": "SPACE",
       "category": "space",
@@ -352,39 +436,11 @@
       "timestamp": 1785155776
     },
     {
-      "title": "Critics of Sony's Decision to Kill Physical Discs Call on Gamers to Boycott PlayStation for a Week Next Month, but Will Anyone Listen?",
-      "link": "https://www.ign.com/articles/critics-of-sonys-decision-to-kill-physical-discs-call-on-gamers-to-boycott-playstation-for-a-week-next-month-but-will-anyone-listen",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785155449
-    },
-    {
-      "title": "The Pokémon Company Announces Facial Recognition System to Help Kill Scalping at Japanese Card Stores, Mandatory From Elementary School Age",
-      "link": "https://www.ign.com/articles/the-pokemon-company-announces-facial-recognition-system-to-help-kill-scalping-at-japanese-card-stores-mandatory-from-elementary-school-age",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785153917
-    },
-    {
       "title": "Private companies could ruin the night sky for the entire world, and international law can't stop them",
       "link": "https://www.space.com/space-exploration/satellites/private-companies-could-ruin-the-night-sky-for-the-entire-world-and-international-law-cant-stop-them",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785153600
-    },
-    {
-      "title": "Christopher Nolan Explains Some of the Changes He Made for The Odyssey Compared to Homer's Epic Poem, Including the New Ending",
-      "link": "https://www.ign.com/articles/christopher-nolan-explains-some-of-the-changes-he-made-for-the-odyssey-compared-to-homers-epic-poem-including-the-new-ending",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785151761
-    },
-    {
-      "title": "Tom Hiddleston Has Made a Pompeii Documentary, Inspired by His Marvel Brother Chris Hemsworth, And After Suggesting the Location Appear in Loki",
-      "link": "https://www.ign.com/articles/tom-hiddleston-has-made-a-pompeii-documentary-inspired-by-his-marvel-brother-chris-hemsworth-and-after-suggesting-the-location-appear-in-loki",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785151609
     },
     {
       "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
@@ -401,22 +457,15 @@
       "timestamp": 1785147845
     },
     {
-      "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
-      "link": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785146400
-    },
-    {
-      "title": "A seed that flew around the moon grew into this tree in NYC",
-      "link": "https://www.space.com/astronomy/moon/a-seed-that-flew-around-the-moon-grew-into-this-tree-in-nyc",
+      "title": "An 'almost blood moon' is coming on Aug. 27 and it'll be the best lunar eclipse until NYE 2028",
+      "link": "https://www.space.com/stargazing/lunar-eclipses/this-is-the-best-lunar-eclipse-until-new-years-eve-2028-heres-how-to-spot-the-almost-blood-moon-on-aug-27",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785146400
     },
     {
-      "title": "An 'almost blood moon' is coming on Aug. 27 and it'll be the best lunar eclipse until NYE 2028",
-      "link": "https://www.space.com/stargazing/lunar-eclipses/this-is-the-best-lunar-eclipse-until-new-years-eve-2028-heres-how-to-spot-the-almost-blood-moon-on-aug-27",
+      "title": "A seed that flew around the moon grew into this tree in NYC",
+      "link": "https://www.space.com/astronomy/moon/a-seed-that-flew-around-the-moon-grew-into-this-tree-in-nyc",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785146400
@@ -492,13 +541,6 @@
       "timestamp": 1785006948
     },
     {
-      "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
-      "link": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785001642
-    },
-    {
       "title": "2026 NBA free agency rankings, tracker: LeBron James signs with 76ers; who's left on the market?",
       "link": "https://www.cbssports.com/nba/news/2026-nba-free-agency-rankings-tracker/",
       "source": "CBSSPORTS",
@@ -569,27 +611,6 @@
       "timestamp": 1784979244
     },
     {
-      "title": "With help from data, art museums are reframing the visitor experience",
-      "link": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784977232
-    },
-    {
-      "title": "Big Tech accused of stonewalling European social media researchers",
-      "link": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784976332
-    },
-    {
-      "title": "NASA astronaut, 2 cosmonauts return to Earth after 241 days on space station (video)",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-two-cosmonauts-return-to-earth-soyuz-ms-28",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784973600
-    },
-    {
       "title": "Venus may be tearing itself apart from within",
       "link": "https://www.sciencedaily.com/releases/2026/07/260724061434.htm",
       "source": "SCIENCEDAILY",
@@ -609,27 +630,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784944165
-    },
-    {
-      "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
-      "link": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784932100
-    },
-    {
-      "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
-      "link": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784930162
-    },
-    {
-      "title": "Canadian legislator reads out apparent LLM response in floor speech",
-      "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784928315
     },
     {
       "title": "Eastern Conference Power Rankings: Where do new-look 76ers stack up vs. Knicks, Celtics after adding LeBron?",
