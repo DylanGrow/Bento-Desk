@@ -1,6 +1,48 @@
 {
-  "last_updated": 1785180138,
+  "last_updated": 1785186401,
   "items": [
+    {
+      "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
+      "link": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785184812
+    },
+    {
+      "title": "As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube",
+      "link": "https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785184800
+    },
+    {
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785183582
+    },
+    {
+      "title": "Rocket Lab to start launching missile-defense missions from Alaska under $266 million Space Force deal",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-to-start-launching-missile-defense-missions-from-alaska-under-usd266-million-space-force-deal",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785182400
+    },
+    {
+      "title": "House of the Dragon: Rhaenyra’s Worst Omen Yet Foreshadows the ‘Rot That Follows’",
+      "link": "https://www.ign.com/articles/house-of-the-dragon-rhaenyra-cut-finger-iron-throne",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785182357
+    },
+    {
+      "title": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
+      "link": "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785179882
+    },
     {
       "title": "YouTube Premium Is Adding a Peacock Subscription at No Extra Cost",
       "link": "https://www.ign.com/articles/youtube-premium-is-adding-a-peacock-subscription-at-no-extra-cost",
@@ -9,11 +51,25 @@
       "timestamp": 1785179207
     },
     {
+      "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
+      "link": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785178121
+    },
+    {
       "title": "Physical 'Copies' of GTA 6 Will Expire 170 Days After Launch Date in Japan",
       "link": "https://www.ign.com/articles/physical-copies-of-gta-6-will-expire-170-days-after-launch-date-in-japan",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1785177604
+    },
+    {
+      "title": "Experts warn current Starship heat shield tech is a \"dead end\" for rapid reuse",
+      "link": "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785177280
     },
     {
       "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
@@ -121,6 +177,13 @@
       "timestamp": 1785171661
     },
     {
+      "title": "ChatGPT starts blocking direct requests to copy an author's style",
+      "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785171526
+    },
+    {
       "title": "Threads users can now chat with Meta AI in their DMs",
       "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
       "source": "TECHCRUNCH",
@@ -212,7 +275,7 @@
       "timestamp": 1785160916
     },
     {
-      "title": "Curiosity Mars rover inspects cracked wheel | Space photo of the day for July 24, 2026",
+      "title": "Curiosity Mars rover inspects cracked wheel | Space photo of the day for July 27, 2026",
       "link": "https://www.space.com/space-exploration/mars-rovers/curiosity-mars-rover-inspects-cracked-wheel-space-photo-of-the-day-for-july-24-2026",
       "source": "SPACE",
       "category": "space",
@@ -338,13 +401,6 @@
       "timestamp": 1785147845
     },
     {
-      "title": "Baldur's Gate 3 True Third-Person Camera Mod Goes Viral, Sparks Debate About Whether It Erases the Game's Identity",
-      "link": "https://www.ign.com/articles/baldurs-gate-3-true-third-person-camera-mod-goes-viral-sparks-debate-about-whether-it-erases-the-games-identity",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785146983
-    },
-    {
       "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
       "link": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
       "source": "TECHCRUNCH",
@@ -352,15 +408,15 @@
       "timestamp": 1785146400
     },
     {
-      "title": "An 'almost blood moon' is coming on Aug. 27 and it'll be the best lunar eclipse until NYE 2028",
-      "link": "https://www.space.com/stargazing/lunar-eclipses/this-is-the-best-lunar-eclipse-until-new-years-eve-2028-heres-how-to-spot-the-almost-blood-moon-on-aug-27",
+      "title": "A seed that flew around the moon grew into this tree in NYC",
+      "link": "https://www.space.com/astronomy/moon/a-seed-that-flew-around-the-moon-grew-into-this-tree-in-nyc",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785146400
     },
     {
-      "title": "A seed that flew around the moon grew into this tree in NYC",
-      "link": "https://www.space.com/astronomy/moon/a-seed-that-flew-around-the-moon-grew-into-this-tree-in-nyc",
+      "title": "An 'almost blood moon' is coming on Aug. 27 and it'll be the best lunar eclipse until NYE 2028",
+      "link": "https://www.space.com/stargazing/lunar-eclipses/this-is-the-best-lunar-eclipse-until-new-years-eve-2028-heres-how-to-spot-the-almost-blood-moon-on-aug-27",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785146400
@@ -373,32 +429,11 @@
       "timestamp": 1785139613
     },
     {
-      "title": "Are brain waves the next unlock for physical AI?",
-      "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785111554
-    },
-    {
-      "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
-      "link": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785100004
-    },
-    {
       "title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
       "link": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785095323
-    },
-    {
-      "title": "Making sense of the panic over Chinese AI",
-      "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785094857
     },
     {
       "title": "The best way to save giant sequoias may be more fire",
@@ -576,13 +611,6 @@
       "timestamp": 1784944165
     },
     {
-      "title": "SpaceX's Starship megarocket makes the 'softest splashdown' ever after launching next-gen Starlink satellites in Flight 13 test (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-makes-the-softest-splashdown-ever-after-launching-next-gen-starlink-satellites-in-flight-13-test-video",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784943617
-    },
-    {
       "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
       "link": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
       "source": "ARSTECHNICA",
@@ -611,13 +639,6 @@
       "timestamp": 1784928174
     },
     {
-      "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-      "link": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784927151
-    },
-    {
       "title": "LeBron James 76ers' contract explained: Smallest salary of his career and an option for a 25th season",
       "link": "https://www.cbssports.com/nba/news/lebron-james-76ers-contract-explained/",
       "source": "CBSSPORTS",
@@ -637,27 +658,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784923941
-    },
-    {
-      "title": "Roku raises streaming stick prices by up to 60 percent",
-      "link": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784922066
-    },
-    {
-      "title": "RFK Jr.'s handpicked committee approves manufacture of peptides he uses",
-      "link": "https://arstechnica.com/health/2026/07/rfk-jr-s-hand-picked-committee-approves-manufacture-of-peptides-he-uses/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784920209
-    },
-    {
-      "title": "Judge rebuffs Trump admin demand for phone records from NYT reporters",
-      "link": "https://arstechnica.com/tech-policy/2026/07/judge-rebuffs-trump-admin-demand-for-phone-records-from-nyt-reporters/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784916141
     },
     {
       "title": "AI helps Stanford scientists discover “natural Ozempic” without the usual side effects",
