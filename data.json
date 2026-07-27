@@ -1,6 +1,83 @@
 {
-  "last_updated": 1785166785,
+  "last_updated": 1785173970,
   "items": [
+    {
+      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+      "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785173322
+    },
+    {
+      "title": "On this day in space! July 27, 1962:  The 1st zero-g cosmonaut training flight takes off on a Soviet jetliner",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-27-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785172820
+    },
+    {
+      "title": "Chris Evans Received 'at Least a Dozen Pitches' to Return to the MCU – But Will He Be Nomad in Avengers: Doomsday?",
+      "link": "https://www.ign.com/articles/chris-evans-received-at-least-a-dozen-pitches-to-return-to-the-mcu-but-will-he-be-nomad-in-avengers-doomsday",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785172175
+    },
+    {
+      "title": "Final Fantasy 14 Will Be The Biggest Game on Nintendo Switch 2 by Install Size, and Take Up Almost Half of the Console's Entire Memory",
+      "link": "https://www.ign.com/articles/final-fantasy-14-will-be-the-biggest-game-on-nintendo-switch-2-by-install-size-and-take-up-almost-half-of-the-consoles-entire-memory",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785171661
+    },
+    {
+      "title": "Threads users can now chat with Meta AI in their DMs",
+      "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785170724
+    },
+    {
+      "title": "Benedict Cumberbatch Joins Marvel Stars Calling on UK Government to Block 'Dangerous' Paramount-Warner Bros Merger Before It Causes a Disastrous 'TV and Cinema Calamity'",
+      "link": "https://www.ign.com/articles/benedict-cumberbatch-joins-marvel-stars-calling-on-uk-government-to-block-dangerous-paramount-warner-bros-merger-before-it-causes-a-disastrous-tv-and-cinema-calamity",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785168903
+    },
+    {
+      "title": "Are we overlooking signs of alien life that aren't technological or biological? 'Bread would be a signature of intelligence'",
+      "link": "https://www.space.com/space-exploration/search-for-life/are-we-overlooking-signs-of-alien-life-that-arent-technological-or-biological-bread-would-be-a-signature-of-intelligence",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785168000
+    },
+    {
+      "title": "Activist charged with felony after giving border agent \"duress code\" that wiped his phone",
+      "link": "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785167914
+    },
+    {
+      "title": "Google’s AI search is rapidly becoming the default, new data shows",
+      "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785167832
+    },
+    {
+      "title": "Samwise Gamgee Actor Sean Astin Says He Had to Sell His House Because He Had Negotiated Such a Small Salary on The Lord of the Rings Trilogy",
+      "link": "https://www.ign.com/articles/samwise-gamgee-actor-sean-astin-says-he-had-to-sell-his-house-because-he-had-negotiated-such-a-small-salary-on-the-lord-of-the-rings-trilogy",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785167201
+    },
+    {
+      "title": "The Eastern Conference has finally gained NBA supremacy, and LeBron James only cements that",
+      "link": "https://www.cbssports.com/nba/news/nba-eastern-conference-supremacy-lebron-james/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1785167097
+    },
     {
       "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
@@ -14,6 +91,13 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1785165937
+    },
+    {
+      "title": "Framework Laptop 13 Pro review: Much better battery, much worse price",
+      "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785164565
     },
     {
       "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
@@ -35,13 +119,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785160916
-    },
-    {
-      "title": "The Eastern Conference has finally gained supremacy in the NBA, and LeBron James only cements that",
-      "link": "https://www.cbssports.com/nba/news/nba-eastern-conference-supremacy-lebron-james/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1785160872
     },
     {
       "title": "Curiosity Mars rover inspects cracked wheel | Space photo of the day for July 24, 2026",
@@ -93,7 +170,7 @@
       "timestamp": 1785157200
     },
     {
-      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
       "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -254,13 +331,6 @@
       "timestamp": 1785100004
     },
     {
-      "title": "Universal Responds After All 3 Hours of The Odyssey Leak on Social Media",
-      "link": "https://www.ign.com/articles/universal-responds-after-all-3-hours-of-the-odyssey-leak-on-social-media",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785097966
-    },
-    {
       "title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
       "link": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
       "source": "ARSTECHNICA",
@@ -273,27 +343,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1785094857
-    },
-    {
-      "title": "Marvel Knew David Jonsson Would Be the Next Black Panther 6 Months Ago After 'Secret Meeting' With Ryan Coogler",
-      "link": "https://www.ign.com/articles/marvel-knew-david-jonsson-would-be-the-next-black-panther-6-months-ago-after-secret-meeting-with-ryan-coogler",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785094566
-    },
-    {
-      "title": "George Takei and Other Star Trek Alumni Celebrate 60 Years and Name Trek's Greatest Lessons | Comic Con 2026",
-      "link": "https://www.ign.com/articles/star-trek-60th-anniversary-sdcc-panel",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785089820
-    },
-    {
-      "title": "Reacher Star Alan Ritchson Confirms Conversations With DC About Playing 'Another Character' That Isn't Batman",
-      "link": "https://www.ign.com/articles/reacher-star-alan-ritchson-confirms-conversations-with-dc-about-playing-another-character-that-isnt-batman",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785088962
     },
     {
       "title": "Inside one London founder house rewriting the founder-house rules",
@@ -366,32 +415,11 @@
       "timestamp": 1785029400
     },
     {
-      "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
-      "link": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785012911
-    },
-    {
       "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
       "link": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785012750
-    },
-    {
-      "title": "The hacker who humiliated spyware makers and was never caught",
-      "link": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785011054
-    },
-    {
-      "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
-      "link": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785007412
     },
     {
       "title": "What's next in NBA offseason after LeBron James' decision? James Harden, Draymond Green, Jalen Duren eye deals",
@@ -630,34 +658,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1784916141
-    },
-    {
-      "title": "We boldly chat with 'Star Trek: Strange New Worlds' showrunners about space dinosaurs and Lovecraftian horrors for season 4 (interview)",
-      "link": "https://www.space.com/entertainment/space-movies-shows/we-boldly-chat-with-star-trek-strange-new-worlds-showrunners-about-space-dinosaurs-and-lovecraftian-horrors-for-season-4-interview",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784916000
-    },
-    {
-      "title": "European Union grants US request to restrict satellite images of Iran War region",
-      "link": "https://arstechnica.com/space/2026/07/european-union-grants-us-request-to-restrict-satellite-images-of-iran-war-region/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784915105
-    },
-    {
-      "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
-      "link": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1784914286
-    },
-    {
-      "title": "What lurks beneath the volcanoes of Jupiter's moon Io? NASA's Juno probe just took a peek",
-      "link": "https://www.space.com/astronomy/jupiter/juno-probe-reveals-whats-happening-beneath-the-surface-of-jupiters-most-volcanic-moon",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784908800
     },
     {
       "title": "AI helps Stanford scientists discover “natural Ozempic” without the usual side effects",
