@@ -1,6 +1,27 @@
 {
-  "last_updated": 1785197120,
+  "last_updated": 1785211099,
   "items": [
+    {
+      "title": "Xbox Executive Explains Outage, Vows to 'Do Better'",
+      "link": "https://www.ign.com/articles/xbox-executive-explains-outage-vows-to-do-better",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785200705
+    },
+    {
+      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785197613
+    },
+    {
+      "title": "Spider-Man: Brand New Day Is Projected to Have the Biggest Opening of 2026",
+      "link": "https://www.ign.com/articles/spider-man-brand-new-day-is-projected-to-have-the-biggest-opening-of-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785195099
+    },
     {
       "title": "Avengers: Secret Wars Is the Only MCU Movie in 2027 as Kevin Feige Promises Quality Over Quantity",
       "link": "https://www.ign.com/articles/avengers-secret-wars-is-the-only-mcu-movie-in-2027-as-kevin-feige-promises-quality-over-quantity",
@@ -289,13 +310,6 @@
       "timestamp": 1785170724
     },
     {
-      "title": "Benedict Cumberbatch Joins Marvel Stars Calling on UK Government to Block 'Dangerous' Paramount-Warner Bros Merger Before It Causes a Disastrous 'TV and Cinema Calamity'",
-      "link": "https://www.ign.com/articles/benedict-cumberbatch-joins-marvel-stars-calling-on-uk-government-to-block-dangerous-paramount-warner-bros-merger-before-it-causes-a-disastrous-tv-and-cinema-calamity",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785168903
-    },
-    {
       "title": "Are we overlooking signs of alien life that aren't technological or biological? 'Bread would be a signature of intelligence'",
       "link": "https://www.space.com/space-exploration/search-for-life/are-we-overlooking-signs-of-alien-life-that-arent-technological-or-biological-bread-would-be-a-signature-of-intelligence",
       "source": "SPACE",
@@ -315,13 +329,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1785167832
-    },
-    {
-      "title": "Samwise Gamgee Actor Sean Astin Says He Had to Sell His House Because He Had Negotiated Such a Small Salary on The Lord of the Rings Trilogy",
-      "link": "https://www.ign.com/articles/samwise-gamgee-actor-sean-astin-says-he-had-to-sell-his-house-because-he-had-negotiated-such-a-small-salary-on-the-lord-of-the-rings-trilogy",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785167201
     },
     {
       "title": "The Eastern Conference has finally gained NBA supremacy, and LeBron James only cements that",
@@ -408,13 +415,6 @@
       "timestamp": 1785157200
     },
     {
-      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
-      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785157200
-    },
-    {
       "title": "X-ray spacecraft finds supermassive black hole stirring up the 'red potato' galaxy: 'There may be a cook in this cosmic kitchen'",
       "link": "https://www.space.com/astronomy/black-holes/x-ray-spacecraft-finds-supermassive-black-hole-stirring-up-the-red-potato-galaxy-there-may-be-a-cook-in-this-cosmic-kitchen",
       "source": "SPACE",
@@ -457,15 +457,15 @@
       "timestamp": 1785147845
     },
     {
-      "title": "A seed that flew around the moon grew into this tree in NYC",
-      "link": "https://www.space.com/astronomy/moon/a-seed-that-flew-around-the-moon-grew-into-this-tree-in-nyc",
+      "title": "An 'almost blood moon' is coming on Aug. 27 and it'll be the best lunar eclipse until NYE 2028",
+      "link": "https://www.space.com/stargazing/lunar-eclipses/this-is-the-best-lunar-eclipse-until-new-years-eve-2028-heres-how-to-spot-the-almost-blood-moon-on-aug-27",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785146400
     },
     {
-      "title": "An 'almost blood moon' is coming on Aug. 27 and it'll be the best lunar eclipse until NYE 2028",
-      "link": "https://www.space.com/stargazing/lunar-eclipses/this-is-the-best-lunar-eclipse-until-new-years-eve-2028-heres-how-to-spot-the-almost-blood-moon-on-aug-27",
+      "title": "A seed that flew around the moon grew into this tree in NYC",
+      "link": "https://www.space.com/astronomy/moon/a-seed-that-flew-around-the-moon-grew-into-this-tree-in-nyc",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785146400
