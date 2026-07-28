@@ -1,12 +1,68 @@
 {
-  "last_updated": 1785276054,
+  "last_updated": 1785282953,
   "items": [
+    {
+      "title": "Sony Battling Spider-Man: Brand New Day Post-Credit Scene Leaks, Scrubbing Social Media Via Copyright Claims",
+      "link": "https://www.ign.com/articles/sony-battling-spider-man-brand-new-day-post-credit-scene-leaks-scrubbing-social-media-via-copyright-claims",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785278723
+    },
+    {
+      "title": "Fortnite Adds New Spider-Man, Hulk, and Punisher Skins in Brand New Day Crossover",
+      "link": "https://www.ign.com/articles/fortnite-adds-new-spider-man-hulk-and-punisher-skins-in-brand-new-day-crossover",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785277627
+    },
+    {
+      "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
+      "link": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785276540
+    },
+    {
+      "title": "DJI Lito 1 drone review",
+      "link": "https://www.space.com/technology/dji-lito-1-drone-review",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785276000
+    },
+    {
+      "title": "College lab class ends with 32 people on antibiotics for deadly germ exposure",
+      "link": "https://arstechnica.com/health/2026/07/college-lab-class-ends-with-32-people-on-antibiotics-for-deadly-germ-exposure/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785275392
+    },
+    {
+      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+      "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785274599
+    },
+    {
+      "title": "Draymond Green re-signs with Warriors, explains why he thinks LeBron James didn't come to Golden State",
+      "link": "https://www.cbssports.com/nba/news/draymond-green-warriors-contract-lebron-james/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1785274589
+    },
     {
       "title": "Bot-detection startup Spur nabs $200M from Insight",
       "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1785274174
+    },
+    {
+      "title": "Michael B. Jordan Says He 'Can't Wait' to See David Jonsson as the Next Black Panther",
+      "link": "https://www.ign.com/articles/michael-b-jordan-says-he-cant-wait-to-see-david-jonsson-as-the-next-black-panther",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785273775
     },
     {
       "title": "NBA Power Rankings: LeBron James vaults 76ers into top five; Spurs have early edge over Knicks",
@@ -16,6 +72,13 @@
       "timestamp": 1785273106
     },
     {
+      "title": "eBay pays $46M to journalists it targeted in bizarre harassment campaign",
+      "link": "https://arstechnica.com/tech-policy/2026/07/ebay-former-execs-pay-56m-to-settle-bloody-pig-mask-harassment-case/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785272535
+    },
+    {
       "title": "NASA fuels its next-gen Roman Space Telescope for August launch",
       "link": "https://www.space.com/astronomy/nasa-fuels-its-next-gen-roman-space-telescope-for-august-launch",
       "source": "SPACE",
@@ -23,11 +86,32 @@
       "timestamp": 1785272400
     },
     {
+      "title": "Study: Dinosaurs were charbroiled after Chicxulub impact",
+      "link": "https://arstechnica.com/science/2026/07/dust-cloud-from-dino-killing-asteroid-charbroiled-the-earth/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785271905
+    },
+    {
       "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
       "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1785271512
+    },
+    {
+      "title": "Philly suburb: Sure, build that data center—but first meet our 43 demands",
+      "link": "https://arstechnica.com/tech-policy/2026/07/philly-suburb-sure-build-that-data-center-but-first-meet-our-43-demands/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785271399
+    },
+    {
+      "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
+      "link": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785270020
     },
     {
       "title": "Sam Altman is ready to decelerate",
@@ -58,7 +142,7 @@
       "timestamp": 1785265758
     },
     {
-      "title": "The robot NASA hired to lift a orbital telescope is tumbling out of control",
+      "title": "The robot NASA hired to lift a orbital telescope tumbled out of control",
       "link": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -338,20 +422,6 @@
       "timestamp": 1785229200
     },
     {
-      "title": "Henry Cavill's Warhammer 40,000 Cinematic Universe Finally Gets a Meaningful Update as Games Workshop Makes Significant Amazon Announcements",
-      "link": "https://www.ign.com/articles/henry-cavills-warhammer-40000-cinematic-universe-finally-gets-a-meaningful-update-as-games-workshop-makes-significant-amazon-announcements",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785228903
-    },
-    {
-      "title": "With Just Hours to Go Until Spider-Man: Brand New Day, Ryan Reynolds Says His New Monochrome Deadpool Suit is Actually Colored 'Jean Grey'",
-      "link": "https://www.ign.com/articles/with-just-hours-to-go-until-spider-man-brand-new-day-ryan-reynolds-says-his-new-monochrome-deadpool-suit-is-actually-colored-jean-grey",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785228888
-    },
-    {
       "title": "NASA’s Psyche spacecraft aces Mars flyby capturing stunning timelapse video",
       "link": "https://www.sciencedaily.com/releases/2026/07/260727214612.htm",
       "source": "SCIENCEDAILY",
@@ -371,13 +441,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785212288
-    },
-    {
-      "title": "Xbox Executive Explains Outage, Vows to 'Do Better'",
-      "link": "https://www.ign.com/articles/xbox-executive-explains-outage-vows-to-do-better",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785200705
     },
     {
       "title": "Starship in space! See highlights of SpaceX megarocket's epic Flight 13 test launch (video)",
@@ -422,39 +485,11 @@
       "timestamp": 1785183723
     },
     {
-      "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
-      "link": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785183162
-    },
-    {
       "title": "Rocket Lab to start launching missile-defense missions from Alaska under $266 million Space Force deal",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-to-start-launching-missile-defense-missions-from-alaska-under-usd266-million-space-force-deal",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785182400
-    },
-    {
-      "title": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
-      "link": "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785179882
-    },
-    {
-      "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
-      "link": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785178121
-    },
-    {
-      "title": "Experts warn current Starship heat shield tech is a \"dead end\" for rapid reuse",
-      "link": "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785177280
     },
     {
       "title": "NBA offseason grades 2.0: 76ers get LeBron James and only A+, nobody is having a worse summer than the Cavs",
@@ -492,13 +527,6 @@
       "timestamp": 1785172820
     },
     {
-      "title": "ChatGPT starts blocking direct requests to copy an author's style",
-      "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785171526
-    },
-    {
       "title": "Are we overlooking signs of alien life that aren't technological or biological? 'Bread would be a signature of intelligence'",
       "link": "https://www.space.com/space-exploration/search-for-life/are-we-overlooking-signs-of-alien-life-that-arent-technological-or-biological-bread-would-be-a-signature-of-intelligence",
       "source": "SPACE",
@@ -506,32 +534,11 @@
       "timestamp": 1785168000
     },
     {
-      "title": "Activist charged with felony after giving border agent \"duress code\" that wiped his phone",
-      "link": "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785167914
-    },
-    {
       "title": "The Eastern Conference has finally gained NBA supremacy, and LeBron James only cements that",
       "link": "https://www.cbssports.com/nba/news/nba-eastern-conference-supremacy-lebron-james/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1785167097
-    },
-    {
-      "title": "Framework Laptop 13 Pro review: Much better battery, much worse price",
-      "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785164565
-    },
-    {
-      "title": "We've found huge discounts on a range of ZWO astronomy cameras, including three we love",
-      "link": "https://www.space.com/stargazing/skywatching-kit/bh-photo-and-video-has-discounted-a-range-of-zwo-astronomy-cameras-including-three-we-loved",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785162340
     },
     {
       "title": "These insect submariners survive depths that should crush them",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784928174
-    },
-    {
-      "title": "LeBron James 76ers' contract explained: Smallest salary of his career and an option for a 25th season",
-      "link": "https://www.cbssports.com/nba/news/lebron-james-76ers-contract-explained/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784926757
     }
   ]
 }
