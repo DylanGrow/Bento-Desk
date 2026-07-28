@@ -1,6 +1,83 @@
 {
-  "last_updated": 1785239692,
+  "last_updated": 1785247105,
   "items": [
+    {
+      "title": "Apple launches ‘Upgrade’ device leasing program in partnership with Klarna",
+      "link": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785246627
+    },
+    {
+      "title": "As US measles cases rise, biotech firms start developing new treatments",
+      "link": "https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785245543
+    },
+    {
+      "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+      "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785244757
+    },
+    {
+      "title": "Granola launches an Apple Watch app",
+      "link": "https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785243600
+    },
+    {
+      "title": "BALLS on the moon: China set to launch Africa's 1st lunar science mission in 2029",
+      "link": "https://www.space.com/astronomy/moon/balls-on-the-moon-china-set-to-launch-africas-1st-lunar-science-mission-in-2029",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785243600
+    },
+    {
+      "title": "Vita Vea's possible landing spots; NBA offseason grades 2.0 after LeBron James' decision",
+      "link": "https://www.cbssports.com/nfl/news/vita-vea-nba-offseason-grades-lebron-james/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1785243454
+    },
+    {
+      "title": "Betelgeuse, Betelgeuse! Astronomers capture clearest image yet of famous star's elusive companion",
+      "link": "https://www.space.com/astronomy/stars/betelgeuse-betelgeuse-astronomers-capture-clearest-image-yet-of-famous-stars-elusive-companion",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785240000
+    },
+    {
+      "title": "Misfolded insulin may be quietly driving diabetes",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260727214616.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785239284
+    },
+    {
+      "title": "'I Thought This Would Be Drama Free, How Wrong I Was' — Games Workshop Secured a £7.8 Million Refund on Donald Trump's Tariffs, but Iran War Threatens Supply Chain",
+      "link": "https://www.ign.com/articles/i-thought-this-would-be-drama-free-how-wrong-i-was-games-workshop-secured-a-78-million-refund-on-donald-trumps-tariffs-but-iran-war-threatens-supply-chain",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785238104
+    },
+    {
+      "title": "After 15 Years, Resident Evil 5 Has Finally Been Dethroned as The Series' Best-Selling Game",
+      "link": "https://www.ign.com/articles/after-15-years-resident-evil-5-has-finally-been-dethroned-as-the-series-best-selling-game",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785237777
+    },
+    {
+      "title": "Hidden charcoal reveals the true age of ancient cave paintings",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260727214619.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785237404
+    },
     {
       "title": "Marvel's Spider-Man 2 Update Adds Tom Holland's Brand New Day Spidey Suit",
       "link": "https://www.ign.com/articles/marvels-spider-man-2-update-adds-tom-hollands-brand-new-day-spidey-suit",
@@ -58,11 +135,32 @@
       "timestamp": 1785225600
     },
     {
+      "title": "NASA’s Psyche spacecraft aces Mars flyby capturing stunning timelapse video",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260727214612.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785219684
+    },
+    {
+      "title": "Blazing like 10 billion suns: NASA’s Swift sees a wandering black hole devouring a star",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260727214609.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785218079
+    },
+    {
       "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
       "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1785213000
+    },
+    {
+      "title": "Twisted laser light can tell mirror-image molecules apart",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260727214557.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785212288
     },
     {
       "title": "Xbox Executive Explains Outage, Vows to 'Do Better'",
@@ -226,25 +324,11 @@
       "timestamp": 1785179882
     },
     {
-      "title": "YouTube Premium Is Adding a Peacock Subscription at No Extra Cost",
-      "link": "https://www.ign.com/articles/youtube-premium-is-adding-a-peacock-subscription-at-no-extra-cost",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785179207
-    },
-    {
       "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
       "link": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785178121
-    },
-    {
-      "title": "Physical 'Copies' of GTA 6 Will Expire 170 Days After Launch Date in Japan",
-      "link": "https://www.ign.com/articles/physical-copies-of-gta-6-will-expire-170-days-after-launch-date-in-japan",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785177604
     },
     {
       "title": "Experts warn current Starship heat shield tech is a \"dead end\" for rapid reuse",
@@ -352,32 +436,11 @@
       "timestamp": 1785167914
     },
     {
-      "title": "Google’s AI search is rapidly becoming the default, new data shows",
-      "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785167832
-    },
-    {
       "title": "The Eastern Conference has finally gained NBA supremacy, and LeBron James only cements that",
       "link": "https://www.cbssports.com/nba/news/nba-eastern-conference-supremacy-lebron-james/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1785167097
-    },
-    {
-      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785166200
-    },
-    {
-      "title": "This $9 key physically locks your most addictive apps",
-      "link": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785165937
     },
     {
       "title": "Framework Laptop 13 Pro review: Much better battery, much worse price",
@@ -471,15 +534,15 @@
       "timestamp": 1785147845
     },
     {
-      "title": "A seed that flew around the moon grew into this tree in NYC",
-      "link": "https://www.space.com/astronomy/moon/a-seed-that-flew-around-the-moon-grew-into-this-tree-in-nyc",
+      "title": "An 'almost blood moon' is coming on Aug. 27 and it'll be the best lunar eclipse until NYE 2028",
+      "link": "https://www.space.com/stargazing/lunar-eclipses/this-is-the-best-lunar-eclipse-until-new-years-eve-2028-heres-how-to-spot-the-almost-blood-moon-on-aug-27",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785146400
     },
     {
-      "title": "An 'almost blood moon' is coming on Aug. 27 and it'll be the best lunar eclipse until NYE 2028",
-      "link": "https://www.space.com/stargazing/lunar-eclipses/this-is-the-best-lunar-eclipse-until-new-years-eve-2028-heres-how-to-spot-the-almost-blood-moon-on-aug-27",
+      "title": "A seed that flew around the moon grew into this tree in NYC",
+      "link": "https://www.space.com/astronomy/moon/a-seed-that-flew-around-the-moon-grew-into-this-tree-in-nyc",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785146400
@@ -513,13 +576,6 @@
       "timestamp": 1785070800
     },
     {
-      "title": "I'm not an astronaut, but I went to the International Space Station (sort of)",
-      "link": "https://www.space.com/space-exploration/international-space-station/im-not-an-astronaut-but-i-went-to-the-international-space-station-sort-of",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785060000
-    },
-    {
       "title": "Inside the Backrooms: The internet’s creepiest place is becoming a tourist attraction",
       "link": "https://www.sciencedaily.com/releases/2026/07/260726015254.htm",
       "source": "SCIENCEDAILY",
@@ -541,13 +597,6 @@
       "timestamp": 1785042629
     },
     {
-      "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
-      "link": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785012750
-    },
-    {
       "title": "What's next in NBA offseason after LeBron James' decision? James Harden, Draymond Green, Jalen Duren eye deals",
       "link": "https://www.cbssports.com/nba/news/nba-free-agency-offseason-lebron-james-james-harden-draymond-green-jalen-duren/",
       "source": "CBSSPORTS",
@@ -560,13 +609,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784997166
-    },
-    {
-      "title": "We talk with astronaut Michael Foale about the 1997 Space Station Mir crisis: 'He took all the blame of the collision on his shoulders'",
-      "link": "https://www.space.com/entertainment/space-movies-shows/we-talk-with-astronaut-michael-foale-about-the-1997-space-station-mir-crisis-he-took-all-the-blame-of-the-collision-on-his-shoulders",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1784995200
     },
     {
       "title": "Why the 76ers have the Celtics and Knicks to thank for landing LeBron James",
@@ -604,27 +646,6 @@
       "timestamp": 1784984206
     },
     {
-      "title": "Oral GLP-1 drugs may quiet the brain’s food craving circuit",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260724061439.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1784979244
-    },
-    {
-      "title": "Venus may be tearing itself apart from within",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260724061434.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1784949559
-    },
-    {
-      "title": "Scientists discover the Sun contains 55% more silver than expected",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260723084049.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1784944527
-    },
-    {
       "title": "NBA odds: LeBron James signing with 76ers causes massive movement in futures markets",
       "link": "https://www.cbssports.com/betting/news/nba-odds-lebron-james-signing-with-76ers-causes-massive-movement-in-futures-markets/",
       "source": "CBSSPORTS",
@@ -651,27 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784925833
-    },
-    {
-      "title": "Winners and losers of LeBron James choosing the 76ers: Cavs, Celtics and Steph Curry all suffer massive blows",
-      "link": "https://www.cbssports.com/nba/news/lebron-james-76ers-winners-losers-cavaliers-celtics-steph-curry-nba/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784923941
-    },
-    {
-      "title": "AI helps Stanford scientists discover “natural Ozempic” without the usual side effects",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260719230608.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1784900683
-    },
-    {
-      "title": "Sweden’s hidden rare earth deposits could help break China’s grip",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260723084055.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1784881852
     }
   ]
 }
