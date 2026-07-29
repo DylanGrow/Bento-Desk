@@ -1,6 +1,62 @@
 {
-  "last_updated": 1785333769,
+  "last_updated": 1785341907,
   "items": [
+    {
+      "title": "Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers",
+      "link": "https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785339408
+    },
+    {
+      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+      "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785339309
+    },
+    {
+      "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
+      "link": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785337200
+    },
+    {
+      "title": "'The Ark' creator Dean Devlin talks season 3's enormous mystery box and sci-fi surprises (interview)",
+      "link": "https://www.space.com/entertainment/space-movies-shows/the-ark-creator-dean-devlin-talks-season-3s-enormous-mystery-box-and-sci-fi-surprises-interview",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785337200
+    },
+    {
+      "title": "How 97 Copies of an Unreleased Version of Super Mario Bros. Duck Hunt Were Discovered in a Wisconsin Warehouse",
+      "link": "https://www.ign.com/articles/how-97-copies-of-an-unreleased-version-of-super-mario-bros-duck-hunt-were-discovered-in-a-wisconsin-warehouse",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785337200
+    },
+    {
+      "title": "5 Years Later, Cool Cyberpunk Shooter The Ascent Is Getting a Major Update — and It Sounds Like a Sequel Is in the Works",
+      "link": "https://www.ign.com/articles/5-years-later-cool-cyberpunk-shooter-the-ascent-is-getting-a-major-update-and-it-sounds-like-a-sequel-is-in-the-works",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785336649
+    },
+    {
+      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785336066
+    },
+    {
+      "title": "Pokémon Pokopia Expansion and Free Update Arrive Next Week, Unlocking Underwater Gameplay",
+      "link": "https://www.ign.com/articles/pokemon-pokopia-expansion-and-free-update-arrive-next-week-unlocking-underwater-gameplay",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785334773
+    },
     {
       "title": "The Holy Stone HS900 Pro drone is sadly middling and being outcompeted by many other models",
       "link": "https://www.space.com/technology/holy-stone-hs900-pro-drone-review",
@@ -9,15 +65,15 @@
       "timestamp": 1785333600
     },
     {
-      "title": "On this day in space! July 29, 1982: Soviet Salyut 6 space station falls to Earth",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-29-2026",
+      "title": "SpaceX Starship still floating 5 days after flight | Space photo of the day for July 29, 2026",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-still-floating-5-days-after-flight-space-photo-of-the-day-for-july-29-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785333600
     },
     {
-      "title": "SpaceX Starship still floating 5 days after flight | Space photo of the day for July 29, 2026",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-still-floating-5-days-after-flight-space-photo-of-the-day-for-july-29-2026",
+      "title": "On this day in space! July 29, 1982: Soviet Salyut 6 space station falls to Earth",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-29-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785333600
@@ -37,15 +93,15 @@
       "timestamp": 1785331684
     },
     {
-      "title": "DoorDash is building its own drone delivery business",
-      "link": "https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785330000
+      "title": "What happens when you put AI to work deciphering lost languages?",
+      "link": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785331411
     },
     {
-      "title": "Spotify adds a running mode to its app",
-      "link": "https://techcrunch.com/2026/07/29/spotify-adds-a-running-mode-to-its-app/",
+      "title": "DoorDash is building its own drone delivery business",
+      "link": "https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1785330000
@@ -114,7 +170,7 @@
       "timestamp": 1785323691
     },
     {
-      "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
+      "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
       "link": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -261,13 +317,6 @@
       "timestamp": 1785277802
     },
     {
-      "title": "Fortnite Adds New Spider-Man, Hulk, and Punisher Skins in Brand New Day Crossover",
-      "link": "https://www.ign.com/articles/fortnite-adds-new-spider-man-hulk-and-punisher-skins-in-brand-new-day-crossover",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785277627
-    },
-    {
       "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
       "link": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
       "source": "ARSTECHNICA",
@@ -308,13 +357,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1785274174
-    },
-    {
-      "title": "Michael B. Jordan Says He 'Can't Wait' to See David Jonsson as the Next Black Panther",
-      "link": "https://www.ign.com/articles/michael-b-jordan-says-he-cant-wait-to-see-david-jonsson-as-the-next-black-panther",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785273775
     },
     {
       "title": "NBA Power Rankings: LeBron James vaults 76ers into top five; Spurs have early edge over Knicks",
@@ -373,13 +415,6 @@
       "timestamp": 1785269828
     },
     {
-      "title": "Xbox Speaks Out After Double Fine Lays Off 25 Percent of Staff in Transition to Independent Status",
-      "link": "https://www.ign.com/articles/xbox-speaks-out-after-double-fine-lays-off-25-percent-of-staff-in-transition-to-independent-status",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785268422
-    },
-    {
       "title": "Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy",
       "link": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
       "source": "TECHCRUNCH",
@@ -436,20 +471,6 @@
       "timestamp": 1785262599
     },
     {
-      "title": "HBO Max embraces vertical video with a new ‘Shorts’ feed",
-      "link": "https://techcrunch.com/2026/07/28/hbo-max-embraces-vertical-video-with-a-new-shorts-feed/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785261477
-    },
-    {
-      "title": "Saudi prince buys 5% stake in Lucid Motors",
-      "link": "https://techcrunch.com/2026/07/28/saudi-prince-buys-5-stake-in-lucid-motors/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785260031
-    },
-    {
       "title": "'Silo' season 3's Ashley Zuckerman and Jessica Henwick share the secret to their on-screen chemistry (interview)",
       "link": "https://www.space.com/entertainment/space-movies-shows/silo-season-3s-ashley-zuckerman-and-jessica-henwick-share-the-secret-to-their-on-screen-chemistry-interview",
       "source": "SPACE",
@@ -462,13 +483,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785255385
-    },
-    {
-      "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
-      "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785253346
     },
     {
       "title": "SpaceX launches 24 Starlink satellites to orbit in wake of Starship test flight (video)",
@@ -541,13 +555,6 @@
       "timestamp": 1785232800
     },
     {
-      "title": "The unique DJI Lito X1 drone is packed full of functionality and you can't buy it in the USA",
-      "link": "https://www.space.com/technology/dji-lito-x1-drone-review",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785229200
-    },
-    {
       "title": "NASA’s Psyche spacecraft aces Mars flyby capturing stunning timelapse video",
       "link": "https://www.sciencedaily.com/releases/2026/07/260727214612.htm",
       "source": "SCIENCEDAILY",
@@ -574,13 +581,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785189374
-    },
-    {
-      "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
-      "link": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785188427
     },
     {
       "title": "NBA offseason grades 2.0: 76ers get LeBron James and only A+, nobody is having a worse summer than the Cavs",
