@@ -1,6 +1,41 @@
 {
-  "last_updated": 1785362244,
+  "last_updated": 1785366018,
   "items": [
+    {
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785365163
+    },
+    {
+      "title": "'It's going to do things that currently are impossible': The Roman Space Telescope, NASA's next great observatory, is ready to launch Aug. 30",
+      "link": "https://www.space.com/astronomy/its-going-to-do-things-that-currently-are-impossible-the-roman-space-telescope-nasas-next-great-observatory-is-ready-to-launch-aug-30",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785364890
+    },
+    {
+      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+      "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785363792
+    },
+    {
+      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+      "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785362826
+    },
+    {
+      "title": "Marvel Studios Boss Suggests Kingpin Appearing in a Spider-Man Movie Isn't as Complicated as Fans Think",
+      "link": "https://www.ign.com/articles/marvel-studios-boss-suggests-kingpin-appearing-in-a-spider-man-movie-isnt-as-complicated-as-fans-think",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785360294
+    },
     {
       "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
@@ -42,6 +77,13 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1785358870
+    },
+    {
+      "title": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
+      "link": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785358655
     },
     {
       "title": "'It Totally Didn't Work' - Tom Holland and Zendaya 'Hated' an Early Cut of Spider-Man: Brand New Day",
@@ -317,13 +359,6 @@
       "timestamp": 1785337200
     },
     {
-      "title": "5 Years Later, Cool Cyberpunk Shooter The Ascent Is Getting a Major Update — and It Sounds Like a Sequel Is in the Works",
-      "link": "https://www.ign.com/articles/5-years-later-cool-cyberpunk-shooter-the-ascent-is-getting-a-major-update-and-it-sounds-like-a-sequel-is-in-the-works",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785336649
-    },
-    {
       "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
       "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
       "source": "TECHCRUNCH",
@@ -380,13 +415,6 @@
       "timestamp": 1785331411
     },
     {
-      "title": "DoorDash is building its own drone delivery business",
-      "link": "https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785330000
-    },
-    {
       "title": "X-ray spacecraft detects the 36-million-degree 'breath' of an ancient black hole",
       "link": "https://www.space.com/astronomy/black-holes/x-ray-spacecraft-detects-the-36-million-degree-breath-of-a-cosmic-giant-just-2-billion-years-after-the-big-bang",
       "source": "SPACE",
@@ -413,13 +441,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785326756
-    },
-    {
-      "title": "Fast Metals is treating waste with more waste to extract critical minerals",
-      "link": "https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785326400
     },
     {
       "title": "A tiny molecular basket unlocks a powerful new kind of chemistry",
@@ -492,25 +513,11 @@
       "timestamp": 1785286836
     },
     {
-      "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
-      "link": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785276540
-    },
-    {
       "title": "DJI Lito 1 drone review",
       "link": "https://www.space.com/technology/dji-lito-1-drone-review",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785276000
-    },
-    {
-      "title": "College lab class ends with 32 people on antibiotics for deadly germ exposure",
-      "link": "https://arstechnica.com/health/2026/07/college-lab-class-ends-with-32-people-on-antibiotics-for-deadly-germ-exposure/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785275392
     },
     {
       "title": "Draymond Green re-signs with Warriors, explains why he thinks LeBron James didn't come to Golden State",
@@ -546,13 +553,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785250800
-    },
-    {
-      "title": "ISS meets Venus in incredible daylight photo | Space photo of the day for July 28, 2026",
-      "link": "https://www.space.com/stargazing/iss-meets-venus-in-incredible-daylight-photo-space-photo-of-the-day-for-july-28-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785247200
     },
     {
       "title": "Vita Vea's possible landing spots; NBA offseason grades 2.0 after LeBron James' decision",
