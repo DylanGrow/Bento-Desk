@@ -1,12 +1,89 @@
 {
-  "last_updated": 1785348250,
+  "last_updated": 1785355800,
   "items": [
+    {
+      "title": "Watch this stirring new 'Star Trek' 60th anniversary video saluting the iconic sci-fi franchise",
+      "link": "https://www.space.com/entertainment/watch-this-stirring-new-star-trek-60th-anniversary-video-saluting-the-iconic-sci-fi-franchise",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785355200
+    },
+    {
+      "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+      "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785354289
+    },
+    {
+      "title": "Final Fantasy 7 Revelation Director Is Pushing for a Physical Edition, But Nothing Has Been Decided",
+      "link": "https://www.ign.com/articles/final-fantasy-7-revelation-director-is-pushing-for-a-physical-edition-but-nothing-has-been-decided",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785352624
+    },
+    {
+      "title": "Guillermo del Toro Says He Plays Angry Birds ‘Every Day’ of His Life",
+      "link": "https://www.ign.com/articles/guillermo-del-toro-says-he-plays-angry-birds-every-day-of-his-life",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785351806
+    },
+    {
+      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+      "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785350727
+    },
+    {
+      "title": "Yaga's Noah Reid Says People Will See 'A Different Side' to Hudson Williams in the Upcoming Series",
+      "link": "https://www.ign.com/articles/yagas-noah-reid-says-people-will-see-a-different-side-to-hudson-williams-in-the-upcoming-series",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785349550
+    },
+    {
+      "title": "Halo: Campaign Evolved Modders Have Already Added Iron Man, Carl Johnson From GTA, and More",
+      "link": "https://www.ign.com/articles/halo-campaign-evolved-modders-have-already-added-iron-man-carl-johnson-from-gta-and-more",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785349489
+    },
+    {
+      "title": "Four more years? LeBron James could play much longer than many think, agent Rich Paul says",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-rich-paul-76ers-retirement/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1785348949
+    },
+    {
+      "title": "Google begins global rollout of age verification API in Google Play",
+      "link": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785348502
+    },
     {
       "title": "NASA launched this spacecraft to save a satellite. Now, it needs saving too",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/nasa-launched-this-spacecraft-to-save-a-satellite-now-it-needs-saving-too",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785348000
+    },
+    {
+      "title": "Xbox Promises to Investigate Reports of Service Outage Preventing Players From Accessing Physical Games",
+      "link": "https://www.ign.com/articles/xbox-promises-to-investigate-reports-of-service-outage-preventing-players-from-accessing-physical-games",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785347967
+    },
+    {
+      "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
+      "link": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785347904
     },
     {
       "title": "Sorry, haters. Ferrari’s first EV is doing just fine",
@@ -28,6 +105,27 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1785346869
+    },
+    {
+      "title": "Yet more qubit tech: New quantum dot options, diamond vacancies",
+      "link": "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785346667
+    },
+    {
+      "title": "Crunchyroll Announces First Streaming Bundle for U.S. Subscribers",
+      "link": "https://www.ign.com/articles/crunchyroll-starz-prime-video-streaming-bundle-announcement",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785345957
+    },
+    {
+      "title": "Actually, Starliner might fly into space this year",
+      "link": "https://arstechnica.com/space/2026/07/actually-starliner-might-fly-into-space-this-year/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785345881
     },
     {
       "title": "BioWare's Former Dragon Age Boss Says a Mass Effect-Style Remaster Trilogy Is Pretty Much Impossible",
@@ -65,6 +163,13 @@
       "timestamp": 1785342900
     },
     {
+      "title": "Anthropic is finding bugs faster than Microsoft can fix them",
+      "link": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785340368
+    },
+    {
       "title": "Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers",
       "link": "https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/",
       "source": "TECHCRUNCH",
@@ -79,6 +184,13 @@
       "timestamp": 1785339309
     },
     {
+      "title": "New AMD Linux patch boosts low-end gaming performance on Steam Deck",
+      "link": "https://arstechnica.com/gaming/2026/07/new-amd-linux-patch-boosts-low-end-gaming-performance-on-steam-deck/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785339200
+    },
+    {
       "title": "Well, the Greek Prime Minister Seems Happy With The Odyssey — He Called Christopher Nolan to Thank Him for 'Stimulating Global Interest in Ancient Greek Culture'",
       "link": "https://www.ign.com/articles/well-the-greek-prime-minister-seems-happy-with-the-odyssey-he-called-christopher-nolan-to-thank-him-for-stimulating-global-interest-in-ancient-greek-culture",
       "source": "IGN",
@@ -91,6 +203,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1785339140
+    },
+    {
+      "title": "Gaming and IRL worlds collide in Jumanji: Open World trailer",
+      "link": "https://arstechnica.com/culture/2026/07/gaming-and-irl-worlds-collide-in-jumanji-open-world-trailer/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785338182
     },
     {
       "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
@@ -142,15 +261,15 @@
       "timestamp": 1785333600
     },
     {
-      "title": "The Holy Stone HS900 Pro drone is sadly middling and being outcompeted by many other models",
-      "link": "https://www.space.com/technology/holy-stone-hs900-pro-drone-review",
+      "title": "SpaceX Starship still floating 5 days after flight | Space photo of the day for July 29, 2026",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-still-floating-5-days-after-flight-space-photo-of-the-day-for-july-29-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785333600
     },
     {
-      "title": "SpaceX Starship still floating 5 days after flight | Space photo of the day for July 29, 2026",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-still-floating-5-days-after-flight-space-photo-of-the-day-for-july-29-2026",
+      "title": "The Holy Stone HS900 Pro drone is sadly middling and being outcompeted by many other models",
+      "link": "https://www.space.com/technology/holy-stone-hs900-pro-drone-review",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785333600
@@ -268,25 +387,11 @@
       "timestamp": 1785322800
     },
     {
-      "title": "I've Got a Theory for Who Henry Cavill Will Play in Amazon's Warhammer 40,000 TV Series",
-      "link": "https://www.ign.com/articles/ive-got-a-theory-for-who-henry-cavill-will-play-in-amazons-warhammer-40000-tv-series",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785322555
-    },
-    {
       "title": "July's full Buck Moon leads a mini planet parade through the summer sky tonight",
       "link": "https://www.space.com/stargazing/full-buck-moon-leads-a-mini-planet-parade-through-the-summer-sky-july-29-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785320859
-    },
-    {
-      "title": "Pragmata 2 Likely After Sales Success, Publisher Capcom Says",
-      "link": "https://www.ign.com/articles/pragmata-2-likely-after-sales-success-publisher-capcom-says",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785320107
     },
     {
       "title": "New microwave frying method could make french fries much healthier",
@@ -301,20 +406,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785319251
-    },
-    {
-      "title": "Wuchang: Fallen Feathers Sequel Announced With Creator Back on Board, After Reports That Its Development Team Had Disbanded",
-      "link": "https://www.ign.com/articles/wuchang-fallen-feathers-sequel-announced-with-creator-back-on-board-after-reports-that-its-development-team-had-disbanded",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785317730
-    },
-    {
-      "title": "The Joker, Morbius, and Skeletor Actor Jared Leto Accused of Criminal Sexual Conduct by Four Women",
-      "link": "https://www.ign.com/articles/the-joker-morbius-and-skeletor-actor-jared-leto-accused-of-criminal-sexual-conduct-by-four-women",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785317691
     },
     {
       "title": "Can’t sleep in the heat? These 8 tricks could save your night",
@@ -336,20 +427,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785298445
-    },
-    {
-      "title": "GTA Online In-game Gambling Suddenly Disabled in Australia",
-      "link": "https://www.ign.com/articles/gta-online-in-game-gambling-suddenly-disabled-in-australia",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785297395
-    },
-    {
-      "title": "Lightspeed LA Lays Off Staff as It Shifts Last Sentinel's Creative Direction",
-      "link": "https://www.ign.com/articles/lightspeed-la-lays-off-staff-as-it-shifts-last-sentinels-creative-direction",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785289281
     },
     {
       "title": "One of Earth’s most explosive supervolcanoes is recharging with fresh magma",
@@ -443,53 +520,11 @@
       "timestamp": 1785271905
     },
     {
-      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-      "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785271512
-    },
-    {
-      "title": "Philly suburb: Sure, build that data center—but first meet our 43 demands",
-      "link": "https://arstechnica.com/tech-policy/2026/07/philly-suburb-sure-build-that-data-center-but-first-meet-our-43-demands/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785271399
-    },
-    {
-      "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
-      "link": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785270020
-    },
-    {
-      "title": "Sam Altman is ready to decelerate",
-      "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785269828
-    },
-    {
       "title": "Our Milky Way galaxy appears to have flipped 90 degrees long ago. But why?",
       "link": "https://www.space.com/astronomy/galaxies/our-milky-way-galaxy-appears-to-have-flipped-90-degrees-long-ago-but-why",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785265200
-    },
-    {
-      "title": "New airliner sets record flying 24 hrs nonstop from Australia to France",
-      "link": "https://arstechnica.com/gadgets/2026/07/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-france/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785264216
-    },
-    {
-      "title": "Judge blocks first state law that would have banned prediction markets",
-      "link": "https://arstechnica.com/tech-policy/2026/07/judge-blocks-first-state-law-that-would-have-banned-prediction-markets/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785263473
     },
     {
       "title": "'Silo' season 3's Ashley Zuckerman and Jessica Henwick share the secret to their on-screen chemistry (interview)",
@@ -499,13 +534,6 @@
       "timestamp": 1785258000
     },
     {
-      "title": "Report: Trump mad RFK Jr. hasn’t cut more vaccines or proven autism link",
-      "link": "https://arstechnica.com/health/2026/07/report-trump-mad-rfk-jr-hasnt-cut-more-vaccines-or-proven-autism-link/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785255385
-    },
-    {
       "title": "SpaceX launches 24 Starlink satellites to orbit in wake of Starship test flight (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-51-b1100-vsfb-ocisly",
       "source": "SPACE",
@@ -513,25 +541,11 @@
       "timestamp": 1785250800
     },
     {
-      "title": "ISS meets Venus in incredible daylight photo | Space photo of the day for July 28, 2026",
-      "link": "https://www.space.com/stargazing/iss-meets-venus-in-incredible-daylight-photo-space-photo-of-the-day-for-july-28-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785247200
-    },
-    {
       "title": "On this day in space! July 28, 1851: The 1st photo of a total solar eclipse was taken by a Prussian daguerreotypist",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-28-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785247200
-    },
-    {
-      "title": "As US measles cases rise, biotech firms start developing new treatments",
-      "link": "https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785245543
     },
     {
       "title": "Vita Vea's possible landing spots; NBA offseason grades 2.0 after LeBron James' decision",
@@ -574,13 +588,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785212288
-    },
-    {
-      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-      "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785189374
     },
     {
       "title": "NBA offseason grades 2.0: 76ers get LeBron James and only A+, nobody is having a worse summer than the Cavs",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784989934
-    },
-    {
-      "title": "Knicks vs. 76ers? Spurs vs. Thunder? Predicting the NBA's Opening Night and Christmas schedules",
-      "link": "https://www.cbssports.com/nba/news/nba-schedule-2026-predictions-opening-night-christmas-76ers-knicks-spurs-thunder/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784989601
     }
   ]
 }
