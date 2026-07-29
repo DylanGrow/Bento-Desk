@@ -1,6 +1,69 @@
 {
-  "last_updated": 1785355800,
+  "last_updated": 1785362244,
   "items": [
+    {
+      "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785359799
+    },
+    {
+      "title": "Kevin Feige 'Has Hope' That Spider-Man and Venom Will Finally Meet in the MCU",
+      "link": "https://www.ign.com/articles/kevin-feige-has-hope-that-spider-man-and-venom-will-finally-meet-in-the-mcu",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785359326
+    },
+    {
+      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+      "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785359268
+    },
+    {
+      "title": "NBA Power Rankings: LeBron James vaults 76ers into top five; Spurs have early edge over Knicks",
+      "link": "https://www.cbssports.com/nba/news/nba-power-rankings-lebron-james-76ers-knicks-spurs-thunder/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1785359209
+    },
+    {
+      "title": "Winamp aims for a comeback with a new music player powered by Deezer",
+      "link": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785358932
+    },
+    {
+      "title": "The Warriors are marginalizing the end of Stephen Curry's prime, and it's a basketball sin",
+      "link": "https://www.cbssports.com/nba/news/warriors-future-stephen-curry-nba-offseason-lebron-james/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1785358870
+    },
+    {
+      "title": "'It Totally Didn't Work' - Tom Holland and Zendaya 'Hated' an Early Cut of Spider-Man: Brand New Day",
+      "link": "https://www.ign.com/articles/it-totally-didnt-work-tom-holland-and-zendaya-hated-an-early-cut-of-spider-man-brand-new-day",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785356345
+    },
+    {
+      "title": "Yaga Showrunner Kat Sandler Talks Baba Yaga Being the 'OG Bad Girl of Fairytales'",
+      "link": "https://www.ign.com/articles/yaga-showrunner-kat-sandler-talks-baba-yaga-being-the-og-bad-girl-of-fairytales",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785356188
+    },
+    {
+      "title": "Who wins and who loses after US bans foreign robots?",
+      "link": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785355422
+    },
     {
       "title": "Watch this stirring new 'Star Trek' 60th anniversary video saluting the iconic sci-fi franchise",
       "link": "https://www.space.com/entertainment/watch-this-stirring-new-star-trek-60th-anniversary-video-saluting-the-iconic-sci-fi-franchise",
@@ -9,11 +72,32 @@
       "timestamp": 1785355200
     },
     {
+      "title": "Universal Studios Honors Ozzy Osbourne by Giving Him His Very Own Haunted House at Halloween Horror Nights",
+      "link": "https://www.ign.com/articles/universal-studios-honors-ozzy-osbourne-by-giving-him-his-very-own-haunted-house-at-halloween-horror-nights",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785355089
+    },
+    {
       "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
       "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1785354289
+    },
+    {
+      "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
+      "link": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785353635
+    },
+    {
+      "title": "Customize Ars your way with an Ars Pro subscription",
+      "link": "https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785353007
     },
     {
       "title": "Final Fantasy 7 Revelation Director Is Pushing for a Physical Edition, But Nothing Has Been Decided",
@@ -58,7 +142,7 @@
       "timestamp": 1785348949
     },
     {
-      "title": "Google begins global rollout of age verification API in Google Play",
+      "title": "Google's \"privacy-preserving\" age verification system is coming to the Play Store",
       "link": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -247,13 +331,6 @@
       "timestamp": 1785336066
     },
     {
-      "title": "Pokémon Pokopia Expansion and Free Update Arrive Next Week, Unlocking Underwater Gameplay",
-      "link": "https://www.ign.com/articles/pokemon-pokopia-expansion-and-free-update-arrive-next-week-unlocking-underwater-gameplay",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785334773
-    },
-    {
       "title": "‘No one’s making a phone like this’: Light’s co-founders on building for the anti-smartphone generation",
       "link": "https://techcrunch.com/video/no-ones-making-a-phone-like-this-lights-co-founders-on-building-for-the-anti-smartphone-generation/",
       "source": "TECHCRUNCH",
@@ -261,15 +338,15 @@
       "timestamp": 1785333600
     },
     {
-      "title": "SpaceX Starship still floating 5 days after flight | Space photo of the day for July 29, 2026",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-still-floating-5-days-after-flight-space-photo-of-the-day-for-july-29-2026",
+      "title": "The Holy Stone HS900 Pro drone is sadly middling and being outcompeted by many other models",
+      "link": "https://www.space.com/technology/holy-stone-hs900-pro-drone-review",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785333600
     },
     {
-      "title": "The Holy Stone HS900 Pro drone is sadly middling and being outcompeted by many other models",
-      "link": "https://www.space.com/technology/holy-stone-hs900-pro-drone-review",
+      "title": "SpaceX Starship still floating 5 days after flight | Space photo of the day for July 29, 2026",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-still-floating-5-days-after-flight-space-photo-of-the-day-for-july-29-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785333600
@@ -324,25 +401,11 @@
       "timestamp": 1785329636
     },
     {
-      "title": "'Without His Help, Spike Wouldn't Would Have Lasted': Buffy Star James Marsters Says His Attempts at a British Accent Were Saved by Giles Actor Anthony Head",
-      "link": "https://www.ign.com/articles/without-his-help-spike-wouldnt-would-have-lasted-buffy-star-james-marsters-says-his-attempts-at-a-british-accent-were-saved-by-giles-actor-anthony-head",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785328485
-    },
-    {
       "title": "Your gut may help your brain decide what to remember",
       "link": "https://www.sciencedaily.com/releases/2026/07/260729010713.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785327624
-    },
-    {
-      "title": "The Balrog vs Sauron Fight Is Either Blasphemy or Awesome, Depending on Where You Stand on The Lord of the Rings Adaptations",
-      "link": "https://www.ign.com/articles/the-balrog-vs-sauron-fight-is-either-blasphemy-or-awesome-depending-on-where-you-stand-on-the-lord-of-the-rings-adaptations",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785327316
     },
     {
       "title": "Why are so many dead bumblebees appearing on sidewalks?",
@@ -366,25 +429,11 @@
       "timestamp": 1785325625
     },
     {
-      "title": "Jumanji: Open World Trailer Reveals One Last Roll of the Dice for Dwayne Johnson and His Video Game Friends — and After Black Adam and Moana Flopped, Will It Provide The Rock With a Much-Needed Hit?",
-      "link": "https://www.ign.com/articles/jumanji-open-world-trailer-reveals-one-last-roll-of-the-dice-for-dwayne-johnson-and-his-video-game-friends-and-after-black-adam-and-moana-flopped-will-it-provide-the-rock-with-a-much-needed-hit",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785323691
-    },
-    {
       "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
       "link": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785322839
-    },
-    {
-      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-      "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785322800
     },
     {
       "title": "July's full Buck Moon leads a mini planet parade through the summer sky tonight",
@@ -443,13 +492,6 @@
       "timestamp": 1785286836
     },
     {
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785283745
-    },
-    {
       "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
       "link": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
       "source": "ARSTECHNICA",
@@ -471,13 +513,6 @@
       "timestamp": 1785275392
     },
     {
-      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-      "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785274599
-    },
-    {
       "title": "Draymond Green re-signs with Warriors, explains why he thinks LeBron James didn't come to Golden State",
       "link": "https://www.cbssports.com/nba/news/draymond-green-warriors-contract-lebron-james/",
       "source": "CBSSPORTS",
@@ -485,39 +520,11 @@
       "timestamp": 1785274589
     },
     {
-      "title": "Bot-detection startup Spur nabs $200M from Insight",
-      "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785274174
-    },
-    {
-      "title": "NBA Power Rankings: LeBron James vaults 76ers into top five; Spurs have early edge over Knicks",
-      "link": "https://www.cbssports.com/nba/news/nba-power-rankings-lebron-james-76ers-knicks-spurs-thunder/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1785273106
-    },
-    {
-      "title": "eBay pays $46M to journalists it targeted in bizarre harassment campaign",
-      "link": "https://arstechnica.com/tech-policy/2026/07/ebay-former-execs-pay-56m-to-settle-bloody-pig-mask-harassment-case/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785272535
-    },
-    {
       "title": "NASA fuels its next-gen Roman Space Telescope for August launch",
       "link": "https://www.space.com/astronomy/nasa-fuels-its-next-gen-roman-space-telescope-for-august-launch",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785272400
-    },
-    {
-      "title": "Study: Dinosaurs were charbroiled after Chicxulub impact",
-      "link": "https://arstechnica.com/science/2026/07/dust-cloud-from-dino-killing-asteroid-charbroiled-the-earth/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785271905
     },
     {
       "title": "Our Milky Way galaxy appears to have flipped 90 degrees long ago. But why?",
@@ -541,8 +548,8 @@
       "timestamp": 1785250800
     },
     {
-      "title": "On this day in space! July 28, 1851: The 1st photo of a total solar eclipse was taken by a Prussian daguerreotypist",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-28-2026",
+      "title": "ISS meets Venus in incredible daylight photo | Space photo of the day for July 28, 2026",
+      "link": "https://www.space.com/stargazing/iss-meets-venus-in-incredible-daylight-photo-space-photo-of-the-day-for-july-28-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785247200
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1784997166
-    },
-    {
-      "title": "Why the 76ers have the Celtics and Knicks to thank for landing LeBron James",
-      "link": "https://www.cbssports.com/nba/news/lebron-james-signs-with-76ers-celtics-knicks-nba/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784989934
     }
   ]
 }
