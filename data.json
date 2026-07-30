@@ -1,6 +1,125 @@
 {
-  "last_updated": 1785409441,
+  "last_updated": 1785419506,
   "items": [
+    {
+      "title": "FTC sues Hims & Hers for allegedly sharing patients’ medical data with advertisers Meta and Snap",
+      "link": "https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785418252
+    },
+    {
+      "title": "Of Course Jason Momoa's Blanka Does the Electrocution X-Ray Skeleton Attack in the Street Fighter Movie",
+      "link": "https://www.ign.com/articles/of-course-jason-momoas-blanka-does-the-electrocution-x-ray-skeleton-attack-in-the-street-fighter-movie",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785417870
+    },
+    {
+      "title": "What if the brain does not create consciousness?",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729043829.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785417813
+    },
+    {
+      "title": "Zoox clears final federal hurdle to launch paid robotaxi service",
+      "link": "https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785416943
+    },
+    {
+      "title": "This 4,000-year-old city defied the rules of history",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010730.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785416540
+    },
+    {
+      "title": "Spotify adds a running mode to its app",
+      "link": "https://techcrunch.com/2026/07/30/spotify-adds-a-running-mode-to-its-app/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785416400
+    },
+    {
+      "title": "Inforcer raises $50M to help prepare smaller businesses for a new world of AI and security risks",
+      "link": "https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785416400
+    },
+    {
+      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+      "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785416400
+    },
+    {
+      "title": "'Strange New Worlds'' latest episode is more 'Event Horizon' than classic Trek",
+      "link": "https://www.space.com/entertainment/space-movies-shows/strange-new-worlds-latest-episode-is-more-event-horizon-than-classic-trek",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785416400
+    },
+    {
+      "title": "After Pathfinder and One of the Best Warhammer 40,000 Games Ever Made, Owlcat's Next Step Is to Top Them All — and It's Grown to 600 People to Do It",
+      "link": "https://www.ign.com/articles/after-pathfinder-and-one-of-the-best-warhammer-40000-games-ever-made-owlcats-next-step-is-to-top-them-all-and-its-grown-to-600-people-to-do-it",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785416400
+    },
+    {
+      "title": "EXCLUSIVE: How The Expanse: Osiris Reborn's Progression System Works, Plus Brand New Screenshots",
+      "link": "https://www.ign.com/articles/exclusive-how-the-expanse-osiris-reborns-progression-system-works-plus-brand-new-screenshots",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785416400
+    },
+    {
+      "title": "'We Are a Little Bit Masochistic' — Developers Are Running Scared of Baldur's Gate 4, but Warhammer 40,000: Rogue Trader Studio Owlcat Would Consider It a 'Great Challenge'",
+      "link": "https://www.ign.com/articles/we-are-a-little-bit-masochistic-developers-are-running-scared-of-baldurs-gate-4-but-warhammer-40000-rogue-trader-studio-owlcat-would-consider-it-a-great-challenge",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785416400
+    },
+    {
+      "title": "Helldivers 2 x Warhammer 40,000 Castellan's Creed Legendary Warbond Fully Revealed, Weapons and Armor Shown Off, Release Date Confirmed",
+      "link": "https://www.ign.com/articles/helldivers-2-x-warhammer-40000-castellans-creed-legendary-warbond-fully-revealed-weapons-and-armor-shown-off-release-date-confirmed",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785414465
+    },
+    {
+      "title": "Scientists found evolution repeating itself in the Galápagos Islands",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785413617
+    },
+    {
+      "title": "Long-Lost Pokémon Game Apparently Pops Up on eBay After 20 Years — Though You'll Need $9,000 to Buy It",
+      "link": "https://www.ign.com/articles/long-lost-pokemon-game-apparently-pops-up-on-ebay-after-20-years-though-youll-need-9000-to-buy-it",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785413190
+    },
+    {
+      "title": "Christopher Nolan's The Odyssey Sparks Assassin's Creed: Odyssey Player Count Spike, Gives Ubisoft 'Great Ammunition' for a Remake",
+      "link": "https://www.ign.com/articles/christopher-nolans-the-odyssey-sparks-assassins-creed-odyssey-player-count-spike-gives-ubisoft-great-ammunition-for-a-remake",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785410266
+    },
+    {
+      "title": "Cyberpunk 2077 Quest The Hunt, With Its Creepy Cartoon and Disturbing Braindance, Was Meant to Feel Like True Detective",
+      "link": "https://www.ign.com/articles/cyberpunk-2077-quest-the-hunt-and-its-creepy-cartoon-was-meant-to-feel-like-true-detective",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785407859
+    },
     {
       "title": "In a Bid for New Viewers, The Lord of the Rings: The Rings of Power Season 3 Begins With a Fellowship-Style Prologue",
       "link": "https://www.ign.com/articles/in-a-bid-for-new-viewers-the-lord-of-the-rings-rings-of-power-season-3-begins-with-a-fellowship-style-prologue",
@@ -30,11 +149,39 @@
       "timestamp": 1785403714
     },
     {
+      "title": "A forgotten fossil just revealed a new Triassic predator from 210 million years ago",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010732.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785393261
+    },
+    {
+      "title": "Alien signals may be hiding where we rarely listen",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260726015239.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785388155
+    },
+    {
+      "title": "Ultrafast X-rays capture chemistry unfolding atom by atom",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010726.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785377908
+    },
+    {
       "title": "Project Motor Racing Adds Free Holden Commodore, PC Triple-Screen Support in 2.1 Update",
       "link": "https://www.ign.com/articles/project-motor-racing-adds-free-holden-commodore-pc-triple-screen-support-in-21-update",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1785376671
+    },
+    {
+      "title": "AI reveals explosive bursts in bird evolution",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010709.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785373286
     },
     {
       "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
@@ -156,13 +303,6 @@
       "timestamp": 1785356345
     },
     {
-      "title": "Yaga Showrunner Kat Sandler Talks Baba Yaga Being the 'OG Bad Girl of Fairytales'",
-      "link": "https://www.ign.com/articles/yaga-showrunner-kat-sandler-talks-baba-yaga-being-the-og-bad-girl-of-fairytales",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785356188
-    },
-    {
       "title": "Who wins and who loses after US bans foreign robots?",
       "link": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
       "source": "ARSTECHNICA",
@@ -175,13 +315,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785355200
-    },
-    {
-      "title": "Universal Studios Honors Ozzy Osbourne by Giving Him His Very Own Haunted House at Halloween Horror Nights",
-      "link": "https://www.ign.com/articles/universal-studios-honors-ozzy-osbourne-by-giving-him-his-very-own-haunted-house-at-halloween-horror-nights",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785355089
     },
     {
       "title": "The Hugging Face break-in explained",
@@ -205,39 +338,11 @@
       "timestamp": 1785353007
     },
     {
-      "title": "Final Fantasy 7 Revelation Director Is Pushing for a Physical Edition, But Nothing Has Been Decided",
-      "link": "https://www.ign.com/articles/final-fantasy-7-revelation-director-is-pushing-for-a-physical-edition-but-nothing-has-been-decided",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785352624
-    },
-    {
-      "title": "Guillermo del Toro Says He Plays Angry Birds ‘Every Day’ of His Life",
-      "link": "https://www.ign.com/articles/guillermo-del-toro-says-he-plays-angry-birds-every-day-of-his-life",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785351806
-    },
-    {
       "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
       "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1785350727
-    },
-    {
-      "title": "Yaga's Noah Reid Says People Will See 'A Different Side' to Hudson Williams in the Upcoming Series",
-      "link": "https://www.ign.com/articles/yagas-noah-reid-says-people-will-see-a-different-side-to-hudson-williams-in-the-upcoming-series",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785349550
-    },
-    {
-      "title": "Halo: Campaign Evolved Modders Have Already Added Iron Man, Carl Johnson From GTA, and More",
-      "link": "https://www.ign.com/articles/halo-campaign-evolved-modders-have-already-added-iron-man-carl-johnson-from-gta-and-more",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785349489
     },
     {
       "title": "Four more years? LeBron James could play much longer than many think, agent Rich Paul says",
@@ -261,13 +366,6 @@
       "timestamp": 1785348000
     },
     {
-      "title": "Xbox Promises to Investigate Reports of Service Outage Preventing Players From Accessing Physical Games",
-      "link": "https://www.ign.com/articles/xbox-promises-to-investigate-reports-of-service-outage-preventing-players-from-accessing-physical-games",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785347967
-    },
-    {
       "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
       "link": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
       "source": "ARSTECHNICA",
@@ -289,13 +387,6 @@
       "timestamp": 1785347457
     },
     {
-      "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
-      "link": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785346869
-    },
-    {
       "title": "Yet more qubit tech: New quantum dot options, diamond vacancies",
       "link": "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/",
       "source": "ARSTECHNICA",
@@ -303,25 +394,11 @@
       "timestamp": 1785346667
     },
     {
-      "title": "Crunchyroll Announces First Streaming Bundle for U.S. Subscribers",
-      "link": "https://www.ign.com/articles/crunchyroll-starz-prime-video-streaming-bundle-announcement",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785345957
-    },
-    {
       "title": "Actually, Starliner might fly into space this year",
       "link": "https://arstechnica.com/space/2026/07/actually-starliner-might-fly-into-space-this-year/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785345881
-    },
-    {
-      "title": "Google brings its age-assurance technology to Android developers worldwide",
-      "link": "https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785344400
     },
     {
       "title": "SpaceX launching secret US spy satellite early on July 30: Watch it live",
@@ -345,20 +422,6 @@
       "timestamp": 1785340368
     },
     {
-      "title": "Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers",
-      "link": "https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785339408
-    },
-    {
-      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-      "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785339309
-    },
-    {
       "title": "New AMD Linux patch boosts low-end gaming performance on Steam Deck",
       "link": "https://arstechnica.com/gaming/2026/07/new-amd-linux-patch-boosts-low-end-gaming-performance-on-steam-deck/",
       "source": "ARSTECHNICA",
@@ -371,13 +434,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785338182
-    },
-    {
-      "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
-      "link": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785337200
     },
     {
       "title": "'The Ark' creator Dean Devlin talks season 3's enormous mystery box and sci-fi surprises (interview)",
@@ -548,13 +604,6 @@
       "timestamp": 1785272400
     },
     {
-      "title": "Our Milky Way galaxy appears to have flipped 90 degrees long ago. But why?",
-      "link": "https://www.space.com/astronomy/galaxies/our-milky-way-galaxy-appears-to-have-flipped-90-degrees-long-ago-but-why",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785265200
-    },
-    {
       "title": "Vita Vea's possible landing spots; NBA offseason grades 2.0 after LeBron James' decision",
       "link": "https://www.cbssports.com/nfl/news/vita-vea-nba-offseason-grades-lebron-james/",
       "source": "CBSSPORTS",
@@ -567,34 +616,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785239284
-    },
-    {
-      "title": "Hidden charcoal reveals the true age of ancient cave paintings",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260727214619.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785237404
-    },
-    {
-      "title": "NASA’s Psyche spacecraft aces Mars flyby capturing stunning timelapse video",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260727214612.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785219684
-    },
-    {
-      "title": "Blazing like 10 billion suns: NASA’s Swift sees a wandering black hole devouring a star",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260727214609.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785218079
-    },
-    {
-      "title": "Twisted laser light can tell mirror-image molecules apart",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260727214557.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785212288
     },
     {
       "title": "NBA offseason grades 2.0: 76ers get LeBron James and only A+, nobody is having a worse summer than the Cavs",
@@ -625,20 +646,6 @@
       "timestamp": 1785167097
     },
     {
-      "title": "These insect submariners survive depths that should crush them",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260726015241.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785159426
-    },
-    {
-      "title": "Your dreams aren’t random. Your brain is rewriting reality",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260725105731.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785157709
-    },
-    {
       "title": "Champion Knicks clear favorites to be LeBron James' first 76ers opponent in 2026-27 NBA season at Kalshi",
       "link": "https://www.cbssports.com/prediction/news/champion-knicks-clear-favorites-to-be-lebron-james-first-76ers-opponent-in-2026-27-nba-season-at-kalshi/",
       "source": "CBSSPORTS",
@@ -651,13 +658,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1785156551
-    },
-    {
-      "title": "500,000-year-old elephant bone hammer shows ancient humans were master toolmakers",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260726015301.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785155776
     },
     {
       "title": "What's next in NBA offseason after LeBron James' decision? James Harden, Draymond Green, Jalen Duren eye deals",
