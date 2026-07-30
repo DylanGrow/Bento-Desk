@@ -1,6 +1,69 @@
 {
-  "last_updated": 1785439241,
+  "last_updated": 1785445510,
   "items": [
+    {
+      "title": "The US government wants to bypass environmental laws for commercial launches and spacecraft reentries",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/the-us-government-wants-to-bypass-environmental-laws-for-commercial-launches-and-spacecraft-reentries",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785445200
+    },
+    {
+      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+      "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785443198
+    },
+    {
+      "title": "Tom Holland's Favorite Game Is The Last of Us Part 2, But He's Avoiding the TV Series",
+      "link": "https://www.ign.com/articles/tom-hollands-favorite-game-is-the-last-of-us-part-2-but-hes-avoiding-the-tv-series",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785442723
+    },
+    {
+      "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
+      "link": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785442392
+    },
+    {
+      "title": "The Odyssey Is Extending Its 70MM IMAX Run With Additional Showings",
+      "link": "https://www.ign.com/articles/the-odyssey-is-extending-its-70mm-imax-run-with-additional-showings",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785441178
+    },
+    {
+      "title": "Nvidia Graphics Cards Are About to Get Even More Expensive",
+      "link": "https://www.ign.com/articles/nvidia-graphics-cards-are-about-to-get-even-more-expensive",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785440928
+    },
+    {
+      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+      "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785440656
+    },
+    {
+      "title": "Guillermo del Toro Opens Up About Inspiring Christopher Nolan's Cyclops in The Odyssey",
+      "link": "https://www.ign.com/articles/guillermo-del-toro-opens-up-about-inspiring-christopher-nolans-cyclops-in-the-odyssey",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785438273
+    },
+    {
+      "title": "'I'm Blown Away' — Hideo Kojima Can't Get Enough of Kane Parsons' Backrooms Movie",
+      "link": "https://www.ign.com/articles/im-blown-away-hideo-kojima-cant-get-enough-of-kane-parsons-backrooms-movie",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785438111
+    },
     {
       "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
       "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
@@ -9,11 +72,25 @@
       "timestamp": 1785437878
     },
     {
+      "title": "Marvel's Wonder Man Is Canceled, Won't Return for Season 2",
+      "link": "https://www.ign.com/articles/marvels-wonder-man-is-canceled-wont-return-for-season-2",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785437698
+    },
+    {
       "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
       "link": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1785436692
+    },
+    {
+      "title": "'It Was a Bit Too Creepy' - Tom Holland Pitched Man-Spider and Body Horror Elements for Brand New Day",
+      "link": "https://www.ign.com/articles/it-was-a-bit-too-creepy-tom-holland-pitched-man-spider-and-body-horror-elements-for-brand-new-day",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785436644
     },
     {
       "title": "The RAM Crisis Is Getting So Bad, AMD Is Bringing Back 4GB Graphics Cards",
@@ -51,7 +128,7 @@
       "timestamp": 1785433811
     },
     {
-      "title": "Spotify launches ‘User notes’ to let users add memories to songs",
+      "title": "Spotify launches ‘User Notes’ to let users add memories to songs",
       "link": "https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -93,7 +170,7 @@
       "timestamp": 1785428503
     },
     {
-      "title": "Okta buys AI security startup Permiso; source says for about $200M",
+      "title": "Okta buys AI security startup Permiso — source says for about $200M",
       "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -184,20 +261,6 @@
       "timestamp": 1785423187
     },
     {
-      "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
-      "link": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785422912
-    },
-    {
-      "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
-      "link": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785420000
-    },
-    {
       "title": "On this day in space! July 30, 1610: Galileo sees Saturn's rings for the 1st time",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-30-2026",
       "source": "SPACE",
@@ -212,32 +275,11 @@
       "timestamp": 1785420000
     },
     {
-      "title": "Neon Genesis Evangelion Is Coming to Criterion Channel in September",
-      "link": "https://www.ign.com/articles/neon-genesis-evangelion-criterion-channel-september",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785420000
-    },
-    {
       "title": "Joel Embiid for Anthony Davis? Don't get your hopes up on trade to reunite LeBron James with former co-star",
       "link": "https://www.cbssports.com/nba/news/joel-embiid-anthony-davis-trade-rumors-lebron-james/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1785419424
-    },
-    {
-      "title": "FTC sues Hims & Hers for allegedly sharing patients’ medical data with advertisers Meta and Snap",
-      "link": "https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785418252
-    },
-    {
-      "title": "Of Course Jason Momoa's Blanka Does the Electrocution X-Ray Skeleton Attack in the Street Fighter Movie",
-      "link": "https://www.ign.com/articles/of-course-jason-momoas-blanka-does-the-electrocution-x-ray-skeleton-attack-in-the-street-fighter-movie",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785417870
     },
     {
       "title": "What if the brain does not create consciousness?",
@@ -261,46 +303,11 @@
       "timestamp": 1785416400
     },
     {
-      "title": "After Pathfinder and One of the Best Warhammer 40,000 Games Ever Made, Owlcat's Next Step Is to Top Them All — and It's Grown to 600 People to Do It",
-      "link": "https://www.ign.com/articles/after-pathfinder-and-one-of-the-best-warhammer-40000-games-ever-made-owlcats-next-step-is-to-top-them-all-and-its-grown-to-600-people-to-do-it",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785416400
-    },
-    {
-      "title": "EXCLUSIVE: How The Expanse: Osiris Reborn's Progression System Works, Plus Brand New Screenshots",
-      "link": "https://www.ign.com/articles/exclusive-how-the-expanse-osiris-reborns-progression-system-works-plus-brand-new-screenshots",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785416400
-    },
-    {
-      "title": "'We Are a Little Bit Masochistic' — Developers Are Running Scared of Baldur's Gate 4, but Warhammer 40,000: Rogue Trader Studio Owlcat Would Consider It a 'Great Challenge'",
-      "link": "https://www.ign.com/articles/we-are-a-little-bit-masochistic-developers-are-running-scared-of-baldurs-gate-4-but-warhammer-40000-rogue-trader-studio-owlcat-would-consider-it-a-great-challenge",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785416400
-    },
-    {
-      "title": "Helldivers 2 x Warhammer 40,000 Castellan's Creed Legendary Warbond Fully Revealed, Weapons and Armor Shown Off, Release Date Confirmed",
-      "link": "https://www.ign.com/articles/helldivers-2-x-warhammer-40000-castellans-creed-legendary-warbond-fully-revealed-weapons-and-armor-shown-off-release-date-confirmed",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785414465
-    },
-    {
       "title": "Scientists found evolution repeating itself in the Galápagos Islands",
       "link": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785413617
-    },
-    {
-      "title": "Long-Lost Pokémon Game Apparently Pops Up on eBay After 20 Years — Though You'll Need $9,000 to Buy It",
-      "link": "https://www.ign.com/articles/long-lost-pokemon-game-apparently-pops-up-on-ebay-after-20-years-though-youll-need-9000-to-buy-it",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785413190
     },
     {
       "title": "July full moon delights skywatchers worldwide. Here are our favorite photos of the majestic Buck Moon",
@@ -422,7 +429,7 @@
       "timestamp": 1785348502
     },
     {
-      "title": "NASA launched this spacecraft to save a satellite. Now, it needs saving too",
+      "title": "NASA launched this spacecraft to save a space telescope. Now, it needs saving too",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/nasa-launched-this-spacecraft-to-save-a-satellite-now-it-needs-saving-too",
       "source": "SPACE",
       "category": "space",
@@ -492,8 +499,8 @@
       "timestamp": 1785337200
     },
     {
-      "title": "SpaceX Starship still floating 5 days after flight | Space photo of the day for July 29, 2026",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-still-floating-5-days-after-flight-space-photo-of-the-day-for-july-29-2026",
+      "title": "On this day in space! July 29, 1982: Soviet Salyut 6 space station falls to Earth",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-29-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785333600
@@ -501,13 +508,6 @@
     {
       "title": "The Holy Stone HS900 Pro drone is sadly middling and being outcompeted by many other models",
       "link": "https://www.space.com/technology/holy-stone-hs900-pro-drone-review",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785333600
-    },
-    {
-      "title": "On this day in space! July 29, 1982: Soviet Salyut 6 space station falls to Earth",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-29-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785333600
