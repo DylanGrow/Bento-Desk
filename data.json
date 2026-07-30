@@ -1,12 +1,40 @@
 {
-  "last_updated": 1785366018,
+  "last_updated": 1785377067,
   "items": [
+    {
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785370866
+    },
+    {
+      "title": "Xbox CEO Asha Sharma Gives Optimistic Outlook Despite Grim Fiscal Earnings Report",
+      "link": "https://www.ign.com/articles/xbox-ceo-asha-sharma-gives-optimistic-outlook-despite-grim-fiscal-earnings-report",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785368229
+    },
+    {
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785366011
+    },
     {
       "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
       "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1785365163
+    },
+    {
+      "title": "Battlefield 6's Record-Breaking Success Earns EA CEO $38 Million Payday, But Laid-Off Devs Aren't Around to Celebrate",
+      "link": "https://www.ign.com/articles/battlefield-6s-record-breaking-success-earns-ea-ceo-38-million-payday-but-laid-off-devs-arent-around-to-celebrate",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785365063
     },
     {
       "title": "'It's going to do things that currently are impossible': The Roman Space Telescope, NASA's next great observatory, is ready to launch Aug. 30",
@@ -324,13 +352,6 @@
       "timestamp": 1785339163
     },
     {
-      "title": "Fortnite Will Let You Unlock John Wick as a The Simpsons Character",
-      "link": "https://www.ign.com/articles/fortnite-will-let-you-unlock-john-wick-as-a-the-simpsons-character",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785339140
-    },
-    {
       "title": "Gaming and IRL worlds collide in Jumanji: Open World trailer",
       "link": "https://arstechnica.com/culture/2026/07/gaming-and-irl-worlds-collide-in-jumanji-open-world-trailer/",
       "source": "ARSTECHNICA",
@@ -350,27 +371,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785337200
-    },
-    {
-      "title": "How 97 Copies of an Unreleased Version of Super Mario Bros. Duck Hunt Were Discovered in a Wisconsin Warehouse",
-      "link": "https://www.ign.com/articles/how-97-copies-of-an-unreleased-version-of-super-mario-bros-duck-hunt-were-discovered-in-a-wisconsin-warehouse",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785337200
-    },
-    {
-      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-      "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785336066
-    },
-    {
-      "title": "‘No one’s making a phone like this’: Light’s co-founders on building for the anti-smartphone generation",
-      "link": "https://techcrunch.com/video/no-ones-making-a-phone-like-this-lights-co-founders-on-building-for-the-anti-smartphone-generation/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785333600
     },
     {
       "title": "The Holy Stone HS900 Pro drone is sadly middling and being outcompeted by many other models",
