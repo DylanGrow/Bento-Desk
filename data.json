@@ -1,6 +1,41 @@
 {
-  "last_updated": 1785445510,
+  "last_updated": 1785452544,
   "items": [
+    {
+      "title": "Investors love AI, as long as you’re a cloud host",
+      "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785451301
+    },
+    {
+      "title": "Apple says gaming slowdown and App Store changes hurt services growth",
+      "link": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785451026
+    },
+    {
+      "title": "Clueless Sequel Series Finally Gets off the Ground with Alicia Silverstone Returning as Cher",
+      "link": "https://www.ign.com/articles/clueless-sequel-series-finally-gets-off-the-ground-with-alicia-silverstone-returning-as-cher",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785449918
+    },
+    {
+      "title": "Pokemon TCG Player Wins Card Shop's 'Anything But a Deck Box' Tournament Using an Actual Loaf of Bread",
+      "link": "https://www.ign.com/articles/pokemon-tcg-player-wins-card-shops-anything-but-a-deck-box-tournament-using-an-actual-loaf-of-bread",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785447330
+    },
+    {
+      "title": "Thimbleweed Park 2 Announced for PC, Mac, and Linux by Monkey Island Creator",
+      "link": "https://www.ign.com/articles/thimbleweed-park-2-announced-for-pc-mac-and-linux-by-monkey-island-creator",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785445633
+    },
     {
       "title": "The US government wants to bypass environmental laws for commercial launches and spacecraft reentries",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/the-us-government-wants-to-bypass-environmental-laws-for-commercial-launches-and-spacecraft-reentries",
@@ -9,7 +44,21 @@
       "timestamp": 1785445200
     },
     {
-      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+      "title": "Justin Wong, IFC Yipes, and Maximillian Dood Appear in New Street Fighter Movie Trailer",
+      "link": "https://www.ign.com/articles/justin-wong-ifc-yipes-and-maximillian-dood-appear-in-new-street-fighter-movie-trailer",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785445055
+    },
+    {
+      "title": "LinkedIn Adds 'Seems Like AI Slop' Button to Combat Low-Quality Content",
+      "link": "https://www.ign.com/articles/linkedin-adds-seems-like-ai-slop-button-to-combat-low-quality-content",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785444226
+    },
+    {
+      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
       "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -149,27 +198,6 @@
       "timestamp": 1785430990
     },
     {
-      "title": "Sony Planned to Integrate Spider-Man Into Its Marvel Villain Spin-Offs, Says Tom Holland",
-      "link": "https://www.ign.com/articles/sony-planned-to-integrate-spider-man-into-its-marvel-villain-spin-offs-says-tom-holland",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785430351
-    },
-    {
-      "title": "Bethesda Has a New Logo to Celebrate Its 40th Anniversary — and It Harkens Back to the Studio's Old Terminator Games",
-      "link": "https://www.ign.com/articles/bethesda-has-a-new-logo-to-celebrate-its-40th-anniversary-and-it-harkens-back-to-the-studios-old-terminator-games",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785430081
-    },
-    {
-      "title": "How a Skyrim Username Error Left an Innocent Man to Serve 18 Months in Jail",
-      "link": "https://www.ign.com/articles/how-a-skyrim-username-error-left-an-innocent-man-to-serve-18-months-in-jail",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785428503
-    },
-    {
       "title": "Okta buys AI security startup Permiso — source says for about $200M",
       "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
       "source": "TECHCRUNCH",
@@ -198,13 +226,6 @@
       "timestamp": 1785427177
     },
     {
-      "title": "The Elder Scrolls Online Content Delayed to 2027 Following Xbox Layoffs",
-      "link": "https://www.ign.com/articles/the-elder-scrolls-online-content-delayed-to-2027-following-xbox-layoffs",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785426644
-    },
-    {
       "title": "When will fusion power startup Commonwealth Fusion Systems go public?",
       "link": "https://techcrunch.com/2026/07/30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public/",
       "source": "TECHCRUNCH",
@@ -217,13 +238,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1785426076
-    },
-    {
-      "title": "Valve Says Steam Machine Reservations Will Be Filled by End of 2026",
-      "link": "https://www.ign.com/articles/valve-says-steam-machine-reservations-will-be-filled-by-end-of-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785425877
     },
     {
       "title": "Netflix lands global streaming deal for ‘The Walking Dead’",
@@ -240,20 +254,6 @@
       "timestamp": 1785424755
     },
     {
-      "title": "Fusion power darling Commonwealth Fusion Systems raises another $1B",
-      "link": "https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785424659
-    },
-    {
-      "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
-      "link": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785423600
-    },
-    {
       "title": "New MCP specification addresses the main barrier to enterprise adoption",
       "link": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
       "source": "ARSTECHNICA",
@@ -261,15 +261,15 @@
       "timestamp": 1785423187
     },
     {
-      "title": "On this day in space! July 30, 1610: Galileo sees Saturn's rings for the 1st time",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-30-2026",
+      "title": "Satellites spy penguin poop on Danger Islands | Space photo of the day for July 30, 2026",
+      "link": "https://www.space.com/astronomy/earth/pink-penguin-poop-on-the-danger-islands-space-photo-of-the-day-for-july-30-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785420000
     },
     {
-      "title": "Satellites spy penguin poop on Danger Islands | Space photo of the day for July 30, 2026",
-      "link": "https://www.space.com/astronomy/earth/pink-penguin-poop-on-the-danger-islands-space-photo-of-the-day-for-july-30-2026",
+      "title": "On this day in space! July 30, 1610: Galileo sees Saturn's rings for the 1st time",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-30-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785420000
@@ -499,15 +499,15 @@
       "timestamp": 1785337200
     },
     {
-      "title": "On this day in space! July 29, 1982: Soviet Salyut 6 space station falls to Earth",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-29-2026",
+      "title": "The Holy Stone HS900 Pro drone is sadly middling and being outcompeted by many other models",
+      "link": "https://www.space.com/technology/holy-stone-hs900-pro-drone-review",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785333600
     },
     {
-      "title": "The Holy Stone HS900 Pro drone is sadly middling and being outcompeted by many other models",
-      "link": "https://www.space.com/technology/holy-stone-hs900-pro-drone-review",
+      "title": "SpaceX Starship still floating 5 days after flight | Space photo of the day for July 29, 2026",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-still-floating-5-days-after-flight-space-photo-of-the-day-for-july-29-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785333600
