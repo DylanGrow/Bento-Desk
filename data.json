@@ -1,6 +1,97 @@
 {
-  "last_updated": 1785419506,
+  "last_updated": 1785426597,
   "items": [
+    {
+      "title": "When will fusion power startup Commonwealth Fusion Systems go public?",
+      "link": "https://techcrunch.com/2026/07/30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785426336
+    },
+    {
+      "title": "Meta says AI is making it easier to build new apps — and more are coming",
+      "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785426076
+    },
+    {
+      "title": "Netflix lands global streaming deal for ‘The Walking Dead’",
+      "link": "https://techcrunch.com/2026/07/30/netflix-lands-global-streaming-deal-for-the-walking-dead/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785425228
+    },
+    {
+      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+      "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785424755
+    },
+    {
+      "title": "Fusion power darling Commonwealth Fusion Systems raises another $1B",
+      "link": "https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785424659
+    },
+    {
+      "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+      "link": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785423600
+    },
+    {
+      "title": "New MCP specification addresses the main barrier to enterprise adoption",
+      "link": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785423187
+    },
+    {
+      "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
+      "link": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785422912
+    },
+    {
+      "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
+      "link": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785420000
+    },
+    {
+      "title": "Pink penguin poop on the Danger Islands | Space photo of the day for July 30, 2026",
+      "link": "https://www.space.com/astronomy/earth/pink-penguin-poop-on-the-danger-islands-space-photo-of-the-day-for-july-30-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785420000
+    },
+    {
+      "title": "On this day in space! July 30, 1610: Galileo sees Saturn's rings for the 1st time",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-30-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785420000
+    },
+    {
+      "title": "Neon Genesis Evangelion Is Coming to Criterion Channel in September",
+      "link": "https://www.ign.com/articles/neon-genesis-evangelion-criterion-channel-september",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785420000
+    },
+    {
+      "title": "Joel Embiid for Anthony Davis? Don't get your hopes up on trade to reunite LeBron James with former co-star",
+      "link": "https://www.cbssports.com/nba/news/joel-embiid-anthony-davis-trade-rumors-lebron-james/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1785419424
+    },
     {
       "title": "FTC sues Hims & Hers for allegedly sharing patients’ medical data with advertisers Meta and Snap",
       "link": "https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/",
@@ -226,13 +317,6 @@
       "timestamp": 1785364890
     },
     {
-      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-      "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785363792
-    },
-    {
       "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
       "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
       "source": "ARSTECHNICA",
@@ -247,13 +331,6 @@
       "timestamp": 1785360294
     },
     {
-      "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785359799
-    },
-    {
       "title": "Kevin Feige 'Has Hope' That Spider-Man and Venom Will Finally Meet in the MCU",
       "link": "https://www.ign.com/articles/kevin-feige-has-hope-that-spider-man-and-venom-will-finally-meet-in-the-mcu",
       "source": "IGN",
@@ -261,25 +338,11 @@
       "timestamp": 1785359326
     },
     {
-      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-      "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785359268
-    },
-    {
       "title": "NBA Power Rankings: LeBron James vaults 76ers into top five; Spurs have early edge over Knicks",
       "link": "https://www.cbssports.com/nba/news/nba-power-rankings-lebron-james-76ers-knicks-spurs-thunder/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1785359209
-    },
-    {
-      "title": "Winamp aims for a comeback with a new music player powered by Deezer",
-      "link": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785358932
     },
     {
       "title": "The Warriors are marginalizing the end of Stephen Curry's prime, and it's a basketball sin",
@@ -296,13 +359,6 @@
       "timestamp": 1785358655
     },
     {
-      "title": "'It Totally Didn't Work' - Tom Holland and Zendaya 'Hated' an Early Cut of Spider-Man: Brand New Day",
-      "link": "https://www.ign.com/articles/it-totally-didnt-work-tom-holland-and-zendaya-hated-an-early-cut-of-spider-man-brand-new-day",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785356345
-    },
-    {
       "title": "Who wins and who loses after US bans foreign robots?",
       "link": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
       "source": "ARSTECHNICA",
@@ -317,13 +373,6 @@
       "timestamp": 1785355200
     },
     {
-      "title": "The Hugging Face break-in explained",
-      "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785354289
-    },
-    {
       "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
       "link": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
       "source": "ARSTECHNICA",
@@ -336,13 +385,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785353007
-    },
-    {
-      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-      "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785350727
     },
     {
       "title": "Four more years? LeBron James could play much longer than many think, agent Rich Paul says",
@@ -373,20 +415,6 @@
       "timestamp": 1785347904
     },
     {
-      "title": "Sorry, haters. Ferrari’s first EV is doing just fine",
-      "link": "https://techcrunch.com/2026/07/29/sorry-haters-ferraris-first-ev-is-doing-just-fine/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785347865
-    },
-    {
-      "title": "Waymo robotaxis are starting to return to freeways",
-      "link": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785347457
-    },
-    {
       "title": "Yet more qubit tech: New quantum dot options, diamond vacancies",
       "link": "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/",
       "source": "ARSTECHNICA",
@@ -401,7 +429,7 @@
       "timestamp": 1785345881
     },
     {
-      "title": "SpaceX launching secret US spy satellite early on July 30: Watch it live",
+      "title": "SpaceX launches secret US spy satellite from Florida",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-spy-satellite-launch-nrol-95",
       "source": "SPACE",
       "category": "space",
@@ -443,8 +471,8 @@
       "timestamp": 1785337200
     },
     {
-      "title": "SpaceX Starship still floating 5 days after flight | Space photo of the day for July 29, 2026",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-still-floating-5-days-after-flight-space-photo-of-the-day-for-july-29-2026",
+      "title": "On this day in space! July 29, 1982: Soviet Salyut 6 space station falls to Earth",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-29-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785333600
@@ -457,8 +485,8 @@
       "timestamp": 1785333600
     },
     {
-      "title": "On this day in space! July 29, 1982: Soviet Salyut 6 space station falls to Earth",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-29-2026",
+      "title": "SpaceX Starship still floating 5 days after flight | Space photo of the day for July 29, 2026",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-still-floating-5-days-after-flight-space-photo-of-the-day-for-july-29-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785333600
@@ -576,32 +604,11 @@
       "timestamp": 1785287117
     },
     {
-      "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
-      "link": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785286836
-    },
-    {
-      "title": "DJI Lito 1 drone review",
-      "link": "https://www.space.com/technology/dji-lito-1-drone-review",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785276000
-    },
-    {
       "title": "Draymond Green re-signs with Warriors, explains why he thinks LeBron James didn't come to Golden State",
       "link": "https://www.cbssports.com/nba/news/draymond-green-warriors-contract-lebron-james/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1785274589
-    },
-    {
-      "title": "NASA fuels its next-gen Roman Space Telescope for August launch",
-      "link": "https://www.space.com/astronomy/nasa-fuels-its-next-gen-roman-space-telescope-for-august-launch",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785272400
     },
     {
       "title": "Vita Vea's possible landing spots; NBA offseason grades 2.0 after LeBron James' decision",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1785006948
-    },
-    {
-      "title": "2026 NBA free agency rankings, tracker: LeBron James signs with 76ers; who's left on the market?",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-free-agency-rankings-tracker/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1784997166
     }
   ]
 }
