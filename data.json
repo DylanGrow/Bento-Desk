@@ -1,6 +1,34 @@
 {
-  "last_updated": 1785516158,
+  "last_updated": 1785521828,
   "items": [
+    {
+      "title": "Our 1st look at 'Blade Runner 2099' shows replicants ruling future Los Angeles: 'It's our time now'",
+      "link": "https://www.space.com/entertainment/our-1st-look-at-blade-runner-2099-shows-replicants-ruling-future-los-angeles-its-our-time-now",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785520800
+    },
+    {
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785518792
+    },
+    {
+      "title": "'The Fan's Dream Come True' - Marvel Comics Creators Lavish Praise on Spider-Man: Brand New Day",
+      "link": "https://www.ign.com/articles/the-fans-dream-come-true-marvel-comics-creators-lavish-praise-on-spider-man-brand-new-day",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785517998
+    },
+    {
+      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+      "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785516548
+    },
     {
       "title": "NBA odds: LeBron James joins 76ers, shifting 2026-27 title and Eastern Conference futures markets",
       "link": "https://www.cbssports.com/betting/news/nba-odds-lebron-james-joins-76ers-shifting-2026-27-title-and-eastern-conference-futures-markets/",
@@ -254,13 +282,6 @@
       "timestamp": 1785488400
     },
     {
-      "title": "Sony Acknowledges 'Strong Views' on Decision to Kill PlayStation Discs, but Insists 'We're Going to Cautiously Move This Forward'",
-      "link": "https://www.ign.com/articles/sony-acknowledges-strong-views-on-decision-to-kill-playstation-discs-but-insists-were-going-to-cautiously-move-this-forward",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785487358
-    },
-    {
       "title": "The Warriors are marginalizing the end of Stephen Curry's prime, and it's a basketball sin",
       "link": "https://www.cbssports.com/nba/news/warriors-future-stephen-curry-nba-offseason-lebron-james/",
       "source": "CBSSPORTS",
@@ -303,13 +324,6 @@
       "timestamp": 1785451301
     },
     {
-      "title": "Apple says gaming slowdown and App Store changes hurt services growth",
-      "link": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785451026
-    },
-    {
       "title": "Tim Cook passes the baton in Apple's Q3 2026 earnings call",
       "link": "https://arstechnica.com/gadgets/2026/07/tim-cooks-last-earnings-call-strong-iphone-sales-but-memory-costs-loom-large/",
       "source": "ARSTECHNICA",
@@ -343,13 +357,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785444339
-    },
-    {
-      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-      "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785443198
     },
     {
       "title": "Just because a game is on disc doesn’t mean it will work in the future",
@@ -408,15 +415,15 @@
       "timestamp": 1785423187
     },
     {
-      "title": "Satellites spy penguin poop on Danger Islands | Space photo of the day for July 30, 2026",
-      "link": "https://www.space.com/astronomy/earth/pink-penguin-poop-on-the-danger-islands-space-photo-of-the-day-for-july-30-2026",
+      "title": "On this day in space! July 30, 1610: Galileo sees Saturn's rings for the 1st time",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-30-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785420000
     },
     {
-      "title": "On this day in space! July 30, 1610: Galileo sees Saturn's rings for the 1st time",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-30-2026",
+      "title": "Satellites spy penguin poop on Danger Islands | Space photo of the day for July 30, 2026",
+      "link": "https://www.space.com/astronomy/earth/pink-penguin-poop-on-the-danger-islands-space-photo-of-the-day-for-july-30-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785420000
@@ -497,13 +504,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785373286
-    },
-    {
-      "title": "'It's going to do things that currently are impossible': The Roman Space Telescope, NASA's next great observatory, is ready to launch Aug. 30",
-      "link": "https://www.space.com/astronomy/its-going-to-do-things-that-currently-are-impossible-the-roman-space-telescope-nasas-next-great-observatory-is-ready-to-launch-aug-30",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785364890
     },
     {
       "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
