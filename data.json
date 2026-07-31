@@ -1,12 +1,68 @@
 {
-  "last_updated": 1785521828,
+  "last_updated": 1785529038,
   "items": [
+    {
+      "title": "The Milky Way has a hidden feature you've probably never noticed. Here's how to find it",
+      "link": "https://www.space.com/stargazing/the-milky-way-has-a-hidden-feature-youve-probably-never-noticed-heres-how-to-find-it",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785528000
+    },
+    {
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785527248
+    },
+    {
+      "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
+      "link": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785526791
+    },
+    {
+      "title": "Obsession Star Inde Navarrette Wants to Play Mystique Following Talks With X-Men Director",
+      "link": "https://www.ign.com/articles/obsession-star-inde-navarrette-wants-to-play-mystique-following-talks-with-x-men-director",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785524439
+    },
+    {
+      "title": "VC-backed startups commit more fraud, and researchers think they know why",
+      "link": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785524400
+    },
+    {
+      "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
+      "link": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785521515
+    },
     {
       "title": "Our 1st look at 'Blade Runner 2099' shows replicants ruling future Los Angeles: 'It's our time now'",
       "link": "https://www.space.com/entertainment/our-1st-look-at-blade-runner-2099-shows-replicants-ruling-future-los-angeles-its-our-time-now",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785520800
+    },
+    {
+      "title": "Researchers devise a full-color night vision goggle",
+      "link": "https://arstechnica.com/science/2026/07/see-the-heat-an-infrared-imaging-system-that-outputs-in-color/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785520718
+    },
+    {
+      "title": "China could supply EV manufacturing boom with recycled EVs",
+      "link": "https://arstechnica.com/science/2026/07/china-could-supply-ev-manufacturing-boom-with-recycled-evs/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785518961
     },
     {
       "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
@@ -23,6 +79,13 @@
       "timestamp": 1785517998
     },
     {
+      "title": "Sony acknowledges backlash, “cautiously” moves ahead with end of PlayStation discs",
+      "link": "https://arstechnica.com/gaming/2026/07/sony-acknowledges-backlash-will-cautiously-move-forward-with-end-of-discs/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785517662
+    },
+    {
       "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
       "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
       "source": "TECHCRUNCH",
@@ -37,6 +100,13 @@
       "timestamp": 1785515152
     },
     {
+      "title": "Man invested $45M in a Nicolas Cage movie. It got stolen off Netflix’s desk.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/man-invested-45m-in-a-nicolas-cage-movie-it-got-stolen-off-netflixs-desk/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785514675
+    },
+    {
       "title": "X-Men Movie Casts Samara Weaving as the MCU's Emma Frost",
       "link": "https://www.ign.com/articles/x-men-movie-casts-samara-weaving-as-the-mcus-emma-frost",
       "source": "IGN",
@@ -44,7 +114,7 @@
       "timestamp": 1785514641
     },
     {
-      "title": "AMD Reportedly Plans To Raise GPU Prices, Too",
+      "title": "AMD Reportedly Plans to Raise GPU Prices, Too",
       "link": "https://www.ign.com/articles/amd-reportedly-plans-to-raise-gpu-prices-too",
       "source": "IGN",
       "category": "gaming",
@@ -149,15 +219,15 @@
       "timestamp": 1785506500
     },
     {
-      "title": "Artemis moonsuits take a dive | Space photo of the day for July 31, 2026",
-      "link": "https://www.space.com/space-exploration/artemis/artemis-moonsuits-take-a-dive-space-photo-of-the-day-for-july-31-2026",
+      "title": "On this day in space!  July 31, 1971: Apollo 15 astronauts drive on the moon for 1st time",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-31-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785506400
     },
     {
-      "title": "On this day in space!  July 31, 1971: Apollo 15 astronauts drive on the moon for 1st time",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-31-2026",
+      "title": "Artemis moonsuits take a dive | Space photo of the day for July 31, 2026",
+      "link": "https://www.space.com/space-exploration/artemis/artemis-moonsuits-take-a-dive-space-photo-of-the-day-for-july-31-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785506400
@@ -268,13 +338,6 @@
       "timestamp": 1785489888
     },
     {
-      "title": "The Legend of Zelda: Ocarina of Time Remake Will Launch Head-to-Head With GTA 6 in November, Nintendo Fans Believe, After Amiibo Release Date Revealed",
-      "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-will-launch-head-to-head-with-gta-6-in-november-nintendo-fans-believe-after-amiibo-release-date-revealed",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785488931
-    },
-    {
       "title": "Our favorite space and sci-fi Playmobil sets: From Star Trek playsets to ESA-collaborated models",
       "link": "https://www.space.com/entertainment/space-toys-lego/our-favorite-space-and-sci-fi-playmobil-sets-from-star-trek-playsets-to-esa-collaborated-models",
       "source": "SPACE",
@@ -301,27 +364,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1785454085
-    },
-    {
-      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785453958
-    },
-    {
-      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-      "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785452938
-    },
-    {
-      "title": "Investors love AI, as long as you’re a cloud host",
-      "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785451301
     },
     {
       "title": "Tim Cook passes the baton in Apple's Q3 2026 earnings call",
@@ -380,13 +422,6 @@
       "timestamp": 1785434282
     },
     {
-      "title": "Space Force-backed mission does its best impression of Top Gun in orbit",
-      "link": "https://arstechnica.com/space/2026/07/space-force-backed-mission-does-its-best-impression-of-top-gun-in-orbit/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785432957
-    },
-    {
       "title": "1st three-headed asteroid found in our solar system — and it has a little moon",
       "link": "https://www.space.com/astronomy/asteroids/1st-three-headed-asteroid-found-in-our-solar-system-and-it-has-a-little-moon",
       "source": "SPACE",
@@ -401,29 +436,15 @@
       "timestamp": 1785427200
     },
     {
-      "title": "Quantum computers outperform classical ones, with results you can trust",
-      "link": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785427177
-    },
-    {
-      "title": "New MCP specification addresses the main barrier to enterprise adoption",
-      "link": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785423187
-    },
-    {
-      "title": "On this day in space! July 30, 1610: Galileo sees Saturn's rings for the 1st time",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-30-2026",
+      "title": "Satellites spy penguin poop on Danger Islands | Space photo of the day for July 30, 2026",
+      "link": "https://www.space.com/astronomy/earth/pink-penguin-poop-on-the-danger-islands-space-photo-of-the-day-for-july-30-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785420000
     },
     {
-      "title": "Satellites spy penguin poop on Danger Islands | Space photo of the day for July 30, 2026",
-      "link": "https://www.space.com/astronomy/earth/pink-penguin-poop-on-the-danger-islands-space-photo-of-the-day-for-july-30-2026",
+      "title": "On this day in space! July 30, 1610: Galileo sees Saturn's rings for the 1st time",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-30-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785420000
@@ -471,13 +492,6 @@
       "timestamp": 1785406144
     },
     {
-      "title": "A SpaceX rocket will crash into the moon next week, and scientists aren't sure what to expect",
-      "link": "https://www.space.com/astronomy/moon/a-spacex-rocket-will-crash-into-the-moon-next-week-and-scientists-arent-sure-what-to-expect",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785405600
-    },
-    {
       "title": "A forgotten fossil just revealed a new Triassic predator from 210 million years ago",
       "link": "https://www.sciencedaily.com/releases/2026/07/260729010732.htm",
       "source": "SCIENCEDAILY",
@@ -506,25 +520,11 @@
       "timestamp": 1785373286
     },
     {
-      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
-      "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785362826
-    },
-    {
       "title": "NBA Power Rankings: LeBron James vaults 76ers into top five; Spurs have early edge over Knicks",
       "link": "https://www.cbssports.com/nba/news/nba-power-rankings-lebron-james-76ers-knicks-spurs-thunder/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1785359209
-    },
-    {
-      "title": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
-      "link": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785358655
     },
     {
       "title": "Four more years? LeBron James could play much longer than many think, agent Rich Paul says",
