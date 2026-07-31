@@ -1,6 +1,48 @@
 {
-  "last_updated": 1785529038,
+  "last_updated": 1785535313,
   "items": [
+    {
+      "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
+      "link": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785535208
+    },
+    {
+      "title": "Silicon Valley loves young founders. Until it doesn’t.",
+      "link": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785535200
+    },
+    {
+      "title": "India is starting to pay for apps, not just download them",
+      "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785532065
+    },
+    {
+      "title": "'The End of Oak Street: Could JJ Abrams' new 'Twilight Zone meets Jurassic Park' movie be the sleeper hit of the summer?",
+      "link": "https://www.space.com/entertainment/the-end-of-oak-street-could-jj-abrams-new-twilight-zone-meets-jurassic-park-movie-be-the-sleeper-hit-of-the-summer",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785531600
+    },
+    {
+      "title": "Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?",
+      "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785530354
+    },
+    {
+      "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+      "link": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785529265
+    },
     {
       "title": "The Milky Way has a hidden feature you've probably never noticed. Here's how to find it",
       "link": "https://www.space.com/stargazing/the-milky-way-has-a-hidden-feature-youve-probably-never-noticed-heres-how-to-find-it",
@@ -16,11 +58,32 @@
       "timestamp": 1785527248
     },
     {
+      "title": "Booster Gold TV Show Writer Says His DC Series 'Won't Be Moving Forward'",
+      "link": "https://www.ign.com/articles/booster-gold-tv-show-writer-says-his-dc-series-wont-be-moving-forward",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785527212
+    },
+    {
       "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
       "link": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1785526791
+    },
+    {
+      "title": "As the Kawhi Leonard investigation drags on, it's time to wonder if his trade to the Raptors will fall apart",
+      "link": "https://www.cbssports.com/nba/news/kawhi-leonard-investigation-raptors-clippers-trade/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1785526761
+    },
+    {
+      "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
+      "link": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785524696
     },
     {
       "title": "Obsession Star Inde Navarrette Wants to Play Mystique Following Talks With X-Men Director",
@@ -268,13 +331,6 @@
       "timestamp": 1785500357
     },
     {
-      "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
-      "link": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785499200
-    },
-    {
       "title": "Tangled Set Leaks Show First Look at Live-Action Rapunzel and Flynn Rider",
       "link": "https://www.ign.com/articles/tangled-set-leaks-show-first-look-at-live-action-rapunzel-and-flynn-rider",
       "source": "IGN",
@@ -331,13 +387,6 @@
       "timestamp": 1785490482
     },
     {
-      "title": "With GTA 6 Looming Over the Horizon, Sony Says It Has Secured Enough Memory to Meet Its PS5 Sales Targets",
-      "link": "https://www.ign.com/articles/with-gta-6-looming-over-the-horizon-sony-says-it-has-secured-enough-memory-to-meet-its-ps5-sales-targets",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785489888
-    },
-    {
       "title": "Our favorite space and sci-fi Playmobil sets: From Star Trek playsets to ESA-collaborated models",
       "link": "https://www.space.com/entertainment/space-toys-lego/our-favorite-space-and-sci-fi-playmobil-sets-from-star-trek-playsets-to-esa-collaborated-models",
       "source": "SPACE",
@@ -350,20 +399,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1785465674
-    },
-    {
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785460014
-    },
-    {
-      "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
-      "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785454085
     },
     {
       "title": "Tim Cook passes the baton in Apple's Q3 2026 earnings call",
@@ -401,27 +436,6 @@
       "timestamp": 1785444339
     },
     {
-      "title": "Just because a game is on disc doesn’t mean it will work in the future",
-      "link": "https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785442370
-    },
-    {
-      "title": "Chrome may get faster updates with no restart required",
-      "link": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785439616
-    },
-    {
-      "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
-      "link": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785434282
-    },
-    {
       "title": "1st three-headed asteroid found in our solar system — and it has a little moon",
       "link": "https://www.space.com/astronomy/asteroids/1st-three-headed-asteroid-found-in-our-solar-system-and-it-has-a-little-moon",
       "source": "SPACE",
@@ -436,15 +450,15 @@
       "timestamp": 1785427200
     },
     {
-      "title": "Satellites spy penguin poop on Danger Islands | Space photo of the day for July 30, 2026",
-      "link": "https://www.space.com/astronomy/earth/pink-penguin-poop-on-the-danger-islands-space-photo-of-the-day-for-july-30-2026",
+      "title": "On this day in space! July 30, 1610: Galileo sees Saturn's rings for the 1st time",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-30-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785420000
     },
     {
-      "title": "On this day in space! July 30, 1610: Galileo sees Saturn's rings for the 1st time",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-30-2026",
+      "title": "Satellites spy penguin poop on Danger Islands | Space photo of the day for July 30, 2026",
+      "link": "https://www.space.com/astronomy/earth/pink-penguin-poop-on-the-danger-islands-space-photo-of-the-day-for-july-30-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785420000
@@ -483,13 +497,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785413617
-    },
-    {
-      "title": "July full moon delights skywatchers worldwide. Here are our favorite photos of the majestic Buck Moon",
-      "link": "https://www.space.com/stargazing/july-full-moon-delights-skywatchers-worldwide-here-are-our-favorite-photos-of-the-majestic-buck-moon",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785406144
     },
     {
       "title": "A forgotten fossil just revealed a new Triassic predator from 210 million years ago",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1785156551
-    },
-    {
-      "title": "What's next in NBA offseason after LeBron James' decision? James Harden, Draymond Green, Jalen Duren eye deals",
-      "link": "https://www.cbssports.com/nba/news/nba-free-agency-offseason-lebron-james-james-harden-draymond-green-jalen-duren/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1785006948
     }
   ]
 }
