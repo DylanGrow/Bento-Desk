@@ -1,16 +1,135 @@
 {
-  "last_updated": 1785506692,
+  "last_updated": 1785516158,
   "items": [
     {
-      "title": "On this day in space!  July 31, 1971: Apollo 15 astronauts drive on the moon for 1st time",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-31-2026",
+      "title": "NBA odds: LeBron James joins 76ers, shifting 2026-27 title and Eastern Conference futures markets",
+      "link": "https://www.cbssports.com/betting/news/nba-odds-lebron-james-joins-76ers-shifting-2026-27-title-and-eastern-conference-futures-markets/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1785515152
+    },
+    {
+      "title": "X-Men Movie Casts Samara Weaving as the MCU's Emma Frost",
+      "link": "https://www.ign.com/articles/x-men-movie-casts-samara-weaving-as-the-mcus-emma-frost",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785514641
+    },
+    {
+      "title": "AMD Reportedly Plans To Raise GPU Prices, Too",
+      "link": "https://www.ign.com/articles/amd-reportedly-plans-to-raise-gpu-prices-too",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785514473
+    },
+    {
+      "title": "Siri AI could come with a paywall for power users",
+      "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785514098
+    },
+    {
+      "title": "NASA is sending 2 probes to the moon to test complex 'three-body orbits'",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasa-is-sending-2-probes-to-the-moon-to-test-complex-three-body-orbits",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785513600
+    },
+    {
+      "title": "Square Enix Says Controversial Kingdom Hearts Collection Art Was the Result of 'Human Error,' Not Generative AI",
+      "link": "https://www.ign.com/articles/square-enix-says-controversial-kingdom-hearts-collection-art-was-the-result-of-human-error-not-generative-ai",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785513211
+    },
+    {
+      "title": "GM and Ford are talking less and less about EVs",
+      "link": "https://techcrunch.com/2026/07/31/gm-and-ford-are-talking-less-and-less-about-evs/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785512866
+    },
+    {
+      "title": "It's Official: Mahershala Ali's Blade Movie Is Dead, and He Has Moved On",
+      "link": "https://www.ign.com/articles/its-official-mahershala-alis-blade-movie-is-dead-and-he-has-moved-on",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785512385
+    },
+    {
+      "title": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
+      "link": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785512278
+    },
+    {
+      "title": "Spider-Man: Brand New Day Looks Set for an Enormous Opening Weekend at the Box Office, but Will It Beat Avengers: Endgame?",
+      "link": "https://www.ign.com/articles/spider-man-brand-new-day-looks-set-for-an-enormous-opening-weekend-at-the-box-office-but-will-it-beat-avengers-endgame",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785511314
+    },
+    {
+      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+      "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785510977
+    },
+    {
+      "title": "Reddit is testing a new way to watch — and listen to — its viral posts",
+      "link": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785509361
+    },
+    {
+      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785509231
+    },
+    {
+      "title": "WhatsApp is testing a new folder for messages from large businesses",
+      "link": "https://techcrunch.com/2026/07/31/whatsapp-is-testing-a-new-folder-for-messages-from-large-businesses/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785508783
+    },
+    {
+      "title": "Watch SpaceX's Starship land at sea in these stunning new videos",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/watch-spacexs-starship-land-at-sea-in-these-stunning-new-videos",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785508226
+    },
+    {
+      "title": "Sony Says Discontinuation of PlayStation Discs Won't Have Any Negative Impact on Its Business — Now or in the Future",
+      "link": "https://www.ign.com/articles/sony-says-discontinuation-of-playstation-discs-wont-have-any-negative-impact-on-its-business-now-or-in-the-future",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785507195
+    },
+    {
+      "title": "AI scammers outperform humans when it comes to building trust",
+      "link": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785506500
+    },
+    {
+      "title": "Artemis moonsuits take a dive | Space photo of the day for July 31, 2026",
+      "link": "https://www.space.com/space-exploration/artemis/artemis-moonsuits-take-a-dive-space-photo-of-the-day-for-july-31-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785506400
     },
     {
-      "title": "Artemis moonsuits take a dive | Space photo of the day for July 31, 2026",
-      "link": "https://www.space.com/space-exploration/artemis/artemis-moonsuits-take-a-dive-space-photo-of-the-day-for-july-31-2026",
+      "title": "On this day in space!  July 31, 1971: Apollo 15 astronauts drive on the moon for 1st time",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-31-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785506400
@@ -28,6 +147,20 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785505357
+    },
+    {
+      "title": "The Lord of the Rings: The Rings of Power Has a Non-Canon 'Orc With an Arc' Who Turns Against Sauron and Even Writes Poetry",
+      "link": "https://www.ign.com/articles/the-lord-of-the-rings-the-rings-of-power-has-a-non-canon-orc-with-an-arc-who-turns-against-sauron-and-even-writes-poetry",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785505057
+    },
+    {
+      "title": "Pathogenic review: Damn, it feels good to be a virus",
+      "link": "https://arstechnica.com/gaming/2026/07/pathogenic-review-damn-it-feels-good-to-be-a-virus/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785502818
     },
     {
       "title": "Stellar Blade: Blood Rain Dev Shift Up Releases Entirely AI-Generated K-Pop Music Video Starring Evie and Pretty Much Everyone Hates It",
@@ -51,6 +184,13 @@
       "timestamp": 1785497575
     },
     {
+      "title": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
+      "link": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785495652
+    },
+    {
       "title": "Xbox Wants to Eventually Reach More Than a Billion People Each Day, Asha Sharma Tells Staff the Target Is to Get Halfway There by 2030",
       "link": "https://www.ign.com/articles/xbox-wants-to-eventually-reach-more-than-a-billion-people-each-day-asha-sharma-tells-staff-the-target-is-to-get-halfway-there-by-2030",
       "source": "IGN",
@@ -63,6 +203,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1785495027
+    },
+    {
+      "title": "Rocket Report: New launch rule may limit environmental regulations, Falcon 9 to hit Moon",
+      "link": "https://arstechnica.com/space/2026/07/rocket-report-big-deals-for-us-launch-firms-rfa-one-debut-is-delayed/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785493824
     },
     {
       "title": "'That's Life, Right?' Wonder Man Star Reacts to Series Cancellation, Just Months After Emmy Nomination and Season 2 Greenlight",
@@ -142,39 +289,11 @@
       "timestamp": 1785453958
     },
     {
-      "title": "Elden Ring Movie Officially Wraps Filming as Producers Thank Crew for 'Bringing Unique Project to Life'",
-      "link": "https://www.ign.com/articles/elden-ring-movie-officially-wraps-filming-as-producers-thank-crew-for-bringing-unique-project-to-life",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785453045
-    },
-    {
       "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
       "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1785452938
-    },
-    {
-      "title": "Dungeons & Dragons: World of Warcraft Revealed, Includes Every Playable WOW Species and Class",
-      "link": "https://www.ign.com/articles/dungeons-dragons-world-of-warcraft-revealed-includes-every-playable-wow-species-and-class",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785452529
-    },
-    {
-      "title": "Dungeons & Dragons 2027 Roadmap Features Mature-Rated Expansion That Comes Shrink-Wrapped With a Warning For Its Violence, Sex and Nudity",
-      "link": "https://www.ign.com/articles/dungeons-dragons-2027-roadmap-features-mature-rated-expansion-that-comes-shrink-wrapped-with-a-warning-for-its-violence-sex-and-nudity",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785452490
-    },
-    {
-      "title": "Spider-Man Star Tom Holland Wants Symbiote Suit That's as Good as the Games",
-      "link": "https://www.ign.com/articles/spider-man-star-tom-holland-wants-symbiote-suit-thats-as-good-as-the-games",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785451393
     },
     {
       "title": "Investors love AI, as long as you’re a cloud host",
@@ -191,25 +310,11 @@
       "timestamp": 1785451026
     },
     {
-      "title": "Clueless Sequel Series Finally Gets off the Ground with Alicia Silverstone Returning as Cher",
-      "link": "https://www.ign.com/articles/clueless-sequel-series-finally-gets-off-the-ground-with-alicia-silverstone-returning-as-cher",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785449918
-    },
-    {
-      "title": "Pokemon TCG Player Wins Card Shop's 'Anything But a Deck Box' Tournament Using an Actual Loaf of Bread",
-      "link": "https://www.ign.com/articles/pokemon-tcg-player-wins-card-shops-anything-but-a-deck-box-tournament-using-an-actual-loaf-of-bread",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785447330
-    },
-    {
-      "title": "Thimbleweed Park 2 Announced for PC, Mac, and Linux by Monkey Island Creator",
-      "link": "https://www.ign.com/articles/thimbleweed-park-2-announced-for-pc-mac-and-linux-by-monkey-island-creator",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785445633
+      "title": "Tim Cook passes the baton in Apple's Q3 2026 earnings call",
+      "link": "https://arstechnica.com/gadgets/2026/07/tim-cooks-last-earnings-call-strong-iphone-sales-but-memory-costs-loom-large/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785449135
     },
     {
       "title": "The US government wants to bypass environmental laws for commercial launches and spacecraft reentries",
@@ -219,6 +324,27 @@
       "timestamp": 1785445200
     },
     {
+      "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
+      "link": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785445042
+    },
+    {
+      "title": "Trump FCC faces blowback in attempt to police speech on broadcast TV",
+      "link": "https://arstechnica.com/tech-policy/2026/07/trump-fccs-war-on-abc-slammed-by-both-conservatives-and-liberals/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785444527
+    },
+    {
+      "title": "Iran struck Amazon data centers again amid widening war, satellites show",
+      "link": "https://arstechnica.com/gadgets/2026/07/satellites-spot-new-war-damage-to-amazon-data-centers-and-saudi-oil-site/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785444339
+    },
+    {
       "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
       "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
       "source": "TECHCRUNCH",
@@ -226,53 +352,32 @@
       "timestamp": 1785443198
     },
     {
-      "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
-      "link": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785442392
+      "title": "Just because a game is on disc doesn’t mean it will work in the future",
+      "link": "https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785442370
     },
     {
-      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-      "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785440656
+      "title": "Chrome may get faster updates with no restart required",
+      "link": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785439616
     },
     {
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785437878
+      "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
+      "link": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785434282
     },
     {
-      "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
-      "link": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785436692
-    },
-    {
-      "title": "LinkedIn adds a button to report AI-generated ‘slop’",
-      "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785434721
-    },
-    {
-      "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
-      "link": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785433811
-    },
-    {
-      "title": "Spotify launches ‘User Notes’ to let users add memories to songs",
-      "link": "https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785433285
+      "title": "Space Force-backed mission does its best impression of Top Gun in orbit",
+      "link": "https://arstechnica.com/space/2026/07/space-force-backed-mission-does-its-best-impression-of-top-gun-in-orbit/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785432957
     },
     {
       "title": "1st three-headed asteroid found in our solar system — and it has a little moon",
@@ -303,15 +408,15 @@
       "timestamp": 1785423187
     },
     {
-      "title": "On this day in space! July 30, 1610: Galileo sees Saturn's rings for the 1st time",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-30-2026",
+      "title": "Satellites spy penguin poop on Danger Islands | Space photo of the day for July 30, 2026",
+      "link": "https://www.space.com/astronomy/earth/pink-penguin-poop-on-the-danger-islands-space-photo-of-the-day-for-july-30-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785420000
     },
     {
-      "title": "Satellites spy penguin poop on Danger Islands | Space photo of the day for July 30, 2026",
-      "link": "https://www.space.com/astronomy/earth/pink-penguin-poop-on-the-danger-islands-space-photo-of-the-day-for-july-30-2026",
+      "title": "On this day in space! July 30, 1610: Galileo sees Saturn's rings for the 1st time",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-30-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785420000
@@ -422,34 +527,6 @@
       "timestamp": 1785358655
     },
     {
-      "title": "Who wins and who loses after US bans foreign robots?",
-      "link": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785355422
-    },
-    {
-      "title": "Watch this stirring new 'Star Trek' 60th anniversary video saluting the iconic sci-fi franchise",
-      "link": "https://www.space.com/entertainment/watch-this-stirring-new-star-trek-60th-anniversary-video-saluting-the-iconic-sci-fi-franchise",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785355200
-    },
-    {
-      "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
-      "link": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785353635
-    },
-    {
-      "title": "Customize Ars your way with an Ars Pro subscription",
-      "link": "https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785353007
-    },
-    {
       "title": "Four more years? LeBron James could play much longer than many think, agent Rich Paul says",
       "link": "https://www.cbssports.com/nba/news/lebron-james-rich-paul-76ers-retirement/",
       "source": "CBSSPORTS",
@@ -457,81 +534,11 @@
       "timestamp": 1785348949
     },
     {
-      "title": "Google's \"privacy-preserving\" age verification system is coming to the Play Store",
-      "link": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785348502
-    },
-    {
-      "title": "NASA launched this spacecraft to save a space telescope. Now, it needs saving too",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasa-launched-this-spacecraft-to-save-a-satellite-now-it-needs-saving-too",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785348000
-    },
-    {
-      "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
-      "link": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785347904
-    },
-    {
-      "title": "Yet more qubit tech: New quantum dot options, diamond vacancies",
-      "link": "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785346667
-    },
-    {
-      "title": "Actually, Starliner might fly into space this year",
-      "link": "https://arstechnica.com/space/2026/07/actually-starliner-might-fly-into-space-this-year/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785345881
-    },
-    {
-      "title": "Anthropic is finding bugs faster than Microsoft can fix them",
-      "link": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785340368
-    },
-    {
-      "title": "New AMD Linux patch boosts low-end gaming performance on Steam Deck",
-      "link": "https://arstechnica.com/gaming/2026/07/new-amd-linux-patch-boosts-low-end-gaming-performance-on-steam-deck/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785339200
-    },
-    {
-      "title": "Gaming and IRL worlds collide in Jumanji: Open World trailer",
-      "link": "https://arstechnica.com/culture/2026/07/gaming-and-irl-worlds-collide-in-jumanji-open-world-trailer/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785338182
-    },
-    {
-      "title": "NBA odds: LeBron James joins 76ers, causes big shift in 2026-27 title futures markets",
-      "link": "https://www.cbssports.com/betting/news/nba-odds-lebron-james-joins-76ers-causes-big-shift-in-2026-27-title-futures-markets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1785333457
-    },
-    {
       "title": "NBA Face of the League Rankings: LeBron James reminds everyone he's still at the top",
       "link": "https://www.cbssports.com/nba/news/nba-face-of-the-league-rankings-lebron-james-july-2026/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1785331684
-    },
-    {
-      "title": "What happens when you put AI to work deciphering lost languages?",
-      "link": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785331411
     },
     {
       "title": "MLB trade deadline's first major move backfires; Jalen Carter, Denzel Ward get historic NFL deals",
@@ -560,13 +567,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785325625
-    },
-    {
-      "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
-      "link": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785322839
     },
     {
       "title": "New microwave frying method could make french fries much healthier",
