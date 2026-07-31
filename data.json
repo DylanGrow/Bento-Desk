@@ -1,6 +1,27 @@
 {
-  "last_updated": 1785535313,
+  "last_updated": 1785542336,
   "items": [
+    {
+      "title": "SpaceX's Starship seen in space by next-gen Starlink satellite (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-seen-in-space-by-next-gen-starlink-satellite-video",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785540439
+    },
+    {
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785538046
+    },
+    {
+      "title": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
+      "link": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785536225
+    },
     {
       "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
       "link": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
@@ -14,6 +35,34 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1785535200
+    },
+    {
+      "title": "How do supermassive black holes grow? AI finds 7 spacetime-warping 'quasars' that could help solve the mystery",
+      "link": "https://www.space.com/astronomy/black-holes/how-do-supermassive-black-holes-grow-ai-finds-7-spacetime-warping-quasars-that-could-help-solve-the-mystery",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785535200
+    },
+    {
+      "title": "Doctors took a look at man's painful shoulder—they found the joint was missing",
+      "link": "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785534712
+    },
+    {
+      "title": "Google plans to exempt sanctioned nations from Android developer verification",
+      "link": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785533756
+    },
+    {
+      "title": "Reddit keeps its strange DMCA fight over Google search results alive",
+      "link": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785532779
     },
     {
       "title": "India is starting to pay for apps, not just download them",
@@ -30,7 +79,7 @@
       "timestamp": 1785531600
     },
     {
-      "title": "Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?",
+      "title": "Claude published malicious code to the Internet and attacked 3 real companies",
       "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -296,13 +345,6 @@
       "timestamp": 1785506400
     },
     {
-      "title": "Tesla reportedly might sell its China business ahead of a SpaceX merger",
-      "link": "https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785505553
-    },
-    {
       "title": "Watching August's 2026 solar eclipse from the UK? Stay safe with the best solar eclipse glasses",
       "link": "https://www.space.com/stargazing/skywatching-kit/watching-augusts-solar-eclipse-from-the-uk-stay-safe-with-the-best-solar-eclipse-glasses",
       "source": "SPACE",
@@ -401,39 +443,11 @@
       "timestamp": 1785465674
     },
     {
-      "title": "Tim Cook passes the baton in Apple's Q3 2026 earnings call",
-      "link": "https://arstechnica.com/gadgets/2026/07/tim-cooks-last-earnings-call-strong-iphone-sales-but-memory-costs-loom-large/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785449135
-    },
-    {
       "title": "The US government wants to bypass environmental laws for commercial launches and spacecraft reentries",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/the-us-government-wants-to-bypass-environmental-laws-for-commercial-launches-and-spacecraft-reentries",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785445200
-    },
-    {
-      "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
-      "link": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785445042
-    },
-    {
-      "title": "Trump FCC faces blowback in attempt to police speech on broadcast TV",
-      "link": "https://arstechnica.com/tech-policy/2026/07/trump-fccs-war-on-abc-slammed-by-both-conservatives-and-liberals/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785444527
-    },
-    {
-      "title": "Iran struck Amazon data centers again amid widening war, satellites show",
-      "link": "https://arstechnica.com/gadgets/2026/07/satellites-spot-new-war-damage-to-amazon-data-centers-and-saudi-oil-site/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785444339
     },
     {
       "title": "1st three-headed asteroid found in our solar system — and it has a little moon",
@@ -452,13 +466,6 @@
     {
       "title": "On this day in space! July 30, 1610: Galileo sees Saturn's rings for the 1st time",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-30-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785420000
-    },
-    {
-      "title": "Satellites spy penguin poop on Danger Islands | Space photo of the day for July 30, 2026",
-      "link": "https://www.space.com/astronomy/earth/pink-penguin-poop-on-the-danger-islands-space-photo-of-the-day-for-july-30-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785420000
@@ -483,13 +490,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785416540
-    },
-    {
-      "title": "'Strange New Worlds'' latest episode is more 'Event Horizon' than classic Trek",
-      "link": "https://www.space.com/entertainment/space-movies-shows/strange-new-worlds-latest-episode-is-more-event-horizon-than-classic-trek",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785416400
     },
     {
       "title": "Scientists found evolution repeating itself in the Galápagos Islands",
