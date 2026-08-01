@@ -1,6 +1,76 @@
 {
-  "last_updated": 1785589944,
+  "last_updated": 1785596241,
   "items": [
+    {
+      "title": "This Week In Space podcast: Episode 221 — Starship Can Float?",
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-221-starship-can-float",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785593788
+    },
+    {
+      "title": "Apps that help you break free from doomscrolling and get active",
+      "link": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785592800
+    },
+    {
+      "title": "Dinosaur-killing asteroid may have caused firestorms 17 times hotter than the thermal limit lethal to humans",
+      "link": "https://www.space.com/astronomy/asteroids/dinosaur-killing-asteroid-may-have-caused-firestorms-17-times-hotter-than-the-thermal-limit-lethal-to-humans",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785592800
+    },
+    {
+      "title": "On this day in space! Aug. 1, 1968: NASA ends production of Saturn V moon rocket",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-1-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785592800
+    },
+    {
+      "title": "NASA’s Curiosity rover finds a mysterious honeycomb landscape on Mars",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034142.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785592044
+    },
+    {
+      "title": "What’s the best handheld mini fan?",
+      "link": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785591414
+    },
+    {
+      "title": "Tiny black holes may be secretly exploding stars across the Milky Way",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051515.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785591221
+    },
+    {
+      "title": "Ant brains reveal how evolution turned hunger into parenting",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051519.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785589314
+    },
+    {
+      "title": "Tiny aerosol particles could supercharge tropical storm clouds",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260727012138.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785588427
+    },
+    {
+      "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+      "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785587436
+    },
     {
       "title": "'Flight of the Navigator' at 40: the Disney space movie that messed with time dilation long before 'Interstellar'",
       "link": "https://www.space.com/entertainment/space-movies-shows/flight-of-the-navigator-at-40-the-disney-space-movie-that-messed-with-time-dilation-long-before-interstellar",
@@ -35,6 +105,20 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785578400
+    },
+    {
+      "title": "Superheated magma may power towering lava fountains",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034200.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785566308
+    },
+    {
+      "title": "Scientists found two mysterious ‘ghost’ ancestors hiding in our DNA",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034139.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785549517
     },
     {
       "title": "Spider-Man: Brand New Day Leak on Social Media Reportedly Seen by Millions Before Sony Took It Down",
@@ -338,20 +422,6 @@
       "timestamp": 1785509361
     },
     {
-      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-      "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785509231
-    },
-    {
-      "title": "WhatsApp is testing a new folder for messages from large businesses",
-      "link": "https://techcrunch.com/2026/07/31/whatsapp-is-testing-a-new-folder-for-messages-from-large-businesses/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785508783
-    },
-    {
       "title": "Watch SpaceX's Starship land at sea in these stunning new videos",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/watch-spacexs-starship-land-at-sea-in-these-stunning-new-videos",
       "source": "SPACE",
@@ -364,13 +434,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1785507195
-    },
-    {
-      "title": "AI scammers outperform humans when it comes to building trust",
-      "link": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785506500
     },
     {
       "title": "On this day in space!  July 31, 1971: Apollo 15 astronauts drive on the moon for 1st time",
@@ -401,6 +464,20 @@
       "timestamp": 1785505057
     },
     {
+      "title": "New process turns plastic waste into hydrogen fuel while trapping the carbon",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051521.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785501978
+    },
+    {
+      "title": "Scientists discover why poor sleep may harm some brains more",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051529.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785500443
+    },
+    {
       "title": "Stellar Blade: Blood Rain Dev Shift Up Releases Entirely AI-Generated K-Pop Music Video Starring Evie and Pretty Much Everyone Hates It",
       "link": "https://www.ign.com/articles/stellar-blade-blood-rain-dev-shift-up-releases-entirely-ai-generated-k-pop-music-video-starring-evie-and-pretty-much-everyone-hates-it",
       "source": "IGN",
@@ -413,6 +490,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1785497575
+    },
+    {
+      "title": "A 42-year-old childhood obesity theory may be wrong",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051534.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785497312
     },
     {
       "title": "Xbox Wants to Eventually Reach More Than a Billion People Each Day, Asha Sharma Tells Staff the Target Is to Get Halfway There by 2030",
@@ -443,11 +527,39 @@
       "timestamp": 1785492000
     },
     {
-      "title": "Our favorite space and sci-fi Playmobil sets: From Star Trek playsets to ESA-collaborated models",
-      "link": "https://www.space.com/entertainment/space-toys-lego/our-favorite-space-and-sci-fi-playmobil-sets-from-star-trek-playsets-to-esa-collaborated-models",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785488400
+      "title": "Black holes may spit out nearly as much matter as they swallow",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034127.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785485909
+    },
+    {
+      "title": "AI can tell if your brain is aging faster than you are",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785481512
+    },
+    {
+      "title": "Strange gamma rays could reveal how stars forge heavy elements",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260727214623.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785474953
+    },
+    {
+      "title": "A strange quantum rule caps electrical resistance",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260727012139.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785468604
+    },
+    {
+      "title": "Scientists discover how obesity may fuel Alzheimer’s disease",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051531.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785466377
     },
     {
       "title": "The Warriors are marginalizing the end of Stephen Curry's prime, and it's a basketball sin",
@@ -457,18 +569,11 @@
       "timestamp": 1785465674
     },
     {
-      "title": "The US government wants to bypass environmental laws for commercial launches and spacecraft reentries",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/the-us-government-wants-to-bypass-environmental-laws-for-commercial-launches-and-spacecraft-reentries",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785445200
-    },
-    {
-      "title": "1st three-headed asteroid found in our solar system — and it has a little moon",
-      "link": "https://www.space.com/astronomy/asteroids/1st-three-headed-asteroid-found-in-our-solar-system-and-it-has-a-little-moon",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785430990
+      "title": "Scientists find a simple routine linked to less pain and depression",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010705.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785461845
     },
     {
       "title": "Joel Embiid for Anthony Davis? Don't get your hopes up on trade to reunite LeBron James with former co-star",
@@ -478,53 +583,11 @@
       "timestamp": 1785419424
     },
     {
-      "title": "What if the brain does not create consciousness?",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729043829.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785417813
-    },
-    {
       "title": "This 4,000-year-old city defied the rules of history",
       "link": "https://www.sciencedaily.com/releases/2026/07/260729010730.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785416540
-    },
-    {
-      "title": "Scientists found evolution repeating itself in the Galápagos Islands",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785413617
-    },
-    {
-      "title": "A forgotten fossil just revealed a new Triassic predator from 210 million years ago",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729010732.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785393261
-    },
-    {
-      "title": "Alien signals may be hiding where we rarely listen",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260726015239.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785388155
-    },
-    {
-      "title": "Ultrafast X-rays capture chemistry unfolding atom by atom",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729010726.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785377908
-    },
-    {
-      "title": "AI reveals explosive bursts in bird evolution",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729010709.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785373286
     },
     {
       "title": "NBA Power Rankings: LeBron James vaults 76ers into top five; Spurs have early edge over Knicks",
@@ -555,62 +618,6 @@
       "timestamp": 1785329636
     },
     {
-      "title": "Your gut may help your brain decide what to remember",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729010713.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785327624
-    },
-    {
-      "title": "Why are so many dead bumblebees appearing on sidewalks?",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260727012134.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785326756
-    },
-    {
-      "title": "A tiny molecular basket unlocks a powerful new kind of chemistry",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260724061452.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785325625
-    },
-    {
-      "title": "New microwave frying method could make french fries much healthier",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785320104
-    },
-    {
-      "title": "Can’t sleep in the heat? These 8 tricks could save your night",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729010722.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785303345
-    },
-    {
-      "title": "The search for life on Jupiter's icy moon Europa just got more complicated",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260727214604.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785301599
-    },
-    {
-      "title": "Earth’s hidden “gold kitchen” lies beneath the seafloor",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260727214628.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785298445
-    },
-    {
-      "title": "One of Earth’s most explosive supervolcanoes is recharging with fresh magma",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260725105644.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785287117
-    },
-    {
       "title": "Draymond Green re-signs with Warriors, explains why he thinks LeBron James didn't come to Golden State",
       "link": "https://www.cbssports.com/nba/news/draymond-green-warriors-contract-lebron-james/",
       "source": "CBSSPORTS",
@@ -623,13 +630,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1785243454
-    },
-    {
-      "title": "Misfolded insulin may be quietly driving diabetes",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260727214616.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785239284
     },
     {
       "title": "NBA offseason grades 2.0: 76ers get LeBron James and only A+, nobody is having a worse summer than the Cavs",
