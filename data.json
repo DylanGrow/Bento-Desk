@@ -1,5 +1,5 @@
 {
-  "last_updated": 1785637742,
+  "last_updated": 1785650020,
   "items": [
     {
       "title": "Spider-Man: Brand New Day Beats Avengers: Endgame Record to Claim Biggest Domestic Opening Day of All Time",
@@ -121,13 +121,6 @@
       "timestamp": 1785593788
     },
     {
-      "title": "Apps that help you break free from doomscrolling and get active",
-      "link": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785592800
-    },
-    {
       "title": "Dinosaur-killing asteroid may have caused firestorms 17 times hotter than the thermal limit lethal to humans",
       "link": "https://www.space.com/astronomy/asteroids/dinosaur-killing-asteroid-may-have-caused-firestorms-17-times-hotter-than-the-thermal-limit-lethal-to-humans",
       "source": "SPACE",
@@ -139,6 +132,13 @@
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-1-2026",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1785592800
+    },
+    {
+      "title": "Apps that help you break free from doomscrolling and get active",
+      "link": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
       "timestamp": 1785592800
     },
     {
@@ -268,17 +268,17 @@
       "timestamp": 1785535208
     },
     {
-      "title": "Silicon Valley loves young founders. Until it doesn’t.",
-      "link": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785535200
-    },
-    {
       "title": "How do supermassive black holes grow? AI finds 7 spacetime-warping 'quasars' that could help solve the mystery",
       "link": "https://www.space.com/astronomy/black-holes/how-do-supermassive-black-holes-grow-ai-finds-7-spacetime-warping-quasars-that-could-help-solve-the-mystery",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1785535200
+    },
+    {
+      "title": "Silicon Valley loves young founders. Until it doesn’t.",
+      "link": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
       "timestamp": 1785535200
     },
     {
