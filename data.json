@@ -1,6 +1,27 @@
 {
-  "last_updated": 1785682762,
+  "last_updated": 1785686854,
   "items": [
+    {
+      "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
+      "link": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785686700
+    },
+    {
+      "title": "Gears of War: E-Day: Release date, platforms & everything else we know about Marcus Fenix's return",
+      "link": "https://www.space.com/entertainment/space-games/gears-of-war-e-day-release-date-platforms-and-everything-else-we-know-about-marcus-fenixs-return",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785686400
+    },
+    {
+      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+      "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785684199
+    },
     {
       "title": "Double digits! Air-launched 'Talon A' hypersonic vehicle notches big flight milestone",
       "link": "https://www.space.com/technology/double-digits-air-launched-talon-a-hypersonic-vehicle-notches-big-flight-milestone",
@@ -422,13 +443,6 @@
       "timestamp": 1785527212
     },
     {
-      "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
-      "link": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785526791
-    },
-    {
       "title": "As the Kawhi Leonard investigation drags on, it's time to wonder if his trade to the Raptors will fall apart",
       "link": "https://www.cbssports.com/nba/news/kawhi-leonard-investigation-raptors-clippers-trade/",
       "source": "CBSSPORTS",
@@ -450,25 +464,11 @@
       "timestamp": 1785524439
     },
     {
-      "title": "VC-backed startups commit more fraud, and researchers think they know why",
-      "link": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785524400
-    },
-    {
       "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
       "link": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785521515
-    },
-    {
-      "title": "Our 1st look at 'Blade Runner 2099' shows replicants ruling future Los Angeles: 'It's our time now'",
-      "link": "https://www.space.com/entertainment/our-1st-look-at-blade-runner-2099-shows-replicants-ruling-future-los-angeles-its-our-time-now",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785520800
     },
     {
       "title": "Researchers devise a full-color night vision goggle",
