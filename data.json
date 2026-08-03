@@ -1,6 +1,69 @@
 {
-  "last_updated": 1785753582,
+  "last_updated": 1785764292,
   "items": [
+    {
+      "title": "13 amazing things to see during the total solar eclipse on Aug. 12",
+      "link": "https://www.space.com/stargazing/solar-eclipses/13-amazing-things-to-see-during-the-total-solar-eclipse-on-aug-12",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785762000
+    },
+    {
+      "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
+      "link": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785761446
+    },
+    {
+      "title": "Rust Fan Sues Police After Swatting Incident Leaves Him Paralyzed",
+      "link": "https://www.ign.com/articles/rust-fan-sues-police-after-swatting-incident-leaves-him-paralyzed",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785760537
+    },
+    {
+      "title": "Samsung bans smart TV apps that share users’ internet connections with strangers",
+      "link": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785759041
+    },
+    {
+      "title": "Astronomers watch a black hole's feeding frenzy end with a bad case of cosmic indigestion",
+      "link": "https://www.space.com/astronomy/black-holes/astronomers-watch-a-black-holes-feeding-frenzy-end-with-a-bad-case-of-cosmic-indigestion",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785758400
+    },
+    {
+      "title": "Is the Nocs Provisions Lite View spotting scope a good alternative to a traditional telescope?",
+      "link": "https://www.space.com/stargazing/skywatching-kit/is-the-nocs-provisions-lite-view-spotting-scope-a-good-alternative-to-a-traditional-telescope",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785758400
+    },
+    {
+      "title": "Spider-Man: Brand New Day Almost Featured a Bizarre, Sticky Marvel Supervillain",
+      "link": "https://www.ign.com/articles/spider-man-brand-new-day-almost-featured-a-bizarre-sticky-marvel-supervillain",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785755774
+    },
+    {
+      "title": "How headlights got brighter, whiter, and more blinding after dark",
+      "link": "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785754811
+    },
+    {
+      "title": "'Final Nail in the Coffin': Xbox Price Rises Revealed, Leaving Fans Stunned as Series X/S Spike By More Than a Third in Europe",
+      "link": "https://www.ign.com/articles/final-nail-in-the-coffin-xbox-price-rises-revealed-leaving-fans-stunned-as-series-xs-spike-by-more-than-a-third-in-europe",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785751963
+    },
     {
       "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
       "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
@@ -317,13 +380,6 @@
       "timestamp": 1785592044
     },
     {
-      "title": "What’s the best handheld mini fan?",
-      "link": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785591414
-    },
-    {
       "title": "Tiny black holes may be secretly exploding stars across the Milky Way",
       "link": "https://www.sciencedaily.com/releases/2026/07/260729051515.htm",
       "source": "SCIENCEDAILY",
@@ -387,7 +443,7 @@
       "timestamp": 1785578419
     },
     {
-      "title": "SpaceX launches 24 Starlink satellites to orbit from California (photos)",
+      "title": "SpaceX launches 24 Starlink satellites to orbit from California (video, photos)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-falcon-9-launch-group-17-52-ocisly-vandenberg",
       "source": "SPACE",
       "category": "space",
@@ -408,39 +464,11 @@
       "timestamp": 1785549517
     },
     {
-      "title": "Spider-Man: Brand New Day Leak on Social Media Reportedly Seen by Millions Before Sony Took It Down",
-      "link": "https://www.ign.com/articles/spider-man-brand-new-day-leak-on-social-media-reportedly-seen-by-millions-before-sony-took-it-down",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785546344
-    },
-    {
-      "title": "SpaceX's Starship seen in space by next-gen Starlink satellite (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-seen-in-space-by-next-gen-starlink-satellite-video",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785540439
-    },
-    {
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785538046
-    },
-    {
       "title": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
       "link": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785536225
-    },
-    {
-      "title": "How do supermassive black holes grow? AI finds 7 spacetime-warping 'quasars' that could help solve the mystery",
-      "link": "https://www.space.com/astronomy/black-holes/how-do-supermassive-black-holes-grow-ai-finds-7-spacetime-warping-quasars-that-could-help-solve-the-mystery",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785535200
     },
     {
       "title": "Doctors took a look at man's painful shoulder—they found the joint was missing",
@@ -464,13 +492,6 @@
       "timestamp": 1785532779
     },
     {
-      "title": "'The End of Oak Street: Could JJ Abrams' new 'Twilight Zone meets Jurassic Park' movie be the sleeper hit of the summer?",
-      "link": "https://www.space.com/entertainment/the-end-of-oak-street-could-jj-abrams-new-twilight-zone-meets-jurassic-park-movie-be-the-sleeper-hit-of-the-summer",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785531600
-    },
-    {
       "title": "Claude published malicious code to the Internet and attacked 3 real companies",
       "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
       "source": "ARSTECHNICA",
@@ -483,13 +504,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785529265
-    },
-    {
-      "title": "Booster Gold TV Show Writer Says His DC Series 'Won't Be Moving Forward'",
-      "link": "https://www.ign.com/articles/booster-gold-tv-show-writer-says-his-dc-series-wont-be-moving-forward",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785527212
     },
     {
       "title": "As the Kawhi Leonard investigation drags on, it's time to wonder if his trade to the Raptors will fall apart",
@@ -506,13 +520,6 @@
       "timestamp": 1785524696
     },
     {
-      "title": "Obsession Star Inde Navarrette Wants to Play Mystique Following Talks With X-Men Director",
-      "link": "https://www.ign.com/articles/obsession-star-inde-navarrette-wants-to-play-mystique-following-talks-with-x-men-director",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785524439
-    },
-    {
       "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
       "link": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
       "source": "ARSTECHNICA",
@@ -525,13 +532,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785520718
-    },
-    {
-      "title": "China could supply EV manufacturing boom with recycled EVs",
-      "link": "https://arstechnica.com/science/2026/07/china-could-supply-ev-manufacturing-boom-with-recycled-evs/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785518961
     },
     {
       "title": "NBA odds: LeBron James joins 76ers, shifting 2026-27 title and Eastern Conference futures markets",
