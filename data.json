@@ -1,6 +1,48 @@
 {
-  "last_updated": 1785788684,
+  "last_updated": 1785794738,
   "items": [
+    {
+      "title": "CNN dives into how Elon Musk and Jeff Bezos are backing NASA's race to the moon against China (exclusive clip)",
+      "link": "https://www.space.com/entertainment/cnn-dives-into-how-elon-musk-and-jeff-bezos-are-backing-nasas-race-to-the-moon-against-china-exclusive-clip",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785794400
+    },
+    {
+      "title": "Sony's Spider-Man Spinoff Universe Might Be Dead as Company Confirms It Has No Movies in Active Development",
+      "link": "https://www.ign.com/articles/sonys-spider-man-spinoff-universe-might-be-dead-as-company-confirms-it-has-no-movies-in-active-development",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785792519
+    },
+    {
+      "title": "A SpaceX rocket will crash into the moon this week. Why is it on a collision course?",
+      "link": "https://www.space.com/astronomy/moon/a-spacex-rocket-will-crash-into-the-moon-this-week-why-is-it-on-a-collision-course",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785790800
+    },
+    {
+      "title": "Dave Bautista in Talks to Join God of War TV Series as Kratos",
+      "link": "https://www.ign.com/articles/dave-bautista-in-talks-to-join-god-of-war-tv-series-as-kratos",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785790185
+    },
+    {
+      "title": "'I Would Need It to Be Completely Unconventional' — Andrew Garfield Is Open to The Amazing Spider-Man 3 on One Condition",
+      "link": "https://www.ign.com/articles/i-would-need-it-to-be-completely-unconventional-andrew-garfield-is-open-to-the-amazing-spider-man-3-on-one-condition",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785789815
+    },
+    {
+      "title": "Research roundup: 6 cool science stories we almost missed",
+      "link": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785788017
+    },
     {
       "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
       "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
@@ -30,11 +72,18 @@
       "timestamp": 1785785716
     },
     {
-      "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
       "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1785785337
+    },
+    {
+      "title": "Lego deploys Hubble Space Telescope as detailed desktop model",
+      "link": "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785784876
     },
     {
       "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
@@ -42,6 +91,13 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1785784196
+    },
+    {
+      "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+      "link": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785783650
     },
     {
       "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
@@ -93,7 +149,7 @@
       "timestamp": 1785779652
     },
     {
-      "title": "WhatsApp says it is is fixing an issue that disabled several accounts",
+      "title": "WhatsApp says it is fixing an issue that disabled several accounts",
       "link": "https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -142,7 +198,7 @@
       "timestamp": 1785775255
     },
     {
-      "title": "Assassin's Creed Black Flag Resynced Update 1.0.6 Launches Tomorrow — Here Are The Patch Notes",
+      "title": "Assassin's Creed Black Flag Resynced Update 1.0.6 Launches Tomorrow — Here Are the Patch Notes",
       "link": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-update-106-launches-tomorrow-here-are-the-patch-notes",
       "source": "IGN",
       "category": "gaming",
@@ -233,13 +289,6 @@
       "timestamp": 1785765005
     },
     {
-      "title": "Warhammer 40,000 Animated Series Produced by Henry Cavill to Tell a 'Long-Form Story' Featuring The Deathwatch",
-      "link": "https://www.ign.com/articles/warhammer-40000-animated-series-produced-by-henry-cavill-to-tell-a-long-form-story-featuring-the-deathwatch",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785764624
-    },
-    {
       "title": "A simple supplement could help the immune system fight cancer and viruses",
       "link": "https://www.sciencedaily.com/releases/2026/08/260802223417.htm",
       "source": "SCIENCEDAILY",
@@ -275,13 +324,6 @@
       "timestamp": 1785761446
     },
     {
-      "title": "Rust Fan Sues Police After Swatting Incident Leaves Him Paralyzed",
-      "link": "https://www.ign.com/articles/rust-fan-sues-police-after-swatting-incident-leaves-him-paralyzed",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785760537
-    },
-    {
       "title": "Moonquakes could reveal hidden water beneath the lunar surface",
       "link": "https://www.sciencedaily.com/releases/2026/08/260802223420.htm",
       "source": "SCIENCEDAILY",
@@ -296,15 +338,15 @@
       "timestamp": 1785759041
     },
     {
-      "title": "Astronomers watch a black hole's feeding frenzy end with a bad case of cosmic indigestion",
-      "link": "https://www.space.com/astronomy/black-holes/astronomers-watch-a-black-holes-feeding-frenzy-end-with-a-bad-case-of-cosmic-indigestion",
+      "title": "Is the Nocs Provisions Lite View spotting scope a good alternative to a traditional telescope?",
+      "link": "https://www.space.com/stargazing/skywatching-kit/is-the-nocs-provisions-lite-view-spotting-scope-a-good-alternative-to-a-traditional-telescope",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785758400
     },
     {
-      "title": "Is the Nocs Provisions Lite View spotting scope a good alternative to a traditional telescope?",
-      "link": "https://www.space.com/stargazing/skywatching-kit/is-the-nocs-provisions-lite-view-spotting-scope-a-good-alternative-to-a-traditional-telescope",
+      "title": "Astronomers watch a black hole's feeding frenzy end with a bad case of cosmic indigestion",
+      "link": "https://www.space.com/astronomy/black-holes/astronomers-watch-a-black-holes-feeding-frenzy-end-with-a-bad-case-of-cosmic-indigestion",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785758400
@@ -322,13 +364,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785755827
-    },
-    {
-      "title": "Spider-Man: Brand New Day Almost Featured a Bizarre, Sticky Marvel Supervillain",
-      "link": "https://www.ign.com/articles/spider-man-brand-new-day-almost-featured-a-bizarre-sticky-marvel-supervillain",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785755774
     },
     {
       "title": "How headlights got brighter, whiter, and more blinding after dark",
@@ -436,13 +471,6 @@
       "timestamp": 1785664800
     },
     {
-      "title": "Celestron Moon Mission 100mm tabletop Dobsonian review",
-      "link": "https://www.space.com/stargazing/skywatching-kit/celestron-moon-mission-100mm-tabletop-dobsonian-review",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785661200
-    },
-    {
       "title": "Cancer may be breaking its own DNA to keep growing",
       "link": "https://www.sciencedaily.com/releases/2026/07/260731034204.htm",
       "source": "SCIENCEDAILY",
@@ -462,13 +490,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785608411
-    },
-    {
-      "title": "Move over He-Man, Mattel's Major Matt Mason space toys could still be blasting off for Hollywood",
-      "link": "https://www.space.com/entertainment/space-movies-shows/move-over-he-man-mattels-major-matt-mason-space-toys-could-still-be-blasting-off-for-hollywood",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785600000
     },
     {
       "title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
@@ -546,27 +567,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785533756
-    },
-    {
-      "title": "Reddit keeps its strange DMCA fight over Google search results alive",
-      "link": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785532779
-    },
-    {
-      "title": "Claude published malicious code to the Internet and attacked 3 real companies",
-      "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785530354
-    },
-    {
-      "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
-      "link": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785529265
     },
     {
       "title": "As the Kawhi Leonard investigation drags on, it's time to wonder if his trade to the Raptors will fall apart",
