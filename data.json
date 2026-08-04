@@ -1,6 +1,13 @@
 {
-  "last_updated": 1785816619,
+  "last_updated": 1785828940,
   "items": [
+    {
+      "title": "This Sky-Watcher is an ideal beginner telescope for solar observing",
+      "link": "https://www.space.com/stargazing/skywatching-kit/sky-watcher-heliostar-76mm-h-alpha-solar-telescope-review",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785826800
+    },
     {
       "title": "Your brain may be wired to regain lost weight",
       "link": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm",
@@ -107,17 +114,17 @@
       "timestamp": 1785788017
     },
     {
-      "title": "Jack in for a cyberpunk jolt with this energized first trailer for Apple TV's 'Neuromancer'",
-      "link": "https://www.space.com/entertainment/jack-in-for-a-cyberpunk-jolt-with-this-energized-first-trailer-for-apple-tvs-neuromancer",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785787200
-    },
-    {
       "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
       "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
       "source": "TECHCRUNCH",
       "category": "tech",
+      "timestamp": 1785787200
+    },
+    {
+      "title": "Jack in for a cyberpunk jolt with this energized first trailer for Apple TV's 'Neuromancer'",
+      "link": "https://www.space.com/entertainment/jack-in-for-a-cyberpunk-jolt-with-this-energized-first-trailer-for-apple-tvs-neuromancer",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1785787200
     },
     {
@@ -490,13 +497,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785672000
-    },
-    {
-      "title": "Rocket issue delays 1st orbital rocket launch from the UK",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-issue-delays-1st-orbital-rocket-launch-from-the-uk",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785664800
     },
     {
       "title": "Cancer may be breaking its own DNA to keep growing",
