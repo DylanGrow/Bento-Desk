@@ -1,12 +1,103 @@
 {
-  "last_updated": 1785877720,
+  "last_updated": 1785884385,
   "items": [
+    {
+      "title": "SpaceX wants to launch next Starship this month (and catch it, too), Elon Musk says in 1st earnings call since historic IPO",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-launch-next-starship-this-month-and-catch-it-too-elon-musk-says-in-1st-earnings-call-since-historic-ipo",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785884130
+    },
+    {
+      "title": "Spider-Man: Brand New Day Reportedly Cut a Scene With a Fan-Favorite Daredevil Character And It Might've Fixed a Plot Hole",
+      "link": "https://www.ign.com/articles/spider-man-brand-new-day-reportedly-cut-a-scene-with-a-fan-favorite-daredevil-character-and-it-mightve-fixed-a-plot-hole",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785883117
+    },
+    {
+      "title": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
+      "link": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785882658
+    },
+    {
+      "title": "Tom Holland and Zendaya Are On an Unprecedented Box Office Run",
+      "link": "https://www.ign.com/articles/tom-holland-and-zendaya-are-on-an-unprecedented-box-office-run",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785882341
+    },
+    {
+      "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
+      "link": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785882240
+    },
+    {
+      "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785881910
+    },
+    {
+      "title": "Halo: Campaign Evolved Reportedly Had a Troubled Development That Impacted a Now-Canceled Multiplayer Project",
+      "link": "https://www.ign.com/articles/halo-campaign-evolved-reportedly-had-a-troubled-development-that-impacted-a-now-canceled-multiplayer-project",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785881771
+    },
+    {
+      "title": "Oded Fehr Gives First Look at Ardeth Bay in The Mummy 4",
+      "link": "https://www.ign.com/articles/oded-fehr-gives-first-look-at-ardeth-bay-in-the-mummy-4",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785881285
+    },
+    {
+      "title": "Watch SpaceX launch 3 giant BlueBird direct-to-cell satellites early on Aug. 5",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-ast-spacemobile-11-13-direct-to-cell-satellites",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785880800
+    },
+    {
+      "title": "Senators demand crackdown on wildfire \"prediction markets\"",
+      "link": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785880351
+    },
+    {
+      "title": "Trump killed the Digital Equity Act, but US was forced to bring part of it back",
+      "link": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785878825
+    },
+    {
+      "title": "EA Acquisition by Saudi Arabia's PIF, Silver Lake, and Jared Kushner's Affinity Partners Is Now Complete",
+      "link": "https://www.ign.com/articles/ea-acquisition-by-saudi-arabias-pif-silver-lake-and-jared-kushners-affinity-partners-is-now-complete",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785877713
+    },
     {
       "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
       "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1785877646
+    },
+    {
+      "title": "Anthony Davis contract extension: Biggest looming questions as Wizards face massive financial decision",
+      "link": "https://www.cbssports.com/nba/news/anthony-davis-contract-extension-wizards-trae-young/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1785876086
     },
     {
       "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
@@ -86,7 +177,7 @@
       "timestamp": 1785866400
     },
     {
-      "title": "Xbox Will Reportedly Continue to Support Physical Discs Following PS6 Backlash",
+      "title": "Microsoft Reportedly Planned to Continue Disc Support Before the Xbox 'Reset'",
       "link": "https://www.ign.com/articles/xbox-will-reportedly-continue-to-support-physical-discs-following-ps6-backlash",
       "source": "IGN",
       "category": "gaming",
@@ -205,13 +296,6 @@
       "timestamp": 1785858155
     },
     {
-      "title": "Walmart completes its acquisition of TV advertising company Vibe.co",
-      "link": "https://techcrunch.com/2026/08/04/walmart-completes-its-acquisition-of-tv-advertising-company-vibe-co/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785857902
-    },
-    {
       "title": "Gears of War: E-Day Open Beta Leads Xbox Game Pass August 2026 Lineup",
       "link": "https://www.ign.com/articles/gears-of-war-e-day-open-beta-leads-xbox-game-pass-august-2026-lineup",
       "source": "IGN",
@@ -219,25 +303,11 @@
       "timestamp": 1785857091
     },
     {
-      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-      "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785856806
-    },
-    {
       "title": "Trump admin \"aware\" of deaths in explosive diarrhea outbreak, delays reporting",
       "link": "https://arstechnica.com/health/2026/08/trump-admin-aware-of-deaths-in-explosive-diarrhea-outbreak-delays-reporting/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785855967
-    },
-    {
-      "title": "Host a Side Event during TechCrunch Founder Summit Week in Boston",
-      "link": "https://techcrunch.com/2026/08/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785855600
     },
     {
       "title": "2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware",
@@ -324,13 +394,6 @@
       "timestamp": 1785843012
     },
     {
-      "title": "Spider-Man: Brand New Day Hides a Secret Character Who's Already Appeared in a String of MCU Movies and Could Become the Next Spider Superhero",
-      "link": "https://www.ign.com/articles/spider-man-brand-new-day-hides-a-secret-character-whos-already-appeared-in-a-string-of-mcu-movies-and-could-become-the-next-spider-superhero",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785841472
-    },
-    {
       "title": "Are aliens running out of places to hide? It turns out we've searched much more of the galaxy than we realized",
       "link": "https://www.space.com/space-exploration/search-for-life/are-aliens-running-out-of-places-to-hide-it-turns-out-weve-searched-much-more-of-the-galaxy-than-we-realized",
       "source": "SPACE",
@@ -343,20 +406,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785836961
-    },
-    {
-      "title": "'She Ended on a Really Great Note': Jessica Henwick Says She's Turned Down Returning as Colleen Wing in Daredevil: Born Again Season 3",
-      "link": "https://www.ign.com/articles/she-ended-on-a-really-great-note-jessica-henwick-says-shes-turned-down-returning-as-colleen-wing-in-daredevil-born-again-season-3",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785836463
-    },
-    {
-      "title": "Spider-Man: No Way Home's Mary Rivera, Ned's Grandma, Has Died Aged 82",
-      "link": "https://www.ign.com/articles/spider-man-no-way-homes-mary-rivera-neds-grandma-has-died-aged-82",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785834020
     },
     {
       "title": "I bought a $50 telescope on Facebook Marketplace — here's what I learned",
@@ -392,20 +441,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785806339
-    },
-    {
-      "title": "X-Men Fans Are Rediscovering That Samara Weaving Is a Huge Gamer After Emma Frost Casting",
-      "link": "https://www.ign.com/articles/x-men-fans-are-rediscovering-that-samara-weaving-is-a-huge-gamer-after-emma-frost-casting",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785799068
-    },
-    {
-      "title": "Kevin Feige Reveals Why Marvel Fought to Keep Sadie Sink's Role in Spider-Man: Brand New Day a Secret",
-      "link": "https://www.ign.com/articles/kevin-feige-reveals-why-marvel-fought-to-keep-sadie-sinks-role-in-spider-man-brand-new-day-a-secret",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785795577
     },
     {
       "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
@@ -455,20 +490,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785783650
-    },
-    {
-      "title": "Jupiter's moon Europa may have signs of life in its buried ocean — but can we get to them?",
-      "link": "https://www.space.com/space-exploration/search-for-life/jupiters-moon-europa-may-have-signs-of-life-in-its-buried-ocean-but-can-we-get-to-them",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785780741
-    },
-    {
-      "title": "3 moons of Neptune may be remnants of ice worlds shattered in a catastrophic crash",
-      "link": "https://www.space.com/astronomy/neptune/3-moons-of-neptune-may-be-remnants-of-ice-worlds-shattered-in-a-catastrophic-crash",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785773846
     },
     {
       "title": "2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet",
@@ -534,13 +555,6 @@
       "timestamp": 1785755827
     },
     {
-      "title": "How headlights got brighter, whiter, and more blinding after dark",
-      "link": "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785754811
-    },
-    {
       "title": "Two new compounds could reveal hidden drivers of Alzheimer’s disease",
       "link": "https://www.sciencedaily.com/releases/2026/08/260802223437.htm",
       "source": "SCIENCEDAILY",
@@ -560,13 +574,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785730074
-    },
-    {
-      "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
-      "link": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785608411
     },
     {
       "title": "As the Kawhi Leonard investigation drags on, it's time to wonder if his trade to the Raptors will fall apart",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1785157595
-    },
-    {
-      "title": "LeBron James decision fallout, winners and losers; MLB Power Rankings as trade deadline heats up",
-      "link": "https://www.cbssports.com/nba/news/lebron-james-decision-fallout-winners-and-losers-mlb-power-rankings-as-trade-deadline-heats-up/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1785156551
     }
   ]
 }
