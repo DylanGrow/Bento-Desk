@@ -1,12 +1,54 @@
 {
-  "last_updated": 1785794738,
+  "last_updated": 1785801935,
   "items": [
+    {
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+      "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785799190
+    },
+    {
+      "title": "X-Men Fans Are Rediscovering That Samara Weaving Is a Huge Gamer After Emma Frost Casting",
+      "link": "https://www.ign.com/articles/x-men-fans-are-rediscovering-that-samara-weaving-is-a-huge-gamer-after-emma-frost-casting",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785799068
+    },
+    {
+      "title": "Kevin Feige Reveals Why Marvel Fought to Keep Sadie Sink's Role in Spider-Man: Brand New Day a Secret",
+      "link": "https://www.ign.com/articles/kevin-feige-reveals-why-marvel-fought-to-keep-sadie-sinks-role-in-spider-man-brand-new-day-a-secret",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785795577
+    },
+    {
+      "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+      "link": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785795099
+    },
+    {
+      "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
+      "link": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785795058
+    },
     {
       "title": "CNN dives into how Elon Musk and Jeff Bezos are backing NASA's race to the moon against China (exclusive clip)",
       "link": "https://www.space.com/entertainment/cnn-dives-into-how-elon-musk-and-jeff-bezos-are-backing-nasas-race-to-the-moon-against-china-exclusive-clip",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785794400
+    },
+    {
+      "title": "Movie-Goers Evacuate Spider-Man: Brand New Day Screening After Viewer Lets 'Rotten' Fart Rip",
+      "link": "https://www.ign.com/articles/movie-goers-evacuate-spider-man-brand-new-day-screening-after-viewer-lets-rotten-fart-rip",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785793667
     },
     {
       "title": "Sony's Spider-Man Spinoff Universe Might Be Dead as Company Confirms It Has No Movies in Active Development",
@@ -240,20 +282,6 @@
       "timestamp": 1785771649
     },
     {
-      "title": "Spider-Man: Brand New Day Officially Dethrones Avengers: Endgame With the Biggest Domestic Opening Weekend in History",
-      "link": "https://www.ign.com/articles/spider-man-brand-new-day-officially-dethrones-avengers-endgame-with-the-biggest-domestic-opening-weekend-in-history",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785770273
-    },
-    {
-      "title": "Spider-Man: Brand New Day Is Getting an IMAX Release Very Soon",
-      "link": "https://www.ign.com/articles/spider-man-brand-new-day-is-getting-an-imax-release-very-soon",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785768668
-    },
-    {
       "title": "NBA odds: LeBron James joins 76ers, shifting 2026-27 title and Eastern Conference futures markets",
       "link": "https://www.cbssports.com/betting/news/nba-odds-lebron-james-joins-76ers-shifting-2026-27-title-and-eastern-conference-futures-markets/",
       "source": "CBSSPORTS",
@@ -280,13 +308,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785765900
-    },
-    {
-      "title": "Nintendo Direct Announced, Focused on Fire Emblem: Fortune's Weave",
-      "link": "https://www.ign.com/articles/nintendo-direct-announced-focused-on-fire-emblem-fortunes-weave",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785765005
     },
     {
       "title": "A simple supplement could help the immune system fight cancer and viruses",
@@ -380,13 +401,6 @@
       "timestamp": 1785752453
     },
     {
-      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785751200
-    },
-    {
       "title": "AI is ready to run spacecraft. Is the space industry ready for it? (op-ed)",
       "link": "https://www.space.com/space-exploration/satellites/ai-is-ready-to-run-spacecraft-is-the-space-industry-ready-for-it",
       "source": "SPACE",
@@ -413,13 +427,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785721978
-    },
-    {
-      "title": "The global memory shortage hits the MacBook Air",
-      "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785706439
     },
     {
       "title": "Gears of War: E-Day: Release date, platforms & everything else we know about Marcus Fenix's return",
@@ -560,13 +567,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785534712
-    },
-    {
-      "title": "Google plans to exempt sanctioned nations from Android developer verification",
-      "link": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785533756
     },
     {
       "title": "As the Kawhi Leonard investigation drags on, it's time to wonder if his trade to the Raptors will fall apart",
