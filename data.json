@@ -1,6 +1,27 @@
 {
-  "last_updated": 1785801935,
+  "last_updated": 1785816619,
   "items": [
+    {
+      "title": "Your brain may be wired to regain lost weight",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785814708
+    },
+    {
+      "title": "These bizarre new beetles look so stretchy scientists named them Luffy",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260802223430.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785810399
+    },
+    {
+      "title": "Scientists went looking for giant trees in Taiwan and found a lost world",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260802223431.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785806339
+    },
     {
       "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
       "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
@@ -86,17 +107,17 @@
       "timestamp": 1785788017
     },
     {
-      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-      "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785787200
-    },
-    {
       "title": "Jack in for a cyberpunk jolt with this energized first trailer for Apple TV's 'Neuromancer'",
       "link": "https://www.space.com/entertainment/jack-in-for-a-cyberpunk-jolt-with-this-energized-first-trailer-for-apple-tvs-neuromancer",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1785787200
+    },
+    {
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
       "timestamp": 1785787200
     },
     {
@@ -504,27 +525,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785597544
-    },
-    {
-      "title": "NASA’s Curiosity rover finds a mysterious honeycomb landscape on Mars",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260731034142.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785592044
-    },
-    {
-      "title": "Tiny black holes may be secretly exploding stars across the Milky Way",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729051515.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785591221
-    },
-    {
-      "title": "Scientists detect a sharp acceleration in global warming",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260801093239.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785591159
     },
     {
       "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
