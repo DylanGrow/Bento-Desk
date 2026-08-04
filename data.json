@@ -1,6 +1,76 @@
 {
-  "last_updated": 1785871633,
+  "last_updated": 1785877720,
   "items": [
+    {
+      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785877646
+    },
+    {
+      "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
+      "link": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785875790
+    },
+    {
+      "title": "Texas halts data center connections to power grid amid overwhelming demand",
+      "link": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785875668
+    },
+    {
+      "title": "Android app developers may be unwittingly sharing their users’ location data with advertisers",
+      "link": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785875213
+    },
+    {
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785873926
+    },
+    {
+      "title": "Naoki Hamaguchi Doubles Down on Connecting All Final Fantasy VII Spin-Offs Into Revelation’s Ending",
+      "link": "https://www.ign.com/articles/naoki-hamaguchi-doubles-down-on-connecting-all-final-fantasy-vii-spinoffs-into-revelations-ending",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785873897
+    },
+    {
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785872920
+    },
+    {
+      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+      "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785872074
+    },
+    {
+      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785871729
+    },
+    {
+      "title": "Spider-Man: Brand New Day Loses Place in the Top 10 MCU Movies on Rotten Tomatoes Following Record-Breaking Opening",
+      "link": "https://www.ign.com/articles/spider-man-brand-new-day-loses-place-in-the-top-10-mcu-movies-on-rotten-tomatoes-following-record-breaking-opening",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785871196
+    },
     {
       "title": "Capcom Is Making a Life-Sized Leon Kennedy Statue for Resident Evil’s 30th Anniversary, and of Course the Internet Is Being Totally Normal About It",
       "link": "https://www.ign.com/articles/capcom-is-making-a-life-sized-leon-kennedy-statue-for-resident-evils-30th-anniversary-and-of-course-the-internet-is-being-totally-normal-about-it",
@@ -65,17 +135,17 @@
       "timestamp": 1785863148
     },
     {
-      "title": "The RAM Crisis Seems to Be Expanding to Motherboards Now",
-      "link": "https://www.ign.com/articles/the-ram-crisis-seems-to-be-expanding-to-motherboards-now",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785862959
-    },
-    {
       "title": "'A very busy mission': SpaceX on track to launch 4 astronauts to the ISS on Sept. 12",
       "link": "https://www.space.com/space-exploration/international-space-station/a-very-busy-mission-spacex-on-track-to-launch-4-astronauts-to-the-iss-on-sept-12",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1785862800
+    },
+    {
+      "title": "The RAM Crisis Seems to Be Expanding to Motherboards Now",
+      "link": "https://www.ign.com/articles/the-ram-crisis-seems-to-be-expanding-to-motherboards-now",
+      "source": "IGN",
+      "category": "gaming",
       "timestamp": 1785862800
     },
     {
@@ -184,13 +254,6 @@
       "timestamp": 1785852469
     },
     {
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785852181
-    },
-    {
       "title": "On this day in space! Aug. 4, 2007: NASA launches Phoenix Mars lander to Red Planet",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-4-2026",
       "source": "SPACE",
@@ -203,13 +266,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1785852000
-    },
-    {
-      "title": "Spotify now has over 300M subscribers",
-      "link": "https://techcrunch.com/2026/08/04/spotify-now-has-over-300m-subscribers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785851578
     },
     {
       "title": "Everything Announced in The Fire Emblem: Fortune's Weave Nintendo Direct",
@@ -233,25 +289,11 @@
       "timestamp": 1785850417
     },
     {
-      "title": "India moves to give its instant payments network a business model",
-      "link": "https://techcrunch.com/2026/08/04/india-moves-to-give-its-instant-payments-network-a-business-model/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785850277
-    },
-    {
       "title": "518-million-year-old creature reveals the origins of spider fangs",
       "link": "https://www.sciencedaily.com/releases/2026/08/260803080906.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785849490
-    },
-    {
-      "title": "Is the future of data centers portable? Runware builds a pod to find out",
-      "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785848400
     },
     {
       "title": "'Significant areas of Mars may have once been covered by water': Scientists find hidden clue in Spirit rover data",
@@ -268,25 +310,11 @@
       "timestamp": 1785845563
     },
     {
-      "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
-      "link": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785844800
-    },
-    {
       "title": "Strange quantum experiment shows “negative time” is more than an illusion",
       "link": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785843898
-    },
-    {
-      "title": "Bending Spoons to buy Airtable for $1.28B",
-      "link": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785843056
     },
     {
       "title": "Game of Thrones Author George R.R. Martin Shares Personal Update, Discusses Health and 'Falling Further and Further Behind'",
@@ -366,13 +394,6 @@
       "timestamp": 1785806339
     },
     {
-      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-      "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785799190
-    },
-    {
       "title": "X-Men Fans Are Rediscovering That Samara Weaving Is a Huge Gamer After Emma Frost Casting",
       "link": "https://www.ign.com/articles/x-men-fans-are-rediscovering-that-samara-weaving-is-a-huge-gamer-after-emma-frost-casting",
       "source": "IGN",
@@ -399,20 +420,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785794400
-    },
-    {
-      "title": "Movie-Goers Evacuate Spider-Man: Brand New Day Screening After Viewer Lets 'Rotten' Fart Rip",
-      "link": "https://www.ign.com/articles/movie-goers-evacuate-spider-man-brand-new-day-screening-after-viewer-lets-rotten-fart-rip",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785793667
-    },
-    {
-      "title": "Sony's Spider-Man Spinoff Universe Might Be Dead as Company Confirms It Has No Movies in Active Development",
-      "link": "https://www.ign.com/articles/sonys-spider-man-spinoff-universe-might-be-dead-as-company-confirms-it-has-no-movies-in-active-development",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785792519
     },
     {
       "title": "A SpaceX rocket will crash into the moon this week. Why is it on a collision course?",
@@ -560,13 +567,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785608411
-    },
-    {
-      "title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
-      "link": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785597544
     },
     {
       "title": "As the Kawhi Leonard investigation drags on, it's time to wonder if his trade to the Raptors will fall apart",
