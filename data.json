@@ -1,6 +1,90 @@
 {
-  "last_updated": 1785857311,
+  "last_updated": 1785865452,
   "items": [
+    {
+      "title": "SpaceX launches Starlink satellites on 90th Falcon 9 flight of the year (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-launch-group-17-53-ocisly",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785865049
+    },
+    {
+      "title": "Waymo opens up robotaxi service in Dallas to everyone",
+      "link": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785864661
+    },
+    {
+      "title": "Take an extra $100 off your TechCrunch Disrupt 2026 pass: This week only!",
+      "link": "https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785864054
+    },
+    {
+      "title": "TV Time co-founder launches Bingers to revive the beloved TV-tracking app",
+      "link": "https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785863148
+    },
+    {
+      "title": "'A very busy mission': SpaceX on track to launch 4 astronauts to the ISS on Sept. 12",
+      "link": "https://www.space.com/space-exploration/international-space-station/a-very-busy-mission-spacex-on-track-to-launch-4-astronauts-to-the-iss-on-sept-12",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785862800
+    },
+    {
+      "title": "Hackers steal over $130M by exploiting bug in offline hardware wallets",
+      "link": "https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785860879
+    },
+    {
+      "title": "A 9,000-pound SpaceX rocket will crash into the moon tonight. Will you be able to see it?",
+      "link": "https://www.space.com/astronomy/moon/a-9-000-pound-spacex-rocket-will-crash-into-the-moon-tonight-will-you-be-able-to-see-it",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785859093
+    },
+    {
+      "title": "'It Would Be a Real Shame for That Culture to Disappear': Final Fantasy 7 Revelation Director Says Physical Game Releases Must Continue",
+      "link": "https://www.ign.com/articles/it-would-be-a-real-shame-for-that-culture-to-disappear-final-fantasy-7-revelation-director-says-physical-game-releases-must-continue",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785858694
+    },
+    {
+      "title": "Spotify expands AI remix and covers project with Merlin partnership",
+      "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785858606
+    },
+    {
+      "title": "Texas halts new data centers as governor calls for audits",
+      "link": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785858155
+    },
+    {
+      "title": "Walmart completes its acquisition of TV advertising company Vibe.co",
+      "link": "https://techcrunch.com/2026/08/04/walmart-completes-its-acquisition-of-tv-advertising-company-vibe-co/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785857902
+    },
+    {
+      "title": "Gears of War: E-Day Open Beta Leads Xbox Game Pass August 2026 Lineup",
+      "link": "https://www.ign.com/articles/gears-of-war-e-day-open-beta-leads-xbox-game-pass-august-2026-lineup",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785857091
+    },
     {
       "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
       "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
@@ -44,7 +128,7 @@
       "timestamp": 1785852000
     },
     {
-      "title": "Mr Trippy, an \"Ice Cream\" (Read: Illegal Drugs) Truck Management Sim, Announced for PC",
+      "title": "Mr Trippy, an 'Ice Cream' (Read: Illegal Drugs) Truck Management Sim, Announced for PC",
       "link": "https://www.ign.com/articles/mr-trippy-an-ice-cream-read-illegal-drugs-truck-management-sim-announced-for-pc",
       "source": "IGN",
       "category": "gaming",
@@ -240,13 +324,6 @@
       "timestamp": 1785795099
     },
     {
-      "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
-      "link": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785795058
-    },
-    {
       "title": "CNN dives into how Elon Musk and Jeff Bezos are backing NASA's race to the moon against China (exclusive clip)",
       "link": "https://www.space.com/entertainment/cnn-dives-into-how-elon-musk-and-jeff-bezos-are-backing-nasas-race-to-the-moon-against-china-exclusive-clip",
       "source": "SPACE",
@@ -296,25 +373,11 @@
       "timestamp": 1785788017
     },
     {
-      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-      "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785787200
-    },
-    {
       "title": "Jack in for a cyberpunk jolt with this energized first trailer for Apple TV's 'Neuromancer'",
       "link": "https://www.space.com/entertainment/jack-in-for-a-cyberpunk-jolt-with-this-energized-first-trailer-for-apple-tvs-neuromancer",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785787200
-    },
-    {
-      "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
-      "link": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785786335
     },
     {
       "title": "Sony Pictures CEO Jabs Anti-Theater Sentiment as Spider-Man: Brand New Day Breaks Box Office Records",
@@ -324,25 +387,11 @@
       "timestamp": 1785785716
     },
     {
-      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-      "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785785337
-    },
-    {
       "title": "Lego deploys Hubble Space Telescope as detailed desktop model",
       "link": "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785784876
-    },
-    {
-      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-      "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785784196
     },
     {
       "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
@@ -352,20 +401,6 @@
       "timestamp": 1785783650
     },
     {
-      "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
-      "link": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785783249
-    },
-    {
-      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-      "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785782623
-    },
-    {
       "title": "The Steam Frame Might End Up More Expensive Than the Steam Machine",
       "link": "https://www.ign.com/articles/the-steam-frame-might-end-up-more-expensive-than-the-steam-machine",
       "source": "IGN",
@@ -373,25 +408,11 @@
       "timestamp": 1785781203
     },
     {
-      "title": "Shift Up CEO Defends Stellar Blade: Blood Rain AI Music Video Against Player Backlash",
-      "link": "https://www.ign.com/articles/shift-up-ceo-defends-stellar-blade-blood-rain-ai-music-video-against-player-backlash",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785780822
-    },
-    {
       "title": "Jupiter's moon Europa may have signs of life in its buried ocean — but can we get to them?",
       "link": "https://www.space.com/space-exploration/search-for-life/jupiters-moon-europa-may-have-signs-of-life-in-its-buried-ocean-but-can-we-get-to-them",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785780741
-    },
-    {
-      "title": "Microsoft Reportedly Working to Bring Xbox 360 Games to PC and Project Helix",
-      "link": "https://www.ign.com/articles/microsoft-reportedly-working-to-bring-xbox-360-games-to-pc-and-project-helix",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785779652
     },
     {
       "title": "3 moons of Neptune may be remnants of ice worlds shattered in a catastrophic crash",
@@ -457,32 +478,11 @@
       "timestamp": 1785763410
     },
     {
-      "title": "13 amazing things to see during the total solar eclipse on Aug. 12",
-      "link": "https://www.space.com/stargazing/solar-eclipses/13-amazing-things-to-see-during-the-total-solar-eclipse-on-aug-12",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785762000
-    },
-    {
       "title": "Moonquakes could reveal hidden water beneath the lunar surface",
       "link": "https://www.sciencedaily.com/releases/2026/08/260802223420.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785760327
-    },
-    {
-      "title": "Is the Nocs Provisions Lite View spotting scope a good alternative to a traditional telescope?",
-      "link": "https://www.space.com/stargazing/skywatching-kit/is-the-nocs-provisions-lite-view-spotting-scope-a-good-alternative-to-a-traditional-telescope",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785758400
-    },
-    {
-      "title": "Astronomers watch a black hole's feeding frenzy end with a bad case of cosmic indigestion",
-      "link": "https://www.space.com/astronomy/black-holes/astronomers-watch-a-black-holes-feeding-frenzy-end-with-a-bad-case-of-cosmic-indigestion",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785758400
     },
     {
       "title": "Scientists reveal the hidden force driving the universe’s hottest fluid",
