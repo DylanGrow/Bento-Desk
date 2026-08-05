@@ -1,6 +1,83 @@
 {
-  "last_updated": 1785931020,
+  "last_updated": 1785939097,
   "items": [
+    {
+      "title": "On this day in space! Aug. 5, 2011:  NASA's Juno spacecraft launches to Jupiter",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-5-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785938400
+    },
+    {
+      "title": "Disney+ looks to TikTok creators to bring fan content to its short-form video feed",
+      "link": "https://techcrunch.com/2026/08/05/disney-looks-to-tiktok-creators-to-bring-fan-content-to-its-short-form-video-feed/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785936103
+    },
+    {
+      "title": "Mars dust is toxic. How will future astronauts deal with it?",
+      "link": "https://www.space.com/astronomy/mars/mars-dust-is-toxic-how-will-future-astronauts-deal-with-it",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785934800
+    },
+    {
+      "title": "Beaten Path Revealed for PC and Consoles",
+      "link": "https://www.ign.com/articles/beaten-path-revealed-for-pc-and-consoles",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785934800
+    },
+    {
+      "title": "Star Wars: Episode IV — A New Hope Gets Welsh Language Dub",
+      "link": "https://www.ign.com/articles/star-wars-episode-iv-a-new-hope-gets-welsh-language-dub",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785934800
+    },
+    {
+      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+      "link": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785932918
+    },
+    {
+      "title": "Robinhood to list a fund that lets anyone back Y Combinator startups",
+      "link": "https://techcrunch.com/2026/08/05/robinhood-to-list-a-fund-that-lets-anyone-back-y-combinator-startups/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785932632
+    },
+    {
+      "title": "Scientists discover the brain cells that keep you motivated",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260804034622.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785931788
+    },
+    {
+      "title": "'The Ninth Jedi' review: This anime spin-off abandons 'Star Wars' canon, and it's all the stronger for it",
+      "link": "https://www.space.com/entertainment/space-movies-shows/the-ninth-jedi-review-this-anime-spin-off-abandons-star-wars-canon-and-its-all-the-stronger-for-it",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785931200
+    },
+    {
+      "title": "Disney Admits Live-Action Moana and Star Wars: The Mandalorian and Grogu  'Underperformed', But Says The Movies Still Helped Shift Plenty of Merchandise",
+      "link": "https://www.ign.com/articles/disney-admits-live-action-moana-and-star-wars-the-mandalorian-and-grogu-underperformed-but-says-the-movies-still-helped-shift-plenty-of-merchandise",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785931074
+    },
+    {
+      "title": "80-million-year-old snake brain reveals a surprising evolutionary secret",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260804034619.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785930171
+    },
     {
       "title": "Pokémon Pokopia Version 2.0.0 Released, And Here Are the Full Patch Notes",
       "link": "https://www.ign.com/articles/pokmon-pokopia-version-200-released-and-here-are-the-full-patch-notes",
@@ -44,6 +121,13 @@
       "timestamp": 1785927600
     },
     {
+      "title": "This school-bus-sized “terror croc” ate dinosaurs. Now it’s back",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260801093740.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785927056
+    },
+    {
       "title": "Heading to Europe or the U.K. for the Aug. 12 solar eclipse? Best eclipse glasses to buy before you leave — or after you arrive",
       "link": "https://www.space.com/stargazing/skywatching-kit/heading-to-europe-or-the-u-k-for-the-aug-12-solar-eclipse-best-eclipse-glasses-to-buy-before-you-leave-or-after-you-arrive",
       "source": "SPACE",
@@ -65,6 +149,13 @@
       "timestamp": 1785923062
     },
     {
+      "title": "A colossal magma system has been hiding beneath Tuscany",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260804034645.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785921583
+    },
+    {
       "title": "Wispr Flow launches a Granola-styled meeting notetaker",
       "link": "https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/",
       "source": "TECHCRUNCH",
@@ -84,6 +175,34 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785907034
+    },
+    {
+      "title": "Stanford scientists discover immune cells that explode like microscopic bombs",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260803080914.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785906652
+    },
+    {
+      "title": "A solar eclipse and the Perseid meteor shower arrive on the same day",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260804034628.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785903227
+    },
+    {
+      "title": "Did T. rex leave these 66-million-year-old bite marks?",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260803080854.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785899721
+    },
+    {
+      "title": "Scientists catch a “jumping gene” mid-leap between species",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260803080911.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785898308
     },
     {
       "title": "Original Grand Tour Hosts Jeremy Clarkson, Richard Hammond, and James May Will Cameo in the New Season",
@@ -163,21 +282,21 @@
       "timestamp": 1785881285
     },
     {
-      "title": "SpaceX launches 3 giant BlueBird direct-to-cell satellites on Falcon 9 rocket",
+      "title": "SpaceX launches 3 giant BlueBird direct-to-cell satellites on Falcon 9 rocket (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-ast-spacemobile-11-13-direct-to-cell-satellites",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785880800
     },
     {
-      "title": "Senators demand crackdown on wildfire \"prediction markets\"",
+      "title": "Senators demand crackdown on wildfire \"prediction market\" bets",
       "link": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785880351
     },
     {
-      "title": "Trump killed the Digital Equity Act, but US was forced to bring part of it back",
+      "title": "Trump killed the Digital Equity Act but US was forced to bring part of it back",
       "link": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -254,39 +373,11 @@
       "timestamp": 1785872074
     },
     {
-      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-      "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785871729
-    },
-    {
-      "title": "Spider-Man: Brand New Day Loses Place in the Top 10 MCU Movies on Rotten Tomatoes Following Record-Breaking Opening",
-      "link": "https://www.ign.com/articles/spider-man-brand-new-day-loses-place-in-the-top-10-mcu-movies-on-rotten-tomatoes-following-record-breaking-opening",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785871196
-    },
-    {
-      "title": "Capcom Is Making a Life-Sized Leon Kennedy Statue for Resident Evil’s 30th Anniversary, and of Course the Internet Is Being Totally Normal About It",
-      "link": "https://www.ign.com/articles/capcom-is-making-a-life-sized-leon-kennedy-statue-for-resident-evils-30th-anniversary-and-of-course-the-internet-is-being-totally-normal-about-it",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785867961
-    },
-    {
       "title": "When a total solar eclipse darkens the sky on Aug. 12, these citizen scientists will be watching",
       "link": "https://www.space.com/stargazing/solar-eclipses/when-a-total-solar-eclipse-darkens-the-sky-on-aug-12-these-citizen-scientists-will-be-watching",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785866400
-    },
-    {
-      "title": "Microsoft Reportedly Planned to Continue Disc Support Before the Xbox 'Reset'",
-      "link": "https://www.ign.com/articles/xbox-will-reportedly-continue-to-support-physical-discs-following-ps6-backlash",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785865746
     },
     {
       "title": "August full moon 2026: When, where and how to see the Sturgeon Moon",
@@ -308,20 +399,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785864888
-    },
-    {
-      "title": "Waymo opens up robotaxi service in Dallas to everyone",
-      "link": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785864661
-    },
-    {
-      "title": "Take an extra $100 off your TechCrunch Disrupt 2026 pass: This week only!",
-      "link": "https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785864054
     },
     {
       "title": "'A very busy mission': SpaceX on track to launch 4 astronauts to the ISS on Sept. 12",
@@ -422,32 +499,11 @@
       "timestamp": 1785843898
     },
     {
-      "title": "Are aliens running out of places to hide? It turns out we've searched much more of the galaxy than we realized",
-      "link": "https://www.space.com/space-exploration/search-for-life/are-aliens-running-out-of-places-to-hide-it-turns-out-weve-searched-much-more-of-the-galaxy-than-we-realized",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785837600
-    },
-    {
       "title": "DNA on the Shroud of Turin reveals centuries of hidden history",
       "link": "https://www.sciencedaily.com/releases/2026/08/260803080859.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785836961
-    },
-    {
-      "title": "I bought a $50 telescope on Facebook Marketplace — here's what I learned",
-      "link": "https://www.space.com/stargazing/skywatching-kit/i-bought-a-50-dollar-telescope-on-facebook-marketplace-heres-what-i-learned",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785834000
-    },
-    {
-      "title": "This Sky-Watcher is an ideal beginner telescope for solar observing",
-      "link": "https://www.space.com/stargazing/skywatching-kit/sky-watcher-heliostar-76mm-h-alpha-solar-telescope-review",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785826800
     },
     {
       "title": "Your brain may be wired to regain lost weight",
@@ -518,62 +574,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785768106
-    },
-    {
-      "title": "A simple supplement could help the immune system fight cancer and viruses",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260802223417.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785764284
-    },
-    {
-      "title": "Ancient Arctic carbon is pouring into the sea, but the seabed captures most of it",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260802223424.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785763410
-    },
-    {
-      "title": "Moonquakes could reveal hidden water beneath the lunar surface",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260802223420.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785760327
-    },
-    {
-      "title": "Scientists reveal the hidden force driving the universe’s hottest fluid",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260802223422.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785758339
-    },
-    {
-      "title": "Scientists may have found aging’s hidden trigger for brain disease",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260802223433.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785755827
-    },
-    {
-      "title": "Two new compounds could reveal hidden drivers of Alzheimer’s disease",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260802223437.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785752453
-    },
-    {
-      "title": "Two deadly flowers could inspire powerful new medicines",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260801042818.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785736299
-    },
-    {
-      "title": "Giant waves are sweeping Mars’ atmosphere into space",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260801042816.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785730074
     },
     {
       "title": "As the Kawhi Leonard investigation drags on, it's time to wonder if his trade to the Raptors will fall apart",
