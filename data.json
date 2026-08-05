@@ -1,6 +1,104 @@
 {
-  "last_updated": 1785947917,
+  "last_updated": 1785953896,
   "items": [
+    {
+      "title": "Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools",
+      "link": "https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785952840
+    },
+    {
+      "title": "Lucid Motors just delayed its affordable EV. Now what?",
+      "link": "https://techcrunch.com/2026/08/05/lucid-motors-just-delayed-its-affordable-ev-now-what/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785952665
+    },
+    {
+      "title": "The iPhone 18 Pro Will Probably Cost At Least $1,399",
+      "link": "https://www.ign.com/articles/the-iphone-18-pro-will-probably-cost-at-least-1399",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785951867
+    },
+    {
+      "title": "A SpaceX rocket just crashed into the moon. Now, the race is on to get a look at the impact site",
+      "link": "https://www.space.com/astronomy/moon/a-spacex-rocket-just-crashed-into-the-moon-now-the-race-is-on-to-get-a-look-at-the-impact-site",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785951810
+    },
+    {
+      "title": "14 Years After Its Release, Call of Duty: Black Ops 2 Is One of 2026's Best Selling Games, According to Analysts",
+      "link": "https://www.ign.com/articles/14-years-after-its-release-call-of-duty-black-ops-2-is-one-of-2026s-best-selling-games-according-to-analysts",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785951547
+    },
+    {
+      "title": "After jacking up prices, Disney+ and Netflix consider offering free alternatives",
+      "link": "https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785949959
+    },
+    {
+      "title": "Meet the eight startups pitching at Startup Battlefield Australia",
+      "link": "https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785949320
+    },
+    {
+      "title": "EVgo starts building Tesla Superchargers under license",
+      "link": "https://arstechnica.com/cars/2026/08/evgo-starts-building-tesla-superchargers-under-license/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785949238
+    },
+    {
+      "title": "PSA: Apple’s Private Relay can leak your real IP address",
+      "link": "https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785948749
+    },
+    {
+      "title": "D-Wave shows off its new entry in quantum computing race",
+      "link": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785947827
+    },
+    {
+      "title": "Pokémon Developer Game Freak Promises Fixes 'Within a Week' To Its Big Budget RPG Beast of Reincarnation, Following Mixed Response at Launch",
+      "link": "https://www.ign.com/articles/pokmon-developer-game-freak-promises-fixes-within-a-week-to-its-big-budget-rpg-beast-of-reincarnation-following-mixed-response-at-launch",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785947545
+    },
+    {
+      "title": "Xbox Console Updates Adding New Capture and Achievement Features",
+      "link": "https://www.ign.com/articles/xbox-console-updates-adding-new-capture-and-achievement-features",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785947507
+    },
+    {
+      "title": "Gaming Made Up Just 6% of AMD's Earnings This Quarter",
+      "link": "https://www.ign.com/articles/gaming-made-up-just-6-of-amds-earnings-this-quarter",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785946513
+    },
+    {
+      "title": "Diablo 4 Leak Reveals Nintendo Switch 2 Release Date, Price and Code-in-a-Box Physical Release",
+      "link": "https://www.ign.com/articles/diablo-4-leak-reveals-nintendo-switch-2-release-date-price-and-code-in-a-box-physical-release",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785945683
+    },
     {
       "title": "Astronomers witness the strange final moments of a massive star's supernova death (video)",
       "link": "https://www.space.com/astronomy/stars/astronomers-witness-the-strange-final-moments-of-a-massive-stars-supernova-death-video",
@@ -28,6 +126,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1785943986
+    },
+    {
+      "title": "Google plans to kill Assistant on your phone on September 4",
+      "link": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785943802
     },
     {
       "title": "Kevin Durant fires Klay Thompson stray amid ridiculous Warriors-76ers comparison",
@@ -163,7 +268,7 @@
       "timestamp": 1785931200
     },
     {
-      "title": "Disney Admits Live-Action Moana and Star Wars: The Mandalorian and Grogu  'Underperformed', But Says The Movies Still Helped Shift Plenty of Merchandise",
+      "title": "Disney Admits Live-Action Moana and Star Wars: The Mandalorian and Grogu 'Underperformed,' But Says the Movies Still Helped Shift Plenty of Merchandise",
       "link": "https://www.ign.com/articles/disney-admits-live-action-moana-and-star-wars-the-mandalorian-and-grogu-underperformed-but-says-the-movies-still-helped-shift-plenty-of-merchandise",
       "source": "IGN",
       "category": "gaming",
@@ -177,7 +282,7 @@
       "timestamp": 1785930171
     },
     {
-      "title": "Pokémon Pokopia Version 2.0.0 Released, And Here Are the Full Patch Notes",
+      "title": "Pokémon Pokopia Version 2.0.0 Released, and Here Are the Full Patch Notes",
       "link": "https://www.ign.com/articles/pokmon-pokopia-version-200-released-and-here-are-the-full-patch-notes",
       "source": "IGN",
       "category": "gaming",
@@ -212,13 +317,6 @@
       "timestamp": 1785927600
     },
     {
-      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-      "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785927600
-    },
-    {
       "title": "This school-bus-sized “terror croc” ate dinosaurs. Now it’s back",
       "link": "https://www.sciencedaily.com/releases/2026/08/260801093740.htm",
       "source": "SCIENCEDAILY",
@@ -233,7 +331,7 @@
       "timestamp": 1785925207
     },
     {
-      "title": "'It Seems a Little Open-Ended': Spider-Man: Brand New Day's Jacob Batalon Discusses The Movie's Big Moment Between Peter and Ned",
+      "title": "'It Seems a Little Open-Ended': Spider-Man: Brand New Day's Jacob Batalon Discusses the Movie's Big Moment Between Peter and Ned",
       "link": "https://www.ign.com/articles/it-seems-a-little-open-ended-spider-man-brand-new-days-jacob-batalon-discusses-the-movies-big-moment-between-peter-and-ned",
       "source": "IGN",
       "category": "gaming",
@@ -252,13 +350,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785921583
-    },
-    {
-      "title": "Wispr Flow launches a Granola-styled meeting notetaker",
-      "link": "https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785914149
     },
     {
       "title": "Total solar eclipse Aug. 12, 2026 live updates — 1 week to go",
@@ -303,67 +394,11 @@
       "timestamp": 1785898308
     },
     {
-      "title": "Original Grand Tour Hosts Jeremy Clarkson, Richard Hammond, and James May Will Cameo in the New Season",
-      "link": "https://www.ign.com/articles/original-grand-tour-hosts-jeremy-clarkson-richard-hammond-and-james-may-will-cameo-in-the-new-season",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785892440
-    },
-    {
-      "title": "Joke Game Priced at 200 Dollars Rakes In $1.3 Million on Steam Before Thousands of Players Refund It",
-      "link": "https://www.ign.com/articles/joke-game-priced-at-200-dollars-rakes-in-13-million-on-steam-before-thousands-of-players-refund-it",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785887953
-    },
-    {
-      "title": "Spider-Man Theory May Change How You See Brand New Day's Ending",
-      "link": "https://www.ign.com/articles/spider-man-theory-may-change-how-you-see-brand-new-days-ending",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785884648
-    },
-    {
       "title": "SpaceX wants to launch next Starship this month (and catch it, too), Elon Musk says in 1st earnings call since historic IPO",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-launch-next-starship-this-month-and-catch-it-too-elon-musk-says-in-1st-earnings-call-since-historic-ipo",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785884130
-    },
-    {
-      "title": "Spider-Man: Brand New Day Reportedly Cut a Scene With a Fan-Favorite Daredevil Character And It Might've Fixed a Plot Hole",
-      "link": "https://www.ign.com/articles/spider-man-brand-new-day-reportedly-cut-a-scene-with-a-fan-favorite-daredevil-character-and-it-mightve-fixed-a-plot-hole",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785883117
-    },
-    {
-      "title": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
-      "link": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785882658
-    },
-    {
-      "title": "Tom Holland and Zendaya Are On an Unprecedented Box Office Run",
-      "link": "https://www.ign.com/articles/tom-holland-and-zendaya-are-on-an-unprecedented-box-office-run",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785882341
-    },
-    {
-      "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
-      "link": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785882240
-    },
-    {
-      "title": "Halo: Campaign Evolved Reportedly Had a Troubled Development That Impacted a Now-Canceled Multiplayer Project",
-      "link": "https://www.ign.com/articles/halo-campaign-evolved-reportedly-had-a-troubled-development-that-impacted-a-now-canceled-multiplayer-project",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785881771
     },
     {
       "title": "SpaceX launches 3 giant BlueBird direct-to-cell satellites on Falcon 9 rocket (video)",
@@ -471,13 +506,6 @@
       "timestamp": 1785854708
     },
     {
-      "title": "ISS astronaut spies a swirling super storm | Space photo of the day for Aug. 4, 2026",
-      "link": "https://www.space.com/astronomy/earth/iss-astronaut-spies-a-swirling-super-storm-space-photo-of-the-day-for-aug-4-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785852469
-    },
-    {
       "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
       "link": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
       "source": "ARSTECHNICA",
@@ -546,34 +574,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785795099
-    },
-    {
-      "title": "Research roundup: 6 cool science stories we almost missed",
-      "link": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785788017
-    },
-    {
-      "title": "Lego deploys Hubble Space Telescope as detailed desktop model",
-      "link": "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785784876
-    },
-    {
-      "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
-      "link": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785783650
-    },
-    {
-      "title": "2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet",
-      "link": "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785773422
     },
     {
       "title": "NBA odds: LeBron James joins 76ers, shifting 2026-27 title and Eastern Conference futures markets",
