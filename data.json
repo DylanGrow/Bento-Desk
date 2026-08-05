@@ -1,6 +1,83 @@
 {
-  "last_updated": 1785953896,
+  "last_updated": 1785961427,
   "items": [
+    {
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785960300
+    },
+    {
+      "title": "Hank Green found the AI problem that YouTube labels can’t catch",
+      "link": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785959500
+    },
+    {
+      "title": "Russo Brothers Congratulate Spider-Man: Brand New Day on Box Office Record",
+      "link": "https://www.ign.com/articles/spider-man-brand-new-day-box-office-record-russo-brothers",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785958958
+    },
+    {
+      "title": "SpaceX claims Starlink Mobile will be better than AT&T, T-Mobile, and Verizon",
+      "link": "https://arstechnica.com/tech-policy/2026/08/spacex-claims-starlink-mobile-will-be-better-than-att-t-mobile-and-verizon/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785958736
+    },
+    {
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785958219
+    },
+    {
+      "title": "This Atlantic hurricane season is looking like a dud, but there will be a price to pay",
+      "link": "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785957544
+    },
+    {
+      "title": "Google's AI shakeup: DeepMind's Hassabis steps aside, senior scientists depart",
+      "link": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785956758
+    },
+    {
+      "title": "This Unique 'Solo Journaling RPG' Has a Kickstarter Campaign that's Ending Soon",
+      "link": "https://www.ign.com/articles/this-unique-solo-journaling-rpg-has-a-kickstarter-campaign-thats-ending-soon",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785956541
+    },
+    {
+      "title": "The 'Dark Matter' season 2 trailer is here, and it looks like Apple TV has another sci-fi hit on its hands",
+      "link": "https://www.space.com/entertainment/space-movies-shows/the-dark-matter-season-2-trailer-is-here-and-it-looks-like-apple-tv-has-another-sci-fi-hit-on-its-hands",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785956400
+    },
+    {
+      "title": "Review: Spider-Man: Brand New Day reminds us that superhero movies can be good",
+      "link": "https://arstechnica.com/culture/2026/08/review-spider-man-brand-new-day-reminds-us-that-superhero-movies-can-be-good/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785954435
+    },
+    {
+      "title": "Weeks into explosive diarrhea outbreak, sluggish CDC plans response team",
+      "link": "https://arstechnica.com/health/2026/08/report-cdc-finally-plans-formal-response-team-for-explosive-diarrhea-outbreak/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785953471
+    },
     {
       "title": "Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools",
       "link": "https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/",
@@ -16,7 +93,7 @@
       "timestamp": 1785952665
     },
     {
-      "title": "The iPhone 18 Pro Will Probably Cost At Least $1,399",
+      "title": "The iPhone 18 Pro Will Probably Cost at Least $1,399",
       "link": "https://www.ign.com/articles/the-iphone-18-pro-will-probably-cost-at-least-1399",
       "source": "IGN",
       "category": "gaming",
@@ -219,13 +296,6 @@
       "timestamp": 1785936103
     },
     {
-      "title": "Mars dust is toxic. How will future astronauts deal with it?",
-      "link": "https://www.space.com/astronomy/mars/mars-dust-is-toxic-how-will-future-astronauts-deal-with-it",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785934800
-    },
-    {
       "title": "Beaten Path Revealed for PC and Consoles",
       "link": "https://www.ign.com/articles/beaten-path-revealed-for-pc-and-consoles",
       "source": "IGN",
@@ -237,6 +307,13 @@
       "link": "https://www.ign.com/articles/star-wars-episode-iv-a-new-hope-gets-welsh-language-dub",
       "source": "IGN",
       "category": "gaming",
+      "timestamp": 1785934800
+    },
+    {
+      "title": "Mars dust is toxic. How will future astronauts deal with it?",
+      "link": "https://www.space.com/astronomy/mars/mars-dust-is-toxic-how-will-future-astronauts-deal-with-it",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1785934800
     },
     {
@@ -289,13 +366,6 @@
       "timestamp": 1785929235
     },
     {
-      "title": "Indian EV startup River raises $120M Series C to scale production, launch more models",
-      "link": "https://techcrunch.com/2026/08/05/indian-ev-two-wheeler-startup-river-raises-120m-after-scaling-with-one-model/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785929160
-    },
-    {
       "title": "Disney+ Announces Plans to Feature User-Made TikTok Content, Just Days After Emmy-Nominated Wonder Man Cancellation",
       "link": "https://www.ign.com/articles/disney-announces-plans-to-feature-user-made-tiktok-content-just-days-after-emmy-nominated-wonder-man-cancellation",
       "source": "IGN",
@@ -310,13 +380,6 @@
       "timestamp": 1785927626
     },
     {
-      "title": "Saudi Aramco backs India’s Mitti Labs to make Asia’s rice farming more water-resilient",
-      "link": "https://techcrunch.com/2026/08/05/saudi-aramco-backs-indias-mitti-labs-to-make-asias-rice-farming-more-water-resilient/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785927600
-    },
-    {
       "title": "This school-bus-sized “terror croc” ate dinosaurs. Now it’s back",
       "link": "https://www.sciencedaily.com/releases/2026/08/260801093740.htm",
       "source": "SCIENCEDAILY",
@@ -329,20 +392,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785925207
-    },
-    {
-      "title": "'It Seems a Little Open-Ended': Spider-Man: Brand New Day's Jacob Batalon Discusses the Movie's Big Moment Between Peter and Ned",
-      "link": "https://www.ign.com/articles/it-seems-a-little-open-ended-spider-man-brand-new-days-jacob-batalon-discusses-the-movies-big-moment-between-peter-and-ned",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785925146
-    },
-    {
-      "title": "With Avatar's Future Still Uncertain, James Cameron Now Says He Wants to Prioritize 'Other Stories' For the 'Last Act' of His Career",
-      "link": "https://www.ign.com/articles/with-avatars-future-still-uncertain-james-cameron-now-says-he-wants-to-prioritize-other-stories-for-the-last-act-of-his-career",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785923062
     },
     {
       "title": "A colossal magma system has been hiding beneath Tuscany",
@@ -471,48 +520,6 @@
       "timestamp": 1785862800
     },
     {
-      "title": "The Pixel 11's \"glow\" feature is actually called HiLight—here's what it does",
-      "link": "https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785859865
-    },
-    {
-      "title": "A 9,000-pound SpaceX rocket will crash into the moon tonight. Will you be able to see it?",
-      "link": "https://www.space.com/astronomy/moon/a-9-000-pound-spacex-rocket-will-crash-into-the-moon-tonight-will-you-be-able-to-see-it",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785859093
-    },
-    {
-      "title": "Tom DeLay helped create TV ownership cap—he says Trump FCC has no authority to repeal it",
-      "link": "https://arstechnica.com/tech-policy/2026/08/can-trump-fcc-repeal-39-tv-ownership-cap-republican-who-wrote-cap-into-law-says-no/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785858660
-    },
-    {
-      "title": "Trump admin \"aware\" of deaths in explosive diarrhea outbreak, delays reporting",
-      "link": "https://arstechnica.com/health/2026/08/trump-admin-aware-of-deaths-in-explosive-diarrhea-outbreak-delays-reporting/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785855967
-    },
-    {
-      "title": "2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware",
-      "link": "https://arstechnica.com/cars/2026/08/2027-chevrolet-corvette-grand-sport-x-proves-code-is-as-important-as-hardware/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785854708
-    },
-    {
-      "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
-      "link": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785850709
-    },
-    {
       "title": "Cancer-fighting chewing gum cuts HPV levels by up to 93%",
       "link": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
       "source": "SCIENCEDAILY",
@@ -567,13 +574,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785806339
-    },
-    {
-      "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
-      "link": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785795099
     },
     {
       "title": "NBA odds: LeBron James joins 76ers, shifting 2026-27 title and Eastern Conference futures markets",
