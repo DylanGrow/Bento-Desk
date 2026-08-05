@@ -1,12 +1,131 @@
 {
-  "last_updated": 1785961427,
+  "last_updated": 1785967787,
   "items": [
+    {
+      "title": "Nikita Bier steps down as X’s head of product",
+      "link": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785965450
+    },
+    {
+      "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
+      "link": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785965200
+    },
+    {
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785964888
+    },
+    {
+      "title": "Minecraft Is Coming to Nintendo Switch 2 Soon With an Upgrade Path for Switch 1 Owners",
+      "link": "https://www.ign.com/articles/minecraft-is-coming-to-nintendo-switch-2-soon-with-an-upgrade-path-for-switch-1-owners",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785964444
+    },
+    {
+      "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
+      "link": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785963937
+    },
+    {
+      "title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
+      "link": "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785963798
+    },
+    {
+      "title": "'Warhammer 40,000' animated series coming to Prime Video, with Henry Cavill onboard as executive producer",
+      "link": "https://www.space.com/entertainment/space-movies-shows/warhammer-40-000-animated-series-coming-to-prime-video-with-henry-cavill-onboard-as-executive-producer",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785963600
+    },
+    {
+      "title": "RAMageddon Continues Another Year as 2027 Memory Capacity Is Reportedly Sold Out",
+      "link": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785963495
+    },
+    {
+      "title": "Moove raises $250M to become the backbone of the robotaxi industry",
+      "link": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785963045
+    },
+    {
+      "title": "Scalping Has Gotten So Bad That The Pokemon Company Is Limiting Certain TCG Packs to Japanese Citizens Only",
+      "link": "https://www.ign.com/articles/scalping-has-gotten-so-bad-that-the-pokemon-company-is-limiting-certain-tcg-packs-to-japanese-citizens-only",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785962963
+    },
+    {
+      "title": "How Lightspeed found its newest hire … via Instagram DM",
+      "link": "https://techcrunch.com/2026/08/05/how-lightspeed-found-its-newest-hire-via-instagram-dm/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785962936
+    },
+    {
+      "title": "Why Lightspeed is going all-in on creator-led venture capital",
+      "link": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785962934
+    },
+    {
+      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+      "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785962831
+    },
+    {
+      "title": "T-Mobile Launches New Student Discounts for Wireless Plans That Include Netflix, Apple TV, and Hulu",
+      "link": "https://www.ign.com/articles/t-mobile-launches-new-wireless-student-plans-that-include-netflix-apple-tv-and-hulu",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785961920
+    },
+    {
+      "title": "Xbox Is Planning Its Own Version of the Platinum Trophy",
+      "link": "https://www.ign.com/articles/xbox-is-planning-its-own-version-of-the-platinum-trophy",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785961314
+    },
+    {
+      "title": "NBPA opens new state-of-the-art facility in Los Angeles: 'We literally do not have to go anywhere else'",
+      "link": "https://www.cbssports.com/nba/news/nbpa-opens-new-state-of-the-art-facility-in-los-angeles/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1785960904
+    },
     {
       "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
       "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1785960300
+    },
+    {
+      "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
+      "link": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785960092
     },
     {
       "title": "Hank Green found the AI problem that YouTube labels can’t catch",
@@ -44,7 +163,7 @@
       "timestamp": 1785957544
     },
     {
-      "title": "Google's AI shakeup: DeepMind's Hassabis steps aside, senior scientists depart",
+      "title": "Google's AI shake-up: DeepMind's Hassabis steps aside, senior scientists depart",
       "link": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -226,13 +345,6 @@
       "timestamp": 1785942402
     },
     {
-      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
-      "link": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785942300
-    },
-    {
       "title": "Secretlab Launches Pokémon-Themed Gaming Chair ‘Skins’ Featuring the Original Three Starter Evolutions",
       "link": "https://www.ign.com/articles/secretlab-launches-pokemon-themed-skins",
       "source": "IGN",
@@ -240,32 +352,11 @@
       "timestamp": 1785942000
     },
     {
-      "title": "As Gen Z reconsiders dating apps, Tinder’s IRL events expand to dozens more cities",
-      "link": "https://techcrunch.com/2026/08/05/as-gen-z-reconsiders-dating-apps-tinders-irl-events-expand-to-dozens-more-cities/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785941106
-    },
-    {
-      "title": "Trump EPA wrongly canceled $20B in climate funds, appeals court rules",
-      "link": "https://techcrunch.com/2026/08/05/trump-epa-wrongly-canceled-20b-in-climate-funds-appeals-court-rules/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785940813
-    },
-    {
       "title": "Former Pokémon Exec Accused of Hiding Video Cameras in Office Bathroom to Record Women and Girls",
       "link": "https://www.ign.com/articles/former-pokmon-exec-accused-of-hiding-video-cameras-in-office-bathroom-to-record-women-and-girls",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1785939276
-    },
-    {
-      "title": "Anthropic is hiring an AI chip design team",
-      "link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785939198
     },
     {
       "title": "Curiosity rover spots mysterious honeycombs on Mars | Space photo of the day for Aug. 5, 2026",
@@ -289,46 +380,11 @@
       "timestamp": 1785938357
     },
     {
-      "title": "Disney+ looks to TikTok creators to bring fan content to its short-form video feed",
-      "link": "https://techcrunch.com/2026/08/05/disney-looks-to-tiktok-creators-to-bring-fan-content-to-its-short-form-video-feed/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785936103
-    },
-    {
-      "title": "Beaten Path Revealed for PC and Consoles",
-      "link": "https://www.ign.com/articles/beaten-path-revealed-for-pc-and-consoles",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785934800
-    },
-    {
-      "title": "Star Wars: Episode IV — A New Hope Gets Welsh Language Dub",
-      "link": "https://www.ign.com/articles/star-wars-episode-iv-a-new-hope-gets-welsh-language-dub",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785934800
-    },
-    {
       "title": "Mars dust is toxic. How will future astronauts deal with it?",
       "link": "https://www.space.com/astronomy/mars/mars-dust-is-toxic-how-will-future-astronauts-deal-with-it",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785934800
-    },
-    {
-      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-      "link": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785932918
-    },
-    {
-      "title": "Robinhood to list a fund that lets anyone back Y Combinator startups",
-      "link": "https://techcrunch.com/2026/08/05/robinhood-to-list-a-fund-that-lets-anyone-back-y-combinator-startups/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785932632
     },
     {
       "title": "Scientists discover the brain cells that keep you motivated",
@@ -345,32 +401,11 @@
       "timestamp": 1785931200
     },
     {
-      "title": "Disney Admits Live-Action Moana and Star Wars: The Mandalorian and Grogu 'Underperformed,' But Says the Movies Still Helped Shift Plenty of Merchandise",
-      "link": "https://www.ign.com/articles/disney-admits-live-action-moana-and-star-wars-the-mandalorian-and-grogu-underperformed-but-says-the-movies-still-helped-shift-plenty-of-merchandise",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785931074
-    },
-    {
       "title": "80-million-year-old snake brain reveals a surprising evolutionary secret",
       "link": "https://www.sciencedaily.com/releases/2026/08/260804034619.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785930171
-    },
-    {
-      "title": "Pokémon Pokopia Version 2.0.0 Released, and Here Are the Full Patch Notes",
-      "link": "https://www.ign.com/articles/pokmon-pokopia-version-200-released-and-here-are-the-full-patch-notes",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785929235
-    },
-    {
-      "title": "Disney+ Announces Plans to Feature User-Made TikTok Content, Just Days After Emmy-Nominated Wonder Man Cancellation",
-      "link": "https://www.ign.com/articles/disney-announces-plans-to-feature-user-made-tiktok-content-just-days-after-emmy-nominated-wonder-man-cancellation",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785928183
     },
     {
       "title": "Pushing the limits: Infinite Machine's Olto is barely a bicycle",
@@ -464,25 +499,11 @@
       "timestamp": 1785880351
     },
     {
-      "title": "Trump killed the Digital Equity Act but US was forced to bring part of it back",
-      "link": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785878825
-    },
-    {
       "title": "Anthony Davis contract extension: Biggest looming questions as Wizards face massive financial decision",
       "link": "https://www.cbssports.com/nba/news/anthony-davis-contract-extension-wizards-trae-young/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1785876086
-    },
-    {
-      "title": "Texas halts data center connections to power grid amid overwhelming demand",
-      "link": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785875668
     },
     {
       "title": "When a total solar eclipse darkens the sky on Aug. 12, these citizen scientists will be watching",
@@ -504,20 +525,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785865049
-    },
-    {
-      "title": "China is Tesla's cash cow, but for how much longer?",
-      "link": "https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785864888
-    },
-    {
-      "title": "'A very busy mission': SpaceX on track to launch 4 astronauts to the ISS on Sept. 12",
-      "link": "https://www.space.com/space-exploration/international-space-station/a-very-busy-mission-spacex-on-track-to-launch-4-astronauts-to-the-iss-on-sept-12",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785862800
     },
     {
       "title": "Cancer-fighting chewing gum cuts HPV levels by up to 93%",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1785174468
-    },
-    {
-      "title": "The Eastern Conference has finally gained NBA supremacy, and LeBron James only cements that",
-      "link": "https://www.cbssports.com/nba/news/nba-eastern-conference-supremacy-lebron-james/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1785167097
     }
   ]
 }
