@@ -1,6 +1,69 @@
 {
-  "last_updated": 1785922479,
+  "last_updated": 1785931020,
   "items": [
+    {
+      "title": "Pokémon Pokopia Version 2.0.0 Released, And Here Are the Full Patch Notes",
+      "link": "https://www.ign.com/articles/pokmon-pokopia-version-200-released-and-here-are-the-full-patch-notes",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785929235
+    },
+    {
+      "title": "Indian EV startup River raises $120M Series C to scale production, launch more models",
+      "link": "https://techcrunch.com/2026/08/05/indian-ev-two-wheeler-startup-river-raises-120m-after-scaling-with-one-model/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785929160
+    },
+    {
+      "title": "Disney+ Announces Plans to Feature User-Made TikTok Content, Just Days After Emmy-Nominated Wonder Man Cancellation",
+      "link": "https://www.ign.com/articles/disney-announces-plans-to-feature-user-made-tiktok-content-just-days-after-emmy-nominated-wonder-man-cancellation",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785928183
+    },
+    {
+      "title": "Pushing the limits: Infinite Machine's Olto is barely a bicycle",
+      "link": "https://arstechnica.com/cars/2026/08/pushing-the-limits-infinite-machines-olto-is-barely-a-bicycle/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1785927626
+    },
+    {
+      "title": "Saudi Aramco backs India’s Mitti Labs to make Asia’s rice farming more water-resilient",
+      "link": "https://techcrunch.com/2026/08/05/saudi-aramco-backs-indias-mitti-labs-to-make-asias-rice-farming-more-water-resilient/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785927600
+    },
+    {
+      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+      "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1785927600
+    },
+    {
+      "title": "Heading to Europe or the U.K. for the Aug. 12 solar eclipse? Best eclipse glasses to buy before you leave — or after you arrive",
+      "link": "https://www.space.com/stargazing/skywatching-kit/heading-to-europe-or-the-u-k-for-the-aug-12-solar-eclipse-best-eclipse-glasses-to-buy-before-you-leave-or-after-you-arrive",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1785925207
+    },
+    {
+      "title": "'It Seems a Little Open-Ended': Spider-Man: Brand New Day's Jacob Batalon Discusses The Movie's Big Moment Between Peter and Ned",
+      "link": "https://www.ign.com/articles/it-seems-a-little-open-ended-spider-man-brand-new-days-jacob-batalon-discusses-the-movies-big-moment-between-peter-and-ned",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785925146
+    },
+    {
+      "title": "With Avatar's Future Still Uncertain, James Cameron Now Says He Wants to Prioritize 'Other Stories' For the 'Last Act' of His Career",
+      "link": "https://www.ign.com/articles/with-avatars-future-still-uncertain-james-cameron-now-says-he-wants-to-prioritize-other-stories-for-the-last-act-of-his-career",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1785923062
+    },
     {
       "title": "Wispr Flow launches a Granola-styled meeting notetaker",
       "link": "https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/",
@@ -261,39 +324,11 @@
       "timestamp": 1785864054
     },
     {
-      "title": "TV Time co-founder launches Bingers to revive the beloved TV-tracking app",
-      "link": "https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785863148
-    },
-    {
       "title": "'A very busy mission': SpaceX on track to launch 4 astronauts to the ISS on Sept. 12",
       "link": "https://www.space.com/space-exploration/international-space-station/a-very-busy-mission-spacex-on-track-to-launch-4-astronauts-to-the-iss-on-sept-12",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785862800
-    },
-    {
-      "title": "The RAM Crisis Seems to Be Expanding to Motherboards Now",
-      "link": "https://www.ign.com/articles/the-ram-crisis-seems-to-be-expanding-to-motherboards-now",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785862800
-    },
-    {
-      "title": "'Obviously It's Hugely Disappointing': Doctor Who Ex-Showrunner Says That Solving The Show's 'Knotty Problems' Will Take 'Time'",
-      "link": "https://www.ign.com/articles/obviously-its-hugely-disappointing-doctor-who-ex-showrunner-says-that-solving-the-shows-knotty-problems-will-take-time",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785862418
-    },
-    {
-      "title": "Hackers steal over $130M by exploiting bug in offline hardware wallets",
-      "link": "https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785860879
     },
     {
       "title": "The Pixel 11's \"glow\" feature is actually called HiLight—here's what it does",
@@ -310,32 +345,11 @@
       "timestamp": 1785859093
     },
     {
-      "title": "'It Would Be a Real Shame for That Culture to Disappear': Final Fantasy 7 Revelation Director Says Physical Game Releases Must Continue",
-      "link": "https://www.ign.com/articles/it-would-be-a-real-shame-for-that-culture-to-disappear-final-fantasy-7-revelation-director-says-physical-game-releases-must-continue",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785858694
-    },
-    {
       "title": "Tom DeLay helped create TV ownership cap—he says Trump FCC has no authority to repeal it",
       "link": "https://arstechnica.com/tech-policy/2026/08/can-trump-fcc-repeal-39-tv-ownership-cap-republican-who-wrote-cap-into-law-says-no/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785858660
-    },
-    {
-      "title": "Spotify expands AI remix and covers project with Merlin partnership",
-      "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785858606
-    },
-    {
-      "title": "Gears of War: E-Day Open Beta Leads Xbox Game Pass August 2026 Lineup",
-      "link": "https://www.ign.com/articles/gears-of-war-e-day-open-beta-leads-xbox-game-pass-august-2026-lineup",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785857091
     },
     {
       "title": "Trump admin \"aware\" of deaths in explosive diarrhea outbreak, delays reporting",
@@ -464,13 +478,6 @@
       "timestamp": 1785795099
     },
     {
-      "title": "CNN dives into how Elon Musk and Jeff Bezos are backing NASA's race to the moon against China (exclusive clip)",
-      "link": "https://www.space.com/entertainment/cnn-dives-into-how-elon-musk-and-jeff-bezos-are-backing-nasas-race-to-the-moon-against-china-exclusive-clip",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785794400
-    },
-    {
       "title": "Research roundup: 6 cool science stories we almost missed",
       "link": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
       "source": "ARSTECHNICA",
@@ -518,13 +525,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785764284
-    },
-    {
-      "title": "Trump wants the power to stop the public from suing polluters",
-      "link": "https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785764036
     },
     {
       "title": "Ancient Arctic carbon is pouring into the sea, but the seabed captures most of it",
