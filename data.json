@@ -1,12 +1,124 @@
 {
-  "last_updated": 1786015222,
+  "last_updated": 1786024753,
   "items": [
+    {
+      "title": "Death of Physical Games Will Not Have a 'Significant Impact' On Sales, Resident Evil Publisher Capcom Says",
+      "link": "https://www.ign.com/articles/death-of-physical-games-will-not-have-a-significant-impact-on-sales-resident-evil-publisher-capcom-says",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786023849
+    },
+    {
+      "title": "Amid legal battles, Suno says it will start watermarking songs",
+      "link": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786023117
+    },
+    {
+      "title": "Ford’s new electric truck, ‘Fathom’, starts at $28,350",
+      "link": "https://techcrunch.com/2026/08/06/fords-new-electric-truck-fathom-starts-at-28350/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786021285
+    },
+    {
+      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+      "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786021200
+    },
+    {
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+      "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786021200
+    },
+    {
+      "title": "SpaceX’s Falcon 9 wasn't the first rocket to crash into the moon. Here's a rundown",
+      "link": "https://www.space.com/astronomy/moon/rocket-peppered-moon-a-brief-history-of-impacts-from-luna-2-to-spacexs-upper-stage",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786021200
+    },
+    {
+      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+      "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786019400
+    },
+    {
+      "title": "A star’s violent death exposed a hidden supermassive black hole",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260805082457.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786018592
+    },
+    {
+      "title": "Cell-inspired nanoreactor turns sunlight into hydrogen peroxide",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786017782
+    },
+    {
+      "title": "Grand Theft Auto 6: An Extended Look Premieres on Netflix This Month, Rockstar Confirms",
+      "link": "https://www.ign.com/articles/grand-theft-auto-6-an-extended-look-premieres-on-netflix-this-month-rockstar-confirms",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786017769
+    },
+    {
+      "title": "Omilia raises $67M to scale its customer support platform",
+      "link": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786017600
+    },
+    {
+      "title": "Memory Shortage Sees 2027 Production Reportedly Sold Out, as Demand Far Outstrips Supply",
+      "link": "https://www.ign.com/articles/memory-shortage-sees-2027-production-reportedly-sold-out-as-demand-far-outstrips-supply",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786017558
+    },
+    {
+      "title": "AI isn’t enough to protect social media communities from AI",
+      "link": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786014044
+    },
+    {
+      "title": "Japanese Anime Fan Arrested After Canceling Naruto and One Piece Merchandise Orders Worth $2.7 Million",
+      "link": "https://www.ign.com/articles/japanese-anime-fan-arrested-after-canceling-naruto-and-one-piece-merchandise-orders-worth-27-million",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786013886
+    },
     {
       "title": "Roblox Blames Falling Player Numbers and In-Game Spending on Its Push to Recommend Less Slop to Kids — And There Being No Replacement for Last Year's Viral Hit Grow a Garden",
       "link": "https://www.ign.com/articles/roblox-blames-falling-player-numbers-and-in-game-spending-on-its-push-to-recommend-less-slop-to-kids-and-there-being-no-replacement-for-last-years-viral-hit-grow-a-garden",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1786013342
+    },
+    {
+      "title": "Nearly half of dementia cases may be linked to risks you can change",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260803080923.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786011826
+    },
+    {
+      "title": "A drug already used for osteoporosis blocked spinal damage in a new study",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786009821
     },
     {
       "title": "The U.S. Government's Mario, Pokémon and Naruto Meme Posting Could Damage These Franchises, Japanese Officials Warn",
@@ -35,6 +147,13 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785999600
+    },
+    {
+      "title": "Forget the sperm race: Fertilization may depend on teamwork",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260805082455.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1785997507
     },
     {
       "title": "Where will the total solar eclipse 2026 be visible from?",
@@ -184,13 +303,6 @@
       "timestamp": 1785963045
     },
     {
-      "title": "Scalping Has Gotten So Bad That The Pokemon Company Is Limiting Certain TCG Packs to Japanese Citizens Only",
-      "link": "https://www.ign.com/articles/scalping-has-gotten-so-bad-that-the-pokemon-company-is-limiting-certain-tcg-packs-to-japanese-citizens-only",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785962963
-    },
-    {
       "title": "How Lightspeed found its newest hire … via Instagram DM",
       "link": "https://techcrunch.com/2026/08/05/how-lightspeed-found-its-newest-hire-via-instagram-dm/",
       "source": "TECHCRUNCH",
@@ -210,20 +322,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785962831
-    },
-    {
-      "title": "T-Mobile Launches New Student Discounts for Wireless Plans That Include Netflix, Apple TV, and Hulu",
-      "link": "https://www.ign.com/articles/t-mobile-launches-new-wireless-student-plans-that-include-netflix-apple-tv-and-hulu",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785961920
-    },
-    {
-      "title": "Xbox Is Planning Its Own Version of the Platinum Trophy",
-      "link": "https://www.ign.com/articles/xbox-is-planning-its-own-version-of-the-platinum-trophy",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785961314
     },
     {
       "title": "NBPA opens new state-of-the-art facility in Los Angeles: 'We literally do not have to go anywhere else'",
@@ -252,13 +350,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785959500
-    },
-    {
-      "title": "Russo Brothers Congratulate Spider-Man: Brand New Day on Box Office Record",
-      "link": "https://www.ign.com/articles/spider-man-brand-new-day-box-office-record-russo-brothers",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1785958958
     },
     {
       "title": "SpaceX claims Starlink Mobile will be better than AT&T, T-Mobile, and Verizon",
@@ -310,20 +401,6 @@
       "timestamp": 1785953471
     },
     {
-      "title": "Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools",
-      "link": "https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785952840
-    },
-    {
-      "title": "Lucid Motors just delayed its affordable EV. Now what?",
-      "link": "https://techcrunch.com/2026/08/05/lucid-motors-just-delayed-its-affordable-ev-now-what/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785952665
-    },
-    {
       "title": "A SpaceX rocket just crashed into the moon. Now, the race is on to get a look at the impact site",
       "link": "https://www.space.com/astronomy/moon/a-spacex-rocket-just-crashed-into-the-moon-now-the-race-is-on-to-get-a-look-at-the-impact-site",
       "source": "SPACE",
@@ -338,25 +415,11 @@
       "timestamp": 1785949959
     },
     {
-      "title": "Meet the eight startups pitching at Startup Battlefield Australia",
-      "link": "https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785949320
-    },
-    {
       "title": "EVgo starts building Tesla Superchargers under license",
       "link": "https://arstechnica.com/cars/2026/08/evgo-starts-building-tesla-superchargers-under-license/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1785949238
-    },
-    {
-      "title": "PSA: Apple’s Private Relay can leak your real IP address",
-      "link": "https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785948749
     },
     {
       "title": "D-Wave shows off its new entry in quantum computing race",
@@ -371,20 +434,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1785945600
-    },
-    {
-      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-      "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785945374
-    },
-    {
-      "title": "Hark previews its browser use agent for completing tasks",
-      "link": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1785944787
     },
     {
       "title": "Google plans to kill Assistant on your phone on September 4",
@@ -448,13 +497,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785930171
-    },
-    {
-      "title": "Pushing the limits: Infinite Machine's Olto is barely a bicycle",
-      "link": "https://arstechnica.com/cars/2026/08/pushing-the-limits-infinite-machines-olto-is-barely-a-bicycle/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785927626
     },
     {
       "title": "This school-bus-sized “terror croc” ate dinosaurs. Now it’s back",
@@ -541,53 +583,11 @@
       "timestamp": 1785876086
     },
     {
-      "title": "When a total solar eclipse darkens the sky on Aug. 12, these citizen scientists will be watching",
-      "link": "https://www.space.com/stargazing/solar-eclipses/when-a-total-solar-eclipse-darkens-the-sky-on-aug-12-these-citizen-scientists-will-be-watching",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785866400
-    },
-    {
       "title": "Cancer-fighting chewing gum cuts HPV levels by up to 93%",
       "link": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785850417
-    },
-    {
-      "title": "518-million-year-old creature reveals the origins of spider fangs",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260803080906.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785849490
-    },
-    {
-      "title": "These underwater bones could solve a mystery about extinct giants",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260802223428.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785845563
-    },
-    {
-      "title": "Strange quantum experiment shows “negative time” is more than an illusion",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785843898
-    },
-    {
-      "title": "DNA on the Shroud of Turin reveals centuries of hidden history",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260803080859.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785836961
-    },
-    {
-      "title": "Your brain may be wired to regain lost weight",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785814708
     },
     {
       "title": "NBA odds: LeBron James joins 76ers, shifting 2026-27 title and Eastern Conference futures markets",
