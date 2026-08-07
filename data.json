@@ -1,6 +1,20 @@
 {
-  "last_updated": 1786124762,
+  "last_updated": 1786128663,
   "items": [
+    {
+      "title": "Inside the mystery of the James Webb Space Telescope's little red dots — and how they might be evolving",
+      "link": "https://www.space.com/astronomy/james-webb-space-telescope/inside-the-mystery-of-the-james-webb-space-telescopes-little-red-dots-and-how-they-might-be-evolving",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786125600
+    },
+    {
+      "title": "Sadie Sink Finally Discusses Secret Spider-Man Role, Teases Conversations With Marvel for What's Next",
+      "link": "https://www.ign.com/articles/sadie-sink-finally-discusses-secret-spider-man-role-teases-conversations-with-marvel-for-whats-next",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786125399
+    },
     {
       "title": "How to safely observe eclipses and the solar surface with a smart telescope",
       "link": "https://www.space.com/stargazing/skywatching-kit/how-to-safely-observe-eclipses-and-the-solar-surface-with-a-smart-telescope",
@@ -387,13 +401,6 @@
       "timestamp": 1786051480
     },
     {
-      "title": "Sam Neill to Play Role in Sony Pictures' Legend of Zelda Movie, Dichen Lachman and Yvonne Strahovski Also Confirmed",
-      "link": "https://www.ign.com/articles/sam-neill-to-play-role-in-sony-pictures-legend-of-zelda-movie",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786049316
-    },
-    {
       "title": "X wants to keep suing advertisers, asks 5th Circuit to overrule district judge",
       "link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-x-isnt-done-suing-advertisers-asks-court-to-revive-boycott-case/",
       "source": "ARSTECHNICA",
@@ -513,13 +520,6 @@
       "timestamp": 1786028400
     },
     {
-      "title": "On this day in space! Aug. 6, 2012: NASA lands huge Curiosity rover on Mars with a rocket-powered sky crane",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-6-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786024800
-    },
-    {
       "title": "Mars rover watches Earth disappear behind Phobos | Space photo of the day for Aug. 6, 2025",
       "link": "https://www.space.com/space-exploration/mars-rovers/mars-rover-watches-earth-disappear-behind-phobos-space-photo-of-the-day-for-aug-6-2025",
       "source": "SPACE",
@@ -527,11 +527,11 @@
       "timestamp": 1786024800
     },
     {
-      "title": "SpaceX’s Falcon 9 wasn't the first rocket to crash into the moon. Here's a rundown",
-      "link": "https://www.space.com/astronomy/moon/rocket-peppered-moon-a-brief-history-of-impacts-from-luna-2-to-spacexs-upper-stage",
+      "title": "On this day in space! Aug. 6, 2012: NASA lands huge Curiosity rover on Mars with a rocket-powered sky crane",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-6-2026",
       "source": "SPACE",
       "category": "space",
-      "timestamp": 1786021200
+      "timestamp": 1786024800
     },
     {
       "title": "A star’s violent death exposed a hidden supermassive black hole",
