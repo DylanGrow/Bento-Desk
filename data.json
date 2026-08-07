@@ -1,12 +1,33 @@
 {
-  "last_updated": 1786121447,
+  "last_updated": 1786124762,
   "items": [
+    {
+      "title": "How to safely observe eclipses and the solar surface with a smart telescope",
+      "link": "https://www.space.com/stargazing/skywatching-kit/how-to-safely-observe-eclipses-and-the-solar-surface-with-a-smart-telescope",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786122000
+    },
+    {
+      "title": "Take-Two Boss Predicts Actual Good Video Game Streaming Within 3 Years, Says for Streaming to Matter It Would Have to Run GTA 6 as Well as Consoles",
+      "link": "https://www.ign.com/articles/take-two-boss-predicts-actual-good-video-game-streaming-within-3-years-says-for-streaming-to-matter-it-would-have-to-run-gta-6-as-well-as-consoles",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786120107
+    },
     {
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1786119369
+    },
+    {
+      "title": "Asmongold Banned Again on Twitch Following 'Violation of Community Guidelines'",
+      "link": "https://www.ign.com/articles/asmongold-banned-again-on-twitch-following-violation-of-community-guidelines",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786119162
     },
     {
       "title": "Computer maker Framework notifies ‘all customers’ of a data breach",
@@ -107,7 +128,7 @@
       "timestamp": 1786111651
     },
     {
-      "title": "Fortnite is Keeping Sprites for Next Season, a Gaming-Themed Crossover Expected to Feature Sonic, Persona and Tetris",
+      "title": "Fortnite Is Keeping Sprites for Next Season, a Gaming-Themed Crossover Expected to Feature Sonic, Persona, and Tetris",
       "link": "https://www.ign.com/articles/fortnite-is-keeping-sprites-for-next-season-a-gaming-themed-crossover-expected-to-feature-sonic-persona-and-tetris",
       "source": "IGN",
       "category": "gaming",
@@ -401,25 +422,11 @@
       "timestamp": 1786046624
     },
     {
-      "title": "Hideki Kamiya Reveals Spider-Man 2 Scene That Inspired Key Game Sequence in Okami",
-      "link": "https://www.ign.com/articles/hideki-kamiya-reveals-spider-man-2-scene-that-inspired-key-game-sequence-in-okami",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786045801
-    },
-    {
       "title": "Google says hackers are calling financial firm employees to hack and extort victims",
       "link": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1786045246
-    },
-    {
-      "title": "The Legend of Zelda Movie Casts Uli Latukefu as Ganondorf",
-      "link": "https://www.ign.com/articles/the-legend-of-zelda-movie-casts-uli-latukefu-as-ganondorf",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786044551
     },
     {
       "title": "China-linked LightSpy spyware caught targeting victims in 13 countries, including the US",
@@ -506,15 +513,15 @@
       "timestamp": 1786028400
     },
     {
-      "title": "Mars rover watches Earth disappear behind Phobos | Space photo of the day for Aug. 6, 2025",
-      "link": "https://www.space.com/space-exploration/mars-rovers/mars-rover-watches-earth-disappear-behind-phobos-space-photo-of-the-day-for-aug-6-2025",
+      "title": "On this day in space! Aug. 6, 2012: NASA lands huge Curiosity rover on Mars with a rocket-powered sky crane",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-6-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786024800
     },
     {
-      "title": "On this day in space! Aug. 6, 2012: NASA lands huge Curiosity rover on Mars with a rocket-powered sky crane",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-6-2026",
+      "title": "Mars rover watches Earth disappear behind Phobos | Space photo of the day for Aug. 6, 2025",
+      "link": "https://www.space.com/space-exploration/mars-rovers/mars-rover-watches-earth-disappear-behind-phobos-space-photo-of-the-day-for-aug-6-2025",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786024800
@@ -553,13 +560,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1786009821
-    },
-    {
-      "title": "Plan your perfect 2026 total solar eclipse experience with these smartphone apps",
-      "link": "https://www.space.com/stargazing/solar-eclipses/plan-your-perfect-2026-total-solar-eclipse-experience-with-these-smartphone-apps",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785999600
     },
     {
       "title": "Forget the sperm race: Fertilization may depend on teamwork",
