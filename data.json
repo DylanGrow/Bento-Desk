@@ -1,6 +1,69 @@
 {
-  "last_updated": 1786111862,
+  "last_updated": 1786117970,
   "items": [
+    {
+      "title": "Today’s the last day to get $400 off your TechCrunch Disrupt 2026 ticket",
+      "link": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-400-off-your-techcrunch-disrupt-2026-ticket/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786117953
+    },
+    {
+      "title": "Trump administration has spent nearly $4B to cancel offshore wind farms",
+      "link": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786115463
+    },
+    {
+      "title": "Chinese company Landspace targets Aug. 10 for historic rocket launch and landing attempt",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/chinese-company-landspace-targets-aug-10-for-historic-rocket-launch-and-landing-attempt",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786114800
+    },
+    {
+      "title": "Report: White House drafting executive order linking vaccines and autism",
+      "link": "https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786113694
+    },
+    {
+      "title": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786113000
+    },
+    {
+      "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
+      "link": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786112911
+    },
+    {
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786112569
+    },
+    {
+      "title": "'Pricing Has Not Kept Pace With Inflation' — Take-Two Boss Insists Rockstar Got GTA 6 Standard and Ultimate Edition Price Points Right",
+      "link": "https://www.ign.com/articles/pricing-has-not-kept-pace-with-inflation-take-two-boss-insists-rockstar-got-gta-6-standard-and-ultimate-edition-price-points-right",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786112546
+    },
+    {
+      "title": "On this day in space! Aug. 7, 1980: NASA's Viking 1 Mars orbiter shuts down 4 years into a 90-day mission",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-7-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786112091
+    },
     {
       "title": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
       "link": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
@@ -9,11 +72,25 @@
       "timestamp": 1786111651
     },
     {
+      "title": "Fortnite is Keeping Sprites for Next Season, a Gaming-Themed Crossover Expected to Feature Sonic, Persona and Tetris",
+      "link": "https://www.ign.com/articles/fortnite-is-keeping-sprites-for-next-season-a-gaming-themed-crossover-expected-to-feature-sonic-persona-and-tetris",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786111340
+    },
+    {
       "title": "Cosmic treasure chest explodes with baby stars | Space photo of the day for Aug. 7, 2026",
       "link": "https://www.space.com/astronomy/james-webb-space-telescope/cosmic-treasure-chest-explodes-with-baby-stars-space-photo-of-the-day-for-aug-7-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786111200
+    },
+    {
+      "title": "AI chatbots have failed people in crisis. Can that be fixed?",
+      "link": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786110577
     },
     {
       "title": "ByteDance trains massive AI model in bid to rival Anthropic",
@@ -254,13 +331,6 @@
       "timestamp": 1786051480
     },
     {
-      "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until tomorrow",
-      "link": "https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786051200
-    },
-    {
       "title": "Sam Neill to Play Role in Sony Pictures' Legend of Zelda Movie, Dichen Lachman and Yvonne Strahovski Also Confirmed",
       "link": "https://www.ign.com/articles/sam-neill-to-play-role-in-sony-pictures-legend-of-zelda-movie",
       "source": "IGN",
@@ -345,13 +415,6 @@
       "timestamp": 1786042230
     },
     {
-      "title": "Three First Print Copies of Pokemon Red, Blue, and Yellow Sell for $2 Million in Second-Largest Video Game Transaction Ever",
-      "link": "https://www.ign.com/articles/three-first-print-copies-of-pokemon-red-blue-and-yellow-sell-for-2-million-in-second-largest-video-game-transaction-ever",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786041661
-    },
-    {
       "title": "Anthony Davis contract extension on hold as Wizards and veteran star will save talks for season, per report",
       "link": "https://www.cbssports.com/nba/news/anthony-davis-contract-extension-on-hold-wizards/",
       "source": "CBSSPORTS",
@@ -364,13 +427,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786041246
-    },
-    {
-      "title": "'This Is Unbelievably Scummy' - GTA 6 Fans Are Annoyed By Netflix's Paywalled Extended Look at the Game",
-      "link": "https://www.ign.com/articles/this-is-unbelievably-scummy-gta-6-fans-are-annoyed-by-netflixs-paywalled-extended-look-at-the-game",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786040454
     },
     {
       "title": "Blue Origin narrowing in on root cause of catastrophic rocket accident",
@@ -394,32 +450,11 @@
       "timestamp": 1786037987
     },
     {
-      "title": "ChatGPT brings unlimited text chats to free users",
-      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786037682
-    },
-    {
       "title": "Parasitic zombie-ant fungus thrives in mosses, too",
       "link": "https://arstechnica.com/science/2026/08/parasitic-zombie-fungus-thrives-in-mosses-too/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1786036425
-    },
-    {
-      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-      "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786035637
-    },
-    {
-      "title": "Hacker pleads guilty to stealing data from more than 165 Snowflake customers",
-      "link": "https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786034560
     },
     {
       "title": "Trump FCC kills TV ownership cap, claiming authority over limit set by Congress",
@@ -434,20 +469,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1786033866
-    },
-    {
-      "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
-      "link": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786032930
-    },
-    {
-      "title": "TikTok lays off 250 employees, shutters its Nashville office",
-      "link": "https://techcrunch.com/2026/08/06/tiktok-lays-off-250-employees-shutters-its-nashville-office/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786032400
     },
     {
       "title": "'Strange New Worlds' latest 'Hangover'-inspired episode is a reminder that 'Star Trek' vacations are never a good idea",
@@ -471,13 +492,6 @@
       "timestamp": 1786028400
     },
     {
-      "title": "On this day in space! Aug. 6, 2012: NASA lands huge Curiosity rover on Mars with a rocket-powered sky crane",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-6-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786024800
-    },
-    {
       "title": "Mars rover watches Earth disappear behind Phobos | Space photo of the day for Aug. 6, 2025",
       "link": "https://www.space.com/space-exploration/mars-rovers/mars-rover-watches-earth-disappear-behind-phobos-space-photo-of-the-day-for-aug-6-2025",
       "source": "SPACE",
@@ -485,11 +499,11 @@
       "timestamp": 1786024800
     },
     {
-      "title": "Ford picks \"Fathom\" for its affordable truck name, starts at $28,350",
-      "link": "https://arstechnica.com/cars/2026/08/ford-picks-fathom-for-its-affordable-truck-name-starts-at-28350/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786021244
+      "title": "On this day in space! Aug. 6, 2012: NASA lands huge Curiosity rover on Mars with a rocket-powered sky crane",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-6-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786024800
     },
     {
       "title": "SpaceX’s Falcon 9 wasn't the first rocket to crash into the moon. Here's a rundown",
@@ -581,20 +595,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1785960904
-    },
-    {
-      "title": "The 'Dark Matter' season 2 trailer is here, and it looks like Apple TV has another sci-fi hit on its hands",
-      "link": "https://www.space.com/entertainment/space-movies-shows/the-dark-matter-season-2-trailer-is-here-and-it-looks-like-apple-tv-has-another-sci-fi-hit-on-its-hands",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785956400
-    },
-    {
-      "title": "A SpaceX rocket just crashed into the moon. Now, the race is on to get a look at the impact site",
-      "link": "https://www.space.com/astronomy/moon/a-spacex-rocket-just-crashed-into-the-moon-now-the-race-is-on-to-get-a-look-at-the-impact-site",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785951810
     },
     {
       "title": "Kevin Durant fires Klay Thompson stray amid ridiculous Warriors-76ers comparison",
