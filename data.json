@@ -1,12 +1,75 @@
 {
-  "last_updated": 1786107330,
+  "last_updated": 1786111862,
   "items": [
+    {
+      "title": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
+      "link": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786111651
+    },
+    {
+      "title": "Cosmic treasure chest explodes with baby stars | Space photo of the day for Aug. 7, 2026",
+      "link": "https://www.space.com/astronomy/james-webb-space-telescope/cosmic-treasure-chest-explodes-with-baby-stars-space-photo-of-the-day-for-aug-7-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786111200
+    },
+    {
+      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+      "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786109362
+    },
+    {
+      "title": "Take-Two Boss Defends No Disc Version of GTA 6, Equates Physical Releases to Vinyl Records",
+      "link": "https://www.ign.com/articles/take-two-boss-defends-no-disc-version-of-gta-6-equates-physical-releases-to-vinyl-records",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786108959
+    },
+    {
+      "title": "The world's biggest solar telescope caught vortexes on the Sun's surface",
+      "link": "https://arstechnica.com/science/2026/08/the-worlds-biggest-solar-telescope-caught-vortexes-on-the-suns-surface/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786108846
+    },
+    {
+      "title": "Trump is losing his war on wind power",
+      "link": "https://arstechnica.com/science/2026/08/trump-is-losing-his-war-on-wind-power/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786107484
+    },
+    {
+      "title": "Rookie QBs Carson Beck, Haynes King shine in Hall of Fame Game; MLB playoff predictions",
+      "link": "https://www.cbssports.com/nfl/news/rookie-qbs-carson-beck-haynes-king-shine-in-hall-of-fame-game-mlb-playoff-predictions/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1786107255
+    },
+    {
+      "title": "New autism therapy shows surprising benefits even in adult mice",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260805082508.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786106310
+    },
     {
       "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
       "link": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1786105800
+    },
+    {
+      "title": "Kawhi Leonard had second secret endorsement deal Clippers allegedly used to circumvent salary cap, per report",
+      "link": "https://www.cbssports.com/nba/news/kawhi-leonard-daktronics-clippers-salary-cap-circumvention/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1786105704
     },
     {
       "title": "The UK is about to witness its most spectacular solar eclipse in 11 years. Here's what you need to know",
@@ -35,6 +98,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1786102200
+    },
+    {
+      "title": "Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260806050722.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786101481
     },
     {
       "title": "Remembering the pre-Google web, when search was an experiment",
@@ -310,13 +380,6 @@
       "timestamp": 1786040432
     },
     {
-      "title": "The Warrior Cats Books are Finally Getting a Major Video Game Adaptation",
-      "link": "https://www.ign.com/articles/the-warrior-cats-books-are-finally-getting-a-major-video-game-adaptation",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786039710
-    },
-    {
       "title": "Ford needs another Taurus, and the $30K Fathom EV pickup isn’t it",
       "link": "https://techcrunch.com/2026/08/06/ford-needs-another-taurus-and-the-30k-fathom-ev-pickup-isnt-it/",
       "source": "TECHCRUNCH",
@@ -387,13 +450,6 @@
       "timestamp": 1786032400
     },
     {
-      "title": "Google Wallet now lets parents set up secure balances for their kids",
-      "link": "https://techcrunch.com/2026/08/06/google-wallet-now-lets-parents-set-up-secure-balances-for-their-kids/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786032000
-    },
-    {
       "title": "'Strange New Worlds' latest 'Hangover'-inspired episode is a reminder that 'Star Trek' vacations are never a good idea",
       "link": "https://www.space.com/entertainment/space-movies-shows/strange-new-worlds-latest-hangover-inspired-episode-is-a-reminder-that-star-trek-vacations-are-never-a-good-idea",
       "source": "SPACE",
@@ -415,15 +471,15 @@
       "timestamp": 1786028400
     },
     {
-      "title": "Mars rover watches Earth disappear behind Phobos | Space photo of the day for Aug. 6, 2025",
-      "link": "https://www.space.com/space-exploration/mars-rovers/mars-rover-watches-earth-disappear-behind-phobos-space-photo-of-the-day-for-aug-6-2025",
+      "title": "On this day in space! Aug. 6, 2012: NASA lands huge Curiosity rover on Mars with a rocket-powered sky crane",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-6-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786024800
     },
     {
-      "title": "On this day in space! Aug. 6, 2012: NASA lands huge Curiosity rover on Mars with a rocket-powered sky crane",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-6-2026",
+      "title": "Mars rover watches Earth disappear behind Phobos | Space photo of the day for Aug. 6, 2025",
+      "link": "https://www.space.com/space-exploration/mars-rovers/mars-rover-watches-earth-disappear-behind-phobos-space-photo-of-the-day-for-aug-6-2025",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786024800
@@ -455,13 +511,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1786017782
-    },
-    {
-      "title": "AI isn’t enough to protect social media communities from AI",
-      "link": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786014044
     },
     {
       "title": "Nearly half of dementia cases may be linked to risks you can change",
@@ -520,20 +569,6 @@
       "timestamp": 1785972531
     },
     {
-      "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
-      "link": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785969320
-    },
-    {
-      "title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
-      "link": "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1785963798
-    },
-    {
       "title": "'Warhammer 40,000' animated series coming to Prime Video, with Henry Cavill onboard as executive producer",
       "link": "https://www.space.com/entertainment/space-movies-shows/warhammer-40-000-animated-series-coming-to-prime-video-with-henry-cavill-onboard-as-executive-producer",
       "source": "SPACE",
@@ -562,13 +597,6 @@
       "timestamp": 1785951810
     },
     {
-      "title": "Astronomers witness the strange final moments of a massive star's supernova death (video)",
-      "link": "https://www.space.com/astronomy/stars/astronomers-witness-the-strange-final-moments-of-a-massive-stars-supernova-death-video",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1785945600
-    },
-    {
       "title": "Kevin Durant fires Klay Thompson stray amid ridiculous Warriors-76ers comparison",
       "link": "https://www.cbssports.com/nba/news/kevin-durant-klay-thompson-stray-warriors-76ers-comparison/",
       "source": "CBSSPORTS",
@@ -581,20 +609,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1785931788
-    },
-    {
-      "title": "80-million-year-old snake brain reveals a surprising evolutionary secret",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260804034619.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785930171
-    },
-    {
-      "title": "This school-bus-sized “terror croc” ate dinosaurs. Now it’s back",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260801093740.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1785927056
     },
     {
       "title": "Anthony Davis contract extension: Biggest looming questions as Wizards face massive financial decision",
@@ -658,20 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1785329636
-    },
-    {
-      "title": "Draymond Green re-signs with Warriors, explains why he thinks LeBron James didn't come to Golden State",
-      "link": "https://www.cbssports.com/nba/news/draymond-green-warriors-contract-lebron-james/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1785274589
-    },
-    {
-      "title": "Vita Vea's possible landing spots; NBA offseason grades 2.0 after LeBron James' decision",
-      "link": "https://www.cbssports.com/nfl/news/vita-vea-nba-offseason-grades-lebron-james/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1785243454
     }
   ]
 }
