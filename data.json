@@ -1,6 +1,27 @@
 {
-  "last_updated": 1786128663,
+  "last_updated": 1786132222,
   "items": [
+    {
+      "title": "NASA figured out how to keep its 48-year-old Voyager 2 probe running for yet another year",
+      "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786129200
+    },
+    {
+      "title": "Kawhi Leonard investigation lingering questions: How bad can things get for Steve Ballmer and the Clippers?",
+      "link": "https://www.cbssports.com/nba/news/kawhi-leonard-investigation-clippers-raptors-steve-ballmer-daktronics/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1786127368
+    },
+    {
+      "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
+      "link": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786125602
+    },
     {
       "title": "Inside the mystery of the James Webb Space Telescope's little red dots — and how they might be evolving",
       "link": "https://www.space.com/astronomy/james-webb-space-telescope/inside-the-mystery-of-the-james-webb-space-telescopes-little-red-dots-and-how-they-might-be-evolving",
@@ -14,6 +35,34 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1786125399
+    },
+    {
+      "title": "DOGE's wild, unverifiable savings claims discredited in US government report",
+      "link": "https://arstechnica.com/tech-policy/2026/08/doges-inflated-wall-of-receipts-96-of-grant-savings-unverifiable-gao-says/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786125065
+    },
+    {
+      "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+      "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786124182
+    },
+    {
+      "title": "How snails engineer their slime",
+      "link": "https://arstechnica.com/science/2026/08/how-snails-engineer-their-slime/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786123520
+    },
+    {
+      "title": "Volkswagen plans to win America back with a pickup, report says",
+      "link": "https://arstechnica.com/cars/2026/08/volkswagen-plans-to-win-america-back-with-a-pickup-report-says/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786122811
     },
     {
       "title": "How to safely observe eclipses and the solar surface with a smart telescope",
@@ -443,13 +492,6 @@
       "timestamp": 1786044150
     },
     {
-      "title": "Large genome models used to design new viruses",
-      "link": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786043097
-    },
-    {
       "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
       "link": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
       "source": "TECHCRUNCH",
@@ -469,34 +511,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786041246
-    },
-    {
-      "title": "Blue Origin narrowing in on root cause of catastrophic rocket accident",
-      "link": "https://arstechnica.com/space/2026/08/blue-origin-narrowing-in-on-root-cause-of-catastrophic-rocket-accident/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786040432
-    },
-    {
-      "title": "Parasitic zombie-ant fungus thrives in mosses, too",
-      "link": "https://arstechnica.com/science/2026/08/parasitic-zombie-fungus-thrives-in-mosses-too/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786036425
-    },
-    {
-      "title": "Trump FCC kills TV ownership cap, claiming authority over limit set by Congress",
-      "link": "https://arstechnica.com/tech-policy/2026/08/trump-fcc-kills-tv-ownership-cap-claiming-authority-over-limit-set-by-congress/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786034458
-    },
-    {
-      "title": "Moderna's mRNA flu shot earns FDA approval after rollercoaster review",
-      "link": "https://arstechnica.com/health/2026/08/modernas-mrna-flu-shot-earns-fda-approval-after-rollercoaster-review/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786033866
     },
     {
       "title": "'Strange New Worlds' latest 'Hangover'-inspired episode is a reminder that 'Star Trek' vacations are never a good idea",
@@ -522,13 +536,6 @@
     {
       "title": "Mars rover watches Earth disappear behind Phobos | Space photo of the day for Aug. 6, 2025",
       "link": "https://www.space.com/space-exploration/mars-rovers/mars-rover-watches-earth-disappear-behind-phobos-space-photo-of-the-day-for-aug-6-2025",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786024800
-    },
-    {
-      "title": "On this day in space! Aug. 6, 2012: NASA lands huge Curiosity rover on Mars with a rocket-powered sky crane",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-6-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786024800
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1785331684
-    },
-    {
-      "title": "MLB trade deadline's first major move backfires; Jalen Carter, Denzel Ward get historic NFL deals",
-      "link": "https://www.cbssports.com/mlb/news/mlb-trade-deadline-jalen-carter-denzel-ward-historic-nfl-extension/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1785329636
     }
   ]
 }
