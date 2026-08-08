@@ -1,6 +1,27 @@
 {
-  "last_updated": 1786188279,
+  "last_updated": 1786192799,
   "items": [
+    {
+      "title": "Yes, North America gets a solar eclipse on Aug. 12. Here's where and when to see it",
+      "link": "https://www.space.com/stargazing/solar-eclipses/yes-north-america-gets-a-solar-eclipse-on-aug-12-heres-where-and-when-to-see-it",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786190400
+    },
+    {
+      "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+      "link": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786188648
+    },
+    {
+      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+      "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786187150
+    },
     {
       "title": "Sky-Watcher SolarQuest mount head review",
       "link": "https://www.space.com/stargazing/skywatching-kit/sky-watcher-solarquest-mount-head-review",
@@ -443,13 +464,6 @@
       "timestamp": 1786101481
     },
     {
-      "title": "Remembering the pre-Google web, when search was an experiment",
-      "link": "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786100406
-    },
-    {
       "title": "Earth’s molten core suddenly reversed direction — and scientists don’t know why",
       "link": "https://www.sciencedaily.com/releases/2026/08/260806050713.htm",
       "source": "SCIENCEDAILY",
@@ -506,13 +520,6 @@
       "timestamp": 1786056233
     },
     {
-      "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
-      "link": "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786054850
-    },
-    {
       "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
       "link": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
       "source": "TECHCRUNCH",
@@ -546,13 +553,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786041246
-    },
-    {
-      "title": "'Strange New Worlds' latest 'Hangover'-inspired episode is a reminder that 'Star Trek' vacations are never a good idea",
-      "link": "https://www.space.com/entertainment/space-movies-shows/strange-new-worlds-latest-hangover-inspired-episode-is-a-reminder-that-star-trek-vacations-are-never-a-good-idea",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786032000
     },
     {
       "title": "A star’s violent death exposed a hidden supermassive black hole",
