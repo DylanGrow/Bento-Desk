@@ -1,6 +1,41 @@
 {
-  "last_updated": 1786274706,
+  "last_updated": 1786279337,
   "items": [
+    {
+      "title": "The total solar eclipse on Aug. 12 will reveal something nobody has ever seen before",
+      "link": "https://www.space.com/stargazing/solar-eclipses/the-total-solar-eclipse-on-aug-12-will-reveal-something-nobody-has-ever-seen-before",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786276800
+    },
+    {
+      "title": "60,000-year-old ostrich eggshell engravings reveal a surprisingly sophisticated human mind",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260808235013.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786276297
+    },
+    {
+      "title": "Scientists discover bacteria that lock toxic uranium into a stable form",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260807035149.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786275017
+    },
+    {
+      "title": "Chemists set electrons free and break a decades-old chemistry barrier",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260807035147.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786273323
+    },
+    {
+      "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
+      "link": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786273214
+    },
     {
       "title": "'If You're Not a Netflix Subscriber, You Definitely Should Be' — Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
       "link": "https://www.ign.com/articles/if-youre-not-a-netflix-subscriber-you-definitely-should-be-take-two-boss-teases-grand-theft-auto-vi-an-extended-look",
@@ -9,11 +44,32 @@
       "timestamp": 1786271154
     },
     {
+      "title": "Dinosaurs became giants — so why did they never become tiny?",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260807035137.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786270511
+    },
+    {
       "title": "Here's what to expect from 5 stages of the total solar eclipse 2026",
       "link": "https://www.space.com/stargazing/solar-eclipses/heres-what-to-expect-from-5-stages-of-the-total-solar-eclipse-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786255200
+    },
+    {
+      "title": "Stress can scramble your brain’s internal GPS, MRI study finds",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260807035151.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786245710
+    },
+    {
+      "title": "The dodo bird had a secret sensory world scientists are only now discovering",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260807035143.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786234752
     },
     {
       "title": "Mortal Kombat Director 'Not Sure' About Return for Third Movie as Mortal Kombat 3 Remains in Limbo",
@@ -436,13 +492,6 @@
       "timestamp": 1786115463
     },
     {
-      "title": "Chinese company Landspace targets Aug. 10 for historic rocket launch and landing attempt",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/chinese-company-landspace-targets-aug-10-for-historic-rocket-launch-and-landing-attempt",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786114800
-    },
-    {
       "title": "Report: White House drafting executive order linking vaccines and autism",
       "link": "https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/",
       "source": "ARSTECHNICA",
@@ -492,13 +541,6 @@
       "timestamp": 1786108846
     },
     {
-      "title": "Trump is losing his war on wind power",
-      "link": "https://arstechnica.com/science/2026/08/trump-is-losing-his-war-on-wind-power/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786107484
-    },
-    {
       "title": "Rookie QBs Carson Beck, Haynes King shine in Hall of Fame Game; MLB playoff predictions",
       "link": "https://www.cbssports.com/nfl/news/rookie-qbs-carson-beck-haynes-king-shine-in-hall-of-fame-game-mlb-playoff-predictions/",
       "source": "CBSSPORTS",
@@ -541,34 +583,6 @@
       "timestamp": 1786087912
     },
     {
-      "title": "The key to colonizing Mars may be hidden inside asteroids",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260805082504.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786080562
-    },
-    {
-      "title": "Scientists find unexpected life on Ötzi the Iceman’s 5,300-year-old body",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260806050721.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786076689
-    },
-    {
-      "title": "Scientists rediscover lost Megalodon fossils—and reveal a 79-foot giant",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260805082500.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786071428
-    },
-    {
-      "title": "Scientists discover a hidden brain shift that begins around age 50",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260806050700.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786066374
-    },
-    {
       "title": "Jaylen Brown details bumpy Celtics exit, relationships with Jayson Tatum, Joel Embiid in 76ers introduction",
       "link": "https://www.cbssports.com/nba/news/jaylen-brown-76ers-celtics-jayson-tatum-joel-embiid-lebron-james/",
       "source": "CBSSPORTS",
@@ -581,20 +595,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786041507
-    },
-    {
-      "title": "A star’s violent death exposed a hidden supermassive black hole",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260805082457.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786018592
-    },
-    {
-      "title": "Cell-inspired nanoreactor turns sunlight into hydrogen peroxide",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786017782
     },
     {
       "title": "2026 NBA free agency rankings, tracker: Who's left on the market after LeBron James' deal with the 76ers?",
