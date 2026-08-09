@@ -1,6 +1,27 @@
 {
-  "last_updated": 1786300490,
+  "last_updated": 1786303819,
   "items": [
+    {
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786303232
+    },
+    {
+      "title": "Spider-Man: Brand New Day Swings Closer to $2 Billion in Second Weekend in Theaters, The Odyssey Becomes Highest-Grossing Christopher Nolan Movie of All Time",
+      "link": "https://www.ign.com/articles/spider-man-brand-new-day-swings-closer-to-2-billion-in-second-weekend-in-theaters-the-odyssey-becomes-highest-grossing-christopher-nolan-movie-of-all-time",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786301109
+    },
+    {
+      "title": "Hall of Famer Don Nelson dies at 86: Five-time NBA champion won three Coach of the Year awards",
+      "link": "https://www.cbssports.com/nba/news/don-nelson-dies-nba-champion-coach-of-the-year/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1786300801
+    },
     {
       "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
       "link": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
@@ -422,13 +443,6 @@
       "timestamp": 1786131718
     },
     {
-      "title": "Christopher Nolan's The Odyssey Passes $1 Billion at the Global Box Office",
-      "link": "https://www.ign.com/articles/christopher-nolans-the-odyssey-passes-1-billion-at-the-global-box-office",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786129885
-    },
-    {
       "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
       "link": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
       "source": "ARSTECHNICA",
@@ -504,13 +518,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1786119369
-    },
-    {
-      "title": "Computer maker Framework notifies ‘all customers’ of a data breach",
-      "link": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786118944
     },
     {
       "title": "Report: White House drafting executive order linking vaccines and autism",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1785348949
-    },
-    {
-      "title": "NBA Face of the League Rankings: LeBron James reminds everyone he's still at the top",
-      "link": "https://www.cbssports.com/nba/news/nba-face-of-the-league-rankings-lebron-james-july-2026/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1785331684
     }
   ]
 }
