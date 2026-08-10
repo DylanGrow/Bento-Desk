@@ -1,6 +1,55 @@
 {
-  "last_updated": 1786384162,
+  "last_updated": 1786387947,
   "items": [
+    {
+      "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
+      "link": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786386714
+    },
+    {
+      "title": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
+      "link": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786386633
+    },
+    {
+      "title": "YouTube now requires creators to have twice as many watch hours to start earning money",
+      "link": "https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786386464
+    },
+    {
+      "title": "Clicks’ Power Keyboard brings BlackBerry-style typing to any phone — with some compromises",
+      "link": "https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786384839
+    },
+    {
+      "title": "The Andromeda galaxy may be getting bullied by a smaller galactic neighbor, scientists find",
+      "link": "https://www.space.com/astronomy/galaxies/the-andromeda-galaxy-may-be-getting-bullied-by-a-smaller-galactic-neighbor-scientists-find",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786384800
+    },
+    {
+      "title": "Grand Theft Auto Players Fundraise $50k for Sick Fan Trying to Make It to GTA 6",
+      "link": "https://www.ign.com/articles/grand-theft-auto-players-fundraise-50k-for-sick-fan-trying-to-make-it-to-gta-6",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786384799
+    },
+    {
+      "title": "Has Ford got cheap car fever? A $25K crossover is supposedly on the way.",
+      "link": "https://arstechnica.com/cars/2026/08/has-ford-got-cheap-car-fever-allegedly-a-25k-crossover-is-on-the-way/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786381667
+    },
     {
       "title": "Lego Project Hail Mary review: Amaze, amaze, amaze!",
       "link": "https://www.space.com/entertainment/space-toys-lego/lego-project-hail-mary-review-amaze-amaze-amaze",
@@ -14,6 +63,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1786380225
+    },
+    {
+      "title": "Taylor Farms recalls jalapeño products for Salmonella amid Cyclospora outbreak",
+      "link": "https://arstechnica.com/health/2026/08/taylor-farms-recalls-jalapeno-products-for-salmonella-amid-cyclospora-outbreak/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786379828
     },
     {
       "title": "Ranking NBA's 15 worst contracts: Trae Young, De'Aaron Fox in top five, but Joel Embiid is No. 1",
@@ -37,11 +93,25 @@
       "timestamp": 1786377805
     },
     {
+      "title": "Valve slowly expands SteamOS support on non-Valve hardware",
+      "link": "https://arstechnica.com/gaming/2026/08/valve-slowly-expands-steamos-support-on-non-valve-hardware/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786377664
+    },
+    {
       "title": "Aliens: Fireteam Elite on Nintendo Switch Shut Down With No Refunds, as Owners Become the Latest Victims of Gaming's Increasingly Digital Future",
       "link": "https://www.ign.com/articles/aliens-fireteam-elite-on-nintendo-switch-shut-down-with-no-refunds-as-owners-become-the-latest-victims-of-gamings-increasingly-digital-future",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1786377505
+    },
+    {
+      "title": "Following Epic loss, Google has started hosting rival app stores in the Play Store",
+      "link": "https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786376685
     },
     {
       "title": "Marvel's Spider-Man 2 Gets Huge Boost 3 Years After Launch Thanks to Box Office Phenomenon Spider-Man: Brand New Day",
@@ -128,15 +198,15 @@
       "timestamp": 1786371075
     },
     {
-      "title": "On this day in space! Aug. 10, 1972: A 'Great Daylight Fireball' lights up the sky over North America",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-10-2026",
+      "title": "Sharpest image of the sun ever captured! | Space photo of the day for Aug. 10, 2026",
+      "link": "https://www.space.com/astronomy/sun/sharpest-image-of-the-sun-ever-captured-space-photo-of-the-day-for-aug-10-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786370400
     },
     {
-      "title": "Sharpest image of the sun ever captured! | Space photo of the day for Aug. 10, 2026",
-      "link": "https://www.space.com/astronomy/sun/sharpest-image-of-the-sun-ever-captured-space-photo-of-the-day-for-aug-10-2026",
+      "title": "On this day in space! Aug. 10, 1972: A 'Great Daylight Fireball' lights up the sky over North America",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-10-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786370400
@@ -310,13 +380,6 @@
       "timestamp": 1786331514
     },
     {
-      "title": "Warner Bros. Stirs Controversy After Posting 'Embarrassing' AI Dog Podcast for The End of Oak Street",
-      "link": "https://www.ign.com/articles/warner-bros-stirs-controversy-after-posting-embarrassing-ai-dog-podcast-for-the-end-of-oak-street",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786317998
-    },
-    {
       "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
       "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
       "source": "TECHCRUNCH",
@@ -359,10 +422,10 @@
       "timestamp": 1786285800
     },
     {
-      "title": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
-      "link": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
+      "title": "On this day in space! Aug. 9, 1976: Soviet Luna 24 sample return probe launches to the moon",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-9-2026",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1786284000
     },
     {
@@ -371,20 +434,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786284000
-    },
-    {
-      "title": "On this day in space! Aug. 9, 1976: Soviet Luna 24 sample return probe launches to the moon",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-9-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786284000
-    },
-    {
-      "title": "This former notorious red-light district is now one of the world’s top AI hubs",
-      "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786280400
     },
     {
       "title": "The total solar eclipse on Aug. 12 will reveal something nobody has ever seen before",
@@ -450,20 +499,6 @@
       "timestamp": 1786234752
     },
     {
-      "title": "Planned Amazon data center could become the biggest climate polluter in the US",
-      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786224242
-    },
-    {
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786218073
-    },
-    {
       "title": "SpaceX launches 24 Starlink satellites to orbit from California (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-starlink-group-17-38-ocisly",
       "source": "SPACE",
@@ -476,13 +511,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786204800
-    },
-    {
-      "title": "This Week In Space podcast: Episode 222 — How to Invade Earth in 22 Easy Steps",
-      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-222-how-to-invade-earth-in-22-easy-steps",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786204691
     },
     {
       "title": "Meteorite that smashed through a New Jersey roof reveals clues to life’s origins",
@@ -560,34 +588,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786127368
-    },
-    {
-      "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
-      "link": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786125602
-    },
-    {
-      "title": "DOGE's wild, unverifiable savings claims discredited in US government report",
-      "link": "https://arstechnica.com/tech-policy/2026/08/doges-inflated-wall-of-receipts-96-of-grant-savings-unverifiable-gao-says/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786125065
-    },
-    {
-      "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
-      "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786124182
-    },
-    {
-      "title": "How snails engineer their slime",
-      "link": "https://arstechnica.com/science/2026/08/how-snails-engineer-their-slime/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786123520
     },
     {
       "title": "Rookie QBs Carson Beck, Haynes King shine in Hall of Fame Game; MLB playoff predictions",
