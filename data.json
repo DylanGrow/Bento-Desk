@@ -1,12 +1,61 @@
 {
-  "last_updated": 1786401210,
+  "last_updated": 1786404671,
   "items": [
     {
-      "title": "Now Rippling is counter suing tiny startup Runlayer",
+      "title": "Jeff Bezos might finally get his hands on a sports team",
+      "link": "https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786403804
+    },
+    {
+      "title": "Chloe Bailey Wants to Play Storm in Marvel's X-Men Movie",
+      "link": "https://www.ign.com/articles/chloe-bailey-wants-to-play-storm-in-marvels-x-men-movie",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786402387
+    },
+    {
+      "title": "New York Citizen Receives Letters to Spider-Man Because He Shares a Home With Marvel's Peter Parker",
+      "link": "https://www.ign.com/articles/new-york-citizen-receives-letters-to-spider-man-because-he-shares-a-home-with-marvels-peter-parker",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786401912
+    },
+    {
+      "title": "'Launching anywhere, anytime and without compromise': Rocket Lab unveils new 'GHOST' portable spaceport system",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/launching-anywhere-anytime-and-without-compromise-rocket-lab-unveils-new-ghost-portable-spaceport-system",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786401831
+    },
+    {
+      "title": "Now Rippling is counter-suing tiny startup Runlayer",
       "link": "https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1786400814
+    },
+    {
+      "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
+      "link": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786400623
+    },
+    {
+      "title": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
+      "link": "https://www.ign.com/articles/gta-6-boss-says-more-people-are-pre-ordering-the-100-version-of-the-game",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786400068
+    },
+    {
+      "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+      "link": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786399983
     },
     {
       "title": "Nikki From Obsession Will Be at Halloween Horror Nights in a 'Where's Waldo' Way, but Fans Are Divided",
@@ -23,11 +72,25 @@
       "timestamp": 1786398355
     },
     {
+      "title": "Trump signs bonkers order that cuts vaccines, promotes ones that don't exist",
+      "link": "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786398176
+    },
+    {
       "title": "Greek team owner reveals 'very serious' Nikola Jokić offer, vows to go after Nuggets star again",
       "link": "https://www.cbssports.com/nba/news/greek-team-nikola-jokic-very-serious-offer-nuggets/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786397451
+    },
+    {
+      "title": "Developer Cold Iron Studios shuts down cloud version of $60 game with no refunds",
+      "link": "https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786397198
     },
     {
       "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
@@ -51,6 +114,13 @@
       "timestamp": 1786395182
     },
     {
+      "title": "Amazon backs power plant that may become top source of US climate pollution",
+      "link": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786394752
+    },
+    {
       "title": "GameStop Reportedly Considers Dropping eBay Bid for New Partnership Offer",
       "link": "https://www.ign.com/articles/gamestop-reportedly-considers-dropping-ebay-bid-for-new-partnership-offer",
       "source": "IGN",
@@ -70,6 +140,13 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1786392264
+    },
+    {
+      "title": "Zuckerberg’s superyacht ignored emergency channel, failed to aid stranded boat",
+      "link": "https://arstechnica.com/gadgets/2026/08/zuckerbergs-super-yacht-stood-by-while-stranded-boaters-looked-for-help/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786392075
     },
     {
       "title": "Final Fantasy Fans Convinced Dirge of Cerberus Remake on the Way After Gackt Posts Photo in Genesis Cosplay",
@@ -226,13 +303,6 @@
       "timestamp": 1786375362
     },
     {
-      "title": "Curtis '50 Cent' Jackson Joins Payday TV Show as Executive Producer",
-      "link": "https://www.ign.com/articles/curtis-50-cent-jackson-joins-payday-tv-show-as-executive-producer",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786375129
-    },
-    {
       "title": "Archer buys former rival Wisk Aero",
       "link": "https://techcrunch.com/2026/08/10/archer-buys-former-rival-wisk-aero/",
       "source": "TECHCRUNCH",
@@ -308,20 +378,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786370400
-    },
-    {
-      "title": "'Expect Fake Messages': Valve Admits Steam Hardware Owners' Personal Data Likely Stolen",
-      "link": "https://www.ign.com/articles/expect-fake-messages-valve-admits-steam-hardware-owners-personal-data-likely-stolen",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786369591
-    },
-    {
-      "title": "Bethesda Veteran Reveals How He Would Have Designed Starfield Differently",
-      "link": "https://www.ign.com/articles/bethesda-veteran-reveals-how-he-would-have-designed-starfield-differently",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786368337
     },
     {
       "title": "Japanese H3 rocket launches 10,800-pound navigation satellite to high Earth orbit (video)",
@@ -415,13 +471,6 @@
       "timestamp": 1786341394
     },
     {
-      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786307717
-    },
-    {
       "title": "Hall of Famer Don Nelson dies at 86: Five-time NBA champion won three Coach of the Year awards",
       "link": "https://www.cbssports.com/nba/news/don-nelson-dies-nba-champion-coach-of-the-year/",
       "source": "CBSSPORTS",
@@ -429,15 +478,15 @@
       "timestamp": 1786300801
     },
     {
-      "title": "Exploring 'very low Earth orbit': The world's 1st air-breathing satellite thruster could soon get a test run",
-      "link": "https://www.space.com/space-exploration/satellites/exploring-very-low-earth-orbit-the-worlds-1st-air-breathing-satellite-thruster-could-soon-get-a-test-run",
+      "title": "On this day in space! Aug. 9, 1976: Soviet Luna 24 sample return probe launches to the moon",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-9-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786284000
     },
     {
-      "title": "On this day in space! Aug. 9, 1976: Soviet Luna 24 sample return probe launches to the moon",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-9-2026",
+      "title": "Exploring 'very low Earth orbit': The world's 1st air-breathing satellite thruster could soon get a test run",
+      "link": "https://www.space.com/space-exploration/satellites/exploring-very-low-earth-orbit-the-worlds-1st-air-breathing-satellite-thruster-could-soon-get-a-test-run",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786284000
@@ -513,13 +562,6 @@
       "timestamp": 1786216756
     },
     {
-      "title": "'Transformers: The Movie' at 40: the cartoon spin-off that traumatized a generation of kids",
-      "link": "https://www.space.com/entertainment/space-movies-shows/transformers-the-movie-at-40-the-cartoon-spin-off-that-traumatized-a-generation-of-kids",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786204800
-    },
-    {
       "title": "Meteorite that smashed through a New Jersey roof reveals clues to life’s origins",
       "link": "https://www.sciencedaily.com/releases/2026/08/260807035145.htm",
       "source": "SCIENCEDAILY",
@@ -546,48 +588,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1786194231
-    },
-    {
-      "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
-      "link": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786188648
-    },
-    {
-      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
-      "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786187150
-    },
-    {
-      "title": "Europe's free satellite service just made it easier to track wildfires",
-      "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786139301
-    },
-    {
-      "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
-      "link": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786136940
-    },
-    {
-      "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
-      "link": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786132167
-    },
-    {
-      "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
-      "link": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786129217
     },
     {
       "title": "Kawhi Leonard investigation lingering questions: How bad can things get for Steve Ballmer and the Clippers?",
