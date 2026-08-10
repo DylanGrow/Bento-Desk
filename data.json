@@ -1,12 +1,47 @@
 {
-  "last_updated": 1786377422,
+  "last_updated": 1786380866,
   "items": [
+    {
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786378813
+    },
+    {
+      "title": "Chinese rocket explodes less than 90 seconds after liftoff",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/chinese-rocket-explodes-less-than-90-seconds-after-liftoff",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786377805
+    },
+    {
+      "title": "Aliens: Fireteam Elite on Nintendo Switch Shut Down With No Refunds, as Owners Become The Latest Victims of Gaming's Increasingly Digital Future",
+      "link": "https://www.ign.com/articles/aliens-fireteam-elite-on-nintendo-switch-shut-down-with-no-refunds-as-owners-become-the-latest-victims-of-gamings-increasingly-digital-future",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786377505
+    },
+    {
+      "title": "Marvel's Spider-Man 2 Gets Huge Boost 3 Years After Launch Thanks to Box Office Phenomenon Spider-Man: Brand New Day",
+      "link": "https://www.ign.com/articles/marvels-spider-man-2-gets-huge-boost-3-years-after-launch-thanks-to-box-office-phenomenon-spider-man-brand-new-day",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786375655
+    },
     {
       "title": "Sila lands $1.4B Pentagon loan as militaries demand more batteries",
       "link": "https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1786375362
+    },
+    {
+      "title": "Curtis '50 Cent' Jackson Joins Payday TV Show as Executive Producer",
+      "link": "https://www.ign.com/articles/curtis-50-cent-jackson-joins-payday-tv-show-as-executive-producer",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786375129
     },
     {
       "title": "Archer buys former rival Wisk Aero",
@@ -28,6 +63,13 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1786374053
+    },
+    {
+      "title": "Ben Simmons eyeing NBA comeback as he plays with Australian national team",
+      "link": "https://www.cbssports.com/nba/news/ben-simmons-nba-comeback-australian-national-team/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1786373468
     },
     {
       "title": "2026 Subaru Outback review: Great interior, refined drive, divisive looks",
@@ -268,25 +310,11 @@
       "timestamp": 1786307717
     },
     {
-      "title": "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo",
-      "link": "https://www.ign.com/articles/blizzard-reportedly-leads-xbox-as-top-performing-studio-thanks-to-overwatch-and-diablo",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786307363
-    },
-    {
       "title": "Anthropic is turning Claude Code’s auto mode on by default",
       "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1786303232
-    },
-    {
-      "title": "Spider-Man: Brand New Day Swings Closer to $2 Billion in Second Weekend in Theaters, The Odyssey Becomes Highest-Grossing Christopher Nolan Movie of All Time",
-      "link": "https://www.ign.com/articles/spider-man-brand-new-day-swings-closer-to-2-billion-in-second-weekend-in-theaters-the-odyssey-becomes-highest-grossing-christopher-nolan-movie-of-all-time",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786301109
     },
     {
       "title": "Hall of Famer Don Nelson dies at 86: Five-time NBA champion won three Coach of the Year awards",
@@ -301,13 +329,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1786291500
-    },
-    {
-      "title": "Netflix Reportedly Delays The Witcher Season 5 to 2027",
-      "link": "https://www.ign.com/articles/netflix-reportedly-delays-the-witcher-season-5-to-2027",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786291421
     },
     {
       "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
@@ -436,13 +457,6 @@
       "timestamp": 1786216756
     },
     {
-      "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
-      "link": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786206862
-    },
-    {
       "title": "'Transformers: The Movie' at 40: the cartoon spin-off that traumatized a generation of kids",
       "link": "https://www.space.com/entertainment/space-movies-shows/transformers-the-movie-at-40-the-cartoon-spin-off-that-traumatized-a-generation-of-kids",
       "source": "SPACE",
@@ -466,13 +480,6 @@
     {
       "title": "Don't miss the crescent moon shine close to the red light of Mars before dawn on Aug. 9",
       "link": "https://www.space.com/stargazing/dont-miss-the-crescent-moon-shine-close-to-the-red-light-of-mars-before-dawn-aug-9-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786197600
-    },
-    {
-      "title": "On this day in space! Aug. 8, 1977: Soviet Union's Salyut 5 reconnaissance space station burns up in Earth's atmosphere",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-8-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786197600
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1785359209
-    },
-    {
-      "title": "Four more years? LeBron James could play much longer than many think, agent Rich Paul says",
-      "link": "https://www.cbssports.com/nba/news/lebron-james-rich-paul-76ers-retirement/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1785348949
     }
   ]
 }
