@@ -1,6 +1,48 @@
 {
-  "last_updated": 1786371743,
+  "last_updated": 1786377422,
   "items": [
+    {
+      "title": "Sila lands $1.4B Pentagon loan as militaries demand more batteries",
+      "link": "https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786375362
+    },
+    {
+      "title": "Archer buys former rival Wisk Aero",
+      "link": "https://techcrunch.com/2026/08/10/archer-buys-former-rival-wisk-aero/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786374579
+    },
+    {
+      "title": "One of China's workhorse rockets just exploded in flight",
+      "link": "https://arstechnica.com/space/2026/08/one-of-chinas-workhorse-rockets-just-exploded-in-flight/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786374300
+    },
+    {
+      "title": "Dogs can tell if you're scared or sad",
+      "link": "https://arstechnica.com/science/2026/08/dogs-can-tell-if-youre-scared-or-sad/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786374053
+    },
+    {
+      "title": "2026 Subaru Outback review: Great interior, refined drive, divisive looks",
+      "link": "https://arstechnica.com/cars/2026/08/2026-subaru-outback-limited-review-boxy-outside-almost-premium-inside/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786373361
+    },
+    {
+      "title": "A researcher bought noreply.net. Companies started sending him secrets.",
+      "link": "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786371950
+    },
     {
       "title": "A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond",
       "link": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/",
@@ -23,15 +65,15 @@
       "timestamp": 1786371075
     },
     {
-      "title": "On this day in space! Aug. 10, 1972: A 'Great Daylight Fireball' lights up the sky over North America",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-10-2026",
+      "title": "Sharpest image of the sun ever captured! | Space photo of the day for Aug. 10, 2026",
+      "link": "https://www.space.com/astronomy/sun/sharpest-image-of-the-sun-ever-captured-space-photo-of-the-day-for-aug-10-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786370400
     },
     {
-      "title": "Sharpest image of the sun ever captured! | Space photo of the day for Aug. 10, 2026",
-      "link": "https://www.space.com/astronomy/sun/sharpest-image-of-the-sun-ever-captured-space-photo-of-the-day-for-aug-10-2026",
+      "title": "On this day in space! Aug. 10, 1972: A 'Great Daylight Fireball' lights up the sky over North America",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-10-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786370400
@@ -63,6 +105,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1786366800
+    },
+    {
+      "title": "Scientists discover a hidden switch inside silver nanocatalysts",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260810015714.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786364850
     },
     {
       "title": "God of War Fans Agree Ryan Hurst's New Kratos Pic Looks Much Better Than Prime Video's Previous, Widely-Ridiculed Photo",
@@ -100,6 +149,20 @@
       "timestamp": 1786362319
     },
     {
+      "title": "240-million-year-old reptile fossil reveals a lost chapter before dinosaurs and crocodiles",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260808234956.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786362002
+    },
+    {
+      "title": "Potatoes may have given Indigenous Andeans a digestive superpower",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260808235005.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786360913
+    },
+    {
       "title": "'It's Complicated': Daredevil Star Charlie Cox Responds to Spider-Man: Brand New Day, And The Punisher's Claim He's Never Had a Friend Like Peter Parker",
       "link": "https://www.ign.com/articles/its-complicated-daredevil-star-charlie-cox-responds-to-spider-man-brand-new-day-and-the-punishers-claim-hes-never-had-a-friend-like-peter-parker",
       "source": "IGN",
@@ -112,6 +175,13 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1786359647
+    },
+    {
+      "title": "The sun will vanish over Europe in a rare total solar eclipse: Watch live",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260810015709.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786359353
     },
     {
       "title": "Spider-Man: Brand New Day 4K Steelbook Designs Seemingly Revealed, Since Removed by Amazon",
@@ -142,7 +212,7 @@
       "timestamp": 1786356010
     },
     {
-      "title": "Could the northern lights be visible during the total solar eclipse on Aug.12? Maybe.",
+      "title": "Could the northern lights be visible during the total solar eclipse on Aug. 12? Maybe.",
       "link": "https://www.space.com/stargazing/auroras/could-the-northern-lights-be-visible-during-the-total-solar-eclipse-on-aug-12-maybe",
       "source": "SPACE",
       "category": "space",
@@ -154,6 +224,20 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786341600
+    },
+    {
+      "title": "For 15,000 years, humans and dogs have been changing each other",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260810015700.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786341420
+    },
+    {
+      "title": "Cassini reveals a surprising twist in Saturn’s magnetic shield",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260807035153.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786341394
     },
     {
       "title": "One Night Only Director Cut 'So Much Nudity' from Film Because Audiences Now Dislike Seeing It",
@@ -247,15 +331,15 @@
       "timestamp": 1786284000
     },
     {
-      "title": "Exploring 'very low Earth orbit': The world's 1st air-breathing satellite thruster could soon get a test run",
-      "link": "https://www.space.com/space-exploration/satellites/exploring-very-low-earth-orbit-the-worlds-1st-air-breathing-satellite-thruster-could-soon-get-a-test-run",
+      "title": "On this day in space! Aug. 9, 1976: Soviet Luna 24 sample return probe launches to the moon",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-9-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786284000
     },
     {
-      "title": "On this day in space! Aug. 9, 1976: Soviet Luna 24 sample return probe launches to the moon",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-9-2026",
+      "title": "Exploring 'very low Earth orbit': The world's 1st air-breathing satellite thruster could soon get a test run",
+      "link": "https://www.space.com/space-exploration/satellites/exploring-very-low-earth-orbit-the-worlds-1st-air-breathing-satellite-thruster-could-soon-get-a-test-run",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786284000
@@ -359,13 +443,6 @@
       "timestamp": 1786206862
     },
     {
-      "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
-      "link": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786204800
-    },
-    {
       "title": "'Transformers: The Movie' at 40: the cartoon spin-off that traumatized a generation of kids",
       "link": "https://www.space.com/entertainment/space-movies-shows/transformers-the-movie-at-40-the-cartoon-spin-off-that-traumatized-a-generation-of-kids",
       "source": "SPACE",
@@ -378,13 +455,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786204691
-    },
-    {
-      "title": "Google’s top hacker hunter explains why hacking groups get codenames",
-      "link": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786201200
     },
     {
       "title": "Meteorite that smashed through a New Jersey roof reveals clues to life’s origins",
@@ -441,20 +511,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1786187150
-    },
-    {
-      "title": "Sunlight creates quantum entanglement once thought to require lasers",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260807035133.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786160966
-    },
-    {
-      "title": "Teen cannabis use linked to slower memory and thinking growth",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260806050726.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786152325
     },
     {
       "title": "Europe's free satellite service just made it easier to track wildfires",
@@ -520,34 +576,6 @@
       "timestamp": 1786123520
     },
     {
-      "title": "Volkswagen plans to win America back with a pickup, report says",
-      "link": "https://arstechnica.com/cars/2026/08/volkswagen-plans-to-win-america-back-with-a-pickup-report-says/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786122811
-    },
-    {
-      "title": "Report: White House drafting executive order linking vaccines and autism",
-      "link": "https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786113694
-    },
-    {
-      "title": "AI chatbots have failed people in crisis. Can that be fixed?",
-      "link": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786110577
-    },
-    {
-      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
-      "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786109362
-    },
-    {
       "title": "Rookie QBs Carson Beck, Haynes King shine in Hall of Fame Game; MLB playoff predictions",
       "link": "https://www.cbssports.com/nfl/news/rookie-qbs-carson-beck-haynes-king-shine-in-hall-of-fame-game-mlb-playoff-predictions/",
       "source": "CBSSPORTS",
@@ -555,39 +583,11 @@
       "timestamp": 1786107255
     },
     {
-      "title": "New autism therapy shows surprising benefits even in adult mice",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260805082508.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786106310
-    },
-    {
       "title": "Kawhi Leonard had second secret endorsement deal Clippers allegedly used to circumvent salary cap, per report",
       "link": "https://www.cbssports.com/nba/news/kawhi-leonard-daktronics-clippers-salary-cap-circumvention/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786105704
-    },
-    {
-      "title": "Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260806050722.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786101481
-    },
-    {
-      "title": "Earth’s molten core suddenly reversed direction — and scientists don’t know why",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260806050713.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786098292
-    },
-    {
-      "title": "Wearable ultrasound patch boosts REM sleep without drugs or surgery",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260806050709.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786087912
     },
     {
       "title": "Jaylen Brown details bumpy Celtics exit, relationships with Jayson Tatum, Joel Embiid in 76ers introduction",
