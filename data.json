@@ -1,6 +1,13 @@
 {
-  "last_updated": 1786487861,
+  "last_updated": 1786491346,
   "items": [
+    {
+      "title": "Ewan McGregor Wants to Spend the 'Rest of His Career' Playing Obi-Wan Kenobi",
+      "link": "https://www.ign.com/articles/ewan-mcgregor-wants-to-spend-the-rest-of-his-career-playing-obi-wan-kenobi",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786487170
+    },
     {
       "title": "HBO's Harry Potter Casts Nicholas Hoult as Gilderoy Lockhart in Season 2",
       "link": "https://www.ign.com/articles/harry-potter-hbo-nicholas-hoult-gilderoy-lockhart",
@@ -247,13 +254,6 @@
       "timestamp": 1786469473
     },
     {
-      "title": "The Legend of Zelda 40th Anniversary Nintendo Switch 2 Console Images Reportedly Leak",
-      "link": "https://www.ign.com/articles/the-legend-of-zelda-40th-anniversary-nintendo-switch-2-console-images-reportedly-leak",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786469251
-    },
-    {
       "title": "Tracking extreme heat by the hour makes climate change seem even worse",
       "link": "https://arstechnica.com/science/2026/08/tracking-extreme-heat-by-the-hour-makes-climate-change-seem-even-worse/",
       "source": "ARSTECHNICA",
@@ -345,15 +345,15 @@
       "timestamp": 1786460228
     },
     {
-      "title": "On this day in space! Aug. 11, 1960: 1st object successfully recovered from orbit",
-      "link": "https://www.space.com/space-exploration/aug-11-1960-1st-object-successfully-recovered-from-orbit",
+      "title": "Behold the majestic mane of the Lion Nebula | Space photo of the day for Aug. 11, 2026",
+      "link": "https://www.space.com/astronomy/behold-the-majestic-mane-of-the-lion-nebula-space-photo-of-the-day-for-august-11-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786456800
     },
     {
-      "title": "Behold the majestic mane of the Lion Nebula | Space photo of the day for Aug. 11, 2026",
-      "link": "https://www.space.com/astronomy/behold-the-majestic-mane-of-the-lion-nebula-space-photo-of-the-day-for-august-11-2026",
+      "title": "On this day in space! Aug. 11, 1960: 1st object successfully recovered from orbit",
+      "link": "https://www.space.com/space-exploration/aug-11-1960-1st-object-successfully-recovered-from-orbit",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786456800
