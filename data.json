@@ -1,6 +1,55 @@
 {
-  "last_updated": 1786557323,
+  "last_updated": 1786561061,
   "items": [
+    {
+      "title": "Lakers sold for record-breaking $12.5 billion: Everything to know about Josh Kushner, Bob Iger's purchase",
+      "link": "https://www.cbssports.com/nba/news/lakers-sold-josh-kushner-bob-iger/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1786560093
+    },
+    {
+      "title": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
+      "link": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786559661
+    },
+    {
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786558752
+    },
+    {
+      "title": "Twitch Now Trains Amazon's Generative AI Models On Your Channel By Default",
+      "link": "https://www.ign.com/articles/twitch-now-trains-amazons-generative-ai-models-on-your-channel-by-default",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786558245
+    },
+    {
+      "title": "Total solar eclipse 2026 has begun. Here are the first views of totality",
+      "link": "https://www.space.com/stargazing/solar-eclipses/total-solar-eclipse-has-begun-here-are-the-first-views-of-totality-aug-12-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786557908
+    },
+    {
+      "title": "Radiation-shielding vest aced Artemis I lunar test, could protect astronauts on moon and Mars missions",
+      "link": "https://www.space.com/space-exploration/artemis/artemis-i-radiation-vest-astrorad-protect-astronauts-moon-mars-missions",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786557600
+    },
+    {
+      "title": "Tom Holland's Brutal Spider-Man: Brand New Day Workout Goes Viral as Fans Try It for Themselves",
+      "link": "https://www.ign.com/articles/tom-hollands-brutal-spider-man-brand-new-day-workout-goes-viral-as-fans-try-it-for-themselves",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786557346
+    },
     {
       "title": "As AI safety concerns mount, three pioneers make the case for staying open",
       "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
@@ -30,11 +79,18 @@
       "timestamp": 1786554941
     },
     {
-      "title": "Made By Google 2026 Live Blog: Get Ready For the Pixel 11",
+      "title": "Made by Google 2026 Live Blog: Get Ready for the Pixel 11",
       "link": "https://www.ign.com/articles/made-by-google-2026-everything-announced",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1786554933
+    },
+    {
+      "title": "Two hydrogen-burning engines powered this car to a new land speed record",
+      "link": "https://arstechnica.com/cars/2026/08/jcb-sets-a-new-406-mph-speed-record-for-hydrogen-powered-cars/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786554071
     },
     {
       "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
@@ -219,20 +275,6 @@
       "timestamp": 1786543251
     },
     {
-      "title": "Google’s Pixel 11 lineup offers fewer hardware changes, but much more Gemini",
-      "link": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786543200
-    },
-    {
-      "title": "Google unveils the Pixel Watch 5 with a smarter Gemini and advanced health monitoring",
-      "link": "https://techcrunch.com/2026/08/12/google-unveils-the-pixel-watch-5-with-a-smarter-gemini-and-advanced-health-monitoring/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786543200
-    },
-    {
       "title": "Green comet caught soaring over Namibia | Space photo of the day for Aug. 12, 2026",
       "link": "https://www.space.com/astronomy/comets/green-comet-caught-soaring-over-namibia-space-photo-of-the-day-for-aug-12-2026",
       "source": "SPACE",
@@ -352,25 +394,11 @@
       "timestamp": 1786532527
     },
     {
-      "title": "Avengers: Doomsday Advert Cost Marvel $160,000 in Fines After Safety Fears",
-      "link": "https://www.ign.com/articles/avengers-doomsday-advert-cost-marvel-160000-in-fines-after-safety-fears",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786529864
-    },
-    {
       "title": "James Webb captures a cosmic lion sculpted by a dying star",
       "link": "https://www.sciencedaily.com/releases/2026/08/260812015206.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1786529719
-    },
-    {
-      "title": "Disney Confirms D23 Kingdom Hearts Panel Details, and Given Who's on It, We're Expecting Kingdom Hearts 4 News",
-      "link": "https://www.ign.com/articles/disney-confirms-d23-kingdom-hearts-panel-details-and-given-whos-on-it-were-expecting-kingdom-hearts-4-news",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786528697
     },
     {
       "title": "A strange crystal made of electrons just revealed its hidden motion",
@@ -499,13 +527,6 @@
       "timestamp": 1786465314
     },
     {
-      "title": "A Google insider spills the tea on how the company forsook its founding ideals",
-      "link": "https://arstechnica.com/gadgets/2026/08/a-google-insider-spills-the-tea-on-how-the-company-forsook-its-founding-ideals/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786464454
-    },
-    {
       "title": "NASA will chase the Aug. 12 total solar eclipse with balloons and a high-altitude jet",
       "link": "https://www.space.com/stargazing/solar-eclipses/nasa-will-chase-the-aug-12-total-solar-eclipse-with-balloons-and-a-high-altitude-jet",
       "source": "SPACE",
@@ -532,20 +553,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1786457341
-    },
-    {
-      "title": "On this day in space! Aug. 11, 1960: 1st object successfully recovered from orbit",
-      "link": "https://www.space.com/space-exploration/aug-11-1960-1st-object-successfully-recovered-from-orbit",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786456800
-    },
-    {
-      "title": "Behold the majestic mane of the Lion Nebula | Space photo of the day for Aug. 11, 2026",
-      "link": "https://www.space.com/astronomy/behold-the-majestic-mane-of-the-lion-nebula-space-photo-of-the-day-for-august-11-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786456800
     },
     {
       "title": "2026 NBA Christmas Day schedule rankings: Knicks vs. Spurs tops intriguing five-game slate",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786041507
-    },
-    {
-      "title": "2026 NBA free agency rankings, tracker: Who's left on the market after LeBron James' deal with the 76ers?",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-free-agency-rankings-tracker/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1785972531
     }
   ]
 }
