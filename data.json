@@ -1,12 +1,61 @@
 {
-  "last_updated": 1786532616,
+  "last_updated": 1786539674,
   "items": [
+    {
+      "title": "Did poop enable the evolution of complex animals?",
+      "link": "https://arstechnica.com/science/2026/08/feces-fueled-a-flurry-of-evolution-during-the-cambrian-study-suggests/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786538078
+    },
+    {
+      "title": "The Voice of The Witcher's Geralt Says He'd Sue Every Single AI Platform With His Voice on It 'Into the Ground' if He Could",
+      "link": "https://www.ign.com/articles/the-voice-of-the-witchers-geralt-says-hed-sue-every-single-ai-platform-with-his-voice-on-it-into-the-ground-if-he-could",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786536909
+    },
+    {
+      "title": "Perseid meteor shower peaks under perfect skies tonight — here's what to expect",
+      "link": "https://www.space.com/stargazing/meteor-showers/perseid-meteor-shower-peaks-under-perfect-skies-tonight-heres-what-to-expect",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786536000
+    },
+    {
+      "title": "SpaceX wraps Starlink double header day with the launch of 24 Starlink satellites from California",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-group-17-49-b1103-asog",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786535283
+    },
+    {
+      "title": "Space Marine 2 Maker Saber Interactive Denies Writer's Claim They Were Replaced by ChatGPT, but Admits Rideshare Stimulator Will Feature AI 'By Necessity'",
+      "link": "https://www.ign.com/articles/space-marine-2-maker-saber-interactive-denies-writers-claim-they-were-replaced-by-chatgpt-but-admits-that-rideshare-stimulator-will-feature-ai-by-necessity",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786534010
+    },
+    {
+      "title": "Take-Two Boss Strauss Zelnick Says He Asked to Be a Playable Character in WWE 2K26 Because 'I Thought It Would Be Funny for Insiders' — but Don't Expect Him to Pop Up in GTA 6",
+      "link": "https://www.ign.com/articles/take-two-boss-strauss-zelnick-says-he-asked-to-be-a-playable-character-in-wwe-2k26-because-i-thought-it-would-be-funny-for-insiders-but-dont-expect-him-to-pop-up-in-gta-6",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786532527
+    },
     {
       "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
       "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1786532400
+    },
+    {
+      "title": "Avengers: Doomsday Advert Cost Marvel $160,000 in Fines After Safety Fears",
+      "link": "https://www.ign.com/articles/avengers-doomsday-advert-cost-marvel-160000-in-fines-after-safety-fears",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786529864
     },
     {
       "title": "Reservoir raises $8M to make water heaters that people — and the grid — will actually want",
@@ -72,7 +121,7 @@
       "timestamp": 1786492613
     },
     {
-      "title": "SpaceX could make $500 billion in 2028, Elon Musk says",
+      "title": "SpaceX could make $500 billion in 2028, Elon Musk says (video)",
       "link": "https://www.space.com/space-exploration/spacex-could-make-usd500-billion-in-2027-elon-musk-says",
       "source": "SPACE",
       "category": "space",
@@ -198,25 +247,11 @@
       "timestamp": 1786477587
     },
     {
-      "title": "Blue Lock Comes to Real Life With Official Japan Football Association Training Camp Inspired by the Anime",
-      "link": "https://www.ign.com/articles/blue-lock-comes-to-real-life-with-official-japan-football-association-training-camp-inspired-by-the-anime",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786477283
-    },
-    {
       "title": "FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures",
       "link": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1786477103
-    },
-    {
-      "title": "Xbox CEO Gets Elder Scrolls 6 Demo, Teases the Subtitle",
-      "link": "https://www.ign.com/articles/xbox-ceo-gets-elder-scrolls-6-demo-teases-the-subtitle",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786476641
     },
     {
       "title": "OpenAI launches ChatGPT desktop app for Linux",
@@ -238,20 +273,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1786474152
-    },
-    {
-      "title": "Bethesda Finally Confirms The Elder Scrolls IV: Oblivion Remastered Patch Is Coming",
-      "link": "https://www.ign.com/articles/bethesda-finally-confirms-the-elder-scrolls-iv-oblivion-remastered-patch-is-coming",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786473508
-    },
-    {
-      "title": "Nvidia's Price Increases Are Live, as RTX 5060 Ti Jumps to Over $800",
-      "link": "https://www.ign.com/articles/nvidias-price-increases-are-live-as-rtx-5060-ti-jumps-to-over-800",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786473159
     },
     {
       "title": "Used EV buying guide: The $30,000 edition",
@@ -443,13 +464,6 @@
       "timestamp": 1786428000
     },
     {
-      "title": "'Launching anywhere, anytime and without compromise': Rocket Lab unveils new 'GHOST' portable spaceport system",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/launching-anywhere-anytime-and-without-compromise-rocket-lab-unveils-new-ghost-portable-spaceport-system",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786401831
-    },
-    {
       "title": "Live now: Ross Scott discusses the Stop Killing Games movement",
       "link": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
       "source": "ARSTECHNICA",
@@ -464,25 +478,11 @@
       "timestamp": 1786399983
     },
     {
-      "title": "Trump signs bonkers order that cuts vaccines, promotes ones that don't exist",
-      "link": "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786398176
-    },
-    {
       "title": "Greek team owner reveals 'very serious' Nikola Jokić offer, vows to go after Nuggets star again",
       "link": "https://www.cbssports.com/nba/news/greek-team-nikola-jokic-very-serious-offer-nuggets/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786397451
-    },
-    {
-      "title": "The Andromeda galaxy may be getting bullied by a smaller galactic neighbor, scientists find",
-      "link": "https://www.space.com/astronomy/galaxies/the-andromeda-galaxy-may-be-getting-bullied-by-a-smaller-galactic-neighbor-scientists-find",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786384800
     },
     {
       "title": "Ranking NBA's 15 worst contracts: Trae Young, De'Aaron Fox in top five, but Joel Embiid is No. 1",
