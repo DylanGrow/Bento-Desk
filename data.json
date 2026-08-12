@@ -1,12 +1,33 @@
 {
-  "last_updated": 1786561061,
+  "last_updated": 1786564835,
   "items": [
     {
       "title": "Lakers sold for record-breaking $12.5 billion: Everything to know about Josh Kushner, Bob Iger's purchase",
       "link": "https://www.cbssports.com/nba/news/lakers-sold-josh-kushner-bob-iger/",
       "source": "CBSSPORTS",
       "category": "nba",
-      "timestamp": 1786560093
+      "timestamp": 1786563903
+    },
+    {
+      "title": "Total solar eclipse 2026 thrills millions with a stunning cosmic spectacle (photos, video)",
+      "link": "https://www.space.com/stargazing/solar-eclipses/total-solar-eclipse-2026-thrills-millions-with-a-stunning-cosmic-spectacle-photos-video",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786563059
+    },
+    {
+      "title": "Russell Westbrook announces retirement: NBA's all-time triple-doubles leader steps away after 18 seasons",
+      "link": "https://www.cbssports.com/nba/news/russell-westbrook-retirement-nba-hall-of-fame/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1786562950
+    },
+    {
+      "title": "Christopher Judge Slams God of War TV Series Showrunners For Not Hiring Writers of the Games",
+      "link": "https://www.ign.com/articles/christopher-judge-slams-god-of-war-tv-series-showrunners-for-not-hiring-writers-of-the-games",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786560605
     },
     {
       "title": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
@@ -128,7 +149,7 @@
       "timestamp": 1786552423
     },
     {
-      "title": "CD Projekt Confirms Layoffs on The Witcher Multiplayer Spinoff, Issues Statement",
+      "title": "CD Projekt Confirms Layoffs on The Witcher Multiplayer Spin-Off, Issues Statement",
       "link": "https://www.ign.com/articles/cd-projekt-confirms-layoffs-on-the-witcher-multiplayer-spinoff-issues-statement",
       "source": "IGN",
       "category": "gaming",
@@ -275,15 +296,15 @@
       "timestamp": 1786543251
     },
     {
-      "title": "Green comet caught soaring over Namibia | Space photo of the day for Aug. 12, 2026",
-      "link": "https://www.space.com/astronomy/comets/green-comet-caught-soaring-over-namibia-space-photo-of-the-day-for-aug-12-2026",
+      "title": "On this day in space! Aug. 12, 2005: Mars Reconnaissance Orbiter launched",
+      "link": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-12-2005-mars-reconnaissance-orbiter-launched",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786543200
     },
     {
-      "title": "On this day in space! Aug. 12, 2005: Mars Reconnaissance Orbiter launched",
-      "link": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-12-2005-mars-reconnaissance-orbiter-launched",
+      "title": "Green comet caught soaring over Namibia | Space photo of the day for Aug. 12, 2026",
+      "link": "https://www.space.com/astronomy/comets/green-comet-caught-soaring-over-namibia-space-photo-of-the-day-for-aug-12-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786543200
@@ -385,13 +406,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1786533471
-    },
-    {
-      "title": "Take-Two Boss Strauss Zelnick Says He Asked to Be a Playable Character in WWE 2K26 Because 'I Thought It Would Be Funny for Insiders' — but Don't Expect Him to Pop Up in GTA 6",
-      "link": "https://www.ign.com/articles/take-two-boss-strauss-zelnick-says-he-asked-to-be-a-playable-character-in-wwe-2k26-because-i-thought-it-would-be-funny-for-insiders-but-dont-expect-him-to-pop-up-in-gta-6",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786532527
     },
     {
       "title": "James Webb captures a cosmic lion sculpted by a dying star",
@@ -534,13 +548,6 @@
       "timestamp": 1786464000
     },
     {
-      "title": "What history can teach us about the future of property rights in space (op-ed)",
-      "link": "https://www.space.com/space-exploration/what-history-can-teach-us-about-the-future-of-property-rights-in-space-op-ed",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786460400
-    },
-    {
       "title": "NBA opening night odds: LeBron James, 76ers underdogs at champion Knicks in unique tripleheader to tip 2026-27",
       "link": "https://www.cbssports.com/betting/news/nba-opening-night-odds-lebron-james-76ers-underdogs-at-champion-knicks-in-unique-tripleheader-to-tip-2026-27/",
       "source": "CBSSPORTS",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786051480
-    },
-    {
-      "title": "Anthony Davis contract extension on hold as Wizards and veteran star will save talks for season, per report",
-      "link": "https://www.cbssports.com/nba/news/anthony-davis-contract-extension-on-hold-wizards/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1786041507
     }
   ]
 }
