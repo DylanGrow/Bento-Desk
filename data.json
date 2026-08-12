@@ -1,6 +1,69 @@
 {
-  "last_updated": 1786570872,
+  "last_updated": 1786574181,
   "items": [
+    {
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
+      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786573597
+    },
+    {
+      "title": "AI nuclear power firm Fermi finally has a new CEO",
+      "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786573440
+    },
+    {
+      "title": "Russell Westbrook announces retirement: Ranking top five moments for NBA's all-time triple-doubles leader",
+      "link": "https://www.cbssports.com/nba/news/russell-westbrook-retirement-nba-hall-of-fame/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1786572874
+    },
+    {
+      "title": "Dataminers Uncover Five Possible DLC Characters for Marvel Tokon: Fighting Souls",
+      "link": "https://www.ign.com/articles/dataminers-uncover-five-possible-dlc-characters-for-marvel-tokon-fighting-souls",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786571843
+    },
+    {
+      "title": "Three big questions after shocking Lakers sale: Dodger-fication on hold? What does this mean for a Vegas team?",
+      "link": "https://www.cbssports.com/nba/news/three-big-questions-shocking-lakers-sale/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1786571595
+    },
+    {
+      "title": "Terabytes of credentials leaked in massive supply-chain attack",
+      "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786571001
+    },
+    {
+      "title": "Hogwarts Legacy 2 Is Officially in the Works, Confirms Warner Bros.",
+      "link": "https://www.ign.com/articles/hogwarts-legacy-2-is-officially-in-the-works-confirms-warner-bros",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786569743
+    },
+    {
+      "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
+      "link": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786569219
+    },
+    {
+      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786568430
+    },
     {
       "title": "This year's 'Masters of the Universe' movie wasn't Hollywood's first attempt at capturing the power of He-Man; they tried back in 1987, and failed then too",
       "link": "https://www.space.com/entertainment/space-movies-shows/this-years-masters-of-the-universe-movie-wasnt-hollywoods-first-attempt-at-capturing-the-power-of-he-man-they-tried-back-in-1987-and-failed-then-too",
@@ -37,6 +100,13 @@
       "timestamp": 1786566333
     },
     {
+      "title": "Trump sued over \"brazen\" scheme to sell Truth Social API access for $100K a month",
+      "link": "https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786566052
+    },
+    {
       "title": "Reddit User Cuts Steam Machine Faceplates Out of Same Marble Michelangelo Used",
       "link": "https://www.ign.com/articles/reddit-user-cuts-steam-machine-faceplates-out-of-same-marble-michelangelo-used",
       "source": "IGN",
@@ -58,14 +128,7 @@
       "timestamp": 1786565440
     },
     {
-      "title": "Russell Westbrook announces retirement: NBA's all-time triple-doubles leader steps away after 18 seasons",
-      "link": "https://www.cbssports.com/nba/news/russell-westbrook-retirement-nba-hall-of-fame/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1786565074
-    },
-    {
-      "title": "Halo: Campaign Evolved Sales Estimates Put It at a Nearly 50-50 Split Between Xbox and PS5 Buyers",
+      "title": "Halo: Campaign Evolved Sales Estimates Put it at a Nearly 50-50 Split Between Xbox and PS5 Buyers",
       "link": "https://www.ign.com/articles/halo-campaign-evolved-sales-estimates-put-it-at-a-nearly-50-50-split-between-xbox-and-ps5-buyers",
       "source": "IGN",
       "category": "gaming",
@@ -84,6 +147,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1786563714
+    },
+    {
+      "title": "US boosts drone surveillance as flesh-eating screwworms spread in Texas",
+      "link": "https://arstechnica.com/gadgets/2026/08/us-boosts-drone-surveillance-as-flesh-eating-screwworms-spread-in-texas/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786563646
     },
     {
       "title": "DC's TV Division Reportedly Scrapped Two Key TV Projects, Rejected Pitches for Catwoman and Poison Ivy Shows",
@@ -219,25 +289,11 @@
       "timestamp": 1786552786
     },
     {
-      "title": "Warhammer 40,000: Dawn of War 4 Delayed Out of the September Crush, Dev Updates Roadmap of DLC",
-      "link": "https://www.ign.com/articles/warhammer-40000-dawn-of-war-4-delayed-out-of-the-september-crush-dev-updates-roadmap-of-dlc",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786552610
-    },
-    {
       "title": "US tries to override New York gambling laws, orders Kalshi to keep operating",
       "link": "https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1786552423
-    },
-    {
-      "title": "CD Projekt Confirms Layoffs on The Witcher Multiplayer Spin-Off, Issues Statement",
-      "link": "https://www.ign.com/articles/cd-projekt-confirms-layoffs-on-the-witcher-multiplayer-spinoff-issues-statement",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786552284
     },
     {
       "title": "Tesla wants to build a $10B solar factory in Texas",
@@ -289,25 +345,11 @@
       "timestamp": 1786547957
     },
     {
-      "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
-      "link": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786547935
-    },
-    {
       "title": "Farthest 'black hole star' ever found could help solve the James Webb Space Telescope's little red dot mystery",
       "link": "https://www.space.com/astronomy/james-webb-space-telescope/farthest-black-hole-star-ever-found-could-help-solve-the-james-webb-space-telescopes-little-red-dot-mystery",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786547100
-    },
-    {
-      "title": "Silkroad Innovation Hub’s Road to Battlefield competition continues",
-      "link": "https://techcrunch.com/2026/08/12/silkroad-innovation-hubs-road-to-battlefield-competition-continues/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786546920
     },
     {
       "title": "Ozempic may have revealed the brain’s hidden “craving center”",
@@ -324,15 +366,15 @@
       "timestamp": 1786543251
     },
     {
-      "title": "On this day in space! Aug. 12, 2005: Mars Reconnaissance Orbiter launched",
-      "link": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-12-2005-mars-reconnaissance-orbiter-launched",
+      "title": "Green comet caught soaring over Namibia | Space photo of the day for Aug. 12, 2026",
+      "link": "https://www.space.com/astronomy/comets/green-comet-caught-soaring-over-namibia-space-photo-of-the-day-for-aug-12-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786543200
     },
     {
-      "title": "Green comet caught soaring over Namibia | Space photo of the day for Aug. 12, 2026",
-      "link": "https://www.space.com/astronomy/comets/green-comet-caught-soaring-over-namibia-space-photo-of-the-day-for-aug-12-2026",
+      "title": "On this day in space! Aug. 12, 2005: Mars Reconnaissance Orbiter launched",
+      "link": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-12-2005-mars-reconnaissance-orbiter-launched",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786543200
@@ -485,25 +527,11 @@
       "timestamp": 1786481992
     },
     {
-      "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
-      "link": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786480036
-    },
-    {
       "title": "Scientists find 2 million active black holes, exploding stars and more, nearly doubling our view of the high-energy universe",
       "link": "https://www.space.com/astronomy/scientists-find-2-million-active-black-holes-exploding-stars-and-more-nearly-doubling-our-view-of-the-high-energy-universe",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786478400
-    },
-    {
-      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-      "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786477692
     },
     {
       "title": "'Star Trek: Strange New Worlds': Anson Mount, Rebecca Romijn, & Carol Kane on season 4's big leaps and 'outside the box' episodes",
@@ -513,32 +541,11 @@
       "timestamp": 1786474800
     },
     {
-      "title": "Used EV buying guide: The $30,000 edition",
-      "link": "https://arstechnica.com/cars/2026/08/used-ev-buying-guide-the-30000-edition/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786473113
-    },
-    {
-      "title": "Less than 2.5% of Taylor Farms' recalled lettuce went to Taco Bells",
-      "link": "https://arstechnica.com/health/2026/08/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786471214
-    },
-    {
       "title": "1-billion-year-old Mars meteorite found in Algeria is like nothing we've seen from the Red Planet",
       "link": "https://www.space.com/astronomy/mars/1-billion-year-old-mars-meteorite-found-in-algeria-is-like-nothing-weve-seen-from-the-red-planet",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786471200
-    },
-    {
-      "title": "Tracking extreme heat by the hour makes climate change seem even worse",
-      "link": "https://arstechnica.com/science/2026/08/tracking-extreme-heat-by-the-hour-makes-climate-change-seem-even-worse/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786465598
     },
     {
       "title": "SpaceX launches 29 Starlink satellites to orbit from Florida (video, photos)",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786105704
-    },
-    {
-      "title": "Jaylen Brown details bumpy Celtics exit, relationships with Jayson Tatum, Joel Embiid in 76ers introduction",
-      "link": "https://www.cbssports.com/nba/news/jaylen-brown-76ers-celtics-jayson-tatum-joel-embiid-lebron-james/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1786051480
     }
   ]
 }
