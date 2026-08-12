@@ -1,12 +1,61 @@
 {
-  "last_updated": 1786546383,
+  "last_updated": 1786550155,
   "items": [
+    {
+      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+      "link": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786549496
+    },
+    {
+      "title": "Steph Curry wants 'to win and finish his career' with the Warriors, says GM Mike Dunleavy, but can he do both?",
+      "link": "https://www.cbssports.com/nba/news/steph-curry-warriors-career-priorities-mike-dunleavy/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1786548284
+    },
+    {
+      "title": "Booksellers suspect AI firms are buying and then destroying rare books",
+      "link": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786547957
+    },
+    {
+      "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
+      "link": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786547935
+    },
+    {
+      "title": "Farthest 'black hole star' ever found could help solve the James Webb Space Telescope's little red dot mystery",
+      "link": "https://www.space.com/astronomy/james-webb-space-telescope/farthest-black-hole-star-ever-found-could-help-solve-the-james-webb-space-telescopes-little-red-dot-mystery",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786547100
+    },
+    {
+      "title": "Silkroad Innovation Hub’s Road to Battlefield competition continues",
+      "link": "https://techcrunch.com/2026/08/12/silkroad-innovation-hubs-road-to-battlefield-competition-continues/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786546920
+    },
     {
       "title": "Lakers sold for record-breaking $12.5 billion: Josh Kushner, Bob Iger buying NBA franchise from Mark Walter",
       "link": "https://www.cbssports.com/nba/news/lakers-sold-josh-kushner-bob-iger/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786546159
+    },
+    {
+      "title": "Ozempic may have revealed the brain’s hidden “craving center”",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260811011138.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786545367
     },
     {
       "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
@@ -44,7 +93,7 @@
       "timestamp": 1786543251
     },
     {
-      "title": "Google’s Pixel 11 lineup offer fewer hardware changes, but much more Gemini",
+      "title": "Google’s Pixel 11 lineup offers fewer hardware changes, but much more Gemini",
       "link": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -86,6 +135,13 @@
       "timestamp": 1786543200
     },
     {
+      "title": "Scientists turn Starlink into a giant scanner for Earth’s upper atmosphere",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260812015212.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786541885
+    },
+    {
       "title": "Researchers found a way to hijack devices through Zoom screen sharing",
       "link": "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
       "source": "ARSTECHNICA",
@@ -107,11 +163,32 @@
       "timestamp": 1786541010
     },
     {
+      "title": "Scientists discover a hidden brain rhythm that could improve Parkinson’s treatment",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260811011148.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786540859
+    },
+    {
+      "title": "3,500-year-old skeletons challenge what scientists thought they knew about syphilis",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260811011143.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786539958
+    },
+    {
       "title": "Why Vikings made right call in QB competition; key dates on 2026-27 NBA schedule",
       "link": "https://www.cbssports.com/nfl/news/vikings-qb-competition-key-dates-nba-schedule/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786538870
+    },
+    {
+      "title": "The adult brain can repair itself better than scientists thought",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260812015158.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786538596
     },
     {
       "title": "Did poop enable the evolution of complex animals?",
@@ -156,6 +233,13 @@
       "timestamp": 1786534010
     },
     {
+      "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260812015210.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786533471
+    },
+    {
       "title": "Take-Two Boss Strauss Zelnick Says He Asked to Be a Playable Character in WWE 2K26 Because 'I Thought It Would Be Funny for Insiders' — but Don't Expect Him to Pop Up in GTA 6",
       "link": "https://www.ign.com/articles/take-two-boss-strauss-zelnick-says-he-asked-to-be-a-playable-character-in-wwe-2k26-because-i-thought-it-would-be-funny-for-insiders-but-dont-expect-him-to-pop-up-in-gta-6",
       "source": "IGN",
@@ -175,6 +259,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1786529864
+    },
+    {
+      "title": "James Webb captures a cosmic lion sculpted by a dying star",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260812015206.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786529719
     },
     {
       "title": "Reservoir raises $8M to make water heaters that people — and the grid — will actually want",
@@ -205,6 +296,13 @@
       "timestamp": 1786527700
     },
     {
+      "title": "A strange crystal made of electrons just revealed its hidden motion",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260812015156.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786525801
+    },
+    {
       "title": "Sony Announces Phantom Blade Zero State of Play and Everyone Knows How the Chat Is Going to Go",
       "link": "https://www.ign.com/articles/sony-announces-phantom-blade-zero-state-of-play-and-everyone-knows-how-the-chat-is-going-to-go",
       "source": "IGN",
@@ -217,6 +315,13 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786514400
+    },
+    {
+      "title": "Scientists find evidence for two origins of life on Earth",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260811011134.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786512741
     },
     {
       "title": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
@@ -352,25 +457,11 @@
       "timestamp": 1786477103
     },
     {
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786475735
-    },
-    {
       "title": "'Star Trek: Strange New Worlds': Anson Mount, Rebecca Romijn, & Carol Kane on season 4's big leaps and 'outside the box' episodes",
       "link": "https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-cast-on-taking-bigger-leaps-for-season-4s-outside-the-box-episodes-interview",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786474800
-    },
-    {
-      "title": "Google’s Gemini app surges to 1 billion users",
-      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786474152
     },
     {
       "title": "Used EV buying guide: The $30,000 edition",
@@ -392,13 +483,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786471200
-    },
-    {
-      "title": "Bluesky’s active user base is shrinking as its focus expands beyond the app",
-      "link": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786470374
     },
     {
       "title": "Tracking extreme heat by the hour makes climate change seem even worse",
@@ -450,15 +534,22 @@
       "timestamp": 1786460228
     },
     {
-      "title": "On this day in space! Aug. 11, 1960: 1st object successfully recovered from orbit",
-      "link": "https://www.space.com/space-exploration/aug-11-1960-1st-object-successfully-recovered-from-orbit",
+      "title": "Dogs can tell fear from sadness — and scientists saw it in their brains",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260811011132.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786457341
+    },
+    {
+      "title": "Behold the majestic mane of the Lion Nebula | Space photo of the day for Aug. 11, 2026",
+      "link": "https://www.space.com/astronomy/behold-the-majestic-mane-of-the-lion-nebula-space-photo-of-the-day-for-august-11-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786456800
     },
     {
-      "title": "Behold the majestic mane of the Lion Nebula | Space photo of the day for Aug. 11, 2026",
-      "link": "https://www.space.com/astronomy/behold-the-majestic-mane-of-the-lion-nebula-space-photo-of-the-day-for-august-11-2026",
+      "title": "On this day in space! Aug. 11, 1960: 1st object successfully recovered from orbit",
+      "link": "https://www.space.com/space-exploration/aug-11-1960-1st-object-successfully-recovered-from-orbit",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786456800
@@ -471,18 +562,18 @@
       "timestamp": 1786454903
     },
     {
-      "title": "New surveillance tech links your phone to your license plate",
-      "link": "https://arstechnica.com/security/2026/08/new-surveillance-tech-links-your-phone-to-your-license-plate/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786454124
+      "title": "MIT neuroscientists discover the brain can reason without words",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260811011140.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786453947
     },
     {
-      "title": "SpaceX wants to put 1 million AI satellites in orbit. What would that do to Earth's climate?",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-put-1-million-ai-satellites-in-orbit-what-would-that-do-to-earths-climate",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786453200
+      "title": "“Cannot be explained” – New super steel stuns scientists",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260811052717.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786453180
     },
     {
       "title": "Quinnen Williams inks $105M extension with Cowboys; top 15 worst contracts in the NBA",
@@ -490,6 +581,34 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786452480
+    },
+    {
+      "title": "King Harold may have lost England by backing the wrong pope",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260811011129.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786447824
+    },
+    {
+      "title": "Black holes older than the Big Bang could explain dark matter",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260811011146.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786443298
+    },
+    {
+      "title": "150-million-year-old dinosaur footprints reveal something strange about its walk",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260810015727.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786424621
+    },
+    {
+      "title": "The secret hidden in these ancient manuscripts isn’t written in ink",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260810015723.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786414088
     },
     {
       "title": "Greek team owner reveals 'very serious' Nikola Jokić offer, vows to go after Nuggets star again",
@@ -513,123 +632,11 @@
       "timestamp": 1786373468
     },
     {
-      "title": "Scientists discover a hidden switch inside silver nanocatalysts",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260810015714.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786364850
-    },
-    {
-      "title": "240-million-year-old reptile fossil reveals a lost chapter before dinosaurs and crocodiles",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260808234956.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786362002
-    },
-    {
-      "title": "Potatoes may have given Indigenous Andeans a digestive superpower",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260808235005.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786360913
-    },
-    {
-      "title": "The sun will vanish over Europe in a rare total solar eclipse: Watch live",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260810015709.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786359353
-    },
-    {
-      "title": "For 15,000 years, humans and dogs have been changing each other",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260810015700.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786341420
-    },
-    {
-      "title": "Cassini reveals a surprising twist in Saturn’s magnetic shield",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260807035153.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786341394
-    },
-    {
       "title": "Hall of Famer Don Nelson dies at 86: Five-time NBA champion won three Coach of the Year awards",
       "link": "https://www.cbssports.com/nba/news/don-nelson-dies-nba-champion-coach-of-the-year/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786300801
-    },
-    {
-      "title": "60,000-year-old ostrich eggshell engravings reveal a surprisingly sophisticated human mind",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260808235013.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786276297
-    },
-    {
-      "title": "Scientists discover bacteria that lock toxic uranium into a stable form",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260807035149.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786275017
-    },
-    {
-      "title": "Chemists set electrons free and break a decades-old chemistry barrier",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260807035147.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786273323
-    },
-    {
-      "title": "Dinosaurs became giants — so why did they never become tiny?",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260807035137.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786270511
-    },
-    {
-      "title": "Stress can scramble your brain’s internal GPS, MRI study finds",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260807035151.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786245710
-    },
-    {
-      "title": "The dodo bird had a secret sensory world scientists are only now discovering",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260807035143.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786234752
-    },
-    {
-      "title": "Meteorite that smashed through a New Jersey roof reveals clues to life’s origins",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260807035145.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786201134
-    },
-    {
-      "title": "A protein older than blood circulation could transform cancer immunotherapy",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260806050702.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786195881
-    },
-    {
-      "title": "This tiny gold crystal could bring quantum technology out of the deep freeze",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260806050706.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786195052
-    },
-    {
-      "title": "The sun is covered in tiny whirlpools we’ve never seen before",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260807035142.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786194231
     },
     {
       "title": "Kawhi Leonard investigation lingering questions: How bad can things get for Steve Ballmer and the Clippers?",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786041507
-    },
-    {
-      "title": "2026 NBA free agency rankings, tracker: Who's left on the market after LeBron James' deal with the 76ers?",
-      "link": "https://www.cbssports.com/nba/news/2026-nba-free-agency-rankings-tracker/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1785972531
     }
   ]
 }
