@@ -1,6 +1,34 @@
 {
-  "last_updated": 1786491346,
+  "last_updated": 1786498830,
   "items": [
+    {
+      "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+      "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786493320
+    },
+    {
+      "title": "Zack Snyder Returns to Warner Bros. Lot Years After DCEU Exit",
+      "link": "https://www.ign.com/articles/zack-snyder-returns-to-warner-bros-lot-years-after-dceu-exit",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786492613
+    },
+    {
+      "title": "SpaceX could make $500 billion in 2028, Elon Musk says",
+      "link": "https://www.space.com/space-exploration/spacex-could-make-usd500-billion-in-2027-elon-musk-says",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786491768
+    },
+    {
+      "title": "Trump wants Big Pharma to split MMR vaccine; Big Pharma thinks it's idiotic",
+      "link": "https://arstechnica.com/health/2026/08/trump-wants-big-pharma-to-split-mmr-vaccine-big-pharma-thinks-its-idiotic/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786487505
+    },
     {
       "title": "Ewan McGregor Wants to Spend the 'Rest of His Career' Playing Obi-Wan Kenobi",
       "link": "https://www.ign.com/articles/ewan-mcgregor-wants-to-spend-the-rest-of-his-career-playing-obi-wan-kenobi",
@@ -247,13 +275,6 @@
       "timestamp": 1786470082
     },
     {
-      "title": "Toy Story 5 Gets a Digital Release Date After Crossing $1 Billion at the Global Box Office",
-      "link": "https://www.ign.com/articles/toy-story-5-gets-a-digital-release-date-after-crossing-1-billion-at-the-global-box-office",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786469473
-    },
-    {
       "title": "Tracking extreme heat by the hour makes climate change seem even worse",
       "link": "https://arstechnica.com/science/2026/08/tracking-extreme-heat-by-the-hour-makes-climate-change-seem-even-worse/",
       "source": "ARSTECHNICA",
@@ -345,15 +366,15 @@
       "timestamp": 1786460228
     },
     {
-      "title": "Behold the majestic mane of the Lion Nebula | Space photo of the day for Aug. 11, 2026",
-      "link": "https://www.space.com/astronomy/behold-the-majestic-mane-of-the-lion-nebula-space-photo-of-the-day-for-august-11-2026",
+      "title": "On this day in space! Aug. 11, 1960: 1st object successfully recovered from orbit",
+      "link": "https://www.space.com/space-exploration/aug-11-1960-1st-object-successfully-recovered-from-orbit",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786456800
     },
     {
-      "title": "On this day in space! Aug. 11, 1960: 1st object successfully recovered from orbit",
-      "link": "https://www.space.com/space-exploration/aug-11-1960-1st-object-successfully-recovered-from-orbit",
+      "title": "Behold the majestic mane of the Lion Nebula | Space photo of the day for Aug. 11, 2026",
+      "link": "https://www.space.com/astronomy/behold-the-majestic-mane-of-the-lion-nebula-space-photo-of-the-day-for-august-11-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786456800
@@ -450,20 +471,6 @@
       "timestamp": 1786397451
     },
     {
-      "title": "Developer Cold Iron Studios shuts down cloud version of $60 game with no refunds",
-      "link": "https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786397198
-    },
-    {
-      "title": "Amazon backs power plant that may become top source of US climate pollution",
-      "link": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786394752
-    },
-    {
       "title": "The Andromeda galaxy may be getting bullied by a smaller galactic neighbor, scientists find",
       "link": "https://www.space.com/astronomy/galaxies/the-andromeda-galaxy-may-be-getting-bullied-by-a-smaller-galactic-neighbor-scientists-find",
       "source": "SPACE",
@@ -483,13 +490,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786379252
-    },
-    {
-      "title": "Chinese rocket explodes less than 90 seconds after liftoff (photos)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/chinese-rocket-explodes-less-than-90-seconds-after-liftoff",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786377805
     },
     {
       "title": "Ben Simmons eyeing NBA comeback as he plays with Australian national team",
