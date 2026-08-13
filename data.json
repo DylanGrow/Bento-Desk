@@ -1,12 +1,47 @@
 {
-  "last_updated": 1786651025,
+  "last_updated": 1786653912,
   "items": [
+    {
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786652079
+    },
+    {
+      "title": "Winners and losers of the 2026-27 NBA schedule: A weird Opening Day, a James family reunion and more",
+      "link": "https://www.cbssports.com/nba/news/nba-schedule-2026-27-winners-losers/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1786651759
+    },
+    {
+      "title": "Supermassive black hole spews energy 300,000 light years into deep space",
+      "link": "https://www.space.com/astronomy/black-holes/supermassive-black-hole-spews-energy-300-000-light-years-into-deep-space",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786651200
+    },
     {
       "title": "NBA schedule release: 10 key dates to circle for 2026-27 season from big returns to rivalries renewed",
       "link": "https://www.cbssports.com/nba/news/nba-2026-27-schedule-release-key-dates-knicks-76ers-spurs-thunder-lebron-james-giannis-antetokounmpo/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786650578
+    },
+    {
+      "title": "Spider-Man: Brand New Day Is the Fastest Film to Reach $700 Million at Domestic Box Office",
+      "link": "https://www.ign.com/articles/spider-man-brand-new-day-is-the-fastest-film-to-reach-700-million-at-domestic-box-office",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786650218
+    },
+    {
+      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+      "link": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786649938
     },
     {
       "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
@@ -23,6 +58,13 @@
       "timestamp": 1786648789
     },
     {
+      "title": "Virgin Galactic wants your help naming its new Delta class spaceship",
+      "link": "https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786648335
+    },
+    {
       "title": "NASA's canceled lunar space station tech will help build the Artemis moon base",
       "link": "https://www.space.com/space-exploration/artemis/nasas-canceled-lunar-space-station-tech-will-help-build-the-artemis-moon-base",
       "source": "SPACE",
@@ -37,11 +79,25 @@
       "timestamp": 1786646872
     },
     {
+      "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
+      "link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786645916
+    },
+    {
       "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
       "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1786645694
+    },
+    {
+      "title": "Flock “can’t tech its way out” of the stalker cop problem, experts say",
+      "link": "https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786644614
     },
     {
       "title": "'The X-Files' creator Chris Carter says new director's cut of 'I Want to Believe' is 'the horror movie that we really wanted to make' (interview)",
@@ -51,11 +107,32 @@
       "timestamp": 1786644000
     },
     {
+      "title": "Pet owners say smart pet feeder outage led to furry ones going unfed",
+      "link": "https://arstechnica.com/gadgets/2026/08/pet-owners-say-smart-pet-feeder-outage-led-to-furry-ones-going-unfed/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786643633
+    },
+    {
+      "title": "The new Instagram logo is the perfect embodiment of AI slop",
+      "link": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786642330
+    },
+    {
       "title": "OpenAI hires new CRO as executive shake-up continues",
       "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1786640833
+    },
+    {
+      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786640413
     },
     {
       "title": "How to image the planets with a telescope and camera",
@@ -226,6 +303,13 @@
       "timestamp": 1786629657
     },
     {
+      "title": "Nautus Announced for PC",
+      "link": "https://www.ign.com/articles/nautus-echoes-from-below-announced-for-pc",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786629600
+    },
+    {
       "title": "On this day in space! Aug. 13, 2014: Game-changing WorldView-3 Earth-observing satellite launches to orbit",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-aug-13-2014-game-changing-worldview-3-earth-observing-satellite-launches-to-orbit",
       "source": "SPACE",
@@ -237,13 +321,6 @@
       "link": "https://www.space.com/stargazing/solar-eclipses/total-solar-eclipse-stuns-skywatchers-space-photo-of-the-day-for-aug-13-2026",
       "source": "SPACE",
       "category": "space",
-      "timestamp": 1786629600
-    },
-    {
-      "title": "Nautus Announced for PC",
-      "link": "https://www.ign.com/articles/nautus-echoes-from-below-announced-for-pc",
-      "source": "IGN",
-      "category": "gaming",
       "timestamp": 1786629600
     },
     {
@@ -301,13 +378,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1786619418
-    },
-    {
-      "title": "Spider-Man: Brand New Day Writers Insist That, 'Technically,' Jean Grey Didn't Kill Anyone — or So We Should Believe",
-      "link": "https://www.ign.com/articles/spider-man-brand-new-day-writers-insist-that-technically-jean-grey-didnt-kill-anyone-or-so-we-should-believe",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786618567
     },
     {
       "title": "New private 'Perceptor' probes will keep an eye on satellites high above Earth",
@@ -387,32 +457,11 @@
       "timestamp": 1786568400
     },
     {
-      "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
-      "link": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786568021
-    },
-    {
       "title": "Lakers sold for record-breaking $12.5 billion: Everything to know about Josh Kushner, Bob Iger's purchase",
       "link": "https://www.cbssports.com/nba/news/lakers-sold-josh-kushner-bob-iger/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786566333
-    },
-    {
-      "title": "Trump sued over \"brazen\" scheme to sell Truth Social API access for $100K a month",
-      "link": "https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786566052
-    },
-    {
-      "title": "US boosts drone surveillance as flesh-eating screwworms spread in Texas",
-      "link": "https://arstechnica.com/gadgets/2026/08/us-boosts-drone-surveillance-as-flesh-eating-screwworms-spread-in-texas/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786563646
     },
     {
       "title": "Total solar eclipse 2026 thrills millions with a stunning cosmic spectacle (photos, video)",
@@ -436,32 +485,11 @@
       "timestamp": 1786557600
     },
     {
-      "title": "Two hydrogen-burning engines powered this car to a new land speed record",
-      "link": "https://arstechnica.com/cars/2026/08/jcb-sets-a-new-406-mph-speed-record-for-hydrogen-powered-cars/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786554071
-    },
-    {
-      "title": "US tries to override New York gambling laws, orders Kalshi to keep operating",
-      "link": "https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786552423
-    },
-    {
       "title": "Steph Curry wants 'to win and finish his career' with the Warriors, says GM Mike Dunleavy, but can he do both?",
       "link": "https://www.cbssports.com/nba/news/steph-curry-warriors-career-priorities-mike-dunleavy/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786548284
-    },
-    {
-      "title": "Booksellers suspect AI firms are buying and then destroying rare books",
-      "link": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786547957
     },
     {
       "title": "Farthest 'black hole star' ever found could help solve the James Webb Space Telescope's little red dot mystery",
@@ -478,32 +506,11 @@
       "timestamp": 1786545367
     },
     {
-      "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
-      "link": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786543251
-    },
-    {
-      "title": "On this day in space! Aug. 12, 2005: Mars Reconnaissance Orbiter launched",
-      "link": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-12-2005-mars-reconnaissance-orbiter-launched",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786543200
-    },
-    {
       "title": "Scientists turn Starlink into a giant scanner for Earth’s upper atmosphere",
       "link": "https://www.sciencedaily.com/releases/2026/08/260812015212.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1786541885
-    },
-    {
-      "title": "Researchers found a way to hijack devices through Zoom screen sharing",
-      "link": "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786541832
     },
     {
       "title": "Scientists discover a hidden brain rhythm that could improve Parkinson’s treatment",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786127368
-    },
-    {
-      "title": "Rookie QBs Carson Beck, Haynes King shine in Hall of Fame Game; MLB playoff predictions",
-      "link": "https://www.cbssports.com/nfl/news/rookie-qbs-carson-beck-haynes-king-shine-in-hall-of-fame-game-mlb-playoff-predictions/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1786107255
     }
   ]
 }
