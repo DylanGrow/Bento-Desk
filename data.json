@@ -1,6 +1,104 @@
 {
-  "last_updated": 1786632818,
+  "last_updated": 1786636562,
   "items": [
+    {
+      "title": "Instagram introduces a redesigned wordmark",
+      "link": "https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786635962
+    },
+    {
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786635052
+    },
+    {
+      "title": "Krispy Kreme Is Getting 6 New Pokémon-Themed Donuts",
+      "link": "https://www.ign.com/articles/krispy-kreme-pokemon-dougnut-30th-anniversary-announcement",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786634266
+    },
+    {
+      "title": "Game of Thrones: War for Westeros Gameplay Reveal Shows Lannister Troops Getting Cooked by a Fire-Breathing Dragon, With a Longer Look Due Later This Month",
+      "link": "https://www.ign.com/articles/game-of-thrones-war-for-westeros-gameplay-reveal-shows-lannister-troops-getting-cooked-by-a-fire-breathing-dragon-with-a-longer-look-due-later-this-month",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786634209
+    },
+    {
+      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786633680
+    },
+    {
+      "title": "Who really needs a cocktail robot?",
+      "link": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786633200
+    },
+    {
+      "title": "Everything New We Learned About Marvel's Wolverine From Our Big Interview With Insomniac",
+      "link": "https://www.ign.com/articles/everything-new-we-learned-about-marvels-wolverine-from-our-big-interview-with-insomniac",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786633200
+    },
+    {
+      "title": "Insomniac Confirms Marvel's Wolverine Performance Mode Details",
+      "link": "https://www.ign.com/articles/insomniac-confirms-marvels-wolverine-performance-mode-details",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786633200
+    },
+    {
+      "title": "Insomniac Explains Why Wolverine's Suit Heals Itself",
+      "link": "https://www.ign.com/articles/insomniac-explains-why-wolverines-suit-heals-itself",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786633200
+    },
+    {
+      "title": "Insomniac Says There's Plenty in Marvel's Wolverine to Keep People Playing After the Credits Roll, Including New Game Plus Day-One",
+      "link": "https://www.ign.com/articles/insomniac-says-theres-plenty-in-marvels-wolverine-to-keep-people-playing-after-the-credits-roll-including-new-game-plus-day-one",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786633200
+    },
+    {
+      "title": "Sabretooth Will Actually Steal Wolverine's Kills When They Team Up in Gameplay",
+      "link": "https://www.ign.com/articles/sabretooth-will-actually-steal-wolverines-kills-when-they-team-up-in-gameplay",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786633200
+    },
+    {
+      "title": "Why the X-Men Don't Exist in Marvel's Wolverine",
+      "link": "https://www.ign.com/articles/why-the-x-men-dont-exist-in-marvels-wolverine",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786633200
+    },
+    {
+      "title": "Total War: Warhammer 3 Just Confirmed the Release Date for Its Biggest Piece of DLC in the Series 10-Year History",
+      "link": "https://www.ign.com/articles/total-war-warhammer-3-just-confirmed-the-release-date-for-its-biggest-piece-of-dlc-in-the-series-10-year-history",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786632844
+    },
+    {
+      "title": "Tomb Raider: Catalyst, the Next Kingdom Come Game From Warhorse, and Darksiders 4 All Due Out by April 2028",
+      "link": "https://www.ign.com/articles/tomb-raider-catalyst-the-next-kingdom-come-game-from-warhorse-and-darksiders-4-all-due-out-by-april-2028",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786631830
+    },
     {
       "title": "Apple in talks to pay publishers to provide Siri with current news: report",
       "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
@@ -23,6 +121,13 @@
       "timestamp": 1786629976
     },
     {
+      "title": "Rivian's 2027 changes include its No. 1 most-requested feature",
+      "link": "https://arstechnica.com/cars/2026/08/rivian-tweaks-its-r1-range-for-model-year-2027/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786629657
+    },
+    {
       "title": "On this day in space! Aug. 13, 2014: Game-changing WorldView-3 Earth-observing satellite launches to orbit",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-aug-13-2014-game-changing-worldview-3-earth-observing-satellite-launches-to-orbit",
       "source": "SPACE",
@@ -42,6 +147,20 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1786629600
+    },
+    {
+      "title": "Anthropic could be worth $2 trillion when it goes public",
+      "link": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786629536
+    },
+    {
+      "title": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
+      "link": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786628935
     },
     {
       "title": "Can social media start over? Bluesky’s CEO and COO deliver their case at TechCrunch Disrupt 2026",
@@ -79,7 +198,7 @@
       "timestamp": 1786621434
     },
     {
-      "title": "Claude's new Scarlet Letter watermark is invisible — for now",
+      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
       "link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -112,34 +231,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1786611643
-    },
-    {
-      "title": "There's Never Been a Better Time to Log Into Pokémon Go, as the Game Gives Away a Perfect Stat Mewtwo and Master Ball",
-      "link": "https://www.ign.com/articles/theres-never-been-a-better-time-to-log-into-pokemon-go-as-the-game-gives-away-a-perfect-stat-mewtwo-and-master-ball",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786610898
-    },
-    {
-      "title": "McDonald's Announces Eight Hello Kitty x Godzilla Toys Coming to Happy Meals This August",
-      "link": "https://www.ign.com/articles/mcdonalds-announces-eight-hello-kitty-x-godzilla-toys-coming-to-happy-meals-this-august",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786578332
-    },
-    {
-      "title": "Made by Google 2026: Everything Announced",
-      "link": "https://www.ign.com/articles/made-by-google-2026-everything-announced",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786577253
-    },
-    {
-      "title": "Old School Runescape Officially Recognizes Player Who Reached Level 99 Fishing Catching Only Shrimp and Anchovies",
-      "link": "https://www.ign.com/articles/old-school-runescape-officially-recognizes-player-who-reached-level-99-fishing-catching-only-shrimp-and-anchovies",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786575422
     },
     {
       "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
@@ -177,13 +268,6 @@
       "timestamp": 1786572145
     },
     {
-      "title": "Dataminers Uncover Five Possible DLC Characters for Marvel Tokon: Fighting Souls",
-      "link": "https://www.ign.com/articles/dataminers-uncover-five-possible-dlc-characters-for-marvel-tokon-fighting-souls",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786571843
-    },
-    {
       "title": "Three big questions after shocking Lakers sale: Dodger-fication on hold? What does this mean for a Vegas team?",
       "link": "https://www.cbssports.com/nba/news/three-big-questions-shocking-lakers-sale/",
       "source": "CBSSPORTS",
@@ -196,13 +280,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1786571001
-    },
-    {
-      "title": "Hogwarts Legacy 2 Is Officially in the Works, Confirms Warner Bros.",
-      "link": "https://www.ign.com/articles/hogwarts-legacy-2-is-officially-in-the-works-confirms-warner-bros",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786569743
     },
     {
       "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
@@ -226,25 +303,11 @@
       "timestamp": 1786568400
     },
     {
-      "title": "Brandon Sanderson Shares a Look Into Tolkien's Life as a Professor Before He Authored The Lord of the Rings",
-      "link": "https://www.ign.com/articles/brandon-sanderson-shares-a-look-into-tolkiens-life-as-a-professor-before-he-authored-the-lord-of-the-rings-books",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786568234
-    },
-    {
       "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
       "link": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1786568021
-    },
-    {
-      "title": "Theater Employee Makes Their Own Spider-Man: Brand New Day Poster After Cinema Never Received Official One",
-      "link": "https://www.ign.com/articles/theater-employee-makes-their-own-spider-man-brand-new-day-poster-after-cinema-never-receives-official-one",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786567827
     },
     {
       "title": "Lakers sold for record-breaking $12.5 billion: Everything to know about Josh Kushner, Bob Iger's purchase",
@@ -259,20 +322,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1786566052
-    },
-    {
-      "title": "Reddit User Cuts Steam Machine Faceplates Out of Same Marble Michelangelo Used",
-      "link": "https://www.ign.com/articles/reddit-user-cuts-steam-machine-faceplates-out-of-same-marble-michelangelo-used",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786565539
-    },
-    {
-      "title": "Barbie 2 May Not Happen as Warner Bros. and Creative Team Clash Over Pay Demands",
-      "link": "https://www.ign.com/articles/barbie-2-may-not-happen-as-warner-bros-and-creative-team-clash-over-pay-demands",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786565465
     },
     {
       "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
@@ -359,39 +408,11 @@
       "timestamp": 1786554071
     },
     {
-      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-      "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786553878
-    },
-    {
-      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-      "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786553162
-    },
-    {
       "title": "US tries to override New York gambling laws, orders Kalshi to keep operating",
       "link": "https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1786552423
-    },
-    {
-      "title": "Tesla wants to build a $10B solar factory in Texas",
-      "link": "https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786551511
-    },
-    {
-      "title": "Form Energy raises $750M to build more 100-hour batteries for the grid",
-      "link": "https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786551503
     },
     {
       "title": "Steph Curry wants 'to win and finish his career' with the Warriors, says GM Mike Dunleavy, but can he do both?",
@@ -429,15 +450,15 @@
       "timestamp": 1786543251
     },
     {
-      "title": "Green comet caught soaring over Namibia | Space photo of the day for Aug. 12, 2026",
-      "link": "https://www.space.com/astronomy/comets/green-comet-caught-soaring-over-namibia-space-photo-of-the-day-for-aug-12-2026",
+      "title": "On this day in space! Aug. 12, 2005: Mars Reconnaissance Orbiter launched",
+      "link": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-12-2005-mars-reconnaissance-orbiter-launched",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786543200
     },
     {
-      "title": "On this day in space! Aug. 12, 2005: Mars Reconnaissance Orbiter launched",
-      "link": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-12-2005-mars-reconnaissance-orbiter-launched",
+      "title": "Green comet caught soaring over Namibia | Space photo of the day for Aug. 12, 2026",
+      "link": "https://www.space.com/astronomy/comets/green-comet-caught-soaring-over-namibia-space-photo-of-the-day-for-aug-12-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786543200
@@ -455,13 +476,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1786541832
-    },
-    {
-      "title": "Formula E finds a new home on Disney+, ESPN+",
-      "link": "https://arstechnica.com/cars/2026/08/formula-e-finds-a-new-home-on-disney-espn/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786541730
     },
     {
       "title": "Scientists discover a hidden brain rhythm that could improve Parkinson’s treatment",
@@ -490,13 +504,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1786538596
-    },
-    {
-      "title": "Did poop enable the evolution of complex animals?",
-      "link": "https://arstechnica.com/science/2026/08/feces-fueled-a-flurry-of-evolution-during-the-cambrian-study-suggests/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786538078
     },
     {
       "title": "Perseid meteor shower peaks under perfect skies tonight — here's what to expect",
@@ -546,13 +553,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1786512741
-    },
-    {
-      "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
-      "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786493320
     },
     {
       "title": "SpaceX could make $500 billion in 2028, Elon Musk says (video)",
