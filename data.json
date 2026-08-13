@@ -1,6 +1,27 @@
 {
-  "last_updated": 1786621340,
+  "last_updated": 1786626125,
   "items": [
+    {
+      "title": "When is the next solar eclipse? Mark your calendar for an upcoming 'ring of fire' and the 'eclipse of the century'",
+      "link": "https://www.space.com/stargazing/solar-eclipses/when-is-the-next-solar-eclipse-mark-your-calendar-for-an-upcoming-ring-of-fire-and-the-eclipse-of-the-century",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786622400
+    },
+    {
+      "title": "Nintendo Now Warning In-Store Customers of Switch 2 Price Hike, With Just Over 2 Weeks to Go Until Cost Increases",
+      "link": "https://www.ign.com/articles/nintendo-now-warning-in-store-customers-of-switch-2-price-hike-with-just-over-2-weeks-to-go-until-cost-increases",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786621434
+    },
+    {
+      "title": "Claude's new Scarlet Letter watermark is invisible — for now",
+      "link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786619418
+    },
     {
       "title": "Spider-Man: Brand New Day Writers Insist That, 'Technically,' Jean Grey Didn't Kill Anyone — or So We Should Believe",
       "link": "https://www.ign.com/articles/spider-man-brand-new-day-writers-insist-that-technically-jean-grey-didnt-kill-anyone-or-so-we-should-believe",
@@ -212,13 +233,6 @@
       "timestamp": 1786563929
     },
     {
-      "title": "Coyote vs. Acme Debuts With Perfect 100% Score on Rotten Tomatoes",
-      "link": "https://www.ign.com/articles/coyote-vs-acme-debuts-with-perfect-100-score-on-rotten-tomatoes",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786563714
-    },
-    {
       "title": "US boosts drone surveillance as flesh-eating screwworms spread in Texas",
       "link": "https://arstechnica.com/gadgets/2026/08/us-boosts-drone-surveillance-as-flesh-eating-screwworms-spread-in-texas/",
       "source": "ARSTECHNICA",
@@ -387,15 +401,15 @@
       "timestamp": 1786543251
     },
     {
-      "title": "On this day in space! Aug. 12, 2005: Mars Reconnaissance Orbiter launched",
-      "link": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-12-2005-mars-reconnaissance-orbiter-launched",
+      "title": "Green comet caught soaring over Namibia | Space photo of the day for Aug. 12, 2026",
+      "link": "https://www.space.com/astronomy/comets/green-comet-caught-soaring-over-namibia-space-photo-of-the-day-for-aug-12-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786543200
     },
     {
-      "title": "Green comet caught soaring over Namibia | Space photo of the day for Aug. 12, 2026",
-      "link": "https://www.space.com/astronomy/comets/green-comet-caught-soaring-over-namibia-space-photo-of-the-day-for-aug-12-2026",
+      "title": "On this day in space! Aug. 12, 2005: Mars Reconnaissance Orbiter launched",
+      "link": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-12-2005-mars-reconnaissance-orbiter-launched",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786543200
@@ -520,13 +534,6 @@
       "timestamp": 1786491768
     },
     {
-      "title": "Trump wants Big Pharma to split MMR vaccine; Big Pharma thinks it's idiotic",
-      "link": "https://arstechnica.com/health/2026/08/trump-wants-big-pharma-to-split-mmr-vaccine-big-pharma-thinks-its-idiotic/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786487505
-    },
-    {
       "title": "Scientists create largest 2D map of the universe with 5.6 trillion pixels and nearly 4 billion cosmic objects",
       "link": "https://www.space.com/astronomy/scientists-create-largest-2d-map-of-the-universe-with-5-6-trillion-pixels-and-nearly-4-billion-cosmic-objects",
       "source": "SPACE",
@@ -546,13 +553,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786474800
-    },
-    {
-      "title": "1-billion-year-old Mars meteorite found in Algeria is like nothing we've seen from the Red Planet",
-      "link": "https://www.space.com/astronomy/mars/1-billion-year-old-mars-meteorite-found-in-algeria-is-like-nothing-weve-seen-from-the-red-planet",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786471200
     },
     {
       "title": "NBA opening night odds: LeBron James, 76ers underdogs at champion Knicks in unique tripleheader to tip 2026-27",
