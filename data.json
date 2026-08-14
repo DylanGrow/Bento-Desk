@@ -1,6 +1,62 @@
 {
-  "last_updated": 1786722438,
+  "last_updated": 1786726111,
   "items": [
+    {
+      "title": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
+      "link": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786724464
+    },
+    {
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786724020
+    },
+    {
+      "title": "Ars Live recap: How can we stop publishers from killing their own games?",
+      "link": "https://arstechnica.com/gaming/2026/08/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786723897
+    },
+    {
+      "title": "The Watcher, an Orwellian Surveillance Sim, Announced for PC",
+      "link": "https://www.ign.com/articles/the-watcher-an-orwellian-surveillance-sim-announced-for-pc",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786723200
+    },
+    {
+      "title": "Can Venus cast a shadow? Here's how to see it for yourself",
+      "link": "https://www.space.com/stargazing/can-venus-cast-a-shadow-heres-how-to-see-it-for-yourself",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786723200
+    },
+    {
+      "title": "The X-Files Returns to Comics With New Series From Dynamite Entertainment",
+      "link": "https://www.ign.com/articles/the-x-files-returns-to-comics-with-new-series-from-dynamite-entertainment",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786723165
+    },
+    {
+      "title": "Xbox Confirms Call of Duty: Modern Warfare 4 Beta Will Feature Single-Player Campaign Mission for the First Time",
+      "link": "https://www.ign.com/articles/xbox-confirms-call-of-duty-modern-warfare-4-beta-will-feature-single-player-campaign-mission-for-the-first-time",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786722768
+    },
+    {
+      "title": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
+      "link": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786722400
+    },
     {
       "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
       "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
@@ -16,11 +72,25 @@
       "timestamp": 1786721021
     },
     {
+      "title": "R-rated director's cut of X-Files film restores Chris Carter's original horror vision",
+      "link": "https://arstechnica.com/culture/2026/08/r-rated-directors-cut-of-x-files-film-restores-chris-carters-original-horror-vision/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786720702
+    },
+    {
       "title": "Kingdom Hearts Is a Billion-Dollar Franchise, Disney Declares Ahead of Hotly Anticipated D23 Panel",
       "link": "https://www.ign.com/articles/kingdom-hearts-is-a-billion-dollar-franchise-disney-declares-ahead-of-hotly-anticipated-d23-panel",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1786720604
+    },
+    {
+      "title": "Taylor Farms' connections to Trump admin spurs probe into Cyclospora response",
+      "link": "https://arstechnica.com/health/2026/08/taylor-farms-connections-to-trump-admin-spurs-probe-into-cyclospora-response/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786719796
     },
     {
       "title": "Water can survive surprisingly close to the Milky Way's supermassive black hole, James Webb Space Telescope finds",
@@ -65,6 +135,13 @@
       "timestamp": 1786716275
     },
     {
+      "title": "Project Revenant, a Unique Precision-Aiming 2D Sidescroller, Announces Public Playtest",
+      "link": "https://www.ign.com/articles/project-revenant-a-unique-precision-aiming-2d-sidescroller-announces-public-playtest",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786716000
+    },
+    {
       "title": "On this day in space! Aug. 14, 1992: Meteorite shower hits Uganda",
       "link": "https://www.space.com/stargazing/meteor-showers/on-this-day-in-space-aug-14-1992-meteorite-shower-hits-uganda",
       "source": "SPACE",
@@ -76,13 +153,6 @@
       "link": "https://www.space.com/stargazing/solar-eclipses/the-iss-photobombs-the-sun-during-the-total-solar-eclipse-space-photo-of-the-day-for-aug-14-2026",
       "source": "SPACE",
       "category": "space",
-      "timestamp": 1786716000
-    },
-    {
-      "title": "Project Revenant, a Unique Precision-Aiming 2D Sidescroller, Announces Public Playtest",
-      "link": "https://www.ign.com/articles/project-revenant-a-unique-precision-aiming-2d-sidescroller-announces-public-playtest",
-      "source": "IGN",
-      "category": "gaming",
       "timestamp": 1786716000
     },
     {
@@ -121,7 +191,7 @@
       "timestamp": 1786712253
     },
     {
-      "title": "Spider-Man: Beyond the Spider-Verse Suffers Significant Leak Online as 4 Minutes of Footage Hits Social Media",
+      "title": "[UPDATE] Spider-Man: Beyond the Spider-Verse's Christopher Miller Says Leaked Footage Is 'Unfinished' and 'Not Fully Rendered'",
       "link": "https://www.ign.com/articles/spider-man-beyond-the-spider-verse-suffers-significant-leak-online-as-4-minutes-of-footage-hits-social-media",
       "source": "IGN",
       "category": "gaming",
@@ -373,13 +443,6 @@
       "timestamp": 1786647600
     },
     {
-      "title": "Matthew McConaughey Explains Why He Turned Down Playing Joel in HBO's The Last of Us Show",
-      "link": "https://www.ign.com/articles/matthew-mcconaughey-explains-why-he-turned-down-playing-joel-in-hbos-the-last-of-us-show",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786646872
-    },
-    {
       "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
       "link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
       "source": "ARSTECHNICA",
@@ -422,13 +485,6 @@
       "timestamp": 1786642330
     },
     {
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786640833
-    },
-    {
       "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
       "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
       "source": "ARSTECHNICA",
@@ -443,13 +499,6 @@
       "timestamp": 1786640400
     },
     {
-      "title": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
-      "link": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786639073
-    },
-    {
       "title": "Virgin Galactic delays next commercial spaceflight to 2027",
       "link": "https://www.space.com/space-exploration/private-spaceflight/virgin-galactic-delays-next-commercial-spaceflight-to-2027",
       "source": "SPACE",
@@ -457,32 +506,11 @@
       "timestamp": 1786636992
     },
     {
-      "title": "'Halo Studios Went Too Far in the Wrong Direction' — Co-Creator of Halo Hits Out at the Main Menu Ring in Xbox's New Remake",
-      "link": "https://www.ign.com/articles/halo-studios-went-too-far-in-the-wrong-direction-co-creator-of-halo-hits-out-at-the-main-menu-ring-in-xboxs-new-remake",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786636026
-    },
-    {
       "title": "The Perseid meteor shower peak was spectacular: Here are our favorite photos",
       "link": "https://www.space.com/stargazing/meteor-showers/the-perseid-meteor-shower-peak-was-spectacular-here-are-our-favorite-photos-aug-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786634588
-    },
-    {
-      "title": "Krispy Kreme Is Getting 6 New Pokémon-Themed Donuts",
-      "link": "https://www.ign.com/articles/krispy-kreme-pokemon-doughnut-30th-anniversary-announcement",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786634266
-    },
-    {
-      "title": "Rivian's 2027 changes include its No. 1 most-requested feature",
-      "link": "https://arstechnica.com/cars/2026/08/rivian-tweaks-its-r1-range-for-model-year-2027/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786629657
     },
     {
       "title": "On this day in space! Aug. 13, 2014: Game-changing WorldView-3 Earth-observing satellite launches to orbit",
@@ -499,20 +527,6 @@
       "timestamp": 1786629600
     },
     {
-      "title": "Anthropic could be worth $2 trillion when it goes public",
-      "link": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786629536
-    },
-    {
-      "title": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
-      "link": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786628935
-    },
-    {
       "title": "One faulty gene copy can make the heart’s DNA fold the wrong way",
       "link": "https://www.sciencedaily.com/releases/2026/08/260812015214.htm",
       "source": "SCIENCEDAILY",
@@ -527,13 +541,6 @@
       "timestamp": 1786627216
     },
     {
-      "title": "'Strange New Worlds' latest lookalike episode is part of a long line of 'Star Trek' doppelganger stories",
-      "link": "https://www.space.com/entertainment/space-movies-shows/number-ones-doppelganger-in-strange-new-worlds-latest-episode-is-part-of-a-long-line-of-star-trek-lookalikes",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786626904
-    },
-    {
       "title": "JWST spots a bizarre “black hole star” 100 billion times brighter than a star",
       "link": "https://www.sciencedaily.com/releases/2026/08/260813045538.htm",
       "source": "SCIENCEDAILY",
@@ -546,13 +553,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786625586
-    },
-    {
-      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
-      "link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786619418
     },
     {
       "title": "A 236-million-year-old fossil could rewrite the story of mammalian birth",
