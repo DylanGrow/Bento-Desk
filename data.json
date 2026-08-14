@@ -1,6 +1,27 @@
 {
-  "last_updated": 1786739214,
+  "last_updated": 1786742479,
   "items": [
+    {
+      "title": "Is empty space really empty? This magnetic star may finally solve a 90-year-old mystery",
+      "link": "https://www.space.com/astronomy/stars/is-empty-space-really-empty-this-magnetic-star-may-finally-solve-a-90-year-old-mystery",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786741200
+    },
+    {
+      "title": "Self-driving trucks are officially testing on California highways",
+      "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786739869
+    },
+    {
+      "title": "Dennis Schröder trade grades: Cavaliers setting themselves up for bigger move by sending guard to Hornets?",
+      "link": "https://www.cbssports.com/nba/news/dennis-schroder-trade-grades-cavaliers-hornets-tre-mann/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1786738632
+    },
     {
       "title": "6 space board games to channel the political drama of 'For All Mankind' and 'Star City'",
       "link": "https://www.space.com/entertainment/space-games/6-space-board-games-to-channel-the-political-drama-of-for-all-mankind-and-star-city",
@@ -135,7 +156,7 @@
       "timestamp": 1786726800
     },
     {
-      "title": "Avatar Boat Ride Attraction at Disney California Adventure First Look – D23",
+      "title": "Avatar Boat Ride Attraction at Disney California Adventure First Look | D23 2026",
       "link": "https://www.ign.com/articles/avatar-boat-ride-attraction-at-disney-california-adventure-first-look-d23",
       "source": "IGN",
       "category": "gaming",
@@ -478,13 +499,6 @@
       "timestamp": 1786654800
     },
     {
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786652079
-    },
-    {
       "title": "Winners and losers of the 2026-27 NBA schedule: A weird Opening Day, a James family reunion and more",
       "link": "https://www.cbssports.com/nba/news/nba-schedule-2026-27-winners-losers/",
       "source": "CBSSPORTS",
@@ -525,13 +539,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786644000
-    },
-    {
-      "title": "How to image the planets with a telescope and camera",
-      "link": "https://www.space.com/stargazing/skywatching-kit/how-to-image-the-planets-with-a-telescope-and-camera",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786640400
     },
     {
       "title": "One faulty gene copy can make the heart’s DNA fold the wrong way",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786397451
-    },
-    {
-      "title": "Ranking NBA's 15 worst contracts: Trae Young, De'Aaron Fox in top five, but Joel Embiid is No. 1",
-      "link": "https://www.cbssports.com/nba/news/ranking-nba-15-worst-contracts-trae-young-deaaron-fox-joel-embiid/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1786379252
     }
   ]
 }
