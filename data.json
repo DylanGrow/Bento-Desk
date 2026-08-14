@@ -1,12 +1,61 @@
 {
-  "last_updated": 1786729765,
+  "last_updated": 1786733306,
   "items": [
+    {
+      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+      "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786732334
+    },
+    {
+      "title": "First Look at Nightcrawler and Mystique's Costumes for Avengers: Doomsday Shown at D23",
+      "link": "https://www.ign.com/articles/first-look-at-nightcrawler-and-mystiques-costumes-for-avengers-doomsday-shown-at-d23",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786730771
+    },
+    {
+      "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
+      "link": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786730423
+    },
+    {
+      "title": "Will the new moon race turn Earth's nearest neighbor into a dumping ground?",
+      "link": "https://www.space.com/astronomy/moon/will-the-new-moon-race-turn-earths-nearest-neighbor-into-a-dumping-ground",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786730400
+    },
+    {
+      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786728413
+    },
+    {
+      "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
+      "link": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786727594
+    },
     {
       "title": "The Mandalorian and Grogu Lands Disney+ Release Date After Underperforming in Theaters With $345 Million",
       "link": "https://www.ign.com/articles/the-mandalorian-and-grogu-lands-disney-release-date-after-underperforming-in-theaters-with-345-million",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1786727194
+    },
+    {
+      "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+      "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786727034
     },
     {
       "title": "As Avengers: Doomsday Tickets Go on Sale, Marvel Releases New Poster and Makes an Interesting Change to the YouTube Countdown",
@@ -35,6 +84,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1786725814
+    },
+    {
+      "title": "Policy experts: Europe stuck between \"rock and a hard place\" on launch",
+      "link": "https://arstechnica.com/space/2026/08/policy-experts-europe-stuck-between-rock-and-a-hard-place-on-launch/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786724961
     },
     {
       "title": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
@@ -338,13 +394,6 @@
       "timestamp": 1786665650
     },
     {
-      "title": "Artist Behind Viral Spider-Man: Brand New Day Poster Forced to Take Drawing Down",
-      "link": "https://www.ign.com/articles/artist-behind-viral-spider-man-brand-new-day-poster-forced-to-take-drawing-down",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786663455
-    },
-    {
       "title": "US wait times for cancer surgeries are getting longer and longer",
       "link": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/",
       "source": "ARSTECHNICA",
@@ -436,25 +485,11 @@
       "timestamp": 1786648789
     },
     {
-      "title": "Virgin Galactic wants your help naming its new Delta class spaceship",
-      "link": "https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786648335
-    },
-    {
       "title": "NASA's canceled lunar space station tech will help build the Artemis moon base",
       "link": "https://www.space.com/space-exploration/artemis/nasas-canceled-lunar-space-station-tech-will-help-build-the-artemis-moon-base",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786647600
-    },
-    {
-      "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
-      "link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786645916
     },
     {
       "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
@@ -464,39 +499,11 @@
       "timestamp": 1786645694
     },
     {
-      "title": "Flock “can’t tech its way out” of the stalker cop problem, experts say",
-      "link": "https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786644614
-    },
-    {
       "title": "'The X-Files' creator Chris Carter says new director's cut of 'I Want to Believe' is 'the horror movie that we really wanted to make' (interview)",
       "link": "https://www.space.com/entertainment/space-movies-shows/the-x-files-creator-chris-carter-says-new-directors-cut-of-i-want-to-believe-is-the-horror-movie-that-we-really-wanted-to-make-interview",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786644000
-    },
-    {
-      "title": "Pet owners say smart pet feeder outage led to furry ones going unfed",
-      "link": "https://arstechnica.com/gadgets/2026/08/pet-owners-say-smart-pet-feeder-outage-led-to-furry-ones-going-unfed/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786643633
-    },
-    {
-      "title": "The new Instagram logo is the perfect embodiment of AI slop",
-      "link": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786642330
-    },
-    {
-      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786640413
     },
     {
       "title": "How to image the planets with a telescope and camera",
@@ -518,13 +525,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786634588
-    },
-    {
-      "title": "On this day in space! Aug. 13, 2014: Game-changing WorldView-3 Earth-observing satellite launches to orbit",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-aug-13-2014-game-changing-worldview-3-earth-observing-satellite-launches-to-orbit",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786629600
     },
     {
       "title": "One faulty gene copy can make the heart’s DNA fold the wrong way",
