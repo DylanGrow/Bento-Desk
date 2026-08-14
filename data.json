@@ -1,6 +1,41 @@
 {
-  "last_updated": 1786733306,
+  "last_updated": 1786736695,
   "items": [
+    {
+      "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+      "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786735980
+    },
+    {
+      "title": "Toy Story 3 Will Be Delisted on Xbox Just Weeks Before Launch of New Remaster",
+      "link": "https://www.ign.com/articles/toy-story-3-will-be-delisted-on-xbox-just-weeks-before-launch-of-new-remaster",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786735699
+    },
+    {
+      "title": "First Look at James Spader as Ultron in VisionQuest Shown at D23",
+      "link": "https://www.ign.com/articles/first-look-at-james-spader-as-ultron-in-visionquest-shown-at-d23",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786735566
+    },
+    {
+      "title": "What we know about the alleged Iranian hacks on U.S. water utilities",
+      "link": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786734272
+    },
+    {
+      "title": "Read-it-later app Pocket shut down down — here are the best alternatives",
+      "link": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786733895
+    },
     {
       "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
       "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
@@ -28,6 +63,13 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786730400
+    },
+    {
+      "title": "Timberwolves will finally retire Kevin Garnett's No. 21 in February with new ownership in place",
+      "link": "https://www.cbssports.com/nba/news/kevin-garnett-timberwolves-jersey-retirement-celtics/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1786729916
     },
     {
       "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
@@ -380,20 +422,6 @@
       "timestamp": 1786681275
     },
     {
-      "title": "Xbox's Separation from Compulsion Games Seems Complete as Studio Is Listed as the Publisher of South of Midnight on Steam",
-      "link": "https://www.ign.com/articles/xboxs-separation-from-compulsion-games-seems-complete-as-studio-is-listed-as-the-publisher-of-south-of-midnight-on-steam",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786671924
-    },
-    {
-      "title": "Supergirl Featurette Wiped From YouTube After Fans Spot Director Using Alleged AI Concept Art for Lobo",
-      "link": "https://www.ign.com/articles/supergirl-featurette-wiped-from-youtube-after-fans-spot-director-using-alleged-ai-concept-art-for-lobo",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786665650
-    },
-    {
       "title": "US wait times for cancer surgeries are getting longer and longer",
       "link": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/",
       "source": "ARSTECHNICA",
@@ -471,32 +499,11 @@
       "timestamp": 1786649938
     },
     {
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786648960
-    },
-    {
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786648789
-    },
-    {
       "title": "NASA's canceled lunar space station tech will help build the Artemis moon base",
       "link": "https://www.space.com/space-exploration/artemis/nasas-canceled-lunar-space-station-tech-will-help-build-the-artemis-moon-base",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786647600
-    },
-    {
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786645694
     },
     {
       "title": "'The X-Files' creator Chris Carter says new director's cut of 'I Want to Believe' is 'the horror movie that we really wanted to make' (interview)",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786379252
-    },
-    {
-      "title": "Ben Simmons eyeing NBA comeback as he plays with Australian national team",
-      "link": "https://www.cbssports.com/nba/news/ben-simmons-nba-comeback-australian-national-team/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1786373468
     }
   ]
 }
