@@ -1,12 +1,89 @@
 {
-  "last_updated": 1786712305,
+  "last_updated": 1786717011,
   "items": [
+    {
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786716300
+    },
+    {
+      "title": "On this day in space! Aug. 14, 1992: Meteorite shower hits Uganda",
+      "link": "https://www.space.com/stargazing/meteor-showers/on-this-day-in-space-aug-14-1992-meteorite-shower-hits-uganda",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786716000
+    },
+    {
+      "title": "The ISS photobombs the sun during the total solar eclipse | Space photo of the day for Aug. 14, 2026",
+      "link": "https://www.space.com/stargazing/solar-eclipses/the-iss-photobombs-the-sun-during-the-total-solar-eclipse-space-photo-of-the-day-for-aug-14-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786716000
+    },
+    {
+      "title": "US courts will start publishing how often the government uses spyware",
+      "link": "https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786714144
+    },
+    {
+      "title": "Immune cells flood into the aging brain, Stanford scientists discover",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786714082
+    },
+    {
+      "title": "The Lord of the Rings: War in the North Dev Warned Warner Bros. Not to Go Up Against Skyrim Back in 2011",
+      "link": "https://www.ign.com/articles/the-lord-of-the-rings-war-in-the-north-dev-warned-warner-bros-not-to-go-up-against-skyrim-back-in-2011",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786713643
+    },
+    {
+      "title": "Scientists detect a nuclear reactor’s ghostly afterglow for the first time",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814011036.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786713396
+    },
+    {
+      "title": "Where to watch 2026 Basketball Hall of Fame induction ceremony: TV channel, live stream, more",
+      "link": "https://www.cbssports.com/nba/news/where-to-watch-2026-basketball-hall-of-fame-tv-channel-live-stream/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1786712253
+    },
+    {
+      "title": "Spider-Man: Beyond the Spider-Verse Suffers Significant Leak Online as 4 Minutes of Footage Hits Social Media",
+      "link": "https://www.ign.com/articles/spider-man-beyond-the-spider-verse-suffers-significant-leak-online-as-4-minutes-of-footage-hits-social-media",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786711039
+    },
     {
       "title": "India-US space ties deepen as NASA invites ISRO to join moon base program",
       "link": "https://www.space.com/astronomy/moon/india-us-space-ties-deepen-as-nasa-invites-isro-to-join-moon-base-program",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786708800
+    },
+    {
+      "title": "A stress hormone may help the brain repair itself",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786707311
+    },
+    {
+      "title": "Women taking estrogen had fewer signs of Alzheimer’s in their brains",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814011028.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786706382
     },
     {
       "title": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan",
@@ -37,6 +114,13 @@
       "timestamp": 1786701600
     },
     {
+      "title": "Paleontology rocked by organic molecules found in 66-million-year-old dinosaur bones",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260811053042.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786701110
+    },
+    {
       "title": "The X-Files Creator Chris Carter Wants to Continue the Story on From the Divisive Season 11 Finale",
       "link": "https://www.ign.com/articles/the-x-files-creator-chris-carter-wants-to-continue-the-story-on-from-the-divisive-season-11-finale",
       "source": "IGN",
@@ -56,6 +140,20 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1786690875
+    },
+    {
+      "title": "Neptune’s tiny moons may be the wreckage of shattered ancient worlds",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260813045545.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786682105
+    },
+    {
+      "title": "A massive new cosmic map is revealing black holes, rare stars, and hidden gas",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260813045541.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786681275
     },
     {
       "title": "Xbox's Separation from Compulsion Games Seems Complete as Studio Is Listed as the Publisher of South of Midnight on Steam",
@@ -345,20 +443,6 @@
       "timestamp": 1786634209
     },
     {
-      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786633680
-    },
-    {
-      "title": "Who really needs a cocktail robot?",
-      "link": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786633200
-    },
-    {
       "title": "Everything New We Learned About Marvel's Wolverine From Our Big Interview With Insomniac",
       "link": "https://www.ign.com/articles/everything-new-we-learned-about-marvels-wolverine-from-our-big-interview-with-insomniac",
       "source": "IGN",
@@ -368,20 +452,6 @@
     {
       "title": "Insomniac Confirms Marvel's Wolverine Performance Mode Details",
       "link": "https://www.ign.com/articles/insomniac-confirms-marvels-wolverine-performance-mode-details",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786633200
-    },
-    {
-      "title": "Insomniac Explains Why Wolverine's Suit Heals Itself",
-      "link": "https://www.ign.com/articles/insomniac-explains-why-wolverines-suit-heals-itself",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786633200
-    },
-    {
-      "title": "Insomniac Says There's Plenty in Marvel's Wolverine to Keep People Playing After the Credits Roll, Including New Game Plus Day-One",
-      "link": "https://www.ign.com/articles/insomniac-says-theres-plenty-in-marvels-wolverine-to-keep-people-playing-after-the-credits-roll-including-new-game-plus-day-one",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1786633200
@@ -422,11 +492,32 @@
       "timestamp": 1786628935
     },
     {
+      "title": "One faulty gene copy can make the heart’s DNA fold the wrong way",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260812015214.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786628774
+    },
+    {
+      "title": "NASA’s Perseverance rover watches Earth vanish from the surface of Mars",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260812015203.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786627216
+    },
+    {
       "title": "'Strange New Worlds' latest lookalike episode is part of a long line of 'Star Trek' doppelganger stories",
       "link": "https://www.space.com/entertainment/space-movies-shows/number-ones-doppelganger-in-strange-new-worlds-latest-episode-is-part-of-a-long-line-of-star-trek-lookalikes",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786626904
+    },
+    {
+      "title": "JWST spots a bizarre “black hole star” 100 billion times brighter than a star",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260813045538.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786626235
     },
     {
       "title": "Russell Westbrook retires after 18 NBA seasons; Ohio State, Oregon 1-2 in CBS Sports 138",
@@ -450,11 +541,39 @@
       "timestamp": 1786619418
     },
     {
-      "title": "New private 'Perceptor' probes will keep an eye on satellites high above Earth",
-      "link": "https://www.space.com/space-exploration/satellites/astranis-perceptor-satellites-geostationary-orbit-space-situational-awareness",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786613400
+      "title": "A 236-million-year-old fossil could rewrite the story of mammalian birth",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260813045534.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786614785
+    },
+    {
+      "title": "A surprising brain discovery could help explain why we overeat fatty foods",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260813045531.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786614171
+    },
+    {
+      "title": "Human brain cells are far more powerful than scientists thought",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260812015216.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786599638
+    },
+    {
+      "title": "Why your brain keeps making the same decisions – even when better options exist",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260812015218.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786592736
+    },
+    {
+      "title": "Scientists discover the brain has a fast lane and slow lane for clearing waste",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260811011130.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786586730
     },
     {
       "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
@@ -478,13 +597,6 @@
       "timestamp": 1786571595
     },
     {
-      "title": "This year's 'Masters of the Universe' movie wasn't Hollywood's first attempt at capturing the power of He-Man; they tried back in 1987, and failed then too",
-      "link": "https://www.space.com/entertainment/space-movies-shows/this-years-masters-of-the-universe-movie-wasnt-hollywoods-first-attempt-at-capturing-the-power-of-he-man-they-tried-back-in-1987-and-failed-then-too",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786568400
-    },
-    {
       "title": "Lakers sold for record-breaking $12.5 billion: Everything to know about Josh Kushner, Bob Iger's purchase",
       "link": "https://www.cbssports.com/nba/news/lakers-sold-josh-kushner-bob-iger/",
       "source": "CBSSPORTS",
@@ -506,67 +618,11 @@
       "timestamp": 1786545367
     },
     {
-      "title": "Scientists turn Starlink into a giant scanner for Earth’s upper atmosphere",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260812015212.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786541885
-    },
-    {
-      "title": "Scientists discover a hidden brain rhythm that could improve Parkinson’s treatment",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260811011148.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786540859
-    },
-    {
-      "title": "3,500-year-old skeletons challenge what scientists thought they knew about syphilis",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260811011143.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786539958
-    },
-    {
       "title": "Why Vikings made right call in QB competition; key dates on 2026-27 NBA schedule",
       "link": "https://www.cbssports.com/nfl/news/vikings-qb-competition-key-dates-nba-schedule/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786538870
-    },
-    {
-      "title": "The adult brain can repair itself better than scientists thought",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260812015158.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786538596
-    },
-    {
-      "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260812015210.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786533471
-    },
-    {
-      "title": "James Webb captures a cosmic lion sculpted by a dying star",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260812015206.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786529719
-    },
-    {
-      "title": "A strange crystal made of electrons just revealed its hidden motion",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260812015156.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786525801
-    },
-    {
-      "title": "Scientists find evidence for two origins of life on Earth",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260811011134.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786512741
     },
     {
       "title": "NBA opening night odds: LeBron James, 76ers underdogs at champion Knicks in unique tripleheader to tip 2026-27",
@@ -576,13 +632,6 @@
       "timestamp": 1786460228
     },
     {
-      "title": "Dogs can tell fear from sadness — and scientists saw it in their brains",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260811011132.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786457341
-    },
-    {
       "title": "2026 NBA Christmas Day schedule rankings: Knicks vs. Spurs tops intriguing five-game slate",
       "link": "https://www.cbssports.com/nba/news/2026-nba-christmas-day-schedule-rankings/",
       "source": "CBSSPORTS",
@@ -590,53 +639,11 @@
       "timestamp": 1786454903
     },
     {
-      "title": "MIT neuroscientists discover the brain can reason without words",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260811011140.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786453947
-    },
-    {
-      "title": "“Cannot be explained” – New super steel stuns scientists",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260811052717.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786453180
-    },
-    {
       "title": "Quinnen Williams inks $105M extension with Cowboys; top 15 worst contracts in the NBA",
       "link": "https://www.cbssports.com/nfl/news/quinnen-williams-extension-cowboys-worst-contracts-nba/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786452480
-    },
-    {
-      "title": "King Harold may have lost England by backing the wrong pope",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260811011129.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786447824
-    },
-    {
-      "title": "Black holes older than the Big Bang could explain dark matter",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260811011146.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786443298
-    },
-    {
-      "title": "150-million-year-old dinosaur footprints reveal something strange about its walk",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260810015727.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786424621
-    },
-    {
-      "title": "The secret hidden in these ancient manuscripts isn’t written in ink",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260810015723.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786414088
     },
     {
       "title": "Greek team owner reveals 'very serious' Nikola Jokić offer, vows to go after Nuggets star again",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786300801
-    },
-    {
-      "title": "Kawhi Leonard investigation lingering questions: How bad can things get for Steve Ballmer and the Clippers?",
-      "link": "https://www.cbssports.com/nba/news/kawhi-leonard-investigation-clippers-raptors-steve-ballmer-daktronics/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1786127368
     }
   ]
 }
