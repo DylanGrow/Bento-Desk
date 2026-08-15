@@ -1,12 +1,26 @@
 {
-  "last_updated": 1786832225,
+  "last_updated": 1786835792,
   "items": [
+    {
+      "title": "D23 Deep Dive Into Kingdom Hearts Panel Everything Announced — Updating Live",
+      "link": "https://www.ign.com/articles/d23-deep-dive-into-kingdom-hearts-panel-everything-announced-updating-live",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786832985
+    },
     {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
       "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1786829359
+    },
+    {
+      "title": "VisionQuest trailer kicks off Disney's D23 fan event",
+      "link": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786828887
     },
     {
       "title": "Dave Filoni Confirms Disney Isn't Making Scrapped Star Wars Movie The Hunt for Ben Solo 'Right Now' | D23 2026",
@@ -254,15 +268,15 @@
       "timestamp": 1786738632
     },
     {
-      "title": "Cards Against Humanity wants to erect a monument to 'honor' Elon Musk",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/cards-against-humanity-wants-to-erect-a-monument-to-honor-elon-musk",
+      "title": "6 space board games to channel the political drama of 'For All Mankind' and 'Star City'",
+      "link": "https://www.space.com/entertainment/space-games/6-space-board-games-to-channel-the-political-drama-of-for-all-mankind-and-star-city",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786737600
     },
     {
-      "title": "6 space board games to channel the political drama of 'For All Mankind' and 'Star City'",
-      "link": "https://www.space.com/entertainment/space-games/6-space-board-games-to-channel-the-political-drama-of-for-all-mankind-and-star-city",
+      "title": "Cards Against Humanity wants to erect a monument to 'honor' Elon Musk",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/cards-against-humanity-wants-to-erect-a-monument-to-honor-elon-musk",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786737600
@@ -280,13 +294,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1786735699
-    },
-    {
-      "title": "First Look at James Spader as Ultron in VisionQuest Shown at D23",
-      "link": "https://www.ign.com/articles/first-look-at-james-spader-as-ultron-in-visionquest-shown-at-d23",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786735566
     },
     {
       "title": "What we know about the alleged Iranian hacks on US water utilities",
@@ -464,15 +471,15 @@
       "timestamp": 1786716300
     },
     {
-      "title": "ISS photobombs the sun during solar eclipse | Space photo of the day for Aug. 14, 2026",
-      "link": "https://www.space.com/stargazing/solar-eclipses/the-iss-photobombs-the-sun-during-the-total-solar-eclipse-space-photo-of-the-day-for-aug-14-2026",
+      "title": "On this day in space! Aug. 14, 1992: Meteorite shower hits Uganda",
+      "link": "https://www.space.com/stargazing/meteor-showers/on-this-day-in-space-aug-14-1992-meteorite-shower-hits-uganda",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786716000
     },
     {
-      "title": "On this day in space! Aug. 14, 1992: Meteorite shower hits Uganda",
-      "link": "https://www.space.com/stargazing/meteor-showers/on-this-day-in-space-aug-14-1992-meteorite-shower-hits-uganda",
+      "title": "ISS photobombs the sun during solar eclipse | Space photo of the day for Aug. 14, 2026",
+      "link": "https://www.space.com/stargazing/solar-eclipses/the-iss-photobombs-the-sun-during-the-total-solar-eclipse-space-photo-of-the-day-for-aug-14-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786716000
@@ -546,13 +553,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1786701110
-    },
-    {
-      "title": "Organic-looking brake assemblies debut on new Czinger 21C Spyder",
-      "link": "https://arstechnica.com/cars/2026/08/czinger-debuts-topology-optimized-brakes-with-21c-spyder/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786690875
     },
     {
       "title": "Neptune’s tiny moons may be the wreckage of shattered ancient worlds",
