@@ -1,12 +1,33 @@
 {
-  "last_updated": 1786792600,
+  "last_updated": 1786797035,
   "items": [
+    {
+      "title": "This Week In Space podcast: Episode 223 — The Lunar Domain",
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-223-the-lunar-domain",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786795707
+    },
+    {
+      "title": "So much solar: Digging into the list of every US power plant that went online this year",
+      "link": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786792197
+    },
     {
       "title": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
       "link": "https://www.sciencedaily.com/releases/2026/08/260814011039.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1786791339
+    },
+    {
+      "title": "Frozen 3 Footage Teases New Villain, and It Looks Like Olaf is Getting a Love Interest",
+      "link": "https://www.ign.com/articles/frozen-3-footage-teases-new-villain-and-it-looks-like-olaf-is-getting-a-love-interest",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786790080
     },
     {
       "title": "We think these Nikon binoculars are excellent for variable magnification on the go",
@@ -135,15 +156,15 @@
       "timestamp": 1786738632
     },
     {
-      "title": "6 space board games to channel the political drama of 'For All Mankind' and 'Star City'",
-      "link": "https://www.space.com/entertainment/space-games/6-space-board-games-to-channel-the-political-drama-of-for-all-mankind-and-star-city",
+      "title": "Cards Against Humanity wants to erect a monument to 'honor' Elon Musk",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/cards-against-humanity-wants-to-erect-a-monument-to-honor-elon-musk",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786737600
     },
     {
-      "title": "Cards Against Humanity wants to erect a monument to 'honor' Elon Musk",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/cards-against-humanity-wants-to-erect-a-monument-to-honor-elon-musk",
+      "title": "6 space board games to channel the political drama of 'For All Mankind' and 'Star City'",
+      "link": "https://www.space.com/entertainment/space-games/6-space-board-games-to-channel-the-political-drama-of-for-all-mankind-and-star-city",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786737600
@@ -245,13 +266,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1786727034
-    },
-    {
-      "title": "As Avengers: Doomsday Tickets Go on Sale, Marvel Releases New Poster and Makes an Interesting Change to the YouTube Countdown",
-      "link": "https://www.ign.com/articles/as-avengers-doomsday-tickets-go-on-sale-marvel-releases-new-poster-and-makes-an-interesting-change-to-the-youtube-countdown",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786727000
     },
     {
       "title": "US Space Force gives Rocket Lab $397 million to build threat-tracking 'Flatellites'",
@@ -534,25 +548,11 @@
       "timestamp": 1786651759
     },
     {
-      "title": "Supermassive black hole spews energy 300,000 light years into deep space",
-      "link": "https://www.space.com/astronomy/black-holes/supermassive-black-hole-spews-energy-300-000-light-years-into-deep-space",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786651200
-    },
-    {
       "title": "NBA schedule release: 10 key dates to circle for 2026-27 season from big returns to rivalries renewed",
       "link": "https://www.cbssports.com/nba/news/nba-2026-27-schedule-release-key-dates-knicks-76ers-spurs-thunder-lebron-james-giannis-antetokounmpo/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786650578
-    },
-    {
-      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
-      "link": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786649938
     },
     {
       "title": "One faulty gene copy can make the heart’s DNA fold the wrong way",
