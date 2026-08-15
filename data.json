@@ -1,6 +1,20 @@
 {
-  "last_updated": 1786828642,
+  "last_updated": 1786832225,
   "items": [
+    {
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786829359
+    },
+    {
+      "title": "Dave Filoni Confirms Disney Isn't Making Scrapped Star Wars Movie The Hunt for Ben Solo 'Right Now' | D23 2026",
+      "link": "https://www.ign.com/articles/dave-filoni-confirms-disney-isnt-making-scrapped-star-wars-movie-the-hunt-for-ben-solo-right-now-d23-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786828254
+    },
     {
       "title": "Anthropic shares more details about how Claude’s new watermarks will work",
       "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
@@ -240,15 +254,15 @@
       "timestamp": 1786738632
     },
     {
-      "title": "6 space board games to channel the political drama of 'For All Mankind' and 'Star City'",
-      "link": "https://www.space.com/entertainment/space-games/6-space-board-games-to-channel-the-political-drama-of-for-all-mankind-and-star-city",
+      "title": "Cards Against Humanity wants to erect a monument to 'honor' Elon Musk",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/cards-against-humanity-wants-to-erect-a-monument-to-honor-elon-musk",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786737600
     },
     {
-      "title": "Cards Against Humanity wants to erect a monument to 'honor' Elon Musk",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/cards-against-humanity-wants-to-erect-a-monument-to-honor-elon-musk",
+      "title": "6 space board games to channel the political drama of 'For All Mankind' and 'Star City'",
+      "link": "https://www.space.com/entertainment/space-games/6-space-board-games-to-channel-the-political-drama-of-for-all-mankind-and-star-city",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786737600
@@ -294,13 +308,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1786732334
-    },
-    {
-      "title": "First Look at Nightcrawler and Mystique's Costumes for Avengers: Doomsday Shown at D23",
-      "link": "https://www.ign.com/articles/first-look-at-nightcrawler-and-mystiques-costumes-for-avengers-doomsday-shown-at-d23",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786730771
     },
     {
       "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
@@ -457,13 +464,6 @@
       "timestamp": 1786716300
     },
     {
-      "title": "On this day in space! Aug. 14, 1992: Meteorite shower hits Uganda",
-      "link": "https://www.space.com/stargazing/meteor-showers/on-this-day-in-space-aug-14-1992-meteorite-shower-hits-uganda",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786716000
-    },
-    {
       "title": "ISS photobombs the sun during solar eclipse | Space photo of the day for Aug. 14, 2026",
       "link": "https://www.space.com/stargazing/solar-eclipses/the-iss-photobombs-the-sun-during-the-total-solar-eclipse-space-photo-of-the-day-for-aug-14-2026",
       "source": "SPACE",
@@ -471,11 +471,11 @@
       "timestamp": 1786716000
     },
     {
-      "title": "US courts will start publishing how often the government uses spyware",
-      "link": "https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786714144
+      "title": "On this day in space! Aug. 14, 1992: Meteorite shower hits Uganda",
+      "link": "https://www.space.com/stargazing/meteor-showers/on-this-day-in-space-aug-14-1992-meteorite-shower-hits-uganda",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786716000
     },
     {
       "title": "Immune cells flood into the aging brain, Stanford scientists discover",
