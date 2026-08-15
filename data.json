@@ -1,6 +1,20 @@
 {
-  "last_updated": 1786818212,
+  "last_updated": 1786821523,
   "items": [
+    {
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786820319
+    },
+    {
+      "title": "X-Men Director Teases Comic Book Inspirations and 'Something New' for the MCU After Marvel's Big Cast Reveal | D23 2026",
+      "link": "https://www.ign.com/articles/x-men-director-teases-comic-book-inspirations-and-something-new-for-the-mcu-after-marvels-big-cast-reveal-d23-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786818523
+    },
     {
       "title": "SpaceX officially closes its Cursor acquisition",
       "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
@@ -324,13 +338,6 @@
       "timestamp": 1786727594
     },
     {
-      "title": "The Mandalorian and Grogu Lands Disney+ Release Date After Underperforming in Theaters With $345 Million",
-      "link": "https://www.ign.com/articles/the-mandalorian-and-grogu-lands-disney-release-date-after-underperforming-in-theaters-with-345-million",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786727194
-    },
-    {
       "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
       "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
       "source": "ARSTECHNICA",
@@ -450,15 +457,15 @@
       "timestamp": 1786716300
     },
     {
-      "title": "On this day in space! Aug. 14, 1992: Meteorite shower hits Uganda",
-      "link": "https://www.space.com/stargazing/meteor-showers/on-this-day-in-space-aug-14-1992-meteorite-shower-hits-uganda",
+      "title": "ISS photobombs the sun during solar eclipse | Space photo of the day for Aug. 14, 2026",
+      "link": "https://www.space.com/stargazing/solar-eclipses/the-iss-photobombs-the-sun-during-the-total-solar-eclipse-space-photo-of-the-day-for-aug-14-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786716000
     },
     {
-      "title": "ISS photobombs the sun during solar eclipse | Space photo of the day for Aug. 14, 2026",
-      "link": "https://www.space.com/stargazing/solar-eclipses/the-iss-photobombs-the-sun-during-the-total-solar-eclipse-space-photo-of-the-day-for-aug-14-2026",
+      "title": "On this day in space! Aug. 14, 1992: Meteorite shower hits Uganda",
+      "link": "https://www.space.com/stargazing/meteor-showers/on-this-day-in-space-aug-14-1992-meteorite-shower-hits-uganda",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786716000
@@ -525,13 +532,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1786705205
-    },
-    {
-      "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
-      "link": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786704270
     },
     {
       "title": "SpaceX rocket's moon crash highlights 'a tangible operational risk' of lunar settlement",
