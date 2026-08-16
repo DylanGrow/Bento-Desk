@@ -1,6 +1,13 @@
 {
-  "last_updated": 1786889911,
+  "last_updated": 1786893441,
   "items": [
+    {
+      "title": "NASA funds spherical 'Aerobots' that could explore the caves of Saturn's moon Titan",
+      "link": "https://www.space.com/technology/nasa-funds-spherical-aerobots-that-could-explore-the-caves-of-saturns-moon-titan",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786892400
+    },
     {
       "title": "On this day in space! Aug. 16, 1963: Wingless M2-F1 completes 1st glide flight",
       "link": "https://www.space.com/space-exploration/human-spaceflight/on-this-day-in-space-aug-16-1963-wingless-m2-f1-completes-1st-glide-flight",
@@ -72,7 +79,7 @@
       "timestamp": 1786852006
     },
     {
-      "title": "Disney Experiences Showcase at D23 2026: Everything Announced for Disney Parks, Disney Cruise Line, and More (Updating Live!)",
+      "title": "Disney Experiences Showcase: Everything Announced for Disney Parks, Disney Cruise Line, and More | D23 2026",
       "link": "https://www.ign.com/articles/disney-experiences-showcase-at-d23-2026-everything-announced-for-disney-parks-disney-cruise-line-and-more",
       "source": "IGN",
       "category": "gaming",
@@ -476,13 +483,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1786723897
-    },
-    {
-      "title": "Can Venus cast a shadow? Here's how to see it for yourself",
-      "link": "https://www.space.com/stargazing/can-venus-cast-a-shadow-heres-how-to-see-it-for-yourself",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786723200
     },
     {
       "title": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
