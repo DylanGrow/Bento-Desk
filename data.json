@@ -1,12 +1,40 @@
 {
-  "last_updated": 1786879004,
+  "last_updated": 1786883515,
   "items": [
+    {
+      "title": "A little movement in midlife could pay off for your brain years later",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814235839.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786881734
+    },
+    {
+      "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
+      "link": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786874459
+    },
     {
       "title": "'This goes beyond showcasing technological soft power': China's new moon map signals bold space ambitions (video)",
       "link": "https://www.space.com/astronomy/moon/this-goes-beyond-showcasing-technological-soft-power-chinas-new-moon-map-signals-bold-space-ambitions-video",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786874400
+    },
+    {
+      "title": "Physicists discover a hidden gluon structure inside protons that could rewrite textbooks",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260815064805.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786874145
+    },
+    {
+      "title": "Scientists reveal why walking gets so much harder with age",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260815065014.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786871605
     },
     {
       "title": "Stomp Rockets: The perfect start to model rocketry for kids?",
@@ -16,11 +44,32 @@
       "timestamp": 1786870800
     },
     {
+      "title": "A new Ice Age species was hiding in la brea tar pits fossils for decades",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814235837.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786865616
+    },
+    {
+      "title": "A black hole shredded a “super sun” — but something strange may have survived",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814235849.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786852006
+    },
+    {
       "title": "Disney Experiences Showcase at D23 2026: Everything Announced for Disney Parks, Disney Cruise Line, and More (Updating Live!)",
       "link": "https://www.ign.com/articles/disney-experiences-showcase-at-d23-2026-everything-announced-for-disney-parks-disney-cruise-line-and-more",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1786850587
+    },
+    {
+      "title": "COVID-19 awakens dormant viruses — and one is linked to long COVID",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814011034.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1786849385
     },
     {
       "title": "New record! SpaceX launches 2 Falcon 9 rockets just 38 minutes apart",
@@ -296,15 +345,15 @@
       "timestamp": 1786738632
     },
     {
-      "title": "6 space board games to channel the political drama of 'For All Mankind' and 'Star City'",
-      "link": "https://www.space.com/entertainment/space-games/6-space-board-games-to-channel-the-political-drama-of-for-all-mankind-and-star-city",
+      "title": "Cards Against Humanity wants to erect a monument to 'honor' Elon Musk",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/cards-against-humanity-wants-to-erect-a-monument-to-honor-elon-musk",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786737600
     },
     {
-      "title": "Cards Against Humanity wants to erect a monument to 'honor' Elon Musk",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/cards-against-humanity-wants-to-erect-a-monument-to-honor-elon-musk",
+      "title": "6 space board games to channel the political drama of 'For All Mankind' and 'Star City'",
+      "link": "https://www.space.com/entertainment/space-games/6-space-board-games-to-channel-the-political-drama-of-for-all-mankind-and-star-city",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786737600
@@ -492,8 +541,8 @@
       "timestamp": 1786716300
     },
     {
-      "title": "On this day in space! Aug. 14, 1992: Meteorite shower hits Uganda",
-      "link": "https://www.space.com/stargazing/meteor-showers/on-this-day-in-space-aug-14-1992-meteorite-shower-hits-uganda",
+      "title": "ISS photobombs the sun during solar eclipse | Space photo of the day for Aug. 14, 2026",
+      "link": "https://www.space.com/stargazing/solar-eclipses/the-iss-photobombs-the-sun-during-the-total-solar-eclipse-space-photo-of-the-day-for-aug-14-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786716000
@@ -541,13 +590,6 @@
       "timestamp": 1786705249
     },
     {
-      "title": "Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price",
-      "link": "https://arstechnica.com/gadgets/2026/08/samsung-galaxy-z-fold-8-ultra-review-the-ultra-foldable-with-an-ultra-price/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786705205
-    },
-    {
       "title": "Paleontology rocked by organic molecules found in 66-million-year-old dinosaur bones",
       "link": "https://www.sciencedaily.com/releases/2026/08/260811053042.htm",
       "source": "SCIENCEDAILY",
@@ -560,13 +602,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1786682105
-    },
-    {
-      "title": "A massive new cosmic map is revealing black holes, rare stars, and hidden gas",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260813045541.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786681275
     },
     {
       "title": "Winners and losers of the 2026-27 NBA schedule: A weird Opening Day, a James family reunion and more",
@@ -583,46 +618,11 @@
       "timestamp": 1786650578
     },
     {
-      "title": "One faulty gene copy can make the heart’s DNA fold the wrong way",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260812015214.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786628774
-    },
-    {
-      "title": "NASA’s Perseverance rover watches Earth vanish from the surface of Mars",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260812015203.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786627216
-    },
-    {
-      "title": "JWST spots a bizarre “black hole star” 100 billion times brighter than a star",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260813045538.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786626235
-    },
-    {
       "title": "Russell Westbrook retires after 18 NBA seasons; Ohio State, Oregon 1-2 in CBS Sports 138",
       "link": "https://www.cbssports.com/nba/news/russell-westbrook-retires-after-18-nba-seasons-ohio-state-oregon-1-2-in-cbs-sports-138/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786625586
-    },
-    {
-      "title": "A 236-million-year-old fossil could rewrite the story of mammalian birth",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260813045534.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786614785
-    },
-    {
-      "title": "A surprising brain discovery could help explain why we overeat fatty foods",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260813045531.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786614171
     },
     {
       "title": "Russell Westbrook announces retirement: Ranking top five moments for NBA's all-time triple-doubles leader",
