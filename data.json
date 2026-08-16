@@ -1,6 +1,20 @@
 {
-  "last_updated": 1786848961,
+  "last_updated": 1786851998,
   "items": [
+    {
+      "title": "Disney Experiences Showcase at D23 2026: Everything Announced for Disney Parks, Disney Cruise Line, and More (Updating Live!)",
+      "link": "https://www.ign.com/articles/disney-experiences-showcase-at-d23-2026-everything-announced-for-disney-parks-disney-cruise-line-and-more",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786850587
+    },
+    {
+      "title": "New record! SpaceX launches 2 Falcon 9 rockets just 38 minutes apart",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-breaks-record-launch-doubleheader-ussf-366-globalstar-2r",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786848887
+    },
     {
       "title": "'I Want to Set the Record Straight: That Is Not Happening' — Kingdom Hearts 4 Devs Say KH4 '100%' Will Not Be Delayed Past Late 2027 Launch | D23 2026",
       "link": "https://www.ign.com/articles/i-want-to-set-the-record-straight-that-is-not-happening-kingdom-hearts-4-devs-say-kh4-100-will-not-be-delayed-past-late-2027-launch-d23-2026",
@@ -226,13 +240,6 @@
       "timestamp": 1786762928
     },
     {
-      "title": "Star Wars Disney+ Series Ahsoka Season 2 Finally Has a Release Date",
-      "link": "https://www.ign.com/articles/star-wars-disney-series-ahsoka-season-2-finally-has-a-release-date",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786759210
-    },
-    {
       "title": "Talks to sell PayPal to Stripe and Advent are heating up",
       "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
       "source": "TECHCRUNCH",
@@ -275,15 +282,15 @@
       "timestamp": 1786738632
     },
     {
-      "title": "Cards Against Humanity wants to erect a monument to 'honor' Elon Musk",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/cards-against-humanity-wants-to-erect-a-monument-to-honor-elon-musk",
+      "title": "6 space board games to channel the political drama of 'For All Mankind' and 'Star City'",
+      "link": "https://www.space.com/entertainment/space-games/6-space-board-games-to-channel-the-political-drama-of-for-all-mankind-and-star-city",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786737600
     },
     {
-      "title": "6 space board games to channel the political drama of 'For All Mankind' and 'Star City'",
-      "link": "https://www.space.com/entertainment/space-games/6-space-board-games-to-channel-the-political-drama-of-for-all-mankind-and-star-city",
+      "title": "Cards Against Humanity wants to erect a monument to 'honor' Elon Musk",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/cards-against-humanity-wants-to-erect-a-monument-to-honor-elon-musk",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786737600
@@ -539,13 +546,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1786705205
-    },
-    {
-      "title": "SpaceX rocket's moon crash highlights 'a tangible operational risk' of lunar settlement",
-      "link": "https://www.space.com/astronomy/moon/spacex-rockets-moon-crash-highlights-a-tangible-operational-risk-of-lunar-settlement",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786701600
     },
     {
       "title": "Paleontology rocked by organic molecules found in 66-million-year-old dinosaur bones",
