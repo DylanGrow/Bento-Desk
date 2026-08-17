@@ -1,6 +1,27 @@
 {
-  "last_updated": 1787001720,
+  "last_updated": 1787005219,
   "items": [
+    {
+      "title": "Buss family sells Lakers stake, ending an era for one of NBA's marquee franchises",
+      "link": "https://www.cbssports.com/nba/news/buss-family-sells-lakers-stake-ending-era/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1787005197
+    },
+    {
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787002025
+    },
+    {
+      "title": "Avengers: Doomsday Pre-Sale Tickets Are Outpacing Spider-Man: Brand New Day",
+      "link": "https://www.ign.com/articles/avengers-doomsday-pre-sale-tickets-are-outpacing-spider-man-brand-new-day",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787001078
+    },
     {
       "title": "How an ancient collision with another galaxy transformed the Milky Way",
       "link": "https://www.space.com/astronomy/galaxies/how-an-ancient-collision-with-another-galaxy-transformed-the-milky-way",
@@ -9,11 +30,11 @@
       "timestamp": 1787000400
     },
     {
-      "title": "Buss family sells Lakers stake, ending an era for one of NBA's marquee franchises",
-      "link": "https://www.cbssports.com/nba/news/buss-family-sells-lakers-stake-ending-era/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1786999725
+      "title": "GPU Swapping Spree Halted After Suspected Thieves Lose Power During Esports Hotel Heist",
+      "link": "https://www.ign.com/articles/gpu-swapping-spree-halted-after-suspected-thieves-lose-power-during-esports-hotel-heist",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787000262
     },
     {
       "title": "Spider-Man: Brand New Day Nearly Featured a Different Identity-Swapping Villain Before Sony's Kraven the Hunter Got in the Way",
@@ -317,13 +338,6 @@
       "timestamp": 1786975200
     },
     {
-      "title": "Marvel Confirms Your List of Avengers: Doomsday Homework, Featuring 15 Movies and TV Series, And a Couple of Deep Cuts",
-      "link": "https://www.ign.com/articles/marvel-confirms-your-list-of-avengers-doomsday-homework-featuring-15-movies-and-tv-series-and-a-couple-of-deep-cuts",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786975121
-    },
-    {
       "title": "Meet the only known trebuchet casualty in history",
       "link": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
       "source": "ARSTECHNICA",
@@ -345,13 +359,6 @@
       "timestamp": 1786972205
     },
     {
-      "title": "Crypto hardware wallet owners face fresh security risks after recent spate of personal data thefts",
-      "link": "https://techcrunch.com/2026/08/17/crypto-hardware-wallet-owners-face-fresh-security-risks-after-recent-spate-of-personal-data-thefts/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786971619
-    },
-    {
       "title": "A 'river' of cosmic gas 1 trillion miles long sent planets in the Orion constellation into tilted orbits",
       "link": "https://www.space.com/astronomy/exoplanets/a-river-of-cosmic-gas-1-trillion-miles-long-sent-planets-in-the-orion-constellation-into-tilted-orbits",
       "source": "SPACE",
@@ -371,13 +378,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1786970417
-    },
-    {
-      "title": "'We're Talking With Johnny': Pirates of the Caribbean 6 Update Confirmed by Producer Jerry Bruckheimer",
-      "link": "https://www.ign.com/articles/were-talking-with-johnny-pirates-of-the-caribbean-6-update-confirmed-by-producer-jerry-bruckheimer",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786968587
     },
     {
       "title": "Scientists uncover the hidden nerve network fueling breast cancer",
