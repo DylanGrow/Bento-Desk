@@ -1,6 +1,13 @@
 {
-  "last_updated": 1787005219,
+  "last_updated": 1787008784,
   "items": [
+    {
+      "title": "YouTube Reveals View Count Changes That Will Track Views The Instant Someone Hits Play on a Video",
+      "link": "https://www.ign.com/articles/youtube-reveals-view-count-changes-that-will-track-views-the-instant-someone-hits-play-on-a-video",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787006450
+    },
     {
       "title": "Buss family sells Lakers stake, ending an era for one of NBA's marquee franchises",
       "link": "https://www.cbssports.com/nba/news/buss-family-sells-lakers-stake-ending-era/",
@@ -9,11 +16,39 @@
       "timestamp": 1787005197
     },
     {
+      "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
+      "link": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787004527
+    },
+    {
+      "title": "Tides of Annihilation Producer Responds After Gwendolyn's New Face Sparks Debate Among Fans",
+      "link": "https://www.ign.com/articles/tides-of-annihilation-producer-responds-after-gwendolyns-new-face-sparks-debate-among-fans",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787003567
+    },
+    {
+      "title": "Star Citizen Developer Stream Goes Horribly Off the Rails, Creating Further Distrust Among Players",
+      "link": "https://www.ign.com/articles/star-citizen-developer-stream-goes-horribly-off-the-rails-creating-further-distrust-among-players",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787003223
+    },
+    {
       "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
       "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1787002025
+    },
+    {
+      "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
+      "link": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787001529
     },
     {
       "title": "Avengers: Doomsday Pre-Sale Tickets Are Outpacing Spider-Man: Brand New Day",
@@ -233,20 +268,6 @@
       "timestamp": 1786985785
     },
     {
-      "title": "Supreme’s 2026 Fall/Winter Collection Features a 24K Gold Analogue Pocket",
-      "link": "https://www.ign.com/articles/supremes-2026-fall-winter-collection-features-a-24k-gold-analogue-pocket",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786985700
-    },
-    {
-      "title": "Fortnite Goes 32-Bit to Reveal New Gaming Legend Season With Legally Distinct Mario Kart, Mortal Kombat Parodies, Plus Actual Sonic the Hedgehog",
-      "link": "https://www.ign.com/articles/fortnite-goes-32-bit-to-reveal-new-gaming-legend-season-with-legally-distinct-mario-kart-mortal-kombat-parodies-plus-actual-sonic-the-hedgehog",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786985209
-    },
-    {
       "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
       "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
       "source": "TECHCRUNCH",
@@ -266,13 +287,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786982400
-    },
-    {
-      "title": "There's Now a Fortnite Star Wars Skin You Need to Visit Disneyland to Unlock",
-      "link": "https://www.ign.com/articles/theres-now-a-fortnite-star-wars-skin-you-need-to-visit-disneyland-to-unlock",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786982132
     },
     {
       "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
@@ -317,15 +331,15 @@
       "timestamp": 1786976574
     },
     {
-      "title": "Wildfire smoke blankets volcanoes across the Pacific Northwest | Space photo of the day for Aug. 17, 2026",
-      "link": "https://www.space.com/astronomy/earth/wildfire-smoke-blankets-volcanoes-across-the-pacific-northwest-space-photo-of-the-day-for-aug-17-2026",
+      "title": "These eight Lego Star Wars Smart Play sets are out now and Marvel needs to be next.",
+      "link": "https://www.space.com/stargazing/skywatching-kit/these-eight-lego-star-wars-smart-play-sets-are-out-now-and-marvel-needs-to-be-next",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786975200
     },
     {
-      "title": "These eight Lego Star Wars Smart Play sets are out now and Marvel needs to be next.",
-      "link": "https://www.space.com/stargazing/skywatching-kit/these-eight-lego-star-wars-smart-play-sets-are-out-now-and-marvel-needs-to-be-next",
+      "title": "Wildfire smoke blankets volcanoes across the Pacific Northwest | Space photo of the day for Aug. 17, 2026",
+      "link": "https://www.space.com/astronomy/earth/wildfire-smoke-blankets-volcanoes-across-the-pacific-northwest-space-photo-of-the-day-for-aug-17-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786975200
@@ -583,25 +597,11 @@
       "timestamp": 1786732334
     },
     {
-      "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
-      "link": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786730423
-    },
-    {
       "title": "Timberwolves will finally retire Kevin Garnett's No. 21 in February with new ownership in place",
       "link": "https://www.cbssports.com/nba/news/kevin-garnett-timberwolves-jersey-retirement-celtics/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786729916
-    },
-    {
-      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786728413
     },
     {
       "title": "Clippers re-sign Bradley Beal as they try to build out roster while Kawhi Leonard saga continues",
