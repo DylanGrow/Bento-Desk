@@ -1,12 +1,68 @@
 {
-  "last_updated": 1786998108,
+  "last_updated": 1787001720,
   "items": [
+    {
+      "title": "How an ancient collision with another galaxy transformed the Milky Way",
+      "link": "https://www.space.com/astronomy/galaxies/how-an-ancient-collision-with-another-galaxy-transformed-the-milky-way",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787000400
+    },
+    {
+      "title": "Buss family sells Lakers stake, ending an era for one of NBA's marquee franchises",
+      "link": "https://www.cbssports.com/nba/news/buss-family-sells-lakers-stake-ending-era/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1786999725
+    },
+    {
+      "title": "Spider-Man: Brand New Day Nearly Featured a Different Identity-Swapping Villain Before Sony's Kraven the Hunter Got in the Way",
+      "link": "https://www.ign.com/articles/spider-man-brand-new-day-nearly-featured-a-different-identity-swapping-villain-before-sonys-kraven-the-hunter-got-in-the-way",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786999310
+    },
+    {
+      "title": "The Moon's shadow raced across the heart of Spain, and I was there to see it",
+      "link": "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786998189
+    },
+    {
+      "title": "Scientists Name New Lizard Species After House of the Dragon’s Syrax",
+      "link": "https://www.ign.com/articles/new-lizard-species-named-house-of-the-dragon-syrax",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786997945
+    },
     {
       "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
       "link": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1786997915
+    },
+    {
+      "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
+      "link": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786997663
+    },
+    {
+      "title": "New ACOTAR Book Titles and Covers Revealed by Sarah J. Maas",
+      "link": "https://www.ign.com/articles/new-acotar-book-titles-and-covers-revealed-by-sarah-j-maas",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786997333
+    },
+    {
+      "title": "Kingdom Hearts Becomes Second Top-Selling Steam Game in the U.S. After Extended D23 Trailer Sparks Fan Excitement",
+      "link": "https://www.ign.com/articles/kingdom-hearts-becomes-second-top-selling-steam-game-in-the-us-after-extended-d23-trailer-sparks-fan-excitement",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786997122
     },
     {
       "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
@@ -37,7 +93,7 @@
       "timestamp": 1786995733
     },
     {
-      "title": "Streamer Finally Gets Perfect Game in MVP Baseball 2005 After Nearly 2000 Consecutive Attempts",
+      "title": "Streamer Finally Gets Perfect Game in MVP Baseball 2005 After Nearly 2,000 Consecutive Attempts",
       "link": "https://www.ign.com/articles/streamer-finally-gets-perfect-game-in-mvp-baseball-2005-after-nearly-2000-consecutive-attempts",
       "source": "IGN",
       "category": "gaming",
@@ -331,39 +387,11 @@
       "timestamp": 1786968410
     },
     {
-      "title": "Star Wars: Magellan Was a AAA Action RPG Where You Could Play as a Jedi or Mandalorian",
-      "link": "https://www.ign.com/articles/star-wars-magellan-was-a-aaa-action-rpg-where-you-could-play-as-a-jedi-or-mandalorian",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786966456
-    },
-    {
-      "title": "Mafia Developer Says Comparisons to Grand Theft Auto Are an 'Internet Thing'",
-      "link": "https://www.ign.com/articles/mafia-developer-says-comparisons-to-grand-theft-auto-are-an-internet-thing",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786965854
-    },
-    {
       "title": "Satellite operators are in panic mode due to a worsening launch crisis",
       "link": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1786964426
-    },
-    {
-      "title": "Halo, Forza and World of Warcraft In-Game Rewards Coming to McDonald's, Celebrating Xbox 25th Anniversary",
-      "link": "https://www.ign.com/articles/halo-forza-and-world-of-warcraft-in-game-rewards-coming-to-mcdonalds-celebrating-xbox-25th-anniversary",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786963889
-    },
-    {
-      "title": "'I'm Actually Spiralling': Star Wars Fans Are Convinced The Hunt for Ben Solo Is Back on After Adam Driver's X-Men Announcement Video",
-      "link": "https://www.ign.com/articles/im-actually-spiralling-star-wars-fans-are-convinced-the-hunt-for-ben-solo-is-back-on-after-adam-drivers-x-men-announcement-video",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786961976
     },
     {
       "title": "'This is unprecedented': Why the Pentagon's recent UFO file releases are so important",
@@ -441,13 +469,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1786874459
-    },
-    {
-      "title": "'This goes beyond showcasing technological soft power': China's new moon map signals bold space ambitions (video)",
-      "link": "https://www.space.com/astronomy/moon/this-goes-beyond-showcasing-technological-soft-power-chinas-new-moon-map-signals-bold-space-ambitions-video",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786874400
     },
     {
       "title": "Physicists discover a hidden gluon structure inside protons that could rewrite textbooks",
@@ -583,20 +604,6 @@
       "timestamp": 1786728413
     },
     {
-      "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
-      "link": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786727594
-    },
-    {
-      "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
-      "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786727034
-    },
-    {
       "title": "Clippers re-sign Bradley Beal as they try to build out roster while Kawhi Leonard saga continues",
       "link": "https://www.cbssports.com/nba/news/clippers-roster-bradley-beal-kawhi-leonard-trade-investigation/",
       "source": "CBSSPORTS",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786538870
-    },
-    {
-      "title": "NBA opening night odds: LeBron James, 76ers underdogs at champion Knicks in unique tripleheader to tip 2026-27",
-      "link": "https://www.cbssports.com/betting/news/nba-opening-night-odds-lebron-james-76ers-underdogs-at-champion-knicks-in-unique-tripleheader-to-tip-2026-27/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1786460228
     }
   ]
 }
