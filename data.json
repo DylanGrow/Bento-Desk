@@ -1,6 +1,20 @@
 {
-  "last_updated": 1786980075,
+  "last_updated": 1786983765,
   "items": [
+    {
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786983312
+    },
+    {
+      "title": "The 1st 'Star Wars: Ahsoka' season 2 trailer finally gives us a release date (video)",
+      "link": "https://www.space.com/entertainment/space-movies-shows/the-1st-star-wars-ahsoka-season-2-trailer-finally-gives-us-a-release-date",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786982400
+    },
     {
       "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
       "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
@@ -16,6 +30,13 @@
       "timestamp": 1786979167
     },
     {
+      "title": "This sub-$7,000 sportscar might be just what the future needs",
+      "link": "https://arstechnica.com/cars/2026/08/the-opposite-of-a-hypercar-is-fun-meet-the-gasolini-ar1/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786978885
+    },
+    {
       "title": "Scientists find 3 supermassive black holes on the verge of collision inside a distant galaxy",
       "link": "https://www.space.com/astronomy/black-holes/scientists-find-3-supermassive-black-holes-on-the-verge-of-collision-inside-a-distant-galaxy",
       "source": "SPACE",
@@ -28,6 +49,13 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1786978560
+    },
+    {
+      "title": "Nvidia discloses $21B stake in SpaceX",
+      "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1786976574
     },
     {
       "title": "These eight Lego Star Wars Smart Play sets are out now and Marvel needs to be next.",
@@ -471,13 +499,6 @@
       "timestamp": 1786799720
     },
     {
-      "title": "'Lanterns': Who's who in HBO's Green Lantern show?",
-      "link": "https://www.space.com/entertainment/space-movies-shows/lanterns-whos-who-in-hbos-green-lantern-show",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786798800
-    },
-    {
       "title": "So much solar: Digging into the list of every US power plant that went online this year",
       "link": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
       "source": "ARSTECHNICA",
@@ -490,13 +511,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1786791339
-    },
-    {
-      "title": "Talks to sell PayPal to Stripe and Advent are heating up",
-      "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786747404
     },
     {
       "title": "NBA Hall of Fame tiers: Why Joel Embiid, Draymond Green are first-ballot locks, Kyrie Irving may have to wait",
@@ -581,20 +595,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786721021
-    },
-    {
-      "title": "R-rated director's cut of X-Files film restores Chris Carter's original horror vision",
-      "link": "https://arstechnica.com/culture/2026/08/r-rated-directors-cut-of-x-files-film-restores-chris-carters-original-horror-vision/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786720702
-    },
-    {
-      "title": "Taylor Farms' connections to Trump admin spurs probe into Cyclospora response",
-      "link": "https://arstechnica.com/health/2026/08/taylor-farms-connections-to-trump-admin-spurs-probe-into-cyclospora-response/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786719796
     },
     {
       "title": "Where to watch 2026 Basketball Hall of Fame induction ceremony: TV channel, live stream, more",
