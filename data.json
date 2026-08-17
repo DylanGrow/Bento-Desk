@@ -1,9 +1,44 @@
 {
-  "last_updated": 1786976592,
+  "last_updated": 1786980075,
   "items": [
+    {
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786979784
+    },
+    {
+      "title": "Terra Industries closes $52M seed round to build defense infrastructure for the Global South",
+      "link": "https://techcrunch.com/2026/08/17/terra-industries-closes-52m-seed-round-to-build-defense-infrastructure-for-the-global-south/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786979167
+    },
+    {
+      "title": "Scientists find 3 supermassive black holes on the verge of collision inside a distant galaxy",
+      "link": "https://www.space.com/astronomy/black-holes/scientists-find-3-supermassive-black-holes-on-the-verge-of-collision-inside-a-distant-galaxy",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786978800
+    },
+    {
+      "title": "WordPress.com targets the next generation of web creators with a free student plan",
+      "link": "https://techcrunch.com/2026/08/17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-student-plan/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786978560
+    },
     {
       "title": "These eight Lego Star Wars Smart Play sets are out now and Marvel needs to be next.",
       "link": "https://www.space.com/stargazing/skywatching-kit/these-eight-lego-star-wars-smart-play-sets-are-out-now-and-marvel-needs-to-be-next",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786975200
+    },
+    {
+      "title": "On this day in space! Aug. 17, 1877: Asaph Hall Discovers the Martian moon Phobos",
+      "link": "https://www.space.com/astronomy/mars/on-this-day-in-space-aug-17-1877-asaph-hall-discovers-the-martian-moon-phobos",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786975200
@@ -16,11 +51,11 @@
       "timestamp": 1786975200
     },
     {
-      "title": "On this day in space! Aug. 17, 1877: Asaph Hall Discovers the Martian moon Phobos",
-      "link": "https://www.space.com/astronomy/mars/on-this-day-in-space-aug-17-1877-asaph-hall-discovers-the-martian-moon-phobos",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786975200
+      "title": "Marvel Confirms Your List of Avengers: Doomsday Homework, Featuring 15 Movies and TV Series, And a Couple of Deep Cuts",
+      "link": "https://www.ign.com/articles/marvel-confirms-your-list-of-avengers-doomsday-homework-featuring-15-movies-and-tv-series-and-a-couple-of-deep-cuts",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786975121
     },
     {
       "title": "Meet the only known trebuchet casualty in history",
@@ -352,13 +387,6 @@
       "timestamp": 1786838625
     },
     {
-      "title": "Tetsuya Nomura Teases Involvement in Kingdom Hearts Anime Series, Tells Fans to Let Their 'Imagination Run Wild' | D23 2026",
-      "link": "https://www.ign.com/articles/tetsuya-nomura-teases-involvement-in-kingdom-hearts-anime-series-tells-fans-to-let-their-imagination-run-wild-d23-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786834660
-    },
-    {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
       "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
       "source": "TECHCRUNCH",
@@ -450,13 +478,6 @@
       "timestamp": 1786798800
     },
     {
-      "title": "This Week In Space podcast: Episode 223 — The Lunar Domain",
-      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-223-the-lunar-domain",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786795707
-    },
-    {
       "title": "So much solar: Digging into the list of every US power plant that went online this year",
       "link": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
       "source": "ARSTECHNICA",
@@ -485,32 +506,11 @@
       "timestamp": 1786743319
     },
     {
-      "title": "Self-driving trucks are officially testing on California highways",
-      "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786739869
-    },
-    {
       "title": "Dennis Schröder trade grades: Cavaliers setting themselves up for bigger move by sending guard to Hornets?",
       "link": "https://www.cbssports.com/nba/news/dennis-schroder-trade-grades-cavaliers-hornets-tre-mann/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786738632
-    },
-    {
-      "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
-      "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786735980
-    },
-    {
-      "title": "What we know about the alleged Iranian hacks on US water utilities",
-      "link": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786734272
     },
     {
       "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
