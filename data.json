@@ -1,6 +1,20 @@
 {
-  "last_updated": 1786983765,
+  "last_updated": 1786987386,
   "items": [
+    {
+      "title": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
+      "link": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786986659
+    },
+    {
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1786984724
+    },
     {
       "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
       "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
@@ -14,6 +28,13 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786982400
+    },
+    {
+      "title": "There's Now a Fortnite Star Wars Skin You Need to Visit Disneyland to Unlock",
+      "link": "https://www.ign.com/articles/theres-now-a-fortnite-star-wars-skin-you-need-to-visit-disneyland-to-unlock",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1786982132
     },
     {
       "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
@@ -58,6 +79,13 @@
       "timestamp": 1786976574
     },
     {
+      "title": "Wildfire smoke blankets volcanoes across the Pacific Northwest | Space photo of the day for Aug. 17, 2026",
+      "link": "https://www.space.com/astronomy/earth/wildfire-smoke-blankets-volcanoes-across-the-pacific-northwest-space-photo-of-the-day-for-aug-17-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786975200
+    },
+    {
       "title": "These eight Lego Star Wars Smart Play sets are out now and Marvel needs to be next.",
       "link": "https://www.space.com/stargazing/skywatching-kit/these-eight-lego-star-wars-smart-play-sets-are-out-now-and-marvel-needs-to-be-next",
       "source": "SPACE",
@@ -67,13 +95,6 @@
     {
       "title": "On this day in space! Aug. 17, 1877: Asaph Hall Discovers the Martian moon Phobos",
       "link": "https://www.space.com/astronomy/mars/on-this-day-in-space-aug-17-1877-asaph-hall-discovers-the-martian-moon-phobos",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786975200
-    },
-    {
-      "title": "Wildfire smoke blankets volcanoes across the Pacific Northwest | Space photo of the day for Aug. 17, 2026",
-      "link": "https://www.space.com/astronomy/earth/wildfire-smoke-blankets-volcanoes-across-the-pacific-northwest-space-photo-of-the-day-for-aug-17-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786975200
@@ -177,7 +198,7 @@
       "timestamp": 1786963889
     },
     {
-      "title": "'I'm Actually Spiralling': Star Wars Fans Are Convinced The Hunt for Ben Solo is Back on After Adam Driver's X-Men Announcement Video",
+      "title": "'I'm Actually Spiralling': Star Wars Fans Are Convinced The Hunt for Ben Solo Is Back on After Adam Driver's X-Men Announcement Video",
       "link": "https://www.ign.com/articles/im-actually-spiralling-star-wars-fans-are-convinced-the-hunt-for-ben-solo-is-back-on-after-adam-drivers-x-men-announcement-video",
       "source": "IGN",
       "category": "gaming",
@@ -408,13 +429,6 @@
       "timestamp": 1786841329
     },
     {
-      "title": "Kingdom Hearts 4 Gets Extended Gameplay Trailer Featuring Playable Mickey, Donald, and Goofy | D23 2026",
-      "link": "https://www.ign.com/articles/kingdom-hearts-4-gets-extended-gameplay-trailer-featuring-playable-mickey-donald-and-goofy-d23-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786838625
-    },
-    {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
       "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
       "source": "TECHCRUNCH",
@@ -441,13 +455,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1786811400
-    },
-    {
-      "title": "How to tell if your AI platforms’ accounts have been hacked",
-      "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786810200
     },
     {
       "title": "LeBron James launches YouTube golf channel with video from Cavaliers title team reunion trip to Scotland",
@@ -490,13 +497,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1786800346
-    },
-    {
-      "title": "Every fusion startup that has raised over $100M",
-      "link": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786799720
     },
     {
       "title": "So much solar: Digging into the list of every US power plant that went online this year",
