@@ -1,12 +1,54 @@
 {
-  "last_updated": 1787070409,
+  "last_updated": 1787073755,
   "items": [
+    {
+      "title": "Etched’s valuation doubles to $21B in a month",
+      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787073718
+    },
+    {
+      "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
+      "link": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787073133
+    },
+    {
+      "title": "Celtics owner Bill Chisholm says 'best brains in basketball' convinced him to trade Jaylen Brown",
+      "link": "https://www.cbssports.com/nba/news/celtics-bill-chisholm-brad-stevens-jaylen-brown-trade-76ers/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1787071428
+    },
+    {
+      "title": "Comcast adds motion sensing to millions of its newer routers, with a privacy catch",
+      "link": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787071145
+    },
+    {
+      "title": "Fallout 4 Patch Updates the Creation Kit, Fixes Various Bugs Including Steam Deck Crash",
+      "link": "https://www.ign.com/articles/fallout-4-patch-updates-the-creation-kit-fixes-various-bugs-including-steam-deck-crash",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787070688
+    },
     {
       "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
       "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1787069950
+    },
+    {
+      "title": "Dune: Part Three Trailer Kicks Off Ticket Sales, Reveals Edric's Voice",
+      "link": "https://www.ign.com/articles/dune-part-three-trailer-kicks-off-ticket-sales-reveals-edrics-voice",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787069124
     },
     {
       "title": "Watch SpaceX launch its 100th mission of the year tonight",
@@ -21,6 +63,13 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1787068788
+    },
+    {
+      "title": "Control Resonant Developer Announces Last-Minute Delay For Physical Edition",
+      "link": "https://www.ign.com/articles/control-resonant-developer-announces-last-minute-delay-for-physical-edition",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787068701
     },
     {
       "title": "Basketball Hall of Fame predictions: Projecting HOF fates for six NBA veterans on the bubble",
@@ -86,15 +135,15 @@
       "timestamp": 1787061600
     },
     {
-      "title": "On this day in space! Aug. 18, 1868: Total solar eclipse leads to discovery of helium",
-      "link": "https://www.space.com/astronomy/on-this-day-in-space-aug-18-1868-total-solar-eclipse-leads-to-discovery-of-helium",
+      "title": "A beginner’s guide to observing the night sky with a manual telescope",
+      "link": "https://www.space.com/stargazing/skywatching-kit/a-beginners-guide-to-observing-the-night-sky-with-a-manual-telescope",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787061600
     },
     {
-      "title": "A beginner’s guide to observing the night sky with a manual telescope",
-      "link": "https://www.space.com/stargazing/skywatching-kit/a-beginners-guide-to-observing-the-night-sky-with-a-manual-telescope",
+      "title": "On this day in space! Aug. 18, 1868: Total solar eclipse leads to discovery of helium",
+      "link": "https://www.space.com/astronomy/on-this-day-in-space-aug-18-1868-total-solar-eclipse-leads-to-discovery-of-helium",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787061600
@@ -317,27 +366,6 @@
       "timestamp": 1787011870
     },
     {
-      "title": "Anthropic’s annualized revenue surges to $65B",
-      "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787010986
-    },
-    {
-      "title": "US Army Battalion Reportedly Giving Soldiers Time Off to Play GTA 6 in Exchange for Reenlisting",
-      "link": "https://www.ign.com/articles/us-army-battalion-reportedly-giving-soldiers-time-off-to-play-gta-6-in-exchange-for-reenlisting",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787008203
-    },
-    {
-      "title": "YouTube Reveals View Count Changes That Will Track Views The Instant Someone Hits Play on a Video",
-      "link": "https://www.ign.com/articles/youtube-reveals-view-count-changes-that-will-track-views-the-instant-someone-hits-play-on-a-video",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787006450
-    },
-    {
       "title": "The bacteria that make cheese taste so good may also benefit your gut",
       "link": "https://www.sciencedaily.com/releases/2026/08/260816044847.htm",
       "source": "SCIENCEDAILY",
@@ -350,20 +378,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787004527
-    },
-    {
-      "title": "Tides of Annihilation Producer Responds After Gwendolyn's New Face Sparks Debate Among Fans",
-      "link": "https://www.ign.com/articles/tides-of-annihilation-producer-responds-after-gwendolyns-new-face-sparks-debate-among-fans",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787003567
-    },
-    {
-      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787002025
     },
     {
       "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
@@ -385,13 +399,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1786998189
-    },
-    {
-      "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
-      "link": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786997915
     },
     {
       "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
@@ -478,15 +485,15 @@
       "timestamp": 1786976574
     },
     {
-      "title": "Wildfire smoke blankets volcanoes across the Pacific Northwest | Space photo of the day for Aug. 17, 2026",
-      "link": "https://www.space.com/astronomy/earth/wildfire-smoke-blankets-volcanoes-across-the-pacific-northwest-space-photo-of-the-day-for-aug-17-2026",
+      "title": "These eight Lego Star Wars Smart Play sets are out now and Marvel needs to be next.",
+      "link": "https://www.space.com/stargazing/skywatching-kit/these-eight-lego-star-wars-smart-play-sets-are-out-now-and-marvel-needs-to-be-next",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786975200
     },
     {
-      "title": "On this day in space! Aug. 17, 1877: Asaph Hall discovers the Martian moon Phobos",
-      "link": "https://www.space.com/astronomy/mars/on-this-day-in-space-aug-17-1877-asaph-hall-discovers-the-martian-moon-phobos",
+      "title": "Wildfire smoke blankets volcanoes across the Pacific Northwest | Space photo of the day for Aug. 17, 2026",
+      "link": "https://www.space.com/astronomy/earth/wildfire-smoke-blankets-volcanoes-across-the-pacific-northwest-space-photo-of-the-day-for-aug-17-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786975200
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786571595
-    },
-    {
-      "title": "Lakers sold for record-breaking $12.5 billion: Everything to know about Josh Kushner, Bob Iger's purchase",
-      "link": "https://www.cbssports.com/nba/news/lakers-sold-josh-kushner-bob-iger/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1786566333
     }
   ]
 }
