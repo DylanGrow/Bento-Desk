@@ -1,6 +1,55 @@
 {
-  "last_updated": 1787081057,
+  "last_updated": 1787084338,
   "items": [
+    {
+      "title": "TikTok explores peer-to-peer payments via DMs, report says",
+      "link": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787083436
+    },
+    {
+      "title": "Forget 'Halo' — the latest 'Futurama' episode has a ring world covered in super-intelligent rats (exclusive)",
+      "link": "https://www.space.com/entertainment/space-movies-shows/forget-halo-the-latest-futurama-episode-has-a-ring-world-covered-in-super-intelligent-rats-exclusive",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787083200
+    },
+    {
+      "title": "Report: Tom Holland Could Earn Up to $100 Million for Spider-Man: Brand New Day Following Record-Breaking Box Office Success",
+      "link": "https://www.ign.com/articles/report-tom-holland-could-earn-up-to-100-million-for-spider-man-brand-new-day-following-record-breaking-box-office-success",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787082254
+    },
+    {
+      "title": "NASA astronaut and 1st female French spacewalker remove failed ISS antenna but run out of time for replacement",
+      "link": "https://www.space.com/space-exploration/international-space-station/nasa-astronaut-and-1st-female-french-spacewalker-remove-failed-iss-antenna-but-run-out-of-time-for-replacement",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787081800
+    },
+    {
+      "title": "Skip Binksy Will Now Compete With Sweetpea Golightly for Best TV Character Name in Industry Season 5",
+      "link": "https://www.ign.com/articles/skip-binksy-will-now-compete-with-sweetpea-golightly-for-best-tv-character-name-in-industry-season-5",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787080945
+    },
+    {
+      "title": "Star Wars: Starfighter Follows ‘Marginalized Outsiders' From the ‘Wrong Side of the Galaxy’",
+      "link": "https://www.ign.com/articles/star-wars-starfighter-plot-outsiders",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787079513
+    },
+    {
+      "title": "Peacock Raises Prices for Fourth Time in Four Years Ahead of YouTube Premium Inclusion",
+      "link": "https://www.ign.com/articles/peacock-raises-prices-for-fourth-time-in-four-years-ahead-of-youtube-premium-inclusion",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787079142
+    },
     {
       "title": "Uncharted: Drake's Fortune Developer Reveals the Game Had Dynamic Difficulty to Stop Players From Finishing It Too Quickly",
       "link": "https://www.ign.com/articles/uncharted-drakes-fortune-developer-reveals-the-game-had-dynamic-difficulty-to-stop-players-from-finishing-it-too-quickly",
@@ -303,13 +352,6 @@
       "timestamp": 1787053010
     },
     {
-      "title": "Tomb Raider: Legacy of Atlantis Is 'Reimagining' The Series' Original Game With a Focus Meter, Skill Tree, and Herb Brewing",
-      "link": "https://www.ign.com/articles/tomb-raider-legacy-of-atlantis-is-reimagining-the-series-original-game-with-a-focus-meter-skill-tree-and-herb-brewing",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787052964
-    },
-    {
       "title": "As temperatures get hotter, pesticides are more dangerous to farmworkers",
       "link": "https://arstechnica.com/science/2026/08/as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworkers/",
       "source": "ARSTECHNICA",
@@ -324,39 +366,11 @@
       "timestamp": 1787050800
     },
     {
-      "title": "Fairphone is launching its latest repairable phone in the US too",
-      "link": "https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787050800
-    },
-    {
-      "title": "Do Not Boycott GTA 6, Fired Rockstar Workers Tell Fans: 'There’s a Better Way to Support Us and Hold Rockstar to Account'",
-      "link": "https://www.ign.com/articles/do-not-boycott-gta-6-fired-rockstar-workers-tell-fans-theres-a-better-way-to-support-us-and-hold-rockstar-to-account",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787048760
-    },
-    {
-      "title": "'We Were Robbed': Toy Story 5 Deleted Scene Showed Jessie and Bullseye's First Meeting",
-      "link": "https://www.ign.com/articles/we-were-robbed-toy-story-5-deleted-scene-showed-jessie-and-bullseyes-first-meeting",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787048224
-    },
-    {
       "title": "See gorgeous views of the Aug. 12 total solar eclipse captured from space",
       "link": "https://www.space.com/stargazing/solar-eclipses/see-gorgeous-views-of-the-aug-12-total-solar-eclipse-captured-from-space",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787047200
-    },
-    {
-      "title": "Deus Ex, System Shock, and Thief Developer Legend Warren Spector Announces Retirement",
-      "link": "https://www.ign.com/articles/deus-ex-system-shock-and-thief-developer-legend-warren-spector-announces-retirement",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787045934
     },
     {
       "title": "Scientists may have finally proved that “empty” space isn’t really empty",
@@ -497,20 +511,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786982400
-    },
-    {
-      "title": "Scientists find 3 supermassive black holes on the verge of collision inside a distant galaxy",
-      "link": "https://www.space.com/astronomy/black-holes/scientists-find-3-supermassive-black-holes-on-the-verge-of-collision-inside-a-distant-galaxy",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786978800
-    },
-    {
-      "title": "These eight Lego Star Wars Smart Play sets are out now and Marvel needs to be next.",
-      "link": "https://www.space.com/stargazing/skywatching-kit/these-eight-lego-star-wars-smart-play-sets-are-out-now-and-marvel-needs-to-be-next",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786975200
     },
     {
       "title": "Webb’s mysterious little red dots may be hiding entire galaxies",
