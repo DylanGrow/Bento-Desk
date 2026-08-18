@@ -1,6 +1,41 @@
 {
-  "last_updated": 1787066837,
+  "last_updated": 1787070409,
   "items": [
+    {
+      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+      "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787069950
+    },
+    {
+      "title": "Watch SpaceX launch its 100th mission of the year tonight",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-100-launches-2026-starlink-group-17-50-launch",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787068800
+    },
+    {
+      "title": "Bluesky says its recent outage was caused by another DDoS attack",
+      "link": "https://techcrunch.com/2026/08/18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787068788
+    },
+    {
+      "title": "Basketball Hall of Fame predictions: Projecting HOF fates for six NBA veterans on the bubble",
+      "link": "https://www.cbssports.com/nba/news/basketball-hall-of-fame-predictions-projecting-hof-fates-six-veterans/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1787067481
+    },
+    {
+      "title": "Teenage Sex and Death at Camp Miasma takes pains to deliver a slasher fan’s dream",
+      "link": "https://arstechnica.com/culture/2026/08/teenage-sex-and-death-at-camp-miasma-takes-pains-to-deliver-a-slasher-fans-dream/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787067407
+    },
     {
       "title": "Peacock is raising prices across all of its streaming plans",
       "link": "https://techcrunch.com/2026/08/18/peacock-is-raising-prices-across-all-of-its-streaming-plans/",
@@ -9,11 +44,25 @@
       "timestamp": 1787066791
     },
     {
+      "title": "X-rays add new twist to narwhal's spiral tusk",
+      "link": "https://arstechnica.com/science/2026/08/x-rays-add-new-twist-to-narwhals-spiral-tusk/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787065251
+    },
+    {
       "title": "Hydrogen-powered 'rocket car' tops 400 mph in record-breaking test (video)",
       "link": "https://www.space.com/technology/hydrogen-powered-rocket-car-tops-400-mph-in-record-breaking-test-video",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787065200
+    },
+    {
+      "title": "Avengers Star Sebastian Stan Appears to Confirm He's Playing Harvey Dent AKA Two-Face in The Batman: Part 2",
+      "link": "https://www.ign.com/articles/avengers-star-sebastian-stan-appears-to-confirm-hes-playing-harvey-dent-aka-two-face-in-the-batman-part-2",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787064915
     },
     {
       "title": "Ranking college football's most expensive rosters; latest news on WRs Jordyn Tyson and Malik Nabers",
@@ -37,13 +86,6 @@
       "timestamp": 1787061600
     },
     {
-      "title": "Hubble, James Webb team up to capture the 'Black Eye Galaxy' | Space photo of the day for Aug. 18, 2026",
-      "link": "https://www.space.com/astronomy/galaxies/hubble-james-webb-team-up-to-capture-the-black-eye-galaxy-space-photo-of-the-day-for-aug-18-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787061600
-    },
-    {
       "title": "On this day in space! Aug. 18, 1868: Total solar eclipse leads to discovery of helium",
       "link": "https://www.space.com/astronomy/on-this-day-in-space-aug-18-1868-total-solar-eclipse-leads-to-discovery-of-helium",
       "source": "SPACE",
@@ -53,6 +95,13 @@
     {
       "title": "A beginner’s guide to observing the night sky with a manual telescope",
       "link": "https://www.space.com/stargazing/skywatching-kit/a-beginners-guide-to-observing-the-night-sky-with-a-manual-telescope",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787061600
+    },
+    {
+      "title": "Hubble, James Webb Space Telescope team up to capture the 'Black Eye Galaxy' | Space photo of the day for Aug. 18, 2026",
+      "link": "https://www.space.com/astronomy/galaxies/hubble-james-webb-team-up-to-capture-the-black-eye-galaxy-space-photo-of-the-day-for-aug-18-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787061600
@@ -121,7 +170,7 @@
       "timestamp": 1787058000
     },
     {
-      "title": "Drakong’s New Attack on Titan-Themed Collectible Controllers Come In a Blind Box",
+      "title": "Drakong’s New Attack on Titan-Themed Collectible Controllers Come in a Blind Box",
       "link": "https://www.ign.com/articles/drakongs-new-attack-on-titan-themed-collectible-controllers-come-in-a-blind-box",
       "source": "IGN",
       "category": "gaming",
@@ -135,7 +184,7 @@
       "timestamp": 1787053010
     },
     {
-      "title": "Tomb Raider: Legacy of Atlantis is 'Reimagining' The Series' Original Game With a Focus Meter, Skill Tree and Herb Brewing",
+      "title": "Tomb Raider: Legacy of Atlantis Is 'Reimagining' The Series' Original Game With a Focus Meter, Skill Tree, and Herb Brewing",
       "link": "https://www.ign.com/articles/tomb-raider-legacy-of-atlantis-is-reimagining-the-series-original-game-with-a-focus-meter-skill-tree-and-herb-brewing",
       "source": "IGN",
       "category": "gaming",
@@ -310,13 +359,6 @@
       "timestamp": 1787003567
     },
     {
-      "title": "Star Citizen Developer Stream Goes Horribly Off the Rails, Creating Further Distrust Among Players",
-      "link": "https://www.ign.com/articles/star-citizen-developer-stream-goes-horribly-off-the-rails-creating-further-distrust-among-players",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787003223
-    },
-    {
       "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
       "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
       "source": "TECHCRUNCH",
@@ -380,20 +422,6 @@
       "timestamp": 1786996564
     },
     {
-      "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
-      "link": "https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786995231
-    },
-    {
-      "title": "Spotify’s new Playlist Notes let users and editors explain their song picks",
-      "link": "https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786994683
-    },
-    {
       "title": "Kawhi Leonard investigation: NBA lacks evidence Steve Ballmer funneled money for cap circumvention, per report",
       "link": "https://www.cbssports.com/nba/news/kawhi-leonard-investigation-nba-lacks-evidence-clippers-steve-ballmer/",
       "source": "CBSSPORTS",
@@ -452,13 +480,6 @@
     {
       "title": "Wildfire smoke blankets volcanoes across the Pacific Northwest | Space photo of the day for Aug. 17, 2026",
       "link": "https://www.space.com/astronomy/earth/wildfire-smoke-blankets-volcanoes-across-the-pacific-northwest-space-photo-of-the-day-for-aug-17-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786975200
-    },
-    {
-      "title": "These eight Lego Star Wars Smart Play sets are out now and Marvel needs to be next.",
-      "link": "https://www.space.com/stargazing/skywatching-kit/these-eight-lego-star-wars-smart-play-sets-are-out-now-and-marvel-needs-to-be-next",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786975200
@@ -534,13 +555,6 @@
       "timestamp": 1786881734
     },
     {
-      "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
-      "link": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786874459
-    },
-    {
       "title": "Physicists discover a hidden gluon structure inside protons that could rewrite textbooks",
       "link": "https://www.sciencedaily.com/releases/2026/08/260815064805.htm",
       "source": "SCIENCEDAILY",
@@ -574,13 +588,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1786849385
-    },
-    {
-      "title": "VisionQuest trailer kicks off Disney's D23 fan event",
-      "link": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786828887
     },
     {
       "title": "LeBron James launches YouTube golf channel with video from Cavaliers title team reunion trip to Scotland",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786566333
-    },
-    {
-      "title": "Steph Curry wants 'to win and finish his career' with the Warriors, says GM Mike Dunleavy, but can he do both?",
-      "link": "https://www.cbssports.com/nba/news/steph-curry-warriors-career-priorities-mike-dunleavy/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1786548284
     }
   ]
 }
