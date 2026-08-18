@@ -1,19 +1,33 @@
 {
-  "last_updated": 1787008784,
+  "last_updated": 1787014889,
   "items": [
+    {
+      "title": "James Gunn Defends the Tonal Shift of the DCU After Lanterns Stirs Conversation With Gritty First Episode",
+      "link": "https://www.ign.com/articles/james-gunn-defends-the-tonal-shift-of-the-dcu-after-lanterns-stirs-conversation-with-gritty-first-episode",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787011870
+    },
+    {
+      "title": "Anthropic’s annualized revenue surges to $65B",
+      "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787010986
+    },
+    {
+      "title": "US Army Battalion Reportedly Giving Soldiers Time Off to Play GTA 6 in Exchange for Reenlisting",
+      "link": "https://www.ign.com/articles/us-army-battalion-reportedly-giving-soldiers-time-off-to-play-gta-6-in-exchange-for-reenlisting",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787008203
+    },
     {
       "title": "YouTube Reveals View Count Changes That Will Track Views The Instant Someone Hits Play on a Video",
       "link": "https://www.ign.com/articles/youtube-reveals-view-count-changes-that-will-track-views-the-instant-someone-hits-play-on-a-video",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1787006450
-    },
-    {
-      "title": "Buss family sells Lakers stake, ending an era for one of NBA's marquee franchises",
-      "link": "https://www.cbssports.com/nba/news/buss-family-sells-lakers-stake-ending-era/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1787005197
     },
     {
       "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
@@ -247,25 +261,11 @@
       "timestamp": 1786989633
     },
     {
-      "title": "'Garbage Universe That Disrespects the Characters of DC' — Lanterns' Episode 1 Ending Has Upset a Lot of Green Lantern Fans",
-      "link": "https://www.ign.com/articles/garbage-universe-that-disrespects-the-characters-of-dc-lanterns-episode-one-ending-has-upset-a-lot-of-green-lantern-fans",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786987675
-    },
-    {
       "title": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
       "link": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1786986659
-    },
-    {
-      "title": "Tributes to Hayden Panettiere Pour in From Scream Co-Stars, Plus Fans of Kingdom Hearts and Until Dawn",
-      "link": "https://www.ign.com/articles/tributes-to-hayden-panettiere-pour-in-from-scream-co-stars-plus-fans-of-kingdom-hearts-and-until-dawn",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786985785
     },
     {
       "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
@@ -331,15 +331,15 @@
       "timestamp": 1786976574
     },
     {
-      "title": "These eight Lego Star Wars Smart Play sets are out now and Marvel needs to be next.",
-      "link": "https://www.space.com/stargazing/skywatching-kit/these-eight-lego-star-wars-smart-play-sets-are-out-now-and-marvel-needs-to-be-next",
+      "title": "Wildfire smoke blankets volcanoes across the Pacific Northwest | Space photo of the day for Aug. 17, 2026",
+      "link": "https://www.space.com/astronomy/earth/wildfire-smoke-blankets-volcanoes-across-the-pacific-northwest-space-photo-of-the-day-for-aug-17-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786975200
     },
     {
-      "title": "Wildfire smoke blankets volcanoes across the Pacific Northwest | Space photo of the day for Aug. 17, 2026",
-      "link": "https://www.space.com/astronomy/earth/wildfire-smoke-blankets-volcanoes-across-the-pacific-northwest-space-photo-of-the-day-for-aug-17-2026",
+      "title": "These eight Lego Star Wars Smart Play sets are out now and Marvel needs to be next.",
+      "link": "https://www.space.com/stargazing/skywatching-kit/these-eight-lego-star-wars-smart-play-sets-are-out-now-and-marvel-needs-to-be-next",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786975200
@@ -364,13 +364,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1786972729
-    },
-    {
-      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-      "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786972205
     },
     {
       "title": "A 'river' of cosmic gas 1 trillion miles long sent planets in the Orion constellation into tilted orbits",
@@ -672,6 +665,13 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786538870
+    },
+    {
+      "title": "NBA opening night odds: LeBron James, 76ers underdogs at champion Knicks in unique tripleheader to tip 2026-27",
+      "link": "https://www.cbssports.com/betting/news/nba-opening-night-odds-lebron-james-76ers-underdogs-at-champion-knicks-in-unique-tripleheader-to-tip-2026-27/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1786460228
     }
   ]
 }
