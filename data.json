@@ -1,6 +1,27 @@
 {
-  "last_updated": 1787063368,
+  "last_updated": 1787066837,
   "items": [
+    {
+      "title": "Peacock is raising prices across all of its streaming plans",
+      "link": "https://techcrunch.com/2026/08/18/peacock-is-raising-prices-across-all-of-its-streaming-plans/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787066791
+    },
+    {
+      "title": "Hydrogen-powered 'rocket car' tops 400 mph in record-breaking test (video)",
+      "link": "https://www.space.com/technology/hydrogen-powered-rocket-car-tops-400-mph-in-record-breaking-test-video",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787065200
+    },
+    {
+      "title": "Ranking college football's most expensive rosters; latest news on WRs Jordyn Tyson and Malik Nabers",
+      "link": "https://www.cbssports.com/college-football/news/college-football-most-expensive-rosters-jordon-tyson-malik-nabers/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1787063141
+    },
     {
       "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
       "link": "https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/",
@@ -16,8 +37,8 @@
       "timestamp": 1787061600
     },
     {
-      "title": "A beginner’s guide to observing the night sky with a manual telescope",
-      "link": "https://www.space.com/stargazing/skywatching-kit/a-beginners-guide-to-observing-the-night-sky-with-a-manual-telescope",
+      "title": "Hubble, James Webb team up to capture the 'Black Eye Galaxy' | Space photo of the day for Aug. 18, 2026",
+      "link": "https://www.space.com/astronomy/galaxies/hubble-james-webb-team-up-to-capture-the-black-eye-galaxy-space-photo-of-the-day-for-aug-18-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787061600
@@ -30,8 +51,8 @@
       "timestamp": 1787061600
     },
     {
-      "title": "Hubble, James Webb team up to capture the 'Black Eye Galaxy' | Space photo of the day for Aug. 18, 2026",
-      "link": "https://www.space.com/astronomy/galaxies/hubble-james-webb-team-up-to-capture-the-black-eye-galaxy-space-photo-of-the-day-for-aug-18-2026",
+      "title": "A beginner’s guide to observing the night sky with a manual telescope",
+      "link": "https://www.space.com/stargazing/skywatching-kit/a-beginners-guide-to-observing-the-night-sky-with-a-manual-telescope",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787061600
@@ -70,13 +91,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1787059154
-    },
-    {
-      "title": "Ranking college football's most expensive rosters; latest news on WRs Jordon Tyson and Malik Nabers",
-      "link": "https://www.cbssports.com/college-football/news/college-football-most-expensive-rosters-jordon-tyson-malik-nabers/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1787058629
     },
     {
       "title": "Marvel's Wolverine's Glowing Red Tracking Trail Has an In-Universe Explanation",
@@ -380,13 +394,6 @@
       "timestamp": 1786994683
     },
     {
-      "title": "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",
-      "link": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786993467
-    },
-    {
       "title": "Kawhi Leonard investigation: NBA lacks evidence Steve Ballmer funneled money for cap circumvention, per report",
       "link": "https://www.cbssports.com/nba/news/kawhi-leonard-investigation-nba-lacks-evidence-clippers-steve-ballmer/",
       "source": "CBSSPORTS",
@@ -443,8 +450,8 @@
       "timestamp": 1786976574
     },
     {
-      "title": "On this day in space! Aug. 17, 1877: Asaph Hall discovers the Martian moon Phobos",
-      "link": "https://www.space.com/astronomy/mars/on-this-day-in-space-aug-17-1877-asaph-hall-discovers-the-martian-moon-phobos",
+      "title": "Wildfire smoke blankets volcanoes across the Pacific Northwest | Space photo of the day for Aug. 17, 2026",
+      "link": "https://www.space.com/astronomy/earth/wildfire-smoke-blankets-volcanoes-across-the-pacific-northwest-space-photo-of-the-day-for-aug-17-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786975200
@@ -457,8 +464,8 @@
       "timestamp": 1786975200
     },
     {
-      "title": "Wildfire smoke blankets volcanoes across the Pacific Northwest | Space photo of the day for Aug. 17, 2026",
-      "link": "https://www.space.com/astronomy/earth/wildfire-smoke-blankets-volcanoes-across-the-pacific-northwest-space-photo-of-the-day-for-aug-17-2026",
+      "title": "On this day in space! Aug. 17, 1877: Asaph Hall discovers the Martian moon Phobos",
+      "link": "https://www.space.com/astronomy/mars/on-this-day-in-space-aug-17-1877-asaph-hall-discovers-the-martian-moon-phobos",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786975200
@@ -469,13 +476,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1786974095
-    },
-    {
-      "title": "A 'river' of cosmic gas 1 trillion miles long sent planets in the Orion constellation into tilted orbits",
-      "link": "https://www.space.com/astronomy/exoplanets/a-river-of-cosmic-gas-1-trillion-miles-long-sent-planets-in-the-orion-constellation-into-tilted-orbits",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786971600
     },
     {
       "title": "Webb’s mysterious little red dots may be hiding entire galaxies",
