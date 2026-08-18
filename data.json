@@ -1,5 +1,5 @@
 {
-  "last_updated": 1787027473,
+  "last_updated": 1787030682,
   "items": [
     {
       "title": "Watch European astronaut make history during spacewalk today",
@@ -7,6 +7,13 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787025900
+    },
+    {
+      "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
+      "link": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787025640
     },
     {
       "title": "Jeanie Buss disputes her family's sale of Lakers stake: What to know about dramatic off-court fight",
@@ -345,6 +352,13 @@
       "timestamp": 1786976574
     },
     {
+      "title": "Wildfire smoke blankets volcanoes across the Pacific Northwest | Space photo of the day for Aug. 17, 2026",
+      "link": "https://www.space.com/astronomy/earth/wildfire-smoke-blankets-volcanoes-across-the-pacific-northwest-space-photo-of-the-day-for-aug-17-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786975200
+    },
+    {
       "title": "These eight Lego Star Wars Smart Play sets are out now and Marvel needs to be next.",
       "link": "https://www.space.com/stargazing/skywatching-kit/these-eight-lego-star-wars-smart-play-sets-are-out-now-and-marvel-needs-to-be-next",
       "source": "SPACE",
@@ -354,13 +368,6 @@
     {
       "title": "On this day in space! Aug. 17, 1877: Asaph Hall Discovers the Martian moon Phobos",
       "link": "https://www.space.com/astronomy/mars/on-this-day-in-space-aug-17-1877-asaph-hall-discovers-the-martian-moon-phobos",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786975200
-    },
-    {
-      "title": "Wildfire smoke blankets volcanoes across the Pacific Northwest | Space photo of the day for Aug. 17, 2026",
-      "link": "https://www.space.com/astronomy/earth/wildfire-smoke-blankets-volcanoes-across-the-pacific-northwest-space-photo-of-the-day-for-aug-17-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786975200
@@ -588,13 +595,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786738632
-    },
-    {
-      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
-      "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786732334
     },
     {
       "title": "Timberwolves will finally retire Kevin Garnett's No. 21 in February with new ownership in place",
