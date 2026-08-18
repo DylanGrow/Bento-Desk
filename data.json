@@ -1,6 +1,34 @@
 {
-  "last_updated": 1787056691,
+  "last_updated": 1787060343,
   "items": [
+    {
+      "title": "Apple’s new macOS update reportedly contains a video of AirPods with a camera",
+      "link": "https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787059731
+    },
+    {
+      "title": "Daniel Ek’s body-scanning startup Neko Health opens first US office, in New York",
+      "link": "https://techcrunch.com/2026/08/18/daniel-eks-body-scanning-startup-neko-health-opens-first-us-office-in-new-york/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787058000
+    },
+    {
+      "title": "It's harder to poop in space. Scientists may finally know why",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/its-harder-to-poop-in-space-scientists-may-finally-know-why",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787058000
+    },
+    {
+      "title": "Drakong’s New Attack on Titan-Themed Collectible Controllers Come In a Blind Box",
+      "link": "https://www.ign.com/articles/drakongs-new-attack-on-titan-themed-collectible-controllers-come-in-a-blind-box",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787054400
+    },
     {
       "title": "'No Disc No Buy' Comments Dominate Sony's Phantom Blade Zero State of Play Livestream, as Planned PlayStation Boycott Nears",
       "link": "https://www.ign.com/articles/no-disc-no-buy-comments-dominate-sonys-phantom-blade-zero-state-of-play-livestream-as-planned-playstation-boycott-nears",
@@ -240,13 +268,6 @@
       "timestamp": 1786998189
     },
     {
-      "title": "Scientists Name New Lizard Species After House of the Dragon’s Syrax",
-      "link": "https://www.ign.com/articles/new-lizard-species-named-house-of-the-dragon-syrax",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1786997945
-    },
-    {
       "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
       "link": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
       "source": "TECHCRUNCH",
@@ -359,20 +380,6 @@
       "timestamp": 1786986659
     },
     {
-      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786984724
-    },
-    {
-      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1786983312
-    },
-    {
       "title": "The 1st 'Star Wars: Ahsoka' season 2 trailer finally gives us a release date (video)",
       "link": "https://www.space.com/entertainment/space-movies-shows/the-1st-star-wars-ahsoka-season-2-trailer-finally-gives-us-a-release-date",
       "source": "SPACE",
@@ -401,13 +408,6 @@
       "timestamp": 1786976574
     },
     {
-      "title": "These eight Lego Star Wars Smart Play sets are out now and Marvel needs to be next.",
-      "link": "https://www.space.com/stargazing/skywatching-kit/these-eight-lego-star-wars-smart-play-sets-are-out-now-and-marvel-needs-to-be-next",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786975200
-    },
-    {
       "title": "Wildfire smoke blankets volcanoes across the Pacific Northwest | Space photo of the day for Aug. 17, 2026",
       "link": "https://www.space.com/astronomy/earth/wildfire-smoke-blankets-volcanoes-across-the-pacific-northwest-space-photo-of-the-day-for-aug-17-2026",
       "source": "SPACE",
@@ -417,6 +417,13 @@
     {
       "title": "On this day in space! Aug. 17, 1877: Asaph Hall discovers the Martian moon Phobos",
       "link": "https://www.space.com/astronomy/mars/on-this-day-in-space-aug-17-1877-asaph-hall-discovers-the-martian-moon-phobos",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1786975200
+    },
+    {
+      "title": "These eight Lego Star Wars Smart Play sets are out now and Marvel needs to be next.",
+      "link": "https://www.space.com/stargazing/skywatching-kit/these-eight-lego-star-wars-smart-play-sets-are-out-now-and-marvel-needs-to-be-next",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786975200
@@ -504,13 +511,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1786921378
-    },
-    {
-      "title": "NASA funds spherical 'Aerobots' that could explore the caves of Saturn's moon Titan",
-      "link": "https://www.space.com/technology/nasa-funds-spherical-aerobots-that-could-explore-the-caves-of-saturns-moon-titan",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786892400
     },
     {
       "title": "A little movement in midlife could pay off for your brain years later",
