@@ -1,12 +1,47 @@
 {
-  "last_updated": 1787164151,
+  "last_updated": 1787167279,
   "items": [
+    {
+      "title": "AI was supposed to win people over by now — it hasn’t",
+      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787166700
+    },
+    {
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787166000
+    },
+    {
+      "title": "'The Mandalorian and Grogu' finally blasts onto Disney+ next month",
+      "link": "https://www.space.com/entertainment/space-movies-shows/the-mandalorian-and-grogu-finally-blasts-onto-disney-next-month",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787166000
+    },
+    {
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787165174
+    },
     {
       "title": "Dark matter could magnify the jets of a ravenously feeding supermassive black hole",
       "link": "https://www.space.com/astronomy/black-holes/dark-matter-could-magnify-the-jets-of-a-ravenously-feeding-supermassive-black-hole",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787162400
+    },
+    {
+      "title": "Relive the Original Xbox By Building Your Own 1:1 Scale 3,509-Piece Mattel Brick Shop Version",
+      "link": "https://www.ign.com/articles/relive-the-original-xbox-by-building-your-own-11-scale-3509-piece-mattel-brick-shop-version",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787162338
     },
     {
       "title": "Meet the startup helping Wall Street put a price on AI compute",
@@ -58,7 +93,7 @@
       "timestamp": 1787158436
     },
     {
-      "title": "John Cena Reveals the Touching Reason Why Warner Bros.’ Initial Decision to Shelve Coyote vs Acme Didn’t Devastate Him",
+      "title": "John Cena Reveals the Touching Reason Why Warner Bros.’ Initial Decision to Shelve Coyote vs. Acme Didn’t Devastate Him",
       "link": "https://www.ign.com/articles/john-cena-reveals-the-touching-reason-why-warner-bros-initial-decision-to-shelve-coyote-vs-acme-didnt-devastate-him",
       "source": "IGN",
       "category": "gaming",
@@ -156,17 +191,17 @@
       "timestamp": 1787151600
     },
     {
-      "title": "13 sci-fi books that inspired our favorite shows and movies",
-      "link": "https://www.space.com/entertainment/read-13-books-that-inspired-our-favorite-sci-fi-shows-and-movies",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787151600
-    },
-    {
       "title": "New LEGO Batman DLC Trailer to Debut on IGN’s gamescom Livestream",
       "link": "https://www.ign.com/articles/lego-batman-mayhem-dlc-trailer-gamescom",
       "source": "IGN",
       "category": "gaming",
+      "timestamp": 1787151600
+    },
+    {
+      "title": "13 sci-fi books that inspired our favorite shows and movies",
+      "link": "https://www.space.com/entertainment/read-13-books-that-inspired-our-favorite-sci-fi-shows-and-movies",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1787151600
     },
     {
@@ -198,10 +233,10 @@
       "timestamp": 1787148120
     },
     {
-      "title": "Perseverance rover watches alien solar eclipse on Mars | Space photo of the day for Aug. 19, 2026",
-      "link": "https://www.space.com/astronomy/mars/perseverance-rover-watchs-alien-solar-eclipse-on-mars-space-photo-of-the-day-for-aug-19-2026",
-      "source": "SPACE",
-      "category": "space",
+      "title": "Dishonored, Deus Ex Designer Stars New Studio to Continue Focusing on Immersive Sims",
+      "link": "https://www.ign.com/articles/dishonored-deus-ex-designer-stars-new-studio-black-pony-immersive-immersive-sims",
+      "source": "IGN",
+      "category": "gaming",
       "timestamp": 1787148000
     },
     {
@@ -212,17 +247,17 @@
       "timestamp": 1787148000
     },
     {
-      "title": "On this day in space! Aug. 19, 1997: 1st Filipino satellite launches into orbit",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-aug-19-1997-1st-filipino-satellite-launches-into-orbit",
+      "title": "Perseverance rover watches alien solar eclipse on Mars | Space photo of the day for Aug. 19, 2026",
+      "link": "https://www.space.com/astronomy/mars/perseverance-rover-watchs-alien-solar-eclipse-on-mars-space-photo-of-the-day-for-aug-19-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787148000
     },
     {
-      "title": "Dishonored, Deus Ex Designer Stars New Studio to Continue Focusing on Immersive Sims",
-      "link": "https://www.ign.com/articles/dishonored-deus-ex-designer-stars-new-studio-black-pony-immersive-immersive-sims",
-      "source": "IGN",
-      "category": "gaming",
+      "title": "On this day in space! Aug. 19, 1997: 1st Filipino satellite launches into orbit",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-aug-19-1997-1st-filipino-satellite-launches-into-orbit",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1787148000
     },
     {
@@ -296,13 +331,6 @@
       "timestamp": 1787140800
     },
     {
-      "title": "You can Venmo your college tuition, for some reason",
-      "link": "https://techcrunch.com/2026/08/19/you-can-venmo-your-college-tuition-for-some-reason/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787140800
-    },
-    {
       "title": "Tiny quantum engines reveal useful energy hiding in “waste heat”",
       "link": "https://www.sciencedaily.com/releases/2026/08/260819041222.htm",
       "source": "SCIENCEDAILY",
@@ -329,20 +357,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1787137200
-    },
-    {
-      "title": "The Pokémon Company Cancels 30th Anniversary Card Orders Following 'Cyber Incident,' Warns of Customer Data Breach",
-      "link": "https://www.ign.com/articles/pokemon-company-cancels-30th-anniversary-card-orders-following-cyber-incident-warns-of-customer-data-breach",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787136053
-    },
-    {
-      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
-      "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787133600
     },
     {
       "title": "Astronomers discover a giant, rocky 'mega-Earth' 23 times more massive than our planet",
@@ -399,13 +413,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787091493
-    },
-    {
-      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787091265
     },
     {
       "title": "Jeanie Buss disputes her family's sale of Lakers stake: What to know about dramatic off-court fight",
@@ -532,13 +539,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1787063141
-    },
-    {
-      "title": "A beginner’s guide to observing the night sky with a manual telescope",
-      "link": "https://www.space.com/stargazing/skywatching-kit/a-beginners-guide-to-observing-the-night-sky-with-a-manual-telescope",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787061600
     },
     {
       "title": "Scientists may have finally proved that “empty” space isn’t really empty",
