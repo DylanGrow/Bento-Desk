@@ -1,6 +1,27 @@
 {
-  "last_updated": 1787160172,
+  "last_updated": 1787164151,
   "items": [
+    {
+      "title": "Dark matter could magnify the jets of a ravenously feeding supermassive black hole",
+      "link": "https://www.space.com/astronomy/black-holes/dark-matter-could-magnify-the-jets-of-a-ravenously-feeding-supermassive-black-hole",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787162400
+    },
+    {
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787160408
+    },
+    {
+      "title": "T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network",
+      "link": "https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787160392
+    },
     {
       "title": "A fantastical journey unfolds in gorgeous Wildwood trailer",
       "link": "https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/",
@@ -9,11 +30,25 @@
       "timestamp": 1787159166
     },
     {
+      "title": "Call of Duty: Modern Warfare 4 Beta Will Fix Issues That Have Plagued the Series for the Better Part of a Decade",
+      "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-beta-will-fix-issues-that-have-plagued-the-series-for-the-better-part-of-a-decade",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787158994
+    },
+    {
       "title": "A SpaceX rocket slammed into the moon this month — and a NASA spacecraft has spotted its lunar grave (photos)",
       "link": "https://www.space.com/astronomy/moon/a-spacex-rocket-slammed-into-the-moon-this-month-and-a-nasa-spacecraft-has-spotted-its-lunar-grave-photos",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787158800
+    },
+    {
+      "title": "Latest Xbox Console Updates Include Extremely Belated Profile Badge if You Bought an Xbox One Back in 2013",
+      "link": "https://www.ign.com/articles/latest-xbox-console-updates-include-extremely-belated-profile-badge-if-you-bought-an-xbox-one-back-in-2013",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787158527
     },
     {
       "title": "mRNA cancer vaccine succeeded in Phase 3 melanoma trial, Moderna and Merck say",
@@ -163,15 +198,15 @@
       "timestamp": 1787148120
     },
     {
-      "title": "My 5 favorite sights to see in the night sky with binoculars",
-      "link": "https://www.space.com/stargazing/skywatching-kit/the-best-things-to-see-in-the-night-sky-with-binoculars",
+      "title": "Perseverance rover watches alien solar eclipse on Mars | Space photo of the day for Aug. 19, 2026",
+      "link": "https://www.space.com/astronomy/mars/perseverance-rover-watchs-alien-solar-eclipse-on-mars-space-photo-of-the-day-for-aug-19-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787148000
     },
     {
-      "title": "Perseverance rover watches alien solar eclipse on Mars | Space photo of the day for Aug. 19, 2026",
-      "link": "https://www.space.com/astronomy/mars/perseverance-rover-watchs-alien-solar-eclipse-on-mars-space-photo-of-the-day-for-aug-19-2026",
+      "title": "My 5 favorite sights to see in the night sky with binoculars",
+      "link": "https://www.space.com/stargazing/skywatching-kit/the-best-things-to-see-in-the-night-sky-with-binoculars",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787148000
@@ -303,13 +338,6 @@
       "timestamp": 1787136053
     },
     {
-      "title": "Deleted Highlander Action Sequence With The Kurgan Was Cut Because It Was 'Too Good,' Actor Says",
-      "link": "https://www.ign.com/articles/deleted-highlander-action-sequence-with-the-kurgan-was-cut-because-it-was-too-good-actor-says",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787136051
-    },
-    {
       "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
       "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
       "source": "TECHCRUNCH",
@@ -329,13 +357,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1787133334
-    },
-    {
-      "title": "'All Good Things Come to an End': Doctor Who Writer Believes Show's Return 'Quietly Won't Happen'",
-      "link": "https://www.ign.com/articles/all-good-things-come-to-an-end-doctor-who-writer-believes-shows-return-quietly-wont-happen",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787132509
     },
     {
       "title": "16 mummies and a dog reveal a hidden order inside an ancient Egyptian tomb",
@@ -387,25 +408,11 @@
       "timestamp": 1787091265
     },
     {
-      "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
-      "link": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787085380
-    },
-    {
       "title": "Jeanie Buss disputes her family's sale of Lakers stake: What to know about dramatic off-court fight",
       "link": "https://www.cbssports.com/nba/news/buss-family-sells-lakers-stake-ending-era/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1787084859
-    },
-    {
-      "title": "TikTok explores peer-to-peer payments via DMs, report says",
-      "link": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787083436
     },
     {
       "title": "Forget 'Halo' — the latest 'Futurama' episode has a ring world covered in super-intelligent rats (exclusive)",
@@ -529,13 +536,6 @@
     {
       "title": "A beginner’s guide to observing the night sky with a manual telescope",
       "link": "https://www.space.com/stargazing/skywatching-kit/a-beginners-guide-to-observing-the-night-sky-with-a-manual-telescope",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787061600
-    },
-    {
-      "title": "Hubble, James Webb Space Telescope team up to capture the 'Black Eye Galaxy' | Space photo of the day for Aug. 18, 2026",
-      "link": "https://www.space.com/astronomy/galaxies/hubble-james-webb-team-up-to-capture-the-black-eye-galaxy-space-photo-of-the-day-for-aug-18-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787061600
