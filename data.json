@@ -1,6 +1,41 @@
 {
-  "last_updated": 1787131796,
+  "last_updated": 1787135035,
   "items": [
+    {
+      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+      "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787133600
+    },
+    {
+      "title": "Astronomers discover a giant, rocky 'mega-Earth' 23 times more massive than our planet",
+      "link": "https://www.space.com/astronomy/exoplanets/astronomers-discover-a-giant-rocky-mega-earth-23-times-more-massive-than-our-planet",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787133600
+    },
+    {
+      "title": "This 23-foot crocodylian may have ruled South America’s food chain",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260819041226.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787133334
+    },
+    {
+      "title": "'All Good Things Come to an End': Doctor Who Writer Believes Show's Return 'Quietly Won't Happen'",
+      "link": "https://www.ign.com/articles/all-good-things-come-to-an-end-doctor-who-writer-believes-shows-return-quietly-wont-happen",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787132509
+    },
+    {
+      "title": "16 mummies and a dog reveal a hidden order inside an ancient Egyptian tomb",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260819041218.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787129830
+    },
     {
       "title": "Fast Forever Starts Shooting in December, Confirms Vin Diesel",
       "link": "https://www.ign.com/articles/fast-forever-starts-shooting-in-december-confirms-vin-diesel",
@@ -14,6 +49,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1787126755
+    },
+    {
+      "title": "Japanese scientists use tiny silver particles to make DNA assembly up to 5x more efficient",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044842.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787125573
     },
     {
       "title": "Touchdown! Private Chinese rocket aces landing on 2nd-ever flight",
@@ -56,6 +98,13 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787092366
+    },
+    {
+      "title": "Tiny robots powered by light can hunt down and collect bacteria",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044850.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787091710
     },
     {
       "title": "Ukrainian drones overwhelm Russian tanks’ new active protection system—for now",
@@ -177,13 +226,6 @@
       "timestamp": 1787079142
     },
     {
-      "title": "Uncharted: Drake's Fortune Developer Reveals the Game Had Dynamic Difficulty to Stop Players From Finishing It Too Quickly",
-      "link": "https://www.ign.com/articles/uncharted-drakes-fortune-developer-reveals-the-game-had-dynamic-difficulty-to-stop-players-from-finishing-it-too-quickly",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787078381
-    },
-    {
       "title": "Disney sues FCC and its chair, escalating fight against Trump's chief censor",
       "link": "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/",
       "source": "ARSTECHNICA",
@@ -245,6 +287,13 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787071350
+    },
+    {
+      "title": "Mysterious waves sweeping across your brain may help turn sensory chaos into what you see",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044827.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787071257
     },
     {
       "title": "Comcast adds motion sensing to millions of its newer routers, with a privacy catch",
@@ -345,8 +394,8 @@
       "timestamp": 1787061600
     },
     {
-      "title": "A beginner’s guide to observing the night sky with a manual telescope",
-      "link": "https://www.space.com/stargazing/skywatching-kit/a-beginners-guide-to-observing-the-night-sky-with-a-manual-telescope",
+      "title": "On this day in space! Aug. 18, 1868: Total solar eclipse leads to discovery of helium",
+      "link": "https://www.space.com/astronomy/on-this-day-in-space-aug-18-1868-total-solar-eclipse-leads-to-discovery-of-helium",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787061600
@@ -359,8 +408,8 @@
       "timestamp": 1787061600
     },
     {
-      "title": "On this day in space! Aug. 18, 1868: Total solar eclipse leads to discovery of helium",
-      "link": "https://www.space.com/astronomy/on-this-day-in-space-aug-18-1868-total-solar-eclipse-leads-to-discovery-of-helium",
+      "title": "A beginner’s guide to observing the night sky with a manual telescope",
+      "link": "https://www.space.com/stargazing/skywatching-kit/a-beginners-guide-to-observing-the-night-sky-with-a-manual-telescope",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787061600
@@ -378,13 +427,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1787060740
-    },
-    {
-      "title": "Apple’s new macOS update reportedly contains a video of AirPods with a camera",
-      "link": "https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787059731
     },
     {
       "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
@@ -506,13 +548,6 @@
       "timestamp": 1786992877
     },
     {
-      "title": "Scientists find dead star that predicts our sun's future: 'Broken apart and returned to the galaxy'",
-      "link": "https://www.space.com/astronomy/stars/scientists-find-dead-star-that-predicts-our-suns-future-broken-apart-and-returned-to-the-galaxy",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1786990581
-    },
-    {
       "title": "Webb’s mysterious little red dots may be hiding entire galaxies",
       "link": "https://www.sciencedaily.com/releases/2026/08/260815064808.htm",
       "source": "SCIENCEDAILY",
@@ -560,41 +595,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1786881734
-    },
-    {
-      "title": "Physicists discover a hidden gluon structure inside protons that could rewrite textbooks",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260815064805.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786874145
-    },
-    {
-      "title": "Scientists reveal why walking gets so much harder with age",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260815065014.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786871605
-    },
-    {
-      "title": "A new Ice Age species was hiding in la brea tar pits fossils for decades",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260814235837.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786865616
-    },
-    {
-      "title": "A black hole shredded a “super sun” — but something strange may have survived",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260814235849.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786852006
-    },
-    {
-      "title": "COVID-19 awakens dormant viruses — and one is linked to long COVID",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260814011034.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786849385
     },
     {
       "title": "LeBron James launches YouTube golf channel with video from Cavaliers title team reunion trip to Scotland",
