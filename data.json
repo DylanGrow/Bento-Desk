@@ -1,12 +1,54 @@
 {
-  "last_updated": 1787156825,
+  "last_updated": 1787160172,
   "items": [
+    {
+      "title": "A fantastical journey unfolds in gorgeous Wildwood trailer",
+      "link": "https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787159166
+    },
+    {
+      "title": "A SpaceX rocket slammed into the moon this month — and a NASA spacecraft has spotted its lunar grave (photos)",
+      "link": "https://www.space.com/astronomy/moon/a-spacex-rocket-slammed-into-the-moon-this-month-and-a-nasa-spacecraft-has-spotted-its-lunar-grave-photos",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787158800
+    },
+    {
+      "title": "mRNA cancer vaccine succeeded in Phase 3 melanoma trial, Moderna and Merck say",
+      "link": "https://arstechnica.com/health/2026/08/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-merck-say/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787158436
+    },
+    {
+      "title": "John Cena Reveals the Touching Reason Why Warner Bros.’ Initial Decision to Shelve Coyote vs Acme Didn’t Devastate Him",
+      "link": "https://www.ign.com/articles/john-cena-reveals-the-touching-reason-why-warner-bros-initial-decision-to-shelve-coyote-vs-acme-didnt-devastate-him",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787157751
+    },
+    {
+      "title": "Xbox Special Edition Translucent Green Controller Price, Release Date Leaked",
+      "link": "https://www.ign.com/articles/xbox-special-edition-translucent-green-controller-price-release-date-leaked",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787157386
+    },
     {
       "title": "Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21",
       "link": "https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1787156178
+    },
+    {
+      "title": "Google Pixel 11 series review: Is the magic fading?",
+      "link": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787155890
     },
     {
       "title": "Mysterious Russian 'space activity' causes US Air Force flight to Antarctica to turn around: report",
@@ -16,6 +58,27 @@
       "timestamp": 1787155200
     },
     {
+      "title": "Subnautica 2 Early Access 1.2 Update Out Now Alongside Patch Notes, Dev Donates $100,000 to Ocean Cleanup",
+      "link": "https://www.ign.com/articles/subnautica-2-early-access-12-update-out-now-alongside-patch-notes-dev-donates-100000-to-ocean-cleanup",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787155078
+    },
+    {
+      "title": "Scientists find closest star to the Milky Way's central black hole",
+      "link": "https://arstechnica.com/science/2026/08/scientists-find-closest-star-to-the-milky-ways-central-black-hole/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787155016
+    },
+    {
+      "title": "Meta ran ads for an app promising to nudify female politicians",
+      "link": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787154329
+    },
+    {
       "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
       "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
       "source": "TECHCRUNCH",
@@ -23,7 +86,7 @@
       "timestamp": 1787154293
     },
     {
-      "title": "Rivian spinout Also raises another $150 million",
+      "title": "Rivian spinout Also raises another $150M",
       "link": "https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -65,7 +128,7 @@
       "timestamp": 1787151600
     },
     {
-      "title": "New LEGO Batman DLC Trailer To Debut On IGN’s gamescom Livestream",
+      "title": "New LEGO Batman DLC Trailer to Debut on IGN’s gamescom Livestream",
       "link": "https://www.ign.com/articles/lego-batman-mayhem-dlc-trailer-gamescom",
       "source": "IGN",
       "category": "gaming",
@@ -100,13 +163,6 @@
       "timestamp": 1787148120
     },
     {
-      "title": "On this day in space! Aug. 19, 1997: 1st Filipino satellite launches into orbit",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-aug-19-1997-1st-filipino-satellite-launches-into-orbit",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787148000
-    },
-    {
       "title": "My 5 favorite sights to see in the night sky with binoculars",
       "link": "https://www.space.com/stargazing/skywatching-kit/the-best-things-to-see-in-the-night-sky-with-binoculars",
       "source": "SPACE",
@@ -121,11 +177,25 @@
       "timestamp": 1787148000
     },
     {
+      "title": "On this day in space! Aug. 19, 1997: 1st Filipino satellite launches into orbit",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-aug-19-1997-1st-filipino-satellite-launches-into-orbit",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787148000
+    },
+    {
       "title": "Dishonored, Deus Ex Designer Stars New Studio to Continue Focusing on Immersive Sims",
       "link": "https://www.ign.com/articles/dishonored-deus-ex-designer-stars-new-studio-black-pony-immersive-immersive-sims",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1787148000
+    },
+    {
+      "title": "Trump expected to pick conservative policy wonk Heidi Overton to lead FDA",
+      "link": "https://arstechnica.com/health/2026/08/trump-expected-to-pick-conservative-policy-wonk-heidi-overton-to-lead-fda/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787147676
     },
     {
       "title": "Horizon 3 Only Has a 'Tiny Team' Working on It at Guerrilla, Reportedly Still Years Away",
@@ -275,20 +345,6 @@
       "timestamp": 1787129830
     },
     {
-      "title": "Fast Forever Starts Shooting in December, Confirms Vin Diesel",
-      "link": "https://www.ign.com/articles/fast-forever-starts-shooting-in-december-confirms-vin-diesel",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787128075
-    },
-    {
-      "title": "Avengers: Doomsday Star Sebastian Stan Knows ‘Absolutely Nothing’ About What Happens in the Movie",
-      "link": "https://www.ign.com/articles/avengers-doomsday-star-sebastian-stan-knows-absolutely-nothing-about-what-happens-in-the-movie",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787126755
-    },
-    {
       "title": "Japanese scientists use tiny silver particles to make DNA assembly up to 5x more efficient",
       "link": "https://www.sciencedaily.com/releases/2026/08/260816044842.htm",
       "source": "SCIENCEDAILY",
@@ -301,13 +357,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787102984
-    },
-    {
-      "title": "Robin Williams’ Children Revive His Instagram to Fight AI Misuse",
-      "link": "https://www.ign.com/articles/robin-williams-children-revive-instagram-ai-abuse",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787101092
     },
     {
       "title": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
@@ -492,27 +541,6 @@
       "timestamp": 1787061600
     },
     {
-      "title": "On this day in space! Aug. 18, 1868: Total solar eclipse leads to discovery of helium",
-      "link": "https://www.space.com/astronomy/on-this-day-in-space-aug-18-1868-total-solar-eclipse-leads-to-discovery-of-helium",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787061600
-    },
-    {
-      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-      "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787058004
-    },
-    {
-      "title": "As temperatures get hotter, pesticides are more dangerous to farmworkers",
-      "link": "https://arstechnica.com/science/2026/08/as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworkers/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787051269
-    },
-    {
       "title": "Scientists may have finally proved that “empty” space isn’t really empty",
       "link": "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
       "source": "SCIENCEDAILY",
@@ -534,39 +562,11 @@
       "timestamp": 1787029595
     },
     {
-      "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
-      "link": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787025640
-    },
-    {
       "title": "The bacteria that make cheese taste so good may also benefit your gut",
       "link": "https://www.sciencedaily.com/releases/2026/08/260816044847.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1787005083
-    },
-    {
-      "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
-      "link": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787004527
-    },
-    {
-      "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
-      "link": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787001529
-    },
-    {
-      "title": "The Moon's shadow raced across the heart of Spain, and I was there to see it",
-      "link": "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1786998189
     },
     {
       "title": "Kawhi Leonard investigation: NBA lacks evidence Steve Ballmer funneled money for cap circumvention, per report",
