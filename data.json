@@ -1,6 +1,55 @@
 {
-  "last_updated": 1787138464,
+  "last_updated": 1787143126,
   "items": [
+    {
+      "title": "Coffee drinkers have less fat, more muscle, and surprising hormone differences",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260819041228.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787142605
+    },
+    {
+      "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+      "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787140800
+    },
+    {
+      "title": "You can Venmo your college tuition, for some reason",
+      "link": "https://techcrunch.com/2026/08/19/you-can-venmo-your-college-tuition-for-some-reason/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787140800
+    },
+    {
+      "title": "Tiny quantum engines reveal useful energy hiding in “waste heat”",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260819041222.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787140192
+    },
+    {
+      "title": "GTA 6 Leak Forces Stop Killing Games Movement to Distance Itself From Hacker Manifesto",
+      "link": "https://www.ign.com/articles/gta-6-leak-forces-stop-killing-games-movement-to-distance-itself-from-hacker-manifesto",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787139574
+    },
+    {
+      "title": "Pollen has a surprising problem — and honeybees have found a way around it",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260819041237.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787138745
+    },
+    {
+      "title": "Don't Skip Your Chance to Compete in The UNO Championship Series, With a $50,000 Grand Finale Prize",
+      "link": "https://www.ign.com/articles/dont-skip-your-chance-to-compete-in-the-uno-championship-series-with-a-50000-grand-finale-prize",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787137200
+    },
     {
       "title": "The Pokémon Company Cancels 30th Anniversary Card Orders Following 'Cyber Incident,' Warns of Customer Data Breach",
       "link": "https://www.ign.com/articles/pokemon-company-cancels-30th-anniversary-card-orders-following-cyber-incident-warns-of-customer-data-breach",
@@ -72,7 +121,7 @@
       "timestamp": 1787125573
     },
     {
-      "title": "Touchdown! Private Chinese rocket aces landing on 2nd-ever flight",
+      "title": "Touchdown! Private Chinese rocket aces landing on 2nd-ever flight (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/touchdown-private-chinese-rocket-aces-landing-on-2nd-ever-flight",
       "source": "SPACE",
       "category": "space",
@@ -198,25 +247,11 @@
       "timestamp": 1787083200
     },
     {
-      "title": "Report: Tom Holland Could Earn Up to $100 Million for Spider-Man: Brand New Day Following Record-Breaking Box Office Success",
-      "link": "https://www.ign.com/articles/report-tom-holland-could-earn-up-to-100-million-for-spider-man-brand-new-day-following-record-breaking-box-office-success",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787082254
-    },
-    {
       "title": "NASA astronaut and 1st female French spacewalker remove failed ISS antenna but run out of time for replacement",
       "link": "https://www.space.com/space-exploration/international-space-station/nasa-astronaut-and-1st-female-french-spacewalker-remove-failed-iss-antenna-but-run-out-of-time-for-replacement",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787081800
-    },
-    {
-      "title": "Skip Binksy Will Now Compete With Sweetpea Golightly for Best TV Character Name in Industry Season 5",
-      "link": "https://www.ign.com/articles/skip-binksy-will-now-compete-with-sweetpea-golightly-for-best-tv-character-name-in-industry-season-5",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787080945
     },
     {
       "title": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea",
@@ -324,7 +359,7 @@
       "timestamp": 1787069100
     },
     {
-      "title": "SpaceX launches its 100th mission of the year, sends Starlink satellites to orbit",
+      "title": "SpaceX launches its 100th mission of the year, sends Starlink satellites to orbit (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-100-launches-2026-starlink-group-17-50-launch",
       "source": "SPACE",
       "category": "space",
@@ -401,13 +436,6 @@
       "timestamp": 1787061600
     },
     {
-      "title": "Hubble, James Webb Space Telescope team up to capture the 'Black Eye Galaxy' | Space photo of the day for Aug. 18, 2026",
-      "link": "https://www.space.com/astronomy/galaxies/hubble-james-webb-team-up-to-capture-the-black-eye-galaxy-space-photo-of-the-day-for-aug-18-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787061600
-    },
-    {
       "title": "A beginner’s guide to observing the night sky with a manual telescope",
       "link": "https://www.space.com/stargazing/skywatching-kit/a-beginners-guide-to-observing-the-night-sky-with-a-manual-telescope",
       "source": "SPACE",
@@ -415,18 +443,11 @@
       "timestamp": 1787061600
     },
     {
-      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-      "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787061030
-    },
-    {
-      "title": "Perplexity’s free AI offer left it with millions more users in India",
-      "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787060740
+      "title": "Hubble, James Webb Space Telescope team up to capture the 'Black Eye Galaxy' | Space photo of the day for Aug. 18, 2026",
+      "link": "https://www.space.com/astronomy/galaxies/hubble-james-webb-team-up-to-capture-the-black-eye-galaxy-space-photo-of-the-day-for-aug-18-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787061600
     },
     {
       "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
@@ -574,27 +595,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1786948868
-    },
-    {
-      "title": "Animals have been eating nature’s original bioplastic for millions of years",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260815064759.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786944850
-    },
-    {
-      "title": "A little-known protein may be fueling Alzheimer’s — and scientists found a way to block it",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260814235856.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786928475
-    },
-    {
-      "title": "A little movement in midlife could pay off for your brain years later",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260814235839.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786881734
     },
     {
       "title": "LeBron James launches YouTube golf channel with video from Cavaliers title team reunion trip to Scotland",
