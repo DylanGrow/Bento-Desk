@@ -1,6 +1,41 @@
 {
-  "last_updated": 1787149747,
+  "last_updated": 1787153238,
   "items": [
+    {
+      "title": "Sachin Bansal’s fintech Navi raises first outside capital with $100M Prosus investment",
+      "link": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787151701
+    },
+    {
+      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+      "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787151600
+    },
+    {
+      "title": "13 sci-fi books that inspired our favorite shows and movies",
+      "link": "https://www.space.com/entertainment/read-13-books-that-inspired-our-favorite-sci-fi-shows-and-movies",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787151600
+    },
+    {
+      "title": "Amazon’s Prime Air is taking off in nearly 500 U.S. cities",
+      "link": "https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787151478
+    },
+    {
+      "title": "Redfall Director Pleaded With Microsoft to Release Final Patch, Despite Already Being 'Fired'",
+      "link": "https://www.ign.com/articles/redfall-director-pleaded-with-microsoft-to-release-final-patch-despite-already-being-fired",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787150807
+    },
     {
       "title": "Calendly throws its hat into meeting note-taker circus",
       "link": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
@@ -35,6 +70,20 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787148000
+    },
+    {
+      "title": "Dishonored, Deus Ex Designer Stars New Studio to Continue Focusing on Immersive Sims",
+      "link": "https://www.ign.com/articles/dishonored-deus-ex-designer-stars-new-studio-black-pony-immersive-immersive-sims",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787148000
+    },
+    {
+      "title": "Horizon 3 Only Has a 'Tiny Team' Working on It at Guerrilla, Reportedly Still Years Away",
+      "link": "https://www.ign.com/articles/horizon-3-only-has-a-tiny-team-working-on-it-at-guerrilla-reportedly-still-years-away",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787147652
     },
     {
       "title": "I sailed to Greenland for a total solar eclipse — what I saw left me speechless",
@@ -254,32 +303,11 @@
       "timestamp": 1787091493
     },
     {
-      "title": "GTA 6 Gameplay and Map Appear to Leak Online, Group Reportedly Responsible Threatens Rockstar Over All-Digital Future",
-      "link": "https://www.ign.com/articles/gta-6-gameplay-and-map-appear-to-leak-online-group-reportedly-responsible-threatens-rockstar-over-all-digital-future",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787091313
-    },
-    {
       "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
       "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1787091265
-    },
-    {
-      "title": "One of Breaking Bad's Best Episodes Is Coming to Theaters Soon",
-      "link": "https://www.ign.com/articles/one-of-breaking-bads-best-episodes-is-coming-to-theaters-soon",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787090235
-    },
-    {
-      "title": "'Ash Is Done' — Bruce Campbell Says He Will No Longer Play Evil Dead's Ash Williams",
-      "link": "https://www.ign.com/articles/ash-is-done-bruce-campbell-says-he-will-no-longer-play-evil-deads-ash-williams",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787090046
     },
     {
       "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
@@ -366,13 +394,6 @@
       "timestamp": 1787073718
     },
     {
-      "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
-      "link": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787073133
-    },
-    {
       "title": "Celtics owner Bill Chisholm says 'best brains in basketball' convinced him to trade Jaylen Brown",
       "link": "https://www.cbssports.com/nba/news/celtics-bill-chisholm-brad-stevens-jaylen-brown-trade-76ers/",
       "source": "CBSSPORTS",
@@ -394,25 +415,11 @@
       "timestamp": 1787071257
     },
     {
-      "title": "Comcast adds motion sensing to millions of its newer routers, with a privacy catch",
-      "link": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787071145
-    },
-    {
       "title": "The United States is about to wake up to the threat from China's space program",
       "link": "https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787070607
-    },
-    {
-      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-      "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787069950
     },
     {
       "title": "Fairphone's latest repairable phone is finally available in the US for $650",
@@ -464,13 +471,6 @@
       "timestamp": 1787063141
     },
     {
-      "title": "Hubble, James Webb Space Telescope team up to capture the 'Black Eye Galaxy' | Space photo of the day for Aug. 18, 2026",
-      "link": "https://www.space.com/astronomy/galaxies/hubble-james-webb-team-up-to-capture-the-black-eye-galaxy-space-photo-of-the-day-for-aug-18-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787061600
-    },
-    {
       "title": "On this day in space! Aug. 18, 1868: Total solar eclipse leads to discovery of helium",
       "link": "https://www.space.com/astronomy/on-this-day-in-space-aug-18-1868-total-solar-eclipse-leads-to-discovery-of-helium",
       "source": "SPACE",
@@ -480,6 +480,13 @@
     {
       "title": "A beginner’s guide to observing the night sky with a manual telescope",
       "link": "https://www.space.com/stargazing/skywatching-kit/a-beginners-guide-to-observing-the-night-sky-with-a-manual-telescope",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787061600
+    },
+    {
+      "title": "Hubble, James Webb Space Telescope team up to capture the 'Black Eye Galaxy' | Space photo of the day for Aug. 18, 2026",
+      "link": "https://www.space.com/astronomy/galaxies/hubble-james-webb-team-up-to-capture-the-black-eye-galaxy-space-photo-of-the-day-for-aug-18-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787061600
@@ -504,13 +511,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787051269
-    },
-    {
-      "title": "See gorgeous views of the Aug. 12 total solar eclipse captured from space",
-      "link": "https://www.space.com/stargazing/solar-eclipses/see-gorgeous-views-of-the-aug-12-total-solar-eclipse-captured-from-space",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787047200
     },
     {
       "title": "Scientists may have finally proved that “empty” space isn’t really empty",
