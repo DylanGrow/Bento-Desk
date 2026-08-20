@@ -1,8 +1,22 @@
 {
-  "last_updated": 1787264553,
+  "last_updated": 1787268095,
   "items": [
     {
-      "title": "ChatGPT can now send texts for you with new Apple Messages plugin",
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787265397
+    },
+    {
+      "title": "Dave Bautista Officially Cast as Kratos in God of War Show After Ryan Hurst Drops Out Due to Injury",
+      "link": "https://www.ign.com/articles/dave-bautista-officially-cast-as-kratos-in-god-of-war-show-after-ryan-hurst-drops-out-due-to-injury",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787264074
+    },
+    {
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
       "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -247,13 +261,6 @@
       "timestamp": 1787242939
     },
     {
-      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-      "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787242046
-    },
-    {
       "title": "FromSoftware Isn't Done With Single-Player Games, Miyazaki Reassures",
       "link": "https://www.ign.com/articles/fromsoftware-isnt-done-with-single-player-games-miyazaki-reassures",
       "source": "IGN",
@@ -315,13 +322,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787234390
-    },
-    {
-      "title": "Ewan McGregor Has Pitched a Star Wars Return Where Obi-Wan Kenobi Hunts for Yoda",
-      "link": "https://www.ign.com/articles/ewan-mcgregor-has-pitched-a-star-wars-return-where-obi-wan-kenobi-hunts-for-yoda",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787233841
     },
     {
       "title": "Reverse-lookup service exposed millions of photos of people’s faces",
