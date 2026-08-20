@@ -1,6 +1,48 @@
 {
-  "last_updated": 1787243418,
+  "last_updated": 1787246692,
   "items": [
+    {
+      "title": "A third of webpages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787246338
+    },
+    {
+      "title": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
+      "link": "https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787245493
+    },
+    {
+      "title": "Ludicrous, nonsensical, an affront to canon — 'Strange New Worlds'' puppet episode is an instant classic",
+      "link": "https://www.space.com/entertainment/space-movies-shows/ludicrous-nonsensical-an-affront-to-canon-strange-new-worlds-puppet-episode-is-an-instant-classic",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787245200
+    },
+    {
+      "title": "Mars Express orbiter captures detailed new video of the crater where Mark Watney was stranded in 'The Martian'",
+      "link": "https://www.space.com/astronomy/mars/mars-express-orbiter-captures-detailed-new-video-of-the-crater-where-mark-watney-was-stranded-in-the-martian",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787245125
+    },
+    {
+      "title": "Ramp launches its own AI model router, called Router",
+      "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787244360
+    },
+    {
+      "title": "Golden Axe: First Look at the New Animated Series Based on the Classic SEGA Game",
+      "link": "https://www.ign.com/articles/golden-axe-animated-series-first-look-sega-plot-cast-release-date",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787243400
+    },
     {
       "title": "Senators demand answers from TikTok over experiment that disabled safeguards",
       "link": "https://techcrunch.com/2026/08/20/senators-demand-answers-from-tiktok-over-experiment-that-disabled-safeguards/",
@@ -79,6 +121,13 @@
       "timestamp": 1787236558
     },
     {
+      "title": "Postal 2 Redux Funded, Confirmed for Q1 2027 Launch on PC, PS4, PS5, and VR",
+      "link": "https://www.ign.com/articles/postal-2-redux-funded-confirmed-for-q1-2027-launch-on-pc-ps4-ps5-and-vr",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787234400
+    },
+    {
       "title": "Try not to be hypnotized by the 'Eye of Africa' | Space photo of the day for Aug. 20, 2026",
       "link": "https://www.space.com/astronomy/earth/try-not-to-be-hypnotized-by-the-eye-of-africa-space-photo-of-the-day-for-aug-20-2026",
       "source": "SPACE",
@@ -90,13 +139,6 @@
       "link": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-20-1977-voyager-2-launches-to-the-outer-planets",
       "source": "SPACE",
       "category": "space",
-      "timestamp": 1787234400
-    },
-    {
-      "title": "Postal 2 Redux Funded, Confirmed for Q1 2027 Launch on PC, PS4, PS5, and VR",
-      "link": "https://www.ign.com/articles/postal-2-redux-funded-confirmed-for-q1-2027-launch-on-pc-ps4-ps5-and-vr",
-      "source": "IGN",
-      "category": "gaming",
       "timestamp": 1787234400
     },
     {
@@ -345,27 +387,6 @@
       "timestamp": 1787180735
     },
     {
-      "title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
-      "link": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787178301
-    },
-    {
-      "title": "Steam Frame Seems to Be On the Horizon as Unboxing and Setup Videos Leak Online",
-      "link": "https://www.ign.com/articles/steam-frame-seems-to-be-on-the-horizon-as-unboxing-and-setup-videos-leak-online",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787177891
-    },
-    {
-      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787177446
-    },
-    {
       "title": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
       "link": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
       "source": "ARSTECHNICA",
@@ -378,13 +399,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787176734
-    },
-    {
-      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-      "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787176283
     },
     {
       "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
@@ -497,20 +511,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787151600
-    },
-    {
-      "title": "On this day in space! Aug. 19, 1997: 1st Filipino satellite launches into orbit",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-aug-19-1997-1st-filipino-satellite-launches-into-orbit",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787148000
-    },
-    {
-      "title": "My 5 favorite sights to see in the night sky with binoculars",
-      "link": "https://www.space.com/stargazing/skywatching-kit/the-best-things-to-see-in-the-night-sky-with-binoculars",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787148000
     },
     {
       "title": "Trump expected to pick conservative policy wonk Heidi Overton to lead FDA",
