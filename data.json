@@ -1,12 +1,68 @@
 {
-  "last_updated": 1787246692,
+  "last_updated": 1787250829,
   "items": [
     {
-      "title": "A third of webpages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787250035
+    },
+    {
+      "title": "A weather satellite 22,000 miles above Earth saved my 2026 total solar eclipse cruise on the Mediterranean Sea",
+      "link": "https://www.space.com/stargazing/solar-eclipses/a-weather-satellite-22-000-miles-above-earth-saved-my-2026-total-solar-eclipse-cruise-on-the-mediterranean-sea",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787248800
+    },
+    {
+      "title": "James Harden returning to Cavaliers on three-year, $97 million deal after team's acquisition of Peyton Watson",
+      "link": "https://www.cbssports.com/nba/news/james-harden-contract-details-cavaliers/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1787248146
+    },
+    {
+      "title": "Grok keeps sending gibberish responses to users",
+      "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787247136
+    },
+    {
+      "title": "'I Bet Many of You Would Not Like It'  — Halo Co-Creator Says He Would Make Series 'Darker' if He Made a New Game",
+      "link": "https://www.ign.com/articles/i-bet-many-of-you-would-not-like-it-halo-co-creator-says-he-would-make-series-darker-if-he-made-a-new-game",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787247112
+    },
+    {
+      "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "link": "https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787246867
+    },
+    {
+      "title": "Pokémon x Crocs Collection Gets 3 More Clog Designs",
+      "link": "https://www.ign.com/articles/gengar-jigglypuff-pikachu-clog-reveal-crocs-x-pokemon-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787246477
+    },
+    {
+      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
       "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1787246338
+    },
+    {
+      "title": "Wonder Man Star Was Told the Show's Cancellation Was Due to Viewership Numbers",
+      "link": "https://www.ign.com/articles/wonder-man-star-was-told-the-shows-cancellation-was-due-to-viewership-numbers",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787245901
     },
     {
       "title": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
@@ -14,6 +70,20 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1787245493
+    },
+    {
+      "title": "Modern Warfare 4 Developers Address Need for Balance in Call of Duty",
+      "link": "https://www.ign.com/articles/modern-warfare-4-developers-address-need-for-balance-in-call-of-duty",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787245264
+    },
+    {
+      "title": "The Big Call of Duty: Modern Warfare 4 Interview — Infinity Ward on the Beta, Matchmaking, and Much More",
+      "link": "https://www.ign.com/articles/the-big-call-of-duty-modern-warfare-4-interview-infinity-ward-on-the-beta-matchmaking-and-much-more",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787245233
     },
     {
       "title": "Ludicrous, nonsensical, an affront to canon — 'Strange New Worlds'' puppet episode is an instant classic",
@@ -128,15 +198,15 @@
       "timestamp": 1787234400
     },
     {
-      "title": "Try not to be hypnotized by the 'Eye of Africa' | Space photo of the day for Aug. 20, 2026",
-      "link": "https://www.space.com/astronomy/earth/try-not-to-be-hypnotized-by-the-eye-of-africa-space-photo-of-the-day-for-aug-20-2026",
+      "title": "On this day in space! Aug. 20, 1977: Voyager 2 launches to the outer planets",
+      "link": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-20-1977-voyager-2-launches-to-the-outer-planets",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787234400
     },
     {
-      "title": "On this day in space! Aug. 20, 1977: Voyager 2 launches to the outer planets",
-      "link": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-20-1977-voyager-2-launches-to-the-outer-planets",
+      "title": "Try not to be hypnotized by the 'Eye of Africa' | Space photo of the day for Aug. 20, 2026",
+      "link": "https://www.space.com/astronomy/earth/try-not-to-be-hypnotized-by-the-eye-of-africa-space-photo-of-the-day-for-aug-20-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787234400
@@ -226,13 +296,6 @@
       "timestamp": 1787229799
     },
     {
-      "title": "Meta AI’s new Mac app wants you to talk to your apps",
-      "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787227917
-    },
-    {
       "title": "James Webb Space Telescope finds 'hidden stars' making the universe's 1st galaxies much bigger than we knew",
       "link": "https://www.space.com/astronomy/galaxies/james-webb-space-telescope-finds-hidden-stars-among-the-universes-most-ancient-galaxies",
       "source": "SPACE",
@@ -282,32 +345,11 @@
       "timestamp": 1787219215
     },
     {
-      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787218200
-    },
-    {
-      "title": "Yujiro Hanma in Tekken 8: How Do You Balance a Character Famous for Never Losing a Fight?",
-      "link": "https://www.ign.com/articles/yujiro-hanma-in-tekken-8-how-do-you-balance-a-character-famous-for-never-losing-a-fight",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787217583
-    },
-    {
       "title": "Scientists crushed diamond beyond Neptune-like pressures—and solved a 20-year mystery",
       "link": "https://www.sciencedaily.com/releases/2026/08/260820002424.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1787216115
-    },
-    {
-      "title": "Former Tekken 8 Director Kohei Ikeda Joins VS Studio, Re-Teams With Tekken Veteran Katsuhiro Harada",
-      "link": "https://www.ign.com/articles/former-tekken-8-director-kohei-ikeda-joins-vs-studio-re-teams-with-tekken-veteran-katsuhiro-harada",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787213296
     },
     {
       "title": "A SpaceX rocket smashed into the Moon — NASA just revealed the crater",
@@ -322,13 +364,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1787209140
-    },
-    {
-      "title": "Stunning Black Myth: Zhong Kui Gameplay Trailer Gives Us a Closer Look at the New Protagonist, Combat, and a Truly Impressive Parry",
-      "link": "https://www.ign.com/articles/stunning-black-myth-zhong-kui-gameplay-trailer-gives-us-a-closer-look-at-the-new-protagonist-combat-and-a-truly-impressive-parry",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787208266
     },
     {
       "title": "Rocket Lab launches private Japanese Earth-observing satellite to orbit (video)",
@@ -359,32 +394,11 @@
       "timestamp": 1787186314
     },
     {
-      "title": "Ryan Reynolds Congratulates Christopher Nolan's the Odyssey for Surpassing Deadpool & Wolverine to Become Highest Grossing R-Rated Movie of All Time",
-      "link": "https://www.ign.com/articles/ryan-reynolds-congratulates-christopher-nolans-the-odyssey-for-surpassing-deadpool-wolverine-to-become-highest-grossing-r-rated-movie-of-all-time",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787185587
-    },
-    {
       "title": "NASA calls off mission to rescue Swift gamma-ray observatory",
       "link": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787185128
-    },
-    {
-      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-      "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787182320
-    },
-    {
-      "title": "Mail-Order Media Giant Columbia House Shutting Down After 71 Years",
-      "link": "https://www.ign.com/articles/mail-order-media-giant-columbia-house-shutting-down-after-71-years",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787180735
     },
     {
       "title": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
@@ -504,13 +518,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787154329
-    },
-    {
-      "title": "13 sci-fi books that inspired our favorite shows and movies",
-      "link": "https://www.space.com/entertainment/read-13-books-that-inspired-our-favorite-sci-fi-shows-and-movies",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787151600
     },
     {
       "title": "Trump expected to pick conservative policy wonk Heidi Overton to lead FDA",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786712253
-    },
-    {
-      "title": "Winners and losers of the 2026-27 NBA schedule: A weird Opening Day, a James family reunion and more",
-      "link": "https://www.cbssports.com/nba/news/nba-schedule-2026-27-winners-losers/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1786651759
     }
   ]
 }
