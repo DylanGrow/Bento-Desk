@@ -1,6 +1,48 @@
 {
-  "last_updated": 1787229633,
+  "last_updated": 1787233352,
   "items": [
+    {
+      "title": "AI data giant Alation confirms cyberattack",
+      "link": "https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787230884
+    },
+    {
+      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787230835
+    },
+    {
+      "title": "Buccaneers' Vita Vea agrees to $30M extension; top 30 NFL players age 30 and over; best NBA front offices",
+      "link": "https://www.cbssports.com/nfl/news/buccaneers-vita-vea-agrees-to-30m-extension-top-30-nfl-players-age-30-and-over-best-nba-front-offices/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1787230804
+    },
+    {
+      "title": "For a16z, AI gives foreign founders an advantage",
+      "link": "https://techcrunch.com/2026/08/20/for-a16z-ai-gives-foreign-founders-an-advantage/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787230800
+    },
+    {
+      "title": "Nintendo Confirms Exactly How Much More Switch 2 Will Soon Cost in The UK",
+      "link": "https://www.ign.com/articles/nintendo-confirms-exactly-how-much-more-switch-2-will-soon-cost-in-the-uk",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787229875
+    },
+    {
+      "title": "US says hackers are targeting vulnerable water systems with the help of AI",
+      "link": "https://techcrunch.com/2026/08/20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-of-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787229799
+    },
     {
       "title": "Meta AI’s new Mac app wants you to talk to your apps",
       "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
@@ -317,13 +359,6 @@
       "timestamp": 1787166985
     },
     {
-      "title": "The Pokémon Center Just Dropped Its 2026 Halloween Collection",
-      "link": "https://www.ign.com/articles/pokemon-center-halloween-collection-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787166786
-    },
-    {
       "title": "AI was supposed to win people over by now — it hasn’t",
       "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
       "source": "TECHCRUNCH",
@@ -366,20 +401,6 @@
       "timestamp": 1787162400
     },
     {
-      "title": "Meet the startup helping Wall Street put a price on AI compute",
-      "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787160408
-    },
-    {
-      "title": "T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network",
-      "link": "https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787160392
-    },
-    {
       "title": "A fantastical journey unfolds in gorgeous Wildwood trailer",
       "link": "https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/",
       "source": "ARSTECHNICA",
@@ -399,13 +420,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787158436
-    },
-    {
-      "title": "Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21",
-      "link": "https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787156178
     },
     {
       "title": "Google Pixel 11 series review: Is the magic fading?",
@@ -443,13 +457,6 @@
       "timestamp": 1787151600
     },
     {
-      "title": "On this day in space! Aug. 19, 1997: 1st Filipino satellite launches into orbit",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-aug-19-1997-1st-filipino-satellite-launches-into-orbit",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787148000
-    },
-    {
       "title": "My 5 favorite sights to see in the night sky with binoculars",
       "link": "https://www.space.com/stargazing/skywatching-kit/the-best-things-to-see-in-the-night-sky-with-binoculars",
       "source": "SPACE",
@@ -459,6 +466,13 @@
     {
       "title": "Perseverance rover watches alien solar eclipse on Mars | Space photo of the day for Aug. 19, 2026",
       "link": "https://www.space.com/astronomy/mars/perseverance-rover-watchs-alien-solar-eclipse-on-mars-space-photo-of-the-day-for-aug-19-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787148000
+    },
+    {
+      "title": "On this day in space! Aug. 19, 1997: 1st Filipino satellite launches into orbit",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-aug-19-1997-1st-filipino-satellite-launches-into-orbit",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787148000
@@ -562,13 +576,6 @@
       "timestamp": 1787079669
     },
     {
-      "title": "Disney sues FCC and its chair, escalating fight against Trump's chief censor",
-      "link": "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787076686
-    },
-    {
       "title": "Basketball Hall of Fame predictions: Projecting HOF fates for six NBA veterans on the bubble",
       "link": "https://www.cbssports.com/nba/news/basketball-hall-of-fame-predictions-projecting-hof-fates-six-veterans/",
       "source": "CBSSPORTS",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786650578
-    },
-    {
-      "title": "Russell Westbrook retires after 18 NBA seasons; Ohio State, Oregon 1-2 in CBS Sports 138",
-      "link": "https://www.cbssports.com/nba/news/russell-westbrook-retires-after-18-nba-seasons-ohio-state-oregon-1-2-in-cbs-sports-138/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1786625586
     }
   ]
 }
