@@ -1,12 +1,40 @@
 {
-  "last_updated": 1787224958,
+  "last_updated": 1787229633,
   "items": [
+    {
+      "title": "Meta AI’s new Mac app wants you to talk to your apps",
+      "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787227917
+    },
+    {
+      "title": "James Webb Space Telescope finds 'hidden stars' making the universe's 1st galaxies much bigger than we knew",
+      "link": "https://www.space.com/astronomy/galaxies/james-webb-space-telescope-finds-hidden-stars-among-the-universes-most-ancient-galaxies",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787227200
+    },
+    {
+      "title": "Schizophrenia’s lost brain connections follow a surprising pattern",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260820002443.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787225254
+    },
     {
       "title": "Did David Harbour Just Drop a Massive Avengers: Doomsday Spoiler?",
       "link": "https://www.ign.com/articles/did-david-harbour-just-drop-a-massive-avengers-doomsday-spoiler",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1787223197
+    },
+    {
+      "title": "Scientists say the human family tree may need a major rewrite",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260820002413.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787222579
     },
     {
       "title": "Partial lunar eclipse live: Latest news, viewing tips and live updates from Aug. 27-28 eclipse",
@@ -44,11 +72,32 @@
       "timestamp": 1787217583
     },
     {
+      "title": "Scientists crushed diamond beyond Neptune-like pressures—and solved a 20-year mystery",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260820002424.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787216115
+    },
+    {
       "title": "Former Tekken 8 Director Kohei Ikeda Joins VS Studio, Re-Teams With Tekken Veteran Katsuhiro Harada",
       "link": "https://www.ign.com/articles/former-tekken-8-director-kohei-ikeda-joins-vs-studio-re-teams-with-tekken-veteran-katsuhiro-harada",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1787213296
+    },
+    {
+      "title": "A SpaceX rocket smashed into the Moon — NASA just revealed the crater",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260820002429.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787209838
+    },
+    {
+      "title": "This total solar eclipse looked strangely golden — here’s why",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260820002432.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787209140
     },
     {
       "title": "Stunning Black Myth: Zhong Kui Gameplay Trailer Gives Us a Closer Look at the New Protagonist, Combat, and a Truly Impressive Parry",
@@ -387,13 +436,6 @@
       "timestamp": 1787154329
     },
     {
-      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-      "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787154293
-    },
-    {
       "title": "13 sci-fi books that inspired our favorite shows and movies",
       "link": "https://www.space.com/entertainment/read-13-books-that-inspired-our-favorite-sci-fi-shows-and-movies",
       "source": "SPACE",
@@ -408,15 +450,15 @@
       "timestamp": 1787148000
     },
     {
-      "title": "Perseverance rover watches alien solar eclipse on Mars | Space photo of the day for Aug. 19, 2026",
-      "link": "https://www.space.com/astronomy/mars/perseverance-rover-watchs-alien-solar-eclipse-on-mars-space-photo-of-the-day-for-aug-19-2026",
+      "title": "My 5 favorite sights to see in the night sky with binoculars",
+      "link": "https://www.space.com/stargazing/skywatching-kit/the-best-things-to-see-in-the-night-sky-with-binoculars",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787148000
     },
     {
-      "title": "My 5 favorite sights to see in the night sky with binoculars",
-      "link": "https://www.space.com/stargazing/skywatching-kit/the-best-things-to-see-in-the-night-sky-with-binoculars",
+      "title": "Perseverance rover watches alien solar eclipse on Mars | Space photo of the day for Aug. 19, 2026",
+      "link": "https://www.space.com/astronomy/mars/perseverance-rover-watchs-alien-solar-eclipse-on-mars-space-photo-of-the-day-for-aug-19-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787148000
@@ -462,13 +504,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1787138745
-    },
-    {
-      "title": "Astronomers discover a giant, rocky 'mega-Earth' 23 times more massive than our planet",
-      "link": "https://www.space.com/astronomy/exoplanets/astronomers-discover-a-giant-rocky-mega-earth-23-times-more-massive-than-our-planet",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787133600
     },
     {
       "title": "This 23-foot crocodylian may have ruled South America’s food chain",
@@ -569,46 +604,11 @@
       "timestamp": 1787033284
     },
     {
-      "title": "Einstein’s biggest “mistake” came back — and changed cosmology forever",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260816044835.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787032687
-    },
-    {
-      "title": "A therapy that “rewrites” childhood memories can ease fear of failure",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260815064833.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787029595
-    },
-    {
-      "title": "The bacteria that make cheese taste so good may also benefit your gut",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260816044847.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787005083
-    },
-    {
       "title": "Kawhi Leonard investigation: NBA lacks evidence Steve Ballmer funneled money for cap circumvention, per report",
       "link": "https://www.cbssports.com/nba/news/kawhi-leonard-investigation-nba-lacks-evidence-clippers-steve-ballmer/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786992877
-    },
-    {
-      "title": "Webb’s mysterious little red dots may be hiding entire galaxies",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260815064808.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786971403
-    },
-    {
-      "title": "Tiny 1.7-billion-year-old fossils could reveal how complex life began",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260815064811.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1786970417
     },
     {
       "title": "LeBron James launches YouTube golf channel with video from Cavaliers title team reunion trip to Scotland",
