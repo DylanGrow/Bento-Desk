@@ -1,8 +1,36 @@
 {
-  "last_updated": 1787337092,
+  "last_updated": 1787340178,
   "items": [
     {
-      "title": "Tesla’s solar roof is dead. Here’s what went wrong",
+      "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
+      "link": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787339775
+    },
+    {
+      "title": "A $200 Movie Made By a Chinese Mother and Her Son Just Beat Obsession to Become the World's Most Profitable Film  After Making 20,000 Times Its Budget",
+      "link": "https://www.ign.com/articles/a-200-movie-made-by-a-chinese-mother-and-her-son-just-beat-obsession-to-become-the-worlds-most-profitable-film-after-making-20000-times-its-budget",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787337988
+    },
+    {
+      "title": "Gorilla Grodd and Jimmy Olsen Show Gets Official Title and Cast List as DC Promises True Crime Documentary With a Comedic Spin",
+      "link": "https://www.ign.com/articles/gorilla-grodd-and-jimmy-olsen-show-gets-official-title-and-cast-list-as-dc-promises-true-crime-documentary-with-a-comedic-spin",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787337509
+    },
+    {
+      "title": "The Nuggets are daring Nikola Jokić to leave after a listless summer",
+      "link": "https://www.cbssports.com/nba/news/nuggets-daring-nikola-jokic-to-leave-listless-summer/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1787336310
+    },
+    {
+      "title": "Tesla’s solar roof is dead — here’s what went wrong",
       "link": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -177,15 +205,15 @@
       "timestamp": 1787320800
     },
     {
-      "title": "Ancient stars dazzle in a celestial chandelier | Space photo of the day for Aug. 21, 2026",
-      "link": "https://www.space.com/astronomy/ancient-stars-dazzle-in-a-celestial-chandelier-space-photo-of-the-day-for-aug-21-2026",
+      "title": "On this day in space! Aug. 21, 1914: Total solar eclipse expedition crashed by WWI",
+      "link": "https://www.space.com/stargazing/solar-eclipses/on-this-day-in-space-aug-21-1914-total-solar-eclipse-expedition-crashed-by-wwi",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787320800
     },
     {
-      "title": "On this day in space! Aug. 21, 1914: Total solar eclipse expedition crashed by WWI",
-      "link": "https://www.space.com/stargazing/solar-eclipses/on-this-day-in-space-aug-21-1914-total-solar-eclipse-expedition-crashed-by-wwi",
+      "title": "Ancient stars dazzle in a celestial chandelier | Space photo of the day for Aug. 21, 2026",
+      "link": "https://www.space.com/astronomy/ancient-stars-dazzle-in-a-celestial-chandelier-space-photo-of-the-day-for-aug-21-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787320800
@@ -289,25 +317,11 @@
       "timestamp": 1787308785
     },
     {
-      "title": "Microsoft's Special Edition Translucent Green Xbox Series X Pricing Details Have Leaked, and It's Just as Costly as We'd Feared",
-      "link": "https://www.ign.com/articles/microsofts-special-edition-translucent-green-xbox-series-x-pricing-details-have-leaked-and-its-just-as-costly-as-wed-feared",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787307991
-    },
-    {
       "title": "Could 'dark photons' explain dark matter?",
       "link": "https://www.space.com/astronomy/dark-universe/could-dark-photons-explain-dark-matter",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787306400
-    },
-    {
-      "title": "Ms Marvel Star Returns to MCU With Countdown to Avengers: Doomsday Official Podcast",
-      "link": "https://www.ign.com/articles/ms-marvel-star-returns-to-mcu-with-countdown-to-avengers-doomsday-official-podcast",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787305641
     },
     {
       "title": "2,200-year-old Roman shipwreck reveals ancient waterproofing secrets",
@@ -406,13 +420,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787261125
-    },
-    {
-      "title": "The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss",
-      "link": "https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787260114
     },
     {
       "title": "China's Chang'e 7 moon probe will launch this weekend on the most ambitious lunar mission in history",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786743319
-    },
-    {
-      "title": "Dennis Schröder trade grades: Cavaliers setting themselves up for bigger move by sending guard to Hornets?",
-      "link": "https://www.cbssports.com/nba/news/dennis-schroder-trade-grades-cavaliers-hornets-tre-mann/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1786738632
     }
   ]
 }
