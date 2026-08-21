@@ -1,6 +1,55 @@
 {
-  "last_updated": 1787333076,
+  "last_updated": 1787337092,
   "items": [
+    {
+      "title": "Tesla’s solar roof is dead. Here’s what went wrong",
+      "link": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787335793
+    },
+    {
+      "title": "Chinese regulators tell Tesla to fix nearly 3 million cars",
+      "link": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787335635
+    },
+    {
+      "title": "Japan unveils Mars moon sample-return spacecraft ahead of Oct. 19 launch (photos)",
+      "link": "https://www.space.com/astronomy/mars/japan-unveils-mars-moon-sample-return-spacecraft-ahead-of-oct-19-launch-photos",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787335200
+    },
+    {
+      "title": "A Classic Scene From the I Spy Books Has Been Recreated in LEGO",
+      "link": "https://www.ign.com/articles/a-classic-scene-from-the-i-spy-books-has-been-recreated-in-lego",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787335153
+    },
+    {
+      "title": "Waymo hands over documents in NHTSA’s child collision probe",
+      "link": "https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787334598
+    },
+    {
+      "title": "Soulslike Game Where You Play as a Sword-Wielding Dog Goes Viral Because, Well, You're a Sword-Wielding Dog",
+      "link": "https://www.ign.com/articles/soulslike-game-where-you-play-as-a-sword-wielding-dog-goes-viral-because-well-youre-a-sword-wielding-dog",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787334386
+    },
+    {
+      "title": "Chris Hansen Reveals Why He Didn't See Robert Pattinson's Primetime",
+      "link": "https://www.ign.com/articles/chris-hansen-refuses-a24-primetime-screening-nda",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787333259
+    },
     {
       "title": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
       "link": "https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/",
@@ -9,11 +58,32 @@
       "timestamp": 1787331219
     },
     {
+      "title": "Fighter jets help destroy Russian drone boat near European offshore gas platform",
+      "link": "https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787330939
+    },
+    {
       "title": "Intergalactic: The Heretic Prophet Cast Expands With Uncharted, The Last of Us Veteran",
       "link": "https://www.ign.com/articles/intergalactic-the-heretic-prophet-cast-expands-with-uncharted-the-last-of-us-veteran",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1787330355
+    },
+    {
+      "title": "Personalized pricing is “abhorrent,” but FTC limits may increase costs, critics say",
+      "link": "https://arstechnica.com/tech-policy/2026/08/critics-ftc-limits-on-personalized-pricing-may-increase-costs-kill-discounts/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787330305
+    },
+    {
+      "title": "Another NBA ownership shakeup: Marc Stad purchases majority stake in Timberwolves, Lynx for $4.5 billion",
+      "link": "https://www.cbssports.com/nba/news/timberwolves-lynx-ownership-shakeup-nba-wnba-marc-stad/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1787329888
     },
     {
       "title": "YouTuber Named in Take-Two GTA 6 Leaker Subpoena Insists He Did Nothing Wrong",
@@ -107,15 +177,15 @@
       "timestamp": 1787320800
     },
     {
-      "title": "On this day in space! Aug. 21, 1914: Total solar eclipse expedition crashed by WWI",
-      "link": "https://www.space.com/stargazing/solar-eclipses/on-this-day-in-space-aug-21-1914-total-solar-eclipse-expedition-crashed-by-wwi",
+      "title": "Ancient stars dazzle in a celestial chandelier | Space photo of the day for Aug. 21, 2026",
+      "link": "https://www.space.com/astronomy/ancient-stars-dazzle-in-a-celestial-chandelier-space-photo-of-the-day-for-aug-21-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787320800
     },
     {
-      "title": "Ancient stars dazzle in a celestial chandelier | Space photo of the day for Aug. 21, 2026",
-      "link": "https://www.space.com/astronomy/ancient-stars-dazzle-in-a-celestial-chandelier-space-photo-of-the-day-for-aug-21-2026",
+      "title": "On this day in space! Aug. 21, 1914: Total solar eclipse expedition crashed by WWI",
+      "link": "https://www.space.com/stargazing/solar-eclipses/on-this-day-in-space-aug-21-1914-total-solar-eclipse-expedition-crashed-by-wwi",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787320800
@@ -240,13 +310,6 @@
       "timestamp": 1787305641
     },
     {
-      "title": "Lanterns Saw the Biggest Premiere for a DC Studios Show on HBO Max, Ahead of The Penguin and Peacemaker",
-      "link": "https://www.ign.com/articles/lanterns-saw-the-biggest-premiere-for-a-dc-studios-show-on-hbo-max-ahead-of-the-penguin-and-peacemaker",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787305639
-    },
-    {
       "title": "2,200-year-old Roman shipwreck reveals ancient waterproofing secrets",
       "link": "https://www.sciencedaily.com/releases/2026/08/260820202907.htm",
       "source": "SCIENCEDAILY",
@@ -294,20 +357,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1787271224
-    },
-    {
-      "title": "Netflix Reveals New Cyberpunk: Edgerunners 2 Trailer and Images at Anime NYC",
-      "link": "https://www.ign.com/articles/netflix-reveals-new-cyberpunk-edgerunners-2-trailer-and-images-at-anime-nyc",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787270424
-    },
-    {
-      "title": "Netflix Confirms Blue Eye Samurai Will End With Third and Final Season",
-      "link": "https://www.ign.com/articles/netflix-confirms-blue-eye-samurai-will-end-with-third-and-final-season",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787270417
     },
     {
       "title": "Learn what VCs actually want, from a founder who’s raised $1B",
@@ -373,25 +422,11 @@
       "timestamp": 1787259600
     },
     {
-      "title": "OK, can we actually cool data centers with our pee?",
-      "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787259193
-    },
-    {
       "title": "SpaceX will try for 1st Starship tower catch 'in a few months,' Elon Musk says",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-try-for-1st-starship-tower-catch-in-a-few-months-elon-musk-says",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787257800
-    },
-    {
-      "title": "Someone targeted security researchers using a fake crypto conference as a lure",
-      "link": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787256000
     },
     {
       "title": "Microbes from Earth may survive on the moon, scientists find",
@@ -459,13 +494,6 @@
     {
       "title": "Try not to be hypnotized by the 'Eye of Africa' | Space photo of the day for Aug. 20, 2026",
       "link": "https://www.space.com/astronomy/earth/try-not-to-be-hypnotized-by-the-eye-of-africa-space-photo-of-the-day-for-aug-20-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787234400
-    },
-    {
-      "title": "On this day in space! Aug. 20, 1977: Voyager 2 launches to the outer planets",
-      "link": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-20-1977-voyager-2-launches-to-the-outer-planets",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787234400
@@ -569,27 +597,6 @@
       "timestamp": 1787176958
     },
     {
-      "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
-      "link": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787170919
-    },
-    {
-      "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
-      "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787169881
-    },
-    {
-      "title": "FCC abolishes gigabit speed goal, suggesting it is unfair to slower technologies",
-      "link": "https://arstechnica.com/tech-policy/2026/08/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787168719
-    },
-    {
       "title": "NBA Front Office Rankings (Part 1): Knicks soar over Celtics after winning title",
       "link": "https://www.cbssports.com/nba/news/nba-front-office-rankings-top-15-knicks-celtics-2026/",
       "source": "CBSSPORTS",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1786738632
-    },
-    {
-      "title": "Timberwolves will finally retire Kevin Garnett's No. 21 in February with new ownership in place",
-      "link": "https://www.cbssports.com/nba/news/kevin-garnett-timberwolves-jersey-retirement-celtics/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1786729916
     }
   ]
 }
