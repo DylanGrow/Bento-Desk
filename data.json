@@ -1,6 +1,41 @@
 {
-  "last_updated": 1787326119,
+  "last_updated": 1787329717,
   "items": [
+    {
+      "title": "US government lab is probing Chinese lidar for security vulnerabilities",
+      "link": "https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787328114
+    },
+    {
+      "title": "SpaceX fires up Starship ahead of megarocket’s 1st orbital flight (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-ahead-of-megarockets-1st-orbital-flight-video",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787328000
+    },
+    {
+      "title": "'Dark stars' could be the seeds of supermassive black holes, scientists say",
+      "link": "https://www.space.com/astronomy/black-holes/dark-stars-could-be-the-seeds-of-supermassive-black-holes-scientists-say",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787326653
+    },
+    {
+      "title": "SpaceX launches 29 Starlink satellites, lands rocket on ship at sea (video, photos)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-10-39-falcon-9-asog",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787326104
+    },
+    {
+      "title": "The Blood of Dawnwalker Won’t Run at 60fps on Console, and Fans Aren’t Happy",
+      "link": "https://www.ign.com/articles/the-blood-of-dawnwalker-wont-run-at-60fps-on-console-and-fans-arent-happy",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787324579
+    },
     {
       "title": "Duchess of Sussex Meghan Markle is Reportedly Getting Back Into Acting",
       "link": "https://www.ign.com/articles/duchess-of-sussex-meghan-markle-is-reportedly-getting-back-into-acting",
@@ -37,13 +72,6 @@
       "timestamp": 1787322445
     },
     {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787320800
-    },
-    {
       "title": "On this day in space! Aug. 21, 1914: Total solar eclipse expedition crashed by WWI",
       "link": "https://www.space.com/stargazing/solar-eclipses/on-this-day-in-space-aug-21-1914-total-solar-eclipse-expedition-crashed-by-wwi",
       "source": "SPACE",
@@ -55,6 +83,13 @@
       "link": "https://www.space.com/astronomy/ancient-stars-dazzle-in-a-celestial-chandelier-space-photo-of-the-day-for-aug-21-2026",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1787320800
+    },
+    {
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
       "timestamp": 1787320800
     },
     {
@@ -77,6 +112,13 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1787319323
+    },
+    {
+      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+      "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787317895
     },
     {
       "title": "Senator asks US government watchdog to review how feds use hacking tools",
@@ -296,13 +338,6 @@
       "timestamp": 1787263211
     },
     {
-      "title": "Halo: Reach Designer Reveals that Modern Warfare Series Were a 'Huge' Inspiration for Bungie",
-      "link": "https://www.ign.com/articles/halo-reach-designer-reveals-that-modern-warfare-series-were-a-huge-inspiration-for-bungie",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787262191
-    },
-    {
       "title": "Europe cancels planned upgrades for Ariane 6 rocket",
       "link": "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/",
       "source": "ARSTECHNICA",
@@ -345,17 +380,17 @@
       "timestamp": 1787257800
     },
     {
-      "title": "Someone targeted security researchers using a fake crypto conference as a lure",
-      "link": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787256000
-    },
-    {
       "title": "Microbes from Earth may survive on the moon, scientists find",
       "link": "https://www.space.com/astronomy/moon/microbes-from-earth-may-survive-on-the-moon-scientists-find",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1787256000
+    },
+    {
+      "title": "Someone targeted security researchers using a fake crypto conference as a lure",
+      "link": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
       "timestamp": 1787256000
     },
     {
@@ -364,13 +399,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1787255740
-    },
-    {
-      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787253501
     },
     {
       "title": "'Wet Hot American Summer': The raunchy 2000s comedy that was actually about a space station falling to Earth",
@@ -429,15 +457,15 @@
       "timestamp": 1787236558
     },
     {
-      "title": "On this day in space! Aug. 20, 1977: Voyager 2 launches to the outer planets",
-      "link": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-20-1977-voyager-2-launches-to-the-outer-planets",
+      "title": "Try not to be hypnotized by the 'Eye of Africa' | Space photo of the day for Aug. 20, 2026",
+      "link": "https://www.space.com/astronomy/earth/try-not-to-be-hypnotized-by-the-eye-of-africa-space-photo-of-the-day-for-aug-20-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787234400
     },
     {
-      "title": "Try not to be hypnotized by the 'Eye of Africa' | Space photo of the day for Aug. 20, 2026",
-      "link": "https://www.space.com/astronomy/earth/try-not-to-be-hypnotized-by-the-eye-of-africa-space-photo-of-the-day-for-aug-20-2026",
+      "title": "On this day in space! Aug. 20, 1977: Voyager 2 launches to the outer planets",
+      "link": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-20-1977-voyager-2-launches-to-the-outer-planets",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787234400
@@ -471,13 +499,6 @@
       "timestamp": 1787230804
     },
     {
-      "title": "James Webb Space Telescope finds 'hidden stars' making the universe's 1st galaxies much bigger than we knew",
-      "link": "https://www.space.com/astronomy/galaxies/james-webb-space-telescope-finds-hidden-stars-among-the-universes-most-ancient-galaxies",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787227200
-    },
-    {
       "title": "Schizophrenia’s lost brain connections follow a surprising pattern",
       "link": "https://www.sciencedaily.com/releases/2026/08/260820002443.htm",
       "source": "SCIENCEDAILY",
@@ -490,20 +511,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1787222579
-    },
-    {
-      "title": "Partial lunar eclipse live: Latest news, viewing tips and live updates from Aug. 27-28 eclipse",
-      "link": "https://www.space.com/news/live/partial-lunar-eclipse-2026-live-updates-6-days-to-go",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787220259
-    },
-    {
-      "title": "A 96% partial lunar eclipse is just 1 week away: Here's what you need to know",
-      "link": "https://www.space.com/stargazing/lunar-eclipses/a-96-percent-partial-lunar-eclipse-is-just-1-week-away-heres-what-you-need-to-know-aug-27-28",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787220000
     },
     {
       "title": "Scientists crushed diamond beyond Neptune-like pressures—and solved a 20-year mystery",
@@ -581,13 +588,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787168719
-    },
-    {
-      "title": "The floodgates are open after another Chinese company lands a reusable rocket",
-      "link": "https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787164862
     },
     {
       "title": "NBA Front Office Rankings (Part 1): Knicks soar over Celtics after winning title",
