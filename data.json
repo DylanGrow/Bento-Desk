@@ -1,6 +1,13 @@
 {
-  "last_updated": 1787433475,
+  "last_updated": 1787437076,
   "items": [
+    {
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787435216
+    },
     {
       "title": "Will the DOJ’s investigation into a16z spook other VCs?",
       "link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
@@ -23,17 +30,17 @@
       "timestamp": 1787416234
     },
     {
-      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787414400
-    },
-    {
       "title": "How will NASA's astronaut training hub change with commercial space stations?",
       "link": "https://www.space.com/space-exploration/international-space-station/how-will-nasas-astronaut-training-hub-change-with-commercial-space-stations",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1787414400
+    },
+    {
+      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
       "timestamp": 1787414400
     },
     {
@@ -44,17 +51,17 @@
       "timestamp": 1787412000
     },
     {
-      "title": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
-      "link": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787407200
-    },
-    {
       "title": "'We Want to Believe' book explores the reality of UFOs: 'It's always going to be more likely that someone is wrong about what they saw' (interview)",
       "link": "https://www.space.com/entertainment/we-want-to-believe-book-explores-the-reality-of-ufos-its-always-going-to-be-more-likely-that-someone-is-wrong-about-what-they-saw-interview",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1787407200
+    },
+    {
+      "title": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
+      "link": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
       "timestamp": 1787407200
     },
     {
@@ -282,13 +289,6 @@
       "timestamp": 1787340651
     },
     {
-      "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
-      "link": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787339775
-    },
-    {
       "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
       "link": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
       "source": "ARSTECHNICA",
@@ -429,15 +429,15 @@
       "timestamp": 1787322445
     },
     {
-      "title": "Ancient stars dazzle in a celestial chandelier | Space photo of the day for Aug. 21, 2026",
-      "link": "https://www.space.com/astronomy/ancient-stars-dazzle-in-a-celestial-chandelier-space-photo-of-the-day-for-aug-21-2026",
+      "title": "On this day in space! Aug. 21, 1914: Total solar eclipse expedition crashed by WWI",
+      "link": "https://www.space.com/stargazing/solar-eclipses/on-this-day-in-space-aug-21-1914-total-solar-eclipse-expedition-crashed-by-wwi",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787320800
     },
     {
-      "title": "On this day in space! Aug. 21, 1914: Total solar eclipse expedition crashed by WWI",
-      "link": "https://www.space.com/stargazing/solar-eclipses/on-this-day-in-space-aug-21-1914-total-solar-eclipse-expedition-crashed-by-wwi",
+      "title": "Ancient stars dazzle in a celestial chandelier | Space photo of the day for Aug. 21, 2026",
+      "link": "https://www.space.com/astronomy/ancient-stars-dazzle-in-a-celestial-chandelier-space-photo-of-the-day-for-aug-21-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787320800
