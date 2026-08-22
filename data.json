@@ -1,6 +1,13 @@
 {
-  "last_updated": 1787437076,
+  "last_updated": 1787440604,
   "items": [
+    {
+      "title": "GTA 6 Leaker Releases More Gameplay Videos Despite Rockstar Owner Take-Two's Microsoft and Discord Subpoenas",
+      "link": "https://www.ign.com/articles/gta-6-leaker-releases-more-gameplay-videos-despite-rockstar-owner-take-twos-microsoft-and-discord-subpoenas",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787437000
+    },
     {
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
       "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
@@ -30,17 +37,17 @@
       "timestamp": 1787416234
     },
     {
-      "title": "How will NASA's astronaut training hub change with commercial space stations?",
-      "link": "https://www.space.com/space-exploration/international-space-station/how-will-nasas-astronaut-training-hub-change-with-commercial-space-stations",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787414400
-    },
-    {
       "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
       "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
       "source": "TECHCRUNCH",
       "category": "tech",
+      "timestamp": 1787414400
+    },
+    {
+      "title": "How will NASA's astronaut training hub change with commercial space stations?",
+      "link": "https://www.space.com/space-exploration/international-space-station/how-will-nasas-astronaut-training-hub-change-with-commercial-space-stations",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1787414400
     },
     {
@@ -51,17 +58,17 @@
       "timestamp": 1787412000
     },
     {
-      "title": "'We Want to Believe' book explores the reality of UFOs: 'It's always going to be more likely that someone is wrong about what they saw' (interview)",
-      "link": "https://www.space.com/entertainment/we-want-to-believe-book-explores-the-reality-of-ufos-its-always-going-to-be-more-likely-that-someone-is-wrong-about-what-they-saw-interview",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787407200
-    },
-    {
       "title": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
       "link": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
       "source": "TECHCRUNCH",
       "category": "tech",
+      "timestamp": 1787407200
+    },
+    {
+      "title": "'We Want to Believe' book explores the reality of UFOs: 'It's always going to be more likely that someone is wrong about what they saw' (interview)",
+      "link": "https://www.space.com/entertainment/we-want-to-believe-book-explores-the-reality-of-ufos-its-always-going-to-be-more-likely-that-someone-is-wrong-about-what-they-saw-interview",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1787407200
     },
     {
@@ -415,13 +422,6 @@
       "timestamp": 1787324579
     },
     {
-      "title": "Duchess of Sussex Meghan Markle is Reportedly Getting Back Into Acting",
-      "link": "https://www.ign.com/articles/duchess-of-sussex-meghan-markle-is-reportedly-getting-back-into-acting",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787324353
-    },
-    {
       "title": "Ranking the NBA's 12 best duos: Three new-look pairs make the list, but familiar names are at the top",
       "link": "https://www.cbssports.com/nba/news/ranking-nba-12-best-duos/",
       "source": "CBSSPORTS",
@@ -429,15 +429,15 @@
       "timestamp": 1787322445
     },
     {
-      "title": "On this day in space! Aug. 21, 1914: Total solar eclipse expedition crashed by WWI",
-      "link": "https://www.space.com/stargazing/solar-eclipses/on-this-day-in-space-aug-21-1914-total-solar-eclipse-expedition-crashed-by-wwi",
+      "title": "Ancient stars dazzle in a celestial chandelier | Space photo of the day for Aug. 21, 2026",
+      "link": "https://www.space.com/astronomy/ancient-stars-dazzle-in-a-celestial-chandelier-space-photo-of-the-day-for-aug-21-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787320800
     },
     {
-      "title": "Ancient stars dazzle in a celestial chandelier | Space photo of the day for Aug. 21, 2026",
-      "link": "https://www.space.com/astronomy/ancient-stars-dazzle-in-a-celestial-chandelier-space-photo-of-the-day-for-aug-21-2026",
+      "title": "On this day in space! Aug. 21, 1914: Total solar eclipse expedition crashed by WWI",
+      "link": "https://www.space.com/stargazing/solar-eclipses/on-this-day-in-space-aug-21-1914-total-solar-eclipse-expedition-crashed-by-wwi",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787320800
