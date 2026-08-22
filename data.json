@@ -1,12 +1,33 @@
 {
-  "last_updated": 1787360521,
+  "last_updated": 1787367033,
   "items": [
+    {
+      "title": "Michael Polansky is training an AI model on skin that’s still alive",
+      "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787362264
+    },
+    {
+      "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+      "link": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787360586
+    },
     {
       "title": "'Hoping for a Huge October Surprise, But Not Holding My Breath' — Arc Raiders Players Torn After Embark Delays Future Expeditions Until Early 2027",
       "link": "https://www.ign.com/articles/hoping-for-a-huge-october-surprise-but-not-holding-my-breath-arc-raiders-players-torn-after-embark-delays-future-expeditions-until-early-2027",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1787357416
+    },
+    {
+      "title": "Trump's space transportation policy calls for new spaceport on federal land",
+      "link": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787355137
     },
     {
       "title": "Anthropic’s Opus 4.6 is a smut-machine",
@@ -352,13 +373,6 @@
       "timestamp": 1787322445
     },
     {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787320800
-    },
-    {
       "title": "On this day in space! Aug. 21, 1914: Total solar eclipse expedition crashed by WWI",
       "link": "https://www.space.com/stargazing/solar-eclipses/on-this-day-in-space-aug-21-1914-total-solar-eclipse-expedition-crashed-by-wwi",
       "source": "SPACE",
@@ -371,13 +385,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787320800
-    },
-    {
-      "title": "Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles",
-      "link": "https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787320106
     },
     {
       "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
@@ -546,13 +553,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787236558
-    },
-    {
-      "title": "SpaceX’s orbital data centers would create a new category of e-waste",
-      "link": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787234390
     },
     {
       "title": "Buccaneers' Vita Vea agrees to $30M extension; top 30 NFL players age 30 and over; best NBA front offices",
