@@ -1,6 +1,20 @@
 {
-  "last_updated": 1787457256,
+  "last_updated": 1787459581,
   "items": [
+    {
+      "title": "Black holes keep tearing these stars apart, but they survive",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260822015119.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787458132
+    },
+    {
+      "title": "This shark can live 400 years. Its eyes barely seem to age",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260821012232.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787454866
+    },
     {
       "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
       "link": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
@@ -86,6 +100,20 @@
       "timestamp": 1787405052
     },
     {
+      "title": "Multilingual people may have brains up to 13 years younger",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260821012226.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787404343
+    },
+    {
+      "title": "JWST finds early galaxies may be 4 times more massive than thought",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260822015141.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787402183
+    },
+    {
       "title": "SpaceX sends 27 Starlink satellites to orbit on 100th Falcon rocket launch of the year (video, photos)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-group-15-20",
       "source": "SPACE",
@@ -114,11 +142,32 @@
       "timestamp": 1787396933
     },
     {
+      "title": "This yeast supplement may boost cancer-fighting immunity",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260821012230.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787394862
+    },
+    {
       "title": "Partial lunar eclipse August 2026: Where will it be visible from?",
       "link": "https://www.space.com/stargazing/lunar-eclipses/where-will-the-partial-lunar-eclipse-on-aug-27-2026-be-visible-from",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787392800
+    },
+    {
+      "title": "Queen bees have a disturbing way to survive pesticides",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260821012224.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787370797
+    },
+    {
+      "title": "Archaeologists discover mysterious 400-year-old Indigenous pot in Florida",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260820202902.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787367524
     },
     {
       "title": "Michael Polansky is training an AI model on skin that’s still alive",
@@ -457,6 +506,13 @@
       "timestamp": 1787317262
     },
     {
+      "title": "This weight-loss hormone may protect the liver even without weight loss",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260820202854.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787312321
+    },
+    {
       "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
       "link": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
       "source": "ARSTECHNICA",
@@ -469,6 +525,48 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787310036
+    },
+    {
+      "title": "2,200-year-old Roman shipwreck reveals ancient waterproofing secrets",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260820202907.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787304531
+    },
+    {
+      "title": "A strange new quantum droplet can hold itself together",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260820202846.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787288089
+    },
+    {
+      "title": "Hidden magnetism inside atoms may explain mysterious gamma rays",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260820202849.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787286094
+    },
+    {
+      "title": "A lost mega-cliff may explain the Grand Canyon’s missing billion years",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260820202828.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787283790
+    },
+    {
+      "title": "“One-in-a-million” sea creature fossil preserves soft tissue for 450 million years",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260820002450.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787274723
+    },
+    {
+      "title": "Ozempic does something unexpected to the brain’s hunger neurons",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260820002436.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787266745
     },
     {
       "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
@@ -511,6 +609,20 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1787230804
+    },
+    {
+      "title": "Schizophrenia’s lost brain connections follow a surprising pattern",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260820002443.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787225254
+    },
+    {
+      "title": "Scientists say the human family tree may need a major rewrite",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260820002413.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787222579
     },
     {
       "title": "Peyton Watson trade grades: Cavaliers grab breakout wing, Nuggets have serious questions around Nikola Jokić",
