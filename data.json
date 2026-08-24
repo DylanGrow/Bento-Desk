@@ -1,6 +1,27 @@
 {
-  "last_updated": 1787596492,
+  "last_updated": 1787599542,
   "items": [
+    {
+      "title": "'Project Hail Mary' and 'The Martian' author Andy Weir is headed back to outer space, but not how you'd expect",
+      "link": "https://www.space.com/entertainment/project-hail-mary-and-the-martian-author-andy-weir-is-headed-back-to-outer-space-but-not-how-youd-expect",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787598000
+    },
+    {
+      "title": "Vampire Hunter D Returns: The Cult-Classic Horror Series Finds New Life in 2026",
+      "link": "https://www.ign.com/articles/vampire-hunter-d-returns-fortress-of-blood-comic-bloodlust-rerelease",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787597330
+    },
+    {
+      "title": "Anirudh Pisharody Says He's 'So Down' to Play Nightcrawler in Marvel's X-Men Movie",
+      "link": "https://www.ign.com/articles/anirudh-pisharody-says-hes-so-down-to-play-nightcrawler-in-marvels-x-men-movie",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787596371
+    },
     {
       "title": "Call of Duty: Modern Warfare 4 Adds New Dynamic Cosmetic Options for Certain Characters Like Ghost",
       "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-adds-new-dynamic-cosmetic-options-for-certain-characters-like-ghost",
@@ -51,11 +72,32 @@
       "timestamp": 1787590800
     },
     {
+      "title": "Buyer beware: Those mummified remains might carry toxic spores",
+      "link": "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787590747
+    },
+    {
+      "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+      "link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787589705
+    },
+    {
       "title": "Lanterns Fans Say Episode 2 Is Hiding a Classic Green Lantern Villain in Plain Sight",
       "link": "https://www.ign.com/articles/lanterns-fans-say-episode-2-is-hiding-a-classic-green-lantern-villain-in-plain-sight",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1787589145
+    },
+    {
+      "title": "F1 in the Netherlands: The driver you most want to beat is your teammate",
+      "link": "https://arstechnica.com/cars/2026/08/f1-in-the-netherlands-the-driver-you-most-want-to-beat-is-your-teammate/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787587374
     },
     {
       "title": "Why do we care so much that Pluto isn't a planet?",
@@ -119,6 +161,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1787582682
+    },
+    {
+      "title": "Trump tried to curb clean energy. It’s booming anyway.",
+      "link": "https://arstechnica.com/science/2026/08/trump-tried-to-curb-clean-energy-its-booming-anyway/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787582636
     },
     {
       "title": "GTA 6 Leaker Drops New Nudity-Filled Gameplay, Polls People on Whether to Release Story Spoilers",
@@ -252,20 +301,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1787567475
-    },
-    {
-      "title": "Billie Piper Says She's 'Not the Next Doctor' After That Bizarre Doctor Who Cliffhanger, Asks Fans to 'Chill Out'",
-      "link": "https://www.ign.com/articles/billie-piper-says-shes-not-the-next-doctor-after-that-bizarre-doctor-who-cliffhanger-asks-fans-to-chill-out",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787567371
-    },
-    {
-      "title": "Warhammer 40,000 Audiobook Includes AI Training Warning — Read Out by the Narrator",
-      "link": "https://www.ign.com/articles/warhammer-40000-audiobook-includes-ai-training-warning-read-out-by-the-narrator",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787567324
     },
     {
       "title": "It's been 20 years since Pluto lost planet status. Will it ever get its title back?",
@@ -464,13 +499,6 @@
       "timestamp": 1787425200
     },
     {
-      "title": "How will NASA's astronaut training hub change with commercial space stations?",
-      "link": "https://www.space.com/space-exploration/international-space-station/how-will-nasas-astronaut-training-hub-change-with-commercial-space-stations",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787414400
-    },
-    {
       "title": "Putting mice into hibernation causes a major loss of synapses",
       "link": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
       "source": "ARSTECHNICA",
@@ -555,13 +583,6 @@
       "timestamp": 1787330939
     },
     {
-      "title": "Personalized pricing is “abhorrent,” but FTC limits may increase costs, critics say",
-      "link": "https://arstechnica.com/tech-policy/2026/08/critics-ftc-limits-on-personalized-pricing-may-increase-costs-kill-discounts/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787330305
-    },
-    {
       "title": "Another NBA ownership shakeup: Marc Stad purchases majority stake in Timberwolves, Lynx for $4.5 billion",
       "link": "https://www.cbssports.com/nba/news/timberwolves-lynx-ownership-shakeup-nba-wnba-marc-stad/",
       "source": "CBSSPORTS",
@@ -576,32 +597,11 @@
       "timestamp": 1787322445
     },
     {
-      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
-      "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787317895
-    },
-    {
       "title": "NFL players enter ... college football transfer portal???; James Harden returns to Cavaliers",
       "link": "https://www.cbssports.com/college-football/news/nfl-players-enter-college-football-transfer-portal-james-harden-returns-to-cavaliers/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1787317262
-    },
-    {
-      "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
-      "link": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787310053
-    },
-    {
-      "title": "Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss",
-      "link": "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787310036
     },
     {
       "title": "James Harden returning to Cavaliers on three-year, $97 million deal after team's acquisition of Peyton Watson",
