@@ -1,12 +1,54 @@
 {
-  "last_updated": 1787610086,
+  "last_updated": 1787613545,
   "items": [
+    {
+      "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+      "link": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787612744
+    },
+    {
+      "title": "The Witcher 3 Songs of the Past Expansion Confirmed to Include More Gwent, and Everyone Is Already Celebrating",
+      "link": "https://www.ign.com/articles/the-witcher-3-songs-of-the-past-expansion-confirmed-to-include-more-gwent-and-everyone-is-already-celebrating",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787612190
+    },
+    {
+      "title": "Xbox and PlayStation Appear to Be Publicly Backing Down from Promoting Multiplatform Releases",
+      "link": "https://www.ign.com/articles/xbox-and-playstation-appear-to-be-publicly-backing-down-from-promoting-multiplatform-releases",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787612037
+    },
+    {
+      "title": "Persona Comes to Beard Papa's With Special 30th Anniversary Collaboration",
+      "link": "https://www.ign.com/articles/persona-comes-to-beard-papas-with-special-30th-anniversary-collaboration",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787611295
+    },
     {
       "title": "'How Do We Get Them to Really Cry at This Scene' — Avengers: Infinity War Director Reveals How They Changed Spider-Man's Death Scene to Break Fans' Hearts",
       "link": "https://www.ign.com/articles/how-do-we-get-them-to-really-cry-at-this-scene-avengers-infinity-war-director-reveals-how-they-changed-spider-mans-death-scene-to-break-fans-hearts",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1787608625
+    },
+    {
+      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787607953
+    },
+    {
+      "title": "Data centers become \"killer application\" for new power transformer tech",
+      "link": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787607136
     },
     {
       "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
@@ -21,6 +63,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1787606010
+    },
+    {
+      "title": "RFK Jr. may upend how vaccine recommendations are categorized",
+      "link": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787605488
     },
     {
       "title": "Canceled Iron Man Game Footage From Just Cause and Mad Max Developer Leaks Online",
@@ -49,6 +98,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1787603219
+    },
+    {
+      "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
+      "link": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787602661
     },
     {
       "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
@@ -226,20 +282,6 @@
       "timestamp": 1787587200
     },
     {
-      "title": "Sicario 3 Is Happening 'Soon,' According to Josh Brolin",
-      "link": "https://www.ign.com/articles/sicario-3-is-happening-soon-according-to-josh-brolin",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787586673
-    },
-    {
-      "title": "The Witcher 4 Confirmed for 2028 Release in Official CD Projekt Gamescom 2026 Announcement",
-      "link": "https://www.ign.com/articles/the-witcher-4-confirmed-for-2028-release-in-official-cd-projekt-gamescom-2026-announcement",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787585598
-    },
-    {
       "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
       "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
       "source": "TECHCRUNCH",
@@ -258,13 +300,6 @@
       "link": "https://www.space.com/stargazing/meteor-showers/is-the-perseid-meteor-shower-going-to-get-even-more-spectacular-jupiter-could-send-more-shooting-stars-towards-earth-in-2028",
       "source": "SPACE",
       "category": "space",
-      "timestamp": 1787583600
-    },
-    {
-      "title": "Avengers: Doomsday Trailer Gets Frame-by-Frame Official LEGO Remake",
-      "link": "https://www.ign.com/articles/avengers-doomsday-trailer-lego-remake",
-      "source": "IGN",
-      "category": "gaming",
       "timestamp": 1787583600
     },
     {
@@ -289,15 +324,15 @@
       "timestamp": 1787581127
     },
     {
-      "title": "Satellite sees Greenland's most significant floating ice loss in over a decade | Space photo of the day for Aug. 24, 2026",
-      "link": "https://www.space.com/astronomy/earth/satellite-sees-greenlands-most-significant-floating-ice-loss-in-over-a-decade-space-photo-of-the-day-for-aug-24-2026",
+      "title": "On this day in space! Aug. 24, 2006: Pluto loses its planet status",
+      "link": "https://www.space.com/astronomy/pluto/on-this-day-in-space-aug-24-2006-pluto-loses-its-planet-status",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787580000
     },
     {
-      "title": "On this day in space! Aug. 24, 2006: Pluto loses its planet status",
-      "link": "https://www.space.com/astronomy/pluto/on-this-day-in-space-aug-24-2006-pluto-loses-its-planet-status",
+      "title": "Satellite sees Greenland's most significant floating ice loss in over a decade | Space photo of the day for Aug. 24, 2026",
+      "link": "https://www.space.com/astronomy/earth/satellite-sees-greenlands-most-significant-floating-ice-loss-in-over-a-decade-space-photo-of-the-day-for-aug-24-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787580000
@@ -429,13 +464,6 @@
       "timestamp": 1787513400
     },
     {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787512448
-    },
-    {
       "title": "New 'Star Trek' documentary featuring William Shatner hits theaters this fall, celebrating 60 years of Trek",
       "link": "https://www.space.com/entertainment/space-movies-shows/new-star-trek-documentary-featuring-william-shatner-hits-theaters-this-fall-celebrating-60-years-of-trek",
       "source": "SPACE",
@@ -553,34 +581,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1787346614
-    },
-    {
-      "title": "Thunder + fiber-optic cabling used for seismic imaging",
-      "link": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787344006
-    },
-    {
-      "title": "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
-      "link": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787343050
-    },
-    {
-      "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
-      "link": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787340749
-    },
-    {
-      "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
-      "link": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787339081
     },
     {
       "title": "Another NBA ownership shakeup: Marc Stad purchases majority stake in Timberwolves, Lynx for $4.5 billion",
