@@ -1,6 +1,48 @@
 {
-  "last_updated": 1787575311,
+  "last_updated": 1787579293,
   "items": [
+    {
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787579246
+    },
+    {
+      "title": "US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards",
+      "link": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787579115
+    },
+    {
+      "title": "Common medications may change your gut for years",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260824065605.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787577290
+    },
+    {
+      "title": "Exclusive: PokémonXP and 2026 Pokémon World Championships Pokémon Center Merch Reveal",
+      "link": "https://www.ign.com/articles/exclusive-pokemonxp-and-2026-pokemon-world-championships-pokemon-center-merch-reveal",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787576400
+    },
+    {
+      "title": "Bird flu is spreading. Your backyard feeder could make it worse",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260824065519.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787575748
+    },
+    {
+      "title": "A ghostly ribbon of stars reveals hidden dark matter",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260823015000.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787573974
+    },
     {
       "title": "The earliest galaxy 'swallowed' by the cannibal Milky Way left a scar at its heart",
       "link": "https://www.space.com/astronomy/galaxies/the-earliest-galaxy-swallowed-by-the-cannibal-milky-way-left-a-scar-at-its-heart",
@@ -16,11 +58,25 @@
       "timestamp": 1787572800
     },
     {
+      "title": "Too much or too little sleep may make your body age faster",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260823094156.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787571104
+    },
+    {
       "title": "Former Rockstar Dev Calls GTA 6 Leaks 'A Nothing Burger,' Insists Hot Coffee Was Much, Much Worse",
       "link": "https://www.ign.com/articles/former-rockstar-dev-calls-gta-6-leaks-a-nothing-burger-insists-hot-coffee-was-much-much-worse",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1787569850
+    },
+    {
+      "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
+      "link": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787569201
     },
     {
       "title": "What to expect from each stage of the partial lunar eclipse on Aug. 27-28",
@@ -35,6 +91,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1787569200
+    },
+    {
+      "title": "Screen time at ages 1 and 6 may matter more than parents realize",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260823094152.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787567475
     },
     {
       "title": "Billie Piper Says She's 'Not the Next Doctor' After That Bizarre Doctor Who Cliffhanger, Asks Fans to 'Chill Out'",
@@ -58,11 +121,39 @@
       "timestamp": 1787565600
     },
     {
+      "title": "Scientists just imaged the hidden quantum shape of a molecule",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260822015213.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787565319
+    },
+    {
       "title": "Peggy Carter Getting 'Frisbeed to Death' in Doctor Strange Was 'A Complete Disservice,' Hayley Atwell Says",
       "link": "https://www.ign.com/articles/peggy-carter-getting-frisbeed-to-death-in-doctor-strange-was-a-complete-disservice-hayley-atwell-says",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1787562756
+    },
+    {
+      "title": "NASA is about to launch a powerful new eye on the universe",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260823094140.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787546705
+    },
+    {
+      "title": "Trump to award Congressional Space Medal of Honor to Artemis II astronauts",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260823094138.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787545530
+    },
+    {
+      "title": "Scientists discover a real-life “dragon” and name it after Syrax",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260823015005.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787541082
     },
     {
       "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
@@ -128,7 +219,7 @@
       "timestamp": 1787497200
     },
     {
-      "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+      "title": "Due to need for \"absolute success,\" China delays critical Moon launch to 2027",
       "link": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -289,20 +380,6 @@
       "timestamp": 1787405052
     },
     {
-      "title": "Multilingual people may have brains up to 13 years younger",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260821012226.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787404343
-    },
-    {
-      "title": "JWST finds early galaxies may be 4 times more massive than thought",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260822015141.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787402183
-    },
-    {
       "title": "SpaceX sends 27 Starlink satellites to orbit on 100th Falcon rocket launch of the year (video, photos)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-group-15-20",
       "source": "SPACE",
@@ -331,46 +408,11 @@
       "timestamp": 1787396933
     },
     {
-      "title": "This yeast supplement may boost cancer-fighting immunity",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260821012230.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787394862
-    },
-    {
       "title": "Partial lunar eclipse August 2026: Where will it be visible from?",
       "link": "https://www.space.com/stargazing/lunar-eclipses/where-will-the-partial-lunar-eclipse-on-aug-27-2026-be-visible-from",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787392800
-    },
-    {
-      "title": "Queen bees have a disturbing way to survive pesticides",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260821012224.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787370797
-    },
-    {
-      "title": "Archaeologists discover mysterious 400-year-old Indigenous pot in Florida",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260820202902.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787367524
-    },
-    {
-      "title": "Michael Polansky is training an AI model on skin that’s still alive",
-      "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787362264
-    },
-    {
-      "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
-      "link": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787360586
     },
     {
       "title": "'Hoping for a Huge October Surprise, But Not Holding My Breath' — Arc Raiders Players Torn After Embark Delays Future Expeditions Until Early 2027",
@@ -506,13 +548,6 @@
       "timestamp": 1787335635
     },
     {
-      "title": "A Classic Scene From the I Spy Books Has Been Recreated in LEGO",
-      "link": "https://www.ign.com/articles/a-classic-scene-from-the-i-spy-books-has-been-recreated-in-lego",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787335153
-    },
-    {
       "title": "Fighter jets help destroy Russian drone boat near European offshore gas platform",
       "link": "https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/",
       "source": "ARSTECHNICA",
@@ -555,13 +590,6 @@
       "timestamp": 1787317262
     },
     {
-      "title": "This weight-loss hormone may protect the liver even without weight loss",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260820202854.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787312321
-    },
-    {
       "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
       "link": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
       "source": "ARSTECHNICA",
@@ -574,34 +602,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787310036
-    },
-    {
-      "title": "2,200-year-old Roman shipwreck reveals ancient waterproofing secrets",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260820202907.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787304531
-    },
-    {
-      "title": "A strange new quantum droplet can hold itself together",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260820202846.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787288089
-    },
-    {
-      "title": "Hidden magnetism inside atoms may explain mysterious gamma rays",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260820202849.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787286094
-    },
-    {
-      "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
-      "link": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787263211
     },
     {
       "title": "James Harden returning to Cavaliers on three-year, $97 million deal after team's acquisition of Peyton Watson",
