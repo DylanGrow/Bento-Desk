@@ -1,6 +1,27 @@
 {
-  "last_updated": 1787653665,
+  "last_updated": 1787657006,
   "items": [
+    {
+      "title": "Grand Theft Auto 6: An Extended Look Global Release Times Confirmed",
+      "link": "https://www.ign.com/articles/grand-theft-auto-6-an-extended-look-global-release-times-confirmed",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787656202
+    },
+    {
+      "title": "Stream 'Star Trek: Strange New Worlds' and 'Silo' securely from anywhere with 87% off Surfshark VPN",
+      "link": "https://www.space.com/technology/stream-star-trek-strange-new-worlds-and-silo-securely-from-anywhere-with-87-percent-off-surfshark-vpn",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787655610
+    },
+    {
+      "title": "GTA 6 Leaker Releases Nightclub Gameplay Video, Defends Crypto Scheme",
+      "link": "https://www.ign.com/articles/gta-6-leaker-releases-nightclub-gameplay-video-defends-crypto-scheme",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787655178
+    },
     {
       "title": "GTA 6 Leak Subpoena: Discord Says It Will 'Evaluate the Validity and Scope Before Responding'",
       "link": "https://www.ign.com/articles/gta-6-leak-subpoena-discord-says-it-will-evaluate-the-validity-and-scope-before-responding",
@@ -247,20 +268,6 @@
       "timestamp": 1787598000
     },
     {
-      "title": "Vampire Hunter D Returns: The Cult-Classic Horror Series Finds New Life in 2026",
-      "link": "https://www.ign.com/articles/vampire-hunter-d-returns-fortress-of-blood-comic-bloodlust-rerelease",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787597330
-    },
-    {
-      "title": "Anirudh Pisharody Says He's 'So Down' to Play Nightcrawler in Marvel's X-Men Movie",
-      "link": "https://www.ign.com/articles/anirudh-pisharody-says-hes-so-down-to-play-nightcrawler-in-marvels-x-men-movie",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787596371
-    },
-    {
       "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
       "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
       "source": "TECHCRUNCH",
@@ -275,7 +282,7 @@
       "timestamp": 1787594400
     },
     {
-      "title": "SpaceX will set rocket-reuse record on 100th Falcon 9 launch of the year early Aug. 25: Watch it live",
+      "title": "SpaceX sets rocket-reuse record on 100th Falcon 9 launch of the year",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-record-37th-booster-flight-100-falcon-9-launches",
       "source": "SPACE",
       "category": "space",
@@ -317,17 +324,17 @@
       "timestamp": 1787585058
     },
     {
-      "title": "Is the Perseid meteor shower going to get even more spectacular? Jupiter could send more 'shooting stars' towards Earth in 2028",
-      "link": "https://www.space.com/stargazing/meteor-showers/is-the-perseid-meteor-shower-going-to-get-even-more-spectacular-jupiter-could-send-more-shooting-stars-towards-earth-in-2028",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787583600
-    },
-    {
       "title": "OpenAI is building AI agents for everything. Will everyone use them?",
       "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
       "source": "TECHCRUNCH",
       "category": "tech",
+      "timestamp": 1787583600
+    },
+    {
+      "title": "Is the Perseid meteor shower going to get even more spectacular? Jupiter could send more 'shooting stars' towards Earth in 2028",
+      "link": "https://www.space.com/stargazing/meteor-showers/is-the-perseid-meteor-shower-going-to-get-even-more-spectacular-jupiter-could-send-more-shooting-stars-towards-earth-in-2028",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1787583600
     },
     {
@@ -401,15 +408,15 @@
       "timestamp": 1787573974
     },
     {
-      "title": "The earliest galaxy 'swallowed' by the cannibal Milky Way left a scar at its heart",
-      "link": "https://www.space.com/astronomy/galaxies/the-earliest-galaxy-swallowed-by-the-cannibal-milky-way-left-a-scar-at-its-heart",
+      "title": "Nancy Grace Roman Telescope live updates: NASA readies Roman for launch",
+      "link": "https://www.space.com/news/live/nancy-grace-roman-telescope-live-updates-nasa-readies-roman-for-launch-august-24-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787572800
     },
     {
-      "title": "Nancy Grace Roman Telescope live updates: NASA readies Roman for launch",
-      "link": "https://www.space.com/news/live/nancy-grace-roman-telescope-live-updates-nasa-readies-roman-for-launch-august-24-2026",
+      "title": "The earliest galaxy 'swallowed' by the cannibal Milky Way left a scar at its heart",
+      "link": "https://www.space.com/astronomy/galaxies/the-earliest-galaxy-swallowed-by-the-cannibal-milky-way-left-a-scar-at-its-heart",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787572800
@@ -441,13 +448,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1787567475
-    },
-    {
-      "title": "It's been 20 years since Pluto lost planet status. Will it ever get its title back?",
-      "link": "https://www.space.com/astronomy/pluto/its-been-20-years-since-pluto-lost-planet-status-will-it-ever-get-its-title-back",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787565600
     },
     {
       "title": "Scientists just imaged the hidden quantum shape of a molecule",
