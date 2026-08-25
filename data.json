@@ -1,6 +1,69 @@
 {
-  "last_updated": 1787682876,
+  "last_updated": 1787686072,
   "items": [
+    {
+      "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
+      "link": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787685772
+    },
+    {
+      "title": "Rainbow Six Tactics Features Optional Permadeath, Ironman Mode",
+      "link": "https://www.ign.com/articles/rainbow-six-tactics-interview-optional-permadeath-ironman-mode",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787685300
+    },
+    {
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787684627
+    },
+    {
+      "title": "Cyberpunk 2077 Commodore Computer Premieres at Gamescom, and It's Up for Preorder Now",
+      "link": "https://www.ign.com/articles/cyberpunk-2077-commodore-computer-reveal-gamescom-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787684400
+    },
+    {
+      "title": "Preserving glow-in-the-dark art and fashion for future generations",
+      "link": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787684352
+    },
+    {
+      "title": "Exodus Release Date Revealed, the Mass Effect-Like RPG Is Coming in April",
+      "link": "https://www.ign.com/articles/exodus-release-date-revealed-the-mass-effect-like-rpg-is-coming-in-april",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787683563
+    },
+    {
+      "title": "Game of Thrones: War for Westeros Trailer Features The Night King on the Iron Throne",
+      "link": "https://www.ign.com/articles/game-of-thrones-war-for-westeros-trailer-features-the-night-king-on-the-iron-throne",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787683133
+    },
+    {
+      "title": "Tides of Annihilation Trailer Confirms Resident Evil Requiem Actress Angela Sant'Albano as New Voice of Gwendolyn",
+      "link": "https://www.ign.com/articles/tides-of-annihilation-trailer-confirms-resident-evil-requiem-actress-angela-santalbano-as-new-voice-of-gwendolyn",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787682867
+    },
+    {
+      "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
+      "link": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787682750
+    },
     {
       "title": "Starbase Louisiana: SpaceX announces enormous $100 billion Starbase launch site",
       "link": "https://www.space.com/space-exploration/private-spaceflight/spacex-announces-enormous-usd100-billion-starbase-louisiana-starship-launch-site",
@@ -93,7 +156,7 @@
       "timestamp": 1787677851
     },
     {
-      "title": "The Roman Space Telescope will reveal the universe in a way the JWST and Hubble cannot",
+      "title": "NASA's Roman Space Telescope will reveal the universe in a way the JWST and Hubble cannot",
       "link": "https://www.space.com/astronomy/the-roman-space-telescope-will-reveal-the-universe-in-a-way-the-jwst-and-hubble-cannot",
       "source": "SPACE",
       "category": "space",
@@ -275,39 +338,11 @@
       "timestamp": 1787662811
     },
     {
-      "title": "Andy Dunn’s startup Pie becomes less of an events app and more of a social network",
-      "link": "https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787662800
-    },
-    {
-      "title": "WhatsApp tightens account security with stronger two-step verification and more",
-      "link": "https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787662800
-    },
-    {
       "title": "Polish startup Ares Shield hired to protect data center satellites with high-power microwave weapons",
       "link": "https://www.space.com/space-exploration/satellites/satellite-defense-ares-shield-contract-lonestar-data-holdings",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787662800
-    },
-    {
-      "title": "Asus' Special Gold ROG Xbox Ally X20 Is Surprisingly Affordable – If You Avoid the Bundle",
-      "link": "https://www.ign.com/articles/asus-special-gold-rog-xbox-ally-x20-is-surprisingly-affordable-if-you-avoid-the-bundle",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787661000
-    },
-    {
-      "title": "'Appalling and Fundamentally Dishonest': Mark Ruffalo Slams Paramount After Studio Suggests Warner Bros. Buyout Criticism Stemmed From 'Antisemitic Tropes'",
-      "link": "https://www.ign.com/articles/appalling-and-fundamentally-dishonest-mark-ruffalo-slams-paramount-after-studio-suggests-warner-bros-buyout-criticism-stemmed-from-antisemitic-tropes",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787660524
     },
     {
       "title": "NASA satellites ace world's 1st 'lost-in-space' GPS-free navigation experiment",
@@ -317,13 +352,6 @@
       "timestamp": 1787659200
     },
     {
-      "title": "Grand Theft Auto 6: An Extended Look Global Release Times Confirmed",
-      "link": "https://www.ign.com/articles/grand-theft-auto-6-an-extended-look-global-release-times-confirmed",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787656202
-    },
-    {
       "title": "Stream 'Star Trek: Strange New Worlds' and 'Silo' securely from anywhere with 87% off Surfshark VPN",
       "link": "https://www.space.com/technology/stream-star-trek-strange-new-worlds-and-silo-securely-from-anywhere-with-87-percent-off-surfshark-vpn",
       "source": "SPACE",
@@ -331,25 +359,11 @@
       "timestamp": 1787655610
     },
     {
-      "title": "[UPDATE] GTA 6 Leaker Releases Game Store, Nightclub and Beach Gameplay Videos, Defends Crypto Scheme",
-      "link": "https://www.ign.com/articles/gta-6-leaker-releases-nightclub-gameplay-video-defends-crypto-scheme",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787655178
-    },
-    {
       "title": "Atomic catalyst unlocks the hidden value of plant waste",
       "link": "https://www.sciencedaily.com/releases/2026/08/260824065601.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1787652555
-    },
-    {
-      "title": "GTA 6 Leak Subpoena: Discord Says It Will 'Evaluate the Validity and Scope Before Responding'",
-      "link": "https://www.ign.com/articles/gta-6-leak-subpoena-discord-says-it-will-evaluate-the-validity-and-scope-before-responding",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787651650
     },
     {
       "title": "Scientists find hidden “highways” guiding animal evolution",
@@ -483,20 +497,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787589705
-    },
-    {
-      "title": "F1 in the Netherlands: The driver you most want to beat is your teammate",
-      "link": "https://arstechnica.com/cars/2026/08/f1-in-the-netherlands-the-driver-you-most-want-to-beat-is-your-teammate/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787587374
-    },
-    {
-      "title": "Trump tried to curb clean energy. It’s booming anyway.",
-      "link": "https://arstechnica.com/science/2026/08/trump-tried-to-curb-clean-energy-its-booming-anyway/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787582636
     },
     {
       "title": "Common medications may change your gut for years",
