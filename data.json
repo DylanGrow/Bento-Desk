@@ -1,6 +1,27 @@
 {
-  "last_updated": 1787650278,
+  "last_updated": 1787653665,
   "items": [
+    {
+      "title": "GTA 6 Leak Subpoena: Discord Says It Will 'Evaluate the Validity and Scope Before Responding'",
+      "link": "https://www.ign.com/articles/gta-6-leak-subpoena-discord-says-it-will-evaluate-the-validity-and-scope-before-responding",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787651650
+    },
+    {
+      "title": "Zach Cregger's Resident Evil Movie Includes First-Person Sequences — and Yes, Umbrella Is Involved",
+      "link": "https://www.ign.com/articles/zach-creggers-resident-evil-movie-includes-first-person-sequences-and-yes-umbrella-is-involved",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787651549
+    },
+    {
+      "title": "EXCLUSIVE: Baldur's Gate 3: Astarion Excerpt, Narrated by Neil Newbon Himself",
+      "link": "https://www.ign.com/articles/exclusive-baldurs-gate-3-astarion-excerpt-narrated-by-neil-newbon-himself",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787651436
+    },
     {
       "title": "Pokémon Veteran James Turner Rejoins Franchise Following Work on The Plucky Squire",
       "link": "https://www.ign.com/articles/pokemon-veteran-james-turner-rejoins-franchise-following-work-on-the-plucky-squire",
@@ -240,13 +261,6 @@
       "timestamp": 1787596371
     },
     {
-      "title": "Call of Duty: Modern Warfare 4 Adds New Dynamic Cosmetic Options for Certain Characters Like Ghost",
-      "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-adds-new-dynamic-cosmetic-options-for-certain-characters-like-ghost",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787594818
-    },
-    {
       "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
       "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
       "source": "TECHCRUNCH",
@@ -259,20 +273,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787594400
-    },
-    {
-      "title": "Pokémon Collector Poses as Buyer to Recover $4,000 Worth of Stolen Cards in 'Vigilante' Sting Operation",
-      "link": "https://www.ign.com/articles/pokemon-collector-poses-as-buyer-to-recover-4000-worth-of-stolen-cards",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787592949
-    },
-    {
-      "title": "Kit Harington Takes Over as Gilderoy Lockhart After Nicholas Hoult Exits HBO's Harry Potter Season 2",
-      "link": "https://www.ign.com/articles/kit-harington-takes-over-as-gilderoy-lockhart-after-nicholas-hoult-exits-hbos-harry-potter-season-2",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787591982
     },
     {
       "title": "SpaceX will set rocket-reuse record on 100th Falcon 9 launch of the year early Aug. 25: Watch it live",
@@ -317,17 +317,17 @@
       "timestamp": 1787585058
     },
     {
-      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787583600
-    },
-    {
       "title": "Is the Perseid meteor shower going to get even more spectacular? Jupiter could send more 'shooting stars' towards Earth in 2028",
       "link": "https://www.space.com/stargazing/meteor-showers/is-the-perseid-meteor-shower-going-to-get-even-more-spectacular-jupiter-could-send-more-shooting-stars-towards-earth-in-2028",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1787583600
+    },
+    {
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
       "timestamp": 1787583600
     },
     {
