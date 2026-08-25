@@ -1,6 +1,34 @@
 {
-  "last_updated": 1787657006,
+  "last_updated": 1787661610,
   "items": [
+    {
+      "title": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II",
+      "link": "https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787661457
+    },
+    {
+      "title": "Fitbit founders launch Luffu Link, an LTE health and safety band",
+      "link": "https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787659200
+    },
+    {
+      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+      "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787659200
+    },
+    {
+      "title": "NASA satellites ace world's 1st 'lost-in-space' GPS-free navigation experiment",
+      "link": "https://www.space.com/space-exploration/satellites/nasa-satellites-ace-worlds-1st-lost-in-space-gps-free-navigation-experiment",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787659200
+    },
     {
       "title": "Grand Theft Auto 6: An Extended Look Global Release Times Confirmed",
       "link": "https://www.ign.com/articles/grand-theft-auto-6-an-extended-look-global-release-times-confirmed",
@@ -16,7 +44,7 @@
       "timestamp": 1787655610
     },
     {
-      "title": "GTA 6 Leaker Releases Nightclub Gameplay Video, Defends Crypto Scheme",
+      "title": "[UPDATE] GTA 6 Leaker Releases Nightclub and Beach Gameplay Videos, Defends Crypto Scheme",
       "link": "https://www.ign.com/articles/gta-6-leaker-releases-nightclub-gameplay-video-defends-crypto-scheme",
       "source": "IGN",
       "category": "gaming",
@@ -282,7 +310,7 @@
       "timestamp": 1787594400
     },
     {
-      "title": "SpaceX sets rocket-reuse record on 100th Falcon 9 launch of the year",
+      "title": "SpaceX sets rocket-reuse record on 100th Falcon 9 launch of the year (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-record-37th-booster-flight-100-falcon-9-launches",
       "source": "SPACE",
       "category": "space",
@@ -352,13 +380,6 @@
       "timestamp": 1787582636
     },
     {
-      "title": "Brake problems in GM EVs draw greater federal scrutiny",
-      "link": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787581127
-    },
-    {
       "title": "Satellite sees Greenland's most significant floating ice loss in over a decade | Space photo of the day for Aug. 24, 2026",
       "link": "https://www.space.com/astronomy/earth/satellite-sees-greenlands-most-significant-floating-ice-loss-in-over-a-decade-space-photo-of-the-day-for-aug-24-2026",
       "source": "SPACE",
@@ -371,20 +392,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787580000
-    },
-    {
-      "title": "Hugging Face reportedly in talks to be acquired for $13B",
-      "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787579246
-    },
-    {
-      "title": "US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards",
-      "link": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787579115
     },
     {
       "title": "Common medications may change your gut for years",
@@ -434,13 +441,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787569201
-    },
-    {
-      "title": "What to expect from each stage of the partial lunar eclipse on Aug. 27-28",
-      "link": "https://www.space.com/stargazing/lunar-eclipses/what-to-expect-during-the-almost-blood-moon-lunar-eclipse-on-aug-27-28-2026-key-stages-explained",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787569200
     },
     {
       "title": "Screen time at ages 1 and 6 may matter more than parents realize",
