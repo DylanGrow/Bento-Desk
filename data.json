@@ -1,12 +1,68 @@
 {
-  "last_updated": 1787665550,
+  "last_updated": 1787668831,
   "items": [
+    {
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787667724
+    },
+    {
+      "title": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
+      "link": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787667036
+    },
+    {
+      "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
+      "link": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787666400
+    },
+    {
+      "title": "On this day in space! Aug. 25, 1997: NASA launches Advanced Composition Explorer to track solar wind and so much more",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-25-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787666400
+    },
+    {
+      "title": "Astronauts make history repairing the ISS | Space photo of the day for Aug. 25, 2026",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/astronauts-make-history-repairing-the-iss-space-photo-of-the-day-for-aug-25-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787666400
+    },
+    {
+      "title": "Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899",
+      "link": "https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787666106
+    },
+    {
+      "title": "Nintendo Announces First Switch 2 Bundles to Launch Following the Console's September Price Hike",
+      "link": "https://www.ign.com/articles/nintendo-announces-first-switch-2-bundles-to-launch-following-the-consoles-september-price-hike",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787665889
+    },
     {
       "title": "Shingles vaccine linked to 24% lower dementia risk",
       "link": "https://www.sciencedaily.com/releases/2026/08/260823015013.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1787663361
+    },
+    {
+      "title": "Apple's new desktop computers are designed specifically for local AI development",
+      "link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787662811
     },
     {
       "title": "Andy Dunn’s startup Pie becomes less of an events app and more of a social network",
@@ -100,7 +156,7 @@
       "timestamp": 1787655610
     },
     {
-      "title": "[UPDATE] GTA 6 Leaker Releases Nightclub and Beach Gameplay Videos, Defends Crypto Scheme",
+      "title": "[UPDATE] GTA 6 Leaker Releases Game Store, Nightclub and Beach Gameplay Videos, Defends Crypto Scheme",
       "link": "https://www.ign.com/articles/gta-6-leaker-releases-nightclub-gameplay-video-defends-crypto-scheme",
       "source": "IGN",
       "category": "gaming",
@@ -296,13 +352,6 @@
       "timestamp": 1787604333
     },
     {
-      "title": "France and Saudi Arabia to Build $7 Billion Dragon Ball Z Theme Park Outside Paris",
-      "link": "https://www.ign.com/articles/france-and-saudi-arabia-to-build-7-billion-dragon-ball-z-theme-park-outside-paris",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787603219
-    },
-    {
       "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
       "link": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
       "source": "ARSTECHNICA",
@@ -310,39 +359,11 @@
       "timestamp": 1787602661
     },
     {
-      "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
-      "link": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787602594
-    },
-    {
       "title": "'Ghosts of Mars' at 25: Are we any closer to living on the Red Planet? We asked the experts",
       "link": "https://www.space.com/entertainment/space-movies-shows/ghosts-of-mars-at-25-are-we-any-closer-to-living-on-the-red-planet-we-asked-the-experts",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787601600
-    },
-    {
-      "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
-      "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787601497
-    },
-    {
-      "title": "Amazon hikes hardware prices by 60%, blaming memory shortage",
-      "link": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787601290
-    },
-    {
-      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787601259
     },
     {
       "title": "GM vehicles under federal scrutiny after hundreds of reports",
@@ -436,13 +457,6 @@
       "timestamp": 1787580000
     },
     {
-      "title": "Satellite sees Greenland's most significant floating ice loss in over a decade | Space photo of the day for Aug. 24, 2026",
-      "link": "https://www.space.com/astronomy/earth/satellite-sees-greenlands-most-significant-floating-ice-loss-in-over-a-decade-space-photo-of-the-day-for-aug-24-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787580000
-    },
-    {
       "title": "Common medications may change your gut for years",
       "link": "https://www.sciencedaily.com/releases/2026/08/260824065605.htm",
       "source": "SCIENCEDAILY",
@@ -462,13 +476,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1787573974
-    },
-    {
-      "title": "Nancy Grace Roman Telescope live updates: NASA readies Roman for launch",
-      "link": "https://www.space.com/news/live/nancy-grace-roman-telescope-live-updates-nasa-readies-roman-for-launch-august-24-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787572800
     },
     {
       "title": "Too much or too little sleep may make your body age faster",
@@ -553,13 +560,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787396933
-    },
-    {
-      "title": "Trump's space transportation policy calls for new spaceport on federal land",
-      "link": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787355137
     },
     {
       "title": "Klay Thompson expected to sign with Heat after agreeing to buyout with Mavericks, per report",
