@@ -1,6 +1,90 @@
 {
-  "last_updated": 1787678873,
+  "last_updated": 1787682876,
   "items": [
+    {
+      "title": "Starbase Louisiana: SpaceX announces enormous $100 billion Starbase launch site",
+      "link": "https://www.space.com/space-exploration/private-spaceflight/spacex-announces-enormous-usd100-billion-starbase-louisiana-starship-launch-site",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787682442
+    },
+    {
+      "title": "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
+      "link": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787682415
+    },
+    {
+      "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
+      "link": "https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787682170
+    },
+    {
+      "title": "Rainbow Six Tactics Announced, First Single-Player Rainbow Six Game Since Vegas 2 in 2008",
+      "link": "https://www.ign.com/articles/rainbow-six-tactics-announced-pc-ps5-xbox-series-2027",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787681700
+    },
+    {
+      "title": "Fans Pay Tribute to Dolly Parton After Country Music Legend Dies at 80",
+      "link": "https://www.ign.com/articles/fans-pay-tribute-to-dolly-parton-after-country-music-legend-dies-at-80",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787681124
+    },
+    {
+      "title": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
+      "link": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787680890
+    },
+    {
+      "title": "The bubbling surface of doomed supergiant star Betelgeuse has been revealed like never before",
+      "link": "https://www.space.com/astronomy/stars/the-bubbling-surface-of-doomed-supergiant-star-betelgeuse-has-been-revealed-like-never-before",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787680800
+    },
+    {
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787680233
+    },
+    {
+      "title": "Two unvaccinated people die from measles in Pennsylvania, officials confirm",
+      "link": "https://arstechnica.com/health/2026/08/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-confirm/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787679578
+    },
+    {
+      "title": "Waymo robotaxis are headed to Munich",
+      "link": "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787679123
+    },
+    {
+      "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
+      "link": "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787678775
+    },
+    {
+      "title": "Avengers: Endgame Re-Release Reveals New Iron Man and Infinity Gauntlet Popcorn Buckets, Tickets On Sale Now",
+      "link": "https://www.ign.com/articles/avengers-endgame-re-release-reveals-new-iron-man-and-infinity-gauntlet-popcorn-buckets-tickets-on-sale-now",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787678390
+    },
     {
       "title": "gamescom Opening Night Live 2026: Everything Announced",
       "link": "https://www.ign.com/articles/gamescom-opening-night-live-2026-everything-announced",
@@ -35,6 +119,13 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1787675700
+    },
+    {
+      "title": "Lab supply companies have been selling antibodies using manipulated images",
+      "link": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787674617
     },
     {
       "title": "NBA 2K27 Is Teasing a GTA 6-Themed Event in Collaboration with Rockstar Games",
@@ -198,32 +289,11 @@
       "timestamp": 1787662800
     },
     {
-      "title": "Accel-backed Keenable is indexing the web for AI agents",
-      "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787662800
-    },
-    {
-      "title": "Uber launches live video streaming for teen accounts",
-      "link": "https://techcrunch.com/2026/08/25/uber-launches-live-video-streaming-for-teen-accounts/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787662800
-    },
-    {
       "title": "Polish startup Ares Shield hired to protect data center satellites with high-power microwave weapons",
       "link": "https://www.space.com/space-exploration/satellites/satellite-defense-ares-shield-contract-lonestar-data-holdings",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787662800
-    },
-    {
-      "title": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II",
-      "link": "https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787661457
     },
     {
       "title": "Asus' Special Gold ROG Xbox Ally X20 Is Surprisingly Affordable – If You Avoid the Bundle",
@@ -238,20 +308,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1787660524
-    },
-    {
-      "title": "Fitbit founders launch Luffu Link, an LTE health and safety band",
-      "link": "https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787659200
-    },
-    {
-      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-      "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787659200
     },
     {
       "title": "NASA satellites ace world's 1st 'lost-in-space' GPS-free navigation experiment",
@@ -294,27 +350,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1787651650
-    },
-    {
-      "title": "Zach Cregger's Resident Evil Movie Includes First-Person Sequences — and Yes, Umbrella Is Involved",
-      "link": "https://www.ign.com/articles/zach-creggers-resident-evil-movie-includes-first-person-sequences-and-yes-umbrella-is-involved",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787651549
-    },
-    {
-      "title": "EXCLUSIVE: Baldur's Gate 3: Astarion Excerpt, Narrated by Neil Newbon Himself",
-      "link": "https://www.ign.com/articles/exclusive-baldurs-gate-3-astarion-excerpt-narrated-by-neil-newbon-himself",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787651436
-    },
-    {
-      "title": "Pokémon Veteran James Turner Rejoins Franchise Following Work on The Plucky Squire",
-      "link": "https://www.ign.com/articles/pokemon-veteran-james-turner-rejoins-franchise-following-work-on-the-plucky-squire",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787648580
     },
     {
       "title": "Scientists find hidden “highways” guiding animal evolution",
@@ -457,20 +492,6 @@
       "timestamp": 1787587374
     },
     {
-      "title": "Why do we care so much that Pluto isn't a planet?",
-      "link": "https://www.space.com/astronomy/pluto/why-do-we-care-so-much-that-pluto-isnt-a-planet",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787587200
-    },
-    {
-      "title": "Is the Perseid meteor shower going to get even more spectacular? Jupiter could send more 'shooting stars' towards Earth in 2028",
-      "link": "https://www.space.com/stargazing/meteor-showers/is-the-perseid-meteor-shower-going-to-get-even-more-spectacular-jupiter-could-send-more-shooting-stars-towards-earth-in-2028",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787583600
-    },
-    {
       "title": "Trump tried to curb clean energy. It’s booming anyway.",
       "link": "https://arstechnica.com/science/2026/08/trump-tried-to-curb-clean-energy-its-booming-anyway/",
       "source": "ARSTECHNICA",
@@ -504,13 +525,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1787571104
-    },
-    {
-      "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
-      "link": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787569201
     },
     {
       "title": "Screen time at ages 1 and 6 may matter more than parents realize",
@@ -553,20 +567,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1787498141
-    },
-    {
-      "title": "Due to need for \"absolute success,\" China delays critical Moon launch to 2027",
-      "link": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787495416
-    },
-    {
-      "title": "Volcanoes that made history",
-      "link": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787482974
     },
     {
       "title": "Klay Thompson expected to sign with Heat after agreeing to buyout with Mavericks, per report",
