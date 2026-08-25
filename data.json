@@ -1,6 +1,48 @@
 {
-  "last_updated": 1787686072,
+  "last_updated": 1787689449,
   "items": [
+    {
+      "title": "The Witcher 3 Remastered Launches September, Free Upgrade For All Owners",
+      "link": "https://www.ign.com/articles/the-witcher-3-remastered-launches-september-free-upgrade-for-all-owners",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787688153
+    },
+    {
+      "title": "'Aliens: The Video Games' author Mike Diver on overlooked Alien games, tracking down retro game developers, and the future of the Xenomorph (interview)",
+      "link": "https://www.space.com/entertainment/space-books/aliens-the-video-games-author-mike-diver-on-overlooked-alien-games-tracking-down-retro-game-developers-and-the-future-of-the-xenomorph-interview",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787688000
+    },
+    {
+      "title": "LEGO Skylines Announced at Gamescom",
+      "link": "https://www.ign.com/articles/lego-skylines-announced-at-gamescom",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787687724
+    },
+    {
+      "title": "Path of Exile 2 Release Date Sets 1.0 Launch in December 2026",
+      "link": "https://www.ign.com/articles/path-of-exile-2-release-date-sets-10-launch-in-december-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787687361
+    },
+    {
+      "title": "Backrooms Is Officially Coming to HBO Max in September",
+      "link": "https://www.ign.com/articles/backrooms-hbo-max-streaming-release-date-confirmed",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787687005
+    },
+    {
+      "title": "Crimson Desert is Becoming Crimson Desert Enhanced For Free",
+      "link": "https://www.ign.com/articles/crimson-desert-is-becoming-crimson-desert-enhanced-for-free",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787686210
+    },
     {
       "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
       "link": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
@@ -191,32 +233,11 @@
       "timestamp": 1787674617
     },
     {
-      "title": "NBA 2K27 Is Teasing a GTA 6-Themed Event in Collaboration with Rockstar Games",
-      "link": "https://www.ign.com/articles/nba-2k27-is-teasing-a-gta-6-themed-event-in-collaboration-with-rockstar-games",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787674035
-    },
-    {
       "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
       "link": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787673877
-    },
-    {
-      "title": "Marvel Tokon Devs Confess Regaining Trust After Fumbled PC Launch Will Be 'Extremely Challenging'",
-      "link": "https://www.ign.com/articles/marvel-tokon-devs-confess-regaining-trust-after-fumbled-pc-launch-will-be-extremely-challenging",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787673678
-    },
-    {
-      "title": "KFC Reveals the Oreo Chicken Burger, and We're Both Revolted and Intrigued",
-      "link": "https://www.ign.com/articles/kfc-reveals-the-oreo-chicken-burger-and-were-both-revolted-and-intrigued",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787673088
     },
     {
       "title": "That fake Grand Theft Auto VI demo is actually just malware",
@@ -231,13 +252,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1787671800
-    },
-    {
-      "title": "PlayStation Plus Monthly Games for September 2026 Leak, Headlined by Sniper Elite: Resistance",
-      "link": "https://www.ign.com/articles/playstation-plus-monthly-games-for-september-2026-leak-headlined-by-sniper-elite-resistance",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787670934
     },
     {
       "title": "LeBron James continues to go all-in on golf with PGA Tour partnership to launch event for aspiring pro golfers",
@@ -315,13 +329,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1787666106
-    },
-    {
-      "title": "Nintendo Announces First Switch 2 Bundles to Launch Following the Console's September Price Hike",
-      "link": "https://www.ign.com/articles/nintendo-announces-first-switch-2-bundles-to-launch-following-the-consoles-september-price-hike",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787665889
     },
     {
       "title": "Shingles vaccine linked to 24% lower dementia risk",
@@ -476,13 +483,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787594400
-    },
-    {
-      "title": "SpaceX sets rocket-reuse record on 100th Falcon 9 launch of the year (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-record-37th-booster-flight-100-falcon-9-launches",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787590800
     },
     {
       "title": "Buyer beware: Those mummified remains might carry toxic spores",
