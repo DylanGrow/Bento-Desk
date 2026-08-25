@@ -1,6 +1,13 @@
 {
-  "last_updated": 1787693029,
+  "last_updated": 1787696539,
   "items": [
+    {
+      "title": "The Witcher 3 Songs of the Past Expansion: Everything Revealed at gamescom ONL 2026",
+      "link": "https://www.ign.com/articles/the-witcher-3-songs-of-the-past-expansion-everything-revealed-at-gamescom-onl-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787693110
+    },
     {
       "title": "Some Razer Gaming Gear Is Getting (Slightly Different) Translucent Green Options for Xbox's 25th Anniversary",
       "link": "https://www.ign.com/articles/some-razer-gaming-gear-is-getting-slightly-different-translucent-green-options-for-xboxs-25th-anniversary",
@@ -16,7 +23,14 @@
       "timestamp": 1787691600
     },
     {
-      "title": "X sends cease-and-desist to open-source project Nitter over alleged scraping",
+      "title": "World humanoid robot games show runners breaking records, bursting into flames",
+      "link": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787691543
+    },
+    {
+      "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
       "link": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -30,7 +44,7 @@
       "timestamp": 1787690204
     },
     {
-      "title": "The Witcher 3 Remastered Launches September, as a Free Upgrade For Existing Owners",
+      "title": "The Witcher 3 Remastered Launches September as a Free Upgrade for Existing Owners",
       "link": "https://www.ign.com/articles/the-witcher-3-remastered-launches-september-free-upgrade-for-all-owners",
       "source": "IGN",
       "category": "gaming",
@@ -65,7 +79,7 @@
       "timestamp": 1787687005
     },
     {
-      "title": "Crimson Desert is Becoming Crimson Desert Enhanced For Free",
+      "title": "Crimson Desert Is Becoming Crimson Desert Enhanced for Free",
       "link": "https://www.ign.com/articles/crimson-desert-is-becoming-crimson-desert-enhanced-for-free",
       "source": "IGN",
       "category": "gaming",
@@ -217,13 +231,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1787678390
-    },
-    {
-      "title": "gamescom Opening Night Live 2026: Everything Announced",
-      "link": "https://www.ign.com/articles/gamescom-opening-night-live-2026-everything-announced",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787677851
     },
     {
       "title": "NASA's Roman Space Telescope will reveal the universe in a way the JWST and Hubble cannot",
@@ -490,13 +497,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787590747
-    },
-    {
-      "title": "Nvidia senior manager tied to ex-Supermicro staff's AI smuggling scheme",
-      "link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787589705
     },
     {
       "title": "Common medications may change your gut for years",
