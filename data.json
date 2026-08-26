@@ -1,6 +1,27 @@
 {
-  "last_updated": 1787743532,
+  "last_updated": 1787748226,
   "items": [
+    {
+      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+      "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787745600
+    },
+    {
+      "title": "SpaceX's final Falcon 9 Starlink launch from Florida creates gorgeous 'jellyfish' over New York City (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-final-falcon-9-starlink-launch-from-florida-creates-gorgeous-jellyfish-over-new-york-city-video",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787745600
+    },
+    {
+      "title": "Rockstar Games Finally Addresses Extraordinary and 'Heartbreaking' GTA 6 Leaks, Warns Players That 'Some Spoilers' May Now Impact 'The Intended Game Experience'",
+      "link": "https://www.ign.com/articles/rockstar-games-finally-addresses-extraordinary-gta-6-leaks-warns-players-that-some-spoilers-may-now-impact-the-intended-game-experience",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787744528
+    },
     {
       "title": "Marvel Fans Say Avengers: Endgame Encore's Extra 4 Minutes Risk Being 'Really Oversold', After Directors Insist Movie is 'Required Viewing for Following The Story in Doomsday'",
       "link": "https://www.ign.com/articles/marvel-fans-say-avengers-endgame-encores-extra-4-minutes-are-being-really-oversold-after-directors-insist-movie-is-required-viewing-for-following-the-story-in-doomsday",
@@ -9,11 +30,25 @@
       "timestamp": 1787743127
     },
     {
+      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+      "link": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787742649
+    },
+    {
       "title": "SpaceX sends Starlink satellites to orbit on predawn launch from California",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink--15-22-b1082-ocisly",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787742275
+    },
+    {
+      "title": "Xtracycle's Swoop ASM e-bike brings an automatic transmission to cargo bikes",
+      "link": "https://arstechnica.com/cars/2026/08/xtracycles-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo-bikes/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787742012
     },
     {
       "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
@@ -212,13 +247,6 @@
       "timestamp": 1787687005
     },
     {
-      "title": "Crimson Desert Is Becoming Crimson Desert Enhanced for Free",
-      "link": "https://www.ign.com/articles/crimson-desert-is-becoming-crimson-desert-enhanced-for-free",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787686210
-    },
-    {
       "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
       "link": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
       "source": "TECHCRUNCH",
@@ -359,13 +387,6 @@
       "timestamp": 1787672918
     },
     {
-      "title": "Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power",
-      "link": "https://techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787671800
-    },
-    {
       "title": "LeBron James continues to go all-in on golf with PGA Tour partnership to launch event for aspiring pro golfers",
       "link": "https://www.cbssports.com/golf/news/lebron-james-pga-tour-partnership-event-aspiring-pro-golfers/",
       "source": "CBSSPORTS",
@@ -471,13 +492,6 @@
       "timestamp": 1787634368
     },
     {
-      "title": "Watch 2 astronauts replace failed ISS antenna during spacewalk today",
-      "link": "https://www.space.com/space-exploration/international-space-station/watch-2-astronauts-replace-failed-iss-antenna-during-spacewalk-today",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787630460
-    },
-    {
       "title": "Newton’s 300-year-old law just passed its biggest test yet",
       "link": "https://www.sciencedaily.com/releases/2026/08/260823015019.htm",
       "source": "SCIENCEDAILY",
@@ -511,20 +525,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787602661
-    },
-    {
-      "title": "GM vehicles under federal scrutiny after hundreds of reports",
-      "link": "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787600570
-    },
-    {
-      "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
-      "link": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787599161
     },
     {
       "title": "Common medications may change your gut for years",
