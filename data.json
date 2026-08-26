@@ -1,6 +1,76 @@
 {
-  "last_updated": 1787748226,
+  "last_updated": 1787752308,
   "items": [
+    {
+      "title": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
+      "link": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787751781
+    },
+    {
+      "title": "Robot brain builders are pushing out of their GPT-2 era",
+      "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787751000
+    },
+    {
+      "title": "'Star Wars: Zero Company' review: XCOM-like strategically recaptures the magic of your favorite Star Wars films",
+      "link": "https://www.space.com/entertainment/space-games/star-wars-zero-company-review-xcom-like-strategically-recaptures-the-magic-of-your-favorite-star-wars-films",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787750267
+    },
+    {
+      "title": "Bluesky now lets you upload 10-minute long videos",
+      "link": "https://techcrunch.com/2026/08/26/bluesky-now-lets-you-upload-10-minute-long-videos/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787749956
+    },
+    {
+      "title": "Exclusive: LEGO Batman: Legacy of the Dark Knight Deluxe Edition - Mayhem Collection DLC Trailer Reveals The Joker and Harley Quinn Story Mission and More",
+      "link": "https://www.ign.com/articles/exclusive-lego-batman-legacy-of-the-dark-knight-deluxe-edition-mayhem-collection-dlc-trailer-reveals-the-joker-and-harley-quinn-story-mission-and-more",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787749800
+    },
+    {
+      "title": "Scientists may have found a shortcut to calorie restriction’s anti-aging benefits",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260826055508.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787749253
+    },
+    {
+      "title": "QueryStory wants you to believe what AI is telling you",
+      "link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787749200
+    },
+    {
+      "title": "Arga Labs is building a better way to train enterprise AI agents",
+      "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787748928
+    },
+    {
+      "title": "190-year-old DNA reveals a hidden pangolin species",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260826055500.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787748419
+    },
+    {
+      "title": "Manhattan-sized ice island breaks off Greenland’s Petermann Glacier",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260826055503.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787747951
+    },
     {
       "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
       "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
@@ -58,6 +128,13 @@
       "timestamp": 1787742000
     },
     {
+      "title": "NASA’s Roman Space Telescope is ready to hunt thousands of alien worlds",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260826055448.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787740157
+    },
+    {
       "title": "Inside the Nancy Grace Roman Space Telescope, NASA's next great observatory",
       "link": "https://www.space.com/astronomy/inside-the-nancy-grace-roman-space-telescope-nasas-next-great-observatory",
       "source": "SPACE",
@@ -79,6 +156,13 @@
       "timestamp": 1787735223
     },
     {
+      "title": "One asteroid strike may explain two mysteries of Mars’ moon Deimos",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260824065516.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787735148
+    },
+    {
       "title": "Atari Is Re-Releasing 39 Atari 2600 Games on Working, Physical Cartridges",
       "link": "https://www.ign.com/articles/atari-is-re-releasing-39-atari-2600-games-on-working-physical-cartridges",
       "source": "IGN",
@@ -91,6 +175,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1787729400
+    },
+    {
+      "title": "Childhood trauma may leave a lasting “scar” inside brain cells",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260823094151.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787729307
     },
     {
       "title": "Ventures Platform goes bigger — and broader — with its second Africa fund",
@@ -240,13 +331,6 @@
       "timestamp": 1787687361
     },
     {
-      "title": "Backrooms Is Officially Coming to HBO Max in September",
-      "link": "https://www.ign.com/articles/backrooms-hbo-max-streaming-release-date-confirmed",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787687005
-    },
-    {
       "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
       "link": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
       "source": "TECHCRUNCH",
@@ -296,13 +380,6 @@
       "timestamp": 1787682170
     },
     {
-      "title": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
-      "link": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787680890
-    },
-    {
       "title": "The bubbling surface of doomed supergiant star Betelgeuse has been revealed like never before",
       "link": "https://www.space.com/astronomy/stars/the-bubbling-surface-of-doomed-supergiant-star-betelgeuse-has-been-revealed-like-never-before",
       "source": "SPACE",
@@ -317,25 +394,11 @@
       "timestamp": 1787680408
     },
     {
-      "title": "Claude Cowork finally remembers what you told the app in chat",
-      "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787680233
-    },
-    {
       "title": "Two unvaccinated people die from measles in Pennsylvania, officials confirm",
       "link": "https://arstechnica.com/health/2026/08/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-confirm/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787679578
-    },
-    {
-      "title": "Waymo robotaxis are headed to Munich",
-      "link": "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787679123
     },
     {
       "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
@@ -359,13 +422,6 @@
       "timestamp": 1787677215
     },
     {
-      "title": "Life360 expands pet tracking with new $8 scannable tags and zoomie alerts",
-      "link": "https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787675700
-    },
-    {
       "title": "Lab supply companies have been selling antibodies using manipulated images",
       "link": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/",
       "source": "ARSTECHNICA",
@@ -378,13 +434,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787673877
-    },
-    {
-      "title": "That fake Grand Theft Auto VI demo is actually just malware",
-      "link": "https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787672918
     },
     {
       "title": "LeBron James continues to go all-in on golf with PGA Tour partnership to launch event for aspiring pro golfers",
@@ -408,15 +457,15 @@
       "timestamp": 1787669450
     },
     {
-      "title": "On this day in space! Aug. 25, 1997: NASA launches Advanced Composition Explorer to track solar wind and so much more",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-25-2026",
+      "title": "Astronauts make history repairing the ISS | Space photo of the day for Aug. 25, 2026",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/astronauts-make-history-repairing-the-iss-space-photo-of-the-day-for-aug-25-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787666400
     },
     {
-      "title": "Astronauts make history repairing the ISS | Space photo of the day for Aug. 25, 2026",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/astronauts-make-history-repairing-the-iss-space-photo-of-the-day-for-aug-25-2026",
+      "title": "On this day in space! Aug. 25, 1997: NASA launches Advanced Composition Explorer to track solar wind and so much more",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-25-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787666400
@@ -471,13 +520,6 @@
       "timestamp": 1787647729
     },
     {
-      "title": "What time is the partial lunar eclipse on Aug. 27-28? Here's when to see the 96% 'blood moon'",
-      "link": "https://www.space.com/stargazing/lunar-eclipses/what-time-is-the-partial-lunar-eclipse-on-aug-27-28-heres-when-to-see-the-96-percent-blood-moon",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787641200
-    },
-    {
       "title": "NASA finds Earth microbes could survive on the Moon",
       "link": "https://www.sciencedaily.com/releases/2026/08/260823094142.htm",
       "source": "SCIENCEDAILY",
@@ -525,48 +567,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787602661
-    },
-    {
-      "title": "Common medications may change your gut for years",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260824065605.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787577290
-    },
-    {
-      "title": "Bird flu is spreading. Your backyard feeder could make it worse",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260824065519.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787575748
-    },
-    {
-      "title": "A ghostly ribbon of stars reveals hidden dark matter",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260823015000.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787573974
-    },
-    {
-      "title": "Too much or too little sleep may make your body age faster",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260823094156.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787571104
-    },
-    {
-      "title": "Screen time at ages 1 and 6 may matter more than parents realize",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260823094152.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787567475
-    },
-    {
-      "title": "Scientists just imaged the hidden quantum shape of a molecule",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260822015213.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787565319
     },
     {
       "title": "Klay Thompson expected to sign with Heat after agreeing to buyout with Mavericks, per report",
