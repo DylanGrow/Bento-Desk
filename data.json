@@ -1,12 +1,68 @@
 {
-  "last_updated": 1787752308,
+  "last_updated": 1787755222,
   "items": [
+    {
+      "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+      "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787755021
+    },
+    {
+      "title": "CISA confirms hackers targeted over 100 US water systems during July",
+      "link": "https://techcrunch.com/2026/08/26/cisa-confirms-hackers-targeted-over-100-us-water-systems-during-july/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787754665
+    },
+    {
+      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+      "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787753969
+    },
+    {
+      "title": "15,000 years of solar wind in four hours? A Seattle company gives it a go.",
+      "link": "https://arstechnica.com/space/2026/08/15000-years-of-solar-wind-in-four-hours-a-seattle-company-gives-it-a-go/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787753692
+    },
+    {
+      "title": "Heat shield under fire | Space photo of the day for Aug. 26, 2026",
+      "link": "https://www.space.com/technology/heat-shield-under-fire-space-photo-of-the-day-for-aug-26-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787752800
+    },
+    {
+      "title": "On this day in space! Aug. 26, 1978: Sigmund Jähn becomes 1st German in space",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-26-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787752800
+    },
+    {
+      "title": "Psychiatry’s diagnostic bible is finally getting a biological upgrade",
+      "link": "https://arstechnica.com/health/2026/08/psychiatrys-diagnostic-bible-is-finally-getting-a-biological-upgrade/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787752412
+    },
     {
       "title": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
       "link": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1787751781
+    },
+    {
+      "title": "You Better Have The Space for LEGO's Longest Set Ever, The Star Wars Executor Super Star Destroyer",
+      "link": "https://www.ign.com/articles/you-better-have-the-space-for-legos-longest-set-ever-the-star-wars-executor-super-star-destroyer",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787751726
     },
     {
       "title": "Robot brain builders are pushing out of their GPT-2 era",
@@ -324,25 +380,11 @@
       "timestamp": 1787687724
     },
     {
-      "title": "Path of Exile 2 Release Date Sets 1.0 Launch in December 2026",
-      "link": "https://www.ign.com/articles/path-of-exile-2-release-date-sets-10-launch-in-december-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787687361
-    },
-    {
       "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
       "link": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1787685772
-    },
-    {
-      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-      "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787684627
     },
     {
       "title": "Preserving glow-in-the-dark art and fashion for future generations",
@@ -364,20 +406,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787682442
-    },
-    {
-      "title": "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
-      "link": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787682415
-    },
-    {
-      "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
-      "link": "https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787682170
     },
     {
       "title": "The bubbling surface of doomed supergiant star Betelgeuse has been revealed like never before",
@@ -492,20 +520,6 @@
       "timestamp": 1787662800
     },
     {
-      "title": "NASA satellites ace world's 1st 'lost-in-space' GPS-free navigation experiment",
-      "link": "https://www.space.com/space-exploration/satellites/nasa-satellites-ace-worlds-1st-lost-in-space-gps-free-navigation-experiment",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787659200
-    },
-    {
-      "title": "Stream 'Star Trek: Strange New Worlds' and 'Silo' securely from anywhere with 87% off Surfshark VPN",
-      "link": "https://www.space.com/technology/stream-star-trek-strange-new-worlds-and-silo-securely-from-anywhere-with-87-percent-off-surfshark-vpn",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787655610
-    },
-    {
       "title": "Atomic catalyst unlocks the hidden value of plant waste",
       "link": "https://www.sciencedaily.com/releases/2026/08/260824065601.htm",
       "source": "SCIENCEDAILY",
@@ -553,20 +567,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787607136
-    },
-    {
-      "title": "RFK Jr. may upend how vaccine recommendations are categorized",
-      "link": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787605488
-    },
-    {
-      "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
-      "link": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787602661
     },
     {
       "title": "Klay Thompson expected to sign with Heat after agreeing to buyout with Mavericks, per report",
