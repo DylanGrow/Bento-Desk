@@ -1,6 +1,104 @@
 {
-  "last_updated": 1787770557,
+  "last_updated": 1787780343,
   "items": [
+    {
+      "title": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
+      "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787780259
+    },
+    {
+      "title": "From spy satellite to space telescope: The unlikely origins of NASA's Roman Space Telescope",
+      "link": "https://www.space.com/astronomy/from-spy-satellite-to-space-telescope-the-unlikely-origins-of-nasas-roman-space-telescope",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787778000
+    },
+    {
+      "title": "Avengers: Endgame Encore Will Include Two Sneak Peeks at Doomsday, But There's a Catch",
+      "link": "https://www.ign.com/articles/avengers-endgame-encore-will-include-two-sneak-peeks-at-doomsday-but-theres-a-catch",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787777547
+    },
+    {
+      "title": "New Twitter launches, says Musk's X gave up the name",
+      "link": "https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787777344
+    },
+    {
+      "title": "NBA Summer Superlatives: Craziest contract, biggest gamble, saddest offseason, dumbest quote, more",
+      "link": "https://www.cbssports.com/nba/news/nba-summer-superlatives-craziest-contract-biggest-gamble-saddest-offseason/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1787776445
+    },
+    {
+      "title": "Meta settles states' child-safety claims for $18B; Florida rejects deal as \"peanuts\"",
+      "link": "https://arstechnica.com/tech-policy/2026/08/meta-settles-states-child-safety-claims-for-18b-florida-rejects-deal-as-peanuts/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787773852
+    },
+    {
+      "title": "Florida Catholics slap down state AG by rejecting religious vaccine exemptions",
+      "link": "https://arstechnica.com/health/2026/08/catholic-bishops-tell-florida-theres-no-religious-reason-for-vaccine-exemptions/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787773164
+    },
+    {
+      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787773054
+    },
+    {
+      "title": "How do we explain OpenAI’s executive exodus?",
+      "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787772844
+    },
+    {
+      "title": "Doom Composer Mick Gordon Contributes New Track to Warhammer 40,000: Boltgun 2",
+      "link": "https://www.ign.com/articles/doom-composer-mick-gordon-contributes-new-track-to-warhammer-40000-boltgun-2",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787772600
+    },
+    {
+      "title": "Yu-Gi-Oh x Crocs Collaboration Revealed Ahead of World Championship",
+      "link": "https://www.ign.com/articles/yu-gi-oh-crocs-collaboration-reveal",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787772054
+    },
+    {
+      "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787771962
+    },
+    {
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787771122
+    },
+    {
+      "title": "Rockstar Games Doubled in Size for GTA 6, Hired Real World Professionals for Fashion, Vehicles, and More",
+      "link": "https://www.ign.com/articles/rockstar-games-doubled-in-size-for-gta-6-hired-real-world-professionals-for-fashion-vehicles-and-more",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787769725
+    },
     {
       "title": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
       "link": "https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/",
@@ -44,6 +142,13 @@
       "timestamp": 1787766014
     },
     {
+      "title": "The Porsche 911 GT3 Touring punches above its weight class",
+      "link": "https://arstechnica.com/cars/2026/08/driven-the-992-2-porsche-911-gt3-touring-earns-its-keep/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787765153
+    },
+    {
       "title": "Grand Theft Auto 6 Will Have RPG Mechanics Like Eating, Exercising, and More",
       "link": "https://www.ign.com/articles/grand-theft-auto-6-will-have-rpg-mechanics-like-eating-exercising-and-more",
       "source": "IGN",
@@ -77,6 +182,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1787763600
+    },
+    {
+      "title": "Xbox’s new disc-to-digital program gives physical games a digital future",
+      "link": "https://arstechnica.com/gaming/2026/08/xboxs-new-disc-to-digital-program-gives-physical-games-a-digital-future/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787763581
     },
     {
       "title": "Apple is holding its iPhone launch event on September 9",
@@ -198,13 +310,6 @@
       "timestamp": 1787754665
     },
     {
-      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-      "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787753969
-    },
-    {
       "title": "15,000 years of solar wind in four hours? A Seattle company gives it a go.",
       "link": "https://arstechnica.com/space/2026/08/15000-years-of-solar-wind-in-four-hours-a-seattle-company-gives-it-a-go/",
       "source": "ARSTECHNICA",
@@ -233,13 +338,6 @@
       "timestamp": 1787752412
     },
     {
-      "title": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
-      "link": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787751781
-    },
-    {
       "title": "You Better Have The Space for LEGO's Longest Set Ever, The Star Wars Executor Super Star Destroyer",
       "link": "https://www.ign.com/articles/you-better-have-the-space-for-legos-longest-set-ever-the-star-wars-executor-super-star-destroyer",
       "source": "IGN",
@@ -247,25 +345,11 @@
       "timestamp": 1787751726
     },
     {
-      "title": "Robot brain builders are pushing out of their GPT-2 era",
-      "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787751000
-    },
-    {
       "title": "'Star Wars: Zero Company' review: XCOM-like strategically recaptures the magic of your favorite Star Wars films",
       "link": "https://www.space.com/entertainment/space-games/star-wars-zero-company-review-xcom-like-strategically-recaptures-the-magic-of-your-favorite-star-wars-films",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787750267
-    },
-    {
-      "title": "Bluesky now lets you upload 10-minute long videos",
-      "link": "https://techcrunch.com/2026/08/26/bluesky-now-lets-you-upload-10-minute-long-videos/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787749956
     },
     {
       "title": "Exclusive: LEGO Batman: Legacy of the Dark Knight Deluxe Edition - Mayhem Collection DLC Trailer Reveals the Joker and Harley Quinn Story Mission and More",
@@ -303,20 +387,6 @@
       "timestamp": 1787745600
     },
     {
-      "title": "Rockstar Games Finally Addresses Extraordinary and 'Heartbreaking' GTA 6 Leaks, Warns Players That 'Some Spoilers' May Now Impact 'The Intended Game Experience'",
-      "link": "https://www.ign.com/articles/rockstar-games-finally-addresses-extraordinary-gta-6-leaks-warns-players-that-some-spoilers-may-now-impact-the-intended-game-experience",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787744528
-    },
-    {
-      "title": "Marvel Fans Say Avengers: Endgame Encore's Extra 4 Minutes Risk Being 'Really Oversold' After Directors Insist Movie Is 'Required Viewing for Following the Story in Doomsday'",
-      "link": "https://www.ign.com/articles/marvel-fans-say-avengers-endgame-encores-extra-4-minutes-are-being-really-oversold-after-directors-insist-movie-is-required-viewing-for-following-the-story-in-doomsday",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787743127
-    },
-    {
       "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
       "link": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
       "source": "ARSTECHNICA",
@@ -350,20 +420,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787738400
-    },
-    {
-      "title": "Xbox and IKEA Furniture Collaboration Includes Thumbstick Stools, Tables, and D-Pad Accessories",
-      "link": "https://www.ign.com/articles/xbox-and-ikea-furniture-collaboration-includes-thumbstick-stools-tables-and-d-pad-accessories",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787738377
-    },
-    {
-      "title": "LEGO Super Mario Minifigure Sets Unveiled, Including Bowser's Castle and Mario Kart",
-      "link": "https://www.ign.com/articles/lego-super-mario-minifigure-sets-unveiled-including-bowsers-castle-and-mario-kart",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787735223
     },
     {
       "title": "One asteroid strike may explain two mysteries of Mars’ moon Deimos",
@@ -464,46 +520,11 @@
       "timestamp": 1787680408
     },
     {
-      "title": "Two unvaccinated people die from measles in Pennsylvania, officials confirm",
-      "link": "https://arstechnica.com/health/2026/08/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-confirm/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787679578
-    },
-    {
-      "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
-      "link": "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787678775
-    },
-    {
       "title": "Forces deep inside Earth helped Antarctica freeze before the Arctic",
       "link": "https://www.sciencedaily.com/releases/2026/08/260823094154.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1787677966
-    },
-    {
-      "title": "NASA's Roman Space Telescope will reveal the universe in a way the JWST and Hubble cannot",
-      "link": "https://www.space.com/astronomy/the-roman-space-telescope-will-reveal-the-universe-in-a-way-the-jwst-and-hubble-cannot",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787677215
-    },
-    {
-      "title": "Lab supply companies have been selling antibodies using manipulated images",
-      "link": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787674617
-    },
-    {
-      "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
-      "link": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787673877
     },
     {
       "title": "LeBron James continues to go all-in on golf with PGA Tour partnership to launch event for aspiring pro golfers",
@@ -513,25 +534,11 @@
       "timestamp": 1787670661
     },
     {
-      "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
-      "link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787670603
-    },
-    {
       "title": "Shingles vaccine linked to 24% lower dementia risk",
       "link": "https://www.sciencedaily.com/releases/2026/08/260823015013.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1787663361
-    },
-    {
-      "title": "Apple's new desktop computers are designed specifically for local AI development",
-      "link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787662811
     },
     {
       "title": "Atomic catalyst unlocks the hidden value of plant waste",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1787071428
-    },
-    {
-      "title": "Ranking college football's most expensive rosters; latest news on WRs Jordyn Tyson and Malik Nabers",
-      "link": "https://www.cbssports.com/college-football/news/college-football-most-expensive-rosters-jordon-tyson-malik-nabers/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1787063141
     }
   ]
 }
