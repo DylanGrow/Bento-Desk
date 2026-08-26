@@ -1,6 +1,13 @@
 {
-  "last_updated": 1787733497,
+  "last_updated": 1787736975,
   "items": [
+    {
+      "title": "LEGO Super Mario Minifigure Sets Unveiled, Including Bowser's Castle and Mario Kart",
+      "link": "https://www.ign.com/articles/lego-super-mario-minifigure-sets-unveiled-including-bowsers-castle-and-mario-kart",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787735223
+    },
     {
       "title": "Atari Is Re-Releasing 39 Atari 2600 Games on Working, Physical Cartridges",
       "link": "https://www.ign.com/articles/atari-is-re-releasing-39-atari-2600-games-on-working-physical-cartridges",
@@ -23,17 +30,17 @@
       "timestamp": 1787727600
     },
     {
-      "title": "Xbox Design Chief Reveals the Surprising Ikea Item That Shaped Every Console",
-      "link": "https://www.ign.com/articles/xbox-design-chief-carl-ledbetter-ikea",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787727600
-    },
-    {
       "title": "Watch the partial lunar eclipse online Aug. 27-28 with these free livestreams",
       "link": "https://www.space.com/stargazing/lunar-eclipses/how-to-watch-the-aug-27-28-2026-partial-lunar-eclipse-live-online",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1787727600
+    },
+    {
+      "title": "Xbox Design Chief Reveals the Surprising Ikea Item That Shaped Every Console",
+      "link": "https://www.ign.com/articles/xbox-design-chief-carl-ledbetter-ikea",
+      "source": "IGN",
+      "category": "gaming",
       "timestamp": 1787727600
     },
     {
@@ -212,13 +219,6 @@
       "timestamp": 1787684352
     },
     {
-      "title": "Exodus Release Date Revealed, the Mass Effect-Like RPG Is Coming in April",
-      "link": "https://www.ign.com/articles/exodus-release-date-revealed-the-mass-effect-like-rpg-is-coming-in-april",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787683563
-    },
-    {
       "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
       "link": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
       "source": "ARSTECHNICA",
@@ -373,15 +373,15 @@
       "timestamp": 1787669450
     },
     {
-      "title": "On this day in space! Aug. 25, 1997: NASA launches Advanced Composition Explorer to track solar wind and so much more",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-25-2026",
+      "title": "Astronauts make history repairing the ISS | Space photo of the day for Aug. 25, 2026",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/astronauts-make-history-repairing-the-iss-space-photo-of-the-day-for-aug-25-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787666400
     },
     {
-      "title": "Astronauts make history repairing the ISS | Space photo of the day for Aug. 25, 2026",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/astronauts-make-history-repairing-the-iss-space-photo-of-the-day-for-aug-25-2026",
+      "title": "On this day in space! Aug. 25, 1997: NASA launches Advanced Composition Explorer to track solar wind and so much more",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-25-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787666400
