@@ -1,6 +1,153 @@
 {
-  "last_updated": 1787799139,
+  "last_updated": 1787838196,
   "items": [
+    {
+      "title": "Forza Horizon 6 PS5 Launch Reportedly Scrubbed for 2026",
+      "link": "https://www.ign.com/articles/forza-horizon-6-ps5-launch-reportedly-scrubbed-for-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787836169
+    },
+    {
+      "title": "AI searched 100 million possibilities and found a cheaper way to 3D-print a NASA rocket alloy",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787836081
+    },
+    {
+      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+      "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787835600
+    },
+    {
+      "title": "'Strange New Worlds' latest episode wastes a lot of time pretending to kill off major 'Star Trek' characters",
+      "link": "https://www.space.com/entertainment/space-movies-shows/strange-new-worlds-latest-episode-wastes-a-lot-of-time-pretending-to-kill-off-major-star-trek-characters",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787835600
+    },
+    {
+      "title": "Rams jump Seahawks for top spot in NFL roster rankings; previewing 2026 Tour Championship",
+      "link": "https://www.cbssports.com/nfl/news/rams-seahawks-nfl-roster-rankings-tour-championship-golf/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1787834888
+    },
+    {
+      "title": "“I jumped from my chair” – Astronomers spot Betelgeuse’s hidden companion",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260827010514.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787834607
+    },
+    {
+      "title": "Your dislike of eating bugs may be 9,000 years old",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260827010516.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787833118
+    },
+    {
+      "title": "Top Gear Revival Confirmed, With Comedian Jimmy Carr Reportedly Tipped for Presenter Role",
+      "link": "https://www.ign.com/articles/top-gear-revival-confirmed-with-comedian-jimmy-carr-reportedly-tipped-for-presenter-role",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787832562
+    },
+    {
+      "title": "Watch powerful Ariane 6 rocket launch European weather satellite to orbit today",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/ariane-6-rocket-launch-mtg-i2-weather-satellite",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787832000
+    },
+    {
+      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+      "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787830559
+    },
+    {
+      "title": "Bentley takes us for a ride in its new EV, the Torcal",
+      "link": "https://arstechnica.com/cars/2026/08/an-ev-that-sounds-like-a-6-75-l-v8-a-ride-in-the-bentley-torcal/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1787830209
+    },
+    {
+      "title": "Project Motor Racing Adding Nine New Cars, New Track Next Month",
+      "link": "https://www.ign.com/articles/project-motor-racing-adding-nine-new-cars-new-track-next-month",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787828567
+    },
+    {
+      "title": "A mysterious cosmic hum may come from 13-billion-year-old dark stars",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260827010457.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787826364
+    },
+    {
+      "title": "Avengers: Endgame Encore Disney+ Release Looks Likely, Fans Say",
+      "link": "https://www.ign.com/articles/avengers-endgame-encore-disney-release-looks-likely-fans-say",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1787825139
+    },
+    {
+      "title": "An impressive partial lunar eclipse will turn the moon an eerie red for millions of people tonight",
+      "link": "https://www.space.com/stargazing/lunar-eclipses/an-impressive-partial-lunar-eclipse-will-turn-the-moon-an-eerie-red-for-millions-of-people-tonight-aug-27-28",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1787824800
+    },
+    {
+      "title": "Scientists switch on a strange new form of magnetism in an ultrathin material",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260826055454.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787822600
+    },
+    {
+      "title": "324-million-year-old fossil reveals how insects conquered land",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260827010455.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787815354
+    },
+    {
+      "title": "Nvidia closes in on Hugging Face acquisition",
+      "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1787812371
+    },
+    {
+      "title": "Smart nanoparticles light up brain cancer and destroy what surgery misses",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260826060617.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787809968
+    },
+    {
+      "title": "Scientists discover a brain “brake” that can shut down chronic pain",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260826055442.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787805980
+    },
+    {
+      "title": "Scientists may have finally caught “empty” space changing light",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260826055445.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787802733
+    },
     {
       "title": "Andrew Garfield’s The Uprising Sends Mixed Signals on Robin Hood Connection",
       "link": "https://www.ign.com/articles/andrew-garfield-the-uprising-robin-hood",
@@ -16,7 +163,7 @@
       "timestamp": 1787790422
     },
     {
-      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
       "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -42,6 +189,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1787787011
+    },
+    {
+      "title": "NASA just used satellites and debris to navigate without GPS",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260826055450.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1787786855
     },
     {
       "title": "Silent Hill Producer Says Konami Wants to Release a New Game in the Series Every Year",
@@ -212,13 +366,6 @@
       "timestamp": 1787768525
     },
     {
-      "title": "Apple iPhone Event Invites Have Gone Out, and I Want a Foldable iPhone",
-      "link": "https://www.ign.com/articles/apple-iphone-event-invites-have-gone-out-and-i-want-a-foldable-iphone",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787767201
-    },
-    {
       "title": "Astronomers discover hot watery exoplanet destined to be swallowed by its star",
       "link": "https://www.space.com/astronomy/exoplanets/astronomers-discover-hot-watery-exoplanet-destined-to-be-swallowed-by-its-star",
       "source": "SPACE",
@@ -226,25 +373,11 @@
       "timestamp": 1787767200
     },
     {
-      "title": "Fans Mourn Tim Curry After Legendary Actor Dies at 80 Years Old",
-      "link": "https://www.ign.com/articles/fans-mourn-tim-curry-after-legendary-actor-dies-at-80-years-old",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787766014
-    },
-    {
       "title": "The Porsche 911 GT3 Touring punches above its weight class",
       "link": "https://arstechnica.com/cars/2026/08/driven-the-992-2-porsche-911-gt3-touring-earns-its-keep/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787765153
-    },
-    {
-      "title": "Grand Theft Auto 6 Will Have RPG Mechanics Like Eating, Exercising, and More",
-      "link": "https://www.ign.com/articles/grand-theft-auto-6-will-have-rpg-mechanics-like-eating-exercising-and-more",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787764257
     },
     {
       "title": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
@@ -265,13 +398,6 @@
       "link": "https://www.space.com/stargazing/solar-eclipses/a-black-star-in-a-false-spanish-twilight-heres-the-story-of-my-1st-total-solar-eclipse",
       "source": "SPACE",
       "category": "space",
-      "timestamp": 1787763600
-    },
-    {
-      "title": "The Division 2: Echoes of Central Park Announced",
-      "link": "https://www.ign.com/articles/the-division-2-echoes-of-central-park-announced",
-      "source": "IGN",
-      "category": "gaming",
       "timestamp": 1787763600
     },
     {
@@ -296,25 +422,11 @@
       "timestamp": 1787760194
     },
     {
-      "title": "What’s driving Sweden’s startup boom, from Lovable to Legora",
-      "link": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787760000
-    },
-    {
       "title": "Massive space mirrors could be 40 times brighter than the full moon, astronomers warn. 'It will be worse than big cities like London'",
       "link": "https://www.space.com/space-exploration/satellites/massive-space-mirrors-could-be-40-times-brighter-than-the-full-moon-astronomers-warn-it-will-be-worse-than-big-cities-like-london",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787760000
-    },
-    {
-      "title": "Radar makes podcasts searchable — and usable by AI agents",
-      "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787759248
     },
     {
       "title": "Court blocks Trump FCC order that could flood broadcast TV with more election ads",
@@ -329,13 +441,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787756434
-    },
-    {
-      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-      "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787756400
     },
     {
       "title": "Chance gaze at old Hubble Telescope image leads to discovery that could reveal dark matter's secrets",
@@ -373,7 +478,7 @@
       "timestamp": 1787752412
     },
     {
-      "title": "'Star Wars: Zero Company' review: XCOM-like strategically recaptures the magic of your favorite Star Wars films",
+      "title": "'Star Wars: Zero Company' recaptures the magic of your favorite Star Wars films (review)",
       "link": "https://www.space.com/entertainment/space-games/star-wars-zero-company-review-xcom-like-strategically-recaptures-the-magic-of-your-favorite-star-wars-films",
       "source": "SPACE",
       "category": "space",
@@ -457,25 +562,11 @@
       "timestamp": 1787729307
     },
     {
-      "title": "Watch the partial lunar eclipse online Aug. 27-28 with these free livestreams",
+      "title": "Watch the partial lunar eclipse online tonight with these free livestreams",
       "link": "https://www.space.com/stargazing/lunar-eclipses/how-to-watch-the-aug-27-28-2026-partial-lunar-eclipse-live-online",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787727600
-    },
-    {
-      "title": "Your genes may decide whether a low-carb diet sends cholesterol soaring",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260823015009.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787707910
-    },
-    {
-      "title": "Three forgotten kings could rewrite the history of ancient Assyria",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260824065549.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787707206
     },
     {
       "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
@@ -492,95 +583,11 @@
       "timestamp": 1787691600
     },
     {
-      "title": "World humanoid robot games show runners breaking records, bursting into flames",
-      "link": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787691543
-    },
-    {
-      "title": "'Aliens: The Video Games' author Mike Diver on overlooked Alien games, tracking down retro game developers, and the future of the Xenomorph (interview)",
-      "link": "https://www.space.com/entertainment/space-books/aliens-the-video-games-author-mike-diver-on-overlooked-alien-games-tracking-down-retro-game-developers-and-the-future-of-the-xenomorph-interview",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787688000
-    },
-    {
-      "title": "Starbase Louisiana: SpaceX announces enormous $100 billion Starbase launch site",
-      "link": "https://www.space.com/space-exploration/private-spaceflight/spacex-announces-enormous-usd100-billion-starbase-louisiana-starship-launch-site",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787682442
-    },
-    {
-      "title": "The bubbling surface of doomed supergiant star Betelgeuse has been revealed like never before",
-      "link": "https://www.space.com/astronomy/stars/the-bubbling-surface-of-doomed-supergiant-star-betelgeuse-has-been-revealed-like-never-before",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787680800
-    },
-    {
-      "title": "Your brain may not actually “make” decisions",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260823094148.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787680408
-    },
-    {
-      "title": "Forces deep inside Earth helped Antarctica freeze before the Arctic",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260823094154.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787677966
-    },
-    {
       "title": "LeBron James continues to go all-in on golf with PGA Tour partnership to launch event for aspiring pro golfers",
       "link": "https://www.cbssports.com/golf/news/lebron-james-pga-tour-partnership-event-aspiring-pro-golfers/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1787670661
-    },
-    {
-      "title": "Shingles vaccine linked to 24% lower dementia risk",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260823015013.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787663361
-    },
-    {
-      "title": "Atomic catalyst unlocks the hidden value of plant waste",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260824065601.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787652555
-    },
-    {
-      "title": "Scientists find hidden “highways” guiding animal evolution",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260824065514.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787647729
-    },
-    {
-      "title": "NASA finds Earth microbes could survive on the Moon",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260823094142.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787639418
-    },
-    {
-      "title": "Depression may shut down the brain’s ability to make new neurons",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260823094135.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787634368
-    },
-    {
-      "title": "Newton’s 300-year-old law just passed its biggest test yet",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260823015019.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787622546
     },
     {
       "title": "Klay Thompson expected to sign with Heat after agreeing to buyout with Mavericks, per report",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1787084859
-    },
-    {
-      "title": "Basketball Hall of Fame predictions: Projecting HOF fates for six NBA veterans on the bubble",
-      "link": "https://www.cbssports.com/nba/news/basketball-hall-of-fame-predictions-projecting-hof-fates-six-veterans/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1787074048
     }
   ]
 }
