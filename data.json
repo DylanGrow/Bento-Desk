@@ -1,6 +1,90 @@
 {
-  "last_updated": 1788000261,
+  "last_updated": 1788017244,
   "items": [
+    {
+      "title": "This Week In Space podcast: Episode 225 — Get a Grip!",
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-225-get-a-grip",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788015834
+    },
+    {
+      "title": "When is the next lunar eclipse?",
+      "link": "https://www.space.com/stargazing/lunar-eclipses/when-is-the-next-lunar-eclipse",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788015600
+    },
+    {
+      "title": "On this day in space! Aug. 29, 1965: NASA's Gemini 5 breaks spaceflight duration record after 2 astronauts spent '8 days in a garbage can'",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-29-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788012852
+    },
+    {
+      "title": "The Theragun Sense makes everyday recovery surprisingly easy",
+      "link": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788012000
+    },
+    {
+      "title": "SpaceX test-fires Starship Super Heavy booster ahead of critical Flight 14 (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-test-fires-starship-super-heavy-booster-ahead-of-key-test-flight",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788012000
+    },
+    {
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788008400
+    },
+    {
+      "title": "Dogs may hold surprising clues to human longevity",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260828082341.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788007675
+    },
+    {
+      "title": "Scientists turn one of the hardest plastics to recycle into high-performance engine lubricant",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260828005220.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788006281
+    },
+    {
+      "title": "Meeting Nancy Grace Roman: What was the 'mother of Hubble' really like?",
+      "link": "https://www.space.com/space-exploration/meeting-nancy-grace-roman-what-was-the-mother-of-hubble-really-like",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788004800
+    },
+    {
+      "title": "The universe is still speeding up, but nobody knows why",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260828082325.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788003690
+    },
+    {
+      "title": "Long-term melatonin use linked to 90% higher heart failure risk",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788000740
+    },
+    {
+      "title": "I asked 100 companies for my data. Some deleted it instead.",
+      "link": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788000631
+    },
     {
       "title": "Australia’s red soil may be hiding a massive clean energy source",
       "link": "https://www.sciencedaily.com/releases/2026/08/260829035214.htm",
@@ -380,13 +464,6 @@
       "timestamp": 1787919666
     },
     {
-      "title": "President Trump gives Artemis II moon astronauts the Congressional Space Medal of Honor",
-      "link": "https://www.space.com/space-exploration/artemis/trump-gives-artemis-ii-moon-astronauts-congressional-space-medal-of-honor",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787918400
-    },
-    {
       "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
       "link": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
       "source": "ARSTECHNICA",
@@ -399,13 +476,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787914839
-    },
-    {
-      "title": "Partial lunar eclipse stuns skywatchers with an ‘almost blood moon’. Here are the best photos",
-      "link": "https://www.space.com/stargazing/lunar-eclipses/partial-lunar-eclipse-stuns-skywatchers-with-an-almost-blood-moon-here-are-the-best-photos",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787911200
     },
     {
       "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
@@ -443,32 +513,11 @@
       "timestamp": 1787888909
     },
     {
-      "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
-      "link": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787882564
-    },
-    {
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787872605
-    },
-    {
       "title": "Anthropic's new hardware standard lets AI agents control the physical world",
       "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787868943
-    },
-    {
-      "title": "James Webb Space Telescope observes 72 stars and finds planet formation is a race against time",
-      "link": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-observes-72-stars-and-finds-planet-formation-is-a-race-against-time",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787864400
     },
     {
       "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
@@ -492,32 +541,11 @@
       "timestamp": 1787860522
     },
     {
-      "title": "Astronaut Jonny Kim leaves NASA, will return to active military duty",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/astronaut-jonny-kim-leaves-nasa-will-return-to-active-military-duty",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787857365
-    },
-    {
       "title": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
       "link": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787857028
-    },
-    {
-      "title": "After failure of private rescue mission, NASA's Swift space telescope will crash back to Earth. But when and where?",
-      "link": "https://www.space.com/space-exploration/missions/after-failure-of-private-rescue-mission-nasas-swift-space-telescope-will-crash-back-to-earth-but-when-and-where",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787853600
-    },
-    {
-      "title": "The iconic T-38 jets flown by astronauts just got a spiffy new look",
-      "link": "https://arstechnica.com/space/2026/08/nasa-t-38-astronaut-training-jet-gets-new-artemis-look/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787851585
     },
     {
       "title": "AI searched 100 million possibilities and found a cheaper way to 3D-print a NASA rocket alloy",
@@ -539,34 +567,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1787834607
-    },
-    {
-      "title": "Your dislike of eating bugs may be 9,000 years old",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260827010516.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787833118
-    },
-    {
-      "title": "A mysterious cosmic hum may come from 13-billion-year-old dark stars",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260827010457.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787826364
-    },
-    {
-      "title": "Scientists switch on a strange new form of magnetism in an ultrathin material",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260826055454.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787822600
-    },
-    {
-      "title": "324-million-year-old fossil reveals how insects conquered land",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260827010455.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787815354
     },
     {
       "title": "Jonathan Kuminga reportedly signs with Timberwolves, choosing short-term deal over more lucrative Lakers offer",
