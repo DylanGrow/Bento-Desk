@@ -1,12 +1,89 @@
 {
-  "last_updated": 1788096601,
+  "last_updated": 1788112367,
   "items": [
+    {
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788108865
+    },
+    {
+      "title": "GTA 6 Fans Think They Found Jason and Lucia's Vice City Apartment in Real Life",
+      "link": "https://www.ign.com/articles/gta-6-fans-think-they-found-jason-and-lucias-vice-city-apartment-in-real-life",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788107276
+    },
+    {
+      "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+      "link": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788105780
+    },
+    {
+      "title": "1.4-million-year-old footprints reveal a surprisingly large human relative",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035221.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788103026
+    },
+    {
+      "title": "This strange “spacetime crystal” can suddenly become a black hole",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035225.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788102309
+    },
+    {
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788102000
+    },
+    {
+      "title": "On this day in space! Aug. 30, 1992: Astronomers discover 1st Kuiper Belt object out beyond Pluto",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-30-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788101472
+    },
+    {
+      "title": "HEPA air purifiers may boost brain function after just one month",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788096834
+    },
+    {
+      "title": "Hundreds of hidden earthquakes found at Antarctica’s Doomsday Glacier",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035328.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788095237
+    },
     {
       "title": "Liftoff! NASA's Roman Space Telescope soars to the stars on a SpaceX Falcon Heavy rocket in spectacular launch (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/nasa-roman-space-telescope-launch-success-on-a-spacex-falcon-heavy-rocket-spectacular-launch-video",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788094617
+    },
+    {
+      "title": "Scientists discover a massive heat anomaly deep inside Mars",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260828082336.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788092879
+    },
+    {
+      "title": "A new recipe unlocks “impossible” nanocrystals for LEDs, implants, and superconductors",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260827010510.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788090332
     },
     {
       "title": "Inside Meta’s push to put robots to work in data centers",
@@ -16,11 +93,53 @@
       "timestamp": 1788087827
     },
     {
+      "title": "Seven new frog species were hiding beneath Madagascar’s forest floor",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260828082347.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788085739
+    },
+    {
+      "title": "Ancient Egyptian princesses were buried with weapons. Their bones reveal why",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260828082348.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788082218
+    },
+    {
+      "title": "Researchers unveil sustainable spirulina solution to vitamin B12 deficiency",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035227.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788067025
+    },
+    {
+      "title": "The next Cascadia megaquake could hit Oregon harder than expected",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260828082350.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788063130
+    },
+    {
+      "title": "Some signs of quantum gravity may be an illusion",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260828005226.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788058720
+    },
+    {
       "title": "The Pokémon Company on PokémonXP's Lottery System, Long Lines, and Limited Access to Workshops",
       "link": "https://www.ign.com/articles/the-pokmon-company-on-pokmonxps-lottery-system-long-lines-and-limited-access-to-workshops",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1788057759
+    },
+    {
+      "title": "A cancer therapy put severe rheumatoid arthritis into remission",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260828082330.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788053293
     },
     {
       "title": "NASA's Roman Space Telescope is ready for launch aboard SpaceX Falcon Heavy rocket",
@@ -177,13 +296,6 @@
       "timestamp": 1788000631
     },
     {
-      "title": "Australia’s red soil may be hiding a massive clean energy source",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829035214.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787997943
-    },
-    {
       "title": "Who was Nancy Grace Roman? NASA's next big space telescope is named after the 'Mother of Hubble'",
       "link": "https://www.space.com/space-exploration/who-was-nancy-grace-roman-nasas-next-big-space-telescope-is-named-after-the-mother-of-hubble",
       "source": "SPACE",
@@ -196,20 +308,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1787997027
-    },
-    {
-      "title": "Your sleep may be hiding an early clue to Alzheimer’s",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260828005218.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787975137
-    },
-    {
-      "title": "Scientists discover why damaged nerves struggle to heal",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260828005427.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787972346
     },
     {
       "title": "The Pokémon Company Looks to Smart Device Integrations as Future Targets",
@@ -373,13 +471,6 @@
       "timestamp": 1787940000
     },
     {
-      "title": "Grand Theft Auto 6 Is Already Bringing Back Characters from GTA 5",
-      "link": "https://www.ign.com/articles/grand-theft-auto-6-is-already-bringing-back-characters-from-gta-5",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787939013
-    },
-    {
       "title": "Here's what we know about the \"space academy\" Trump just announced",
       "link": "https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/",
       "source": "ARSTECHNICA",
@@ -422,60 +513,11 @@
       "timestamp": 1787932800
     },
     {
-      "title": "More Americans oppose police license plate cameras than support them: survey",
-      "link": "https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787932678
-    },
-    {
       "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
       "link": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787931744
-    },
-    {
-      "title": "Friend-focused photo-sharing app Retro snags $21M",
-      "link": "https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787931303
-    },
-    {
-      "title": "SpaceX Falcon Heavy rocket launching NASA's Roman Space Telescope on Aug. 30: How to watch it live",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-heavy-rocket-launching-nasas-roman-space-telescope-on-aug-30-how-to-watch-it-live",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787929200
-    },
-    {
-      "title": "Apple TV is raising its subscription prices again",
-      "link": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787927808
-    },
-    {
-      "title": "Experimental eye drops help blind mice see again",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260828005224.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787926906
-    },
-    {
-      "title": "NASA’s Roman telescope will see 100 times more sky than Hubble",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260828082333.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787925293
-    },
-    {
-      "title": "Chimpanzees have been hurling rocks at the same trees for more than a decade",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260826055506.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787922431
     },
     {
       "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
@@ -490,34 +532,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787914839
-    },
-    {
-      "title": "Scientists tested 212 plant-based meat alternatives. Every one contained fungal toxins",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260828005216.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787907711
-    },
-    {
-      "title": "Scientists tracked 4,500 animals and found a surprising human effect",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260827010517.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787894524
-    },
-    {
-      "title": "Why scientists asked 1,000 people to bury their underwear",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260827010501.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787890996
-    },
-    {
-      "title": "Scientists find a huge hidden ice reservoir beneath Utah’s mountains",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260827010459.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787888909
     },
     {
       "title": "Anthropic's new hardware standard lets AI agents control the physical world",
@@ -548,25 +562,11 @@
       "timestamp": 1787860522
     },
     {
-      "title": "AI searched 100 million possibilities and found a cheaper way to 3D-print a NASA rocket alloy",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787836081
-    },
-    {
       "title": "Rams jump Seahawks for top spot in NFL roster rankings; previewing 2026 Tour Championship",
       "link": "https://www.cbssports.com/nfl/news/rams-seahawks-nfl-roster-rankings-tour-championship-golf/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1787834888
-    },
-    {
-      "title": "“I jumped from my chair” – Astronomers spot Betelgeuse’s hidden companion",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260827010514.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1787834607
     },
     {
       "title": "Jonathan Kuminga reportedly signs with Timberwolves, choosing short-term deal over more lucrative Lakers offer",
