@@ -1,6 +1,48 @@
 {
-  "last_updated": 1788112367,
+  "last_updated": 1788121814,
   "items": [
+    {
+      "title": "Trump calls in to NASA press conference to celebrate launch of Roman Space Telescope, a mission he tried to cancel",
+      "link": "https://www.space.com/space-exploration/trump-calls-in-to-nasa-press-conference-to-celebrate-launch-of-roman-space-telescope-a-mission-he-tried-to-cancel",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788116400
+    },
+    {
+      "title": "Star Wars and Jurassic Park VFX Legend Phil Tippett Closes Studio and Auctions Memorabilia",
+      "link": "https://www.ign.com/articles/phil-tippett-studio-closure-auction",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788115826
+    },
+    {
+      "title": "'What a glorious dawn launch': Why the Roman Space Telescope's picture-perfect liftoff beyond Earth is such a big deal",
+      "link": "https://www.space.com/astronomy/what-a-glorious-dawn-launch-why-the-roman-space-telescopes-picture-perfect-liftoff-beyond-earth-is-such-a-big-deal",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788115499
+    },
+    {
+      "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
+      "link": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788114824
+    },
+    {
+      "title": "Fable's Main Quest Will Take About 20 Hours to Beat",
+      "link": "https://www.ign.com/articles/fables-main-quest-will-take-about-20-hours-to-beat",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788113218
+    },
+    {
+      "title": "Why it matters that President Trump just dialed into a NASA news conference",
+      "link": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788111630
+    },
     {
       "title": "Musk’s faster path to more gas turbines comes with pollution problem",
       "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
@@ -408,13 +450,6 @@
       "timestamp": 1787946152
     },
     {
-      "title": "Rockstar Approached Netflix for Exclusive GTA 6 Extended Look, Not the Other Way Around",
-      "link": "https://www.ign.com/articles/rockstar-approached-netflix-for-exclusive-gta-6-extended-look-not-the-other-way-around",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787946015
-    },
-    {
       "title": "An Anthropic researcher just gave us a peek at self-improving AI",
       "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
       "source": "TECHCRUNCH",
@@ -441,13 +476,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1787942674
-    },
-    {
-      "title": "Pokémon Tales: The Misadventures of Sirfetch’d and Pichu Will Be Exclusive to Disney+",
-      "link": "https://www.ign.com/articles/pokemon-tales-the-misadventures-of-sirfetchd-and-pichu-will-be-exclusive-to-disney",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787942351
     },
     {
       "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
@@ -485,32 +513,11 @@
       "timestamp": 1787937833
     },
     {
-      "title": "How Sweden built one of Europe’s hottest startup ecosystems",
-      "link": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1787936945
-    },
-    {
-      "title": "Relive private Chinese rocket's explosive 1st landing attempt (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/relive-private-chinese-rockets-explosive-1st-landing-attempt-video",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787936400
-    },
-    {
       "title": "Our 10 favorite scenes from T2: Judgment Day",
       "link": "https://arstechnica.com/culture/2026/08/our-10-favorite-scenes-from-t2-judgment-day/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787935487
-    },
-    {
-      "title": "On Cloud 9: Have astronomers discovered the first starless galaxy?",
-      "link": "https://www.space.com/astronomy/galaxies/on-cloud-9-have-astronomers-discovered-the-first-starless-galaxy",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787932800
     },
     {
       "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
@@ -553,13 +560,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787861170
-    },
-    {
-      "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
-      "link": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787860522
     },
     {
       "title": "Rams jump Seahawks for top spot in NFL roster rankings; previewing 2026 Tour Championship",
