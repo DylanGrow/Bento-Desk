@@ -1,6 +1,20 @@
 {
-  "last_updated": 1788041878,
+  "last_updated": 1788051621,
   "items": [
+    {
+      "title": "NASA's Roman Space Telescope is ready for launch aboard SpaceX Falcon Heavy rocket",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-is-ready-for-launch-aboard-spacex-falcon-heavy-rocket",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788043458
+    },
+    {
+      "title": "GTA 6 Will Have No Microtransactions or Generative AI at Launch, Rockstar Says",
+      "link": "https://www.ign.com/articles/gta-6-will-have-no-microtransactions-or-generative-ai-at-launch-rockstar-says",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788041768
+    },
     {
       "title": "EA Motive's Iron Man Game Reveal 'Didn't Go as Planned,' But the Leak Has Marvel Fans More Excited Than Ever",
       "link": "https://www.ign.com/articles/ea-motives-iron-man-game-reveal-didnt-go-as-planned-but-the-leak-has-marvel-fans-more-excited-than-ever",
@@ -352,13 +366,6 @@
       "timestamp": 1787938826
     },
     {
-      "title": "Capcom Is Making Life-Sized Statues of Lady Dimitrescu and Albert Wesker, and the Internet Is Being Totally Normal About It",
-      "link": "https://www.ign.com/articles/capcom-is-making-life-sized-statues-of-lady-dimitrescu-and-albert-wesker-and-the-internet-is-being-totally-normal-about-it",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1787938776
-    },
-    {
       "title": "Here's what we know about the \"space academy\" Trump just announced",
       "link": "https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/",
       "source": "ARSTECHNICA",
@@ -448,13 +455,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1787926906
-    },
-    {
-      "title": "Curiosity climbs to new heights on Mars | Space photo of the day for Aug. 28, 2026",
-      "link": "https://www.space.com/space-exploration/mars-rovers/curiosity-climbs-to-new-heights-on-mars-space-photo-of-the-day-for-aug-28-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787925600
     },
     {
       "title": "NASA’s Roman telescope will see 100 times more sky than Hubble",
