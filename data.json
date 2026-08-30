@@ -1,6 +1,20 @@
 {
-  "last_updated": 1788076160,
+  "last_updated": 1788096601,
   "items": [
+    {
+      "title": "Liftoff! NASA's Roman Space Telescope soars to the stars on a SpaceX Falcon Heavy rocket in spectacular launch (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasa-roman-space-telescope-launch-success-on-a-spacex-falcon-heavy-rocket-spectacular-launch-video",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788094617
+    },
+    {
+      "title": "Inside Meta’s push to put robots to work in data centers",
+      "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788087827
+    },
     {
       "title": "The Pokémon Company on PokémonXP's Lottery System, Long Lines, and Limited Access to Workshops",
       "link": "https://www.ign.com/articles/the-pokmon-company-on-pokmonxps-lottery-system-long-lines-and-limited-access-to-workshops",
@@ -247,7 +261,7 @@
       "timestamp": 1787956968
     },
     {
-      "title": "What time will SpaceX launch NASA's Roman Space Telscope on Aug. 30? (Full mission timeline)",
+      "title": "What time will SpaceX launch NASA's Roman Space Telescope today? (Full mission timeline)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-roman-space-telescope-falcon-heavy-launch-what-time",
       "source": "SPACE",
       "category": "space",
@@ -443,13 +457,6 @@
       "timestamp": 1787927808
     },
     {
-      "title": "On this day in space! Aug. 28, 1993: Galileo spacecraft flies by asteroid Ida on the way to Jupiter only to find a tiny moon!",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-28-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1787927111
-    },
-    {
       "title": "Experimental eye drops help blind mice see again",
       "link": "https://www.sciencedaily.com/releases/2026/08/260828005224.htm",
       "source": "SCIENCEDAILY",
@@ -539,13 +546,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1787860522
-    },
-    {
-      "title": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
-      "link": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787857028
     },
     {
       "title": "AI searched 100 million possibilities and found a cheaper way to 3D-print a NASA rocket alloy",
