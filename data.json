@@ -1,12 +1,75 @@
 {
-  "last_updated": 1788215028,
+  "last_updated": 1788226591,
   "items": [
+    {
+      "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
+      "link": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788222600
+    },
+    {
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788221580
+    },
+    {
+      "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund",
+      "link": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788219670
+    },
+    {
+      "title": "AMC Theaters Launches Its Own Film Distribution Company As Small Budget Movies Soar",
+      "link": "https://www.ign.com/articles/amc-theaters-launches-its-own-film-distribution-company-as-small-budget-movies-soar",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788219008
+    },
+    {
+      "title": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
+      "link": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788218054
+    },
+    {
+      "title": "Gal Gadot Says James Gunn and Peter Safran Told Her Wonder Woman 3 Was Happening Before Its Messy Cancellation",
+      "link": "https://www.ign.com/articles/gal-gadot-says-james-gunn-and-peter-safran-told-her-wonder-woman-3-was-happening-before-its-messy-cancellation",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788217989
+    },
+    {
+      "title": "The Bentley Supersports: A stripped-out engineer's indulgence",
+      "link": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788217276
+    },
+    {
+      "title": "PlayStation Is Set to Pay Out $7.85 Billion to Users as Part of Class-Action Lawsuit",
+      "link": "https://www.ign.com/articles/playstation-is-set-to-pay-out-785-billion-to-users-as-part-of-class-action-lawsuit",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788215470
+    },
     {
       "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
       "link": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1788214445
+    },
+    {
+      "title": "'Take My Money Now' — Viral Game Lets Your Giant Pet Cat Join You in Combat, and Players Can't Wait",
+      "link": "https://www.ign.com/articles/take-my-money-now-viral-game-lets-your-giant-pet-cat-join-you-in-combat-and-players-cant-wait",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788213610
     },
     {
       "title": "Call of Duty: Modern Warfare 4 Developers Address Time to Kill Criticisms and Tweak Weapons in New Beta Update",
@@ -23,6 +86,13 @@
       "timestamp": 1788211943
     },
     {
+      "title": "Trump admin shelves Cyclospora research despite record-breaking outbreak",
+      "link": "https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788211389
+    },
+    {
       "title": "RIP to Disney+'s Live-Action Gargoyles Reboot",
       "link": "https://www.ign.com/articles/rip-to-disney-pluss-live-action-gargoyles-reboot",
       "source": "IGN",
@@ -35,6 +105,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1788210943
+    },
+    {
+      "title": "Get in on the Ars community that doesn’t fit beneath an article",
+      "link": "https://arstechnica.com/staff/2026/08/get-in-on-the-ars-community-that-doesnt-fit-beneath-an-article/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788210721
     },
     {
       "title": "NASA's doomed Swift space telescope restarts science work after rescue mission fails",
@@ -219,13 +296,6 @@
       "timestamp": 1788195216
     },
     {
-      "title": "Sony Reveals Live TV on PS5, Free With Ads Starting Today",
-      "link": "https://www.ign.com/articles/sony-reveals-live-tv-on-ps5-free-with-ads-starting-today",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788194447
-    },
-    {
       "title": "Think twice before installing this device promising free movies",
       "link": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
       "source": "ARSTECHNICA",
@@ -233,39 +303,11 @@
       "timestamp": 1788194018
     },
     {
-      "title": "Ubisoft May Have Accidentally Revealed the Next Nintendo Direct Date Thanks to a Just Dance Leak",
-      "link": "https://www.ign.com/articles/ubisoft-may-have-accidentally-revealed-the-next-nintendo-direct-date-thanks-to-a-just-dance-leak",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788193197
-    },
-    {
-      "title": "LEGO Officially Reveals Wallace & Gromit-Themed Set",
-      "link": "https://www.ign.com/articles/lego-ideas-wallace-and-gromit-set-reveal",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788192561
-    },
-    {
-      "title": "VLC crosses 7 billion downloads",
-      "link": "https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788192466
-    },
-    {
       "title": "El Niño is now stronger than at any point in the last 1,000 years, study finds",
       "link": "https://arstechnica.com/science/2026/08/el-nino-is-now-stronger-than-at-any-point-in-the-last-1000-years-study-finds/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1788192284
-    },
-    {
-      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-      "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788192000
     },
     {
       "title": "What's next for Roman Space Telescope? Here's how NASA's flagship observatory will open up the universe",
@@ -280,27 +322,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1788190412
-    },
-    {
-      "title": "How AI could make it harder for governments to use hacking tools",
-      "link": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788189572
-    },
-    {
-      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788189325
-    },
-    {
-      "title": "Housemarque Co-Founder Ilari Kuittinen Announces Exit from Saros Developer After 31 Years",
-      "link": "https://www.ign.com/articles/housemarque-co-founder-ilari-kuittinen-announces-exit-from-saros-developer-after-31-years",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788188513
     },
     {
       "title": "SpaceX, NASA delay next astronaut launch to ISS due to leak on Dragon spacecraft",
@@ -408,7 +429,7 @@
       "timestamp": 1788149633
     },
     {
-      "title": "Watch Rocket Lab launch Japanese radar satellite to orbit early on Sept. 1",
+      "title": "Watch Rocket Lab launch Japanese radar satellite to orbit early on Sept. 2",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-japanese-radar-satellite-to-orbit-early-aug-31",
       "source": "SPACE",
       "category": "space",
@@ -546,27 +567,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788015600
-    },
-    {
-      "title": "I asked 100 companies for my data. Some deleted it instead.",
-      "link": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788000631
-    },
-    {
-      "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
-      "link": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787955292
-    },
-    {
-      "title": "Cities terminate Flock contracts at record pace in August",
-      "link": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1787952834
     },
     {
       "title": "Rams jump Seahawks for top spot in NFL roster rankings; previewing 2026 Tour Championship",
