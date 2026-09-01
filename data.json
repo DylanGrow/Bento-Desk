@@ -1,6 +1,97 @@
 {
-  "last_updated": 1788246757,
+  "last_updated": 1788267763,
   "items": [
+    {
+      "title": "Mindfulness may lower blood pressure in just 8 weeks",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260901010721.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788267521
+    },
+    {
+      "title": "Scientists discover why snake embryos twist into spirals",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260901070516.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788266296
+    },
+    {
+      "title": "Reaching 90 without dementia doesn’t mean you’re in the clear",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829235953.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788264582
+    },
+    {
+      "title": "'I Don't Think There's Any Plan': Kit Harington Gives Disappointing Update on His Marvel Future as Black Knight",
+      "link": "https://www.ign.com/articles/i-dont-think-theres-any-plan-kit-harington-gives-disappointing-update-on-his-marvel-future-as-black-knight",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788261288
+    },
+    {
+      "title": "Without new landers or rovers, it's helicopters or bust for NASA's Mars program",
+      "link": "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788260435
+    },
+    {
+      "title": "A massive plume deep beneath Africa is pulling the continent apart",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260831015210.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788259270
+    },
+    {
+      "title": "After Being Ditched by Xbox, Double Fine Says It'll Make Brütal Legend 2 If Its Amnesia Fortnight 2026 Kickstarter Raises an Impossible-Sounding $100 Million",
+      "link": "https://www.ign.com/articles/after-being-ditched-by-xbox-double-fine-says-itll-make-brtal-legend-2-if-its-amnesia-fortnight-2026-kickstarter-raises-an-impossible-sounding-100-million",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788257999
+    },
+    {
+      "title": "Private group wants to launch \"cheapest possible\" mission to Alpha Centauri",
+      "link": "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788256833
+    },
+    {
+      "title": "If space data centers feel far-fetched, why not interstellar travel?",
+      "link": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788256800
+    },
+    {
+      "title": "The Studio Behind Hit New Star Wars Game Zero Company Quietly Furloughed 'Most' Staff Just Before Launch",
+      "link": "https://www.ign.com/articles/the-studio-behind-hit-new-star-wars-game-zero-company-quietly-furloughed-most-staff-just-before-launch",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788255296
+    },
+    {
+      "title": "'Orbitals' is a co-op sci-fi adventure that recaptures the magic of Saturday morning cartoons",
+      "link": "https://www.space.com/entertainment/space-games/orbitals-is-a-co-op-sci-fi-adventure-that-recaptures-the-magic-of-saturday-morning-cartoons",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788253200
+    },
+    {
+      "title": "NASA’s Swift telescope is back, but time is running out",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260901010702.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788241434
+    },
+    {
+      "title": "NASA delays Crew-13 launch after leak found on SpaceX Dragon",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260901010705.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788240817
+    },
     {
       "title": "IGN Australia and Chupa Chups to Host a Retro Gaming ‘Fun House’ Activation at Westfield Parramatta This October",
       "link": "https://www.ign.com/articles/chupa-chups-forever-fun-house",
@@ -21,6 +112,13 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788235500
+    },
+    {
+      "title": "Scientists find a human-only gene that may help explain our brainpower",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260831015141.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788234880
     },
     {
       "title": "Duane Davis Found Guilty in Murder of Tupac Shakur",
@@ -233,13 +331,6 @@
       "timestamp": 1788202421
     },
     {
-      "title": "Godzilla: Destroy All Monsters Melee Remastered Dev Says GTA 6 Was 'Never Part of Our Thinking' When Choosing a Release Date",
-      "link": "https://www.ign.com/articles/godzilla-destroy-all-monsters-melee-remastered-dev-says-gta-6-was-never-part-of-our-thinking-when-choosing-a-release-date",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788201935
-    },
-    {
       "title": "Trump tells FCC to punish journalist for calling his election results \"mixed\"",
       "link": "https://arstechnica.com/tech-policy/2026/08/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed/",
       "source": "ARSTECHNICA",
@@ -252,13 +343,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1788201311
-    },
-    {
-      "title": "PlayStation Claims Digital Games Are Not Really Owned by Players in Response to Class-Action Lawsuit",
-      "link": "https://www.ign.com/articles/playstation-claims-digital-games-are-not-really-owned-by-players-in-response-to-class-action-lawsuit",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788200695
     },
     {
       "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
@@ -280,20 +364,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1788199769
-    },
-    {
-      "title": "GTA 6's Relationship Mechanic Is 'Cheating' on Your Real-Life Partner and Break Up Worthy, According to Angry Spouses",
-      "link": "https://www.ign.com/articles/gta-6s-relationship-mechanic-is-cheating-on-your-real-life-partner-and-break-up-worthy-according-to-angry-spouses",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788198942
-    },
-    {
-      "title": "Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt",
-      "link": "https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788196484
     },
     {
       "title": "Raindrops are tiny lightning bolts, and they’re corroding cars, study finds",
@@ -464,13 +534,6 @@
       "timestamp": 1788115499
     },
     {
-      "title": "Why it matters that President Trump just dialed in to a NASA news conference",
-      "link": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788111630
-    },
-    {
       "title": "1.4-million-year-old footprints reveal a surprisingly large human relative",
       "link": "https://www.sciencedaily.com/releases/2026/08/260829035221.htm",
       "source": "SCIENCEDAILY",
@@ -492,20 +555,6 @@
       "timestamp": 1788101472
     },
     {
-      "title": "HEPA air purifiers may boost brain function after just one month",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788096834
-    },
-    {
-      "title": "Hundreds of hidden earthquakes found at Antarctica’s Doomsday Glacier",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829035328.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788095237
-    },
-    {
       "title": "Liftoff! NASA's Roman Space Telescope soars to the stars on a SpaceX Falcon Heavy rocket in spectacular launch (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/nasa-roman-space-telescope-launch-success-on-a-spacex-falcon-heavy-rocket-spectacular-launch-video",
       "source": "SPACE",
@@ -513,60 +562,11 @@
       "timestamp": 1788094617
     },
     {
-      "title": "Scientists discover a massive heat anomaly deep inside Mars",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260828082336.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788092879
-    },
-    {
-      "title": "A new recipe unlocks “impossible” nanocrystals for LEDs, implants, and superconductors",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260827010510.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788090332
-    },
-    {
-      "title": "Inside Meta’s push to put robots to work in data centers",
-      "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788087827
-    },
-    {
-      "title": "Seven new frog species were hiding beneath Madagascar’s forest floor",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260828082347.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788085739
-    },
-    {
-      "title": "Ancient Egyptian princesses were buried with weapons. Their bones reveal why",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260828082348.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788082218
-    },
-    {
-      "title": "Researchers unveil sustainable spirulina solution to vitamin B12 deficiency",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829035227.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788067025
-    },
-    {
       "title": "NASA's Roman Space Telescope is ready for launch aboard SpaceX Falcon Heavy rocket",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-is-ready-for-launch-aboard-spacex-falcon-heavy-rocket",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788043458
-    },
-    {
-      "title": "This Week In Space podcast: Episode 225 — Get a Grip!",
-      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-225-get-a-grip",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788015834
     },
     {
       "title": "Rams jump Seahawks for top spot in NFL roster rankings; previewing 2026 Tour Championship",
