@@ -1,6 +1,160 @@
 {
-  "last_updated": 1788360994,
+  "last_updated": 1788373611,
   "items": [
+    {
+      "title": "2 spacecraft headed to Mercury are about to begin their long-awaited arrival for Europe and Japan — watch it live on Sept. 3",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/bepicolombo-mission-begins-mercury-arrival-phase-esa-jaxa",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788372000
+    },
+    {
+      "title": "Final Fantasy Maker Square Enix Denies Rumors That It's Going Private",
+      "link": "https://www.ign.com/articles/final-fantasy-maker-square-enix-denies-rumors-that-its-going-private",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788370909
+    },
+    {
+      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788369493
+    },
+    {
+      "title": "X shifts US creator payouts from Stripe to X Money",
+      "link": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788369147
+    },
+    {
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788368946
+    },
+    {
+      "title": "Blue Origin wins $700 million contract to build NASA's next Mars orbiter",
+      "link": "https://www.space.com/space-exploration/missions/blue-origin-wins-usd700-million-contract-to-build-nasas-next-mars-orbiter",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788368400
+    },
+    {
+      "title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
+      "link": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788368063
+    },
+    {
+      "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
+      "link": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788366611
+    },
+    {
+      "title": "'We're Improvisation-Based': Avengers: Doomsday Directors Defend Shooting Film Without a Finished Script",
+      "link": "https://www.ign.com/articles/were-improvisation-based-avengers-doomsday-directors-defend-shooting-film-without-a-finished-script",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788366425
+    },
+    {
+      "title": "New Harry Potter Trailer Teases Snape, Quidditch, and the Sorting Hat",
+      "link": "https://www.ign.com/articles/harry-potter-philosophers-stone-trailer-highlights",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788365522
+    },
+    {
+      "title": "‘It’s Not a Revolutionary Thing for an RPG to Have’ — Fable Explains the Very Obvious Reason as to Why Its Hero Design Has Changed",
+      "link": "https://www.ign.com/articles/its-not-a-revolutionary-thing-for-an-rpg-to-have-fable-explains-the-very-obvious-reason-as-to-why-its-hero-design-has-changed",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788365125
+    },
+    {
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+      "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788365050
+    },
+    {
+      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+      "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788364908
+    },
+    {
+      "title": "How to Watch PlayStation’s September 2026 State of Play",
+      "link": "https://www.ign.com/articles/how-to-watch-playstation-september-2026-state-of-play",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788364807
+    },
+    {
+      "title": "'You’re going to feel exposed, vulnerable, and very isolated' — 'Alien Isolation 2' creative director talks upping the scare factor for the sequel (interview)",
+      "link": "https://www.space.com/entertainment/space-games/youre-going-to-feel-exposed-vulnerable-and-very-isolated-alien-isolation-2-creative-director-talks-upping-the-scare-factor-for-the-sequel-interview",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788364800
+    },
+    {
+      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+      "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788361283
+    },
+    {
+      "title": "Supermassive black holes 'too big' for the early universe may not be so massive after all",
+      "link": "https://www.space.com/astronomy/black-holes/supermassive-black-holes-too-big-for-the-early-universe-may-not-be-so-massive-after-all",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788361200
+    },
+    {
+      "title": "After 10 Years, Pokémon Go is Getting a Pokémon Anime Crossover Episode",
+      "link": "https://www.ign.com/articles/after-10-years-pokemon-go-is-getting-a-pokemon-anime-crossover-episode",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788361143
+    },
+    {
+      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+      "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788360994
+    },
+    {
+      "title": "Interstellar solar sails hit a strange problem at 75% of light speed",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260831015157.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788360681
+    },
+    {
+      "title": "Toyohiro Akiyama, first Japanese citizen and journalist in space, dies at 84",
+      "link": "https://arstechnica.com/space/2026/09/toyohiro-akiyama-first-japanese-citizen-and-journalist-in-space-dies-at-84/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788360462
+    },
+    {
+      "title": "Money problems may age your brain faster",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260831015154.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788359546
+    },
     {
       "title": "Falcon Heavy brings the heat | Space photo of the day for Sept. 2, 2026",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/falcon-heavy-brings-the-heat-space-photo-of-the-day-for-sept-2-2026",
@@ -37,11 +191,25 @@
       "timestamp": 1788356832
     },
     {
-      "title": "Xbox Acknowledges 'Major Outage' as Sign-In Issues Hit PC and Consoles",
+      "title": "Alzheimer’s may leave a mark on the brain long before plaques appear",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260831015144.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788356037
+    },
+    {
+      "title": "Xbox Acknowledges 'Major Outage' as Sign-In Issues Hit PC and Consoles [UPDATED]",
       "link": "https://www.ign.com/articles/xbox-acknowledges-major-outage-as-sign-in-issues-hit-pc-and-consoles",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1788355526
+    },
+    {
+      "title": "A coffee-table-size scorpion roamed Earth before forests existed",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260831015200.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788355396
     },
     {
       "title": "Scientists may have detected the 1st direct evidence of dark matter",
@@ -65,7 +233,14 @@
       "timestamp": 1788354567
     },
     {
-      "title": "Viral Gaming Toilet Chair Appears to Resurface Via Facebook Marketplace — Listed as in 'Used' Condition, for $500",
+      "title": "The Army just used a 20-kilowatt laser to take out three drones",
+      "link": "https://arstechnica.com/gadgets/2026/09/the-army-just-used-a-20-kilowatt-laser-to-take-out-three-drones/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788354299
+    },
+    {
+      "title": "Viral Gaming Toilet Chair Appears to Resurface Via Facebook Marketplace — Listed as in 'Used' Condition for $500",
       "link": "https://www.ign.com/articles/viral-gaming-toilet-chair-appears-to-resurface-via-facebook-marketplace-listed-as-in-used-condition-for-500",
       "source": "IGN",
       "category": "gaming",
@@ -107,7 +282,7 @@
       "timestamp": 1788347723
     },
     {
-      "title": "Pokémon Fans Think The Franchise's New TCG Movie Hides a Secret Mega Evolution",
+      "title": "Pokémon Fans Think the Franchise's New TCG Movie Hides a Secret Mega Evolution",
       "link": "https://www.ign.com/articles/pokmon-fans-think-the-franchises-new-tcg-movie-hides-a-secret-mega-evolution",
       "source": "IGN",
       "category": "gaming",
@@ -226,20 +401,6 @@
       "timestamp": 1788300814
     },
     {
-      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788300504
-    },
-    {
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788296784
-    },
-    {
       "title": "Two astronauts replace ISS camera and docking aid on 6th-ever all-female spacewalk (video)",
       "link": "https://www.space.com/space-exploration/international-space-station/two-astronauts-replace-iss-camera-and-docking-aid-on-6th-ever-all-female-spacewalk-video",
       "source": "SPACE",
@@ -254,74 +415,11 @@
       "timestamp": 1788296400
     },
     {
-      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-      "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788295985
-    },
-    {
-      "title": "X says attackers are targeting user accounts after the launch of X Money",
-      "link": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788295712
-    },
-    {
-      "title": "Resident Evil Movie Popcorn Bucket Is an Organ Transplant Bag",
-      "link": "https://www.ign.com/articles/resident-evil-popcorn-bucket-organ-transplant-bag",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788295088
-    },
-    {
       "title": "Nonprofit wants to launch 80,000-year mission to Alpha Centauri in 2029 (video)",
       "link": "https://www.space.com/space-exploration/nonprofit-wants-to-launch-80-000-year-mission-to-alpha-centauri-in-2029-video",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788292815
-    },
-    {
-      "title": "Christopher Judge Physically Prepared to Play Kratos in Live-Action God of War Series, but Backed Down for This Reason",
-      "link": "https://www.ign.com/articles/christopher-judge-physically-prepared-to-play-kratos-in-live-action-god-of-war-series-but-backed-down-for-this-reason",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788292312
-    },
-    {
-      "title": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO",
-      "link": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788291928
-    },
-    {
-      "title": "Robert Pattinson Says The Batman Part 2's Fight Scenes Are 'Significantly Harder' to Perform",
-      "link": "https://www.ign.com/articles/robert-pattinson-says-the-batman-part-2s-fight-scenes-are-significantly-harder-to-perform",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788291893
-    },
-    {
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788291562
-    },
-    {
-      "title": "Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer",
-      "link": "https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788291024
-    },
-    {
-      "title": "Avengers: Secret Wars Adds Noah Jupe to Highly Secretive Cast",
-      "link": "https://www.ign.com/articles/avengers-secret-wars-adds-noah-jupe-to-highly-secretive-cast",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788290725
     },
     {
       "title": "Research roundup: 7 cool science stories we almost missed",
@@ -331,24 +429,10 @@
       "timestamp": 1788289570
     },
     {
-      "title": "Resident Evil 2 Director Hideki Kamiya Says Capcom Has Grown 'Numb' to How Scary New RE Games Are",
-      "link": "https://www.ign.com/articles/resident-evil-2-director-hideki-kamiya-says-capcom-has-grown-numb-to-how-scary-new-re-games-are",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788289271
-    },
-    {
       "title": "The 12 best sci-fi movies of the 2000s",
       "link": "https://www.space.com/entertainment/space-movies-shows/the-12-best-sci-fi-movies-of-the-2000s",
       "source": "SPACE",
       "category": "space",
-      "timestamp": 1788289200
-    },
-    {
-      "title": "GTA 6 Extended Look Tops Netflix Top 10 Chart in First Week",
-      "link": "https://www.ign.com/articles/gta-6-extended-look-tops-netflix-top-10-chart-in-first-week",
-      "source": "IGN",
-      "category": "gaming",
       "timestamp": 1788289200
     },
     {
@@ -357,13 +441,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1788286876
-    },
-    {
-      "title": "Who is John Ternus, the new Apple CEO?",
-      "link": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788285720
     },
     {
       "title": "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official",
@@ -408,39 +485,11 @@
       "timestamp": 1788282903
     },
     {
-      "title": "Why do black hole flares die out? It may be down to how stars spin",
-      "link": "https://www.space.com/astronomy/black-holes/why-do-black-hole-flares-die-out-it-may-be-down-to-how-stars-spin",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788282000
-    },
-    {
-      "title": "NASA's Roman Space Telescope is just one of a few missions named after real-life women",
-      "link": "https://www.space.com/space-exploration/missions/nasas-roman-space-telescope-is-just-one-of-a-few-missions-named-after-real-life-women",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788278400
-    },
-    {
-      "title": "5 planets will light up the September sky — here's how to see them",
-      "link": "https://www.space.com/stargazing/5-planets-will-light-up-the-september-sky-heres-how-to-see-them",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788274800
-    },
-    {
       "title": "It turns out that Orion's much-maligned heat shield performed really well",
       "link": "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1788273988
-    },
-    {
-      "title": "Repairing the ISS 250 miles above Earth | Space photo of the day for Sept. 1, 2026",
-      "link": "https://www.space.com/space-exploration/international-space-station/repairing-the-iss-250-miles-above-earth-space-photo-of-the-day-for-sept-1-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788271200
     },
     {
       "title": "Mindfulness may lower blood pressure in just 8 weeks",
@@ -520,27 +569,6 @@
       "timestamp": 1788211389
     },
     {
-      "title": "Get in on the Ars community that doesn’t fit beneath an article",
-      "link": "https://arstechnica.com/staff/2026/08/get-in-on-the-ars-community-that-doesnt-fit-beneath-an-article/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788210721
-    },
-    {
-      "title": "Review: Coyote vs. Acme is an unabashed love letter to Looney Tunes",
-      "link": "https://arstechnica.com/culture/2026/08/review-coyote-vs-acme-is-an-unabashed-love-letter-to-looney-tunes/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788206536
-    },
-    {
-      "title": "Trump tells FCC to punish journalist for calling his election results \"mixed\"",
-      "link": "https://arstechnica.com/tech-policy/2026/08/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788201565
-    },
-    {
       "title": "Popular sweeteners may leave effects that last for generations",
       "link": "https://www.sciencedaily.com/releases/2026/08/260830000019.htm",
       "source": "SCIENCEDAILY",
@@ -553,34 +581,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1788182982
-    },
-    {
-      "title": "Scientists challenge a 70-year-old “lizard brain” myth",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829235958.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788180825
-    },
-    {
-      "title": "Fossil feet may be misleading scientists about human evolution",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829235942.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788179906
-    },
-    {
-      "title": "NASA’s Roman Space Telescope launches to reveal the Universe’s darkest secrets",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260831035213.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788168201
-    },
-    {
-      "title": "Rocky planets may have formed just 100 million years after the Big Bang",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260828082345.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788152401
     },
     {
       "title": "Rams jump Seahawks for top spot in NFL roster rankings; previewing 2026 Tour Championship",
