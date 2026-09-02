@@ -1,5 +1,5 @@
 {
-  "last_updated": 1788310553,
+  "last_updated": 1788326822,
   "items": [
     {
       "title": "Larry Page’s flying car company Pivotal loses its CEO",
@@ -21,6 +21,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1788304095
+    },
+    {
+      "title": "Here's our first look—and drive—of the 2027 Range Rover Electric",
+      "link": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788303712
     },
     {
       "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
@@ -149,6 +156,13 @@
       "timestamp": 1788290725
     },
     {
+      "title": "Research roundup: 7 cool science stories we almost missed",
+      "link": "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788289570
+    },
+    {
       "title": "Resident Evil 2 Director Hideki Kamiya Says Capcom Has Grown 'Numb' to How Scary New RE Games Are",
       "link": "https://www.ign.com/articles/resident-evil-2-director-hideki-kamiya-says-capcom-has-grown-numb-to-how-scary-new-re-games-are",
       "source": "IGN",
@@ -184,7 +198,7 @@
       "timestamp": 1788286981
     },
     {
-      "title": "CDC reported then deleted two measles deaths that were questioned by RFK Jr.",
+      "title": "A newborn and child reportedly died of measles; CDC isn't counting them",
       "link": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -476,20 +490,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1788196308
-    },
-    {
-      "title": "Think twice before installing this device promising free movies",
-      "link": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788194018
-    },
-    {
-      "title": "El Niño is now stronger than at any point in the last 1,000 years, study finds",
-      "link": "https://arstechnica.com/science/2026/08/el-nino-is-now-stronger-than-at-any-point-in-the-last-1000-years-study-finds/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788192284
     },
     {
       "title": "What's next for Roman Space Telescope? Here's how NASA's flagship observatory will open up the universe",
