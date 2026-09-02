@@ -1,12 +1,152 @@
 {
-  "last_updated": 1788373611,
+  "last_updated": 1788384826,
   "items": [
+    {
+      "title": "NBA hammers Clippers, Steve Ballmer for salary cap circumvention as Kawhi Leonard avoids suspension",
+      "link": "https://www.cbssports.com/nba/news/nba-punishes-clippers-steve-ballmer-salary-cap-circumvention-kawhi-leonard/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1788383402
+    },
+    {
+      "title": "Astronomers discover mysterious 10-sided cloud structure at Saturn's south pole",
+      "link": "https://www.space.com/astronomy/saturn/astronomers-discover-mysterious-10-sided-cloud-structure-at-saturns-south-pole",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788382800
+    },
+    {
+      "title": "Kat Dennings Recalls Her Six-Hour Mad Max: Fury Road Audition With 'Wonderful Person' Tom Hardy",
+      "link": "https://www.ign.com/articles/kat-dennings-mad-max-fury-road-audition-tom-hardy",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788381048
+    },
+    {
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788380354
+    },
+    {
+      "title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
+      "link": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788379961
+    },
+    {
+      "title": "Sony Is Making 59% More Revenue Per PlayStation User Since PS4 Generation, Says Analyst",
+      "link": "https://www.ign.com/articles/sony-is-making-59-more-revenue-per-playstation-user-since-ps4-generation-says-analyst",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788379259
+    },
+    {
+      "title": "China's private, reusable Pallas-1 rocket aces debut launch (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/chinas-private-reusable-pallas-1-rocket-aces-debut-launch-video",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788379200
+    },
+    {
+      "title": "A Playable Build of an Unreleased Scream Game Has Surfaced Thanks to the Steam Leak",
+      "link": "https://www.ign.com/articles/a-playable-build-of-an-unreleased-scream-game-has-surfaced-thanks-to-the-steam-leak",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788378826
+    },
+    {
+      "title": "77-Year-Old Volunteer Teacher Arrested After Striking Young Student in Altercation Over Pokemon Cards",
+      "link": "https://www.ign.com/articles/77-year-old-volunteer-teacher-arrested-after-striking-young-student-in-altercation-over-pokemon-cards",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788378695
+    },
+    {
+      "title": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
+      "link": "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788377828
+    },
+    {
+      "title": "It sure looks like hackers breached a major ID card verification service",
+      "link": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788377709
+    },
+    {
+      "title": "Delivery Hero board backs Uber’s $15B takeover bid",
+      "link": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788377135
+    },
+    {
+      "title": "Fortnite Announces Crossover With Andrew Garfield Historical Drama The Uprising",
+      "link": "https://www.ign.com/articles/fortnite-andrew-garfield-the-uprising-crossover",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788376514
+    },
+    {
+      "title": "Eren Yeager's English Voice Actor Literally Dislocated His Jaw to Pull Off One of Attack on Titan's Most Iconic Moments",
+      "link": "https://www.ign.com/articles/eren-yeagers-english-voice-actor-literally-dislocated-his-jaw-to-pull-off-one-of-attack-on-titans-most-iconic-moments",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788376350
+    },
+    {
+      "title": "This was always the way: 'The Mandalorian and Grogu' is finally on Disney+",
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-was-always-the-way-the-mandalorian-and-grogu-is-finally-on-disney",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788375600
+    },
+    {
+      "title": "SEC looking into Kawhi Leonard's endorsement deal with Daktronics as NBA probe continues",
+      "link": "https://www.cbssports.com/nba/news/sec-kawhi-leonards-endorsement-deal-daktronics-nba-probe-continues/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1788374966
+    },
+    {
+      "title": "YouTuber Claims Rockstar Confirmed Fans Measured Oxygen Levels Around Its Campus in Anticipation for a New Trailer",
+      "link": "https://www.ign.com/articles/youtuber-claims-rockstar-confirmed-fans-measured-oxygen-levels-around-its-campus-in-anticipation-for-a-new-trailer",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788374113
+    },
+    {
+      "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+      "link": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788372834
+    },
     {
       "title": "2 spacecraft headed to Mercury are about to begin their long-awaited arrival for Europe and Japan — watch it live on Sept. 3",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/bepicolombo-mission-begins-mercury-arrival-phase-esa-jaxa",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788372000
+    },
+    {
+      "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
+      "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788371913
+    },
+    {
+      "title": "Disney Was Working on Its Own Smash Bros.-Like Fighting Game, Confirms Ex-Concept Artist",
+      "link": "https://www.ign.com/articles/disney-was-working-on-its-own-smash-bros-like-fighting-game-confirms-ex-concept-artist",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788371792
     },
     {
       "title": "Final Fantasy Maker Square Enix Denies Rumors That It's Going Private",
@@ -121,7 +261,7 @@
       "timestamp": 1788361200
     },
     {
-      "title": "After 10 Years, Pokémon Go is Getting a Pokémon Anime Crossover Episode",
+      "title": "After 10 Years, Pokémon Go Is Getting a Pokémon Anime Crossover Episode",
       "link": "https://www.ign.com/articles/after-10-years-pokemon-go-is-getting-a-pokemon-anime-crossover-episode",
       "source": "IGN",
       "category": "gaming",
@@ -240,25 +380,11 @@
       "timestamp": 1788354299
     },
     {
-      "title": "Viral Gaming Toilet Chair Appears to Resurface Via Facebook Marketplace — Listed as in 'Used' Condition for $500",
-      "link": "https://www.ign.com/articles/viral-gaming-toilet-chair-appears-to-resurface-via-facebook-marketplace-listed-as-in-used-condition-for-500",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788352174
-    },
-    {
       "title": "Uber is laying off 10% of staff, or 3,300 people",
       "link": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1788351275
-    },
-    {
-      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-      "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788350982
     },
     {
       "title": "A bright space station will soar over the US this week — and it's not the ISS. Here's how to see it",
@@ -282,13 +408,6 @@
       "timestamp": 1788347723
     },
     {
-      "title": "Pokémon Fans Think the Franchise's New TCG Movie Hides a Secret Mega Evolution",
-      "link": "https://www.ign.com/articles/pokmon-fans-think-the-franchises-new-tcg-movie-hides-a-secret-mega-evolution",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788347696
-    },
-    {
       "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
       "link": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
       "source": "ARSTECHNICA",
@@ -308,20 +427,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788343200
-    },
-    {
-      "title": "LEGO PlayStation Images Leak, Revealing Some Incredible PS1 Easter Eggs",
-      "link": "https://www.ign.com/articles/lego-playstation-images-leak-revealing-some-incredible-ps1-easter-eggs",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788342324
-    },
-    {
-      "title": "Eight-Player Splitscreen Added to Mario Kart 8 Deluxe",
-      "link": "https://www.ign.com/articles/eight-player-splitscreen-added-to-mario-kart-8-deluxe",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788334410
     },
     {
       "title": "Too much coffee may weaken bones, study finds",
@@ -345,60 +450,11 @@
       "timestamp": 1788323148
     },
     {
-      "title": "Larry Page’s flying car company Pivotal loses its CEO",
-      "link": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788307199
-    },
-    {
-      "title": "Star Wars Zero Company Was Originally Pitched as a Titanfall Universe Game",
-      "link": "https://www.ign.com/articles/star-wars-zero-company-was-originally-pitched-as-a-titanfall-universe-game",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788304332
-    },
-    {
-      "title": "Stanley Kubrick’s Daughter Responds to Eyes Wide Shut Conspiracy Theories",
-      "link": "https://www.ign.com/articles/stanley-kubrick-daughter-eyes-wide-shut-conspiracy-theories",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788304095
-    },
-    {
       "title": "Here's our first look—and drive—of the 2027 Range Rover Electric",
       "link": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1788303712
-    },
-    {
-      "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
-      "link": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788303600
-    },
-    {
-      "title": "CD Projekt Red Boss 'Isn't Worried' About Delays for Next-Gen Consoles as RAM Prices Soar",
-      "link": "https://www.ign.com/articles/cd-projekt-red-boss-isnt-worried-about-delays-for-next-gen-consoles-as-ram-prices-soar",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788302307
-    },
-    {
-      "title": "GTA 6's Morality Meter Will Reportedly 'Shatter' and Make You Irredeemable If You Cause Too Much Mayhem",
-      "link": "https://www.ign.com/articles/gta-6s-morality-meter-will-reportedly-shatter-and-make-you-irredeemable-if-you-cause-too-much-mayhem",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788301287
-    },
-    {
-      "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
-      "link": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788300814
     },
     {
       "title": "Two astronauts replace ISS camera and docking aid on 6th-ever all-female spacewalk (video)",
@@ -415,25 +471,11 @@
       "timestamp": 1788296400
     },
     {
-      "title": "Nonprofit wants to launch 80,000-year mission to Alpha Centauri in 2029 (video)",
-      "link": "https://www.space.com/space-exploration/nonprofit-wants-to-launch-80-000-year-mission-to-alpha-centauri-in-2029-video",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788292815
-    },
-    {
       "title": "Research roundup: 7 cool science stories we almost missed",
       "link": "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1788289570
-    },
-    {
-      "title": "The 12 best sci-fi movies of the 2000s",
-      "link": "https://www.space.com/entertainment/space-movies-shows/the-12-best-sci-fi-movies-of-the-2000s",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788289200
     },
     {
       "title": "A newborn and child reportedly died of measles; CDC isn't counting them",
@@ -478,13 +520,6 @@
       "timestamp": 1788284056
     },
     {
-      "title": "On this day in space! Sept. 1, 1979: NASA's Pioneer 11 probe becomes 1st spacecraft to visit Saturn",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-1-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788282903
-    },
-    {
       "title": "It turns out that Orion's much-maligned heat shield performed really well",
       "link": "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/",
       "source": "ARSTECHNICA",
@@ -527,13 +562,6 @@
       "timestamp": 1788259270
     },
     {
-      "title": "Private group wants to launch \"cheapest possible\" mission to Alpha Centauri",
-      "link": "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788256833
-    },
-    {
       "title": "NASA’s Swift telescope is back, but time is running out",
       "link": "https://www.sciencedaily.com/releases/2026/09/260901010702.htm",
       "source": "SCIENCEDAILY",
@@ -553,20 +581,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1788234880
-    },
-    {
-      "title": "The Bentley Supersports: A stripped-out engineer's indulgence",
-      "link": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788217276
-    },
-    {
-      "title": "Trump admin shelves Cyclospora research despite record-breaking outbreak",
-      "link": "https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788211389
     },
     {
       "title": "Popular sweeteners may leave effects that last for generations",
@@ -658,20 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1787248146
-    },
-    {
-      "title": "NBA Front Office Rankings (Part 2): Dysfunctional Lakers, cheap Trail Blazers find themselves near the bottom",
-      "link": "https://www.cbssports.com/nba/news/nba-front-office-rankings-part-2-lakers-trail-blazers-2026/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1787237191
-    },
-    {
-      "title": "Buccaneers' Vita Vea agrees to $30M extension; top 30 NFL players age 30 and over; best NBA front offices",
-      "link": "https://www.cbssports.com/nfl/news/buccaneers-vita-vea-agrees-to-30m-extension-top-30-nfl-players-age-30-and-over-best-nba-front-offices/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1787230804
     }
   ]
 }
