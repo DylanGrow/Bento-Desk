@@ -1,6 +1,83 @@
 {
-  "last_updated": 1788421478,
+  "last_updated": 1788438841,
   "items": [
+    {
+      "title": "Amazon’s Zoox expands its robotaxi service to Las Vegas airport",
+      "link": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788437576
+    },
+    {
+      "title": "Watch India launch its 1st geosynchronous Earth-imaging satellite today",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/gslv-mark-ii-eos-05-launch-first-indian-geo-earth-observing-satellite",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788436800
+    },
+    {
+      "title": "LIVE: State of Play September 2026 — All the Gameplay, Trailers, and Announcements",
+      "link": "https://www.ign.com/articles/sony-playstation-state-of-play-september-2026-everything-announced",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788436114
+    },
+    {
+      "title": "Confirmed: No Generative AI in Warhammer 40,000: Space Marine 3",
+      "link": "https://www.ign.com/articles/confirmed-no-generative-ai-in-warhammer-40000-space-marine-3",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788434383
+    },
+    {
+      "title": "Sony Says It Won't Pass Tariff Refunds Back to PlayStation Customers, and Dismisses Fan Arguments as 'Speculative and Illogical'",
+      "link": "https://www.ign.com/articles/sony-says-it-wont-pass-tariff-refunds-back-to-playstation-customers-and-dismisses-fan-arguments-as-speculative-and-illogical",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788434383
+    },
+    {
+      "title": "Spider-Man Star Andrew Garfield Hasn't Yet Congratulated Tom Holland on Brand New Day's Success, Admits He Hasn't Seen It",
+      "link": "https://www.ign.com/articles/i-dont-want-to-be-disingenuous-spider-man-star-andrew-garfield-hasnt-yet-congratulated-tom-holland-on-brand-new-days-success-and-admits-he-hasnt-seen-it",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788431784
+    },
+    {
+      "title": "Rocket issues delay 1st-ever private mission to Venus: 'We are awaiting Neutron readiness'",
+      "link": "https://www.space.com/astronomy/venus/rocket-issues-delay-1st-ever-private-mission-to-venus-we-are-awaiting-neutron-readiness",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788429600
+    },
+    {
+      "title": "Planet Coaster Maker Announces Disney Game Development, Opening Doors to a Disneyland Park Creator",
+      "link": "https://www.ign.com/articles/planet-coaster-maker-announces-disney-game-development-opening-doors-to-a-disneyland-park-creator",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788429259
+    },
+    {
+      "title": "The universe has plenty of hydrogen. So why is star formation collapsing?",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260902234442.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788421694
+    },
+    {
+      "title": "September brings a dazzling Venus and a glowing Harvest Moon",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260902234500.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788416749
+    },
+    {
+      "title": "ADHD may have a surprising creative advantage",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260831015150.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788407046
+    },
     {
       "title": "Revelations from NBA's Clippers investigation: What report says about Uncle Dennis, other companies and more",
       "link": "https://www.cbssports.com/nba/news/revelations-nbas-clippers-investigation-uncle-dennis-other-companies-more/",
@@ -219,13 +296,6 @@
       "timestamp": 1788376514
     },
     {
-      "title": "Eren Yeager's English Voice Actor Literally Dislocated His Jaw to Pull Off One of Attack on Titan's Most Iconic Moments",
-      "link": "https://www.ign.com/articles/eren-yeagers-english-voice-actor-literally-dislocated-his-jaw-to-pull-off-one-of-attack-on-titans-most-iconic-moments",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788376350
-    },
-    {
       "title": "This was always the way: 'The Mandalorian and Grogu' is finally on Disney+",
       "link": "https://www.space.com/entertainment/space-movies-shows/this-was-always-the-way-the-mandalorian-and-grogu-is-finally-on-disney",
       "source": "SPACE",
@@ -240,13 +310,6 @@
       "timestamp": 1788374966
     },
     {
-      "title": "YouTuber Claims Rockstar Confirmed Fans Measured Oxygen Levels Around Its Campus in Anticipation for a New Trailer",
-      "link": "https://www.ign.com/articles/youtuber-claims-rockstar-confirmed-fans-measured-oxygen-levels-around-its-campus-in-anticipation-for-a-new-trailer",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788374113
-    },
-    {
       "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
       "link": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
       "source": "ARSTECHNICA",
@@ -254,7 +317,7 @@
       "timestamp": 1788372834
     },
     {
-      "title": "2 spacecraft headed to Mercury are about to begin their long-awaited arrival for Europe and Japan — watch it live on Sept. 3",
+      "title": "2 spacecraft headed to Mercury are about to begin their long-awaited arrival for Europe and Japan — watch it live today",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/bepicolombo-mission-begins-mercury-arrival-phase-esa-jaxa",
       "source": "SPACE",
       "category": "space",
@@ -266,20 +329,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1788371913
-    },
-    {
-      "title": "Disney Was Working on Its Own Smash Bros.-Like Fighting Game, Confirms Ex-Concept Artist",
-      "link": "https://www.ign.com/articles/disney-was-working-on-its-own-smash-bros-like-fighting-game-confirms-ex-concept-artist",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788371792
-    },
-    {
-      "title": "Final Fantasy Maker Square Enix Denies Rumors That It's Going Private",
-      "link": "https://www.ign.com/articles/final-fantasy-maker-square-enix-denies-rumors-that-its-going-private",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788370909
     },
     {
       "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
@@ -324,13 +373,6 @@
       "timestamp": 1788366611
     },
     {
-      "title": "'We're Improvisation-Based': Avengers: Doomsday Directors Defend Shooting Film Without a Finished Script",
-      "link": "https://www.ign.com/articles/were-improvisation-based-avengers-doomsday-directors-defend-shooting-film-without-a-finished-script",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788366425
-    },
-    {
       "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
       "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
       "source": "TECHCRUNCH",
@@ -345,7 +387,7 @@
       "timestamp": 1788364908
     },
     {
-      "title": "'You’re going to feel exposed, vulnerable, and very isolated' — 'Alien Isolation 2' creative director talks upping the scare factor for the sequel (interview)",
+      "title": "'Alien Isolation 2' creative director talks upping the scare factor for the sequel (interview)",
       "link": "https://www.space.com/entertainment/space-games/youre-going-to-feel-exposed-vulnerable-and-very-isolated-alien-isolation-2-creative-director-talks-upping-the-scare-factor-for-the-sequel-interview",
       "source": "SPACE",
       "category": "space",
@@ -364,13 +406,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788361200
-    },
-    {
-      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-      "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788360994
     },
     {
       "title": "Interstellar solar sails hit a strange problem at 75% of light speed",
@@ -513,20 +548,6 @@
       "timestamp": 1788303712
     },
     {
-      "title": "Two astronauts replace ISS camera and docking aid on 6th-ever all-female spacewalk (video)",
-      "link": "https://www.space.com/space-exploration/international-space-station/two-astronauts-replace-iss-camera-and-docking-aid-on-6th-ever-all-female-spacewalk-video",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788296527
-    },
-    {
-      "title": "Scientists trace 7 stages of a meteorite's life, from hurtling space rock to Earth's surface",
-      "link": "https://www.space.com/stargazing/meteor-showers/scientists-trace-7-stages-of-a-meteorites-life-from-hurtling-space-rock-to-earths-surface",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788296400
-    },
-    {
       "title": "Research roundup: 7 cool science stories we almost missed",
       "link": "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/",
       "source": "ARSTECHNICA",
@@ -609,27 +630,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1788240817
-    },
-    {
-      "title": "Scientists find a human-only gene that may help explain our brainpower",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260831015141.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788234880
-    },
-    {
-      "title": "Popular sweeteners may leave effects that last for generations",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260830000019.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788185041
-    },
-    {
-      "title": "Scientists discover two superconducting states hiding as one",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260828005222.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788182982
     },
     {
       "title": "Rams jump Seahawks for top spot in NFL roster rankings; previewing 2026 Tour Championship",
