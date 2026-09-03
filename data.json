@@ -1,12 +1,33 @@
 {
-  "last_updated": 1788403789,
+  "last_updated": 1788421478,
   "items": [
+    {
+      "title": "Revelations from NBA's Clippers investigation: What report says about Uncle Dennis, other companies and more",
+      "link": "https://www.cbssports.com/nba/news/revelations-nbas-clippers-investigation-uncle-dennis-other-companies-more/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1788406999
+    },
+    {
+      "title": "Why wasn't Kawhi Leonard's contract wasn't voided? The differences vs. NBA's last major cap circumvention case",
+      "link": "https://www.cbssports.com/nba/news/kawhi-leonard-contract-voided-differences-nba-joe-smith/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1788406786
+    },
     {
       "title": "What's next after NBA's Clippers punishment? Five lingering questions about Kawhi Leonard trade, appeals, more",
       "link": "https://www.cbssports.com/nba/news/whats-next-kawhi-leonard-clippers-five-lingering-questions/",
       "source": "CBSSPORTS",
       "category": "nba",
-      "timestamp": 1788394302
+      "timestamp": 1788406765
+    },
+    {
+      "title": "NBA hammers Clippers, Steve Ballmer for salary cap circumvention as Kawhi Leonard avoids suspension",
+      "link": "https://www.cbssports.com/nba/news/nba-punishes-clippers-steve-ballmer-salary-cap-circumvention-kawhi-leonard/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1788406743
     },
     {
       "title": "Kawhi Leonard gets best-case scenario, leaves Clippers in the dust after NBA investigation",
@@ -30,13 +51,6 @@
       "timestamp": 1788390060
     },
     {
-      "title": "Why wasn't Kawhi Leonard's contract wasn't voided? The differences vs. NBA's last major cap circumvention case",
-      "link": "https://www.cbssports.com/nba/news/kawhi-leonard-contract-voided-differences-nba-joe-smith/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1788389844
-    },
-    {
       "title": "Clippers 'vehemently reject' NBA's findings in Kawhi Leonard investigation, vow to 'fight' punishments",
       "link": "https://www.cbssports.com/nba/news/clippers-statement-nba-investigation-kawhi-leonard-salary-cap-circumvention/",
       "source": "CBSSPORTS",
@@ -49,13 +63,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1788389096
-    },
-    {
-      "title": "NBA hammers Clippers, Steve Ballmer for salary cap circumvention as Kawhi Leonard avoids suspension",
-      "link": "https://www.cbssports.com/nba/news/nba-punishes-clippers-steve-ballmer-salary-cap-circumvention-kawhi-leonard/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1788387865
     },
     {
       "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1787347573
-    },
-    {
-      "title": "The Nuggets are daring Nikola Jokić to leave after a listless summer",
-      "link": "https://www.cbssports.com/nba/news/nuggets-daring-nikola-jokic-to-leave-listless-summer/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1787346614
     }
   ]
 }
