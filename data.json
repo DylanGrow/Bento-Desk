@@ -1,6 +1,34 @@
 {
-  "last_updated": 1788473658,
+  "last_updated": 1788482612,
   "items": [
+    {
+      "title": "Oura files to go public",
+      "link": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788474941
+    },
+    {
+      "title": "Elden Ring Director Hidetaka Miyazaki Says He's 'Honestly Not Sure' Where the Rumor About Him Having a Foot Fetish Came From",
+      "link": "https://www.ign.com/articles/elden-ring-director-hidetaka-miyazaki-says-hes-honestly-not-sure-where-the-rumor-about-him-having-a-foot-fetish-came-from",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788474296
+    },
+    {
+      "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
+      "link": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788473910
+    },
+    {
+      "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
+      "link": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788473630
+    },
     {
       "title": "Turkish GTA 6 Fans Want Language Support So Badly, They Professionally Dubbed the Gameplay Reveal",
       "link": "https://www.ign.com/articles/turkish-gta-6-fans-want-language-support-so-badly-they-professionally-dubbed-the-gameplay-reveal",
@@ -21,6 +49,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1788471130
+    },
+    {
+      "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
+      "link": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788469859
     },
     {
       "title": "Startup ARR is less secure than ever, new research shows",
@@ -51,6 +86,13 @@
       "timestamp": 1788466917
     },
     {
+      "title": "150 research primates got diarrhea, flooding lab with priceless vaccine data",
+      "link": "https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788466488
+    },
+    {
       "title": "'Alien: Isolation 2': Facing a ruthless and evolved Xenomorph in our Gamescom hands-on preview",
       "link": "https://www.space.com/entertainment/space-games/alien-isolation-2-facing-a-ruthless-and-evolved-xenomorph-in-our-gamescom-hands-on-preview",
       "source": "SPACE",
@@ -58,7 +100,7 @@
       "timestamp": 1788465600
     },
     {
-      "title": "US senator calls on the NSA to give guidance for use of VPNs",
+      "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
       "link": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -72,7 +114,7 @@
       "timestamp": 1788464568
     },
     {
-      "title": "NJ urges SCOTUS to rule that Kalshi sports bets are gambling, not \"swaps\"",
+      "title": "Supreme Court urged to let states regulate sports bets on prediction markets",
       "link": "https://arstechnica.com/tech-policy/2026/09/nj-urges-scotus-to-rule-that-kalshi-sports-bets-are-gambling-not-swaps/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -240,13 +282,6 @@
       "timestamp": 1788454800
     },
     {
-      "title": "Microsoft Announces Big Changes to Xbox Cloud Gaming, Switches to Monthly Hour Limits",
-      "link": "https://www.ign.com/articles/microsoft-announces-big-changes-to-xbox-cloud-gaming-switches-to-monthly-hour-limits",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788454800
-    },
-    {
       "title": "'Strange New Worlds'' latest episode is a soap opera spoof, but hasn't 'Star Trek' always been a soap opera in space?",
       "link": "https://www.space.com/entertainment/space-movies-shows/strange-new-worlds-latest-episode-is-a-soap-opera-spoof-but-hasnt-star-trek-always-been-a-soap-opera-in-space-anyway",
       "source": "SPACE",
@@ -359,13 +394,6 @@
       "timestamp": 1788440400
     },
     {
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788439365
-    },
-    {
       "title": "NASA scientists discover a giant 10-sided pattern on Saturn",
       "link": "https://www.sciencedaily.com/releases/2026/09/260903064229.htm",
       "source": "SCIENCEDAILY",
@@ -380,14 +408,7 @@
       "timestamp": 1788437836
     },
     {
-      "title": "Amazon’s Zoox expands its robotaxi service to Las Vegas airport",
-      "link": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788437576
-    },
-    {
-      "title": "Watch India launch its 1st geosynchronous Earth-imaging satellite today",
+      "title": "India sends Earth-imaging satellite toward geosynchronous orbit in milestone launch (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/gslv-mark-ii-eos-05-launch-first-indian-geo-earth-observing-satellite",
       "source": "SPACE",
       "category": "space",
@@ -541,25 +562,11 @@
       "timestamp": 1788372000
     },
     {
-      "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
-      "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788371913
-    },
-    {
       "title": "Blue Origin wins $700 million contract to build NASA's next Mars orbiter",
       "link": "https://www.space.com/space-exploration/missions/blue-origin-wins-usd700-million-contract-to-build-nasas-next-mars-orbiter",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788368400
-    },
-    {
-      "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
-      "link": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788366611
     },
     {
       "title": "'Alien Isolation 2' creative director talks upping the scare factor for the sequel (interview)",
@@ -581,13 +588,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1788360681
-    },
-    {
-      "title": "Toyohiro Akiyama, first Japanese citizen and journalist in space, dies at 84",
-      "link": "https://arstechnica.com/space/2026/09/toyohiro-akiyama-first-japanese-citizen-and-journalist-in-space-dies-at-84/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788360462
     },
     {
       "title": "Money problems may age your brain faster",
