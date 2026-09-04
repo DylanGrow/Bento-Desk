@@ -1,6 +1,90 @@
 {
-  "last_updated": 1788545000,
+  "last_updated": 1788556357,
   "items": [
+    {
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788556331
+    },
+    {
+      "title": "Scientists detect signals of hydrogen from billions of years ago. Could this help us map out the universe?",
+      "link": "https://www.space.com/astronomy/galaxies/scientists-detect-signals-of-hydrogen-from-billions-of-years-ago-could-this-help-us-map-out-the-universe",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788555600
+    },
+    {
+      "title": "Hideki Kamiya Isn't Fussed About the Physical vs. Digital Debate – He Just Wants Games to Be Preserved for Future Generations",
+      "link": "https://www.ign.com/articles/hideki-kamiya-isnt-fussed-about-the-physical-vs-digital-debate-he-just-wants-games-to-be-preserved-for-future-generations",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788554866
+    },
+    {
+      "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
+      "link": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788553361
+    },
+    {
+      "title": "Rockstar Censors GTA 6 Extended Look Trailer for China",
+      "link": "https://www.ign.com/articles/rockstar-censors-gta-6-extended-look-trailer-for-china",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788551334
+    },
+    {
+      "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
+      "link": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788551194
+    },
+    {
+      "title": "Bungie Confirms Plans to Sublease Parts of Its Enormous Bellevue Headquarters Following Mass Layoffs",
+      "link": "https://www.ign.com/articles/bungie-confirms-plans-to-sublease-parts-of-its-enormous-bellevue-headquarters-following-mass-layoffs",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788551003
+    },
+    {
+      "title": "Hands-On With Acer's Prototype Convertible Handheld PC/Laptop Hybrid",
+      "link": "https://www.ign.com/articles/hands-on-with-acers-prototype-convertible-handheld-pclaptop-hybrid",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788549463
+    },
+    {
+      "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
+      "link": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788548462
+    },
+    {
+      "title": "Trekkies honor 'Star Trek's' 60th birthday with fan events, special screenings, and a world record Vulcan salute",
+      "link": "https://www.space.com/entertainment/space-movies-shows/trekkies-honor-star-treks-60th-birthday-with-fan-events-special-screenings-and-a-world-record-vulcan-salute",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788548400
+    },
+    {
+      "title": "New Resident Evil Teaser Trailer Reveals First Glimpse at Creature That Looks a Lot Like Las Plagas",
+      "link": "https://www.ign.com/articles/new-resident-evil-teaser-trailer-reveals-first-look-at-creature-that-seems-a-lot-like-las-plagas",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788545144
+    },
+    {
+      "title": "Venus is becoming a thinner crescent — and that's when it finally starts making sense",
+      "link": "https://www.space.com/stargazing/venus-is-becoming-a-thinner-crescent-and-thats-when-it-finally-starts-making-sense",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788544800
+    },
     {
       "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
       "link": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
@@ -9,11 +93,25 @@
       "timestamp": 1788544325
     },
     {
+      "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
+      "link": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788543302
+    },
+    {
       "title": "DLSS 5 Will Be Coming to Older Graphics Cards After All",
       "link": "https://www.ign.com/articles/dlss-5-will-be-coming-to-older-graphics-cards-after-all",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1788543178
+    },
+    {
+      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+      "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788542292
     },
     {
       "title": "What will Apple’s John Ternus era look like?",
@@ -30,6 +128,13 @@
       "timestamp": 1788542112
     },
     {
+      "title": "Pentagon rescinds new testosterone screening policy without explanation",
+      "link": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788541044
+    },
+    {
       "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
       "link": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
       "source": "TECHCRUNCH",
@@ -37,7 +142,7 @@
       "timestamp": 1788540683
     },
     {
-      "title": "Valve secretly leaked a Left 4 Dead 2 trailer to dodge the ESRB",
+      "title": "A ratings board wouldn't let Valve release a trailer. It \"leaked\" it instead.",
       "link": "https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -163,15 +268,15 @@
       "timestamp": 1788530400
     },
     {
-      "title": "Hubble Telescope sees spectacular 'superbubble' | Space photo of the day for Sept. 4, 2026",
-      "link": "https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-sees-spectacular-superbubble-space-photo-of-the-day-for-sept-4-2026",
+      "title": "On this day in space! Sept. 4, 1962: NASA's Mariner 2 spacecrafts performs the 1st-ever maneuver in deep space so it could reach Venus",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-sept-4-1962-nasas-mariner-2-spacecrafts-performs-the-1st-ever-maneuver-in-deep-space-so-it-could-reach-venus",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788530400
     },
     {
-      "title": "On this day in space! Sept. 4, 1962: NASA's Mariner 2 spacecrafts performs the 1st-ever maneuver in deep space so it could reach Venus",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-sept-4-1962-nasas-mariner-2-spacecrafts-performs-the-1st-ever-maneuver-in-deep-space-so-it-could-reach-venus",
+      "title": "Hubble Telescope sees spectacular 'superbubble' | Space photo of the day for Sept. 4, 2026",
+      "link": "https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-sees-spectacular-superbubble-space-photo-of-the-day-for-sept-4-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788530400
@@ -247,13 +352,6 @@
       "timestamp": 1788523973
     },
     {
-      "title": "Wolverine Legend Hugh Jackman Looks Set to Invest in an English Football Team, Following Deadpool Star Ryan Reynolds' Success With Wrexham",
-      "link": "https://www.ign.com/articles/wolverine-legend-hugh-jackman-looks-set-to-invest-in-an-english-football-team-following-deadpool-star-ryan-reynolds-success-with-wrexham",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788523326
-    },
-    {
       "title": "Feds launch investigation into Tesla’s Cybercab deployment",
       "link": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
       "source": "TECHCRUNCH",
@@ -275,18 +373,11 @@
       "timestamp": 1788521592
     },
     {
-      "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+.",
+      "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+",
       "link": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1788519605
-    },
-    {
-      "title": "PUBG: DED.NET Developer Argues Making a Game for the Mass Market Where 'Nobody's Too Offended and Everybody Kind of Likes It' Has Become 'Box Office Poison'",
-      "link": "https://www.ign.com/articles/pubg-dednet-developer-argues-making-a-game-for-the-mass-market-where-nobodys-too-offended-and-everybody-kind-of-likes-it-has-become-box-office-poison",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788518279
     },
     {
       "title": "Dying radio galaxies fade faster than scientists expected",
@@ -301,20 +392,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788516000
-    },
-    {
-      "title": "Marvel Secretly Developing New Live-Action Disney+ Project, Potentially Young Avengers or New Mutants",
-      "link": "https://www.ign.com/articles/marvel-secretly-developing-new-live-action-disney-project-potentially-young-avengers-or-new-mutants",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788515617
-    },
-    {
-      "title": "Amid Concern in Japan, Dragon Ball Producer Toei Animation Denies Involvement in Saudi-France Paris Theme Park",
-      "link": "https://www.ign.com/articles/amid-concern-in-japan-dragon-ball-producer-toei-animation-denies-involvement-in-saudi-france-paris-theme-park",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788509754
     },
     {
       "title": "What can the Clippers do now? Rebuilding after NBA's harshest penalties won't be easy, but there's a blueprint",
@@ -364,13 +441,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1788490927
-    },
-    {
-      "title": "Original Gran Turismo Circuit Returns to Series After 13-Year Absence",
-      "link": "https://www.ign.com/articles/original-gran-turismo-circuit-returns-to-series-after-13-year-absence",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788487341
     },
     {
       "title": "Deep beneath Mars, scientists find a vast hidden magma system",
@@ -436,27 +506,6 @@
       "timestamp": 1788465600
     },
     {
-      "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
-      "link": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788465126
-    },
-    {
-      "title": "The Cybercab is Tesla’s ‘fork in the road’ moment",
-      "link": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788464568
-    },
-    {
-      "title": "Supreme Court urged to let states regulate sports bets on prediction markets",
-      "link": "https://arstechnica.com/tech-policy/2026/09/nj-urges-scotus-to-rule-that-kalshi-sports-bets-are-gambling-not-swaps/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788464522
-    },
-    {
       "title": "Worst deal in NBA history? With Clippers' penalties, the Kawhi Leonard signing now rivals Luka Dončić trade",
       "link": "https://www.cbssports.com/nba/news/worst-deal-in-nba-history-clippers-penalties-kawhi-leonard-signing/",
       "source": "CBSSPORTS",
@@ -464,39 +513,11 @@
       "timestamp": 1788464501
     },
     {
-      "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
-      "link": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788461911
-    },
-    {
-      "title": "Just like a fruit fly, a new algorithm never forgets old scents",
-      "link": "https://arstechnica.com/science/2026/09/just-like-a-fruit-fly-a-new-algorithm-never-forgets-old-scents/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788459772
-    },
-    {
-      "title": "Four major AI models suffer rare overlapping downtime",
-      "link": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788459019
-    },
-    {
       "title": "2 spacecraft will soon reach Mercury after 8 years in space. Here's what BepiColombo can do",
       "link": "https://www.space.com/astronomy/mercury/2-spacecraft-will-soon-reach-mercury-after-8-years-in-space-heres-what-bepicolombo-can-do",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788458400
-    },
-    {
-      "title": "Trump’s 100% tariff on drones will be disaster for the US, critics warn",
-      "link": "https://arstechnica.com/tech-policy/2026/09/trumps-100-drone-tariff-has-cops-and-firefighters-panicking/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788455289
     },
     {
       "title": "Rockets, Amen Thompson agree to $208 million extension as Houston banks on continued growth from rising star",
@@ -534,15 +555,15 @@
       "timestamp": 1788451200
     },
     {
-      "title": "On this day in space! Sept. 3, 2006: Europe's SMART-1 spacecraft crashes into the moon in lunar death dive",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-3-2026",
+      "title": "Mesmerizing plasma loops on the sun | Space photo of the day for Sept. 3, 2026",
+      "link": "https://www.space.com/stargazing/astrophotography/mesmerizing-plasma-loops-on-the-sun-space-photo-of-the-day-for-sept-3-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788444000
     },
     {
-      "title": "Mesmerizing plasma loops on the sun | Space photo of the day for Sept. 3, 2026",
-      "link": "https://www.space.com/stargazing/astrophotography/mesmerizing-plasma-loops-on-the-sun-space-photo-of-the-day-for-sept-3-2026",
+      "title": "On this day in space! Sept. 3, 2006: Europe's SMART-1 spacecraft crashes into the moon in lunar death dive",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-3-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788444000
@@ -576,13 +597,6 @@
       "timestamp": 1788437836
     },
     {
-      "title": "India sends Earth-imaging satellite toward geosynchronous orbit in milestone launch (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/gslv-mark-ii-eos-05-launch-first-indian-geo-earth-observing-satellite",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788436800
-    },
-    {
       "title": "Bats carry dangerous viruses without getting sick. This may be why",
       "link": "https://www.sciencedaily.com/releases/2026/09/260901010713.htm",
       "source": "SCIENCEDAILY",
@@ -595,13 +609,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1788431344
-    },
-    {
-      "title": "Rocket issues delay 1st-ever private mission to Venus: 'We are awaiting Neutron readiness'",
-      "link": "https://www.space.com/astronomy/venus/rocket-issues-delay-1st-ever-private-mission-to-venus-we-are-awaiting-neutron-readiness",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788429600
     },
     {
       "title": "Revelations from NBA's Clippers investigation: What report says about Uncle Dennis, other companies and more",
@@ -637,13 +644,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1788389531
-    },
-    {
-      "title": "Astronomers discover mysterious 10-sided cloud structure at Saturn's south pole",
-      "link": "https://www.space.com/astronomy/saturn/astronomers-discover-mysterious-10-sided-cloud-structure-at-saturns-south-pole",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788382800
     },
     {
       "title": "SEC looking into Kawhi Leonard's endorsement deal with Daktronics as NBA probe continues",
