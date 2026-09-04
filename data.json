@@ -1,12 +1,75 @@
 {
-  "last_updated": 1788556357,
+  "last_updated": 1788565281,
   "items": [
+    {
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788564974
+    },
+    {
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788563711
+    },
+    {
+      "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
+      "link": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788562157
+    },
+    {
+      "title": "Scientists overturn a theory about this shark’s strange head",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260902234508.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788560672
+    },
+    {
+      "title": "The Odyssey Surpasses $1 Billion at International Box Office With Weeks Left In Theaters",
+      "link": "https://www.ign.com/articles/the-odyssey-surpasses-1-billion-at-international-box-office-with-weeks-left-in-theaters",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788560324
+    },
+    {
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788560256
+    },
+    {
+      "title": "Zach Cregger Already Has 'Ideas' About What He'd Do for a Second Resident Evil Movie",
+      "link": "https://www.ign.com/articles/zach-cregger-already-has-ideas-about-what-hed-do-for-a-second-resident-evil-movie",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788558889
+    },
+    {
+      "title": "Spider-Noir Canceled at Prime Video After One Season",
+      "link": "https://www.ign.com/articles/spider-noir-canceled-at-prime-video-after-one-season",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788557739
+    },
     {
       "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
       "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1788556331
+    },
+    {
+      "title": "Tetris Responds After Trump Administration Launches 'Build the Wall' Clone Game",
+      "link": "https://www.ign.com/articles/tetris-responds-after-trump-administration-launches-build-the-wall-clone-game",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788556254
     },
     {
       "title": "Scientists detect signals of hydrogen from billions of years ago. Could this help us map out the universe?",
@@ -254,24 +317,10 @@
       "timestamp": 1788531077
     },
     {
-      "title": "Odyssey Translator Emily Wilson, Who Slammed Nolan's Movie, Retranslating Homer’s Epic From Scratch",
-      "link": "https://www.ign.com/articles/emily-wilson-retranslating-the-odyssey-from-scratch",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788530520
-    },
-    {
       "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
       "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
       "source": "TECHCRUNCH",
       "category": "tech",
-      "timestamp": 1788530400
-    },
-    {
-      "title": "On this day in space! Sept. 4, 1962: NASA's Mariner 2 spacecrafts performs the 1st-ever maneuver in deep space so it could reach Venus",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-sept-4-1962-nasas-mariner-2-spacecrafts-performs-the-1st-ever-maneuver-in-deep-space-so-it-could-reach-venus",
-      "source": "SPACE",
-      "category": "space",
       "timestamp": 1788530400
     },
     {
@@ -282,18 +331,11 @@
       "timestamp": 1788530400
     },
     {
-      "title": "Nintendo Confirms 2 Nintendo Direct Broadcasts for Next Week, Including a Dedicated Legend of Zelda 40th Anniversary Broadcast",
-      "link": "https://www.ign.com/articles/nintendo-confirms-2-nintendo-direct-broadcasts-for-next-week-including-a-dedicated-legend-of-zelda-40th-anniversary-broadcast",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788530072
-    },
-    {
-      "title": "Exodus Romance Options Are Not Gender-Locked for Both Male and Female Leads",
-      "link": "https://www.ign.com/articles/exodus-romance-options-are-not-gender-locked-for-both-male-and-female-leads",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788528774
+      "title": "On this day in space! Sept. 4, 1962: NASA's Mariner 2 spacecrafts performs the 1st-ever maneuver in deep space so it could reach Venus",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-sept-4-1962-nasas-mariner-2-spacecrafts-performs-the-1st-ever-maneuver-in-deep-space-so-it-could-reach-venus",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788530400
     },
     {
       "title": "US military disabled ad tracking on troops’ devices following reports of targeted attacks",
@@ -314,13 +356,6 @@
       "link": "https://www.space.com/astronomy/solar-system/how-did-the-infant-sun-form-scientists-get-surprising-new-insights-from-4-6-billion-year-old-space-dust",
       "source": "SPACE",
       "category": "space",
-      "timestamp": 1788526800
-    },
-    {
-      "title": "How Explicit Are the Sex Scenes in Exodus? It Sounds Like Mass Effect Fans Will Find Them Familiar",
-      "link": "https://www.ign.com/articles/how-explicit-are-the-sex-scenes-in-exodus-it-sounds-like-mass-effect-fans-will-find-them-familiar",
-      "source": "IGN",
-      "category": "gaming",
       "timestamp": 1788526800
     },
     {
@@ -464,39 +499,11 @@
       "timestamp": 1788474941
     },
     {
-      "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
-      "link": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788473910
-    },
-    {
       "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
       "link": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1788473630
-    },
-    {
-      "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
-      "link": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788469859
-    },
-    {
-      "title": "Startup ARR is less secure than ever, new research shows",
-      "link": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788469163
-    },
-    {
-      "title": "150 research primates got diarrhea, flooding lab with priceless vaccine data",
-      "link": "https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788466488
     },
     {
       "title": "'Alien: Isolation 2': Facing a ruthless and evolved Xenomorph in our Gamescom hands-on preview",
@@ -602,13 +609,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1788436561
-    },
-    {
-      "title": "One immune switch may help drive aging across the body",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260901010717.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788431344
     },
     {
       "title": "Revelations from NBA's Clippers investigation: What report says about Uncle Dennis, other companies and more",
