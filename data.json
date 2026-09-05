@@ -1,6 +1,48 @@
 {
-  "last_updated": 1788618711,
+  "last_updated": 1788628003,
   "items": [
+    {
+      "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
+      "link": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788627600
+    },
+    {
+      "title": "The Batman Part 2 Set Photos Hint at Arkham-Style Batsuit Upgrade",
+      "link": "https://www.ign.com/articles/the-batman-part-2-set-photos-arkham-suit-upgrade",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788626304
+    },
+    {
+      "title": "Bruce Campbell Says He Has 5 Years Left to Live Amid Cancer Battle",
+      "link": "https://www.ign.com/articles/bruce-campbell-says-he-has-5-years-left-to-live-amid-cancer-battle",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788623772
+    },
+    {
+      "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
+      "link": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788621456
+    },
+    {
+      "title": "Oura is going public, but these smart ring companies are coming for its crown",
+      "link": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788620400
+    },
+    {
+      "title": "Venus is disappearing from the evening sky — here's how to see it while you can",
+      "link": "https://www.space.com/stargazing/venus-is-disappearing-from-the-evening-sky-heres-how-to-see-it-while-you-can",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788620400
+    },
     {
       "title": "This Lego Star Wars UCS AT-ST set is cheaper than ever — I'll always love this chicken walker",
       "link": "https://www.space.com/entertainment/space-toys-lego/this-lego-star-wars-ucs-at-st-set-is-cheaper-than-ever-and-ill-always-love-this-chicken-walker",
@@ -282,13 +324,6 @@
       "timestamp": 1788540173
     },
     {
-      "title": "Hideki Kamiya Tells Xbox CEO He's Ready to Make Scalebound When She Is",
-      "link": "https://www.ign.com/articles/hideki-kamiya-tells-xbox-ceo-hes-ready-to-make-scalebound-when-she-is",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788539499
-    },
-    {
       "title": "Second complete map of a fruit fly brain completed",
       "link": "https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain/",
       "source": "ARSTECHNICA",
@@ -331,13 +366,6 @@
       "timestamp": 1788537088
     },
     {
-      "title": "Game of Thrones Stage Play The Mad King Is Coming to London in 2027",
-      "link": "https://www.ign.com/articles/game-of-thrones-mad-king-play-london-2027",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788536905
-    },
-    {
       "title": "Trump White House just tossed a grenade into international space relations",
       "link": "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/",
       "source": "ARSTECHNICA",
@@ -373,15 +401,15 @@
       "timestamp": 1788530400
     },
     {
-      "title": "On this day in space! Sept. 4, 1962: NASA's Mariner 2 spacecrafts performs the 1st-ever maneuver in deep space so it could reach Venus",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-sept-4-1962-nasas-mariner-2-spacecrafts-performs-the-1st-ever-maneuver-in-deep-space-so-it-could-reach-venus",
+      "title": "Hubble Telescope sees spectacular 'superbubble' | Space photo of the day for Sept. 4, 2026",
+      "link": "https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-sees-spectacular-superbubble-space-photo-of-the-day-for-sept-4-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788530400
     },
     {
-      "title": "Hubble Telescope sees spectacular 'superbubble' | Space photo of the day for Sept. 4, 2026",
-      "link": "https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-sees-spectacular-superbubble-space-photo-of-the-day-for-sept-4-2026",
+      "title": "On this day in space! Sept. 4, 1962: NASA's Mariner 2 spacecrafts performs the 1st-ever maneuver in deep space so it could reach Venus",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-sept-4-1962-nasas-mariner-2-spacecrafts-performs-the-1st-ever-maneuver-in-deep-space-so-it-could-reach-venus",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788530400
@@ -394,15 +422,15 @@
       "timestamp": 1788528097
     },
     {
-      "title": "How did the infant sun form? Scientists get surprising new insights from 4.6-billion-year-old space dust",
-      "link": "https://www.space.com/astronomy/solar-system/how-did-the-infant-sun-form-scientists-get-surprising-new-insights-from-4-6-billion-year-old-space-dust",
+      "title": "We played 'Exodus', a sci-fi RPG that should please 'Mass Effect' fans, even if you can't romance the talking octopus",
+      "link": "https://www.space.com/entertainment/space-games/we-played-exodus-and-this-sci-fi-rpg-should-please-mass-effect-fans-even-if-you-cant-romance-the-talking-octopus",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788526800
     },
     {
-      "title": "We played 'Exodus', a sci-fi RPG that should please 'Mass Effect' fans, even if you can't romance the talking octopus",
-      "link": "https://www.space.com/entertainment/space-games/we-played-exodus-and-this-sci-fi-rpg-should-please-mass-effect-fans-even-if-you-cant-romance-the-talking-octopus",
+      "title": "How did the infant sun form? Scientists get surprising new insights from 4.6-billion-year-old space dust",
+      "link": "https://www.space.com/astronomy/solar-system/how-did-the-infant-sun-form-scientists-get-surprising-new-insights-from-4-6-billion-year-old-space-dust",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788526800
@@ -534,27 +562,6 @@
       "timestamp": 1788483149
     },
     {
-      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-      "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788482922
-    },
-    {
-      "title": "Oura files to go public",
-      "link": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788474941
-    },
-    {
-      "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
-      "link": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788473630
-    },
-    {
       "title": "'Alien: Isolation 2': Facing a ruthless and evolved Xenomorph in our Gamescom hands-on preview",
       "link": "https://www.space.com/entertainment/space-games/alien-isolation-2-facing-a-ruthless-and-evolved-xenomorph-in-our-gamescom-hands-on-preview",
       "source": "SPACE",
@@ -567,13 +574,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1788464501
-    },
-    {
-      "title": "2 spacecraft will soon reach Mercury after 8 years in space. Here's what BepiColombo can do",
-      "link": "https://www.space.com/astronomy/mercury/2-spacecraft-will-soon-reach-mercury-after-8-years-in-space-heres-what-bepicolombo-can-do",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788458400
     },
     {
       "title": "Rockets, Amen Thompson agree to $208 million extension as Houston banks on continued growth from rising star",
