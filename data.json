@@ -1,6 +1,90 @@
 {
-  "last_updated": 1788780645,
+  "last_updated": 1788801059,
   "items": [
+    {
+      "title": "The moon will hide Jupiter in broad daylight on Sept.8 — here's how to see it",
+      "link": "https://www.space.com/stargazing/the-moon-will-hide-jupiter-in-broad-daylight-on-sept-8-2026-here-is-how-to-see-it",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788796800
+    },
+    {
+      "title": "Earth's moon could have formed in just 5 hours after giant impact",
+      "link": "https://www.space.com/astronomy/moon/earths-moon-could-have-formed-in-just-5-hours-after-giant-impact",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788796800
+    },
+    {
+      "title": "What we expect from the upcoming Apple launch",
+      "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788796680
+    },
+    {
+      "title": "Lilly Wachowski Says 'I'm Kinda Done' With The Matrix, Reveals 'Complicated Situation' With The Matrix 5",
+      "link": "https://www.ign.com/articles/lilly-wachowski-says-im-kinda-done-with-the-matrix-reveals-complicated-situation-with-the-matrix-5",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788795757
+    },
+    {
+      "title": "On this day in space! Sept. 7, 1995: NASA launches its 100th astronaut flight on space shuttle Endeavour's STS-69 mission",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-7-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788792425
+    },
+    {
+      "title": "As Onimusha: Way of the Sword Sells Over 1 Million Day One, Capcom Says It's 'Focusing on Re-Activating IPs That Haven’t Had a New Title Launch Recently'",
+      "link": "https://www.ign.com/articles/as-onimusha-way-of-the-sword-sells-over-1-million-day-one-capcom-says-its-focusing-on-re-activating-ips-that-havent-had-a-new-title-launch-recently",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788789753
+    },
+    {
+      "title": "Galaxies tangled in science and spirit | Space photo of the day for Sept. 7, 2026",
+      "link": "https://www.space.com/astronomy/galaxies/galaxies-tangled-in-science-and-spirit-space-photo-of-the-day-for-sept-7-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788789600
+    },
+    {
+      "title": "Gary Oldman Says James Bond Has Been Cast — and He's Backing His Slow Horses Co-Star to Get the Job",
+      "link": "https://www.ign.com/articles/gary-oldman-says-james-bond-has-been-cast-and-hes-backing-his-slow-horses-co-star-to-get-the-gig",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788787834
+    },
+    {
+      "title": "The future of Earth observation: Private satellites and AI bring benefits but also pose risks",
+      "link": "https://www.space.com/astronomy/earth/the-future-of-earth-observation-private-satellites-and-ai-bring-benefits-but-also-pose-risks",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788786000
+    },
+    {
+      "title": "Tarae: The Unbound Developers Hope Its East Asia Folklore Aesthetic Sets It Apart From Western Medieval Action RPGs Like Diablo",
+      "link": "https://www.ign.com/articles/tarae-the-unbound-developers-hope-its-east-asia-folklore-aesthetic-sets-it-apart-from-western-medieval-action-rpgs-like-diablo",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788782054
+    },
+    {
+      "title": "Pokémon Go is Milking Mewtwo Too Hard, Fans Say, After a Lackluster Weekend Event Marred by More Server Issues",
+      "link": "https://www.ign.com/articles/pokemon-go-is-milking-mewtwo-too-hard-fans-say-after-a-lackluster-weekend-event-marred-by-more-server-issues",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788781263
+    },
+    {
+      "title": "The complex corporate web behind a $3.2 billion AI data center",
+      "link": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788778803
+    },
     {
       "title": "Cheaper than Prime Day, this super-portable, beginner-friendly telescope is my number one choice for skywatching",
       "link": "https://www.space.com/stargazing/skywatching-kit/cheaper-than-prime-day-this-super-portable-beginner-friendly-telescope-is-my-number-one-choice-for-skywatching",
@@ -205,13 +289,6 @@
       "timestamp": 1788653056
     },
     {
-      "title": "Left 4 Dead 2 Dev Admits Valve Intentionally Leaked Its Own Trailer After the ESRB Blocked It from Release",
-      "link": "https://www.ign.com/articles/left-4-dead-2-dev-admits-valve-intentionally-leaked-its-own-trailer-after-the-esrb-blocked-it-from-release",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788649385
-    },
-    {
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
       "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
       "source": "TECHCRUNCH",
@@ -224,20 +301,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1788647748
-    },
-    {
-      "title": "Insomniac Clears the Air After Marvel's Wolverine Fans Confuse Lady Deathstrike for Psylocke",
-      "link": "https://www.ign.com/articles/insomniac-clears-the-air-after-marvels-wolverine-fans-confuse-lady-deathstrike-for-psylocke",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788644090
-    },
-    {
-      "title": "Zach Cregger Says He's Done With Franchise Films After Resident Evil",
-      "link": "https://www.ign.com/articles/zach-cregger-says-hes-done-with-franchise-films-after-resident-evil",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788637325
     },
     {
       "title": "Hikers rescued after using Google Gemini for planning",
@@ -254,25 +317,11 @@
       "timestamp": 1788631527
     },
     {
-      "title": "The Blood of Dawnwalker Passes 1 Million Copies Sold in Just 2 Days",
-      "link": "https://www.ign.com/articles/the-blood-of-dawnwalker-passes-1-million-copies-sold-in-just-2-days",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788629416
-    },
-    {
       "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
       "link": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1788627600
-    },
-    {
-      "title": "The Batman Part 2 Set Photos Hint at Arkham-Style Batsuit Upgrade",
-      "link": "https://www.ign.com/articles/the-batman-part-2-set-photos-arkham-suit-upgrade",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788626304
     },
     {
       "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
@@ -322,13 +371,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788613200
-    },
-    {
-      "title": "This NASA-funded 'Slingshot' spacecraft idea could map minerals on planets and moons across our solar system",
-      "link": "https://www.space.com/technology/nasa-funds-spacecraft-concept-that-aims-to-map-minerals-on-solar-system-planets-and-moons",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788602400
     },
     {
       "title": "Life uses 4 DNA letters. Scientists just made 8 work",
@@ -387,13 +429,6 @@
       "timestamp": 1788556331
     },
     {
-      "title": "Scientists detect signals of hydrogen from billions of years ago. Could this help us map out the universe?",
-      "link": "https://www.space.com/astronomy/galaxies/scientists-detect-signals-of-hydrogen-from-billions-of-years-ago-could-this-help-us-map-out-the-universe",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788555600
-    },
-    {
       "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
       "link": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
       "source": "ARSTECHNICA",
@@ -413,20 +448,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1788548462
-    },
-    {
-      "title": "Trekkies honor 'Star Trek's' 60th birthday with fan events, special screenings, and a world record Vulcan salute",
-      "link": "https://www.space.com/entertainment/space-movies-shows/trekkies-honor-star-treks-60th-birthday-with-fan-events-special-screenings-and-a-world-record-vulcan-salute",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788548400
-    },
-    {
-      "title": "Venus is becoming a thinner crescent — and that's when it finally starts making sense",
-      "link": "https://www.space.com/stargazing/venus-is-becoming-a-thinner-crescent-and-thats-when-it-finally-starts-making-sense",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788544800
     },
     {
       "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
@@ -492,20 +513,6 @@
       "timestamp": 1788538938
     },
     {
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788538871
-    },
-    {
-      "title": "Stars forge and deliver the elements that make up your body — and scientists may finally know how",
-      "link": "https://www.space.com/astronomy/stars/stars-forge-and-deliver-the-elements-that-make-up-your-body-and-scientists-may-finally-know-how",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788537600
-    },
-    {
       "title": "Musk wins court order to block use of “Twitter,” but not “tweet” and bird logo",
       "link": "https://arstechnica.com/tech-policy/2026/09/musk-wins-court-order-to-block-use-of-twitter-but-not-tweet-and-bird-logo/",
       "source": "ARSTECHNICA",
@@ -518,13 +525,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1788537088
-    },
-    {
-      "title": "Trump White House just tossed a grenade into international space relations",
-      "link": "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788536793
     },
     {
       "title": "College football picks for Week 1; how Clippers can rebound from Kawhi Leonard saga",
