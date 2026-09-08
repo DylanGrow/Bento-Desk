@@ -1,6 +1,125 @@
 {
-  "last_updated": 1788889439,
+  "last_updated": 1788900038,
   "items": [
+    {
+      "title": "Call of Duty Adds Doom Slayer Skin as Part of New Halloween Update",
+      "link": "https://www.ign.com/articles/call-of-duty-adds-doom-slayer-skin-as-part-of-new-halloween-update",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788897840
+    },
+    {
+      "title": "Supreme Court forces TV stations to sell more election ads at steep discounts",
+      "link": "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788897000
+    },
+    {
+      "title": "Nintendo Intentionally Included Loading Screens in The Legend of Zelda: Ocarina of Time Remake, and Fans Are Torn",
+      "link": "https://www.ign.com/articles/nintendo-intentionally-included-loading-screens-in-the-legend-of-zelda-ocarina-of-time-remake-and-fans-are-torn",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788895485
+    },
+    {
+      "title": "Stoke Space raises $1 billion for fully reusable rockets, targets 'early 2027' for 1st-ever launch",
+      "link": "https://www.space.com/space-exploration/private-spaceflight/stoke-space-raises-usd1-billion-for-fully-reusable-rockets-targets-early-2027-for-1st-ever-launch",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788895436
+    },
+    {
+      "title": "Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change",
+      "link": "https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788894773
+    },
+    {
+      "title": "Ben Simmons returning to NBA: Kings taking upside swing as former No. 1 pick tries to salvage career",
+      "link": "https://www.cbssports.com/nba/news/ben-simmons-sacramento-kings-contract-nba-career/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1788894677
+    },
+    {
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788894000
+    },
+    {
+      "title": "'Star Trek' imagined strange new worlds 60 years ago, but are real exoplanets even stranger?",
+      "link": "https://www.space.com/entertainment/space-movies-shows/star-trek-imagined-strange-new-worlds-60-years-ago-but-are-real-exoplanets-even-stranger",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788894000
+    },
+    {
+      "title": "Godzilla Minus Zero IMAX trailer teases King Ghidorah",
+      "link": "https://arstechnica.com/culture/2026/09/godzilla-minus-zero-imax-trailer-teases-king-ghidorah/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788893603
+    },
+    {
+      "title": "Sega's President Says There's Been an Increase in Fans Who Don't Play Its Games, but That Doesn't Mean They Aren't Gamers",
+      "link": "https://www.ign.com/articles/segas-president-says-theres-been-an-increase-in-fans-who-dont-play-its-games-but-that-doesnt-mean-they-arent-gamers",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788893295
+    },
+    {
+      "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
+      "link": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788892989
+    },
+    {
+      "title": "Shift Up CTO Clarifies Stellar Blade Developer's Stance on AI After Blood Rain Music Video Controversy",
+      "link": "https://www.ign.com/articles/shift-up-cto-clarifies-stellar-blade-developers-stance-on-ai-after-blood-rain-music-video-controversy",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788891381
+    },
+    {
+      "title": "Update to Google’s AI weather model improves forecast accuracy",
+      "link": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788890456
+    },
+    {
+      "title": "Astrophotographer captures jaw-dropping view of the Crescent Nebula",
+      "link": "https://www.space.com/stargazing/astrophotography/astrophotographer-captures-jaw-dropping-view-of-the-crescent-nebula",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788890400
+    },
+    {
+      "title": "'It Definitely Was a Shock': The Legend of Zelda: Ocarina of Time Artwork Splits Fans Following Trailer Reveal",
+      "link": "https://www.ign.com/articles/it-definitely-was-a-shock-the-legend-of-zelda-ocarina-of-time-artwork-splits-fans-following-trailer-reveal",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788889891
+    },
+    {
+      "title": "How to watch Apple’s foldable iPhone announcement",
+      "link": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788889613
+    },
+    {
+      "title": "Original Star Wars and Starfighter Heading to IMAX 70mm",
+      "link": "https://www.ign.com/articles/star-wars-starfighter-imax-70mm-release",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788889021
+    },
     {
       "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
       "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
@@ -9,11 +128,32 @@
       "timestamp": 1788888735
     },
     {
+      "title": "LEGO Reveals Its Biggest Book Nook Set So Far and It's Not Connected to Any Major Franchises",
+      "link": "https://www.ign.com/articles/lego-reveals-its-bookstore-book-nook-set-for-october-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788888214
+    },
+    {
+      "title": "Fans Are More Convinced Than Ever That Robert Pattinson Is Starring in Hideo Kojima’s Physint Game",
+      "link": "https://www.ign.com/articles/fans-are-more-convinced-than-ever-that-robert-pattinson-is-starring-in-hideo-kojimas-physint-game",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788888155
+    },
+    {
       "title": "On this day in space! Sept. 8, 2004: NASA's Genesis spacecraft crashed in the Utah desert, shattering its samples of solar wind particles from the sun",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-8-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788887862
+    },
+    {
+      "title": "South Park Trolls Trump, Google, and Apple With Official Season 29 Name Change",
+      "link": "https://www.ign.com/articles/south-park-trolls-trump-google-and-apple-with-official-season-29-name-change",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788887775
     },
     {
       "title": "An unmissable $450 off, we rank this vintage-style Nikon as the best camera under $2000, but it is going fast",
@@ -149,13 +289,6 @@
       "timestamp": 1788876689
     },
     {
-      "title": "The Legend of Zelda Live-Action Movie Will Be an Original Story Based on the Series So Far",
-      "link": "https://www.ign.com/articles/the-legend-of-zelda-live-action-movie-detailed",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788876624
-    },
-    {
       "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
       "link": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
       "source": "TECHCRUNCH",
@@ -167,13 +300,6 @@
       "link": "https://www.space.com/space-exploration/missions/spacex-rocket-taxi-returns-after-roman-telescope-launch-space-photo-of-the-day-for-sept-8-2026",
       "source": "SPACE",
       "category": "space",
-      "timestamp": 1788876000
-    },
-    {
-      "title": "Donnie Darko Returning to Theaters in 4K for 25th Anniversary",
-      "link": "https://www.ign.com/articles/donnie-darko-25th-anniversary-4k-theatrical-re-release",
-      "source": "IGN",
-      "category": "gaming",
       "timestamp": 1788876000
     },
     {
@@ -233,13 +359,6 @@
       "timestamp": 1788870558
     },
     {
-      "title": "The Legend of Zelda 40th Anniversary Direct — Everything Announced by Nintendo",
-      "link": "https://www.ign.com/articles/the-legend-of-zelda-40th-anniversary-direct-everything-announced-by-nintendo",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788870127
-    },
-    {
       "title": "Scientists observe Einstein’s gravity in the quantum world for the first time",
       "link": "https://www.sciencedaily.com/releases/2026/09/260907201552.htm",
       "source": "SCIENCEDAILY",
@@ -254,20 +373,6 @@
       "timestamp": 1788868707
     },
     {
-      "title": "Spider-Man: Brand New Day Is So Phenomenally Successful Because 'It's About a Lonely Guy,' Sony Boss Says",
-      "link": "https://www.ign.com/articles/spider-man-brand-new-day-is-so-phenomenally-successful-because-its-about-a-lonely-guy-sony-boss-says",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788868302
-    },
-    {
-      "title": "The War for Westeros Developers Are Planning for a Flood of Game of Thrones Fans Who Have Never Played an RTS",
-      "link": "https://www.ign.com/articles/the-war-for-westeros-developers-are-planning-for-a-flood-of-game-of-thrones-fans-who-have-never-played-an-rts",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788865152
-    },
-    {
       "title": "The Vela Incident: Did an American satellite detect a secret nuclear test in 1979?",
       "link": "https://www.space.com/space-exploration/satellites/the-vela-incident-did-an-american-satellite-detect-a-secret-nuclear-test-in-1979",
       "source": "SPACE",
@@ -275,25 +380,11 @@
       "timestamp": 1788861600
     },
     {
-      "title": "Andrew Garfield Says He Hopes Billionaires Are 'Scared S**tless' by His New Movie, The Uprising",
-      "link": "https://www.ign.com/articles/andrew-garfield-says-he-hopes-billionaires-are-scared-stless-by-his-new-movie-the-uprising",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788858178
-    },
-    {
       "title": "Stoke Space raises another billion to rival SpaceX at re-flying rockets",
       "link": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1788858000
-    },
-    {
-      "title": "Nintendo Store Leak Reveals The Legend of Zelda: Ocarina of Time Switch 2 Remake Pricing",
-      "link": "https://www.ign.com/articles/nintendo-store-leak-reveals-the-legend-of-zelda-ocarina-of-time-switch-2-remake-pricing",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788857544
     },
     {
       "title": "Early statin use linked to 15% lower dementia risk",
@@ -317,20 +408,6 @@
       "timestamp": 1788833350
     },
     {
-      "title": "NHL 27 Is Using AI-Generated Voiceover for In-Game Commentators, John Buccigross Says",
-      "link": "https://www.ign.com/articles/nhl-27-is-using-ai-generated-voiceover-for-in-game-commentators-john-buccigross-says",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788819949
-    },
-    {
-      "title": "Final Fantasy Resonance Mod Brings Back Classic FF Character Ariana Grande",
-      "link": "https://www.ign.com/articles/final-fantasy-resonance-mod-brings-back-classic-ff-character-ariana-grande",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788818696
-    },
-    {
       "title": "'The Last Starship' is 2026's most slept-on space game — you need to check out this 'FTL'-like shipbuilding strategy gem",
       "link": "https://www.space.com/entertainment/space-games/the-last-starship-is-2026s-most-slept-on-space-game-you-need-to-check-out-this-ftl-like-shipbuilding-strategy-gem",
       "source": "SPACE",
@@ -352,15 +429,15 @@
       "timestamp": 1788804149
     },
     {
-      "title": "The moon will hide Jupiter in broad daylight today — here's how to see it",
-      "link": "https://www.space.com/stargazing/the-moon-will-hide-jupiter-in-broad-daylight-on-sept-8-2026-here-is-how-to-see-it",
+      "title": "Earth's moon could have formed in just 5 hours after giant impact",
+      "link": "https://www.space.com/astronomy/moon/earths-moon-could-have-formed-in-just-5-hours-after-giant-impact",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788796800
     },
     {
-      "title": "Earth's moon could have formed in just 5 hours after giant impact",
-      "link": "https://www.space.com/astronomy/moon/earths-moon-could-have-formed-in-just-5-hours-after-giant-impact",
+      "title": "The moon will hide Jupiter in broad daylight today — here's how to see it",
+      "link": "https://www.space.com/stargazing/the-moon-will-hide-jupiter-in-broad-daylight-on-sept-8-2026-here-is-how-to-see-it",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788796800
@@ -399,20 +476,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1788778803
-    },
-    {
-      "title": "Cheaper than Prime Day, this super-portable, beginner-friendly telescope is my number one choice for skywatching",
-      "link": "https://www.space.com/stargazing/skywatching-kit/cheaper-than-prime-day-this-super-portable-beginner-friendly-telescope-is-my-number-one-choice-for-skywatching",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788778800
-    },
-    {
-      "title": "Labor Day in space: NASA astronauts get the holiday off",
-      "link": "https://www.space.com/space-exploration/international-space-station/labor-day-in-space-nasa-astronauts-get-the-holiday-off",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788775200
     },
     {
       "title": "Scientists say love follows hidden mathematical rules",
@@ -471,27 +534,6 @@
       "timestamp": 1788729685
     },
     {
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788727657
-    },
-    {
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788713100
-    },
-    {
-      "title": "On this day in space! Sept. 6, 1947: The US Navy launches 1st V-2 rocket at sea in ballistic missile test",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-6-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788711784
-    },
-    {
       "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
       "link": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
       "source": "ARSTECHNICA",
@@ -525,48 +567,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1788562157
-    },
-    {
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788560256
-    },
-    {
-      "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
-      "link": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788553361
-    },
-    {
-      "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
-      "link": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788551194
-    },
-    {
-      "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
-      "link": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788548462
-    },
-    {
-      "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
-      "link": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788543302
-    },
-    {
-      "title": "Ben Simmons returning to NBA: Kings taking upside swing as former No. 1 pick tries to salvage career",
-      "link": "https://www.cbssports.com/nba/news/ben-simmons-sacramento-kings-contract-nba-career/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1788537088
     },
     {
       "title": "College football picks for Week 1; how Clippers can rebound from Kawhi Leonard saga",
