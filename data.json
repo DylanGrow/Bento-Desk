@@ -1,6 +1,83 @@
 {
-  "last_updated": 1788985313,
+  "last_updated": 1788994420,
   "items": [
+    {
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788992722
+    },
+    {
+      "title": "Some of the Best Batman Movies Are Returning to Theaters This Month",
+      "link": "https://www.ign.com/articles/some-of-the-best-batman-movies-are-returning-to-theaters-this-month",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788992043
+    },
+    {
+      "title": "Redwall's 23rd and Final Book Is Finally Getting Published After 16 Years",
+      "link": "https://www.ign.com/articles/redwalls-23rd-and-final-book-is-finally-getting-published-after-16-years",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788990227
+    },
+    {
+      "title": "Massachusetts hits data centers with new clean power rules",
+      "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788990214
+    },
+    {
+      "title": "Michael Mann Recuts Miami Vice for October Beyond Fest World Premiere",
+      "link": "https://www.ign.com/articles/miami-vice-directors-final-cut-october-premiere",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788987931
+    },
+    {
+      "title": "This 'impossible' black hole merger may be explained by a warp in spacetime",
+      "link": "https://www.space.com/astronomy/black-holes/this-impossible-black-hole-merger-may-be-explained-by-a-warp-in-spacetime",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788987600
+    },
+    {
+      "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
+      "link": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788987489
+    },
+    {
+      "title": "Marvel's Guardians of the Galaxy's Surprise Switch 2 Port Has Some Fans Hoping for a Sequel",
+      "link": "https://www.ign.com/articles/marvels-guardians-of-the-galaxys-surprise-switch-2-port-has-some-fans-hoping-for-a-sequel",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788986487
+    },
+    {
+      "title": "Onimusha: Way of the Sword Is Getting an Official Prequel Webtoon With New Chapters Every Saturday",
+      "link": "https://www.ign.com/articles/onimusha-way-of-the-sword-is-getting-an-official-prequel-webtoon-with-new-chapters-every-saturday",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788985782
+    },
+    {
+      "title": "How Many Guest Characters Is Too Many? Tokyo Revengers X City of the Wolves Collaboration Sparks Fighting Game Debate",
+      "link": "https://www.ign.com/articles/how-many-guest-characters-is-too-many-tokyo-revengers-x-city-of-the-wolves-collaboration-sparks-fighting-game-debate",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788985775
+    },
+    {
+      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+      "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788985488
+    },
     {
       "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
       "link": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
@@ -65,7 +142,7 @@
       "timestamp": 1788981610
     },
     {
-      "title": "Attack on Titan is Coming to 4DX Theaters, But There's a Catch",
+      "title": "Attack on Titan Is Coming to 4DX Theaters, but There's a Catch",
       "link": "https://www.ign.com/articles/attack-on-titan-is-coming-to-4dx-theaters-but-theres-a-catch",
       "source": "IGN",
       "category": "gaming",
@@ -149,7 +226,7 @@
       "timestamp": 1788977326
     },
     {
-      "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+      "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
       "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -219,13 +296,6 @@
       "timestamp": 1788973180
     },
     {
-      "title": "DOJ wants more answers on Fox’s $22B Roku deal",
-      "link": "https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788972261
-    },
-    {
       "title": "Prime Video releases full trailer for Mike Flanagan's Carrie",
       "link": "https://arstechnica.com/culture/2026/09/prime-video-releases-full-trailer-for-mike-flanagans-carrie/",
       "source": "ARSTECHNICA",
@@ -254,13 +324,6 @@
       "timestamp": 1788970535
     },
     {
-      "title": "Superintelligence is coming. Should we let it?",
-      "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788969935
-    },
-    {
       "title": "PlayStation Plus Game Catalog for September 2026 Confirmed",
       "link": "https://www.ign.com/articles/playstation-plus-game-catalog-for-september-2026-confirmed",
       "source": "IGN",
@@ -282,67 +345,11 @@
       "timestamp": 1788967435
     },
     {
-      "title": "Viral AI assistant Instinct now has its own email address",
-      "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788966792
-    },
-    {
-      "title": "Uber rival inDrive scales beyond ride-hailing to capture more consumer spending",
-      "link": "https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788966641
-    },
-    {
       "title": "US military practices orbital dogfighting in 1st-ever 'live fly' exercise in space",
       "link": "https://www.space.com/space-exploration/satellites/us-military-practices-orbital-dogfighting-in-1st-ever-live-fly-exercise-in-space",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788966000
-    },
-    {
-      "title": "Kirby and the World Beyond Revealed With Gameplay Ahead of Spring 2027 Nintendo Switch 2 Launch",
-      "link": "https://www.ign.com/articles/kirby-and-the-world-beyond-revealed-with-gameplay-ahead-of-spring-2027-launch",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788965655
-    },
-    {
-      "title": "Mario Kart World Update to Add Classic Tracks for Free Later Today",
-      "link": "https://www.ign.com/articles/mario-kart-world-update-to-add-classic-tracks-for-free-later-today",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788964965
-    },
-    {
-      "title": "Metroid Ravenous Announced, a Side-Scrolling Sequel to Metroid Dread",
-      "link": "https://www.ign.com/articles/metroid-ravenous-announced-a-side-scrolling-sequel-to-metroid-dread",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788964265
-    },
-    {
-      "title": "Meccha Chameleon Sneaks Onto Nintendo Switch 2 Later Today",
-      "link": "https://www.ign.com/articles/meccha-chameleon-sneaks-onto-nintendo-switch-2-later-today",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788963985
-    },
-    {
-      "title": "Hyrule Warriors: Age of Calamity Is Coming to Switch 2 With a Discount for Existing Owners",
-      "link": "https://www.ign.com/articles/hyrule-warriors-age-of-calamity-is-coming-to-switch-2-with-a-discount-for-existing-owners",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788963750
-    },
-    {
-      "title": "GameCube Classic Star Fox Adventures Available Via Nintendo Switch Online Today",
-      "link": "https://www.ign.com/articles/gamecube-classic-star-fox-adventures-available-via-nintendo-switch-online-today",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788963677
     },
     {
       "title": "On this day in space! Sept. 9, 1982: The 1st private rocket, called Conestoga 1, launches from a Texas cattle ranch",
@@ -539,13 +546,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788890400
-    },
-    {
-      "title": "On this day in space! Sept. 8, 2004: NASA's Genesis spacecraft crashed in the Utah desert, shattering its samples of solar wind particles from the sun",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-8-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788887862
     },
     {
       "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
