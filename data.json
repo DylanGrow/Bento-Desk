@@ -1,6 +1,258 @@
 {
-  "last_updated": 1788958127,
+  "last_updated": 1788973248,
   "items": [
+    {
+      "title": "DOJ wants more answers on Fox’s $22B Roku deal",
+      "link": "https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788972261
+    },
+    {
+      "title": "Spyro: A Realm Beyond Gets New Look for Franchise's 28th Anniversary",
+      "link": "https://www.ign.com/articles/spyro-a-realm-beyond-gets-new-look-for-franchises-28th-anniversary",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788970535
+    },
+    {
+      "title": "Superintelligence is coming. Should we let it?",
+      "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788969935
+    },
+    {
+      "title": "PlayStation Plus Game Catalog for September 2026 Confirmed",
+      "link": "https://www.ign.com/articles/playstation-plus-game-catalog-for-september-2026-confirmed",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788969762
+    },
+    {
+      "title": "We're about to exceed 1.5-degree global warming limit, according to the UN",
+      "link": "https://www.space.com/science/climate-change/were-about-to-exceed-1-5-degree-global-warming-limit-according-to-the-un",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788969600
+    },
+    {
+      "title": "Resident Evil 2, 3, and 4 Remakes Are Coming to Nintendo Switch 2 Very Soon",
+      "link": "https://www.ign.com/articles/resident-evil-2-3-and-4-remakes-are-coming-to-nintendo-switch-2-very-soon",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788967435
+    },
+    {
+      "title": "Apple Event Live Report – Will Apple Release a Folding iPhone?",
+      "link": "https://www.ign.com/articles/apple-surprise-and-shine-event-everything-announced",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788967217
+    },
+    {
+      "title": "Viral AI assistant Instinct now has its own email address",
+      "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788966792
+    },
+    {
+      "title": "Uber rival inDrive scales beyond ride-hailing to capture more consumer spending",
+      "link": "https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788966641
+    },
+    {
+      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+      "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788966167
+    },
+    {
+      "title": "US military practices orbital dogfighting in 1st-ever 'live fly' exercise in space",
+      "link": "https://www.space.com/space-exploration/satellites/us-military-practices-orbital-dogfighting-in-1st-ever-live-fly-exercise-in-space",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788966000
+    },
+    {
+      "title": "Kirby and the World Beyond Revealed With Gameplay Ahead of Spring 2027 Nintendo Switch 2 Launch",
+      "link": "https://www.ign.com/articles/kirby-and-the-world-beyond-revealed-with-gameplay-ahead-of-spring-2027-launch",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788965655
+    },
+    {
+      "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+      "link": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788965505
+    },
+    {
+      "title": "Mario Kart World Update to Add Classic Tracks for Free Later Today",
+      "link": "https://www.ign.com/articles/mario-kart-world-update-to-add-classic-tracks-for-free-later-today",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788964965
+    },
+    {
+      "title": "Uber invests $10M in Indian fleet operator Carrum at $168M valuation",
+      "link": "https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788964721
+    },
+    {
+      "title": "Metroid Ravenous Announced, a Side-Scrolling Sequel to Metroid Dread",
+      "link": "https://www.ign.com/articles/metroid-ravenous-announced-a-side-scrolling-sequel-to-metroid-dread",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788964265
+    },
+    {
+      "title": "Meccha Chameleon Sneaks Onto Nintendo Switch 2 Later Today",
+      "link": "https://www.ign.com/articles/meccha-chameleon-sneaks-onto-nintendo-switch-2-later-today",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788963985
+    },
+    {
+      "title": "Hyrule Warriors: Age of Calamity Is Coming to Switch 2 With a Discount for Existing Owners",
+      "link": "https://www.ign.com/articles/hyrule-warriors-age-of-calamity-is-coming-to-switch-2-with-a-discount-for-existing-owners",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788963750
+    },
+    {
+      "title": "GameCube Classic Star Fox Adventures Available Via Nintendo Switch Online Today",
+      "link": "https://www.ign.com/articles/gamecube-classic-star-fox-adventures-available-via-nintendo-switch-online-today",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788963677
+    },
+    {
+      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+      "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788963514
+    },
+    {
+      "title": "Nintendo Confirms Pikmin 4 Switch 2 Edition",
+      "link": "https://www.ign.com/articles/nintendo-confirms-pikmin-4-switch-2-edition",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788963366
+    },
+    {
+      "title": "Monster Hunter Wilds Nintendo Switch 2 Release Date Set for December 2026",
+      "link": "https://www.ign.com/articles/monster-hunter-wilds-nintendo-switch-2-release-date-set-for-december-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788962981
+    },
+    {
+      "title": "Xiri: Oasis Cities, a Survival-Based High-Tech Future-Set City-Builder, Announced for PC",
+      "link": "https://www.ign.com/articles/xiri-oasis-cities-a-survival-based-high-tech-future-set-city-builder-announced-for-pc",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788962400
+    },
+    {
+      "title": "On this day in space! Sept. 9, 1982: The 1st private rocket, called Conestoga 1, launches from a Texas cattle ranch",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-9-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788962400
+    },
+    {
+      "title": "Indonesian volcanic eruption spotted from space | Space photo of the day for Sept. 9, 2026",
+      "link": "https://www.space.com/astronomy/earth/indonesian-volcanic-eruption-spotted-from-space-space-photo-of-the-day-for-sept-9-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788962400
+    },
+    {
+      "title": "NOAA is putting commercial fishing ahead of conservation",
+      "link": "https://arstechnica.com/science/2026/09/noaa-is-putting-commercial-fishing-ahead-of-conservation/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1788962324
+    },
+    {
+      "title": "Scientists find a bone-building switch that could fight osteoporosis",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909005305.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788961973
+    },
+    {
+      "title": "NFL season arrives -- here's everything you need to know; Michigan tumbles out of college football rankings",
+      "link": "https://www.cbssports.com/nfl/news/nfl-season-arrives-heres-everything-you-need-to-know-michigan-tumbles-out-of-college-football-rankings/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1788959679
+    },
+    {
+      "title": "The Elder Scrolls V: Skyrim Official IKEA Mod Features Matt Berry as a Kallax Storage Companion",
+      "link": "https://www.ign.com/articles/the-elder-scrolls-v-skyrim-official-ikea-mod-features-matt-berry-as-a-kallax-storage-companion",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788959410
+    },
+    {
+      "title": "Ozempic and Wegovy linked to nearly 40% fewer asthma attacks",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909005155.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788959213
+    },
+    {
+      "title": "Group of bipartisan lawmakers ask US government to ban several hack-for-hire firms",
+      "link": "https://techcrunch.com/2026/09/09/group-of-bipartisan-lawmakers-ask-us-government-to-ban-several-hack-for-hire-firms/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788958860
+    },
+    {
+      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788958800
+    },
+    {
+      "title": "Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive",
+      "link": "https://techcrunch.com/2026/09/09/autonomy-pivots-to-gas-vehicles-to-keep-the-dream-of-car-subscriptions-alive/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788958800
+    },
+    {
+      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1788958800
+    },
+    {
+      "title": "No Man's Sky 10th Anniversary Cosmos Update Actually Updates Space, Lets Players Finally Reach Stars",
+      "link": "https://www.ign.com/articles/no-mans-sky-10th-anniversary-cosmos-update-actually-updates-space-lets-players-finally-reach-stars",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1788958800
+    },
+    {
+      "title": "A photon from the biggest cosmic explosion since the Big Bang appears to have defied Einstein. Scientists may finally know how",
+      "link": "https://www.space.com/science/astrophysics/a-photon-from-the-biggest-cosmic-explosion-since-the-big-bang-appears-to-have-defied-einstein-scientists-may-finally-know-how",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1788958800
+    },
     {
       "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
       "link": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
@@ -9,7 +261,7 @@
       "timestamp": 1788957000
     },
     {
-      "title": "Nintendo Direct September 2026 Live Report: All the Announcements as They Happen",
+      "title": "Nintendo Direct September 2026 Live Report: Everything Announced",
       "link": "https://www.ign.com/articles/nintendo-direct-september-2026-live-report-all-the-announcements-as-they-happen",
       "source": "IGN",
       "category": "gaming",
@@ -37,18 +289,18 @@
       "timestamp": 1788955200
     },
     {
+      "title": "Have we found alien life? Hundreds of scientists weigh in",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909005212.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788952410
+    },
+    {
       "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
       "link": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1788951610
-    },
-    {
-      "title": "Anthropic Safety Researcher Says There's a More Than 10% Chance AI 'Could Kill All Humans' Within the Next Decade",
-      "link": "https://www.ign.com/articles/anthropic-safety-researcher-says-theres-a-more-than-10-chance-ai-could-kill-all-humans-within-the-next-decade",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788950555
     },
     {
       "title": "China on track to launch Mars sample-return mission in 2028: 'If accurate, this represents a Sputnik moment'",
@@ -58,11 +310,25 @@
       "timestamp": 1788948000
     },
     {
-      "title": "Apparent Steam Leak Reveals Persona 6 and Kingdom Hearts 4 Achievements, Unannounced Games",
-      "link": "https://www.ign.com/articles/apparent-steam-leak-reveals-persona-6-and-kingdom-hearts-4-achievements-unannounced-games",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788947301
+      "title": "Interstellar comet 3I/ATLAS is bursting with methanol",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909005217.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788943659
+    },
+    {
+      "title": "Devil’s Arrows: Ancient builders hauled 55,000-pound stones 11 miles for Britain’s tallest stone row",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788939681
+    },
+    {
+      "title": "“Parachute science” is failing the tropics, home to more than 80% of insect species",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909005145.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788935455
     },
     {
       "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
@@ -72,11 +338,18 @@
       "timestamp": 1788933600
     },
     {
-      "title": "IGN Australia and Chupa Chups to Host a Retro Gaming ‘Fun House’ Activation at Westfield Parramatta This October",
-      "link": "https://www.ign.com/articles/chupa-chups-forever-fun-house",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788928322
+      "title": "Chinese scientists find a hidden atomic structure that unlocks methane",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909005148.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788932022
+    },
+    {
+      "title": "Geologists reveal the Americas collided millions of years earlier than thought",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260907201608.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788928501
     },
     {
       "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
@@ -86,46 +359,25 @@
       "timestamp": 1788926460
     },
     {
-      "title": "Netflix Orders Lonesome Dove TV Series From East of Eden Showrunners",
-      "link": "https://www.ign.com/articles/netflix-lonesome-dove-series-zoe-kazan",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788922201
+      "title": "Dark energy debunked? Cosmic acceleration may be an illusion",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260907201600.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788926348
     },
     {
-      "title": "AMC Theaters Is Broadcasting the 2026 Rocket League World Championship Finals at Select Cinemas Across the US",
-      "link": "https://www.ign.com/articles/amc-theaters-is-broadcasting-the-2026-rocket-league-world-championship-finals-at-select-cinemas-across-the-us",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788910415
+      "title": "Astronomers detect ancient hydrogen signal that could help map the Universe",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260907201556.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788923215
     },
     {
-      "title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
-      "link": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788909803
-    },
-    {
-      "title": "The Lord of the Rings: The Rings of Power Is Finally Getting a 4K Blu-ray Release Ahead of Season 3",
-      "link": "https://www.ign.com/articles/lord-of-the-rings-the-rings-of-power-season-1-2-4k-blu-ray-where-to-buy",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788909323
-    },
-    {
-      "title": "Artificial Looks Like a Horror Movie in First Teaser for Sam Altman Biopic After Amazon Pulled the Plug",
-      "link": "https://www.ign.com/articles/artificial-looks-like-a-horror-movie-in-first-teaser-for-sam-altman-biopic-after-amazon-pulled-the-plug",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788906793
-    },
-    {
-      "title": "Breaking Benjamin Frontman Stops His Own Concert to Rant About His Feud With a Fallout 4 Modder",
-      "link": "https://www.ign.com/articles/breaking-benjamin-frontman-pauses-his-own-concert-to-rant-about-his-with-a-fallout-4-modder",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788905409
+      "title": "Caffeine may flip an ancient cellular switch linked to slower aging",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260907201609.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1788913693
     },
     {
       "title": "LG TV shown scanning LAN for third-party phones and other devices",
@@ -133,27 +385,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1788904349
-    },
-    {
-      "title": "Snoop Dogg Biopic Casts D'Angelo's Son, Swayvo Twain, as The Notorious B.I.G.",
-      "link": "https://www.ign.com/articles/snoop-dogg-biopic-casts-dangelos-son-swayvo-twain-as-the-notorious-big",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788904096
-    },
-    {
-      "title": "PlayStation Architect Mark Cerny 'Nearing the End' of Career, Launching Fellowship Program With Game Awards Creator Geoff Keighley",
-      "link": "https://www.ign.com/articles/playstation-architect-mark-cerny-nearing-the-end-of-career-launching-fellowship-program-with-game-awards-creator-geoff-keighley",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788903851
-    },
-    {
-      "title": "One of Street Fighter 2's Original Designers Wants to Rebalance Super Turbo 3 Decades After Its Release",
-      "link": "https://www.ign.com/articles/one-of-street-fighter-2s-original-designers-wants-to-rebalance-super-turbo-3-decades-after-its-release",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788902596
     },
     {
       "title": "GOG brings back \"big box\" PC games, one printable template at a time",
@@ -170,39 +401,11 @@
       "timestamp": 1788901906
     },
     {
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788901827
-    },
-    {
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788901446
-    },
-    {
       "title": "Did Venus eat its own moon?",
       "link": "https://www.space.com/astronomy/venus/did-venus-eat-its-own-moon",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788901200
-    },
-    {
-      "title": "The Exploration Company nabs $450 million to challenge SpaceX",
-      "link": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788900454
-    },
-    {
-      "title": "Trump Administration Tetris Clone Vanishes from White House Website Days After Launch",
-      "link": "https://www.ign.com/articles/trump-administration-tetris-clone-vanishes-from-white-house-website-days-after-launch",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788899380
     },
     {
       "title": "Lakers will unveil Phil Jackson statue: Hall of Fame coach to become ninth honored in Star Plaza",
@@ -226,25 +429,11 @@
       "timestamp": 1788898004
     },
     {
-      "title": "Call of Duty Adds Doom Slayer Skin as Part of New Halloween Update",
-      "link": "https://www.ign.com/articles/call-of-duty-adds-doom-slayer-skin-as-part-of-new-halloween-update",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788897840
-    },
-    {
       "title": "Supreme Court forces TV stations to sell more election ads at steep discounts",
       "link": "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1788897000
-    },
-    {
-      "title": "Nintendo Intentionally Included Loading Screens in The Legend of Zelda: Ocarina of Time Remake, and Fans Are Torn",
-      "link": "https://www.ign.com/articles/nintendo-intentionally-included-loading-screens-in-the-legend-of-zelda-ocarina-of-time-remake-and-fans-are-torn",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788895485
     },
     {
       "title": "Stoke Space raises $1 billion for fully reusable rockets, targets 'early 2027' for 1st-ever launch",
@@ -268,14 +457,7 @@
       "timestamp": 1788894677
     },
     {
-      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788894000
-    },
-    {
-      "title": "'Star Trek' imagined strange new worlds 60 years ago, but are real exoplanets even stranger?",
+      "title": "'Star Trek' imagined strange new worlds 60 years ago, but real exoplanets are even stranger",
       "link": "https://www.space.com/entertainment/space-movies-shows/star-trek-imagined-strange-new-worlds-60-years-ago-but-are-real-exoplanets-even-stranger",
       "source": "SPACE",
       "category": "space",
@@ -287,13 +469,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1788893603
-    },
-    {
-      "title": "Sega's President Says There's Been an Increase in Fans Who Don't Play Its Games, but That Doesn't Mean They Aren't Gamers",
-      "link": "https://www.ign.com/articles/segas-president-says-theres-been-an-increase-in-fans-who-dont-play-its-games-but-that-doesnt-mean-they-arent-gamers",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788893295
     },
     {
       "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
@@ -315,20 +490,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788890400
-    },
-    {
-      "title": "How to watch Apple’s foldable iPhone announcement",
-      "link": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788889613
-    },
-    {
-      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-      "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788888735
     },
     {
       "title": "On this day in space! Sept. 8, 2004: NASA's Genesis spacecraft crashed in the Utah desert, shattering its samples of solar wind particles from the sun",
@@ -366,13 +527,6 @@
       "timestamp": 1788884458
     },
     {
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788884431
-    },
-    {
       "title": "The combat demo for Free Stars: Children of Infinity is out, and it's free",
       "link": "https://arstechnica.com/gaming/2026/09/the-official-sequel-to-the-ur-quan-masters-releases-its-free-demo-today/",
       "source": "ARSTECHNICA",
@@ -387,53 +541,11 @@
       "timestamp": 1788883200
     },
     {
-      "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
-      "link": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788881135
-    },
-    {
-      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-      "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788879849
-    },
-    {
       "title": "As 'Star Trek' turns 60, we take the iconic sci-fi franchise to sickbay for a full health report",
       "link": "https://www.space.com/entertainment/space-movies-shows/as-star-trek-turns-60-we-take-the-iconic-sci-fi-franchise-to-sickbay-for-a-full-health-report",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788879600
-    },
-    {
-      "title": "Mistral raises €3B as sovereign AI becomes big business",
-      "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788877068
-    },
-    {
-      "title": "A hacker stole $340M in a crypto heist, then returned most of it",
-      "link": "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788876689
-    },
-    {
-      "title": "SpaceX rocket taxi returns after Roman Telescope launch | Space photo of the day for Sept. 8, 2026",
-      "link": "https://www.space.com/space-exploration/missions/spacex-rocket-taxi-returns-after-roman-telescope-launch-space-photo-of-the-day-for-sept-8-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788876000
-    },
-    {
-      "title": "EV batteries last longer than drivers feared",
-      "link": "https://arstechnica.com/cars/2026/09/ev-batteries-last-longer-than-drivers-feared/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788875798
     },
     {
       "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
@@ -448,13 +560,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1788874834
-    },
-    {
-      "title": "The rise of 'quantum gravity?' Einstein's theory seen in the quantum realm for 1st time",
-      "link": "https://www.space.com/science/particle-physics/the-rise-of-quantum-gravity-einsteins-theory-seen-in-the-quantum-realm-for-1st-time",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788872400
     },
     {
       "title": "Ozempic and Wegovy may have an unexpected mental health benefit",
@@ -476,104 +581,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1788869361
-    },
-    {
-      "title": "The American “cheetah” wasn’t a cheetah at all",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260907201558.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788868707
-    },
-    {
-      "title": "The Vela Incident: Did an American satellite detect a secret nuclear test in 1979?",
-      "link": "https://www.space.com/space-exploration/satellites/the-vela-incident-did-an-american-satellite-detect-a-secret-nuclear-test-in-1979",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788861600
-    },
-    {
-      "title": "Early statin use linked to 15% lower dementia risk",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260901070520.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788853041
-    },
-    {
-      "title": "Doctors saved this rare monkey from amputation. Months later, she gave birth",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260906170145.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788833350
-    },
-    {
-      "title": "'The Last Starship' is 2026's most slept-on space game — you need to check out this 'FTL'-like shipbuilding strategy gem",
-      "link": "https://www.space.com/entertainment/space-games/the-last-starship-is-2026s-most-slept-on-space-game-you-need-to-check-out-this-ftl-like-shipbuilding-strategy-gem",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788811200
-    },
-    {
-      "title": "The moon will hide Jupiter in broad daylight today — here's how to see it",
-      "link": "https://www.space.com/stargazing/the-moon-will-hide-jupiter-in-broad-daylight-on-sept-8-2026-here-is-how-to-see-it",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788796800
-    },
-    {
-      "title": "Scientists say love follows hidden mathematical rules",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260906170140.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788771511
-    },
-    {
-      "title": "A War of 1812 soldier buried his own arm. His real story is even stranger",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260906170138.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788769562
-    },
-    {
-      "title": "Your gut microbiome may be more contagious than scientists thought",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260906170129.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788762864
-    },
-    {
-      "title": "An important step towards detecting fractons in quantum spin liquids",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260903064222.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788759936
-    },
-    {
-      "title": "MIT scientists develop injectable “mini livers” that work inside the body",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260903064249.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788751245
-    },
-    {
-      "title": "Antarctica gained a record 695 billion tons of ice. Scientists found the surprising reason",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260906170128.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788735245
-    },
-    {
-      "title": "Popular brain supplement linked to shorter lifespan in men",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788729685
-    },
-    {
-      "title": "Indonesia’s most dangerous fires are burning underground",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260904000318.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788681465
     },
     {
       "title": "College football picks for Week 1; how Clippers can rebound from Kawhi Leonard saga",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1788357724
-    },
-    {
-      "title": "Jalen Duren, Pistons still in contract standoff: When could the All-NBA center make a decision?",
-      "link": "https://www.cbssports.com/nba/news/jalen-duren-pistons-contract-offer/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1788284272
     }
   ]
 }
