@@ -1,6 +1,34 @@
 {
-  "last_updated": 1789001320,
+  "last_updated": 1789018410,
   "items": [
+    {
+      "title": "Watch SpaceX launch classified mission for the US Space Force today",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-classified-space-force-mission-ussf-153",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789013100
+    },
+    {
+      "title": "Proof-of-Age Verification for Steam in Australia Now Only Possible Using a Credit Card",
+      "link": "https://www.ign.com/articles/proof-of-age-verification-for-steam-in-australia-now-only-possible-using-a-credit-card",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789008980
+    },
+    {
+      "title": "Hideo Kojima's Metal Gear Solid Spiritual Successor Physint Will Now Be Published by Xbox Instead of Sony",
+      "link": "https://www.ign.com/articles/hideo-kojimas-metal-gear-solid-spiritual-successor-physint-will-now-be-published-by-xbox-instead-of-sony",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789007738
+    },
+    {
+      "title": "The People v. Gorilla Grodd Set Video Shows DC Villain Singing Backstreet Boys",
+      "link": "https://www.ign.com/articles/the-people-v-gorilla-grodd-set-video-backstreet-boys",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789001379
+    },
     {
       "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
       "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
@@ -303,13 +331,6 @@
       "timestamp": 1788975533
     },
     {
-      "title": "Apple Announces the iPhone 18 Pro",
-      "link": "https://www.ign.com/articles/apple-announces-the-iphone-18-pro",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788975500
-    },
-    {
       "title": "Popular navigation apps unlikely to ditch Mercator maps despite UN resolution",
       "link": "https://arstechnica.com/gadgets/2026/09/un-correct-the-map-resolution-wont-change-mercator-map-use-in-navigation-apps/",
       "source": "ARSTECHNICA",
@@ -338,20 +359,6 @@
       "timestamp": 1788971658
     },
     {
-      "title": "Malibu Sinkhole Threatens to Swallow Hollywood Star Nicolas Cage's House",
-      "link": "https://www.ign.com/articles/malibu-sinkhole-threatens-to-swallow-hollywood-star-nicolas-cages-house",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788971066
-    },
-    {
-      "title": "Spyro: A Realm Beyond Gets New Look for Franchise's 28th Anniversary",
-      "link": "https://www.ign.com/articles/spyro-a-realm-beyond-gets-new-look-for-franchises-28th-anniversary",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1788970535
-    },
-    {
       "title": "We're about to exceed 1.5-degree global warming limit, according to the UN",
       "link": "https://www.space.com/science/climate-change/were-about-to-exceed-1-5-degree-global-warming-limit-according-to-the-un",
       "source": "SPACE",
@@ -366,15 +373,15 @@
       "timestamp": 1788966000
     },
     {
-      "title": "Indonesian volcanic eruption spotted from space | Space photo of the day for Sept. 9, 2026",
-      "link": "https://www.space.com/astronomy/earth/indonesian-volcanic-eruption-spotted-from-space-space-photo-of-the-day-for-sept-9-2026",
+      "title": "On this day in space! Sept. 9, 1982: The 1st private rocket, called Conestoga 1, launches from a Texas cattle ranch",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-9-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788962400
     },
     {
-      "title": "On this day in space! Sept. 9, 1982: The 1st private rocket, called Conestoga 1, launches from a Texas cattle ranch",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-9-2026",
+      "title": "Indonesian volcanic eruption spotted from space | Space photo of the day for Sept. 9, 2026",
+      "link": "https://www.space.com/astronomy/earth/indonesian-volcanic-eruption-spotted-from-space-space-photo-of-the-day-for-sept-9-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788962400
@@ -539,13 +546,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788894000
-    },
-    {
-      "title": "Astrophotographer captures jaw-dropping view of the Crescent Nebula",
-      "link": "https://www.space.com/stargazing/astrophotography/astrophotographer-captures-jaw-dropping-view-of-the-crescent-nebula",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788890400
     },
     {
       "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
