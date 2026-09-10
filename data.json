@@ -1,12 +1,159 @@
 {
-  "last_updated": 1789063405,
+  "last_updated": 1789075334,
   "items": [
+    {
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789073991
+    },
+    {
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789073850
+    },
+    {
+      "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
+      "link": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789073729
+    },
+    {
+      "title": "Furo’s founders left Silicon Valley — and it’s paying off",
+      "link": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789073280
+    },
+    {
+      "title": "The Summer Triangle — 3 stars, 1 seasonal mystery",
+      "link": "https://www.space.com/stargazing/the-summer-triangle-3-stars-1-seasonal-mystery",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789070400
+    },
+    {
+      "title": "Paul Walker's Brother Suggests AI Could Bring Back Brian O'Conner for Fast and Furious Finale",
+      "link": "https://www.ign.com/articles/paul-walkers-brother-suggests-ai-could-bring-back-brian-oconner-for-fast-and-furious-finale",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789070384
+    },
+    {
+      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+      "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789069804
+    },
+    {
+      "title": "Legendary Voice Actor Mike McFarland Dies at 56 Years Old",
+      "link": "https://www.ign.com/articles/legendary-voice-actor-mike-mcfarland-dies-at-56-years-old",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789069660
+    },
+    {
+      "title": "PlayStation's Fairgames Seemingly Remerges With First Gameplay, New Codename, and Private Playtest",
+      "link": "https://www.ign.com/articles/playstations-fairgames-seemingly-remerges-with-first-gameplay-new-codename-and-private-playtest",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789068810
+    },
+    {
+      "title": "Europe will go it alone on Venus mission after NASA yanks radar instrument",
+      "link": "https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789067369
+    },
+    {
+      "title": "Asa Germann Cast as Angel in Marvel's X-Men Movie",
+      "link": "https://www.ign.com/articles/asa-germann-cast-as-angel-in-marvels-x-men-movie",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789065830
+    },
+    {
+      "title": "Android can now securely migrate your logins between password managers",
+      "link": "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789065669
+    },
+    {
+      "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
+      "link": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789065480
+    },
+    {
+      "title": "Wardogs Surpasses 1 Million Copies Sold on Day One, Blows Past 300k Peak Concurrent Players on Steam",
+      "link": "https://www.ign.com/articles/wardogs-surpasses-1-million-copies-sold-on-day-one-blows-past-300k-peak-concurrent-players-on-steam",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789064354
+    },
+    {
+      "title": "Dead or Alive 6 Last Round Project Manager Sparks Debate After Revealing Koei Tecmo is Dialing Back the Game's 'Sexy Costumes'",
+      "link": "https://www.ign.com/articles/dead-or-alive-6-last-round-project-manager-sparks-debate-after-revealing-koei-tecmo-is-dialing-back-the-games-sexy-costumes",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789064181
+    },
+    {
+      "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
+      "link": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789064054
+    },
+    {
+      "title": "Amazon makes it easier to buy what you see on Prime Video",
+      "link": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789063836
+    },
+    {
+      "title": "On this day in space! Sept. 10, 2011: NASA launches GRAIL probes to the moon to map lumpy lunar gravity",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-10-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789063278
+    },
+    {
+      "title": "LINK spacecraft gets close to NASA's Swift Observatory, but not close enough to save it",
+      "link": "https://www.space.com/space-exploration/missions/link-spacecraft-gets-close-to-nasas-swift-observatory-but-not-close-enough-to-save-it",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789063200
+    },
+    {
+      "title": "Why Did PlayStation Ditch Kojima? Analysts Suggest Sony May Have Been 'Spooked' by Death Stranding 2 Sales",
+      "link": "https://www.ign.com/articles/why-did-playstation-ditch-kojima-analysts-suggest-sony-may-have-been-spooked-by-death-stranding-2-sales",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789063146
+    },
     {
       "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
       "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1789062884
+    },
+    {
+      "title": "Physicist does the math on Star Trek’s “Picard maneuver”",
+      "link": "https://arstechnica.com/science/2026/09/physicist-does-the-math-on-star-treks-picard-maneuver/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789062873
     },
     {
       "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
@@ -16,11 +163,32 @@
       "timestamp": 1789062300
     },
     {
+      "title": "Kimmel's ABC show won't air interview with Democrat because of Trump FCC threats",
+      "link": "https://arstechnica.com/tech-policy/2026/09/kimmels-abc-show-wont-air-interview-with-democrat-because-of-trump-fcc-threats/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789061409
+    },
+    {
+      "title": "GTA 6's Limited Edition PS5 Controller Preorders Overload PlayStation's Store, and Scalpers Are Already Reselling Them on eBay",
+      "link": "https://www.ign.com/articles/gta-6s-limited-edition-ps5-controller-pre-orders-overload-playstations-store-and-scalpers-are-already-reselling-them-on-ebay",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789061234
+    },
+    {
       "title": "If The World Suffered an Apocalypse Tomorrow The Global Currency Would Be Pokémon Cards, Collector and Venture Capitalist Claims",
       "link": "https://www.ign.com/articles/if-the-world-suffered-an-apocalypse-tomorrow-the-global-currency-would-be-pokemon-cards-collector-and-venture-capitalist-claims",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1789059580
+    },
+    {
+      "title": "Drones deliver food and remove bodies after Nepal’s flood disaster",
+      "link": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789059232
     },
     {
       "title": "Clippers spark new controversy by giving Chris Paul's No. 3 jersey number to Bradley Beal",
@@ -65,17 +233,17 @@
       "timestamp": 1789056556
     },
     {
-      "title": "Google is making it easier to switch between password managers on Android",
-      "link": "https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789056000
-    },
-    {
       "title": "Scientists study 3,000 supernovas and discover that dark energy may be evolving",
       "link": "https://www.space.com/astronomy/dark-universe/scientists-study-3-000-supernovas-and-discover-that-dark-energy-may-be-evolving",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1789056000
+    },
+    {
+      "title": "Google is making it easier to switch between password managers on Android",
+      "link": "https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
       "timestamp": 1789056000
     },
     {
@@ -177,66 +345,10 @@
       "timestamp": 1789046469
     },
     {
-      "title": "The Legend of Zelda: Ocarina of Time Remake's Divisive Character Models May Reflect Shigeru Miyamoto's Love of Puppetry, Nintendo Veteran Believes",
-      "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remakes-divisive-character-models-may-reflect-shigeru-miyamotos-love-of-puppetry-nintendo-veteran-believes",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789046223
-    },
-    {
-      "title": "Snapchat takes aim at Partiful with new event-planning features",
-      "link": "https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789045200
-    },
-    {
-      "title": "Defense tech Mach Industries doubles valuation to $3.7B in 3 months",
-      "link": "https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789045200
-    },
-    {
-      "title": "Bandai Namco Announces New Ace Combat 8 Prequel Series, Streaming First on IGN",
-      "link": "https://www.ign.com/articles/ace-combat-8-hour-zero-live-action-prequel-trailer",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789045200
-    },
-    {
-      "title": "European founders and VCs urge lawmakers ‘to get EU Inc right’",
-      "link": "https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789043108
-    },
-    {
-      "title": "US Army places $11M bet on Austin-based GPS alternative Tern",
-      "link": "https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789041600
-    },
-    {
       "title": "What comes after the moon? Artemis II commander and pilot shift to 'emeritus' status at NASA",
       "link": "https://www.space.com/space-exploration/artemis/what-comes-after-the-moon-artemis-ii-commander-and-pilot-shift-to-emeritus-status-at-nasa",
       "source": "SPACE",
       "category": "space",
-      "timestamp": 1789041600
-    },
-    {
-      "title": "Final Fantasy 7 Revelation: Our Big Interview with Director Naoki Hamaguchi and Battle Director Teruki Endo",
-      "link": "https://www.ign.com/articles/final-fantasy-7-revelation-our-big-interview-with-director-naoki-hamaguchi-and-battle-director-teruki-endo",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789041600
-    },
-    {
-      "title": "Final Fantasy VII Revelation Director Explains Why the Physical Disc Version Requires a Download to Play",
-      "link": "https://www.ign.com/articles/final-fantasy-vii-revelation-director-explains-why-the-physical-disc-version-requires-a-download-to-play",
-      "source": "IGN",
-      "category": "gaming",
       "timestamp": 1789041600
     },
     {
@@ -247,20 +359,6 @@
       "timestamp": 1789039842
     },
     {
-      "title": "The Developers of Upcoming 'Espresso MOBA' Project Zeta Want It to Feel Like a Formula 1 Race",
-      "link": "https://www.ign.com/articles/the-developers-of-upcoming-espresso-moba-project-zeta-want-it-to-feel-like-a-formula-1-race",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789038178
-    },
-    {
-      "title": "LEGO Astro Bot Set Leaks, Though It Won't Be Available as a Standalone Purchase",
-      "link": "https://www.ign.com/articles/lego-astro-bot-set-leaks-though-it-wont-be-available-as-a-standalone-purchase",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789034452
-    },
-    {
       "title": "Strange 'fast radio bursts' across the universe could help solve major cosmic mysteries: 'It's only the beginning'",
       "link": "https://www.space.com/astronomy/black-holes/strange-fast-radio-bursts-across-the-universe-could-help-solve-major-cosmic-mysteries-its-only-the-beginning",
       "source": "SPACE",
@@ -268,39 +366,11 @@
       "timestamp": 1789034400
     },
     {
-      "title": "GTA 6 Developer Rockstar Says It Will Defend Itself 'Vigorously' From Union Claims as Employment Tribunal Over the Firing of 31 Workers Gets Underway",
-      "link": "https://www.ign.com/articles/gta-6-developer-rockstar-says-it-will-defend-itself-vigorously-from-union-claims-as-employment-tribunal-over-the-firing-of-31-workers-gets-underway",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789031333
-    },
-    {
-      "title": "Nintendo Switch and Switch 2 System Update 23.0.0 Released — Here Are the Full Patch Notes",
-      "link": "https://www.ign.com/articles/nintendo-switch-and-switch-2-system-update-2300-released-here-are-the-full-patch-notes",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789029777
-    },
-    {
       "title": "SpaceX launches classified mission for the US Space Force from California (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-classified-space-force-mission-ussf-153",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1789013100
-    },
-    {
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788998437
-    },
-    {
-      "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
-      "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1788995669
     },
     {
       "title": "This 'impossible' black hole merger may be explained by a warp in spacetime",
@@ -380,53 +450,11 @@
       "timestamp": 1788979627
     },
     {
-      "title": "The quick guide to fall vaccines and when you should get them",
-      "link": "https://arstechnica.com/health/2026/09/what-to-know-about-covid-and-flu-shots-as-rfk-jr-s-chaos-drags-on/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788979176
-    },
-    {
       "title": "NASA's newly launched Roman Space Telescope will 'directly' image exoplanets. But what does that mean?",
       "link": "https://www.space.com/astronomy/exoplanets/nasas-newly-launched-roman-space-telescope-will-directly-image-exoplanets-but-what-does-that-mean",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788976800
-    },
-    {
-      "title": "Apple's iPhone 18 Pro adds variable camera aperture and a more powerful chip",
-      "link": "https://arstechnica.com/gadgets/2026/09/apples-iphone-18-pro-adds-variable-camera-aperture-and-a-more-powerful-chip/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788975533
-    },
-    {
-      "title": "Popular navigation apps unlikely to ditch Mercator maps despite UN resolution",
-      "link": "https://arstechnica.com/gadgets/2026/09/un-correct-the-map-resolution-wont-change-mercator-map-use-in-navigation-apps/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788973906
-    },
-    {
-      "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
-      "link": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788973180
-    },
-    {
-      "title": "Prime Video releases full trailer for Mike Flanagan's Carrie",
-      "link": "https://arstechnica.com/culture/2026/09/prime-video-releases-full-trailer-for-mike-flanagans-carrie/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788972045
-    },
-    {
-      "title": "Google's AI genome system evaluates every possible one-base change",
-      "link": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788971658
     },
     {
       "title": "We're about to exceed 1.5-degree global warming limit, according to the UN",
@@ -441,27 +469,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1788966000
-    },
-    {
-      "title": "Indonesian volcanic eruption spotted from space | Space photo of the day for Sept. 9, 2026",
-      "link": "https://www.space.com/astronomy/earth/indonesian-volcanic-eruption-spotted-from-space-space-photo-of-the-day-for-sept-9-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788962400
-    },
-    {
-      "title": "On this day in space! Sept. 9, 1982: The 1st private rocket, called Conestoga 1, launches from a Texas cattle ranch",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-9-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788962400
-    },
-    {
-      "title": "NOAA is putting commercial fishing ahead of conservation",
-      "link": "https://arstechnica.com/science/2026/09/noaa-is-putting-commercial-fishing-ahead-of-conservation/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788962324
     },
     {
       "title": "Scientists find a bone-building switch that could fight osteoporosis",
@@ -483,13 +490,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1788959213
-    },
-    {
-      "title": "A photon from the biggest cosmic explosion since the Big Bang appears to have defied Einstein. Scientists may finally know how",
-      "link": "https://www.space.com/science/astrophysics/a-photon-from-the-biggest-cosmic-explosion-since-the-big-bang-appears-to-have-defied-einstein-scientists-may-finally-know-how",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788958800
     },
     {
       "title": "Have we found alien life? Hundreds of scientists weigh in",
