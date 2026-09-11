@@ -1,12 +1,61 @@
 {
-  "last_updated": 1789145603,
+  "last_updated": 1789154763,
   "items": [
+    {
+      "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
+      "link": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789153200
+    },
+    {
+      "title": "Rocket Lab launches mystery satellite to orbit for secret customer (photo)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-mystery-satellite-to-orbit-for-secret-customer-photo",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789153200
+    },
+    {
+      "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
+      "link": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789153081
+    },
+    {
+      "title": "Stream every single Star Trek show from anywhere, and save up to 75% with this VPN deal",
+      "link": "https://www.space.com/entertainment/space-movies-shows/stream-every-single-star-trek-show-from-anywhere-and-save-up-to-75-percent-with-this-vpn-deal",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789149600
+    },
+    {
+      "title": "Miami Approves 'Discreet' GTA 6 Marketing Campaign So the City Can Fix Its Football Field",
+      "link": "https://www.ign.com/articles/miami-approves-discreet-gta-6-marketing-campaign-so-the-city-can-fix-its-football-field",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789146375
+    },
+    {
+      "title": "'They Thought It Was Too Funny': Zach Cregger Says He's Cut Most of the Jokes From His Resident Evil Movie, Following Test Screenings",
+      "link": "https://www.ign.com/articles/they-thought-it-was-too-funny-zach-cregger-says-hes-cut-most-of-the-jokes-from-his-resident-evil-movie-following-test-screenings",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789145721
+    },
     {
       "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
       "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1789145185
+    },
+    {
+      "title": "NASA moving at warp speed to set up US Space Academy",
+      "link": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789143643
     },
     {
       "title": "The sun may once have swallowed a super-Earth planet and could still be hiding the evidence",
@@ -30,7 +79,7 @@
       "timestamp": 1789140530
     },
     {
-      "title": "Matt Mullenweg tells Automattic staff in Slack he’s back in control after CEO ouster",
+      "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
       "link": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -289,13 +338,6 @@
       "timestamp": 1789074928
     },
     {
-      "title": "Call of Duty's Anti-Cheat Boss Dispels Cheating Myths, Breaks Down Review Process, and More",
-      "link": "https://www.ign.com/articles/call-of-dutys-anti-cheat-boss-dispels-cheating-myths-breaks-down-review-process-and-more",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789074150
-    },
-    {
       "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
       "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
       "source": "TECHCRUNCH",
@@ -329,13 +371,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1789070400
-    },
-    {
-      "title": "Paul Walker's Brother Suggests AI Could Bring Back Brian O'Conner for Fast and Furious Finale",
-      "link": "https://www.ign.com/articles/paul-walkers-brother-suggests-ai-could-bring-back-brian-oconner-for-fast-and-furious-finale",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789070384
     },
     {
       "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
@@ -436,25 +471,11 @@
       "timestamp": 1789058301
     },
     {
-      "title": "Instagram’s latest feature lets you add tagged posts to your profile grid",
-      "link": "https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789057885
-    },
-    {
       "title": "Jaylen Brown in the boxing ring? Explaining why 76ers star is sparring in Nigeria during NBA offseason",
       "link": "https://www.cbssports.com/nba/news/jaylen-brown-boxing-nigeria-76ers/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1789057348
-    },
-    {
-      "title": "Google is making it easier to switch between password managers on Android",
-      "link": "https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789056000
     },
     {
       "title": "Scientists study 3,000 supernovas and discover that dark energy may be evolving",
@@ -492,13 +513,6 @@
       "timestamp": 1789050786
     },
     {
-      "title": "Iconic Star Trek filming location spotted from space | Space photo of the day for Sept. 10, 2026",
-      "link": "https://www.space.com/astronomy/earth/iconic-star-trek-filming-location-spotted-from-space-space-photo-of-the-day-for-sept-10-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789048800
-    },
-    {
       "title": "DNA solves the mystery of a body found in the Arctic in 1859",
       "link": "https://www.sciencedaily.com/releases/2026/09/260909231735.htm",
       "source": "SCIENCEDAILY",
@@ -511,13 +525,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1789042931
-    },
-    {
-      "title": "What comes after the moon? Artemis II commander and pilot shift to 'emeritus' status at NASA",
-      "link": "https://www.space.com/space-exploration/artemis/what-comes-after-the-moon-artemis-ii-commander-and-pilot-shift-to-emeritus-status-at-nasa",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789041600
     },
     {
       "title": "Artemis II commander and pilot become NASA's first astronaut emeriti",
@@ -567,13 +574,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1788987302
-    },
-    {
-      "title": "Europe may finally have found a space entrepreneur who is meeting the moment",
-      "link": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788985660
     },
     {
       "title": "Scientists find a bone-building switch that could fight osteoporosis",
