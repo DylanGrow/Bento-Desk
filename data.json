@@ -1,6 +1,104 @@
 {
-  "last_updated": 1789130074,
+  "last_updated": 1789145603,
   "items": [
+    {
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789145185
+    },
+    {
+      "title": "The sun may once have swallowed a super-Earth planet and could still be hiding the evidence",
+      "link": "https://www.space.com/astronomy/sun/the-sun-may-once-have-swallowed-a-super-earth-planet-and-could-still-be-hiding-the-evidence",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789142400
+    },
+    {
+      "title": "Why is the Kawhi Leonard trade still on hold? Uncertain Clippers leadership reportedly among reasons",
+      "link": "https://www.cbssports.com/nba/news/kawhi-leonard-trade-still-on-hold-clippers-raptors/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1789141894
+    },
+    {
+      "title": "GTA 6 Developer Rockstar Says It Was Forced to Put Privacy Films on Its Buildings After Drones Were Used to Snap Photos Through Office Windows",
+      "link": "https://www.ign.com/articles/gta-6-developer-rockstar-says-it-was-forced-to-put-privacy-films-on-its-buildings-after-drones-were-used-to-snap-photos-through-office-windows",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789140530
+    },
+    {
+      "title": "Matt Mullenweg tells Automattic staff in Slack he’s back in control after CEO ouster",
+      "link": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789139940
+    },
+    {
+      "title": "60 years of Star Trek uniforms: Looking back at the everchanging wardrobe of Starfleet",
+      "link": "https://www.space.com/entertainment/space-movies-shows/60-years-of-star-trek-uniforms-looking-back-at-the-everchanging-wardrobe-of-starfleet",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789138800
+    },
+    {
+      "title": "PlayStation Ditched Kojima's Physint Due to Missed Deadlines and Budget Concerns, Report Claims",
+      "link": "https://www.ign.com/articles/playstation-ditched-kojimas-physint-due-to-missed-deadlines-and-budget-concerns-report-claims",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789137173
+    },
+    {
+      "title": "On this day in space! Sept. 11, 1985: The International Cometary Explorer makes 1st comet flyby in history for NASA and Europe",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-sept-11-1985-the-international-cometary-explorer-makes-1st-comet-flyby-in-history-for-nasa-and-europe",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789135200
+    },
+    {
+      "title": "Wavy alien dune fields stretch across Mars | Space photo of the day for Sept. 11, 2026",
+      "link": "https://www.space.com/astronomy/mars/wavy-alien-dune-fields-stretch-across-mars-space-photo-of-the-day-for-sept-11-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789135200
+    },
+    {
+      "title": "'I Really Want Game Pass to Work' — After Navigating the Xbox 'Reset,' Double Fine Boss Tim Schafer Is Indie Once Again",
+      "link": "https://www.ign.com/articles/i-really-want-game-pass-to-work-after-navigating-the-xbox-reset-double-fine-boss-tim-schafer-is-indie-once-again",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789133796
+    },
+    {
+      "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
+      "link": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789133574
+    },
+    {
+      "title": "Claude users found ways around safeguards for bioweapons research",
+      "link": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789131755
+    },
+    {
+      "title": "2 private spacecraft zoom within 650 feet of each other to showcase 'advanced capabilities' in orbit (photos)",
+      "link": "https://www.space.com/space-exploration/satellites/2-private-spacecraft-zoom-within-650-feet-of-each-other-to-showcase-advanced-capabilities-in-orbit-photos",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789131600
+    },
+    {
+      "title": "Nintendo Secures Legal Victory Against Sale of Switch Game Piracy Devices",
+      "link": "https://www.ign.com/articles/nintendo-secures-legal-victory-against-sale-of-switch-game-piracy-devices",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789130169
+    },
     {
       "title": "How Warhammer 40,000: Space Marine 3 Will Benefit From Tech Improvements Made for John Carpenter's Toxic Commando",
       "link": "https://www.ign.com/articles/how-warhammer-40000-space-marine-3-will-benefit-from-tech-improvements-made-for-john-carpenters-toxic-commando",
@@ -16,11 +114,46 @@
       "timestamp": 1789128000
     },
     {
+      "title": "Wasps are disappearing this summer, and scientists are worried",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911003901.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789126715
+    },
+    {
+      "title": "ClickFix attacks infecting PCs and Macs are going viral",
+      "link": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789126258
+    },
+    {
       "title": "Tom Holland's Spider-Man 5 Reportedly Has a Director, and It's No Surprise Who It Is",
       "link": "https://www.ign.com/articles/tom-hollands-spider-man-5-reportedly-has-a-director-and-its-no-surprise-who-it-is",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1789126095
+    },
+    {
+      "title": "What happens when quantum mechanics and relativity meet?",
+      "link": "https://arstechnica.com/science/2026/09/what-happens-when-quantum-mechanics-and-relativity-meet/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789125602
+    },
+    {
+      "title": "Could United Launch Alliance's money problems finally force its owners to sell?",
+      "link": "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789124444
+    },
+    {
+      "title": "Rocket Report: Europe joins the commercial launch club; a Ravn X sighting?",
+      "link": "https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789124430
     },
     {
       "title": "'I take the compact Nikon Stabilized 12x25 binoculars with me everywhere' — they now have $73 off, the best we've seen this year",
@@ -51,11 +184,39 @@
       "timestamp": 1789120800
     },
     {
+      "title": "Physicists just found a tiny glitch in time itself",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260910225251.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789103924
+    },
+    {
       "title": "Clippers under federal investigation for Kawhi Leonard salary cap circumvention, per report",
       "link": "https://www.cbssports.com/nba/news/clippers-federal-investigation-kawhi-leonard-salary-cap-circumvention/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1789095689
+    },
+    {
+      "title": "Scientists discover the human heart can regrow muscle after a heart attack",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909231754.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789095409
+    },
+    {
+      "title": "The Moon may have formed intact just hours after a giant collision",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909231729.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789090857
+    },
+    {
+      "title": "UCLA scientists turn cord blood into powerful cancer-fighting T cells",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909231723.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789088907
     },
     {
       "title": "The Retroid Pocket Duo Looks Perfect for DS and 3DS Emulation",
@@ -184,32 +345,11 @@
       "timestamp": 1789069804
     },
     {
-      "title": "Legendary Voice Actor Mike McFarland Dies at 56 Years Old",
-      "link": "https://www.ign.com/articles/legendary-voice-actor-mike-mcfarland-dies-at-56-years-old",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789069660
-    },
-    {
-      "title": "PlayStation's Fairgames Seemingly Remerges With First Gameplay, New Codename, and Private Playtest",
-      "link": "https://www.ign.com/articles/playstations-fairgames-seemingly-remerges-with-first-gameplay-new-codename-and-private-playtest",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789068810
-    },
-    {
       "title": "Europe will go it alone on Venus mission after NASA yanks radar instrument",
       "link": "https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1789067369
-    },
-    {
-      "title": "Asa Germann Cast as Angel in Marvel's X-Men Movie",
-      "link": "https://www.ign.com/articles/asa-germann-cast-as-angel-in-marvels-x-men-movie",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789065830
     },
     {
       "title": "Android can now securely migrate your logins between password managers",
@@ -224,13 +364,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1789065480
-    },
-    {
-      "title": "Wardogs Surpasses 1 Million Copies Sold on Day One, Blows Past 300k Peak Concurrent Players on Steam",
-      "link": "https://www.ign.com/articles/wardogs-surpasses-1-million-copies-sold-on-day-one-blows-past-300k-peak-concurrent-players-on-steam",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789064354
     },
     {
       "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
@@ -338,25 +471,11 @@
       "timestamp": 1789053351
     },
     {
-      "title": "The Boring Company raises $3B in round led by UAE",
-      "link": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789052847
-    },
-    {
       "title": "Mercury is shrinking faster than we thought. What's going on inside of it?",
       "link": "https://www.space.com/astronomy/mercury/mercury-is-shrinking-faster-than-we-thought-whats-going-on-inside-of-it",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1789052400
-    },
-    {
-      "title": "AI agents are flooding public services with new requests",
-      "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789052030
     },
     {
       "title": "Greatest rebound ever? Best assist? The ultimate example of every NBA stat, from OG's tip-in to Kobe's lob",
@@ -366,11 +485,11 @@
       "timestamp": 1789051509
     },
     {
-      "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
-      "link": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789050849
+      "title": "Scientists capture two DNA strands zipping together for the first time",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909231717.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789050786
     },
     {
       "title": "Iconic Star Trek filming location spotted from space | Space photo of the day for Sept. 10, 2026",
@@ -378,6 +497,20 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1789048800
+    },
+    {
+      "title": "DNA solves the mystery of a body found in the Arctic in 1859",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909231735.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789044403
+    },
+    {
+      "title": "Scientists create brilliant white material without a drop of white pigment",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909231712.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789042931
     },
     {
       "title": "What comes after the moon? Artemis II commander and pilot shift to 'emeritus' status at NASA",
@@ -394,25 +527,39 @@
       "timestamp": 1789039842
     },
     {
-      "title": "Strange 'fast radio bursts' across the universe could help solve major cosmic mysteries: 'It's only the beginning'",
-      "link": "https://www.space.com/astronomy/black-holes/strange-fast-radio-bursts-across-the-universe-could-help-solve-major-cosmic-mysteries-its-only-the-beginning",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789034400
+      "title": "Archaeologists find a 3,000-year-old Egyptian tomb before it’s too late",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909231746.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789036552
     },
     {
-      "title": "SpaceX launches classified mission for the US Space Force from California (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-classified-space-force-mission-ussf-153",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789013100
+      "title": "Ancient teeth reveal humans were getting high 25,000 years ago",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909231705.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789027105
     },
     {
-      "title": "This 'impossible' black hole merger may be explained by a warp in spacetime",
-      "link": "https://www.space.com/astronomy/black-holes/this-impossible-black-hole-merger-may-be-explained-by-a-warp-in-spacetime",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788987600
+      "title": "UNESCO warns there’s close to a 100% chance of a Mediterranean tsunami",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260910022149.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789022149
+    },
+    {
+      "title": "400,000-year-old teeth reveal a hidden link in human evolution",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909005203.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789006688
+    },
+    {
+      "title": "Raindrops can damage paint with microscopic “lightning”",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909005159.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789001087
     },
     {
       "title": "Four groups caught using the same Chrome and Windows exploit kit",
@@ -427,55 +574,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1788985660
-    },
-    {
-      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
-      "link": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788984388
-    },
-    {
-      "title": "International Space Station astronaut gives out of this world tribute to honor Star Trek’s 60th anniversary",
-      "link": "https://www.space.com/space-exploration/international-space-station-astronaut-gives-out-of-this-world-tribute-to-honor-star-treks-60th-anniversary",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788984000
-    },
-    {
-      "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
-      "link": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788982920
-    },
-    {
-      "title": "When it comes to Beatles references, scientists can't let it be",
-      "link": "https://arstechnica.com/science/2026/09/scientists-really-love-to-reference-the-beatles-in-their-work/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788982315
-    },
-    {
-      "title": "Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs",
-      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788980960
-    },
-    {
-      "title": "Astronomers discover two stars that joined together to form a binary system just 60 years ago",
-      "link": "https://www.space.com/astronomy/stars/astronomers-discover-two-stars-that-joined-together-to-form-a-binary-system-just-60-years-ago",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1788980400
-    },
-    {
-      "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
-      "link": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788980304
     },
     {
       "title": "Scientists find a bone-building switch that could fight osteoporosis",
@@ -506,62 +604,6 @@
       "timestamp": 1788952410
     },
     {
-      "title": "Interstellar comet 3I/ATLAS is bursting with methanol",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260909005217.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788943659
-    },
-    {
-      "title": "Devil’s Arrows: Ancient builders hauled 55,000-pound stones 11 miles for Britain’s tallest stone row",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788939681
-    },
-    {
-      "title": "“Parachute science” is failing the tropics, home to more than 80% of insect species",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260909005145.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788935455
-    },
-    {
-      "title": "Chinese scientists find a hidden atomic structure that unlocks methane",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260909005148.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788932022
-    },
-    {
-      "title": "Geologists reveal the Americas collided millions of years earlier than thought",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260907201608.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788928501
-    },
-    {
-      "title": "Dark energy debunked? Cosmic acceleration may be an illusion",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260907201600.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788926348
-    },
-    {
-      "title": "Astronomers detect ancient hydrogen signal that could help map the Universe",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260907201556.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788923215
-    },
-    {
-      "title": "Caffeine may flip an ancient cellular switch linked to slower aging",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260907201609.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788913693
-    },
-    {
       "title": "Lakers will unveil Phil Jackson statue: Hall of Fame coach to become ninth honored in Star Plaza",
       "link": "https://www.cbssports.com/nba/news/phil-jackson-statue-los-angeles-lakers/",
       "source": "CBSSPORTS",
@@ -574,41 +616,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1788894677
-    },
-    {
-      "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788875696
-    },
-    {
-      "title": "Your personality may be more genetic than scientists realized",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260907201554.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788874834
-    },
-    {
-      "title": "Ozempic and Wegovy may have an unexpected mental health benefit",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260907201601.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788872340
-    },
-    {
-      "title": "Giant new dinosaur discovered beneath construction site in Brazil",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260907201603.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788871349
-    },
-    {
-      "title": "Scientists observe Einstein’s gravity in the quantum world for the first time",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260907201552.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788869361
     },
     {
       "title": "College football picks for Week 1; how Clippers can rebound from Kawhi Leonard saga",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1788406786
-    },
-    {
-      "title": "What's next after NBA's Clippers punishment? Five lingering questions about Kawhi Leonard trade, appeals, more",
-      "link": "https://www.cbssports.com/nba/news/whats-next-kawhi-leonard-clippers-five-lingering-questions/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1788406765
     }
   ]
 }
