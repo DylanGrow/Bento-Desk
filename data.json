@@ -1,6 +1,104 @@
 {
-  "last_updated": 1789154763,
+  "last_updated": 1789164781,
   "items": [
+    {
+      "title": "Rocket Lab protests NASA's decision to award Blue Origin $700 million Mars orbiter contract",
+      "link": "https://www.space.com/space-exploration/missions/rocket-lab-protests-nasas-decision-to-award-blue-origin-usd700-million-mars-orbiter-contract",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789164402
+    },
+    {
+      "title": "Random rewards enrich classic game-theory contests",
+      "link": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789162876
+    },
+    {
+      "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
+      "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789161545
+    },
+    {
+      "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
+      "link": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789161266
+    },
+    {
+      "title": "I've chased the 'false dawn' for years — this is the week to find and photograph it",
+      "link": "https://www.space.com/stargazing/ive-chased-the-false-dawn-for-years-this-is-the-week-to-find-and-photograph-it",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789160400
+    },
+    {
+      "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789160387
+    },
+    {
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789160256
+    },
+    {
+      "title": "Point Break TV Show Gets the Green Light at AMC",
+      "link": "https://www.ign.com/articles/point-break-tv-show-gets-the-green-light-at-amc",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789159757
+    },
+    {
+      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789158798
+    },
+    {
+      "title": "Trump's forced coal plant extensions thrown out by judge",
+      "link": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789158779
+    },
+    {
+      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789158617
+    },
+    {
+      "title": "A star is exploding 45 million light-years away — here's how you can see it",
+      "link": "https://www.space.com/stargazing/a-star-is-exploding-45-million-light-years-away-heres-how-you-can-see-it",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789156800
+    },
+    {
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789155354
+    },
+    {
+      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+      "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789155249
+    },
     {
       "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
       "link": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
@@ -21,6 +119,20 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1789153081
+    },
+    {
+      "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
+      "link": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789152579
+    },
+    {
+      "title": "Oracle tries to appease Stargate data center opponents with renewables push",
+      "link": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789150942
     },
     {
       "title": "Stream every single Star Trek show from anywhere, and save up to 75% with this VPN deal",
@@ -331,13 +443,6 @@
       "timestamp": 1789076100
     },
     {
-      "title": "'They Are Alchemy' — Guillermo Del Toro Speaks Out on AI in Filmmaking and Why It Can't Replace Human Creativity",
-      "link": "https://www.ign.com/articles/they-are-alchemy-guillermo-del-toro-speaks-out-on-ai-in-filmmaking-and-why-it-cant-replace-human-creativity",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789074928
-    },
-    {
       "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
       "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
       "source": "TECHCRUNCH",
@@ -359,25 +464,11 @@
       "timestamp": 1789073729
     },
     {
-      "title": "Furo’s founders left Silicon Valley — and it’s paying off",
-      "link": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789073280
-    },
-    {
       "title": "The Summer Triangle — 3 stars, 1 seasonal mystery",
       "link": "https://www.space.com/stargazing/the-summer-triangle-3-stars-1-seasonal-mystery",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1789070400
-    },
-    {
-      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-      "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789069804
     },
     {
       "title": "Europe will go it alone on Venus mission after NASA yanks radar instrument",
@@ -394,27 +485,6 @@
       "timestamp": 1789065669
     },
     {
-      "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
-      "link": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789065480
-    },
-    {
-      "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
-      "link": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789064054
-    },
-    {
-      "title": "Amazon makes it easier to buy what you see on Prime Video",
-      "link": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789063836
-    },
-    {
       "title": "On this day in space! Sept. 10, 2011: NASA launches GRAIL probes to the moon to map lumpy lunar gravity",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-10-2026",
       "source": "SPACE",
@@ -429,41 +499,6 @@
       "timestamp": 1789063200
     },
     {
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789062884
-    },
-    {
-      "title": "Physicist does the math on Star Trek’s “Picard maneuver”",
-      "link": "https://arstechnica.com/science/2026/09/physicist-does-the-math-on-star-treks-picard-maneuver/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789062873
-    },
-    {
-      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-      "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789062300
-    },
-    {
-      "title": "Kimmel's ABC show won't air interview with Democrat because of Trump FCC threats",
-      "link": "https://arstechnica.com/tech-policy/2026/09/kimmels-abc-show-wont-air-interview-with-democrat-because-of-trump-fcc-threats/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789061409
-    },
-    {
-      "title": "China’s drone supremacy shows in airlifting bodies and food after Nepal flood disaster",
-      "link": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789059232
-    },
-    {
       "title": "Clippers spark new controversy by giving Chris Paul's No. 3 jersey number to Bradley Beal",
       "link": "https://www.cbssports.com/nba/news/clippers-new-controversy-chris-pauls-no-3-jersey-number-bradley-beal/",
       "source": "CBSSPORTS",
@@ -476,27 +511,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1789057348
-    },
-    {
-      "title": "Scientists study 3,000 supernovas and discover that dark energy may be evolving",
-      "link": "https://www.space.com/astronomy/dark-universe/scientists-study-3-000-supernovas-and-discover-that-dark-energy-may-be-evolving",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789056000
-    },
-    {
-      "title": "The next 'Star Trek' movie will be inspired by 'Crimson Tide', and 'Strange New Worlds' latest episode just showed them how to do it",
-      "link": "https://www.space.com/entertainment/space-movies-shows/the-next-star-trek-movie-will-be-inspired-by-crimson-tide-and-strange-new-worlds-latest-episode-just-showed-them-how-to-do-it",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789053351
-    },
-    {
-      "title": "Mercury is shrinking faster than we thought. What's going on inside of it?",
-      "link": "https://www.space.com/astronomy/mercury/mercury-is-shrinking-faster-than-we-thought-whats-going-on-inside-of-it",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789052400
     },
     {
       "title": "Greatest rebound ever? Best assist? The ultimate example of every NBA stat, from OG's tip-in to Kobe's lob",
@@ -525,13 +539,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1789042931
-    },
-    {
-      "title": "Artemis II commander and pilot become NASA's first astronaut emeriti",
-      "link": "https://arstechnica.com/space/2026/09/artemis-ii-commander-and-pilot-become-nasas-first-astronaut-emeriti/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789039842
     },
     {
       "title": "Archaeologists find a 3,000-year-old Egyptian tomb before it’s too late",
@@ -567,13 +574,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1789001087
-    },
-    {
-      "title": "Four groups caught using the same Chrome and Windows exploit kit",
-      "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1788987302
     },
     {
       "title": "Scientists find a bone-building switch that could fight osteoporosis",
