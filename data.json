@@ -1,6 +1,41 @@
 {
-  "last_updated": 1789164781,
+  "last_updated": 1789174358,
   "items": [
+    {
+      "title": "The secret to longer life may be hidden in bat DNA",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911003852.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789172705
+    },
+    {
+      "title": "66-million-year-old feather in dinosaur poop may reveal why birds survived the asteroid",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911003849.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789170436
+    },
+    {
+      "title": "Some satellite companies still have an appetite for boutique launch services",
+      "link": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789169685
+    },
+    {
+      "title": "GTA 6 Reviews Plague Real-Life Nudist Resort After Fans Draw Comparisons to Leaks",
+      "link": "https://www.ign.com/articles/gta-6-reviews-plague-real-life-nudist-resort-after-fans-draw-comparisons-to-leaks",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789167869
+    },
+    {
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789167497
+    },
     {
       "title": "Rocket Lab protests NASA's decision to award Blue Origin $700 million Mars orbiter contract",
       "link": "https://www.space.com/space-exploration/missions/rocket-lab-protests-nasas-decision-to-award-blue-origin-usd700-million-mars-orbiter-contract",
@@ -9,7 +44,14 @@
       "timestamp": 1789164402
     },
     {
-      "title": "Random rewards enrich classic game-theory contests",
+      "title": "Polyarc, Dev Behind the Critically Acclaimed Moss Series, Is Shutting Down",
+      "link": "https://www.ign.com/articles/polyarc-dev-behind-the-critically-acclaimed-moss-series-is-shutting-down",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789163016
+    },
+    {
+      "title": "Random rewards enrich classic game-theory insights",
       "link": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -37,7 +79,7 @@
       "timestamp": 1789160400
     },
     {
-      "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
       "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -408,25 +450,11 @@
       "timestamp": 1789079400
     },
     {
-      "title": "GameStop Is Re-Opening Stores That Previously Closed Down",
-      "link": "https://www.ign.com/articles/gamestop-is-re-opening-stores-that-previously-closed-down",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789079038
-    },
-    {
       "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
       "link": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1789078565
-    },
-    {
-      "title": "Arthur Morgan's Coughing Fits in Red Dead Redemption 2 Sound So Real Because Actor Roger Clark Was Actually Sick",
-      "link": "https://www.ign.com/articles/arthur-morgans-coughing-fits-in-red-dead-redemption-2-sound-so-real-because-actor-roger-clark-was-actually-sick",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789077332
     },
     {
       "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
@@ -450,13 +478,6 @@
       "timestamp": 1789073991
     },
     {
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789073850
-    },
-    {
       "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
       "link": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
       "source": "ARSTECHNICA",
@@ -476,13 +497,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1789067369
-    },
-    {
-      "title": "Android can now securely migrate your logins between password managers",
-      "link": "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789065669
     },
     {
       "title": "On this day in space! Sept. 10, 2011: NASA launches GRAIL probes to the moon to map lumpy lunar gravity",
@@ -588,20 +602,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1788959679
-    },
-    {
-      "title": "Ozempic and Wegovy linked to nearly 40% fewer asthma attacks",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260909005155.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788959213
-    },
-    {
-      "title": "Have we found alien life? Hundreds of scientists weigh in",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260909005212.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788952410
     },
     {
       "title": "Lakers will unveil Phil Jackson statue: Hall of Fame coach to become ninth honored in Star Plaza",
