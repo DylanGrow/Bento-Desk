@@ -1,6 +1,62 @@
 {
-  "last_updated": 1789221039,
+  "last_updated": 1789231396,
   "items": [
+    {
+      "title": "Level-5 Boss Addresses AI Backlash After Fans Hit Out at Game Reveal Showcase",
+      "link": "https://www.ign.com/articles/level-5-boss-addresses-ai-backlash-after-fans-hit-out-at-game-reveal-showcase",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789230311
+    },
+    {
+      "title": "BlizzCon 2026 Opening Ceremony Live Blog: The Future of Warcraft and Diablo Set to Be Revealed Amid StarCraft Rumors",
+      "link": "https://www.ign.com/articles/blizzcon-2026-opening-ceremony-live-blog-the-future-of-warcraft-and-diablo-set-to-be-revealed-amid-starcraft-announcement-rumors",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789228829
+    },
+    {
+      "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
+      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789228331
+    },
+    {
+      "title": "Revolut confirms customer data breach through fake government requests",
+      "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789224000
+    },
+    {
+      "title": "Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military (op-ed)",
+      "link": "https://www.space.com/space-exploration/trump-is-proposing-a-us-space-academy-if-created-it-could-blur-the-lines-between-nasa-and-the-military-op-ed",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789221600
+    },
+    {
+      "title": "On this day in space! NASA astronaut Mae Jemison makes history as the 1st Black woman in space",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-12-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789221600
+    },
+    {
+      "title": "Scientists find Ozempic may slow aging itself",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911214238.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789221170
+    },
+    {
+      "title": "Researchers find a Wordle strategy that wins 99% of the time",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911204910.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789220156
+    },
     {
       "title": "This Week In Space podcast: Episode 227 — Trekmania",
       "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-227-trekmania",
@@ -42,6 +98,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1789199123
+    },
+    {
+      "title": "Mercury’s surface reveals a surprisingly fiery past",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911003854.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789176502
     },
     {
       "title": "The secret to longer life may be hidden in bat DNA",
@@ -352,13 +415,6 @@
       "timestamp": 1789128061
     },
     {
-      "title": "25 years ago, a NASA astronaut witnessed the tragic 9/11 attacks from space. Here's what he saw.",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/25-years-ago-a-nasa-astronaut-witnessed-the-tragic-9-11-attacks-from-space-heres-what-he-saw",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789128000
-    },
-    {
       "title": "Wasps are disappearing this summer, and scientists are worried",
       "link": "https://www.sciencedaily.com/releases/2026/09/260911003901.htm",
       "source": "SCIENCEDAILY",
@@ -399,13 +455,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1789124430
-    },
-    {
-      "title": "'I take the compact Nikon Stabilized 12x25 binoculars with me everywhere' — they now have $73 off, the best we've seen this year",
-      "link": "https://www.space.com/technology/i-take-the-compact-nikon-stabilized-12x25-binoculars-with-me-everywhere-they-now-have-usd73-off-the-best-weve-seen-this-year",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789124400
     },
     {
       "title": "Lady Dimitrescu Actor Maggie Robertson Would Say Yes in a Heartbeat if Capcom Called to Reprise Her Breakout Resident Evil Role",
@@ -457,20 +506,6 @@
       "timestamp": 1789088907
     },
     {
-      "title": "The Retroid Pocket Duo Looks Perfect for DS and 3DS Emulation",
-      "link": "https://www.ign.com/articles/the-retroid-pocket-duo-looks-perfect-for-ds-and-3ds-emulation",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789087577
-    },
-    {
-      "title": "Hasbro Responds to DHS Using AI Optimus Prime in Deportation Posts",
-      "link": "https://www.ign.com/articles/hasbro-dhs-ai-optimus-prime-deportation-response",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789085400
-    },
-    {
       "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
       "link": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
       "source": "TECHCRUNCH",
@@ -490,20 +525,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1789077119
-    },
-    {
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789076100
-    },
-    {
-      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-      "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789073991
     },
     {
       "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
@@ -574,27 +595,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1789022149
-    },
-    {
-      "title": "400,000-year-old teeth reveal a hidden link in human evolution",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260909005203.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789006688
-    },
-    {
-      "title": "Raindrops can damage paint with microscopic “lightning”",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260909005159.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789001087
-    },
-    {
-      "title": "Scientists find a bone-building switch that could fight osteoporosis",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260909005305.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1788961973
     },
     {
       "title": "NFL season arrives -- here's everything you need to know; Michigan tumbles out of college football rankings",
