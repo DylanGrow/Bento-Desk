@@ -1,6 +1,34 @@
 {
-  "last_updated": 1789207320,
+  "last_updated": 1789221039,
   "items": [
+    {
+      "title": "This Week In Space podcast: Episode 227 — Trekmania",
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-227-trekmania",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789218290
+    },
+    {
+      "title": "The best 'Star Trek' spaceships: 14 classic vessels from the Federation and beyond",
+      "link": "https://www.space.com/entertainment/space-movies-shows/the-best-star-trek-spaceships-14-classic-vessels-from-the-federation-and-beyond",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789218000
+    },
+    {
+      "title": "Perseid meteors meet mesmerizing star trails over Egypt's Western Desert",
+      "link": "https://www.space.com/stargazing/astrophotography/perseid-meteors-meet-mesmerizing-star-trails-over-egypts-western-desert",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789214400
+    },
+    {
+      "title": "I spent $4,000 on a robot dog from China",
+      "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789210853
+    },
     {
       "title": "NASA, IBM launch new AI model for studying the moon",
       "link": "https://www.space.com/astronomy/moon/nasa-ibm-launch-new-ai-model-for-studying-the-moon",
@@ -394,13 +422,6 @@
       "timestamp": 1789121897
     },
     {
-      "title": "Scientists discover mysterious new X-ray objects 'unlike any they have seen before'",
-      "link": "https://www.space.com/astronomy/galaxies/scientists-discover-mysterious-new-x-ray-objects-unlike-any-they-have-seen-before",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789120800
-    },
-    {
       "title": "Physicists just found a tiny glitch in time itself",
       "link": "https://www.sciencedaily.com/releases/2026/09/260910225251.htm",
       "source": "SCIENCEDAILY",
@@ -490,27 +511,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1789073729
-    },
-    {
-      "title": "The Summer Triangle — 3 stars, 1 seasonal mystery",
-      "link": "https://www.space.com/stargazing/the-summer-triangle-3-stars-1-seasonal-mystery",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789070400
-    },
-    {
-      "title": "Europe will go it alone on Venus mission after NASA yanks radar instrument",
-      "link": "https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789067369
-    },
-    {
-      "title": "On this day in space! Sept. 10, 2011: NASA launches GRAIL probes to the moon to map lumpy lunar gravity",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-10-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789063278
     },
     {
       "title": "Clippers spark new controversy by giving Chris Paul's No. 3 jersey number to Bradley Beal",
