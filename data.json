@@ -1,6 +1,27 @@
 {
-  "last_updated": 1789319620,
+  "last_updated": 1789330587,
   "items": [
+    {
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789328415
+    },
+    {
+      "title": "Overwatch Devs Confirm That Yes, Tracer Is Still The Game’s Mascot",
+      "link": "https://www.ign.com/articles/overwatch-devs-confirm-that-yes-tracer-is-still-the-games-mascot",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789326140
+    },
+    {
+      "title": "On this day in space! Sept. 13, 2007: Japan launches Kaguya spacecraft to the moon to map the lunar surface in HD",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-13-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789321521
+    },
     {
       "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
       "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
@@ -23,17 +44,17 @@
       "timestamp": 1789311600
     },
     {
-      "title": "NASA astronaut Jessica Meir shares zero-G curly hair tips from the ISS (video)",
-      "link": "https://www.space.com/space-exploration/international-space-station/nasa-astronaut-jessica-meir-shares-zero-g-curly-hair-tips-from-the-iss-video",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789308000
-    },
-    {
       "title": "Scooby-Doo: Origins Reveals Cute New Photo of the Live-Action Dog",
       "link": "https://www.ign.com/articles/scooby-doo-origins-new-dog-photo",
       "source": "IGN",
       "category": "gaming",
+      "timestamp": 1789308000
+    },
+    {
+      "title": "NASA astronaut Jessica Meir shares zero-G curly hair tips from the ISS (video)",
+      "link": "https://www.space.com/space-exploration/international-space-station/nasa-astronaut-jessica-meir-shares-zero-g-curly-hair-tips-from-the-iss-video",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1789308000
     },
     {
@@ -331,13 +352,6 @@
       "timestamp": 1789207200
     },
     {
-      "title": "Wolverine Developer Insomniac Says Logan's Scent Trail Isn't Always on Amid 'Fart Gas' Toggle Requests",
-      "link": "https://www.ign.com/articles/wolverine-developer-insomniac-says-logans-scent-trail-isnt-always-on-amid-fart-gas-toggle-requests",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789199123
-    },
-    {
       "title": "Mercury’s surface reveals a surprisingly fiery past",
       "link": "https://www.sciencedaily.com/releases/2026/09/260911003854.htm",
       "source": "SCIENCEDAILY",
@@ -464,13 +478,6 @@
       "timestamp": 1789155249
     },
     {
-      "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
-      "link": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789153200
-    },
-    {
       "title": "Rocket Lab launches mystery satellite to orbit for secret customer (photo)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-mystery-satellite-to-orbit-for-secret-customer-photo",
       "source": "SPACE",
@@ -504,13 +511,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1789143643
-    },
-    {
-      "title": "The sun may once have swallowed a super-Earth planet and could still be hiding the evidence",
-      "link": "https://www.space.com/astronomy/sun/the-sun-may-once-have-swallowed-a-super-earth-planet-and-could-still-be-hiding-the-evidence",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789142400
     },
     {
       "title": "Why is the Kawhi Leonard trade still on hold? Uncertain Clippers leadership reportedly among reasons",
