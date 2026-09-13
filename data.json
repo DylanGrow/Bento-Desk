@@ -1,6 +1,55 @@
 {
-  "last_updated": 1789268441,
+  "last_updated": 1789306655,
   "items": [
+    {
+      "title": "Fusion power startups find new partners in the defense world",
+      "link": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789305300
+    },
+    {
+      "title": "James Webb Space Telescope discovers the rings of tiny solar system body Chariklo are changing",
+      "link": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-discovers-the-rings-of-tiny-solar-system-body-chariklo-are-changing",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789304400
+    },
+    {
+      "title": "I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.",
+      "link": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789297241
+    },
+    {
+      "title": "Don't miss Venus shine beside the crescent moon at sunset tonight",
+      "link": "https://www.space.com/stargazing/dont-miss-venus-shine-beside-the-crescent-moon-at-sunset-tonight",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789293600
+    },
+    {
+      "title": "Venus’s pale yellow clouds may hide something surprisingly dark",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260912220022.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789271049
+    },
+    {
+      "title": "Scientists find water was fueling volcanoes 3 billion years ago",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911214305.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789269259
+    },
+    {
+      "title": "Scientists discover a hidden switch that shuts down inflammation",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911214306.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789263845
+    },
     {
       "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
       "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
@@ -126,6 +175,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1789228829
+    },
+    {
+      "title": "CERN finds gluons behaving strangely deep inside atomic nuclei",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911214303.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789225446
     },
     {
       "title": "Revolut confirms customer data breach through fake government requests",
@@ -408,13 +464,6 @@
       "timestamp": 1789141894
     },
     {
-      "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
-      "link": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789139940
-    },
-    {
       "title": "60 years of Star Trek uniforms: Looking back at the everchanging wardrobe of Starfleet",
       "link": "https://www.space.com/entertainment/space-movies-shows/60-years-of-star-trek-uniforms-looking-back-at-the-everchanging-wardrobe-of-starfleet",
       "source": "SPACE",
@@ -429,25 +478,11 @@
       "timestamp": 1789135200
     },
     {
-      "title": "Wavy alien dune fields stretch across Mars | Space photo of the day for Sept. 11, 2026",
-      "link": "https://www.space.com/astronomy/mars/wavy-alien-dune-fields-stretch-across-mars-space-photo-of-the-day-for-sept-11-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789135200
-    },
-    {
       "title": "Claude users found ways around safeguards for bioweapons research",
       "link": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1789131755
-    },
-    {
-      "title": "2 private spacecraft zoom within 650 feet of each other to showcase 'advanced capabilities' in orbit (photos)",
-      "link": "https://www.space.com/space-exploration/satellites/2-private-spacecraft-zoom-within-650-feet-of-each-other-to-showcase-advanced-capabilities-in-orbit-photos",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789131600
     },
     {
       "title": "Wasps are disappearing this summer, and scientists are worried",
@@ -527,13 +562,6 @@
       "timestamp": 1789078565
     },
     {
-      "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
-      "link": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789073729
-    },
-    {
       "title": "Clippers spark new controversy by giving Chris Paul's No. 3 jersey number to Bradley Beal",
       "link": "https://www.cbssports.com/nba/news/clippers-new-controversy-chris-pauls-no-3-jersey-number-bradley-beal/",
       "source": "CBSSPORTS",
@@ -567,34 +595,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1789044403
-    },
-    {
-      "title": "Scientists create brilliant white material without a drop of white pigment",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260909231712.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789042931
-    },
-    {
-      "title": "Archaeologists find a 3,000-year-old Egyptian tomb before it’s too late",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260909231746.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789036552
-    },
-    {
-      "title": "Ancient teeth reveal humans were getting high 25,000 years ago",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260909231705.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789027105
-    },
-    {
-      "title": "UNESCO warns there’s close to a 100% chance of a Mediterranean tsunami",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260910022149.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789022149
     },
     {
       "title": "NFL season arrives -- here's everything you need to know; Michigan tumbles out of college football rankings",
