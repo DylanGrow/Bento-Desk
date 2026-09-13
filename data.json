@@ -1,6 +1,41 @@
 {
-  "last_updated": 1789330587,
+  "last_updated": 1789339847,
   "items": [
+    {
+      "title": "SpaceX launches 3 telecom satellites to orbit on 700th Falcon mission of all time (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-3-telecom-satellites-to-orbit-on-700th-falcon-mission-of-all-time-video",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789335686
+    },
+    {
+      "title": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+      "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789335000
+    },
+    {
+      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+      "link": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789332578
+    },
+    {
+      "title": "The Witcher 3 Geralt Skin for Diablo 4 Barbarians Revealed — but There's a Catch",
+      "link": "https://www.ign.com/articles/the-witcher-3-geralt-skin-for-diablo-4-barbarians-revealed-but-theres-a-catch",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789331789
+    },
+    {
+      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+      "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789331280
+    },
     {
       "title": "What’s behind the AI industry’s latest warnings of doom?",
       "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
@@ -44,17 +79,17 @@
       "timestamp": 1789311600
     },
     {
-      "title": "Scooby-Doo: Origins Reveals Cute New Photo of the Live-Action Dog",
-      "link": "https://www.ign.com/articles/scooby-doo-origins-new-dog-photo",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789308000
-    },
-    {
       "title": "NASA astronaut Jessica Meir shares zero-G curly hair tips from the ISS (video)",
       "link": "https://www.space.com/space-exploration/international-space-station/nasa-astronaut-jessica-meir-shares-zero-g-curly-hair-tips-from-the-iss-video",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1789308000
+    },
+    {
+      "title": "Scooby-Doo: Origins Reveals Cute New Photo of the Live-Action Dog",
+      "link": "https://www.ign.com/articles/scooby-doo-origins-new-dog-photo",
+      "source": "IGN",
+      "category": "gaming",
       "timestamp": 1789308000
     },
     {
@@ -268,13 +303,6 @@
       "timestamp": 1789230311
     },
     {
-      "title": "BlizzCon 2026 Opening Ceremony: Everything Announced",
-      "link": "https://www.ign.com/articles/blizzcon-2026-opening-ceremony-live-blog-the-future-of-warcraft-and-diablo-set-to-be-revealed-amid-starcraft-announcement-rumors",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789228829
-    },
-    {
       "title": "CERN finds gluons behaving strangely deep inside atomic nuclei",
       "link": "https://www.sciencedaily.com/releases/2026/09/260911214303.htm",
       "source": "SCIENCEDAILY",
@@ -436,13 +464,6 @@
       "timestamp": 1789160256
     },
     {
-      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789158798
-    },
-    {
       "title": "Trump's forced coal plant extensions thrown out by judge",
       "link": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
       "source": "ARSTECHNICA",
@@ -450,25 +471,11 @@
       "timestamp": 1789158779
     },
     {
-      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-      "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789158617
-    },
-    {
       "title": "A star is exploding 45 million light-years away — here's how you can see it",
       "link": "https://www.space.com/stargazing/a-star-is-exploding-45-million-light-years-away-heres-how-you-can-see-it",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1789156800
-    },
-    {
-      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-      "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789155354
     },
     {
       "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
@@ -497,13 +504,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1789150942
-    },
-    {
-      "title": "Stream every single Star Trek show from anywhere, and save up to 75% with this VPN deal",
-      "link": "https://www.space.com/entertainment/space-movies-shows/stream-every-single-star-trek-show-from-anywhere-and-save-up-to-75-percent-with-this-vpn-deal",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789149600
     },
     {
       "title": "NASA moving at warp speed to set up US Space Academy",
