@@ -1,6 +1,55 @@
 {
-  "last_updated": 1789306655,
+  "last_updated": 1789319620,
   "items": [
+    {
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789317000
+    },
+    {
+      "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
+      "link": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789315440
+    },
+    {
+      "title": "The 10 best underground sci-fi movies to dig into now that 'Silo' season 3 has ended",
+      "link": "https://www.space.com/entertainment/best-underground-sci-fi-movies",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789311600
+    },
+    {
+      "title": "NASA astronaut Jessica Meir shares zero-G curly hair tips from the ISS (video)",
+      "link": "https://www.space.com/space-exploration/international-space-station/nasa-astronaut-jessica-meir-shares-zero-g-curly-hair-tips-from-the-iss-video",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789308000
+    },
+    {
+      "title": "Scooby-Doo: Origins Reveals Cute New Photo of the Live-Action Dog",
+      "link": "https://www.ign.com/articles/scooby-doo-origins-new-dog-photo",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789308000
+    },
+    {
+      "title": "Scientists find a new layer of Alzheimer’s hidden in the genome",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260912220051.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789307766
+    },
+    {
+      "title": "Physicists can’t agree on how the Universe works",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260912220041.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789305356
+    },
     {
       "title": "Fusion power startups find new partners in the defense world",
       "link": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
@@ -16,11 +65,39 @@
       "timestamp": 1789304400
     },
     {
+      "title": "Global warming is breaking a 400-year climate link between two oceans",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260912220029.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789301885
+    },
+    {
+      "title": "NASA-backed scientists turn plastic waste into edible cookies",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260912220033.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789300476
+    },
+    {
+      "title": "Physicists discover a hidden “curveball” in quantum light",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260912220025.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789298521
+    },
+    {
       "title": "I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.",
       "link": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1789297241
+    },
+    {
+      "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789296379
     },
     {
       "title": "Don't miss Venus shine beside the crescent moon at sunset tonight",
@@ -198,7 +275,7 @@
       "timestamp": 1789221600
     },
     {
-      "title": "On this day in space! NASA astronaut Mae Jemison makes history as the 1st Black woman in space",
+      "title": "On this day in space! Sept. 12, 1992: NASA astronaut Mae Jemison makes history as the 1st Black woman in space",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-12-2026",
       "source": "SPACE",
       "category": "space",
@@ -287,13 +364,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1789169685
-    },
-    {
-      "title": "GTA 6 Reviews Plague Real-Life Nudist Resort After Fans Draw Comparisons to Leaks",
-      "link": "https://www.ign.com/articles/gta-6-reviews-plague-real-life-nudist-resort-after-fans-draw-comparisons-to-leaks",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789167869
     },
     {
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
@@ -408,13 +478,6 @@
       "timestamp": 1789153200
     },
     {
-      "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
-      "link": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789153081
-    },
-    {
       "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
       "link": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
       "source": "ARSTECHNICA",
@@ -436,13 +499,6 @@
       "timestamp": 1789149600
     },
     {
-      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-      "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789145185
-    },
-    {
       "title": "NASA moving at warp speed to set up US Space Academy",
       "link": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
       "source": "ARSTECHNICA",
@@ -462,20 +518,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1789141894
-    },
-    {
-      "title": "60 years of Star Trek uniforms: Looking back at the everchanging wardrobe of Starfleet",
-      "link": "https://www.space.com/entertainment/space-movies-shows/60-years-of-star-trek-uniforms-looking-back-at-the-everchanging-wardrobe-of-starfleet",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789138800
-    },
-    {
-      "title": "On this day in space! Sept. 11, 1985: The International Cometary Explorer makes 1st comet flyby in history for NASA and Europe",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-sept-11-1985-the-international-cometary-explorer-makes-1st-comet-flyby-in-history-for-nasa-and-europe",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789135200
     },
     {
       "title": "Claude users found ways around safeguards for bioweapons research",
@@ -520,39 +562,11 @@
       "timestamp": 1789124430
     },
     {
-      "title": "Physicists just found a tiny glitch in time itself",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260910225251.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789103924
-    },
-    {
       "title": "Clippers under federal investigation for Kawhi Leonard salary cap circumvention, per report",
       "link": "https://www.cbssports.com/nba/news/clippers-federal-investigation-kawhi-leonard-salary-cap-circumvention/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1789095689
-    },
-    {
-      "title": "Scientists discover the human heart can regrow muscle after a heart attack",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260909231754.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789095409
-    },
-    {
-      "title": "The Moon may have formed intact just hours after a giant collision",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260909231729.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789090857
-    },
-    {
-      "title": "UCLA scientists turn cord blood into powerful cancer-fighting T cells",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260909231723.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789088907
     },
     {
       "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
@@ -581,20 +595,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1789051509
-    },
-    {
-      "title": "Scientists capture two DNA strands zipping together for the first time",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260909231717.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789050786
-    },
-    {
-      "title": "DNA solves the mystery of a body found in the Arctic in 1859",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260909231735.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789044403
     },
     {
       "title": "NFL season arrives -- here's everything you need to know; Michigan tumbles out of college football rankings",
