@@ -1,6 +1,48 @@
 {
-  "last_updated": 1789364713,
+  "last_updated": 1789386208,
   "items": [
+    {
+      "title": "Hope: Exclusive New Images Depicting the Sci-Fi Film's Alien Intruders",
+      "link": "https://www.ign.com/articles/hope-movie-alien-invaders-images",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789383600
+    },
+    {
+      "title": "First Major Cast Member Confirms Appearance in GTA 6, Seemingly Going Off Rockstar's Script",
+      "link": "https://www.ign.com/articles/first-major-cast-member-confirms-appearance-in-gta-6-seemingly-going-off-rockstars-script",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789380896
+    },
+    {
+      "title": "James Webb Space Telescope and Hubble discover 27 puzzling new objects orbiting the sun far beyond Neptune",
+      "link": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-and-hubble-discover-27-puzzling-new-objects-orbiting-the-sun-far-beyond-neptune",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789380000
+    },
+    {
+      "title": "Make-A-Wish UK Brings Golf With Your Friends to Life For a Chaotic Charity Stream: How to Watch and What to Expect",
+      "link": "https://www.ign.com/articles/make-a-wish-uk-brings-golf-with-your-friends-to-life-for-a-chaotic-charity-stream-how-to-watch-and-what-to-expect",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789378666
+    },
+    {
+      "title": "Blizzard Insists There Are 'Many Reasons to Keep Playing' Diablo 4 as Fans Debate End of Expansions and Diablo 5 in 2029",
+      "link": "https://www.ign.com/articles/blizzard-insists-there-are-many-reasons-to-keep-playing-diablo-4-as-fans-debate-end-of-expansions-and-diablo-5-in-2029",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789377597
+    },
+    {
+      "title": "'They Helped Pay For Our Movie, So Thank You': Marvel's Blade Might Be Scrapped, But Mahershala Ali Says He's Grateful He Got a Year of Free Training",
+      "link": "https://www.ign.com/articles/they-helped-pay-for-our-movie-so-thank-you-marvels-blade-might-be-scrapped-but-mahershala-ali-says-hes-grateful-he-got-a-year-of-free-training",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789377548
+    },
     {
       "title": "The Last of Us Part 2 Multiplayer Mod Cancelled at Sony’s Request",
       "link": "https://www.ign.com/articles/the-last-of-us-part-2-multiplayer-mod-cancelled-at-sonys-request",
@@ -275,41 +317,6 @@
       "timestamp": 1789239068
     },
     {
-      "title": "Diablo 5 Announced",
-      "link": "https://www.ign.com/articles/diablo-5-announced-release-date-2029",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789237321
-    },
-    {
-      "title": "Overwatch Gets New Vampire-Inspired Support Hero, Map, and Big Character Reworks",
-      "link": "https://www.ign.com/articles/overwatch-2-gets-new-vampire-inspired-support-hero-map-and-big-character-reworks",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789235979
-    },
-    {
-      "title": "Next StarCraft Game Announced at BlizzCon as an Open-World Shooter, but It’s Not Due Out Until 2030",
-      "link": "https://www.ign.com/articles/next-starcraft-game-announced-at-blizzcon-as-an-open-world-shooter-but-its-not-due-out-until-2030",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789235506
-    },
-    {
-      "title": "Animated Diablo Show in the Works at Netflix",
-      "link": "https://www.ign.com/articles/animated-diablo-show-in-the-works-at-netflix",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789235370
-    },
-    {
-      "title": "Heroes of the Storm Gets First New Character in Six Years",
-      "link": "https://www.ign.com/articles/heroes-of-the-storm-gets-first-new-character-in-six-years",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789235015
-    },
-    {
       "title": "CERN finds gluons behaving strangely deep inside atomic nuclei",
       "link": "https://www.sciencedaily.com/releases/2026/09/260911214303.htm",
       "source": "SCIENCEDAILY",
@@ -324,15 +331,15 @@
       "timestamp": 1789224000
     },
     {
-      "title": "Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military (op-ed)",
-      "link": "https://www.space.com/space-exploration/trump-is-proposing-a-us-space-academy-if-created-it-could-blur-the-lines-between-nasa-and-the-military-op-ed",
+      "title": "On this day in space! Sept. 12, 1992: NASA astronaut Mae Jemison makes history as the 1st Black woman in space",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-12-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1789221600
     },
     {
-      "title": "On this day in space! Sept. 12, 1992: NASA astronaut Mae Jemison makes history as the 1st Black woman in space",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-12-2026",
+      "title": "Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military (op-ed)",
+      "link": "https://www.space.com/space-exploration/trump-is-proposing-a-us-space-academy-if-created-it-could-blur-the-lines-between-nasa-and-the-military-op-ed",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1789221600
@@ -490,13 +497,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1789155249
-    },
-    {
-      "title": "Rocket Lab launches mystery satellite to orbit for secret customer (photo)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-mystery-satellite-to-orbit-for-secret-customer-photo",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789153200
     },
     {
       "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
