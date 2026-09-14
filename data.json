@@ -1,6 +1,146 @@
 {
-  "last_updated": 1789407456,
+  "last_updated": 1789421147,
   "items": [
+    {
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789418654
+    },
+    {
+      "title": "Dog Breeders Are Offering Puppies in Exchange for Pokemon Cards",
+      "link": "https://www.ign.com/articles/dog-breeders-are-offering-puppies-in-exchange-for-pokemon-cards",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789416973
+    },
+    {
+      "title": "PlayStation Blackout Boycott Had 'No Significant Change' on Player Counts or Engagement, Says Analyst",
+      "link": "https://www.ign.com/articles/playstation-blackout-boycott-had-no-significant-change-on-player-counts-or-engagement-says-analyst",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789416572
+    },
+    {
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+      "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789416457
+    },
+    {
+      "title": "The warmest summer on record: 2026 hit a scorching new high in the US",
+      "link": "https://www.space.com/science/climate-change/the-warmest-summer-on-record-2026-hit-a-scorching-new-high-in-the-us",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789416000
+    },
+    {
+      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+      "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789415113
+    },
+    {
+      "title": "Sydney Sweeney Criticized by Female Athletes as Nude Sports Trading App Ad Sparks Backlash",
+      "link": "https://www.ign.com/articles/sydney-sweeney-criticized-by-female-athletes-as-nude-sports-trading-app-ad-sparks-backlash",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789414824
+    },
+    {
+      "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+      "link": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789414726
+    },
+    {
+      "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+      "link": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789414122
+    },
+    {
+      "title": "Clippers, Raptors agree to Kawhi Leonard trade again: Toronto finally poised to move forward as East contender",
+      "link": "https://www.cbssports.com/nba/news/clippers-raptors-agree-kawhi-leonard-trade-again/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1789413759
+    },
+    {
+      "title": "AI leaders want to hit the brakes after years of reckless speed",
+      "link": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789412773
+    },
+    {
+      "title": "Interstellar comet 3I/ATLAS likely formed where its star's light couldn't touch it",
+      "link": "https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-likely-formed-where-its-stars-light-couldnt-touch-it",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789412400
+    },
+    {
+      "title": "Online hate researcher keeps hammering X despite deportation threat",
+      "link": "https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789410249
+    },
+    {
+      "title": "Amazon Prime Video takes on TikTok with short-form news clips",
+      "link": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789409669
+    },
+    {
+      "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
+      "link": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789409323
+    },
+    {
+      "title": "A new solar cell could generate electricity underwater",
+      "link": "https://arstechnica.com/science/2026/09/a-new-solar-cell-could-generate-electricity-underwater/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789408996
+    },
+    {
+      "title": "2 European Earth-observing satellites launching to orbit from South America tonight: Watch it live",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/vega-rocket-launch-europe-flex-sentinel-3c-earth-observation-satellites",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789408800
+    },
+    {
+      "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
+      "link": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789407680
+    },
+    {
+      "title": "Marvel Tokon: Fighting Souls Director Apologizes for Rough PC Launch and Outlines Upcoming Balance Changes",
+      "link": "https://www.ign.com/articles/marvel-tokon-fighting-souls-director-apologizes-for-rough-pc-launch-and-outlines-upcoming-balance-changes",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789407516
+    },
+    {
+      "title": "Marathon Delays Next Major Update, Puts Focus on PvE, and Moves Away from Seasonal Content Amidst Bungie Struggles",
+      "link": "https://www.ign.com/articles/marathon-delays-next-major-update-puts-focus-on-pve-and-moves-away-from-seasonal-content-amidst-bungie-struggles",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789407180
+    },
     {
       "title": "Prehistoric builders transported Devil's Arrows 11 miles",
       "link": "https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/",
@@ -42,6 +182,48 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1789405200
+    },
+    {
+      "title": "'It's Definitely at the Top of Our List' – SteamOS Is Getting Closer to Nvidia Driver Support",
+      "link": "https://www.ign.com/articles/its-definitely-at-the-top-of-our-list-steamos-is-getting-closer-to-nvidia-driver-support",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789405200
+    },
+    {
+      "title": "The Steam Frame is $1,059, and Much More Expensive Than It Was Supposed to Be",
+      "link": "https://www.ign.com/articles/steam-frame-price",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789405200
+    },
+    {
+      "title": "The Steam Frame Was Probably Supposed to Cost About $750",
+      "link": "https://www.ign.com/articles/the-steam-frame-was-probably-supposed-to-cost-about-750",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789405200
+    },
+    {
+      "title": "Valve Says RAM Crisis Hasn’t Affected Plans for Steam Deck 2",
+      "link": "https://www.ign.com/articles/valve-says-ram-crisis-hasnt-affected-plans-for-steam-deck-2",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789405200
+    },
+    {
+      "title": "LEGO Is Officially Retiring the First Harry Potter Book Nook",
+      "link": "https://www.ign.com/articles/lego-is-officially-retiring-the-first-harry-potter-book-nook-in-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789405001
+    },
+    {
+      "title": "Ubisoft Has Delayed Rayman Legends Retold Just a Few Weeks Before Its Planned Release Date",
+      "link": "https://www.ign.com/articles/ubisoft-has-delayed-rayman-legends-retold-just-a-few-weeks-before-its-planned-release-date",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789404395
     },
     {
       "title": "\"Offensively cheap\": Solar power is looking up",
@@ -191,8 +373,8 @@
       "timestamp": 1789394400
     },
     {
-      "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
-      "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+      "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
+      "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1789394100
@@ -240,46 +422,11 @@
       "timestamp": 1789387200
     },
     {
-      "title": "Hope: Exclusive New Images Depicting the Sci-Fi Film's Alien Intruders",
-      "link": "https://www.ign.com/articles/hope-movie-alien-invaders-images",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789383600
-    },
-    {
-      "title": "First Major Cast Member Confirms Appearance in GTA 6, Seemingly Going Off Rockstar's Script",
-      "link": "https://www.ign.com/articles/first-major-cast-member-confirms-appearance-in-gta-6-seemingly-going-off-rockstars-script",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789380896
-    },
-    {
       "title": "James Webb Space Telescope and Hubble discover 27 puzzling new objects orbiting the sun far beyond Neptune",
       "link": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-and-hubble-discover-27-puzzling-new-objects-orbiting-the-sun-far-beyond-neptune",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1789380000
-    },
-    {
-      "title": "Make-A-Wish UK Brings Golf With Your Friends to Life For a Chaotic Charity Stream: How to Watch and What to Expect",
-      "link": "https://www.ign.com/articles/make-a-wish-uk-brings-golf-with-your-friends-to-life-for-a-chaotic-charity-stream-how-to-watch-and-what-to-expect",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789378666
-    },
-    {
-      "title": "Blizzard Insists There Are 'Many Reasons to Keep Playing' Diablo 4 as Fans Debate End of Expansions and Diablo 5 in 2029",
-      "link": "https://www.ign.com/articles/blizzard-insists-there-are-many-reasons-to-keep-playing-diablo-4-as-fans-debate-end-of-expansions-and-diablo-5-in-2029",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789377597
-    },
-    {
-      "title": "'They Helped Pay For Our Movie, So Thank You': Marvel's Blade Might Be Scrapped, But Mahershala Ali Says He's Grateful He Got a Year of Free Training",
-      "link": "https://www.ign.com/articles/they-helped-pay-for-our-movie-so-thank-you-marvels-blade-might-be-scrapped-but-mahershala-ali-says-hes-grateful-he-got-a-year-of-free-training",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789377548
     },
     {
       "title": "Scientists find how “zombie” cells fuel inflammation as we age",
@@ -296,20 +443,6 @@
       "timestamp": 1789355915
     },
     {
-      "title": "The Last of Us Part 2 Multiplayer Mod Cancelled at Sony’s Request",
-      "link": "https://www.ign.com/articles/the-last-of-us-part-2-multiplayer-mod-cancelled-at-sonys-request",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789353891
-    },
-    {
-      "title": "New Batman: Part 2 Set Photos Hint at the Court of Owls",
-      "link": "https://www.ign.com/articles/the-batman-part-2-set-photos-court-of-owls-anarky",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789342544
-    },
-    {
       "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
       "link": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
       "source": "ARSTECHNICA",
@@ -324,60 +457,11 @@
       "timestamp": 1789335686
     },
     {
-      "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-      "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789335000
-    },
-    {
-      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
-      "link": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789332578
-    },
-    {
-      "title": "The Witcher 3 Geralt Skin for Diablo 4 Barbarians Revealed — but There's a Catch",
-      "link": "https://www.ign.com/articles/the-witcher-3-geralt-skin-for-diablo-4-barbarians-revealed-but-theres-a-catch",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789331789
-    },
-    {
-      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-      "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789331280
-    },
-    {
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789328415
-    },
-    {
-      "title": "Overwatch Devs Confirm That Yes, Tracer Is Still The Game’s Mascot",
-      "link": "https://www.ign.com/articles/overwatch-devs-confirm-that-yes-tracer-is-still-the-games-mascot",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789326140
-    },
-    {
       "title": "On this day in space! Sept. 13, 2007: Japan launches Kaguya spacecraft to the moon to map the lunar surface in HD",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-13-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1789321521
-    },
-    {
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789317000
     },
     {
       "title": "The 10 best underground sci-fi movies to dig into now that 'Silo' season 3 has ended",
@@ -391,13 +475,6 @@
       "link": "https://www.space.com/space-exploration/international-space-station/nasa-astronaut-jessica-meir-shares-zero-g-curly-hair-tips-from-the-iss-video",
       "source": "SPACE",
       "category": "space",
-      "timestamp": 1789308000
-    },
-    {
-      "title": "Scooby-Doo: Origins Reveals Cute New Photo of the Live-Action Dog",
-      "link": "https://www.ign.com/articles/scooby-doo-origins-new-dog-photo",
-      "source": "IGN",
-      "category": "gaming",
       "timestamp": 1789308000
     },
     {
@@ -457,13 +534,6 @@
       "timestamp": 1789296379
     },
     {
-      "title": "Don't miss Venus shine beside the crescent moon at sunset tonight",
-      "link": "https://www.space.com/stargazing/dont-miss-venus-shine-beside-the-crescent-moon-at-sunset-tonight",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789293600
-    },
-    {
       "title": "Venus’s pale yellow clouds may hide something surprisingly dark",
       "link": "https://www.sciencedaily.com/releases/2026/09/260912220022.htm",
       "source": "SCIENCEDAILY",
@@ -485,27 +555,6 @@
       "timestamp": 1789263845
     },
     {
-      "title": "StarCraft Devs Promise New Game Will Definitely Release in 2030",
-      "link": "https://www.ign.com/articles/starcraft-devs-promise-new-game-will-definitely-release-in-2030",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789254488
-    },
-    {
-      "title": "On this day in space! Sept. 12, 1992: NASA astronaut Mae Jemison makes history as the 1st Black woman in space",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-12-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789221600
-    },
-    {
-      "title": "Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military (op-ed)",
-      "link": "https://www.space.com/space-exploration/trump-is-proposing-a-us-space-academy-if-created-it-could-blur-the-lines-between-nasa-and-the-military-op-ed",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789221600
-    },
-    {
       "title": "I spent $4,000 on a robot dog from China",
       "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
       "source": "ARSTECHNICA",
@@ -525,48 +574,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1789162876
-    },
-    {
-      "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
-      "link": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789161266
-    },
-    {
-      "title": "Trump's forced coal plant extensions thrown out by judge",
-      "link": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789158779
-    },
-    {
-      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-      "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789155249
-    },
-    {
-      "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
-      "link": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789152579
-    },
-    {
-      "title": "Oracle tries to appease Stargate data center opponents with renewables push",
-      "link": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789150942
-    },
-    {
-      "title": "NASA moving at warp speed to set up US Space Academy",
-      "link": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789143643
     },
     {
       "title": "Why is the Kawhi Leonard trade still on hold? Uncertain Clippers leadership reportedly among reasons",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1788441101
-    },
-    {
-      "title": "Revelations from NBA's Clippers investigation: What report says about Uncle Dennis, other companies and more",
-      "link": "https://www.cbssports.com/nba/news/revelations-nbas-clippers-investigation-uncle-dennis-other-companies-more/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1788406999
     }
   ]
 }
