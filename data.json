@@ -1,6 +1,83 @@
 {
-  "last_updated": 1789502248,
+  "last_updated": 1789512314,
   "items": [
+    {
+      "title": "Marvel's Wolverine Offers Up a Canonical Explanation for Why Logan's Costume Regenerates",
+      "link": "https://www.ign.com/articles/marvels-wolverine-offers-up-a-canonical-explanation-for-why-logans-costume-regenerates",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789511934
+    },
+    {
+      "title": "HBO Boss All But Confirms The Last of Us Show Will End With Season 3",
+      "link": "https://www.ign.com/articles/hbo-boss-all-but-confirms-the-last-of-us-show-will-end-with-season-3",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789510879
+    },
+    {
+      "title": "Warner Bros. Reportedly Regrets Torching Zack Snyder's DC Universe and Battling With Him on Justice League",
+      "link": "https://www.ign.com/articles/warner-bros-reportedly-regrets-torching-zack-snyders-dc-universe-and-battling-with-him-on-justice-league",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789510157
+    },
+    {
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789508858
+    },
+    {
+      "title": "Masahiro Sakurai Forced to Abandon Game Designers Award After 16 Years as He Can't Find a Successor",
+      "link": "https://www.ign.com/articles/masahiro-sakurai-forced-to-abandon-game-designers-award-after-16-years-as-he-cant-find-a-successor",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789507703
+    },
+    {
+      "title": "22 years of science! NASA's Roman Space Telescope doubles its lifetime with super-precise engine burn",
+      "link": "https://www.space.com/astronomy/22-years-of-science-nasas-roman-space-telescope-doubles-its-lifetime-with-super-precise-engine-burn",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789507477
+    },
+    {
+      "title": "Marvel's Wolverine Lets You Have Full Control Over Slow-Motion Options for Cinematic Gameplay",
+      "link": "https://www.ign.com/articles/marvels-wolverine-lets-you-have-full-control-over-slow-motion-options-for-cinematic-gameplay",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789506920
+    },
+    {
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789503173
+    },
+    {
+      "title": "Plants vs. Zombies: The Board Game Prepares to Launch on Kickstarter",
+      "link": "https://www.ign.com/articles/plants-vs-zombies-the-board-game-prepares-to-launch-on-kickstarter",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789502677
+    },
+    {
+      "title": "New 'StarCraft' game announced, but it's a grim open-world shooter and it's not coming until 2030",
+      "link": "https://www.space.com/entertainment/space-games/new-starcraft-game-announced-but-its-a-grim-open-world-shooter-and-its-not-coming-until-2030",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789502400
+    },
+    {
+      "title": "US Space Force says it operates weapons in orbit: 'Our aim is deterrence'",
+      "link": "https://www.space.com/space-exploration/satellites/us-space-force-says-it-operates-weapons-in-orbit-our-aim-is-deterrence",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789502096
+    },
     {
       "title": "Former Tekken Director Katsuhiro Harada Says His Next Game Will Be a ‘Surprise,’ But Not Outside Fans’ Expectations",
       "link": "https://www.ign.com/articles/former-tekken-director-katsuhiro-harada-says-his-next-game-will-be-a-surprise-but-not-outside-fans-expectations",
@@ -16,11 +93,32 @@
       "timestamp": 1789498800
     },
     {
+      "title": "18-year-old dies of measles in PA from severe neurological complication",
+      "link": "https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789498689
+    },
+    {
+      "title": "SpaceX declares Starship ready for orbit, sets launch date next week",
+      "link": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789498088
+    },
+    {
       "title": "SpaceX's next Starship launch will lift off on Sept. 22 and aim to reach orbit for 1st time",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-next-starship-launch-will-lift-off-on-sept-22-and-aim-to-reach-orbit-for-1st-time",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1789497205
+    },
+    {
+      "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
+      "link": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789497182
     },
     {
       "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
@@ -191,6 +289,13 @@
       "timestamp": 1789484634
     },
     {
+      "title": "'The violence leaves a mark': How satellites are helping the world monitor war and atrocities",
+      "link": "https://www.space.com/space-exploration/satellites/the-violence-leaves-a-mark-how-satellites-are-helping-the-world-monitor-war-and-atrocities",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789484400
+    },
+    {
       "title": "Apex Legends Art Director Says Street Fighter 6 Pushed Devs to Give Characters the 'Thickest Thighs' They've Ever Had",
       "link": "https://www.ign.com/articles/apex-legends-art-director-says-street-fighter-6-pushed-devs-to-give-characters-the-thickest-thighs-theyve-ever-had",
       "source": "IGN",
@@ -209,13 +314,6 @@
       "link": "https://www.ign.com/articles/harry-potter-tv-series-casts-arthur-weasley-moaning-myrtle-and-colin-creevey",
       "source": "IGN",
       "category": "gaming",
-      "timestamp": 1789484400
-    },
-    {
-      "title": "'The violence leaves a mark': How satellites are helping the world monitor war and atrocities",
-      "link": "https://www.space.com/space-exploration/satellites/the-violence-leaves-a-mark-how-satellites-are-helping-the-world-monitor-war-and-atrocities",
-      "source": "SPACE",
-      "category": "space",
       "timestamp": 1789484400
     },
     {
@@ -247,32 +345,11 @@
       "timestamp": 1789482518
     },
     {
-      "title": "India ends free ride for larger transactions on its ubiquitous digital payments network",
-      "link": "https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789482169
-    },
-    {
-      "title": "Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data",
-      "link": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789481639
-    },
-    {
       "title": "UV light reveals possible camouflage on a 125-million-year-old crocodile",
       "link": "https://www.sciencedaily.com/releases/2026/09/260914102436.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1789481233
-    },
-    {
-      "title": "Curiosity rover spots odd 'footprints' on Mars | Space photo of the day for Sept. 15, 2026",
-      "link": "https://www.space.com/astronomy/mars/curiosity-rover-spots-odd-footprints-on-mars-space-photo-of-the-day-for-sept-15-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789480800
     },
     {
       "title": "On this day in space! Sept. 15, 1968: Russian tortoises (& other critters) launch around the moon on Zond 5 spacecraft in wild first circumlunar flight",
@@ -282,11 +359,11 @@
       "timestamp": 1789480800
     },
     {
-      "title": "Warlock: Dungeons & Dragons Doesn't Have Waypoints Because the Devs Want Players to 'Figure Things Out' for Themselves",
-      "link": "https://www.ign.com/articles/warlock-dungeons-dragons-doesnt-have-waypoints-because-the-devs-want-players-to-figure-things-out-for-themselves",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789480682
+      "title": "Curiosity rover spots odd 'footprints' on Mars | Space photo of the day for Sept. 15, 2026",
+      "link": "https://www.space.com/astronomy/mars/curiosity-rover-spots-odd-footprints-on-mars-space-photo-of-the-day-for-sept-15-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789480800
     },
     {
       "title": "Trump EPA moves to wipe out climate rules for power plants",
@@ -331,13 +408,6 @@
       "timestamp": 1789475672
     },
     {
-      "title": "Wolverine Developer Insomniac Promises to 'Further Refine the Player Experience' Based on Feedback",
-      "link": "https://www.ign.com/articles/wolverine-developer-insomniac-promises-to-further-refine-the-player-experience-based-on-feedback",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789474521
-    },
-    {
       "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
       "link": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
       "source": "ARSTECHNICA",
@@ -350,34 +420,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1789473600
-    },
-    {
-      "title": "Wardogs Sells 2 Million Copies in 5 Days as Early Access Shooter Blows Up on Steam",
-      "link": "https://www.ign.com/articles/wardogs-sells-2-million-copies-in-5-days-as-early-access-shooter-blows-up-on-steam",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789472667
-    },
-    {
-      "title": "Buffy the Vampire Slayer Reboot Cancellation Means Fans Will Never Discover if Buffy and Angel Ended Up Together, Sarah Michelle Gellar Jokes",
-      "link": "https://www.ign.com/articles/buffy-the-vampire-slayer-reboot-cancellation-means-fans-will-never-discover-if-buffy-and-angel-ended-up-together-sarah-michelle-gellar-jokes",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789472300
-    },
-    {
-      "title": "Trump Calls AI Safety Warnings a 'Hoax,' Refuses to Back Guardrails Anthropic and OpenAI Insist Are Needed to Help Prevent Human Extinction",
-      "link": "https://www.ign.com/articles/trump-calls-ai-safety-warnings-a-hoax-refuses-to-back-guardrails-anthropic-and-openai-insist-are-needed-to-help-prevent-human-extinction",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789471053
-    },
-    {
-      "title": "Is Eternal Darkness Getting a Remaster? Nightdive Studios Raises Hopes That the GameCube Classic Will Return",
-      "link": "https://www.ign.com/articles/is-eternal-darkness-getting-a-remaster-nightdive-studios-raises-hopes-that-the-gamecube-classic-will-return",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789468856
     },
     {
       "title": "'If I wanted to go to space, I would have stayed at NASA': What's next for Artemis II astronaut Victor Glover after his mission to the moon",
@@ -464,20 +506,6 @@
       "timestamp": 1789414726
     },
     {
-      "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
-      "link": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789414122
-    },
-    {
-      "title": "AI leaders want to hit the brakes after years of reckless speed",
-      "link": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789412773
-    },
-    {
       "title": "Interstellar comet 3I/ATLAS likely formed where its star's light couldn't touch it",
       "link": "https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-likely-formed-where-its-stars-light-couldnt-touch-it",
       "source": "SPACE",
@@ -485,39 +513,11 @@
       "timestamp": 1789412400
     },
     {
-      "title": "Online hate researcher keeps hammering X despite deportation threat",
-      "link": "https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789410249
-    },
-    {
       "title": "Vega C rocket launches 2 European Earth-observing satellites to orbit from South America (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/vega-rocket-launch-europe-flex-sentinel-3c-earth-observation-satellites",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1789408800
-    },
-    {
-      "title": "The US government is 'sincere in its efforts to understand UAP', new White House council chair says",
-      "link": "https://www.space.com/space-exploration/search-for-life/the-us-government-is-sincere-in-its-efforts-to-understand-uap-new-white-house-council-chair-says",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789405200
-    },
-    {
-      "title": "The original 'Star Wars' is coming to IMAX for the first time ever in 2027",
-      "link": "https://www.space.com/entertainment/space-movies-shows/the-original-star-wars-is-coming-to-imax-for-the-first-time-ever-in-2027",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789401600
-    },
-    {
-      "title": "No cities on the moon — there isn't enough water, scientists say (op-ed)",
-      "link": "https://www.space.com/astronomy/moon/no-cities-on-the-moon-there-isnt-enough-water-scientists-say-op-ed",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789398000
     },
     {
       "title": "Cancer is rising in younger adults. Faster biological aging may help explain why",
