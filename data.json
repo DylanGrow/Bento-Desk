@@ -1,6 +1,258 @@
 {
-  "last_updated": 1789470026,
+  "last_updated": 1789488660,
   "items": [
+    {
+      "title": "Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far",
+      "link": "https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789488000
+    },
+    {
+      "title": "Making rocket fuel out of Mars' thin air: New breakthrough could make it happen",
+      "link": "https://www.space.com/astronomy/mars/making-rocket-fuel-out-of-mars-thin-air-new-breakthrough-could-make-it-happen",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789488000
+    },
+    {
+      "title": "Nitter and XCancel are dead (again) after X’s latest legal actions",
+      "link": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789487358
+    },
+    {
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789487223
+    },
+    {
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789485768
+    },
+    {
+      "title": "Wonder scores a $425 million partnership with DoorDash as it builds its food empire",
+      "link": "https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789485670
+    },
+    {
+      "title": "Smelling chocolate helped men complete more reps without feeling more tired",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260914102445.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789484634
+    },
+    {
+      "title": "'The violence leaves a mark': How satellites are helping the world monitor war and atrocities",
+      "link": "https://www.space.com/space-exploration/satellites/the-violence-leaves-a-mark-how-satellites-are-helping-the-world-monitor-war-and-atrocities",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789484400
+    },
+    {
+      "title": "Apex Legends Art Director Says Street Fighter 6 Pushed Devs to Give Characters the 'Thickest Thighs' They've Ever Had",
+      "link": "https://www.ign.com/articles/apex-legends-art-director-says-street-fighter-6-pushed-devs-to-give-characters-the-thickest-thighs-theyve-ever-had",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789484400
+    },
+    {
+      "title": "Apex Legends VS Street Fighter Brings Chun-Li, Ryu, Akuma, and More to the Outlands",
+      "link": "https://www.ign.com/articles/apex-legends-vs-street-fighter-brings-chun-li-ryu-akuma-and-more-to-the-outlands",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789484400
+    },
+    {
+      "title": "Harry Potter TV Series Casts Arthur Weasley, Moaning Myrtle and Colin Creevey",
+      "link": "https://www.ign.com/articles/harry-potter-tv-series-casts-arthur-weasley-moaning-myrtle-and-colin-creevey",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789484400
+    },
+    {
+      "title": "This Australian cave hid 25,000 years of ritual secrets",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260914102443.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789483403
+    },
+    {
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789483357
+    },
+    {
+      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789482600
+    },
+    {
+      "title": "Scientists discover a major brain shift between ages 50 and 75",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260914102441.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789482518
+    },
+    {
+      "title": "India ends free ride for larger transactions on its ubiquitous digital payments network",
+      "link": "https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789482169
+    },
+    {
+      "title": "Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data",
+      "link": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789481639
+    },
+    {
+      "title": "UV light reveals possible camouflage on a 125-million-year-old crocodile",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260914102436.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789481233
+    },
+    {
+      "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789480800
+    },
+    {
+      "title": "Curiosity rover spots odd 'footprints' on Mars | Space photo of the day for Sept. 15, 2026",
+      "link": "https://www.space.com/astronomy/mars/curiosity-rover-spots-odd-footprints-on-mars-space-photo-of-the-day-for-sept-15-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789480800
+    },
+    {
+      "title": "On this day in space! Sept. 15, 1968: Russian tortoises (& other critters) launch around the moon on Zond 5 spacecraft in wild first circumlunar flight",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-15-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789480800
+    },
+    {
+      "title": "Warlock: Dungeons & Dragons Doesn't Have Waypoints Because the Devs Want Players to 'Figure Things Out' for Themselves",
+      "link": "https://www.ign.com/articles/warlock-dungeons-dragons-doesnt-have-waypoints-because-the-devs-want-players-to-figure-things-out-for-themselves",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789480682
+    },
+    {
+      "title": "The shape behind the Einstein problem just revealed strange new physics",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789478095
+    },
+    {
+      "title": "International Observe the Moon Night 2026 is on Sept. 19: Here's how to join in",
+      "link": "https://www.space.com/stargazing/international-observe-the-moon-night-2026-is-on-sept-19-heres-how-to-join-in",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789477451
+    },
+    {
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789477200
+    },
+    {
+      "title": "Spotify finally lets parents exclude kids’ music from Wrapped and recommendations",
+      "link": "https://techcrunch.com/2026/09/15/spotify-finally-lets-parents-exclude-kids-music-from-wrapped-and-recommendations/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789477200
+    },
+    {
+      "title": "This Atlantic hurricane season is about to do something that hasn't happened in 175 years",
+      "link": "https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789475771
+    },
+    {
+      "title": "Supermassive black hole winds are 100 times more powerful than scientists thought",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260914102429.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789475672
+    },
+    {
+      "title": "New Italian unicorn Exein rides the physical AI wave",
+      "link": "https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789474778
+    },
+    {
+      "title": "Wolverine Developer Insomniac Promises to 'Further Refine the Player Experience' Based on Feedback",
+      "link": "https://www.ign.com/articles/wolverine-developer-insomniac-promises-to-further-refine-the-player-experience-based-on-feedback",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789474521
+    },
+    {
+      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+      "link": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789473641
+    },
+    {
+      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+      "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789473600
+    },
+    {
+      "title": "SpaceX launching 2nd classified mission for US Space Force in less than a week tonight: Watch it live",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-2nd-classified-mission-for-us-space-force-in-less-than-a-week-tonight-watch-it-live",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789473600
+    },
+    {
+      "title": "Wardogs Sells 2 Million Copies in 5 Days as Early Access Shooter Blows Up on Steam",
+      "link": "https://www.ign.com/articles/wardogs-sells-2-million-copies-in-5-days-as-early-access-shooter-blows-up-on-steam",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789472667
+    },
+    {
+      "title": "Buffy the Vampire Slayer Reboot Cancellation Means Fans Will Never Discover if Buffy and Angel Ended Up Together, Sarah Michelle Gellar Jokes",
+      "link": "https://www.ign.com/articles/buffy-the-vampire-slayer-reboot-cancellation-means-fans-will-never-discover-if-buffy-and-angel-ended-up-together-sarah-michelle-gellar-jokes",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789472300
+    },
+    {
+      "title": "Trump Calls AI Safety Warnings a 'Hoax,' Refuses to Back Guardrails Anthropic and OpenAI Insist Are Needed to Help Prevent Human Extinction",
+      "link": "https://www.ign.com/articles/trump-calls-ai-safety-warnings-a-hoax-refuses-to-back-guardrails-anthropic-and-openai-insist-are-needed-to-help-prevent-human-extinction",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789471053
+    },
     {
       "title": "Is Eternal Darkness Getting a Remaster? Nightdive Studios Raises Hopes That the GameCube Classic Will Return",
       "link": "https://www.ign.com/articles/is-eternal-darkness-getting-a-remaster-nightdive-studios-raises-hopes-that-the-gamecube-classic-will-return",
@@ -37,11 +289,25 @@
       "timestamp": 1789455630
     },
     {
+      "title": "Nearly 10,000 patients reveal what works best for knee arthritis pain relief",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260913082208.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789444663
+    },
+    {
       "title": "For the first time, the US military confirms it has deployed weapons in orbit",
       "link": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1789444056
+    },
+    {
+      "title": "Tiny cell “antennas” may help explain why some babies are born with heart defects",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260912220103.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789442452
     },
     {
       "title": "Plague was killing entire families thousands of years before the Black Death",
@@ -114,32 +380,11 @@
       "timestamp": 1789419872
     },
     {
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789418654
-    },
-    {
       "title": "Dog Breeders Are Offering Puppies in Exchange for Pokemon Cards",
       "link": "https://www.ign.com/articles/dog-breeders-are-offering-puppies-in-exchange-for-pokemon-cards",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1789416973
-    },
-    {
-      "title": "PlayStation Blackout Boycott Had 'No Significant Change' on Player Counts or Engagement, Says Analyst",
-      "link": "https://www.ign.com/articles/playstation-blackout-boycott-had-no-significant-change-on-player-counts-or-engagement-says-analyst",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789416572
-    },
-    {
-      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
-      "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789416457
     },
     {
       "title": "The warmest summer on record: 2026 hit a scorching new high in the US",
@@ -154,13 +399,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1789415113
-    },
-    {
-      "title": "Sydney Sweeney Criticized by Female Athletes as Nude Sports Trading App Ad Sparks Backlash",
-      "link": "https://www.ign.com/articles/sydney-sweeney-criticized-by-female-athletes-as-nude-sports-trading-app-ad-sparks-backlash",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789414824
     },
     {
       "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
@@ -205,20 +443,6 @@
       "timestamp": 1789410249
     },
     {
-      "title": "Amazon Prime Video takes on TikTok with short-form news clips",
-      "link": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789409669
-    },
-    {
-      "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
-      "link": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789409323
-    },
-    {
       "title": "A new solar cell could generate electricity underwater",
       "link": "https://arstechnica.com/science/2026/09/a-new-solar-cell-could-generate-electricity-underwater/",
       "source": "ARSTECHNICA",
@@ -233,46 +457,11 @@
       "timestamp": 1789408800
     },
     {
-      "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
-      "link": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789407680
-    },
-    {
-      "title": "Marvel Tokon: Fighting Souls Director Apologizes for Rough PC Launch and Outlines Upcoming Balance Changes",
-      "link": "https://www.ign.com/articles/marvel-tokon-fighting-souls-director-apologizes-for-rough-pc-launch-and-outlines-upcoming-balance-changes",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789407516
-    },
-    {
-      "title": "Marathon Delays Next Major Update, Puts Focus on PvE, and Moves Away from Seasonal Content Amidst Bungie Struggles",
-      "link": "https://www.ign.com/articles/marathon-delays-next-major-update-puts-focus-on-pve-and-moves-away-from-seasonal-content-amidst-bungie-struggles",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789407180
-    },
-    {
       "title": "Prehistoric builders transported Devil's Arrows 11 miles",
       "link": "https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1789405854
-    },
-    {
-      "title": "With iOS 27, I’m actually using Siri again",
-      "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789405830
-    },
-    {
-      "title": "macOS 27: new Siri takes on AI productivity apps",
-      "link": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789405809
     },
     {
       "title": "Steam Frame: The Ars Technica review",
@@ -282,45 +471,10 @@
       "timestamp": 1789405207
     },
     {
-      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-      "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789405200
-    },
-    {
       "title": "The US government is 'sincere in its efforts to understand UAP', new White House council chair says",
       "link": "https://www.space.com/space-exploration/search-for-life/the-us-government-is-sincere-in-its-efforts-to-understand-uap-new-white-house-council-chair-says",
       "source": "SPACE",
       "category": "space",
-      "timestamp": 1789405200
-    },
-    {
-      "title": "'It's Definitely at the Top of Our List' – SteamOS Is Getting Closer to Nvidia Driver Support",
-      "link": "https://www.ign.com/articles/its-definitely-at-the-top-of-our-list-steamos-is-getting-closer-to-nvidia-driver-support",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789405200
-    },
-    {
-      "title": "The Steam Frame is $1,059, and Much More Expensive Than It Was Supposed to Be",
-      "link": "https://www.ign.com/articles/steam-frame-price",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789405200
-    },
-    {
-      "title": "The Steam Frame Was Probably Supposed to Cost About $750",
-      "link": "https://www.ign.com/articles/the-steam-frame-was-probably-supposed-to-cost-about-750",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789405200
-    },
-    {
-      "title": "Valve Says RAM Crisis Hasn’t Affected Plans for Steam Deck 2",
-      "link": "https://www.ign.com/articles/valve-says-ram-crisis-hasnt-affected-plans-for-steam-deck-2",
-      "source": "IGN",
-      "category": "gaming",
       "timestamp": 1789405200
     },
     {
@@ -331,46 +485,11 @@
       "timestamp": 1789403358
     },
     {
-      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789403273
-    },
-    {
-      "title": "Waymo opens robotaxi service in Las Vegas",
-      "link": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789401856
-    },
-    {
       "title": "The original 'Star Wars' is coming to IMAX for the first time ever in 2027",
       "link": "https://www.space.com/entertainment/space-movies-shows/the-original-star-wars-is-coming-to-imax-for-the-first-time-ever-in-2027",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1789401600
-    },
-    {
-      "title": "New corners, new lights for 2028 Volvo XC40",
-      "link": "https://arstechnica.com/cars/2026/09/how-to-make-a-small-suv-slightly-smaller-the-2028-volvo-xc40/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789400766
-    },
-    {
-      "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
-      "link": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789400071
-    },
-    {
-      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789398000
     },
     {
       "title": "No cities on the moon — there isn't enough water, scientists say (op-ed)",
@@ -392,27 +511,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1789397227
-    },
-    {
-      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-      "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789397144
-    },
-    {
-      "title": "F1 in Madrid: Like Monaco but twice as long and none of the glamour",
-      "link": "https://arstechnica.com/cars/2026/09/f1-in-madrid-like-monaco-but-twice-as-long-and-none-of-the-glamour/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789396355
-    },
-    {
-      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789396200
     },
     {
       "title": "Hidden brain wiring may help keep the mind sharp as gray matter shrinks",
@@ -464,20 +562,6 @@
       "timestamp": 1789387200
     },
     {
-      "title": "Pre-order the Unistellar Envision AR binoculars and learn about the night sky in real-time",
-      "link": "https://www.space.com/stargazing/skywatching-kit/pre-order-the-unistellar-envision-ar-binoculars-and-learn-about-the-night-sky-in-real-time",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789387200
-    },
-    {
-      "title": "James Webb Space Telescope and Hubble discover 27 puzzling new objects orbiting the sun far beyond Neptune",
-      "link": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-and-hubble-discover-27-puzzling-new-objects-orbiting-the-sun-far-beyond-neptune",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789380000
-    },
-    {
       "title": "Scientists find how “zombie” cells fuel inflammation as we age",
       "link": "https://www.sciencedaily.com/releases/2026/09/260911214301.htm",
       "source": "SCIENCEDAILY",
@@ -490,90 +574,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1789355915
-    },
-    {
-      "title": "SpaceX launches 3 telecom satellites to orbit on 700th Falcon mission of all time (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-3-telecom-satellites-to-orbit-on-700th-falcon-mission-of-all-time-video",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789335686
-    },
-    {
-      "title": "On this day in space! Sept. 13, 2007: Japan launches Kaguya spacecraft to the moon to map the lunar surface in HD",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-13-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789321521
-    },
-    {
-      "title": "The 10 best underground sci-fi movies to dig into now that 'Silo' season 3 has ended",
-      "link": "https://www.space.com/entertainment/best-underground-sci-fi-movies",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789311600
-    },
-    {
-      "title": "NASA astronaut Jessica Meir shares zero-G curly hair tips from the ISS (video)",
-      "link": "https://www.space.com/space-exploration/international-space-station/nasa-astronaut-jessica-meir-shares-zero-g-curly-hair-tips-from-the-iss-video",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789308000
-    },
-    {
-      "title": "Scientists find a new layer of Alzheimer’s hidden in the genome",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260912220051.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789307766
-    },
-    {
-      "title": "Physicists can’t agree on how the Universe works",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260912220041.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789305356
-    },
-    {
-      "title": "Global warming is breaking a 400-year climate link between two oceans",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260912220029.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789301885
-    },
-    {
-      "title": "NASA-backed scientists turn plastic waste into edible cookies",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260912220033.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789300476
-    },
-    {
-      "title": "Physicists discover a hidden “curveball” in quantum light",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260912220025.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789298521
-    },
-    {
-      "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789296379
-    },
-    {
-      "title": "Venus’s pale yellow clouds may hide something surprisingly dark",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260912220022.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789271049
-    },
-    {
-      "title": "Scientists find water was fueling volcanoes 3 billion years ago",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260911214305.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789269259
     },
     {
       "title": "Why is the Kawhi Leonard trade still on hold? Uncertain Clippers leadership reportedly among reasons",
