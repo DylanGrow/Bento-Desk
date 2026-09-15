@@ -1,6 +1,41 @@
 {
-  "last_updated": 1789451165,
+  "last_updated": 1789470026,
   "items": [
+    {
+      "title": "Is Eternal Darkness Getting a Remaster? Nightdive Studios Raises Hopes That the GameCube Classic Will Return",
+      "link": "https://www.ign.com/articles/is-eternal-darkness-getting-a-remaster-nightdive-studios-raises-hopes-that-the-gamecube-classic-will-return",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789468856
+    },
+    {
+      "title": "'If I wanted to go to space, I would have stayed at NASA': What's next for Artemis II astronaut Victor Glover after his mission to the moon",
+      "link": "https://www.space.com/space-exploration/artemis/if-i-wanted-to-go-to-space-i-would-have-stayed-at-nasa-whats-next-for-artemis-ii-astronaut-victor-glover-after-his-mission-to-the-moon",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789466400
+    },
+    {
+      "title": "US Confirms for the First Time It Has Deployed a Space Weapon in Earth's Orbit",
+      "link": "https://www.ign.com/articles/us-confirms-for-the-first-time-it-has-deployed-a-space-weapon-in-earths-orbit",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789465942
+    },
+    {
+      "title": "James Bond Game 007 First Light Delayed Until 2027 on Nintendo Switch 2",
+      "link": "https://www.ign.com/articles/james-bond-game-007-first-light-delayed-until-2027-on-nintendo-switch-2",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789465498
+    },
+    {
+      "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
+      "link": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789455630
+    },
     {
       "title": "For the first time, the US military confirms it has deployed weapons in orbit",
       "link": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
@@ -191,7 +226,7 @@
       "timestamp": 1789408996
     },
     {
-      "title": "Vega C rocket launches 2 European Earth-observing satellites to orbit from South America",
+      "title": "Vega C rocket launches 2 European Earth-observing satellites to orbit from South America (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/vega-rocket-launch-europe-flex-sentinel-3c-earth-observation-satellites",
       "source": "SPACE",
       "category": "space",
@@ -289,20 +324,6 @@
       "timestamp": 1789405200
     },
     {
-      "title": "LEGO Is Officially Retiring the First Harry Potter Book Nook",
-      "link": "https://www.ign.com/articles/lego-is-officially-retiring-the-first-harry-potter-book-nook-in-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789405001
-    },
-    {
-      "title": "Ubisoft Has Delayed Rayman Legends Retold Just a Few Weeks Before Its Planned Release Date",
-      "link": "https://www.ign.com/articles/ubisoft-has-delayed-rayman-legends-retold-just-a-few-weeks-before-its-planned-release-date",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789404395
-    },
-    {
       "title": "\"Offensively cheap\": Solar power is looking up",
       "link": "https://arstechnica.com/gadgets/2026/09/offensively-cheap-solar-power-is-looking-up/",
       "source": "ARSTECHNICA",
@@ -315,13 +336,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1789403273
-    },
-    {
-      "title": "Live-Action Crazy Taxi Movie, New Sonic Animated Series, and Stranger Than Heaven Adaptation Heading to Netflix",
-      "link": "https://www.ign.com/articles/live-action-crazy-taxi-movie-new-sonic-animated-series-and-stranger-than-heaven-adaptation-heading-to-netflix",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789402252
     },
     {
       "title": "Waymo opens robotaxi service in Las Vegas",
@@ -478,13 +492,6 @@
       "timestamp": 1789355915
     },
     {
-      "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
-      "link": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789336612
-    },
-    {
       "title": "SpaceX launches 3 telecom satellites to orbit on 700th Falcon mission of all time (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-3-telecom-satellites-to-orbit-on-700th-falcon-mission-of-all-time-video",
       "source": "SPACE",
@@ -525,13 +532,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1789305356
-    },
-    {
-      "title": "James Webb Space Telescope discovers the rings of tiny solar system body Chariklo are changing",
-      "link": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-discovers-the-rings-of-tiny-solar-system-body-chariklo-are-changing",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789304400
     },
     {
       "title": "Global warming is breaking a 400-year climate link between two oceans",
