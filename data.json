@@ -1,12 +1,33 @@
 {
-  "last_updated": 1789512314,
+  "last_updated": 1789520589,
   "items": [
+    {
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789518039
+    },
+    {
+      "title": "'This Is a Place You Come to Work Hard' — Wardogs CEO Justifies Crunch as a Balancing Act",
+      "link": "https://www.ign.com/articles/this-is-a-place-you-come-to-work-hard-wardogs-ceo-justifies-crunch-as-a-balancing-act",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789517674
+    },
     {
       "title": "Marvel's Wolverine Offers Up a Canonical Explanation for Why Logan's Costume Regenerates",
       "link": "https://www.ign.com/articles/marvels-wolverine-offers-up-a-canonical-explanation-for-why-logans-costume-regenerates",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1789511934
+    },
+    {
+      "title": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
+      "link": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789511192
     },
     {
       "title": "HBO Boss All But Confirms The Last of Us Show Will End With Season 3",
@@ -21,6 +42,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1789510157
+    },
+    {
+      "title": "Adam Silver discusses Clippers punishment, NBA expansion, why Blazers leaving Portland would be 'failure'",
+      "link": "https://www.cbssports.com/nba/news/adam-silver-clippers-punishment-nba-expansion-trail-blazers-second-apron/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1789509009
     },
     {
       "title": "The AI data center boom is colliding with cities scarred by big industry",
@@ -49,6 +77,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1789506920
+    },
+    {
+      "title": "“Filmmaker” suing PassThePopcorn may be banned user out for revenge",
+      "link": "https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789503557
     },
     {
       "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
@@ -240,17 +275,17 @@
       "timestamp": 1789488418
     },
     {
-      "title": "Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far",
-      "link": "https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789488000
-    },
-    {
       "title": "Making rocket fuel out of Mars' thin air: New breakthrough could make it happen",
       "link": "https://www.space.com/astronomy/mars/making-rocket-fuel-out-of-mars-thin-air-new-breakthrough-could-make-it-happen",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1789488000
+    },
+    {
+      "title": "Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far",
+      "link": "https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
       "timestamp": 1789488000
     },
     {
@@ -310,13 +345,6 @@
       "timestamp": 1789484400
     },
     {
-      "title": "Harry Potter TV Series Casts Arthur Weasley, Moaning Myrtle and Colin Creevey",
-      "link": "https://www.ign.com/articles/harry-potter-tv-series-casts-arthur-weasley-moaning-myrtle-and-colin-creevey",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789484400
-    },
-    {
       "title": "This Australian cave hid 25,000 years of ritual secrets",
       "link": "https://www.sciencedaily.com/releases/2026/09/260914102443.htm",
       "source": "SCIENCEDAILY",
@@ -329,13 +357,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1789483357
-    },
-    {
-      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789482600
     },
     {
       "title": "Scientists discover a major brain shift between ages 50 and 75",
@@ -490,20 +511,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1789416000
-    },
-    {
-      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-      "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789415113
-    },
-    {
-      "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
-      "link": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789414726
     },
     {
       "title": "Interstellar comet 3I/ATLAS likely formed where its star's light couldn't touch it",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1788454551
-    },
-    {
-      "title": "NBA hammers Clippers over Kawhi Leonard scandal; Dante Moore No. 1 in CFB QB rankings",
-      "link": "https://www.cbssports.com/nba/news/nba-clippers-kawhi-leonard-dante-moore-cfb-qb-rankings/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1788441101
     }
   ]
 }
