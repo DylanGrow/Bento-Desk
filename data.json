@@ -1,6 +1,76 @@
 {
-  "last_updated": 1789542625,
+  "last_updated": 1789563897,
   "items": [
+    {
+      "title": "Clean tech startup Fluxnium found a way to tap 50,000 years worth of nuclear fuel",
+      "link": "https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789563600
+    },
+    {
+      "title": "Steven Spielberg's alien conspiracy movie 'Disclosure Day' finally hits a streaming service in October",
+      "link": "https://www.space.com/entertainment/space-movies-shows/steven-spielbergs-alien-conspiracy-movie-disclosure-day-finally-hits-streaming-service-in-october",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789563600
+    },
+    {
+      "title": "30th Anniversary Pokémon Trading Card Launch Sparks Enormous Queues, 'Ghost Chairs' Criticism, and Price Hikes",
+      "link": "https://www.ign.com/articles/30th-anniversary-pokemon-cards-spark-enormous-queues-and-ghost-chairs-criticism-as-retailers-hike-prices",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789561025
+    },
+    {
+      "title": "Where will the US Space Academy be based? NASA wants class to start by 2028",
+      "link": "https://www.space.com/space-exploration/where-will-the-us-space-academy-be-based-nasa-wants-class-to-start-by-2028",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789560000
+    },
+    {
+      "title": "Images for Unannounced Tiny Tina's Wonderlands and Brothers in Arms Games Leak Online",
+      "link": "https://www.ign.com/articles/images-for-unannounced-tiny-tinas-wonderlands-and-brothers-in-arms-games-leak-online",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789555649
+    },
+    {
+      "title": "Amazon launches Alexa+ in India with Hindi support",
+      "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789554887
+    },
+    {
+      "title": "Will Microsoft Kill Day 1 Launches via Game Pass? After Word Leaks of Potential Changes, Xbox Says It Has Nothing 'To Announce Today'",
+      "link": "https://www.ign.com/articles/will-microsoft-kill-day-1-launches-via-game-pass-after-word-leaks-of-potential-changes-xbox-says-it-has-nothing-to-announce-today",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789554051
+    },
+    {
+      "title": "Russia launching 3 tons of cargo to the space station today: Watch it live",
+      "link": "https://www.space.com/space-exploration/international-space-station/russia-progress-96-cargo-launch-international-space-station",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1789552800
+    },
+    {
+      "title": "Fire Emblem: Fortune's Weave Developers Explain Why You Only Need 1 Save File — and That The Game Originally Had 8 Protagonists",
+      "link": "https://www.ign.com/articles/fire-emblem-fortunes-weave-developers-explain-why-you-only-need-1-save-file-and-that-the-game-originally-had-8-protagonists",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789551485
+    },
+    {
+      "title": "PS5 Update Lets You Turn on Display Names, Adds Trending Now and Top 10 Views, and More",
+      "link": "https://www.ign.com/articles/ps5-update-lets-you-turn-on-display-names-adds-trending-now-and-top-10-views-and-more",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789548177
+    },
     {
       "title": "How chimps teach their kids tool tricks",
       "link": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
@@ -254,39 +324,11 @@
       "timestamp": 1789491600
     },
     {
-      "title": "Xbox Game Pass September 2026 Wave 2 Lineup Announced",
-      "link": "https://www.ign.com/articles/xbox-game-pass-september-2026-wave-2-lineup-announced",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789491407
-    },
-    {
-      "title": "Aliens: Fireteam Elite 2's Nintendo Switch 2 Version Delayed to Early 2027",
-      "link": "https://www.ign.com/articles/aliens-fireteam-elite-2s-nintendo-switch-2-version-delayed-to-early-2027",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789491322
-    },
-    {
       "title": "Clippers, Raptors agree to Kawhi Leonard trade again: Toronto finally poised to move forward as East contender",
       "link": "https://www.cbssports.com/nba/news/clippers-raptors-agree-kawhi-leonard-trade-again/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1789490175
-    },
-    {
-      "title": "Fable Developer Explains Why Xbox 'Protected' the Project Over Its Long Development Cycle, Amid Layoffs and Studio Closures Elsewhere",
-      "link": "https://www.ign.com/articles/fable-developer-explains-why-xbox-protected-the-project-over-its-long-development-cycle-amid-layoffs-and-studio-closures-elsewhere",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789488607
-    },
-    {
-      "title": "Rockstar Games Begins Teasing GTA 6's Soundtrack With Travis Scott, Future, Morgan Wallen, and More",
-      "link": "https://www.ign.com/articles/rockstar-games-begins-teasing-gta-6s-soundtrack-with-travis-scott-future-morgan-wallen-and-more",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789488418
     },
     {
       "title": "Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far",
@@ -324,13 +366,6 @@
       "timestamp": 1789485768
     },
     {
-      "title": "Wonder scores a $425 million partnership with DoorDash as it builds its food empire",
-      "link": "https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789485670
-    },
-    {
       "title": "Smelling chocolate helped men complete more reps without feeling more tired",
       "link": "https://www.sciencedaily.com/releases/2026/09/260914102445.htm",
       "source": "SCIENCEDAILY",
@@ -345,25 +380,11 @@
       "timestamp": 1789484400
     },
     {
-      "title": "Apex Legends Art Director Says Street Fighter 6 Pushed Devs to Give Characters the 'Thickest Thighs' They've Ever Had",
-      "link": "https://www.ign.com/articles/apex-legends-art-director-says-street-fighter-6-pushed-devs-to-give-characters-the-thickest-thighs-theyve-ever-had",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789484400
-    },
-    {
       "title": "This Australian cave hid 25,000 years of ritual secrets",
       "link": "https://www.sciencedaily.com/releases/2026/09/260914102443.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1789483403
-    },
-    {
-      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-      "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789483357
     },
     {
       "title": "Scientists discover a major brain shift between ages 50 and 75",
@@ -380,15 +401,15 @@
       "timestamp": 1789481233
     },
     {
-      "title": "Curiosity rover spots odd 'footprints' on Mars | Space photo of the day for Sept. 15, 2026",
-      "link": "https://www.space.com/astronomy/mars/curiosity-rover-spots-odd-footprints-on-mars-space-photo-of-the-day-for-sept-15-2026",
+      "title": "On this day in space! Sept. 15, 1968: Russian tortoises (& other critters) launch around the moon on Zond 5 spacecraft in wild first circumlunar flight",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-15-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1789480800
     },
     {
-      "title": "On this day in space! Sept. 15, 1968: Russian tortoises (& other critters) launch around the moon on Zond 5 spacecraft in wild first circumlunar flight",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-15-2026",
+      "title": "Curiosity rover spots odd 'footprints' on Mars | Space photo of the day for Sept. 15, 2026",
+      "link": "https://www.space.com/astronomy/mars/curiosity-rover-spots-odd-footprints-on-mars-space-photo-of-the-day-for-sept-15-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1789480800
@@ -504,27 +525,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1789421542
-    },
-    {
-      "title": "The warmest summer on record: 2026 hit a scorching new high in the US",
-      "link": "https://www.space.com/science/climate-change/the-warmest-summer-on-record-2026-hit-a-scorching-new-high-in-the-us",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789416000
-    },
-    {
-      "title": "Interstellar comet 3I/ATLAS likely formed where its star's light couldn't touch it",
-      "link": "https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-likely-formed-where-its-stars-light-couldnt-touch-it",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789412400
-    },
-    {
-      "title": "Vega C rocket launches 2 European Earth-observing satellites to orbit from South America (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/vega-rocket-launch-europe-flex-sentinel-3c-earth-observation-satellites",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789408800
     },
     {
       "title": "Cancer is rising in younger adults. Faster biological aging may help explain why",
