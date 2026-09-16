@@ -1,6 +1,20 @@
 {
-  "last_updated": 1789520589,
+  "last_updated": 1789542625,
   "items": [
+    {
+      "title": "How chimps teach their kids tool tricks",
+      "link": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789531239
+    },
+    {
+      "title": "Wo Long 2: Wings of Ember Gets Release Date, Demo Available Now",
+      "link": "https://www.ign.com/articles/wo-long-2-wings-of-ember-gets-release-date-demo-available-now",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789523686
+    },
     {
       "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
       "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
@@ -37,7 +51,7 @@
       "timestamp": 1789510879
     },
     {
-      "title": "Warner Bros. Reportedly Regrets Torching Zack Snyder's DC Universe and Battling With Him on Justice League",
+      "title": "Former Warner Bros. Exec Reportedly Told Zack Snyder They Regret Torching His DC Universe and Battling With Him on Justice League",
       "link": "https://www.ign.com/articles/warner-bros-reportedly-regrets-torching-zack-snyders-dc-universe-and-battling-with-him-on-justice-league",
       "source": "IGN",
       "category": "gaming",
@@ -275,17 +289,17 @@
       "timestamp": 1789488418
     },
     {
-      "title": "Making rocket fuel out of Mars' thin air: New breakthrough could make it happen",
-      "link": "https://www.space.com/astronomy/mars/making-rocket-fuel-out-of-mars-thin-air-new-breakthrough-could-make-it-happen",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789488000
-    },
-    {
       "title": "Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far",
       "link": "https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/",
       "source": "TECHCRUNCH",
       "category": "tech",
+      "timestamp": 1789488000
+    },
+    {
+      "title": "Making rocket fuel out of Mars' thin air: New breakthrough could make it happen",
+      "link": "https://www.space.com/astronomy/mars/making-rocket-fuel-out-of-mars-thin-air-new-breakthrough-could-make-it-happen",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1789488000
     },
     {
@@ -338,13 +352,6 @@
       "timestamp": 1789484400
     },
     {
-      "title": "Apex Legends VS Street Fighter Brings Chun-Li, Ryu, Akuma, and More to the Outlands",
-      "link": "https://www.ign.com/articles/apex-legends-vs-street-fighter-brings-chun-li-ryu-akuma-and-more-to-the-outlands",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789484400
-    },
-    {
       "title": "This Australian cave hid 25,000 years of ritual secrets",
       "link": "https://www.sciencedaily.com/releases/2026/09/260914102443.htm",
       "source": "SCIENCEDAILY",
@@ -373,15 +380,15 @@
       "timestamp": 1789481233
     },
     {
-      "title": "On this day in space! Sept. 15, 1968: Russian tortoises (& other critters) launch around the moon on Zond 5 spacecraft in wild first circumlunar flight",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-15-2026",
+      "title": "Curiosity rover spots odd 'footprints' on Mars | Space photo of the day for Sept. 15, 2026",
+      "link": "https://www.space.com/astronomy/mars/curiosity-rover-spots-odd-footprints-on-mars-space-photo-of-the-day-for-sept-15-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1789480800
     },
     {
-      "title": "Curiosity rover spots odd 'footprints' on Mars | Space photo of the day for Sept. 15, 2026",
-      "link": "https://www.space.com/astronomy/mars/curiosity-rover-spots-odd-footprints-on-mars-space-photo-of-the-day-for-sept-15-2026",
+      "title": "On this day in space! Sept. 15, 1968: Russian tortoises (& other critters) launch around the moon on Zond 5 spacecraft in wild first circumlunar flight",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-15-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1789480800
@@ -497,13 +504,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1789421542
-    },
-    {
-      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-      "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789419872
     },
     {
       "title": "The warmest summer on record: 2026 hit a scorching new high in the US",
