@@ -1,6 +1,41 @@
 {
-  "last_updated": 1789601507,
+  "last_updated": 1789615099,
   "items": [
+    {
+      "title": "Snap tries to make the case again for its $2,200 smart glasses",
+      "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789606729
+    },
+    {
+      "title": "Knicks staging another training camp battle for final roster spot after last year's helped win them the title",
+      "link": "https://www.cbssports.com/nba/news/knicks-training-camp-signings-last-roster-spot-nba/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1789606604
+    },
+    {
+      "title": "Musk’s long-time backer is giving SpaceX stock to its investors",
+      "link": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789602607
+    },
+    {
+      "title": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
+      "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789602189
+    },
+    {
+      "title": "LittleBigPlanet Developer Reportedly Working on Animal Crossing-Like Game for 2027 Release",
+      "link": "https://www.ign.com/articles/littlebigplanet-developer-reportedly-working-on-animal-crossing-like-game-for-2027-release",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789599932
+    },
     {
       "title": "GPT-6 Astra Plays Minecraft, Gets So Depressed After Creeper Destroys Its Progress That It Farms Potatoes for Hours",
       "link": "https://www.ign.com/articles/gpt-6-astra-plays-minecraft-gets-so-depressed-after-creeper-destroys-its-progress-that-it-farms-potatoes-for-hours",
@@ -23,6 +58,13 @@
       "timestamp": 1789597677
     },
     {
+      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+      "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789596166
+    },
+    {
       "title": "Space weather caused a 16-minute train delay in 1848: 'Our research has a hint of a detective story'",
       "link": "https://www.space.com/astronomy/sun/space-weather-caused-a-16-minute-train-delay-in-1848-our-research-has-a-hint-of-a-detective-story",
       "source": "SPACE",
@@ -35,6 +77,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1789595548
+    },
+    {
+      "title": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
+      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789594929
     },
     {
       "title": "Noise wants to help everyday people  become paid content creators",
@@ -184,13 +233,6 @@
       "timestamp": 1789584203
     },
     {
-      "title": "Knicks staging another training camp battle for final roster spot after last year's helped win them the title",
-      "link": "https://www.cbssports.com/nba/news/knicks-training-camp-signings-last-roster-spot-nba/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1789584113
-    },
-    {
       "title": "Marvel's Wolverine Players Are Testing Its Motorcycle Sequence to See if Logan Can Die if You Don't Touch the Controller",
       "link": "https://www.ign.com/articles/marvels-wolverine-players-are-testing-its-motorcycle-sequence-to-see-if-logan-can-die-if-you-dont-touch-the-controller",
       "source": "IGN",
@@ -282,13 +324,6 @@
       "timestamp": 1789576200
     },
     {
-      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
-      "link": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789574400
-    },
-    {
       "title": "The universe's most extreme dead stars can form from vampire white dwarfs — and scientists finally know how",
       "link": "https://www.space.com/astronomy/stars/the-universes-most-extreme-dead-stars-can-form-from-vampire-white-dwarfs-and-scientists-finally-know-how",
       "source": "SPACE",
@@ -310,32 +345,11 @@
       "timestamp": 1789574166
     },
     {
-      "title": "May Mobility is going public in a $1.4B SPAC deal",
-      "link": "https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789572433
-    },
-    {
       "title": "What happens when neutrinos swap identities inside a supernova?",
       "link": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1789571863
-    },
-    {
-      "title": "Spider-Man: Brand New Day Surpasses Star Wars: The Force Awakens to Become North America's Highest-Grossing Movie of All Time",
-      "link": "https://www.ign.com/articles/spider-man-brand-new-day-surpasses-star-wars-the-force-awakens-to-become-north-americas-highest-grossing-movie-of-all-time",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789571680
-    },
-    {
-      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789570800
     },
     {
       "title": "On this day in space! Sept. 16, 1949: A US launch of a V-2 rocket explodes, killing its monkey passenger Albert III",
@@ -464,13 +478,6 @@
       "timestamp": 1789530718
     },
     {
-      "title": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
-      "link": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789511192
-    },
-    {
       "title": "Adam Silver discusses Clippers punishment, NBA expansion, why Blazers leaving Portland would be 'failure'",
       "link": "https://www.cbssports.com/nba/news/adam-silver-clippers-punishment-nba-expansion-trail-blazers-second-apron/",
       "source": "CBSSPORTS",
@@ -483,13 +490,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1789507477
-    },
-    {
-      "title": "“Filmmaker” suing PassThePopcorn may be banned user out for revenge",
-      "link": "https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789503557
     },
     {
       "title": "New 'StarCraft' game announced, but it's a grim open-world shooter and it's not coming until 2030",
