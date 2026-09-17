@@ -1,8 +1,141 @@
 {
-  "last_updated": 1789636244,
+  "last_updated": 1789655956,
   "items": [
     {
-      "title": "Xbox Tokyo Game Show 2026 Live Report — Everything Announced",
+      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+      "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789653974
+    },
+    {
+      "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789653600
+    },
+    {
+      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+      "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789652776
+    },
+    {
+      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789652313
+    },
+    {
+      "title": "Lucid Motors has a potential robotaxi partner for Europe",
+      "link": "https://techcrunch.com/2026/09/17/lucid-motors-has-a-potential-robotaxi-partner-for-europe/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789651592
+    },
+    {
+      "title": "Bungie Denies Rumor It Plans to Merge the Destiny and Marathon IPs, Confirms Marathon December and March 2027 Updates Are Free",
+      "link": "https://www.ign.com/articles/bungie-denies-rumor-it-plans-to-merge-the-destiny-and-marathon-ips-confirms-marathon-december-and-march-2027-updates-are-free",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789650450
+    },
+    {
+      "title": "Astronomers just found the youngest known planet ever",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260917003712.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789650019
+    },
+    {
+      "title": "How Bain Capital Ventures plans to deploy its fresh $1.6B fund",
+      "link": "https://techcrunch.com/2026/09/17/how-bain-capital-ventures-plans-to-deploy-its-fresh-1-6b-fund/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789649866
+    },
+    {
+      "title": "JWST’s mysterious little red dots may be black holes growing at incredible speeds",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260917003703.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789649148
+    },
+    {
+      "title": "GTA 6 Soundtrack Gets Physical CD and Vinyl Release, Rockstar Confirms",
+      "link": "https://www.ign.com/articles/gta-6-leak-reveals-physical-release-for-its-music-album",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789646805
+    },
+    {
+      "title": "Spotify expands its partner program for podcasts to 35 new countries",
+      "link": "https://techcrunch.com/2026/09/17/spotify-expands-its-partner-program-for-podcasts-to-35-new-countries/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789646400
+    },
+    {
+      "title": "Twitch Boss Says Game Companies Are Right to Avoid Competing With GTA 6 for Attention — Expects GTA Online 2 Next Year",
+      "link": "https://www.ign.com/articles/twitch-boss-says-game-companies-are-right-to-avoid-competing-with-gta-6-for-attention-expects-gta-online-2-next-year",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789646207
+    },
+    {
+      "title": "Lollipop Chainsaw 2 Back2Back Announced, With Juliet Starling Now on Skates",
+      "link": "https://www.ign.com/articles/lollipop-chainsaw-2-back2back-announced-with-juliet-starling-now-on-skates",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789646054
+    },
+    {
+      "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
+      "link": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789642800
+    },
+    {
+      "title": "Textbooks may have misdrawn this basic brain structure for 100 years",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260915232138.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789642468
+    },
+    {
+      "title": "Moza Will Debut First PlayStation-Licensed Racing Wheels at Tokyo Game Show 2026",
+      "link": "https://www.ign.com/articles/moza-will-debut-first-playstation-licensed-racing-wheels-at-tokyo-game-show-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789641870
+    },
+    {
+      "title": "Hideo Kojima Announces It Star Bill Skarsgard Will Portray Physint's Main Character",
+      "link": "https://www.ign.com/articles/hideo-kojima-announces-it-star-bill-skarsgard-will-portray-physints-main-character",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789641822
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 4 Campaign Trailer Reveals Death Stranding Star Mads Mikkelsen",
+      "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-campaign-trailer-reveals-death-stranding-star-mads-mikkelsen",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789640807
+    },
+    {
+      "title": "Zach Cregger's Resident Evil Expected to Break Franchise Box Office Record, Topping 2010's Resident Evil: Afterlife",
+      "link": "https://www.ign.com/articles/zach-creggers-resident-evil-expected-to-break-franchise-box-office-record-topping-2010s-resident-evil-afterlife",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789636505
+    },
+    {
+      "title": "Xbox Tokyo Game Show 2026 — Everything Announced",
       "link": "https://www.ign.com/articles/xbox-tokyo-game-show-2026-everything-announced",
       "source": "IGN",
       "category": "gaming",
@@ -107,13 +240,6 @@
       "timestamp": 1789596166
     },
     {
-      "title": "Space weather caused a 16-minute train delay in 1848: 'Our research has a hint of a detective story'",
-      "link": "https://www.space.com/astronomy/sun/space-weather-caused-a-16-minute-train-delay-in-1848-our-research-has-a-hint-of-a-detective-story",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789596000
-    },
-    {
       "title": "Backrooms Director Kane Parsons Visits Valve Offices as Portal Movie Rumors Rise",
       "link": "https://www.ign.com/articles/backrooms-director-kane-parsons-visits-valve-offices-as-portal-movie-rumors-rise",
       "source": "IGN",
@@ -156,25 +282,11 @@
       "timestamp": 1789592894
     },
     {
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789592844
-    },
-    {
       "title": "GTA 5 Franklin Voice Actor Clears the Air After Calling Out Twitch Star Kai Cenat for Allegedly Breaking Promise to a Young Fan",
       "link": "https://www.ign.com/articles/gta-5-franklin-voice-actor-clears-the-air-after-calling-out-twitch-star-kai-cenat-for-allegedly-breaking-promise-to-a-young-fan",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1789592722
-    },
-    {
-      "title": "The battlefield now extends all the way to the moon, U.S. military's highest-ranking officer says",
-      "link": "https://www.space.com/technology/aerospace/the-battlefield-now-extends-all-the-way-to-the-moon-u-s-militarys-highest-ranking-officer-says",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789592400
     },
     {
       "title": "Lionsgate releases a new trailer for Sunrise on the Reaping",
@@ -191,39 +303,11 @@
       "timestamp": 1789590196
     },
     {
-      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-      "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789589520
-    },
-    {
       "title": "Microsoft Flight Simulator 2024 Releases Single New Plane DLC That Costs $74.49",
       "link": "https://www.ign.com/articles/microsoft-flight-simulator-2024-releases-single-new-plane-dlc-that-costs-7449",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1789588824
-    },
-    {
-      "title": "SpaceX Falcon 9 rocket-landing team gets 1st-ever Neil Armstrong Space Prize",
-      "link": "https://www.space.com/space-exploration/spacex-falcon-9-rocket-landing-team-gets-1st-ever-neil-armstrong-space-prize",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789588800
-    },
-    {
-      "title": "X will now let US users trade via Cashtags",
-      "link": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789588642
-    },
-    {
-      "title": "Studio Behind Hyper Light Drifter In Peril After Publisher Withdraws Funding for Unannounced Project",
-      "link": "https://www.ign.com/articles/studio-behind-hyper-light-drifter-in-peril-after-publisher-withdraws-funding-for-unannounced-project",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789588014
     },
     {
       "title": "California may gut state net neutrality law to comply with Trump admin demand",
@@ -233,39 +317,11 @@
       "timestamp": 1789587404
     },
     {
-      "title": "Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster",
-      "link": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789587329
-    },
-    {
       "title": "Researchers swap in human brain cells for a mouse's cortex",
       "link": "https://arstechnica.com/science/2026/09/researchers-swap-in-human-brain-cells-for-a-mouses-cortex/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1789585714
-    },
-    {
-      "title": "Former Waymo CFO jumps to self-driving startup Wayve",
-      "link": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789585369
-    },
-    {
-      "title": "Resident Evil Creator Shinji Mikami to Be Inducted Into D.I.C.E. Hall of Fame",
-      "link": "https://www.ign.com/articles/resident-evil-creator-shinji-mikami-to-be-inducted-into-dice-hall-of-fame",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789584673
-    },
-    {
-      "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789584335
     },
     {
       "title": "Scientists develop new method for deciphering ancient scrolls",
@@ -275,60 +331,11 @@
       "timestamp": 1789584203
     },
     {
-      "title": "Marvel's Wolverine Players Are Testing Its Motorcycle Sequence to See if Logan Can Die if You Don't Touch the Controller",
-      "link": "https://www.ign.com/articles/marvels-wolverine-players-are-testing-its-motorcycle-sequence-to-see-if-logan-can-die-if-you-dont-touch-the-controller",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789583601
-    },
-    {
-      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-      "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789583125
-    },
-    {
-      "title": "Pirate Who Cracked Denuvo Games Like Resident Evil Requiem Plans to Keep Doing So Despite Being Sued",
-      "link": "https://www.ign.com/articles/pirate-who-cracked-denuvo-games-like-resident-evil-requiem-plans-to-continue-doing-so-despite-being-sued",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789583065
-    },
-    {
-      "title": "The Specialized Diverge Pro 4 makes rough gravel your playground",
+      "title": "The Specialized Diverge 4 Pro makes rough gravel your playground",
       "link": "https://arstechnica.com/reviews/2026/09/the-specialized-diverge-pro-4-makes-rough-gravel-your-playground/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1789582313
-    },
-    {
-      "title": "Hackers publish thousands of drivers’ data after breaching Florida motor vehicle database",
-      "link": "https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789581654
-    },
-    {
-      "title": "Roman Space Telescope starts waking up as NASA powers on instruments for the 1st time",
-      "link": "https://www.space.com/space-exploration/missions/roman-space-telescope-starts-waking-up-as-nasa-powers-on-instruments-for-the-1st-time",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789581600
-    },
-    {
-      "title": "An Iconic Iron Man #1 Page and Other Historic Comic Book Art Head to Auction",
-      "link": "https://www.ign.com/articles/an-iconic-iron-man-1-page-and-other-historic-comic-book-art-head-to-auction",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789579403
-    },
-    {
-      "title": "'I Might Just Quit It All and Make Anime the Rest of My Life' — Sinners Star Michael B. Jordan Has More Than One Anime Project in the Works",
-      "link": "https://www.ign.com/articles/i-might-just-quit-it-all-and-make-anime-the-rest-of-my-life-sinners-star-michael-b-jordan-has-more-than-one-anime-project-in-the-works",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789579057
     },
     {
       "title": "It’s OK to tell ICE their actions will haunt them, judge rules in speech fight",
@@ -338,13 +345,6 @@
       "timestamp": 1789578366
     },
     {
-      "title": "Wardogs Outpacing Arc Raiders and Helldivers 2 on Steam and Has Already Made More Money Than Marathon Across All Platforms to Date, Analysis Shows",
-      "link": "https://www.ign.com/articles/wardogs-outpacing-arc-raiders-and-helldivers-2-on-steam-and-has-already-made-more-money-than-marathon-across-all-platforms-to-date-analysis-shows",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789577584
-    },
-    {
       "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
       "link": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
       "source": "ARSTECHNICA",
@@ -352,32 +352,11 @@
       "timestamp": 1789576811
     },
     {
-      "title": "The universe's most extreme dead stars can form from vampire white dwarfs — and scientists finally know how",
-      "link": "https://www.space.com/astronomy/stars/the-universes-most-extreme-dead-stars-can-form-from-vampire-white-dwarfs-and-scientists-finally-know-how",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789574400
-    },
-    {
-      "title": "Call of Duty Developer Treyarch 'Ready to Make Something New' as It Waves Goodbye to 2 Years of Black Ops",
-      "link": "https://www.ign.com/articles/call-of-duty-developer-treyarch-ready-to-make-something-new-as-it-waves-goodbye-to-2-years-of-black-ops",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789574241
-    },
-    {
       "title": "What happens when neutrinos swap identities inside a supernova?",
       "link": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1789571863
-    },
-    {
-      "title": "On this day in space! Sept. 16, 1949: A US launch of a V-2 rocket explodes, killing its monkey passenger Albert III",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-16-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789570800
     },
     {
       "title": "macOS 27 Golden Gate: The Ars Technica review",
@@ -415,32 +394,11 @@
       "timestamp": 1789567419
     },
     {
-      "title": "'Lost in Space': Celebrity astrophysicist Neil deGrasse Tyson on his lavish new encyclopedia of the cosmos (interview)",
-      "link": "https://www.space.com/entertainment/space-books/lost-in-space-celebrity-astrophysicist-neil-degrasse-tyson-on-his-lavish-new-encyclopedia-of-the-cosmos-interview",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789567200
-    },
-    {
-      "title": "Colossal cosmic cloud revealed in insane new image from the James Webb Space Telescope | Space photo of the day for Sept. 16, 2026",
-      "link": "https://www.space.com/astronomy/james-webb-space-telescope/colossal-cosmic-cloud-revealed-in-insane-new-image-from-the-james-webb-space-telescope-space-photo-of-the-day-for-sept-16-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789567200
-    },
-    {
       "title": "A 240-million-year-old fossil just changed the dinosaur timeline",
       "link": "https://www.sciencedaily.com/releases/2026/09/260915232128.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1789566488
-    },
-    {
-      "title": "Steven Spielberg's alien conspiracy movie 'Disclosure Day' finally hits a streaming service in October",
-      "link": "https://www.space.com/entertainment/space-movies-shows/steven-spielbergs-alien-conspiracy-movie-disclosure-day-finally-hits-streaming-service-in-october",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789563600
     },
     {
       "title": "NFL Week 2 picks, fantasy advice; inside Lane Kiffin's anticipated return to Ole Miss; golf's best of 2026",
@@ -457,13 +415,6 @@
       "timestamp": 1789561998
     },
     {
-      "title": "Where will the US Space Academy be based? NASA wants class to start by 2028",
-      "link": "https://www.space.com/space-exploration/where-will-the-us-space-academy-be-based-nasa-wants-class-to-start-by-2028",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789560000
-    },
-    {
       "title": "Venus may have swallowed its own moon",
       "link": "https://www.sciencedaily.com/releases/2026/09/260915232122.htm",
       "source": "SCIENCEDAILY",
@@ -476,13 +427,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1789556590
-    },
-    {
-      "title": "Russia launches Progress 96 with 3 tons of cargo to the space station (video)",
-      "link": "https://www.space.com/space-exploration/international-space-station/russia-progress-96-cargo-launch-international-space-station",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789552800
     },
     {
       "title": "How chimps teach their kids tool tricks",
@@ -504,41 +448,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1789509009
-    },
-    {
-      "title": "22 years of science! NASA's Roman Space Telescope doubles its lifetime with super-precise engine burn",
-      "link": "https://www.space.com/astronomy/22-years-of-science-nasas-roman-space-telescope-doubles-its-lifetime-with-super-precise-engine-burn",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789507477
-    },
-    {
-      "title": "New 'StarCraft' game announced, but it's a grim open-world shooter and it's not coming until 2030",
-      "link": "https://www.space.com/entertainment/space-games/new-starcraft-game-announced-but-its-a-grim-open-world-shooter-and-its-not-coming-until-2030",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789502400
-    },
-    {
-      "title": "US Space Force says it operates weapons in orbit: 'Our aim is deterrence'",
-      "link": "https://www.space.com/space-exploration/satellites/us-space-force-says-it-operates-weapons-in-orbit-our-aim-is-deterrence",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789502096
-    },
-    {
-      "title": "SpaceX's next Starship launch will lift off on Sept. 22 and aim to reach orbit for 1st time",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-next-starship-launch-will-lift-off-on-sept-22-and-aim-to-reach-orbit-for-1st-time",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789497205
-    },
-    {
-      "title": "Microscopic alien technology may be hidden in moon dust, scientists say",
-      "link": "https://www.space.com/space-exploration/search-for-life/microscopic-alien-technology-may-be-hidden-in-moon-dust-scientists-say",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1789495200
     },
     {
       "title": "Clippers, Raptors agree to Kawhi Leonard trade again: Toronto finally poised to move forward as East contender",
@@ -567,27 +476,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1789482518
-    },
-    {
-      "title": "UV light reveals possible camouflage on a 125-million-year-old crocodile",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260914102436.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789481233
-    },
-    {
-      "title": "The shape behind the Einstein problem just revealed strange new physics",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789478095
-    },
-    {
-      "title": "Supermassive black hole winds are 100 times more powerful than scientists thought",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260914102429.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789475672
     },
     {
       "title": "Clippers, Steve Ballmer back down and accept NBA penalties -- does that mean they'll get any picks back?",
