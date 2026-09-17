@@ -1,6 +1,69 @@
 {
-  "last_updated": 1789682056,
+  "last_updated": 1789689202,
   "items": [
+    {
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
+      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789687552
+    },
+    {
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789687277
+    },
+    {
+      "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
+      "link": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789686504
+    },
+    {
+      "title": "Far Cry TV Show Adds Oscar Nominee Jennifer Jason Leigh, Spider-Noir's Brendan Gleeson to Cast",
+      "link": "https://www.ign.com/articles/far-cry-tv-show-adds-oscar-nominee-jennifer-jason-leigh-spider-noirs-brendan-gleeson-to-cast",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789686248
+    },
+    {
+      "title": "Vin Diesel Mocked for ‘Architects of Mythology’ Post With George Lucas",
+      "link": "https://www.ign.com/articles/vin-diesel-george-lucas-post-roasted",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789684503
+    },
+    {
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789684449
+    },
+    {
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789683299
+    },
+    {
+      "title": "The Last of Us Game Director Finds Modern AAA Games 'Boring,' Says He's 'Not Excited' by God of War Laufey's Gameplay",
+      "link": "https://www.ign.com/articles/the-last-of-us-game-director-finds-modern-aaa-games-boring-says-hes-not-excited-by-god-of-war-laufeys-gameplay",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789682983
+    },
+    {
+      "title": "Why Stephen Curry has no interest in going the LeBron James route of free agency",
+      "link": "https://www.cbssports.com/nba/news/stephen-curry-no-interest-lebron-james-route-free-agency/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1789682692
+    },
     {
       "title": "Brandon Sanderson Says He 'Would Love to' Create Tabletop Adaptations of His Cytoverse Books",
       "link": "https://www.ign.com/articles/brandon-sanderson-says-he-would-love-to-create-tabletop-adaptations-of-his-cytoverse-books",
@@ -51,7 +114,7 @@
       "timestamp": 1789674368
     },
     {
-      "title": "Wearable Street Fighter Popcorn Bucket Shaped Like Guile’s Hair",
+      "title": "The Street Fighter Popcorn Bucket Is Wearable and Shaped Like Guile’s Hair",
       "link": "https://www.ign.com/articles/street-fighter-guile-hair-popcorn-bucket",
       "source": "IGN",
       "category": "gaming",
@@ -142,13 +205,6 @@
       "timestamp": 1789660456
     },
     {
-      "title": "Roku’s new Labs hub brings experimental apps to the big screen",
-      "link": "https://techcrunch.com/2026/09/17/rokus-new-labs-hub-brings-experimental-apps-to-the-big-screen/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789660229
-    },
-    {
       "title": "Lanterns Midseason Trailer for Last 3 Episodes Leaves Fans Feeling Like They've Got 2 Seasons in 1",
       "link": "https://www.ign.com/articles/lanterns-midseason-trailer-for-last-3-episodes-leaves-fans-feeling-like-theyve-got-2-seasons-in-1",
       "source": "IGN",
@@ -163,25 +219,11 @@
       "timestamp": 1789658155
     },
     {
-      "title": "Last call: Disrupt volunteer application closes soon",
-      "link": "https://techcrunch.com/2026/09/17/last-call-disrupt-volunteer-application-closes-soon/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789657320
-    },
-    {
       "title": "Explosive Elon Musk Documentary Likely to Be Dropped by Universal, Report Claims",
       "link": "https://www.ign.com/articles/explosive-elon-musk-documentary-likely-to-be-dropped-by-universal-report-claims",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1789657238
-    },
-    {
-      "title": "I tried Tovala’s smart oven for two weeks — here’s whether it beats takeout",
-      "link": "https://techcrunch.com/2026/09/17/i-tried-tovalas-smart-oven-for-two-weeks-heres-whether-it-beats-takeout/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789657200
     },
     {
       "title": "Valor Mortis Costs $40 Because of 'The Craziest Fall in the History of This Business'",
@@ -198,20 +240,6 @@
       "timestamp": 1789654124
     },
     {
-      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-      "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789653974
-    },
-    {
-      "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789653600
-    },
-    {
       "title": "My Cat Scattered Games: Tidy Videogame Supermarket Announced for PC",
       "link": "https://www.ign.com/articles/my-cat-scattered-games-tidy-videogame-supermarket-announced-for-pc",
       "source": "IGN",
@@ -226,13 +254,6 @@
       "timestamp": 1789653416
     },
     {
-      "title": "Bungie Denies Rumor It Plans to Merge the Destiny and Marathon IPs, Confirms Marathon December and March 2027 Updates Are Free",
-      "link": "https://www.ign.com/articles/bungie-denies-rumor-it-plans-to-merge-the-destiny-and-marathon-ips-confirms-marathon-december-and-march-2027-updates-are-free",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789650450
-    },
-    {
       "title": "Astronomers just found the youngest known planet ever",
       "link": "https://www.sciencedaily.com/releases/2026/09/260917003712.htm",
       "source": "SCIENCEDAILY",
@@ -245,20 +266,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1789649148
-    },
-    {
-      "title": "GTA 6 Soundtrack Gets Physical CD and Vinyl Release, Rockstar Confirms",
-      "link": "https://www.ign.com/articles/gta-6-leak-reveals-physical-release-for-its-music-album",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789646805
-    },
-    {
-      "title": "Twitch Boss Says Game Companies Are Right to Avoid Competing With GTA 6 for Attention — Expects GTA Online 2 Next Year",
-      "link": "https://www.ign.com/articles/twitch-boss-says-game-companies-are-right-to-avoid-competing-with-gta-6-for-attention-expects-gta-online-2-next-year",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789646207
     },
     {
       "title": "Textbooks may have misdrawn this basic brain structure for 100 years",
@@ -553,13 +560,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1788894677
-    },
-    {
-      "title": "College football picks for Week 1; how Clippers can rebound from Kawhi Leonard saga",
-      "link": "https://www.cbssports.com/college-football/news/college-football-picks-for-week-1-how-clippers-can-rebound-from-kawhi-leonard-saga/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1788526691
     }
   ]
 }
