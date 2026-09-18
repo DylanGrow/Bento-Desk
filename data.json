@@ -1,6 +1,13 @@
 {
-  "last_updated": 1789700679,
+  "last_updated": 1789721012,
   "items": [
+    {
+      "title": "First Plot Details for Zack Snyder’s Escape from New York Remake",
+      "link": "https://www.ign.com/articles/first-plot-details-for-zack-snyders-escape-from-new-york-remake",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789716936
+    },
     {
       "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
       "link": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
@@ -51,11 +58,25 @@
       "timestamp": 1789684449
     },
     {
+      "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
+      "link": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789684288
+    },
+    {
       "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
       "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1789683299
+    },
+    {
+      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+      "link": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789683178
     },
     {
       "title": "The Last of Us Game Director Finds Modern AAA Games 'Boring,' Says He's 'Not Excited' by God of War Laufey's Gameplay",
@@ -100,11 +121,25 @@
       "timestamp": 1789677264
     },
     {
+      "title": "Google announces new experimental \"CC\" AI agent for families",
+      "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789676674
+    },
+    {
       "title": "Is the AI safety debate about safety or control?",
       "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1789676377
+    },
+    {
+      "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+      "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789675841
     },
     {
       "title": "UN turns to Google to make its global data ready for AI agents",
@@ -114,13 +149,6 @@
       "timestamp": 1789675200
     },
     {
-      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789674368
-    },
-    {
       "title": "The Street Fighter Popcorn Bucket Is Wearable and Shaped Like Guile’s Hair",
       "link": "https://www.ign.com/articles/street-fighter-guile-hair-popcorn-bucket",
       "source": "IGN",
@@ -128,11 +156,25 @@
       "timestamp": 1789672645
     },
     {
+      "title": "Republican bill would order ISPs, DNS providers, and VPNs to block piracy sites",
+      "link": "https://arstechnica.com/tech-policy/2026/09/republican-bill-would-order-isps-dns-providers-and-vpns-to-block-piracy-sites/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789672048
+    },
+    {
       "title": "LeBron James reportedly getting $15 million annually in Polymarket deal as NBA endorsements face more scrutiny",
       "link": "https://www.cbssports.com/nba/news/lebron-james-polymarket-deal-nba-endorsements/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1789670059
+    },
+    {
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789669993
     },
     {
       "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
@@ -149,11 +191,25 @@
       "timestamp": 1789668592
     },
     {
+      "title": "IV drips used for \"detoxification\" actually filled with toxins; dozens poisoned",
+      "link": "https://arstechnica.com/health/2026/09/sketchy-iv-drips-at-wellness-clinics-have-poisoned-dozens-cdc-and-fda-warn/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789667030
+    },
+    {
       "title": "First Look at David Bowie-Inspired Aslan in Greta Gerwig's 'Rock-Opera' Narnia: The Magician's Nephew",
       "link": "https://www.ign.com/articles/first-look-at-david-bowie-inspired-aslan-in-greta-gerwigs-rock-opera-narnia-the-magicians-nephew",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1789666534
+    },
+    {
+      "title": "2026 Hyundai Ioniq 5: Here's what we still like, here's what annoys us",
+      "link": "https://arstechnica.com/cars/2026/09/2026-hyundai-ioniq-5-heres-what-we-still-like-heres-what-annoys-us/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789666230
     },
     {
       "title": "Even the king of England has his hesitations about AI",
@@ -198,11 +254,25 @@
       "timestamp": 1789662663
     },
     {
+      "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
+      "link": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789661914
+    },
+    {
       "title": "Pokémon Trading Card Store Denies Giving Special Treatment to Celebrities, as Angry Customers Leave a Flood of Negative Reviews",
       "link": "https://www.ign.com/articles/we-were-never-going-to-have-enough-pokemon-card-store-denies-giving-special-treatment-to-celebrities-as-angry-customers-leave-negative-reviews",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1789660456
+    },
+    {
+      "title": "EPA immediately sued over plans to repeal climate rules for power plants",
+      "link": "https://arstechnica.com/science/2026/09/thousands-will-die-if-epa-repeals-power-plant-climate-rules-lawsuit-says/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789659484
     },
     {
       "title": "Lanterns Midseason Trailer for Last 3 Episodes Leaves Fans Feeling Like They've Got 2 Seasons in 1",
@@ -226,6 +296,13 @@
       "timestamp": 1789657238
     },
     {
+      "title": "After being sidelined, Boeing's Starliner to get starring role in NASA's spaceflight plans",
+      "link": "https://arstechnica.com/space/2026/09/nasa-to-order-more-starliner-missions-and-help-certify-a-new-rocket-to-keep-it-flying/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789655857
+    },
+    {
       "title": "Valor Mortis Costs $40 Because of 'The Craziest Fall in the History of This Business'",
       "link": "https://www.ign.com/articles/valor-mortis-costs-40-because-of-the-craziest-fall-in-the-history-of-this-business",
       "source": "IGN",
@@ -247,11 +324,11 @@
       "timestamp": 1789653600
     },
     {
-      "title": "BBC Wants Doctor Who Back in 2028/29, as Search Begins For New Production Team",
-      "link": "https://www.ign.com/articles/bbc-wants-doctor-who-back-in-202829-as-search-begins-for-new-production-team",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789653416
+      "title": "A dolphin named Bubbles makes other fish vomit, then eats it",
+      "link": "https://arstechnica.com/science/2026/09/a-dolphin-named-bubbles-makes-other-fish-vomit-then-eats-it/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789653434
     },
     {
       "title": "Astronomers just found the youngest known planet ever",
@@ -273,6 +350,13 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1789642468
+    },
+    {
+      "title": "Hackers reveal how Flock cameras really track cars and people",
+      "link": "https://arstechnica.com/security/2026/09/hackers-reveal-how-flock-cameras-really-track-cars-and-people/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789638226
     },
     {
       "title": "New mesothelioma drug turns cancer’s own defenses against it",
@@ -324,76 +408,6 @@
       "timestamp": 1789592894
     },
     {
-      "title": "Lionsgate releases a new trailer for Sunrise on the Reaping",
-      "link": "https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789591481
-    },
-    {
-      "title": "Not just Proton: Getting to know Valve's new SteamOS compatibility layers",
-      "link": "https://arstechnica.com/gaming/2026/09/not-just-proton-getting-to-know-valves-new-steamos-compatibility-layers/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789590196
-    },
-    {
-      "title": "California may gut state net neutrality law to comply with Trump admin demand",
-      "link": "https://arstechnica.com/tech-policy/2026/09/california-may-gut-state-net-neutrality-law-to-comply-with-trump-admin-demand/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789587404
-    },
-    {
-      "title": "Researchers swap in human brain cells for a mouse's cortex",
-      "link": "https://arstechnica.com/science/2026/09/researchers-swap-in-human-brain-cells-for-a-mouses-cortex/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789585714
-    },
-    {
-      "title": "Scientists develop new method for deciphering ancient scrolls",
-      "link": "https://arstechnica.com/science/2026/09/why-researchers-made-their-own-model-herculaneum-scrolls/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789584203
-    },
-    {
-      "title": "The Specialized Diverge 4 Pro makes rough gravel your playground",
-      "link": "https://arstechnica.com/reviews/2026/09/the-specialized-diverge-pro-4-makes-rough-gravel-your-playground/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789582313
-    },
-    {
-      "title": "It’s OK to tell ICE their actions will haunt them, judge rules in speech fight",
-      "link": "https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789578366
-    },
-    {
-      "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
-      "link": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789576811
-    },
-    {
-      "title": "What happens when neutrinos swap identities inside a supernova?",
-      "link": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789571863
-    },
-    {
-      "title": "macOS 27 Golden Gate: The Ars Technica review",
-      "link": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789570206
-    },
-    {
       "title": "Scientists turn seawater into fresh water without harmful brine",
       "link": "https://www.sciencedaily.com/releases/2026/09/260915100137.htm",
       "source": "SCIENCEDAILY",
@@ -401,25 +415,11 @@
       "timestamp": 1789569890
     },
     {
-      "title": "The world’s best racing driver is about to race 100 karts at once",
-      "link": "https://arstechnica.com/cars/2026/09/the-worlds-best-racing-driver-is-about-to-race-100-karts-at-once/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789568341
-    },
-    {
       "title": "Scientists find an immune “false alarm” that may drive rapid aging",
       "link": "https://www.sciencedaily.com/releases/2026/09/260915232130.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1789567535
-    },
-    {
-      "title": "Lawmakers target Flock cameras with a threat to highway funding",
-      "link": "https://arstechnica.com/tech-policy/2026/09/lawmakers-target-flock-cameras-with-a-threat-to-highway-funding/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789567419
     },
     {
       "title": "A 240-million-year-old fossil just changed the dinosaur timeline",
@@ -455,13 +455,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1789556590
-    },
-    {
-      "title": "How chimps teach their kids tool tricks",
-      "link": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789531239
     },
     {
       "title": "James Webb reveals Chariklo’s mysterious rings are changing faster than expected",
