@@ -1,6 +1,34 @@
 {
-  "last_updated": 1789831119,
+  "last_updated": 1789842217,
   "items": [
+    {
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789839000
+    },
+    {
+      "title": "Insomniac Says Marvel's Wolverine Uses No Generative AI After Fans Spot Strange Signs in-Game",
+      "link": "https://www.ign.com/articles/insomniac-says-marvels-wolverine-uses-no-generative-ai-after-fans-spot-strange-signs-in-game",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789837328
+    },
+    {
+      "title": "Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors",
+      "link": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789837200
+    },
+    {
+      "title": "The Batman Part 2 Director Reveals New Image Seemingly Set in a Snowy Gotham Junkyard",
+      "link": "https://www.ign.com/articles/the-batman-part-2-director-reveals-new-image-seemingly-set-in-a-snowy-gotham-junkyard",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789832552
+    },
     {
       "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
       "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
@@ -14,6 +42,13 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1789830000
+    },
+    {
+      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+      "link": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789826400
     },
     {
       "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
@@ -198,13 +233,6 @@
       "timestamp": 1789756310
     },
     {
-      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-      "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789754393
-    },
-    {
       "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
       "link": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
       "source": "ARSTECHNICA",
@@ -219,25 +247,11 @@
       "timestamp": 1789753790
     },
     {
-      "title": "In India, the new iPhone can arrive faster than a pizza",
-      "link": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789753500
-    },
-    {
       "title": "Helldivers Movie Eyes Reacher's Alan Ritchson as Its Star",
       "link": "https://www.ign.com/articles/helldivers-movie-eyes-reachers-alan-ritchson-as-its-star",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1789753211
-    },
-    {
-      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-      "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789752830
     },
     {
       "title": "US government website used Chinese model the FBI called \"malicious\"",
@@ -266,20 +280,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1789747626
-    },
-    {
-      "title": "Scalpers Are Trying to Sell Valve's Steam Frame for Up to $2,000, but the Community Is Fighting Back",
-      "link": "https://www.ign.com/articles/scalpers-are-trying-to-sell-valves-steam-frame-for-up-to-2000-but-the-community-is-fighting-back",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789747146
-    },
-    {
-      "title": "Former PlayStation Execs Recreate Iconic Disc-Sharing Xbox Diss — Without the Physical Games This Time",
-      "link": "https://www.ign.com/articles/former-playstation-execs-recreate-iconic-disc-sharing-xbox-diss-without-the-physical-games-this-time",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789746638
     },
     {
       "title": "Meet the winner of Nikon's Small World in Motion video contest",
