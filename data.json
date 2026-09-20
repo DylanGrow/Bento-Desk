@@ -1,6 +1,13 @@
 {
-  "last_updated": 1789874194,
+  "last_updated": 1789894927,
   "items": [
+    {
+      "title": "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031037.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789878563
+    },
     {
       "title": "Big Bang Theory Spinoff Features Surprise Live-Action Cameos from The Flash and Mr. Freeze",
       "link": "https://www.ign.com/articles/big-bang-theory-spinoff-features-surprise-live-action-cameos-from-the-flash-and-mr-freeze",
@@ -86,11 +93,53 @@
       "timestamp": 1789822800
     },
     {
+      "title": "New chemical wipes out 95% of termites without harming humans",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919025248.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789820952
+    },
+    {
+      "title": "A giant crater may reveal the origin of Mars’ doomed moon",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031040.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789819961
+    },
+    {
+      "title": "This deep-sea enzyme survives heat that destroys most proteins",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260918024810.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789818585
+    },
+    {
+      "title": "This tiny organism can shrink to one quarter its size in milliseconds",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260918024812.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789817962
+    },
+    {
+      "title": "Scientists find that “perfect” systems may be surprisingly fragile",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031022.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789817213
+    },
+    {
       "title": "Learning another language may be one of the best ways to keep your brain healthy",
       "link": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1789816243
+    },
+    {
+      "title": "Scientists solve a 50-year mystery and discover a new human blood group",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260918024828.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789812855
     },
     {
       "title": "Rings around a tiny body have changed over the past decade",
@@ -119,6 +168,20 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1789797893
+    },
+    {
+      "title": "Scientists discover the first diplodocus ever found outside North America",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260918024807.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789786268
+    },
+    {
+      "title": "Billions in rare earth elements may be hiding in America’s coal ash",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260918024759.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789783736
     },
     {
       "title": "India forces caller-ID apps to feed spam reports to telcos",
@@ -352,20 +415,6 @@
       "timestamp": 1789705545
     },
     {
-      "title": "Ozempic can change your body. Can it change your life?",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260917003728.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789703529
-    },
-    {
-      "title": "Anak Krakatau blasts ash nearly 10 miles high",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260917003718.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789701377
-    },
-    {
       "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
       "link": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
       "source": "ARSTECHNICA",
@@ -427,55 +476,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1789658155
-    },
-    {
-      "title": "Scientists discover a mysterious new frog hiding in the Amazon",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260917003737.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789654124
-    },
-    {
-      "title": "Astronomers just found the youngest known planet ever",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260917003712.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789650019
-    },
-    {
-      "title": "JWST’s mysterious little red dots may be black holes growing at incredible speeds",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260917003703.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789649148
-    },
-    {
-      "title": "Textbooks may have misdrawn this basic brain structure for 100 years",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260915232138.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789642468
-    },
-    {
-      "title": "New mesothelioma drug turns cancer’s own defenses against it",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260915232136.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789621911
-    },
-    {
-      "title": "NASA’s New Horizons spots signs of liquid nitrogen flowing on Pluto",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260916232525.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789617749
-    },
-    {
-      "title": "Hidden “immune organ” in the skull may help fight brain cancer",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260915232134.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789612981
     },
     {
       "title": "Knicks staging another training camp battle for final roster spot after last year's helped win them the title",
