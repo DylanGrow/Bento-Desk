@@ -1,6 +1,83 @@
 {
-  "last_updated": 1789894927,
+  "last_updated": 1789912533,
   "items": [
+    {
+      "title": "Scientists discover a hidden “ID card” in cat urine",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031033.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789907061
+    },
+    {
+      "title": "Scientists may have solved a 2,000-year-old Dead Sea Scrolls mystery",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031035.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789905493
+    },
+    {
+      "title": "New nanoparticles make hidden chemical differences light up",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031030.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789904128
+    },
+    {
+      "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+      "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789902420
+    },
+    {
+      "title": "Hideo Kojima Reveals What Happened With Sony in Exclusive First Interview Since PlayStation Ditched Physint",
+      "link": "https://www.ign.com/articles/hideo-kojima-reveals-what-happened-with-sony-in-exclusive-first-interview-since-playstation-ditched-physint",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789902000
+    },
+    {
+      "title": "Scientists opened a sealed envelope after 10 years. Gravity still didn’t make sense",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260920032049.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789900231
+    },
+    {
+      "title": "Don't call it an SUV: The Ferrari Purosangue review",
+      "link": "https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789898402
+    },
+    {
+      "title": "T. rex teeth indicate it ran as warm as an elephant",
+      "link": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789894811
+    },
+    {
+      "title": "Ancient DNA reveals how plague kept returning for 400 years after the Black Death",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031025.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789886778
+    },
+    {
+      "title": "A 66-million-year-old tooth reveals T. rex was nearly as warm as a human",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031020.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789883786
+    },
+    {
+      "title": "Einstein’s “spooky action” just survived one of physics’ most extreme tests",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031023.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789881360
+    },
     {
       "title": "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen",
       "link": "https://www.sciencedaily.com/releases/2026/09/260919031037.htm",
@@ -338,13 +415,6 @@
       "timestamp": 1789752530
     },
     {
-      "title": "Exclusive: First Look at Hirayasumi Anime Episode 1 to Be Revealed in New York City in October",
-      "link": "https://www.ign.com/articles/exclusive-first-look-at-hirayasumi-anime-episode-1-to-be-revealed-in-new-york-city-in-october",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789750800
-    },
-    {
       "title": "Meet the winner of Nikon's Small World in Motion video contest",
       "link": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
       "source": "ARSTECHNICA",
@@ -359,60 +429,11 @@
       "timestamp": 1789738212
     },
     {
-      "title": "Scientists discover cells that cheat death and rebuild damaged tissue",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260917003722.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789734643
-    },
-    {
-      "title": "Scientists just named a new snake after Guns N’ Roses legend Slash",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260918024816.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789733223
-    },
-    {
-      "title": "NASA’s Roman Space Telescope could last more than twice as long as planned",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260918024802.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789731116
-    },
-    {
-      "title": "Scientists are about to test Einstein’s gravity with exotic matter",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260918024808.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789729645
-    },
-    {
       "title": "Rocket Report: China wants a Raptor 3 engine; SpaceX set for big Starship test",
       "link": "https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1789729211
-    },
-    {
-      "title": "NASA’s Moon orbiter finds a 728-foot crater that wasn’t there before",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260917003715.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789726734
-    },
-    {
-      "title": "These blood thinners may have an unexpected benefit for Alzheimer’s patients",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260917003732.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789724911
-    },
-    {
-      "title": "Scientists restore a brain protein and reverse signs of aging in mice",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260918000437.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789705545
     },
     {
       "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
@@ -443,32 +464,11 @@
       "timestamp": 1789676674
     },
     {
-      "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
-      "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789675841
-    },
-    {
-      "title": "Republican bill would order ISPs, DNS providers, and VPNs to block piracy sites",
-      "link": "https://arstechnica.com/tech-policy/2026/09/republican-bill-would-order-isps-dns-providers-and-vpns-to-block-piracy-sites/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789672048
-    },
-    {
       "title": "LeBron James reportedly getting $15 million annually in Polymarket deal as NBA endorsements face more scrutiny",
       "link": "https://www.cbssports.com/nba/news/lebron-james-polymarket-deal-nba-endorsements/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1789670059
-    },
-    {
-      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789669993
     },
     {
       "title": "Kyrie Irving offers to pay Azeez Al-Shaair's fine for tribute to Palestinian girl killed in Gaza",
