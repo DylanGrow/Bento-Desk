@@ -1,6 +1,55 @@
 {
-  "last_updated": 1789924634,
+  "last_updated": 1789935435,
   "items": [
+    {
+      "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
+      "link": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789933128
+    },
+    {
+      "title": "Is the AI industry really ready to slow down?",
+      "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789930564
+    },
+    {
+      "title": "Zach Cregger's Resident Evil Defies Expectations With $108 Million Box Office Opening Weekend",
+      "link": "https://www.ign.com/articles/zach-creggers-resident-evil-defies-expectations-with-108-million-box-office-opening-weekend",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789930203
+    },
+    {
+      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+      "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789929172
+    },
+    {
+      "title": "Disney+ to Allow Ads on All Plans Following Changes Detailed in Updated Subscriber Agreement",
+      "link": "https://www.ign.com/articles/disney-to-allow-ads-on-all-plans-following-changes-detailed-in-updated-subscriber-agreement",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789928327
+    },
+    {
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789927200
+    },
+    {
+      "title": "Poppy Playtime Spinoff Escape from Playtime Gets Early Access Release Date",
+      "link": "https://www.ign.com/articles/poppy-playtime-spinoff-escape-from-playtime-gets-early-access-release-date",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789925400
+    },
     {
       "title": "New California law will penalize influencers who don’t disclose political ads",
       "link": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
@@ -296,34 +345,6 @@
       "timestamp": 1789783736
     },
     {
-      "title": "India forces caller-ID apps to feed spam reports to telcos",
-      "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789779600
-    },
-    {
-      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-      "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789776727
-    },
-    {
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789773901
-    },
-    {
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789773211
-    },
-    {
       "title": "Who will be next member from 2023 NBA Draft class to sign a big-money extension?",
       "link": "https://www.cbssports.com/nba/news/next-member-2023-nba-draft-class-big-money-extension-keyonte-george/",
       "source": "CBSSPORTS",
@@ -366,32 +387,11 @@
       "timestamp": 1789762304
     },
     {
-      "title": "Astartes II, the Most Anticipated Warhammer 40,000 Animation Ever, Has a New Trailer and Confirmation of Key Details",
-      "link": "https://www.ign.com/articles/astartes-ii-the-most-anticipated-warhammer-40000-animation-ever-has-a-new-trailer-and-confirmation-of-key-details",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789759487
-    },
-    {
       "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
       "link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1789759250
-    },
-    {
-      "title": "World War Z Sequel Confirms Brad Pitt Return as Conclave's Edward Berger Boards as Director",
-      "link": "https://www.ign.com/articles/world-war-z-sequel-confirms-brad-pitt-return-as-conclaves-edward-berger-boards-as-director",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789758634
-    },
-    {
-      "title": "New Cat Species Discovered in Bolivia After Being Mistaken for a Kitten",
-      "link": "https://www.ign.com/articles/new-wild-cat-species-bolivia",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789756310
     },
     {
       "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
