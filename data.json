@@ -1,12 +1,222 @@
 {
-  "last_updated": 1789991766,
+  "last_updated": 1790013271,
   "items": [
+    {
+      "title": "X will now tell users when governments have forced it to limit their posts",
+      "link": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790012735
+    },
+    {
+      "title": "Google confirms Gemini models hacked three companies in May 2026",
+      "link": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790009846
+    },
+    {
+      "title": "Oura’s $2.2B IPO is mostly a payday for existing shareholders",
+      "link": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790009147
+    },
+    {
+      "title": "Russel Vought will reportedly be given veto power over all NIH grants",
+      "link": "https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790008826
+    },
+    {
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790008731
+    },
+    {
+      "title": "Bungie Bosses Promise to ‘Evolve’ Marathon, Deny Game Will ‘Replace’ Destiny",
+      "link": "https://www.ign.com/articles/bungie-bosses-promise-to-evolve-marathon-deny-game-will-replace-destiny",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790007974
+    },
+    {
+      "title": "Bungie Says More Destiny Is Coming, Months After Ending Support for Destiny 2",
+      "link": "https://www.ign.com/articles/bungie-says-more-destiny-is-coming-months-after-ending-support-for-destiny-2",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790007331
+    },
+    {
+      "title": "California settles lawsuit against Paramount/Warner merger, angering advocates",
+      "link": "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790007326
+    },
+    {
+      "title": "Marvel Unveils Your Friendly Neighborhood Spider-Man Season 2 Prequel Comic",
+      "link": "https://www.ign.com/articles/marvel-unveils-your-friendly-neighborhood-spider-man-season-2-prequel-comic",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790006982
+    },
+    {
+      "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
+      "link": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790005076
+    },
+    {
+      "title": "'I'm Still Low-Key Angry': Marvel Agents of SHIELD Star Says 'Real Followers Will Understand' Her Frustration the Series Isn't MCU Canon",
+      "link": "https://www.ign.com/articles/im-still-low-key-angry-marvel-agents-of-shield-star-says-real-followers-will-understand-her-frustration-the-series-isnt-mcu-canon",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790005008
+    },
+    {
+      "title": "Suspiciously Crisp-Looking Pokémon Ruby and Sapphire Footage Sparks Fresh Nintendo Switch Port Speculation",
+      "link": "https://www.ign.com/articles/suspiciously-crisp-looking-pokemon-ruby-and-sapphire-footage-sparks-fresh-nintendo-switch-port-speculation",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790002969
+    },
+    {
+      "title": "PlayStation Reveals New Limited-Edition Controller and Merch Collection With K-Pop Star Lisa",
+      "link": "https://www.ign.com/articles/playstation-x-lisa-controller-collaboration-announced",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790002924
+    },
+    {
+      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790002800
+    },
+    {
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790001562
+    },
+    {
+      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790001000
+    },
+    {
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790000100
+    },
+    {
+      "title": "Next Witcher Novel Targeted for 2027 Completion, Author Andrzej Sapkowski Confirms",
+      "link": "https://www.ign.com/articles/next-witcher-novel-targeted-for-2027-completion-author-andrzej-sapkowski-confirms",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789999200
+    },
+    {
+      "title": "Review: Neagley is a worthy spinoff to megahit Reacher",
+      "link": "https://arstechnica.com/culture/2026/09/review-neagley-is-a-worthy-spinoff-to-megahit-reacher/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789998826
+    },
+    {
+      "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
+      "link": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1789998540
+    },
+    {
+      "title": "Black holes of every size follow the same surprising rule",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260920222358.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789996990
+    },
+    {
+      "title": "A new process turns plastic waste into gasoline and diesel fuel",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260920222405.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789996120
+    },
+    {
+      "title": "Apple Mac mini review: The new M6 impresses, but the price hike is rough",
+      "link": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789995624
+    },
+    {
+      "title": "Googlebooks launch October 4 starting at $899—here are the five models you can preorder today",
+      "link": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1789995611
+    },
+    {
+      "title": "‘Thank God, I Shot This as a Contingency Plan’ — Zach Cregger Reveals Resident Evil Originally Had a Different Ending",
+      "link": "https://www.ign.com/articles/thank-god-i-shot-this-as-a-contingency-plan-zach-cregger-reveals-resident-evil-originally-had-a-different-ending",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789993945
+    },
+    {
+      "title": "Scientists create a needle-thin brain implant that can do three jobs at once",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260920222416.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789993522
+    },
+    {
+      "title": "'I'm More Comfortable With That Character Again': Jon Snow Actor Kit Harington Now Says 'There's a World in Which Something Could Work' With His Scrapped Game of Thrones Spinoff",
+      "link": "https://www.ign.com/articles/im-more-comfortable-with-that-character-again-jon-snow-actor-kit-harington-now-says-theres-a-world-in-which-something-could-work-with-his-scrapped-game-of-thrones-spinoff",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1789992822
+    },
+    {
+      "title": "NASA just powered up Roman’s massive 300-megapixel camera",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260921081058.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789992658
+    },
+    {
+      "title": "Chronic stress may be quietly reshaping your heart",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260920222354.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789990513
+    },
     {
       "title": "Spider-Man: Brand New Day Story Changed Repeatedly as Sony Launched Those Terrible Villain Spinoff Films",
       "link": "https://www.ign.com/articles/spider-man-brand-new-day-story-changed-repeatedly-as-sony-launched-those-terrible-villain-spinoff-films",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1789987128
+    },
+    {
+      "title": "Stanford scientists discover the human brain may actually be two separate organs",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260920222352.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789985571
     },
     {
       "title": "What kills Schrödinger’s cat? Gravity may not be the answer",
@@ -72,7 +282,7 @@
       "timestamp": 1789929172
     },
     {
-      "title": "Disney+ to Allow Ads on All Plans Following Changes Detailed in Updated Subscriber Agreement",
+      "title": "Disney+ Clarifies European Subscriber Agreement to Confirm Ads Can Be Shown on All Plans Before and After Playback",
       "link": "https://www.ign.com/articles/disney-to-allow-ads-on-all-plans-following-changes-detailed-in-updated-subscriber-agreement",
       "source": "IGN",
       "category": "gaming",
@@ -114,13 +324,6 @@
       "timestamp": 1789917045
     },
     {
-      "title": "A small but growing number of founders are betting on bringing people together offline",
-      "link": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789916400
-    },
-    {
       "title": "Scientists discover a hidden “ID card” in cat urine",
       "link": "https://www.sciencedaily.com/releases/2026/09/260919031033.htm",
       "source": "SCIENCEDAILY",
@@ -147,13 +350,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1789902420
-    },
-    {
-      "title": "Hideo Kojima Reveals What Happened With Sony in Exclusive First Interview Since PlayStation Ditched Physint",
-      "link": "https://www.ign.com/articles/hideo-kojima-reveals-what-happened-with-sony-in-exclusive-first-interview-since-playstation-ditched-physint",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789902000
     },
     {
       "title": "Scientists opened a sealed envelope after 10 years. Gravity still didn’t make sense",
@@ -205,116 +401,11 @@
       "timestamp": 1789878563
     },
     {
-      "title": "Big Bang Theory Spinoff Features Surprise Live-Action Cameos from The Flash and Mr. Freeze",
-      "link": "https://www.ign.com/articles/big-bang-theory-spinoff-features-surprise-live-action-cameos-from-the-flash-and-mr-freeze",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789853365
-    },
-    {
-      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-      "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789850353
-    },
-    {
-      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789847867
-    },
-    {
-      "title": "The Last of Us Director Apologizes to God of War Laufey Devs After Calling Recent AAA Games 'Boring'",
-      "link": "https://www.ign.com/articles/the-last-of-us-director-apologizes-to-god-of-war-laufey-devs-after-calling-recent-aaa-games-boring",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789844939
-    },
-    {
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789839000
-    },
-    {
-      "title": "Insomniac Says Marvel's Wolverine Uses No Generative AI After Fans Spot Strange Signs in-Game",
-      "link": "https://www.ign.com/articles/insomniac-says-marvels-wolverine-uses-no-generative-ai-after-fans-spot-strange-signs-in-game",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789837328
-    },
-    {
-      "title": "The US Navy just told us what’s on its tech wish list for the next several years",
-      "link": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789837200
-    },
-    {
-      "title": "The Batman Part 2 Director Reveals New Image Seemingly Set in a Snowy Gotham Junkyard",
-      "link": "https://www.ign.com/articles/the-batman-part-2-director-reveals-new-image-seemingly-set-in-a-snowy-gotham-junkyard",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789832552
-    },
-    {
-      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-      "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789830000
-    },
-    {
-      "title": "AI safety conversations have gotten unbelievable",
-      "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789830000
-    },
-    {
-      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
-      "link": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1789826400
-    },
-    {
       "title": "New chemical wipes out 95% of termites without harming humans",
       "link": "https://www.sciencedaily.com/releases/2026/09/260919025248.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1789820952
-    },
-    {
-      "title": "A giant crater may reveal the origin of Mars’ doomed moon",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260919031040.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789819961
-    },
-    {
-      "title": "This deep-sea enzyme survives heat that destroys most proteins",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260918024810.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789818585
-    },
-    {
-      "title": "This tiny organism can shrink to one quarter its size in milliseconds",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260918024812.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789817962
-    },
-    {
-      "title": "Scientists find that “perfect” systems may be surprisingly fragile",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260919031022.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789817213
     },
     {
       "title": "Learning another language may be one of the best ways to keep your brain healthy",
@@ -324,13 +415,6 @@
       "timestamp": 1789816243
     },
     {
-      "title": "Scientists solve a 50-year mystery and discover a new human blood group",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260918024828.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789812855
-    },
-    {
       "title": "Rings around a tiny body have changed over the past decade",
       "link": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
       "source": "ARSTECHNICA",
@@ -338,46 +422,11 @@
       "timestamp": 1789812006
     },
     {
-      "title": "As Fans Flood the World of Warcraft: Forever Beta, Dev Says It's Putting Up 'The Craziest Numbers I've Seen in 17 Years Working at Blizzard'",
-      "link": "https://www.ign.com/articles/as-fans-flood-the-world-of-warcraft-forever-beta-dev-says-its-putting-up-the-craziest-numbers-ive-seen-in-17-years-working-at-blizzard",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789805977
-    },
-    {
-      "title": "Marvel's Wolverine Developer Nerfs Scent Trails and Audio Sense Indicators After 'Fart Gas' Backlash",
-      "link": "https://www.ign.com/articles/marvels-wolverine-developer-nerfs-scent-trails-and-audio-sense-indicators-after-fart-gas-backlash",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789802622
-    },
-    {
-      "title": "Lollipop Chainsaw Live-Action Movie Revealed by Dragami Games",
-      "link": "https://www.ign.com/articles/lollipop-chainsaw-live-action-movie-revealed-by-dragami-games",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789797893
-    },
-    {
-      "title": "Scientists discover the first diplodocus ever found outside North America",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260918024807.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789786268
-    },
-    {
       "title": "Who will be next member from 2023 NBA Draft class to sign a big-money extension?",
       "link": "https://www.cbssports.com/nba/news/next-member-2023-nba-draft-class-big-money-extension-keyonte-george/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1789772260
-    },
-    {
-      "title": "Final Fantasy 7 Revelation Director Warns of 200GB Install Size for Remake Trilogy's Final Chapter",
-      "link": "https://www.ign.com/articles/final-fantasy-7-revelation-director-warns-of-200gb-install-size-for-remake-trilogys-final-chapter",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1789770418
     },
     {
       "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
@@ -408,60 +457,11 @@
       "timestamp": 1789753790
     },
     {
-      "title": "US government website used Chinese model the FBI called \"malicious\"",
-      "link": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789752530
-    },
-    {
-      "title": "Meet the winner of Nikon's Small World in Motion video contest",
-      "link": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789739817
-    },
-    {
-      "title": "Researchers used Claude to hack OpenAI",
-      "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789738212
-    },
-    {
-      "title": "Rocket Report: China wants a Raptor 3 engine; SpaceX set for big Starship test",
-      "link": "https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789729211
-    },
-    {
-      "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
-      "link": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789684288
-    },
-    {
-      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
-      "link": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789683178
-    },
-    {
       "title": "Why Stephen Curry has no interest in going the LeBron James route of free agency",
       "link": "https://www.cbssports.com/nba/news/stephen-curry-no-interest-lebron-james-route-free-agency/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1789682692
-    },
-    {
-      "title": "Google announces new experimental \"CC\" AI agent for families",
-      "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1789676674
     },
     {
       "title": "LeBron James reportedly getting $15 million annually in Polymarket deal as NBA endorsements face more scrutiny",
