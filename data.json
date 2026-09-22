@@ -1,6 +1,69 @@
 {
-  "last_updated": 1790105565,
+  "last_updated": 1790116948,
   "items": [
+    {
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790114203
+    },
+    {
+      "title": "Mahershala Ali Agrees That Kevin Feige Is a 'Gigantic Loser and Failure' Over Failed Blade Reboot",
+      "link": "https://www.ign.com/articles/mahershala-ali-agrees-that-kevin-feige-is-a-gigantic-loser-and-failure-over-failed-blade-reboot",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790112030
+    },
+    {
+      "title": "Kawhi Leonard contract breakdown: What $115 million extension means as Raptors try to compete in loaded East",
+      "link": "https://www.cbssports.com/nba/news/kawhi-leonard-toronto-raptors-contract-extension/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1790110171
+    },
+    {
+      "title": "Halo Studios Cinematic Director Promoted and Laid Off Within the Same Week as Xbox's Brutal Restructuring Continues",
+      "link": "https://www.ign.com/articles/halo-studios-cinematic-director-promoted-and-laid-off-within-the-same-week-as-xboxs-brutal-restructuring-continues",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790109707
+    },
+    {
+      "title": "Cities across US oppose Trump FCC plan to preempt local broadband rules",
+      "link": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790109510
+    },
+    {
+      "title": "Grand Theft Auto 6's Miami Takeover Begins as Rockstar Spends Nearly $1 Million on 'Welcome to Vice City' Signage",
+      "link": "https://www.ign.com/articles/grand-theft-auto-6s-miami-takeover-begins-as-rockstar-spends-nearly-1-million-on-welcome-to-vice-city-signage",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790108812
+    },
+    {
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790107200
+    },
+    {
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+      "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790106347
+    },
+    {
+      "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790105303
+    },
     {
       "title": "Apple could take on Whoop with a new fitness tracker, report says",
       "link": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/",
@@ -9,11 +72,25 @@
       "timestamp": 1790105277
     },
     {
+      "title": "Resident Evil Fans Debate the Divisive Ending of Zach Cregger's Movie",
+      "link": "https://www.ign.com/articles/resident-evil-fans-debate-the-divisive-ending-of-zach-creggers-movie",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790104674
+    },
+    {
       "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
       "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1790104151
+    },
+    {
+      "title": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
+      "link": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790104138
     },
     {
       "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
@@ -72,7 +149,7 @@
       "timestamp": 1790098566
     },
     {
-      "title": "Review: Resident Evil is the fresh take this flagging franchise really needed",
+      "title": "Review: Resident Evil might just be the best gaming adaptation yet",
       "link": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -240,20 +317,6 @@
       "timestamp": 1790085600
     },
     {
-      "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790085600
-    },
-    {
-      "title": "CONFIRMED: Microsoft Hands Halo to Call of Duty Developer Activision as Part of Seismic Xbox Studios Shakeup",
-      "link": "https://www.ign.com/articles/confirmed-microsoft-hands-halo-to-call-of-duty-developer-activision-as-part-of-huge-xbox-studios-shakeup",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790085600
-    },
-    {
       "title": "If Jalen Duren won't take Pistons' $200 million offer, then it's time for them to consider a trade",
       "link": "https://www.cbssports.com/nba/news/jalen-duren-pistons-offer-time-to-consider-trade/",
       "source": "CBSSPORTS",
@@ -266,13 +329,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1790083996
-    },
-    {
-      "title": "Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs",
-      "link": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790083200
     },
     {
       "title": "For the first time, scientists watch sound jump between quantum states",
@@ -289,32 +345,11 @@
       "timestamp": 1790082314
     },
     {
-      "title": "DCU Chief James Gunn Hits Back at Lanterns Criticism Over 'Killing' Hal Jordan 'Right Away'",
-      "link": "https://www.ign.com/articles/dcu-chief-james-gunn-hits-back-at-lanterns-criticism-over-killing-hal-jordan-right-away",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790080081
-    },
-    {
-      "title": "'Risky and Gutsy': Resident Evil Movie Star Austin Abrams Reveals His First Reaction to The Film's 'Shocking' Finale",
-      "link": "https://www.ign.com/articles/risky-and-gutsy-resident-evil-movie-star-austin-abrams-reveals-his-first-reaction-to-the-films-shocking-finale",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790078341
-    },
-    {
       "title": "This new concrete is stronger and pulls CO2 from the air",
       "link": "https://www.sciencedaily.com/releases/2026/09/260921081105.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1790077615
-    },
-    {
-      "title": "'I'm Too Old': Marvel Star Says He's Officially Retired From His Beloved Guardians of the Galaxy Role as Rocket Raccoon",
-      "link": "https://www.ign.com/articles/im-too-old-marvel-star-says-hes-officially-retired-from-his-beloved-guardians-of-the-galaxy-role-as-rocket-raccoon",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790076518
     },
     {
       "title": "NASA chief: I'm only interested in \"good deals\" from international partners",
@@ -392,34 +427,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1790012271
-    },
-    {
-      "title": "Google confirms Gemini models hacked three companies in May 2026",
-      "link": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790009846
-    },
-    {
-      "title": "Russel Vought will reportedly be given veto power over all NIH grants",
-      "link": "https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790008826
-    },
-    {
-      "title": "California settles lawsuit against Paramount/Warner merger, angering advocates",
-      "link": "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790007326
-    },
-    {
-      "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
-      "link": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790005076
     },
     {
       "title": "Stopping Ozempic may raise heart attack and stroke risk",
@@ -553,13 +560,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1789095689
-    },
-    {
-      "title": "Clippers spark new controversy by giving Chris Paul's No. 3 jersey number to Bradley Beal",
-      "link": "https://www.cbssports.com/nba/news/clippers-new-controversy-chris-pauls-no-3-jersey-number-bradley-beal/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1789058301
     }
   ]
 }
