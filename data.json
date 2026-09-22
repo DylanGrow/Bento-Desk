@@ -1,6 +1,34 @@
 {
-  "last_updated": 1790037250,
+  "last_updated": 1790056191,
   "items": [
+    {
+      "title": "Brain scans reveal a possible cause of long COVID fatigue and brain fog",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260920222412.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790048938
+    },
+    {
+      "title": "Scientists discover first new penguin species in more than 100 years",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260920222410.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790046706
+    },
+    {
+      "title": "Stem cells reverse stroke damage and restore movement in mice",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790041772
+    },
+    {
+      "title": "IGN Australia and Chupa Chups to Host a Retro Gaming ‘Fun House’ Activation at Westfield Parramatta This October",
+      "link": "https://www.ign.com/articles/chupa-chups-forever-fun-house",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790039462
+    },
     {
       "title": "The Blood of Dawnwalker Update to Add Easier Difficulty Setting for Players Who Don't Want Combat",
       "link": "https://www.ign.com/articles/the-blood-of-dawnwalker-update-to-add-easier-difficulty-setting-for-players-who-dont-want-combat",
@@ -191,13 +219,6 @@
       "timestamp": 1790012271
     },
     {
-      "title": "Witcher Creator Says He’s Open to Unconventional Suggestions for Future Adaptations",
-      "link": "https://www.ign.com/articles/witcher-creator-says-hes-open-to-unconventional-suggestions-for-future-adaptations",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790011800
-    },
-    {
       "title": "Google confirms Gemini models hacked three companies in May 2026",
       "link": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
       "source": "ARSTECHNICA",
@@ -280,6 +301,13 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1789998540
+    },
+    {
+      "title": "Stopping Ozempic may raise heart attack and stroke risk",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260920222414.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1789997730
     },
     {
       "title": "Black holes of every size follow the same surprising rule",
@@ -413,34 +441,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1789886778
-    },
-    {
-      "title": "A 66-million-year-old tooth reveals T. rex was nearly as warm as a human",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260919031020.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789883786
-    },
-    {
-      "title": "Einstein’s “spooky action” just survived one of physics’ most extreme tests",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260919031023.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789881360
-    },
-    {
-      "title": "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260919031037.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789878563
-    },
-    {
-      "title": "New chemical wipes out 95% of termites without harming humans",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260919025248.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789820952
     },
     {
       "title": "Learning another language may be one of the best ways to keep your brain healthy",
