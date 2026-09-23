@@ -1,6 +1,111 @@
 {
-  "last_updated": 1790187241,
+  "last_updated": 1790200877,
   "items": [
+    {
+      "title": "If Amazon doesn’t know how to eliminate carbon emissions, then who does?",
+      "link": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790198493
+    },
+    {
+      "title": "Robert Pattinson Reacts to Fans Asking for Him to Play the Joker After Primetime Performance Goes Viral",
+      "link": "https://www.ign.com/articles/robert-pattinson-reacts-to-fans-asking-for-him-to-play-the-joker-after-primetime-performance-goes-viral",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790196387
+    },
+    {
+      "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+      "link": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790195717
+    },
+    {
+      "title": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
+      "link": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790195322
+    },
+    {
+      "title": "Knicks, Karl-Anthony Towns extension talks reportedly have stalled: What it means as New York aims to repeat",
+      "link": "https://www.cbssports.com/nba/news/knicks-karl-anthony-towns-contract-extension-talks-stalled/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1790195231
+    },
+    {
+      "title": "The Conjuring Gets Its First-Ever Video Game Coming to Netflix Next Month",
+      "link": "https://www.ign.com/articles/the-conjuring-gets-its-first-ever-video-game-coming-to-netflix-next-month",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790194881
+    },
+    {
+      "title": "Discord age verification rolls out today with changes spurred by user backlash",
+      "link": "https://arstechnica.com/tech-policy/2026/09/discord-age-verification-rolls-out-today-with-changes-spurred-by-user-backlash/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790193913
+    },
+    {
+      "title": "YouTube promises custom feeds and a lot more AI later this year",
+      "link": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790192153
+    },
+    {
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790191888
+    },
+    {
+      "title": "Modal Motors is trying to cut China out of electric motors entirely",
+      "link": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790190300
+    },
+    {
+      "title": "Game of Thrones Star Kit Harington Isn't a Gamer, But He's Excited for Grand Theft Auto 6",
+      "link": "https://www.ign.com/articles/game-of-thrones-star-kit-harington-isnt-a-gamer-but-hes-excited-for-grand-theft-auto-6",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790189442
+    },
+    {
+      "title": "Contrary to some reports, you don't have two brains",
+      "link": "https://arstechnica.com/science/2026/09/contrary-to-some-reports-you-dont-have-two-brains/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790189256
+    },
+    {
+      "title": "Marvel Tokon: Fighting Souls PC Sales Figures and Player Count Spark Worry From Players About Game's Longevity",
+      "link": "https://www.ign.com/articles/marvel-tokon-fighting-souls-pc-sales-figures-and-player-count-spark-worry-from-players-about-games-longevity",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790189150
+    },
+    {
+      "title": "Three big concerns about Kawhi Leonard's return to Raptors, including fit with Scottie Barnes",
+      "link": "https://www.cbssports.com/nba/news/kawhi-leonard-raptors-concerns-scottie-barnes-rj-barrett/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1790188040
+    },
+    {
+      "title": "Netflix releases trailer for Brad Bird's Ray Gunn",
+      "link": "https://arstechnica.com/culture/2026/09/netflix-drops-trailer-for-brad-birds-ray-gunn/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790188010
+    },
     {
       "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
       "link": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
@@ -23,7 +128,14 @@
       "timestamp": 1790185305
     },
     {
-      "title": "Grand Theft Auto 6 Shirts Given Away for Free at Tokyo Game Show Are Being Resold Online for Hundreds of Dollars",
+      "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+      "link": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790185179
+    },
+    {
+      "title": "GTA 6 Shirts Given Away for Free at Tokyo Game Show Are Being Resold Online for Hundreds of Dollars",
       "link": "https://www.ign.com/articles/grand-theft-auto-6-shirts-given-away-for-free-at-tokyo-game-show-are-being-resold-online-for-hundreds-of-dollars",
       "source": "IGN",
       "category": "gaming",
@@ -35,6 +147,13 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1790184518
+    },
+    {
+      "title": "Former NASA chief sounds alarm on China's lunar \"exploration\" plans",
+      "link": "https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790183458
     },
     {
       "title": "ChatGPT mobile app gets voice-based agentic features",
@@ -156,34 +275,6 @@
       "timestamp": 1790173800
     },
     {
-      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-      "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790173800
-    },
-    {
-      "title": "YouTube will let you build your own algorithm with AI",
-      "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790173800
-    },
-    {
-      "title": "YouTube doubles down on video shopping with AI-powered ‘Ask YouTube’ feature",
-      "link": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790173800
-    },
-    {
-      "title": "Here’s the trailer for Nathan Fielder’s Elizabeth Holmes documentary, in theaters October 16",
-      "link": "https://techcrunch.com/2026/09/23/heres-the-trailer-for-nathan-fielders-elizabeth-holmes-documentary-in-theaters-october-16/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790173301
-    },
-    {
       "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
       "link": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
       "source": "ARSTECHNICA",
@@ -226,39 +317,11 @@
       "timestamp": 1790168573
     },
     {
-      "title": "'I Had 3 More Star Wars to Make' — George Lucas Reveals What He Left Behind When He Retired From Making Movies",
-      "link": "https://www.ign.com/articles/i-had-3-more-star-wars-to-make-george-lucas-reveals-what-he-left-behind-when-he-retired-from-making-movies",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790167326
-    },
-    {
-      "title": "Avengers: Endgame Encore Leaks Reveal New Ending and Additional Scenes That Connect to Avengers: Doomsday, Including Several Unannounced Cast Members",
-      "link": "https://www.ign.com/articles/avengers-endgame-encore-leaks-reveal-new-ending-and-additional-scenes-that-connect-to-avengers-doomsday-including-several-unannounced-cast-members",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790163627
-    },
-    {
-      "title": "‘Vice City’ Trademark Abandoned by WWE ahead of GTA 6 launch",
-      "link": "https://www.ign.com/articles/vice-city-trademark-abandoned-by-wwe-ahead-of-gta-6-launch",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790163218
-    },
-    {
       "title": "Small undersea volcanoes may unleash outsized tsunamis",
       "link": "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1790162130
-    },
-    {
-      "title": "Frodo's Back! Set Photos From The Lord of the Rings: The Hunt for Gollum Offer Behind-the-Scenes Look at Prequel Movie",
-      "link": "https://www.ign.com/articles/frodos-back-set-photos-from-the-lord-of-the-rings-the-hunt-for-gollum-offer-behind-the-scenes-look-at-prequel-movie",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790161780
     },
     {
       "title": "A new report from Europe raises serious alarms about orbital collisions",
@@ -331,60 +394,11 @@
       "timestamp": 1790105303
     },
     {
-      "title": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
-      "link": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790104138
-    },
-    {
       "title": "Steven Adams predicts level of play across sports will 'plummet' when 'Grand Theft Auto 6' is released",
       "link": "https://www.cbssports.com/nba/news/steven-adams-rockets-grand-theft-auto-6-release/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1790101154
-    },
-    {
-      "title": "Review: Resident Evil might just be the best gaming adaptation yet",
-      "link": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790098207
-    },
-    {
-      "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
-      "link": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790096776
-    },
-    {
-      "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
-      "link": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790096140
-    },
-    {
-      "title": "Effort begins to fill the void left by terminated US climate report",
-      "link": "https://arstechnica.com/science/2026/09/effort-begins-to-fill-the-void-left-by-terminated-us-climate-report/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790094390
-    },
-    {
-      "title": "Shuffling the deck chairs: Xbox continues its \"reset\" with dramatic restructuring",
-      "link": "https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790091053
-    },
-    {
-      "title": "Protests for Germany’s car industry as job losses loom",
-      "link": "https://arstechnica.com/cars/2026/09/protests-for-germanys-car-industry-as-job-losses-loom/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790088047
     },
     {
       "title": "If Jalen Duren won't take Pistons' $200 million offer, then it's time for them to consider a trade",
@@ -546,20 +560,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1789509009
-    },
-    {
-      "title": "Clippers, Raptors agree to Kawhi Leonard trade again: Toronto finally poised to move forward as East contender",
-      "link": "https://www.cbssports.com/nba/news/clippers-raptors-agree-kawhi-leonard-trade-again/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1789490175
-    },
-    {
-      "title": "Clippers, Steve Ballmer back down and accept NBA penalties -- does that mean they'll get any picks back?",
-      "link": "https://www.cbssports.com/nba/news/clippers-steve-ballmer-accept-nba-penalties-picks-back/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1789392578
     }
   ]
 }
