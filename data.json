@@ -1,6 +1,34 @@
 {
-  "last_updated": 1790211715,
+  "last_updated": 1790233686,
   "items": [
+    {
+      "title": "More REM sleep linked to lower risk of 83 diseases",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260923035930.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790222310
+    },
+    {
+      "title": "Gregg Popovich marries ex-wife of his former longtime Spurs assistant coach",
+      "link": "https://www.cbssports.com/nba/news/gregg-popovich-wife-spurs-assistant-coach-mike-budenholzer/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1790217059
+    },
+    {
+      "title": "A broken rib from the world’s largest T. rex hid a 66-million-year-old secret",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260922005709.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790216436
+    },
+    {
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790212412
+    },
     {
       "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
       "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
@@ -324,13 +352,6 @@
       "timestamp": 1790179424
     },
     {
-      "title": "YouTube’s conversational video editing tool lets creators make edits in natural language",
-      "link": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790178417
-    },
-    {
       "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
       "link": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
       "source": "ARSTECHNICA",
@@ -345,11 +366,32 @@
       "timestamp": 1790170625
     },
     {
+      "title": "Rare pregnancy infections may triple the risk of autism",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260922005653.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790169119
+    },
+    {
       "title": "Panic level for Giants, Bears amid rash of QB injuries; MLB postseason scenarios as Rays clinch AL East",
       "link": "https://www.cbssports.com/nfl/news/panic-level-for-giants-bears-amid-rash-of-qb-injuries-mlb-postseason-scenarios-as-rays-clinch-al-east/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1790168573
+    },
+    {
+      "title": "These tropical trees breathe at night to survive drought",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260922005712.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790165124
+    },
+    {
+      "title": "First stellar stream beyond the Milky Way could reveal dark matter",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260921081110.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790162591
     },
     {
       "title": "Small undersea volcanoes may unleash outsized tsunamis",
@@ -366,11 +408,18 @@
       "timestamp": 1790161217
     },
     {
-      "title": "The LHC just ruled out another hiding place for quantum black holes",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260922005649.htm",
+      "title": "Why Viking museums still can’t escape the warrior myth",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260922005805.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
-      "timestamp": 1790134374
+      "timestamp": 1790161123
+    },
+    {
+      "title": "Stonehenge’s 6-ton altar stone may have traveled from Scotland by glacier",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260922005715.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790159201
     },
     {
       "title": "The Solar System chose fire over ice from the very beginning",
@@ -443,25 +492,18 @@
       "timestamp": 1790065928
     },
     {
+      "title": "The LHC just ruled out another hiding place for quantum black holes",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260922005649.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790053009
+    },
+    {
       "title": "Brain scans reveal a possible cause of long COVID fatigue and brain fog",
       "link": "https://www.sciencedaily.com/releases/2026/09/260920222412.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1790048938
-    },
-    {
-      "title": "Scientists discover first new penguin species in more than 100 years",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260920222410.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790046706
-    },
-    {
-      "title": "Stem cells reverse stroke damage and restore movement in mice",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790041772
     },
     {
       "title": "NBA rumors: Pistons up Jalen Duren offer, but still no deal as training camp looms",
@@ -476,41 +518,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1790012271
-    },
-    {
-      "title": "Stopping Ozempic may raise heart attack and stroke risk",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260920222414.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789997730
-    },
-    {
-      "title": "Black holes of every size follow the same surprising rule",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260920222358.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789996990
-    },
-    {
-      "title": "A new process turns plastic waste into gasoline and diesel fuel",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260920222405.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789996120
-    },
-    {
-      "title": "Scientists create a needle-thin brain implant that can do three jobs at once",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260920222416.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789993522
-    },
-    {
-      "title": "NASA just powered up Roman’s massive 300-megapixel camera",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260921081058.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1789992658
     },
     {
       "title": "Who will be next member from 2023 NBA Draft class to sign a big-money extension?",
@@ -553,13 +560,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1789563348
-    },
-    {
-      "title": "Adam Silver discusses Clippers punishment, NBA expansion, why Blazers leaving Portland would be 'failure'",
-      "link": "https://www.cbssports.com/nba/news/adam-silver-clippers-punishment-nba-expansion-trail-blazers-second-apron/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1789509009
     }
   ]
 }
