@@ -1,6 +1,62 @@
 {
-  "last_updated": 1790233686,
+  "last_updated": 1790255353,
   "items": [
+    {
+      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+      "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790254459
+    },
+    {
+      "title": "Microsoft Culled Age of Empires Studio Before Handing It Over to Activision, With Nearly Half of All Staff Gone",
+      "link": "https://www.ign.com/articles/microsoft-culled-age-of-empires-studio-before-handing-it-over-to-activision-with-nearly-half-of-all-staff-gone",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790249718
+    },
+    {
+      "title": "There's a new way to break RSA that's faster than anything we've seen before",
+      "link": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790248544
+    },
+    {
+      "title": "Review: Apple's hyper-pricey M5 Ultra Mac Studio made me into a vibe coder",
+      "link": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790247604
+    },
+    {
+      "title": "New Report Sheds Light on What Will — and Won't — Return to Destiny 2 When Bungie Adds Back Vaulted Content",
+      "link": "https://www.ign.com/articles/new-report-sheds-light-on-what-will-and-wont-return-to-destiny-2-when-bungie-adds-back-vaulted-content",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790247262
+    },
+    {
+      "title": "Injustice 3 Rumor Sparks Response From NetherRealm's Ed Boon",
+      "link": "https://www.ign.com/articles/injustice-3-rumors-sparks-response-from-netherrealms-ed-boon",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790244269
+    },
+    {
+      "title": "The Lord of the Rings Star Andy Serkis is Working on a Sci-Fi Adaptation of The Odyssey for Audible",
+      "link": "https://www.ign.com/articles/the-lord-of-the-rings-star-andy-serkis-is-working-on-a-sci-fi-adaptation-of-the-odyssey-for-audible",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790242350
+    },
+    {
+      "title": "'This Has to Be a Sick Joke' — the Next Ace Attorney Game Is a VR Exclusive and Fans Can't Quite Believe It",
+      "link": "https://www.ign.com/articles/this-has-to-be-a-sick-joke-the-next-ace-attorney-game-is-a-vr-exclusive-and-fans-cant-quite-believe-it",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790239355
+    },
     {
       "title": "More REM sleep linked to lower risk of 83 diseases",
       "link": "https://www.sciencedaily.com/releases/2026/09/260923035930.htm",
@@ -233,25 +289,11 @@
       "timestamp": 1790190300
     },
     {
-      "title": "Game of Thrones Star Kit Harington Isn't a Gamer, but He's Excited for Grand Theft Auto 6",
-      "link": "https://www.ign.com/articles/game-of-thrones-star-kit-harington-isnt-a-gamer-but-hes-excited-for-grand-theft-auto-6",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790189442
-    },
-    {
       "title": "Contrary to some reports, you don't have two brains",
       "link": "https://arstechnica.com/science/2026/09/contrary-to-some-reports-you-dont-have-two-brains/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1790189256
-    },
-    {
-      "title": "Marvel Tokon: Fighting Souls PC Sales Figures and Player Count Spark Worry From Players About Game's Longevity",
-      "link": "https://www.ign.com/articles/marvel-tokon-fighting-souls-pc-sales-figures-and-player-count-spark-worry-from-players-about-games-longevity",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790189150
     },
     {
       "title": "Three big concerns about Kawhi Leonard's return to Raptors, including fit with Scottie Barnes",
@@ -296,13 +338,6 @@
       "timestamp": 1790185179
     },
     {
-      "title": "GTA 6 Shirts Given Away for Free at Tokyo Game Show Are Being Resold Online for Hundreds of Dollars",
-      "link": "https://www.ign.com/articles/grand-theft-auto-6-shirts-given-away-for-free-at-tokyo-game-show-are-being-resold-online-for-hundreds-of-dollars",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790184601
-    },
-    {
       "title": "Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms",
       "link": "https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/",
       "source": "TECHCRUNCH",
@@ -329,27 +364,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1790182198
-    },
-    {
-      "title": "After Asking Very Nicely For a Skin, Madison Beer Joins Fortnite Tomorrow",
-      "link": "https://www.ign.com/articles/after-asking-very-nicely-for-a-skin-madison-beer-joins-fortnite-tomorrow",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790181041
-    },
-    {
-      "title": "Scrapped GTA 5 Story DLC Might Have Taken the Series Overseas for the First Time in 15 Years",
-      "link": "https://www.ign.com/articles/scrapped-gta-5-story-dlc-might-have-taken-the-series-overseas-for-the-first-time-in-15-years",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790180441
-    },
-    {
-      "title": "YouTube is making comments more fun — and fandom more lucrative for creators",
-      "link": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790179424
     },
     {
       "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
@@ -392,20 +406,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1790162591
-    },
-    {
-      "title": "Small undersea volcanoes may unleash outsized tsunamis",
-      "link": "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790162130
-    },
-    {
-      "title": "A new report from Europe raises serious alarms about orbital collisions",
-      "link": "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790161217
     },
     {
       "title": "Why Viking museums still can’t escape the warrior myth",
