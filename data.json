@@ -1,6 +1,41 @@
 {
-  "last_updated": 1790295442,
+  "last_updated": 1790315142,
   "items": [
+    {
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790312400
+    },
+    {
+      "title": "Scientists gave worms magnetic bacteria. They lived 43% longer",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260924020357.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790308342
+    },
+    {
+      "title": "“We found something never seen before” – A dead star is producing a shock wave that shouldn’t exist",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260924020410.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790306374
+    },
+    {
+      "title": "Ancient meteorites reveal a powerful force that helped build the Solar System",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260924020355.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790304324
+    },
+    {
+      "title": "Scientists discover an “impossible” cellular survival pathway that could help fight cancer",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260923035939.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790301332
+    },
     {
       "title": "PlayStation Reportedly Polling Game Developers After Decision to Kill Discs Sparks Backlash",
       "link": "https://www.ign.com/articles/playstation-reportedly-polling-game-developers-after-decision-to-kill-discs-sparks-backlash",
@@ -9,7 +44,7 @@
       "timestamp": 1790292615
     },
     {
-      "title": "Waymo is scaling fast. Here’s what the fleet data shows.",
+      "title": "Waymo is scaling fast: Here’s what the fleet data shows",
       "link": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -310,25 +345,11 @@
       "timestamp": 1790261005
     },
     {
-      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-      "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790260260
-    },
-    {
       "title": "Meta puts its AI assistant on a keychain",
       "link": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1790258618
-    },
-    {
-      "title": "ADHD and autism diagnoses have surged. A massive study may help explain why",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260924020353.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790257517
     },
     {
       "title": "When what you see doesn’t make sense, your brain does something remarkable",
@@ -392,6 +413,13 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1790246570
+    },
+    {
+      "title": "ADHD and autism diagnoses have surged. A massive study may help explain why",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260924020353.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790229833
     },
     {
       "title": "More REM sleep linked to lower risk of 83 diseases",
@@ -476,34 +504,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1790162591
-    },
-    {
-      "title": "Why Viking museums still can’t escape the warrior myth",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260922005805.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790161123
-    },
-    {
-      "title": "Stonehenge’s 6-ton altar stone may have traveled from Scotland by glacier",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260922005715.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790159201
-    },
-    {
-      "title": "The Solar System chose fire over ice from the very beginning",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260921081052.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790132789
-    },
-    {
-      "title": "One of America’s largest reservoirs just hit a record low",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260922005701.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790128876
     },
     {
       "title": "Kawhi Leonard contract breakdown: What $115 million extension means as Raptors try to compete in loaded East",
