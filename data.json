@@ -1,6 +1,55 @@
 {
-  "last_updated": 1790286975,
+  "last_updated": 1790295442,
   "items": [
+    {
+      "title": "PlayStation Reportedly Polling Game Developers After Decision to Kill Discs Sparks Backlash",
+      "link": "https://www.ign.com/articles/playstation-reportedly-polling-game-developers-after-decision-to-kill-discs-sparks-backlash",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790292615
+    },
+    {
+      "title": "Waymo is scaling fast. Here’s what the fleet data shows.",
+      "link": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790292273
+    },
+    {
+      "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
+      "link": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790288988
+    },
+    {
+      "title": "Arc Raiders Is Testing a PvE Mode Very Soon",
+      "link": "https://www.ign.com/articles/arc-raiders-is-testing-a-pve-mode-very-soon",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790288691
+    },
+    {
+      "title": "Bob Pettit, basketball Hall of Famer and NBA's first Most Valuable Player, dies at 93",
+      "link": "https://www.cbssports.com/nba/news/bob-pettit-dies-nba-first-most-valuable-player-hawks-lsu/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1790288566
+    },
+    {
+      "title": "Ubisoft Almost Made a Zelda Game With Ganondorf as the Protagonist",
+      "link": "https://www.ign.com/articles/ubisoft-almost-made-a-zelda-game-with-ganondorf-as-the-protagonist",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790287212
+    },
+    {
+      "title": "Donald Duck's uncle was partly based on Wernher von Braun",
+      "link": "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790286007
+    },
     {
       "title": "Karl-Anthony Towns contract negotiations show how difficult it will be for Knicks to keep title core together",
       "link": "https://www.cbssports.com/nba/news/karl-anthony-towns-knicks-contract-negotiations/",
@@ -240,27 +289,6 @@
       "timestamp": 1790264909
     },
     {
-      "title": "'I Don’t Think Starfield Was Anywhere Near Successful Enough to Do a Starfield 2' – Former Bethesda Dev Casts Doubt on Sequel",
-      "link": "https://www.ign.com/articles/i-dont-think-starfield-was-anywhere-near-successful-enough-to-do-a-starfield-2-former-bethesda-dev-casts-doubt-on-sequel",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790264160
-    },
-    {
-      "title": "Warhammer 40,000 Space Marine 2's New Class Is Finally Confirmed — and It's Exactly What Everyone Suspected",
-      "link": "https://www.ign.com/articles/warhammer-40000-space-marine-2s-new-class-is-finally-confirmed-and-its-exactly-what-everyone-suspected",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790264012
-    },
-    {
-      "title": "GTA 6 Is Getting a $400 Collector's Set That Doesn't Include the Game",
-      "link": "https://www.ign.com/articles/gta-6-is-getting-a-400-collectors-set-that-doesnt-include-the-game",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790263243
-    },
-    {
       "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
       "source": "TECHCRUNCH",
@@ -287,13 +315,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1790260260
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
-      "link": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790260200
     },
     {
       "title": "Meta puts its AI assistant on a keychain",
@@ -406,20 +427,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1790199996
-    },
-    {
-      "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
-      "link": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790198333
-    },
-    {
-      "title": "Here's the Torcal, the first fully electric Bentley",
-      "link": "https://arstechnica.com/cars/2026/09/heres-the-torcal-the-first-fully-electric-bentley/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790197567
     },
     {
       "title": "Knicks, Karl-Anthony Towns extension talks reportedly have stalled: What it means as New York aims to repeat",
@@ -553,13 +560,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1789670059
-    },
-    {
-      "title": "Kyrie Irving offers to pay Azeez Al-Shaair's fine for tribute to Palestinian girl killed in Gaza",
-      "link": "https://www.cbssports.com/nfl/news/kyrie-irving-azeez-al-shaairs-fine-tribute-palestinian-girl/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1789658155
     }
   ]
 }
