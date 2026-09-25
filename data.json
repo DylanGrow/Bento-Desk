@@ -1,12 +1,131 @@
 {
-  "last_updated": 1790353689,
+  "last_updated": 1790367248,
   "items": [
+    {
+      "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
+      "link": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790364882
+    },
+    {
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790363618
+    },
+    {
+      "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+      "link": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790363465
+    },
+    {
+      "title": "Final Fantasy 7 Revelation Will Be Easier to Platinum Than Rebirth",
+      "link": "https://www.ign.com/articles/final-fantasy-7-revelation-will-be-easier-to-platinum-than-rebirth",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790362260
+    },
+    {
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790362113
+    },
+    {
+      "title": "Paramount/WBD merger conditions give the public \"virtually nothing,\" judge is told",
+      "link": "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790361777
+    },
+    {
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790361239
+    },
+    {
+      "title": "Is solar's growth finally slowing in the US?",
+      "link": "https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790360838
+    },
+    {
+      "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+      "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790359057
+    },
+    {
+      "title": "Avery the Poké Kid’s Family Speaks Out After Scalpers Use Child’s Death to Inflate Card Prices",
+      "link": "https://www.ign.com/articles/avery-the-pok-kids-family-speaks-out-after-scalpers-use-childs-death-to-inflate-card-prices",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790359022
+    },
+    {
+      "title": "Microsoft Just Seemingly Killed Copilot+ Just 2 Years After Launch",
+      "link": "https://www.ign.com/articles/microsoft-just-seemingly-killed-copilot-just-2-years-after-launch",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790358436
+    },
+    {
+      "title": "LeBron James details three main reasons he chose 76ers, including wanting to help Joel Embiid win a title",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-reasons-76ers-joel-embiid-jaylen-brown-tyrese-maxey/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1790358327
+    },
+    {
+      "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
+      "link": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790357400
+    },
+    {
+      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+      "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790357386
+    },
+    {
+      "title": "Astra and Opus just passed Turing’s other test",
+      "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790357076
+    },
+    {
+      "title": "As Resident Evil Requiem Passes $500m Revenue, Analysis Shows 8.6% Sales Were on Xbox, With Remaining 91% Shared Between PS5 and Steam",
+      "link": "https://www.ign.com/articles/as-resident-evil-requiem-passes-500m-revenue-analysis-shows-86-sales-were-on-xbox-with-remaining-91-shared-between-ps5-and-steam",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790353058
+    },
     {
       "title": "Meta is putting its muscle behind Muse as the AI app takes off",
       "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1790353012
+    },
+    {
+      "title": "Meta’s AI Tamagotchi bet is…working?",
+      "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790352000
     },
     {
       "title": "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack",
@@ -37,11 +156,25 @@
       "timestamp": 1790350803
     },
     {
+      "title": "After seven years, a spacecraft company is releasing its Otters into the wild",
+      "link": "https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790350523
+    },
+    {
       "title": "Tesla finally moves to electrify trucking after a decade of work and delays",
       "link": "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1790349890
+    },
+    {
+      "title": "US being left behind in EV charging speeds as China goes sub-5 min to 70%",
+      "link": "https://arstechnica.com/cars/2026/09/us-being-left-behind-in-ev-charging-speeds-as-china-goes-sub-5-min-to-70/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790349715
     },
     {
       "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
@@ -63,6 +196,13 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1790345700
+    },
+    {
+      "title": "With PRIMA, NASA will try to build a billion-dollar space telescope in record time",
+      "link": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790345266
     },
     {
       "title": "Meadow lets you leave your smartphone at home without sacrificing the essentials",
@@ -93,6 +233,13 @@
       "timestamp": 1790344566
     },
     {
+      "title": "Trump administration takes Musk’s side in fight over EU tech rules",
+      "link": "https://arstechnica.com/tech-policy/2026/09/trump-administration-takes-musks-side-in-fight-over-eu-tech-rules/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790343949
+    },
+    {
       "title": "Blizzard Insists Actual Humans Are Reading Through All the WoW Forever Beta Character Names It Banned Players for This Week",
       "link": "https://www.ign.com/articles/blizzard-insists-actual-humans-are-reading-through-all-the-wow-forever-beta-character-names-it-banned-players-for-this-week",
       "source": "IGN",
@@ -105,13 +252,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1790343166
-    },
-    {
-      "title": "North Korean hackers suspected in $351M crypto theft, the largest so far this year",
-      "link": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790342674
     },
     {
       "title": "Five burning questions for NBA media days: What does Kawhi have to say? How will LeBron fit in Philly?",
@@ -156,6 +296,20 @@
       "timestamp": 1790334659
     },
     {
+      "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+      "link": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790334028
+    },
+    {
+      "title": "Rocket Report: Era of cheap launch is over? Astra sets early 2027 target for return",
+      "link": "https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790334010
+    },
+    {
       "title": "Nintendo Wins $4.5 Million From Reddit Mod Who Sold Pirated Switch Games",
       "link": "https://www.ign.com/articles/nintendo-wins-45-million-from-reddit-mod-who-sold-pirated-switch-games",
       "source": "IGN",
@@ -182,13 +336,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1790324843
-    },
-    {
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790312400
     },
     {
       "title": "Scientists gave worms magnetic bacteria. They lived 43% longer",
@@ -226,13 +373,6 @@
       "timestamp": 1790292615
     },
     {
-      "title": "Waymo is scaling fast: Here’s what the fleet data shows",
-      "link": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790292273
-    },
-    {
       "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
       "link": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
       "source": "ARSTECHNICA",
@@ -254,13 +394,6 @@
       "timestamp": 1790288566
     },
     {
-      "title": "Ubisoft Almost Made a Zelda Game With Ganondorf as the Protagonist",
-      "link": "https://www.ign.com/articles/ubisoft-almost-made-a-zelda-game-with-ganondorf-as-the-protagonist",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790287212
-    },
-    {
       "title": "Donald Duck's uncle was partly based on Wernher von Braun",
       "link": "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/",
       "source": "ARSTECHNICA",
@@ -275,46 +408,11 @@
       "timestamp": 1790284783
     },
     {
-      "title": "This Cozy Dressmaking Game is Taking Over Steam's Top Sellers List",
-      "link": "https://www.ign.com/articles/this-cozy-dressmaking-game-is-taking-over-steams-top-sellers-list",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790283980
-    },
-    {
-      "title": "Xbox Says Its Share of GTA 6 Preorders Matches Its Share of the Console Market, Following PS5 Dominance Claim",
-      "link": "https://www.ign.com/articles/xbox-says-its-share-of-gta-6-preorders-matches-its-share-of-the-console-market-following-ps5-dominance-claim",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790283334
-    },
-    {
-      "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
-      "link": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790282700
-    },
-    {
-      "title": "New Saw Movie Taps Mike P. Nelson to Direct",
-      "link": "https://www.ign.com/articles/new-saw-movie-taps-mike-p-nelson-to-direct",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790281799
-    },
-    {
       "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
       "link": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1790278242
-    },
-    {
-      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790277300
     },
     {
       "title": "New York defies Trump admin, asks court to shut down Polymarket gambling",
@@ -324,74 +422,11 @@
       "timestamp": 1790276839
     },
     {
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790276442
-    },
-    {
-      "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
-      "link": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790275958
-    },
-    {
       "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
       "link": "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1790275943
-    },
-    {
-      "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
-      "link": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790275187
-    },
-    {
-      "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
-      "link": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790274058
-    },
-    {
-      "title": "Google's first Suncatcher orbital data center test launches October 1",
-      "link": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790266594
-    },
-    {
-      "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
-      "link": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790265676
-    },
-    {
-      "title": "Formula 1 looks at 3.0 L V8 turbos and smaller hybrids for 2030",
-      "link": "https://arstechnica.com/cars/2026/09/formula-1-looks-at-3-0-l-v8-turbos-and-smaller-hybrids-for-2030/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790264909
-    },
-    {
-      "title": "NASA chief concerned China may deny access to parts of Moon's south pole",
-      "link": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790261870
-    },
-    {
-      "title": "Meta puts its AI assistant on a keychain",
-      "link": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790258618
     },
     {
       "title": "When what you see doesn’t make sense, your brain does something remarkable",
@@ -436,20 +471,6 @@
       "timestamp": 1790248759
     },
     {
-      "title": "There's a new way to break RSA that's faster than anything we've seen before",
-      "link": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790248544
-    },
-    {
-      "title": "Review: Apple's hyper-pricey M5 Ultra Mac Studio made me into a vibe coder",
-      "link": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790247604
-    },
-    {
       "title": "These massive stars could explain Webb’s strangest galaxies",
       "link": "https://www.sciencedaily.com/releases/2026/09/260923035922.htm",
       "source": "SCIENCEDAILY",
@@ -476,20 +497,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1790217059
-    },
-    {
-      "title": "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access",
-      "link": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790201845
-    },
-    {
-      "title": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real",
-      "link": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790199996
     },
     {
       "title": "Knicks, Karl-Anthony Towns extension talks reportedly have stalled: What it means as New York aims to repeat",
@@ -553,13 +560,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1790012271
-    },
-    {
-      "title": "Who will be next member from 2023 NBA Draft class to sign a big-money extension?",
-      "link": "https://www.cbssports.com/nba/news/next-member-2023-nba-draft-class-big-money-extension-keyonte-george/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1789772260
     }
   ]
 }
