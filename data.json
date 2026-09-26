@@ -1,12 +1,75 @@
 {
-  "last_updated": 1790446611,
+  "last_updated": 1790459276,
   "items": [
     {
-      "title": "Meta says it will run ads for ‘Musk’ documentary after all",
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790456526
+    },
+    {
+      "title": "Microsoft CEO Says 'Streamlining' at Xbox is 'Great to See' as Layoffs Affect Thousands",
+      "link": "https://www.ign.com/articles/microsoft-ceo-says-streamlining-at-xbox-is-great-to-see-as-layoffs-affect-thousands",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790455960
+    },
+    {
+      "title": "TikTok agrees to pay at least $100M in Alabama settlement",
+      "link": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790454285
+    },
+    {
+      "title": "Discord Users are Massacring Wumpus in Increasingly Gruesome Ways to Protest Platform's Age Verification System",
+      "link": "https://www.ign.com/articles/discord-users-are-massacring-wumpus-in-increasingly-gruesome-ways-to-protest-platforms-age-verification-system",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790452158
+    },
+    {
+      "title": "The Last of Us Gets Animated Background on PS5 as Naughty Dog Teases Announcements for TLOU Day 2026",
+      "link": "https://www.ign.com/articles/the-last-of-us-gets-animated-background-on-ps5-as-naughty-dog-teases-announcements-for-tlou-day-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790447369
+    },
+    {
+      "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
       "link": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1790444640
+    },
+    {
+      "title": "Minecraft Confirms Ice Caves as Next Game Drop, Adds Frozen Zombies, Ice Balls, and More",
+      "link": "https://www.ign.com/articles/minecraft-confirms-ice-caves-as-next-game-drop-adds-frozen-zombies-ice-balls-and-more",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790443920
+    },
+    {
+      "title": "World's First Official Minecraft Hotel Revealed for 2027, First Ever Minecraft Rollercoaster Named",
+      "link": "https://www.ign.com/articles/worlds-first-official-minecraft-hotel-revealed-for-2027-first-ever-minecraft-rollercoaster-named",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790443814
+    },
+    {
+      "title": "Minecraft Is Getting Its First New Dimension in Over 14 Years",
+      "link": "https://www.ign.com/articles/minecraft-is-getting-its-first-new-dimension-in-over-14-years",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790443699
+    },
+    {
+      "title": "The Legend of Zelda: Ocarina of Time Remake Extended Clip Reveals Closer Look at Ganondorf",
+      "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-extended-clip-reveals-closer-look-at-ganondorf",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790443494
     },
     {
       "title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
@@ -44,7 +107,7 @@
       "timestamp": 1790434800
     },
     {
-      "title": "Minecraft LIVE September 2026 Live Report — All the News as It Happens",
+      "title": "Minecraft LIVE September 2026 — Everything Announced",
       "link": "https://www.ign.com/articles/minecraft-live-september-2026-everything-announced",
       "source": "IGN",
       "category": "gaming",
@@ -219,20 +282,6 @@
       "timestamp": 1790368438
     },
     {
-      "title": "PlayStation's Newest Survey Sparks Community Pushback Against Sony's Plans to End Physical Game Discs",
-      "link": "https://www.ign.com/articles/playstations-newest-survey-sparks-community-pushback-against-sonys-plans-to-end-physical-game-discs",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790367111
-    },
-    {
-      "title": "GTA 6 Fans Are Already 3D Printing Items in the Game's $400 Collector's Edition",
-      "link": "https://www.ign.com/articles/gta-6-fans-are-already-3d-printing-items-in-the-games-400-collectors-edition",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790365469
-    },
-    {
       "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
       "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
       "source": "ARSTECHNICA",
@@ -259,13 +308,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1790363465
-    },
-    {
-      "title": "Final Fantasy 7 Revelation Will Be Easier to Platinum Than Rebirth",
-      "link": "https://www.ign.com/articles/final-fantasy-7-revelation-will-be-easier-to-platinum-than-rebirth",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790362260
     },
     {
       "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
@@ -303,20 +345,6 @@
       "timestamp": 1790359057
     },
     {
-      "title": "Avery the Poké Kid’s Family Speaks Out After Scalpers Use Child’s Death to Inflate Card Prices",
-      "link": "https://www.ign.com/articles/avery-the-pok-kids-family-speaks-out-after-scalpers-use-childs-death-to-inflate-card-prices",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790359022
-    },
-    {
-      "title": "Microsoft Just Seemingly Killed Copilot+ Just 2 Years After Launch",
-      "link": "https://www.ign.com/articles/microsoft-just-seemingly-killed-copilot-just-2-years-after-launch",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790358436
-    },
-    {
       "title": "LeBron James details three main reasons he chose 76ers, including wanting to help Joel Embiid win a title",
       "link": "https://www.cbssports.com/nba/news/lebron-james-reasons-76ers-joel-embiid-jaylen-brown-tyrese-maxey/",
       "source": "CBSSPORTS",
@@ -336,34 +364,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1790357386
-    },
-    {
-      "title": "Astra and Opus just passed Turing’s other test",
-      "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790357076
-    },
-    {
-      "title": "As Resident Evil Requiem Passes $500m Revenue, Analysis Shows 8.6% Sales Were on Xbox, With Remaining 91% Shared Between PS5 and Steam",
-      "link": "https://www.ign.com/articles/as-resident-evil-requiem-passes-500m-revenue-analysis-shows-86-sales-were-on-xbox-with-remaining-91-shared-between-ps5-and-steam",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790353058
-    },
-    {
-      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-      "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790353012
-    },
-    {
-      "title": "Blizzard Dev Doubles Down on World of Warcraft Forever Being for Classic Players",
-      "link": "https://www.ign.com/articles/blizzard-dev-doubles-down-on-world-of-warcraft-forever-being-for-classic-players",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790351418
     },
     {
       "title": "After seven years, a spacecraft company is releasing its Otters into the wild",
