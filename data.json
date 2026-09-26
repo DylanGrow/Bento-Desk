@@ -1,6 +1,20 @@
 {
-  "last_updated": 1790380018,
+  "last_updated": 1790393031,
   "items": [
+    {
+      "title": "Chris Hansen Announces His Own Documentary After Watching 'Fever Dream' Primetime and Grades Movie a D",
+      "link": "https://www.ign.com/articles/chris-hansen-announces-his-own-documentary-after-watching-fever-dream-primetime-and-grades-movie-a-d",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790389068
+    },
+    {
+      "title": "At Meta Connect, the company’s smart glasses were everywhere",
+      "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790384937
+    },
     {
       "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
       "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
@@ -16,6 +30,13 @@
       "timestamp": 1790377474
     },
     {
+      "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
+      "link": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790377226
+    },
+    {
       "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
       "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
       "source": "TECHCRUNCH",
@@ -23,11 +44,25 @@
       "timestamp": 1790374847
     },
     {
+      "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+      "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790372180
+    },
+    {
       "title": "Infinity Festival Returns to Los Angeles in November With a Focus on AI",
       "link": "https://www.ign.com/articles/infinity-festival-los-angeles-2026-ai",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1790371945
+    },
+    {
+      "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+      "link": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790370651
     },
     {
       "title": "Viral Resident Evil Stunt Footage Shows the Wild Way the 'Katamari Monster' Came to Life in Zach Cregger's Movie",
@@ -63,6 +98,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1790365469
+    },
+    {
+      "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
+      "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790365139
     },
     {
       "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
@@ -212,13 +254,6 @@
       "timestamp": 1790351294
     },
     {
-      "title": "Anthropic’s founders seek voting control ahead of IPO",
-      "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790350803
-    },
-    {
       "title": "After seven years, a spacecraft company is releasing its Otters into the wild",
       "link": "https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/",
       "source": "ARSTECHNICA",
@@ -345,13 +380,6 @@
       "timestamp": 1790333591
     },
     {
-      "title": "'That's Where Doomsday Is Born': Avengers Director Discusses Endgame Encore's New Ending That Rewrites Steve Rogers' Story",
-      "link": "https://www.ign.com/articles/thats-where-doomsday-is-born-avengers-director-discusses-endgame-encores-new-ending-that-rewrites-steve-rogers-story",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790329780
-    },
-    {
       "title": "Scientists gave worms magnetic bacteria. They lived 43% longer",
       "link": "https://www.sciencedaily.com/releases/2026/09/260924020357.htm",
       "source": "SCIENCEDAILY",
@@ -394,39 +422,11 @@
       "timestamp": 1790288566
     },
     {
-      "title": "Donald Duck's uncle was partly based on Wernher von Braun",
-      "link": "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790286007
-    },
-    {
       "title": "Karl-Anthony Towns contract negotiations show how difficult it will be for Knicks to keep title core together",
       "link": "https://www.cbssports.com/nba/news/karl-anthony-towns-knicks-contract-negotiations/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1790284783
-    },
-    {
-      "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
-      "link": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790278242
-    },
-    {
-      "title": "New York defies Trump admin, asks court to shut down Polymarket gambling",
-      "link": "https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790276839
-    },
-    {
-      "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
-      "link": "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790275943
     },
     {
       "title": "When what you see doesn’t make sense, your brain does something remarkable",
