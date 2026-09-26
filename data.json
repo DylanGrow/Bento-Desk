@@ -1,6 +1,13 @@
 {
-  "last_updated": 1790413430,
+  "last_updated": 1790431416,
   "items": [
+    {
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790431200
+    },
     {
       "title": "Marvel's Wolverine Dev Adds Option to Turn Off Controversial Scent Trails and More in New Update",
       "link": "https://www.ign.com/articles/marvels-wolverine-dev-adds-option-to-turn-off-controversial-scent-trails-and-more-in-new-update",
@@ -58,7 +65,7 @@
       "timestamp": 1790374847
     },
     {
-      "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
       "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -259,13 +266,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1790351418
-    },
-    {
-      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-      "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790351294
     },
     {
       "title": "After seven years, a spacecraft company is releasing its Otters into the wild",
