@@ -1,6 +1,97 @@
 {
-  "last_updated": 1790512953,
+  "last_updated": 1790530030,
   "items": [
+    {
+      "title": "Netflix Tried to Bring Obsession Straight to Streaming Before It Exploded in Theaters",
+      "link": "https://www.ign.com/articles/netflix-tried-to-bring-obsession-straight-to-streaming-before-it-exploded-in-theaters",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790529219
+    },
+    {
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790526600
+    },
+    {
+      "title": "TechCrunch Mobility: AV companies pick their lanes",
+      "link": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790524920
+    },
+    {
+      "title": "Don't Breathe 3 in the Works With Stephen Lang and Jane Levy, Fede Álvarez Says",
+      "link": "https://www.ign.com/articles/dont-breathe-3-in-the-works-with-returning-cast-stephen-lang-and-jane-levy-fede-alvarez-says",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790524030
+    },
+    {
+      "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
+      "link": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790521200
+    },
+    {
+      "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790517219
+    },
+    {
+      "title": "One CRISPR treatment cut “bad” cholesterol in half for a full year",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260925005434.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790514921
+    },
+    {
+      "title": "New soil test could reveal how soil microbes help feed plants",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260925005441.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790511017
+    },
+    {
+      "title": "1.7-billion-year-old fossils reveal a crucial clue to the rise of complex life",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260925005447.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790510150
+    },
+    {
+      "title": "How the Smithsonian became the latest front in Trump’s culture war",
+      "link": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790506812
+    },
+    {
+      "title": "Why rheumatoid arthritis pain may persist even when inflammation is under control",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260925093208.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790506153
+    },
+    {
+      "title": "These medieval graves looked like family burials. DNA told a different story",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260925005444.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790477347
+    },
+    {
+      "title": "Scientists say house cats could help unlock better cancer treatments for humans",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260924231826.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790474502
+    },
     {
       "title": "Star Wars Nabs Spider-Man Director Jon Watts for First Movie in Disney's New Skywalker Saga Trilogy",
       "link": "https://www.ign.com/articles/star-wars-nabs-spider-man-director-jon-watts-for-first-movie-in-disneys-new-skywalker-saga-trilogy",
@@ -219,13 +310,6 @@
       "timestamp": 1790389565
     },
     {
-      "title": "Chris Hansen Announces His Own Documentary After Watching 'Fever Dream' Primetime and Grades Movie a D",
-      "link": "https://www.ign.com/articles/chris-hansen-announces-his-own-documentary-after-watching-fever-dream-primetime-and-grades-movie-a-d",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790389068
-    },
-    {
       "title": "Don’t toss cannabis leaves: They may contain rare compounds with medical potential",
       "link": "https://www.sciencedaily.com/releases/2026/09/260924231711.htm",
       "source": "SCIENCEDAILY",
@@ -275,13 +359,6 @@
       "timestamp": 1790372180
     },
     {
-      "title": "Infinity Festival Returns to Los Angeles in November With a Focus on AI",
-      "link": "https://www.ign.com/articles/infinity-festival-los-angeles-2026-ai",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790371945
-    },
-    {
       "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
       "link": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
       "source": "ARSTECHNICA",
@@ -317,13 +394,6 @@
       "timestamp": 1790364882
     },
     {
-      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790363618
-    },
-    {
       "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
       "link": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
       "source": "ARSTECHNICA",
@@ -331,25 +401,11 @@
       "timestamp": 1790363465
     },
     {
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790362113
-    },
-    {
       "title": "Paramount/WBD merger conditions give the public \"virtually nothing,\" judge is told",
       "link": "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1790361777
-    },
-    {
-      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-      "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790361239
     },
     {
       "title": "Is solar's growth finally slowing in the US?",
@@ -415,13 +471,6 @@
       "timestamp": 1790343949
     },
     {
-      "title": "This “rare” autism-linked genetic disorder may be far more common than scientists thought",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260924020405.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790343166
-    },
-    {
       "title": "Five burning questions for NBA media days: What does Kawhi have to say? How will LeBron fit in Philly?",
       "link": "https://www.cbssports.com/nba/news/five-burning-questions-nba-media-days-2026/",
       "source": "CBSSPORTS",
@@ -429,60 +478,11 @@
       "timestamp": 1790341449
     },
     {
-      "title": "CERN has begun disconnecting the Large Hadron Collider",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260925005430.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790341280
-    },
-    {
-      "title": "Earth is tearing apart beneath the Pacific Northwest",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260924231343.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790338818
-    },
-    {
       "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
       "link": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1790334028
-    },
-    {
-      "title": "Rocket Report: Era of cheap launch is over? Astra sets early 2027 target for return",
-      "link": "https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790334010
-    },
-    {
-      "title": "Scientists gave worms magnetic bacteria. They lived 43% longer",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260924020357.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790308342
-    },
-    {
-      "title": "“We found something never seen before” – A dead star is producing a shock wave that shouldn’t exist",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260924020410.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790306374
-    },
-    {
-      "title": "Ancient meteorites reveal a powerful force that helped build the Solar System",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260924020355.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790304324
-    },
-    {
-      "title": "Scientists discover an “impossible” cellular survival pathway that could help fight cancer",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260923035939.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790301332
     },
     {
       "title": "Bob Pettit, basketball Hall of Famer and NBA's first Most Valuable Player, dies at 93",
