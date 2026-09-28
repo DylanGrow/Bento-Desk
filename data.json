@@ -1,6 +1,293 @@
 {
-  "last_updated": 1790591444,
+  "last_updated": 1790619870,
   "items": [
+    {
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790618400
+    },
+    {
+      "title": "F1 in Azerbaijan: That was almost a close-run thing",
+      "link": "https://arstechnica.com/cars/2026/09/f1-in-azerbaijan-that-was-almost-a-close-run-thing/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790617295
+    },
+    {
+      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+      "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790616590
+    },
+    {
+      "title": "Why Is Everyone Talking About LA Noire 2 All of a Sudden?",
+      "link": "https://www.ign.com/articles/why-is-everyone-talking-about-la-noire-2-all-of-a-sudden",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790616477
+    },
+    {
+      "title": "'We Did Circle It For a Long Time, That Idea': Avengers Directors Discuss Plans to Show Steve Rogers Returning the Infinity Stones",
+      "link": "https://www.ign.com/articles/we-did-circle-it-for-a-long-time-that-idea-avengers-directors-discuss-plans-to-show-steve-rogers-returning-the-infinity-stones",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790615986
+    },
+    {
+      "title": "The Witcher 3 Gets 30 FPS On an RTX 5080 With Frame Gen Disabled",
+      "link": "https://www.ign.com/articles/the-witcher-3-gets-30-fps-on-an-rtx-5080-with-frame-gen-disabled",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790615911
+    },
+    {
+      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+      "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790615342
+    },
+    {
+      "title": "Avengers: Endgame Encore Cinemagoers Issue Warning After Realizing Disney Locked Major New Scene Behind Imax and Infinity Vision Theaters",
+      "link": "https://www.ign.com/articles/avengers-endgame-encore-cinemagoers-issue-warning-after-realizing-disney-locked-major-new-scene-behind-imax-and-infinity-vision-theaters",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790614925
+    },
+    {
+      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+      "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790614358
+    },
+    {
+      "title": "The iPhone Duo may already have its first killer app: a virtual Walkman",
+      "link": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790614069
+    },
+    {
+      "title": "Warriors' Kristaps Porziņģis out indefinitely with 'health issue' ahead of 2026-27 season",
+      "link": "https://www.cbssports.com/nba/news/warriors-kristaps-porzingis-out-indefinitely-health-issue/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1790613993
+    },
+    {
+      "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+      "link": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790613798
+    },
+    {
+      "title": "GTA 6 Has an 'Advanced' Weather System, but How Will It Work?",
+      "link": "https://www.ign.com/articles/gta-6-has-an-advanced-weather-system-but-how-will-it-work",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790613225
+    },
+    {
+      "title": "NASA, for the time being, is unable to move the space station's large robotic arm",
+      "link": "https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790611430
+    },
+    {
+      "title": "Warhammer 40,000: Space Marine 2 Dev Acknowledges That Chaos Is Harder to Fight Than Tyranids, Confirms Plan to Do Something About It",
+      "link": "https://www.ign.com/articles/warhammer-40000-space-marine-2-dev-acknowledges-that-chaos-is-harder-to-fight-than-tyranids-confirms-plan-to-do-something-about-it",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790611024
+    },
+    {
+      "title": "God of War Laufey Features Kratos in an Ancient Greek Setting, Sparking Speculation Over the Game's Story — and Praise for His Big Bushy Beard",
+      "link": "https://www.ign.com/articles/god-of-war-laufey-features-kratos-in-an-ancient-greek-setting-sparking-speculation-over-the-games-story-and-praise-for-his-big-bushy-beard",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790611022
+    },
+    {
+      "title": "Thieves on the Hunt for GPUs Stole Nvidia Trucks, but All They Got Was 20 Tons of Sand",
+      "link": "https://www.ign.com/articles/thieves-on-the-hunt-for-gpus-stole-nvidia-trucks-but-all-they-got-was-20-tons-of-sand",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790609721
+    },
+    {
+      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790609400
+    },
+    {
+      "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
+      "link": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790609361
+    },
+    {
+      "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
+      "link": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790609206
+    },
+    {
+      "title": "The Witcher 3: Wild Hunt – Remastered Update Patch Notes Include PC-Specific and Console-Specific Changes",
+      "link": "https://www.ign.com/articles/the-witcher-3-wild-hunt-remastered-update-patch-notes-include-pc-specific-and-console-specific-changes",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790608495
+    },
+    {
+      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+      "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790607600
+    },
+    {
+      "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790607600
+    },
+    {
+      "title": "Jalen Duren contract standoff: Pistons center feels disrespected in negotiations, skips media day",
+      "link": "https://www.cbssports.com/nba/news/jalen-duren-contract-standoff-pistons-disrespected-media-day/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1790607032
+    },
+    {
+      "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
+      "link": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790607030
+    },
+    {
+      "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790605800
+    },
+    {
+      "title": "Modulate raises $25M for its voice models and analysis suite",
+      "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790604300
+    },
+    {
+      "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
+      "link": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790604000
+    },
+    {
+      "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+      "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790604000
+    },
+    {
+      "title": "ElevenLabs’ new v4 speech model supports more expression control and 90 languages",
+      "link": "https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790604000
+    },
+    {
+      "title": "Lanterns Episode 8 Trailer Hints at What's to Come in Season Finale, Sparks a Number of Theories",
+      "link": "https://www.ign.com/articles/lanterns-episode-8-trailer-hints-at-whats-to-come-in-season-finale-sparks-a-number-of-theories",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790602845
+    },
+    {
+      "title": "Scientists just discovered what coffee really does to your gut and brain",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260927034331.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790602625
+    },
+    {
+      "title": "Blood tests reveal why astronauts get constipated in space",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260927225030.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790599799
+    },
+    {
+      "title": "Scientists were wrong about this strange mammal for nearly 40 years",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260925093204.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790598321
+    },
+    {
+      "title": "James Webb reveals why planet formation is a race against time",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260925093158.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790596944
+    },
+    {
+      "title": "CD Projekt Releases Official List of All the Improvements in The Witcher 3: Wild Hunt — Remastered",
+      "link": "https://www.ign.com/articles/cd-projekt-releases-official-list-of-all-the-improvements-in-the-witcher-3-wild-hunt-remastered",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790595947
+    },
+    {
+      "title": "WoW Forever Beta Player Dies to a Near Perfect Griefing Tactic That I'm Sure Blizzard Will Patch Out",
+      "link": "https://www.ign.com/articles/wow-forever-beta-player-dies-to-a-near-perfect-griefing-tactic-that-im-sure-blizzard-will-patch-out",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790594382
+    },
+    {
+      "title": "McDonald's Happy Meal Pokémon Cards Promotion Launches in November",
+      "link": "https://www.ign.com/articles/mcdonalds-happy-meal-pokmon-cards-promotion-launches-in-november",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790593789
+    },
+    {
+      "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
+      "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790593209
+    },
+    {
+      "title": "Fortnite Five Nights at Freddy's Announcement is Now the Game's Most Liked Reveal Ever, Beating the Avengers and Dragon Ball Z",
+      "link": "https://www.ign.com/articles/fortnite-five-nights-at-freddys-announcement-is-now-the-games-most-liked-reveal-ever-beating-the-avengers-and-dragon-ball-z",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790591944
+    },
+    {
+      "title": "160-million-year-old proteins show surprising power against superbugs",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260925093155.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790589597
+    },
     {
       "title": "78-Year-Old Fortnite Streaming Grandmother Now Holds a World Record",
       "link": "https://www.ign.com/articles/78-year-old-fortnite-streaming-grandmother-now-holds-a-world-record",
@@ -16,81 +303,25 @@
       "timestamp": 1790586010
     },
     {
-      "title": "Castlevania's Iconic Soundtrack Gets Its Own Symphony, Brought to Life by a 25-Piece Power Rock Orchestra",
-      "link": "https://www.ign.com/articles/castlevanias-iconic-soundtrack-gets-its-own-symphony-brought-to-life-by-a-25-piece-power-rock-orchestra",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790575200
+      "title": "Resetting the body clock could help the brain recover after stroke",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260924020407.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790584512
     },
     {
-      "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
-      "link": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790569800
+      "title": "Is the universe infinite? The answer gets weird fast",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260927225041.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790565522
     },
     {
-      "title": "'It Was Really Great and Really Emotional' — Anthony Mackie Remembers Chris Evans Showing Him the Avengers: Endgame Script Early to Reveal How He'd Become Captain America",
-      "link": "https://www.ign.com/articles/it-was-really-great-and-really-emotional-anthony-mackie-remembers-chris-evans-showing-him-the-avengers-endgame-script-early-to-reveal-how-hed-become-captain-america",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790541997
-    },
-    {
-      "title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790541268
-    },
-    {
-      "title": "Can Muse overcome Meta’s trust issues?",
-      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790539050
-    },
-    {
-      "title": "Avengers: Endgame Encore Collects $86 Million in Theaters as New Scenes Help MCU Fans Prep for Doomsday",
-      "link": "https://www.ign.com/articles/avengers-endgame-encore-collects-86-million-in-theaters-as-new-scenes-help-mcu-fans-prep-for-doomsday",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790535366
-    },
-    {
-      "title": "Netflix Tried to Bring Obsession Straight to Streaming Before It Exploded in Theaters",
-      "link": "https://www.ign.com/articles/netflix-tried-to-bring-obsession-straight-to-streaming-before-it-exploded-in-theaters",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790529219
-    },
-    {
-      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790526600
-    },
-    {
-      "title": "TechCrunch Mobility: AV companies pick their lanes",
-      "link": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790524920
-    },
-    {
-      "title": "Don't Breathe 3 in the Works With Stephen Lang and Jane Levy, Fede Álvarez Says",
-      "link": "https://www.ign.com/articles/dont-breathe-3-in-the-works-with-returning-cast-stephen-lang-and-jane-levy-fede-alvarez-says",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790524030
-    },
-    {
-      "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
-      "link": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790521200
+      "title": "Scientists found a surprising driver of Alzheimer’s outside the brain",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260925093150.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790563168
     },
     {
       "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
@@ -149,27 +380,6 @@
       "timestamp": 1790474502
     },
     {
-      "title": "Star Wars Nabs Spider-Man Director Jon Watts for First Movie in Disney's New Skywalker Saga Trilogy",
-      "link": "https://www.ign.com/articles/star-wars-nabs-spider-man-director-jon-watts-for-first-movie-in-disneys-new-skywalker-saga-trilogy",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790474155
-    },
-    {
-      "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
-      "link": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790473230
-    },
-    {
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790472600
-    },
-    {
       "title": "Bulls-Hornets trade: Chicago adds shooting in Buddy Hield as Charlotte takes flier on Rob Dillingham",
       "link": "https://www.cbssports.com/nba/news/bulls-hornets-trade-buddy-hield-rob-dillingham/",
       "source": "CBSSPORTS",
@@ -177,137 +387,11 @@
       "timestamp": 1790460071
     },
     {
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790456526
-    },
-    {
-      "title": "Microsoft CEO Says 'Streamlining' at Xbox is 'Great to See' as Layoffs Affect Thousands",
-      "link": "https://www.ign.com/articles/microsoft-ceo-says-streamlining-at-xbox-is-great-to-see-as-layoffs-affect-thousands",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790455960
-    },
-    {
-      "title": "TikTok agrees to pay at least $100M in Alabama settlement",
-      "link": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790454285
-    },
-    {
-      "title": "Discord Users are Massacring Wumpus in Increasingly Gruesome Ways to Protest Platform's Age Verification System",
-      "link": "https://www.ign.com/articles/discord-users-are-massacring-wumpus-in-increasingly-gruesome-ways-to-protest-platforms-age-verification-system",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790452158
-    },
-    {
-      "title": "The Last of Us Gets Animated Background on PS5 as Naughty Dog Teases Announcements for TLOU Day 2026",
-      "link": "https://www.ign.com/articles/the-last-of-us-gets-animated-background-on-ps5-as-naughty-dog-teases-announcements-for-tlou-day-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790447369
-    },
-    {
-      "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
-      "link": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790444640
-    },
-    {
-      "title": "Minecraft Confirms Ice Caves as Next Game Drop, Adds Frozen Zombies, Ice Balls, and More",
-      "link": "https://www.ign.com/articles/minecraft-confirms-ice-caves-as-next-game-drop-adds-frozen-zombies-ice-balls-and-more",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790443920
-    },
-    {
-      "title": "World's First Official Minecraft Hotel Revealed for 2027, First Ever Minecraft Rollercoaster Named",
-      "link": "https://www.ign.com/articles/worlds-first-official-minecraft-hotel-revealed-for-2027-first-ever-minecraft-rollercoaster-named",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790443814
-    },
-    {
-      "title": "Minecraft Is Getting Its First New Dimension in Over 14 Years",
-      "link": "https://www.ign.com/articles/minecraft-is-getting-its-first-new-dimension-in-over-14-years",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790443699
-    },
-    {
-      "title": "The Legend of Zelda: Ocarina of Time Remake Extended Clip Reveals Closer Look at Ganondorf",
-      "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-extended-clip-reveals-closer-look-at-ganondorf",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790443494
-    },
-    {
-      "title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
-      "link": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790442000
-    },
-    {
-      "title": "Melissa Barrera Says She Would Reprise Her Scream Role, Reveals Conditions for Her Return",
-      "link": "https://www.ign.com/articles/melissa-barrera-says-she-would-reprise-her-scream-role-reveals-conditions-for-her-return",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790439563
-    },
-    {
       "title": "Scientists may have misread a 2-billion-year-old clue about Earth",
       "link": "https://www.sciencedaily.com/releases/2026/09/260925093201.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1790433482
-    },
-    {
-      "title": "Scientists burned their own scrolls to unlock a 2,000-year-old mystery",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260925005414.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790431496
-    },
-    {
-      "title": "I created an interactive digital avatar of myself — and you can talk to it",
-      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790431200
-    },
-    {
-      "title": "Quantum computer simulates matter “popping into existence”",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260925005416.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790430458
-    },
-    {
-      "title": "Two astronauts who flew farther than anyone before are taking new NASA roles",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260925005423.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790428918
-    },
-    {
-      "title": "Zepbound and Mounjaro may turn on the body’s calorie-burning brown fat",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260925093210.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790425867
-    },
-    {
-      "title": "REM sleep paradox: Dreaming may drain the brain’s energy even as fuel supply rises",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260925093206.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790422249
     },
     {
       "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
@@ -322,41 +406,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1790394059
-    },
-    {
-      "title": "The secret to growing food on Mars could be fungi",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260924020400.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790389565
-    },
-    {
-      "title": "Don’t toss cannabis leaves: They may contain rare compounds with medical potential",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260924231711.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790385910
-    },
-    {
-      "title": "At Meta Connect, the company’s smart glasses were everywhere",
-      "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790384937
-    },
-    {
-      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790377870
-    },
-    {
-      "title": "Automattic has a new board after failed attempt to put CEO on leave",
-      "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790377474
     },
     {
       "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
@@ -436,13 +485,6 @@
       "timestamp": 1790350523
     },
     {
-      "title": "US being left behind in EV charging speeds as China goes sub-5 min to 70%",
-      "link": "https://arstechnica.com/cars/2026/09/us-being-left-behind-in-ev-charging-speeds-as-china-goes-sub-5-min-to-70/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790349715
-    },
-    {
       "title": "Cooper Flagg debut patch autograph card sells for $8.04 million, third-most expensive NBA card ever",
       "link": "https://www.cbssports.com/nba/news/cooper-flagg-mavericks-rookie-card-record-sale/",
       "source": "CBSSPORTS",
@@ -450,39 +492,11 @@
       "timestamp": 1790347534
     },
     {
-      "title": "With PRIMA, NASA will try to build a billion-dollar space telescope in record time",
-      "link": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790345266
-    },
-    {
-      "title": "Scientists discovered two bizarre new sea spiders that are “nightmare fuel”",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260925005412.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790344566
-    },
-    {
-      "title": "Trump administration takes Musk’s side in fight over EU tech rules",
-      "link": "https://arstechnica.com/tech-policy/2026/09/trump-administration-takes-musks-side-in-fight-over-eu-tech-rules/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790343949
-    },
-    {
       "title": "Five burning questions for NBA media days: What does Kawhi have to say? How will LeBron fit in Philly?",
       "link": "https://www.cbssports.com/nba/news/five-burning-questions-nba-media-days-2026/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1790341449
-    },
-    {
-      "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-      "link": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790334028
     },
     {
       "title": "Bob Pettit, basketball Hall of Famer and NBA's first Most Valuable Player, dies at 93",
@@ -546,20 +560,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1790110171
-    },
-    {
-      "title": "Steven Adams predicts level of play across sports will 'plummet' when 'Grand Theft Auto 6' is released",
-      "link": "https://www.cbssports.com/nba/news/steven-adams-rockets-grand-theft-auto-6-release/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1790101154
-    },
-    {
-      "title": "If Jalen Duren won't take Pistons' $200 million offer, then it's time for them to consider a trade",
-      "link": "https://www.cbssports.com/nba/news/jalen-duren-pistons-offer-time-to-consider-trade/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1790084631
     }
   ]
 }
