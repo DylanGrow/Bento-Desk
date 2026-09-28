@@ -1,12 +1,257 @@
 {
-  "last_updated": 1790619870,
+  "last_updated": 1790638817,
   "items": [
+    {
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790638760
+    },
+    {
+      "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds",
+      "link": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790636315
+    },
+    {
+      "title": "The Elder Scrolls Doesn't Have a New Vegas-Like Spinoff Because Todd Howard Is 'Very Protective' of the Franchise, Former Dev Claims",
+      "link": "https://www.ign.com/articles/the-elder-scrolls-doesnt-have-a-new-vegas-like-spinoff-because-todd-howard-is-very-protective-of-the-franchise-former-dev-claims",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790636056
+    },
+    {
+      "title": "Backrooms Director Kane Parsons Wants a Limited Series to Pull Off Horror Franchise's 'Main Ending'",
+      "link": "https://www.ign.com/articles/backrooms-director-kane-parsons-wants-a-limited-series-to-pull-off-horror-franchises-main-ending",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790635507
+    },
+    {
+      "title": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
+      "link": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790634273
+    },
+    {
+      "title": "Spider-Man: Brand New Day Is Reportedly Already Planning a Re-Release With New Footage",
+      "link": "https://www.ign.com/articles/spider-man-brand-new-day-is-reportedly-already-planning-a-re-release-with-new-footage",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790634134
+    },
+    {
+      "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+      "link": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790632150
+    },
+    {
+      "title": "Doctor Doom Appears to Be Abducting Heroes in Avengers: Doomsday",
+      "link": "https://www.ign.com/articles/doctor-doom-appears-to-be-abducting-heroes-in-avengers-doomsday",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790631615
+    },
+    {
+      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790630958
+    },
+    {
+      "title": "SpaceX's Starship goes orbital, deploying first next-gen Starlinks",
+      "link": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790630779
+    },
+    {
+      "title": "New Game Ready to Add Meat and Blood to Steam’s Tidying-Up Craze",
+      "link": "https://www.ign.com/articles/new-game-ready-to-add-meat-and-blood-to-steams-tidying-up-craze",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790630719
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 4 Is Finally Making Double XP Tokens Only Active During Matches",
+      "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-is-finally-making-double-xp-tokens-only-active-during-matches",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790629417
+    },
+    {
+      "title": "Avengers: Doomsday Directors Joke Doctor Doom Has 'Been Planned All Along,' Tease Iron Man Connections",
+      "link": "https://www.ign.com/articles/avengers-doomsday-directors-joke-doctor-doom-has-been-planned-all-along-tease-iron-man-connections",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790629196
+    },
+    {
+      "title": "Spurs star Dylan Harper, heading into Year 2, already knows he's too good to come off the bench",
+      "link": "https://www.cbssports.com/nba/news/spurs-star-dylan-harper-too-good-come-off-bench/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1790628656
+    },
+    {
+      "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
+      "link": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790628579
+    },
+    {
+      "title": "LeBron James begins his 76ers era by making the stakes clear in Philly",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-begins-76ers-era/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1790628095
+    },
+    {
+      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+      "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790627973
+    },
+    {
+      "title": "New device captures carbon dioxide by pumping it across a battery",
+      "link": "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790627466
+    },
+    {
+      "title": "'As Far as I'm Concerned, That's a Step in the Right Direction' — Path of Exile Dev Optimistic About Diablo 5",
+      "link": "https://www.ign.com/articles/as-far-as-im-concerned-thats-a-step-in-the-right-direction-path-of-exile-dev-optimistic-about-diablo-5",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790626629
+    },
+    {
+      "title": "Five most interesting moments from NBA media days: Nikola Jokić makes declaration, all eyes on new-look 76ers",
+      "link": "https://www.cbssports.com/nba/news/nba-media-days-nikola-jokic-76ers/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1790626475
+    },
+    {
+      "title": "To keep drug prices high, pharma has been piling up the patents",
+      "link": "https://arstechnica.com/health/2026/09/to-keep-drug-prices-high-pharma-has-been-piling-up-the-patents/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790625217
+    },
+    {
+      "title": "Intergalactic: The Heretic Prophet Is 'Testing the Bounds' of What Naughty Dog Is Capable of, Troy Baker Says",
+      "link": "https://www.ign.com/articles/intergalactic-the-heretic-prophet-is-testing-the-bounds-of-what-naughty-dog-is-capable-of-troy-baker-says",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790624917
+    },
+    {
+      "title": "Trump cuts fuel economy standards back to 2014 levels",
+      "link": "https://arstechnica.com/cars/2026/09/trump-cuts-fuel-economy-standards-back-to-2014-levels/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790624151
+    },
+    {
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790624037
+    },
+    {
+      "title": "Tesla delays Roadster 2 event again due to bad weather",
+      "link": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790623647
+    },
+    {
+      "title": "The AI boom took over Climate Week and not everyone is happy about it",
+      "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790623319
+    },
+    {
+      "title": "Spurs' Stephon Castle says Knicks crowd at MSG was 'underwhelming' in NBA Finals, OKC fans were 'way louder'",
+      "link": "https://www.cbssports.com/nba/news/spurs-stephon-castle-knicks-crowd-msg-underwhelming/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1790623029
+    },
+    {
+      "title": "Kalshi loses again as judges rule prediction markets must obey gambling laws",
+      "link": "https://arstechnica.com/tech-policy/2026/09/another-court-rules-kalshi-sports-bets-arent-swaps-says-states-can-crack-down/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790622249
+    },
+    {
+      "title": "The Witcher 3: Songs of the Past EP Drops, Giving First Taste of New Music from the Expansion",
+      "link": "https://www.ign.com/articles/the-witcher-3-songs-of-the-past-ep-drops-giving-first-taste-of-new-music-from-the-expansion",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790621414
+    },
+    {
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790620283
+    },
+    {
+      "title": "Karl-Anthony Towns contract negotiations show how difficult it will be for Knicks to keep title core together",
+      "link": "https://www.cbssports.com/nba/news/karl-anthony-towns-knicks-contract-negotiations/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1790620126
+    },
+    {
+      "title": "LeBron James confirms he nearly joined the Knicks, will live part-time in New York while playing for 76ers",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-knicks-live-new-york-76ers/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1790619516
+    },
+    {
+      "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
+      "link": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790618699
+    },
     {
       "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
       "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1790618400
+    },
+    {
+      "title": "The Last of Us Day Reveals Ghost of Yotei Collab Content and Ambience Video as Fans Beg Naughty Dog for TLOU 3",
+      "link": "https://www.ign.com/articles/the-last-of-us-day-reveals-ghost-of-yotei-collab-content-and-ambiance-video-as-fans-beg-naughty-dog-for-tlou-3",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790618391
+    },
+    {
+      "title": "Scientists solve 1840s space weather mystery",
+      "link": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790618196
     },
     {
       "title": "F1 in Azerbaijan: That was almost a close-run thing",
@@ -37,7 +282,7 @@
       "timestamp": 1790615986
     },
     {
-      "title": "The Witcher 3 Gets 30 FPS On an RTX 5080 With Frame Gen Disabled",
+      "title": "The Witcher 3 Gets 30 FPS on an RTX 5080 With Frame Gen Disabled",
       "link": "https://www.ign.com/articles/the-witcher-3-gets-30-fps-on-an-rtx-5080-with-frame-gen-disabled",
       "source": "IGN",
       "category": "gaming",
@@ -51,7 +296,7 @@
       "timestamp": 1790615342
     },
     {
-      "title": "Avengers: Endgame Encore Cinemagoers Issue Warning After Realizing Disney Locked Major New Scene Behind Imax and Infinity Vision Theaters",
+      "title": "Avengers: Endgame Encore Cinemagoers Issue Warning After Realizing Disney Locked Major New Scene Behind IMAX and Infinity Vision Theaters",
       "link": "https://www.ign.com/articles/avengers-endgame-encore-cinemagoers-issue-warning-after-realizing-disney-locked-major-new-scene-behind-imax-and-infinity-vision-theaters",
       "source": "IGN",
       "category": "gaming",
@@ -93,32 +338,11 @@
       "timestamp": 1790613225
     },
     {
-      "title": "NASA, for the time being, is unable to move the space station's large robotic arm",
+      "title": "NASA 'troubleshooting' transporter for space station's robotic arm [Updated]",
       "link": "https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1790611430
-    },
-    {
-      "title": "Warhammer 40,000: Space Marine 2 Dev Acknowledges That Chaos Is Harder to Fight Than Tyranids, Confirms Plan to Do Something About It",
-      "link": "https://www.ign.com/articles/warhammer-40000-space-marine-2-dev-acknowledges-that-chaos-is-harder-to-fight-than-tyranids-confirms-plan-to-do-something-about-it",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790611024
-    },
-    {
-      "title": "God of War Laufey Features Kratos in an Ancient Greek Setting, Sparking Speculation Over the Game's Story — and Praise for His Big Bushy Beard",
-      "link": "https://www.ign.com/articles/god-of-war-laufey-features-kratos-in-an-ancient-greek-setting-sparking-speculation-over-the-games-story-and-praise-for-his-big-bushy-beard",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790611022
-    },
-    {
-      "title": "Thieves on the Hunt for GPUs Stole Nvidia Trucks, but All They Got Was 20 Tons of Sand",
-      "link": "https://www.ign.com/articles/thieves-on-the-hunt-for-gpus-stole-nvidia-trucks-but-all-they-got-was-20-tons-of-sand",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790609721
     },
     {
       "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
@@ -142,81 +366,11 @@
       "timestamp": 1790609206
     },
     {
-      "title": "The Witcher 3: Wild Hunt – Remastered Update Patch Notes Include PC-Specific and Console-Specific Changes",
-      "link": "https://www.ign.com/articles/the-witcher-3-wild-hunt-remastered-update-patch-notes-include-pc-specific-and-console-specific-changes",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790608495
-    },
-    {
-      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-      "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790607600
-    },
-    {
-      "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790607600
-    },
-    {
       "title": "Jalen Duren contract standoff: Pistons center feels disrespected in negotiations, skips media day",
       "link": "https://www.cbssports.com/nba/news/jalen-duren-contract-standoff-pistons-disrespected-media-day/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1790607032
-    },
-    {
-      "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
-      "link": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790607030
-    },
-    {
-      "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790605800
-    },
-    {
-      "title": "Modulate raises $25M for its voice models and analysis suite",
-      "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790604300
-    },
-    {
-      "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
-      "link": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790604000
-    },
-    {
-      "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-      "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790604000
-    },
-    {
-      "title": "ElevenLabs’ new v4 speech model supports more expression control and 90 languages",
-      "link": "https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790604000
-    },
-    {
-      "title": "Lanterns Episode 8 Trailer Hints at What's to Come in Season Finale, Sparks a Number of Theories",
-      "link": "https://www.ign.com/articles/lanterns-episode-8-trailer-hints-at-whats-to-come-in-season-finale-sparks-a-number-of-theories",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790602845
     },
     {
       "title": "Scientists just discovered what coffee really does to your gut and brain",
@@ -247,27 +401,6 @@
       "timestamp": 1790596944
     },
     {
-      "title": "CD Projekt Releases Official List of All the Improvements in The Witcher 3: Wild Hunt — Remastered",
-      "link": "https://www.ign.com/articles/cd-projekt-releases-official-list-of-all-the-improvements-in-the-witcher-3-wild-hunt-remastered",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790595947
-    },
-    {
-      "title": "WoW Forever Beta Player Dies to a Near Perfect Griefing Tactic That I'm Sure Blizzard Will Patch Out",
-      "link": "https://www.ign.com/articles/wow-forever-beta-player-dies-to-a-near-perfect-griefing-tactic-that-im-sure-blizzard-will-patch-out",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790594382
-    },
-    {
-      "title": "McDonald's Happy Meal Pokémon Cards Promotion Launches in November",
-      "link": "https://www.ign.com/articles/mcdonalds-happy-meal-pokmon-cards-promotion-launches-in-november",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790593789
-    },
-    {
       "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
       "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
       "source": "ARSTECHNICA",
@@ -275,32 +408,11 @@
       "timestamp": 1790593209
     },
     {
-      "title": "Fortnite Five Nights at Freddy's Announcement is Now the Game's Most Liked Reveal Ever, Beating the Avengers and Dragon Ball Z",
-      "link": "https://www.ign.com/articles/fortnite-five-nights-at-freddys-announcement-is-now-the-games-most-liked-reveal-ever-beating-the-avengers-and-dragon-ball-z",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790591944
-    },
-    {
       "title": "160-million-year-old proteins show surprising power against superbugs",
       "link": "https://www.sciencedaily.com/releases/2026/09/260925093155.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1790589597
-    },
-    {
-      "title": "78-Year-Old Fortnite Streaming Grandmother Now Holds a World Record",
-      "link": "https://www.ign.com/articles/78-year-old-fortnite-streaming-grandmother-now-holds-a-world-record",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790588034
-    },
-    {
-      "title": "The Mummy 4 Set Photos Reveal Rachel Weisz as Evelyn O'Connell, Suggest Time Period",
-      "link": "https://www.ign.com/articles/the-mummy-4-set-photos-reveal-rachel-weisz-as-evelyn-oconnell-suggest-time-period",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790586010
     },
     {
       "title": "Resetting the body clock could help the brain recover after stroke",
@@ -408,81 +520,11 @@
       "timestamp": 1790394059
     },
     {
-      "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
-      "link": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790377226
-    },
-    {
-      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-      "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790372180
-    },
-    {
-      "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
-      "link": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790370651
-    },
-    {
-      "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
-      "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790365139
-    },
-    {
-      "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
-      "link": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790364882
-    },
-    {
-      "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
-      "link": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790363465
-    },
-    {
-      "title": "Paramount/WBD merger conditions give the public \"virtually nothing,\" judge is told",
-      "link": "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790361777
-    },
-    {
-      "title": "Is solar's growth finally slowing in the US?",
-      "link": "https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790360838
-    },
-    {
-      "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-      "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790359057
-    },
-    {
       "title": "LeBron James details three main reasons he chose 76ers, including wanting to help Joel Embiid win a title",
       "link": "https://www.cbssports.com/nba/news/lebron-james-reasons-76ers-joel-embiid-jaylen-brown-tyrese-maxey/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1790358327
-    },
-    {
-      "title": "After seven years, a spacecraft company is releasing its Otters into the wild",
-      "link": "https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790350523
     },
     {
       "title": "Cooper Flagg debut patch autograph card sells for $8.04 million, third-most expensive NBA card ever",
@@ -506,13 +548,6 @@
       "timestamp": 1790288566
     },
     {
-      "title": "Karl-Anthony Towns contract negotiations show how difficult it will be for Knicks to keep title core together",
-      "link": "https://www.cbssports.com/nba/news/karl-anthony-towns-knicks-contract-negotiations/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1790284783
-    },
-    {
       "title": "Lawrence Tanter dies at 76: Lakers public address announcer was the 'soundtrack' for more than 40 years",
       "link": "https://www.cbssports.com/nba/news/lawrence-tanter-dies-76-lakers-public-address-announcer/",
       "source": "CBSSPORTS",
@@ -525,41 +560,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1790217059
-    },
-    {
-      "title": "Knicks, Karl-Anthony Towns extension talks reportedly have stalled: What it means as New York aims to repeat",
-      "link": "https://www.cbssports.com/nba/news/knicks-karl-anthony-towns-contract-extension-talks-stalled/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1790195231
-    },
-    {
-      "title": "Three big concerns about Kawhi Leonard's return to Raptors, including fit with Scottie Barnes",
-      "link": "https://www.cbssports.com/nba/news/kawhi-leonard-raptors-concerns-scottie-barnes-rj-barrett/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1790188040
-    },
-    {
-      "title": "Stephen Curry explains why he hasn't signed a contract extension with the Warriors yet",
-      "link": "https://www.cbssports.com/nba/news/stephen-curry-contract-extension-golden-state-warriors/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1790185305
-    },
-    {
-      "title": "Panic level for Giants, Bears amid rash of QB injuries; MLB postseason scenarios as Rays clinch AL East",
-      "link": "https://www.cbssports.com/nfl/news/panic-level-for-giants-bears-amid-rash-of-qb-injuries-mlb-postseason-scenarios-as-rays-clinch-al-east/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1790168573
-    },
-    {
-      "title": "Kawhi Leonard contract breakdown: What $115 million extension means as Raptors try to compete in loaded East",
-      "link": "https://www.cbssports.com/nba/news/kawhi-leonard-toronto-raptors-contract-extension/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1790110171
     }
   ]
 }
