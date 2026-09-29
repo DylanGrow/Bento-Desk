@@ -1,6 +1,153 @@
 {
-  "last_updated": 1790703282,
+  "last_updated": 1790718547,
   "items": [
+    {
+      "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
+      "link": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790716812
+    },
+    {
+      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+      "link": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790716489
+    },
+    {
+      "title": "NBA nearing ownership choice for new Las Vegas franchise with total costs expected to exceed $12-13 billion",
+      "link": "https://www.cbssports.com/nba/news/nba-expansion-franchise-las-vegas-owner-bids-seattle/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1790716389
+    },
+    {
+      "title": "Coinbase Joins Pokémon TCG Hype With Its Own Digital Pack-Opening Service",
+      "link": "https://www.ign.com/articles/coinbase-joins-pokemon-tcg-hype-with-its-own-pack-opening-service",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790715091
+    },
+    {
+      "title": "Trump ads paid for by US government allegedly violate anti-propaganda laws",
+      "link": "https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790713420
+    },
+    {
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790712947
+    },
+    {
+      "title": "Pokémon VGC Pro Begs Players to Wash Themselves After Opponent’s 'Putrid' Stench Makes Them Vomit",
+      "link": "https://www.ign.com/articles/pokemon-vgc-pro-begs-players-to-wash-themselves-after-opponents-stench-makes-them-vomit",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790712089
+    },
+    {
+      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+      "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790711557
+    },
+    {
+      "title": "Halo's Former Franchise Creative Director Sees 3 Possible Paths for Activision's Halo",
+      "link": "https://www.ign.com/articles/halos-former-franchise-creative-director-sees-3-possible-paths-for-activisions-halo",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790709484
+    },
+    {
+      "title": "Game of Thrones Movie Aegon’s Conquest Sets 2029 Release Date With Director Owen Harris",
+      "link": "https://www.ign.com/articles/game-of-thrones-aegons-conquest-movie-release-date-director",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790709043
+    },
+    {
+      "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
+      "link": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790707683
+    },
+    {
+      "title": "Apple Pay set to launch in India with Axis Bank today, sources say",
+      "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790707500
+    },
+    {
+      "title": "50-Minute AI-Generated Doctor Who Episode Is 'Pretty Good,' BBC Boss Says",
+      "link": "https://www.ign.com/articles/50-minute-ai-generated-doctor-who-episode-is-pretty-good-bbc-boss-says",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790707127
+    },
+    {
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790706900
+    },
+    {
+      "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
+      "link": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790706840
+    },
+    {
+      "title": "GTA 6: All the Major New Details Revealed Today, Including Animal Species, Side Activities, and Fast Travel",
+      "link": "https://www.ign.com/articles/gta-6-all-the-new-details-revealed-today-including-animal-species-side-activities-and-fast-travel",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790706723
+    },
+    {
+      "title": "Rockstar Confirms GTA 6 Simulates Tropical Storms and Hurricanes",
+      "link": "https://www.ign.com/articles/rockstar-confirms-gta-6-simulates-tropical-storms-and-hurricanes",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790705741
+    },
+    {
+      "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+      "link": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790705469
+    },
+    {
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790703951
+    },
+    {
+      "title": "Crocs x Chainsaw Man Collection Revealed With 4 New Clog Designs",
+      "link": "https://www.ign.com/articles/crocs-x-chainsaw-man-foot-locker-collaboration-reveal",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790703666
+    },
+    {
+      "title": "Apple pressured to explain Trump role in ICE-tracking app removals",
+      "link": "https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790702954
+    },
     {
       "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
       "link": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/",
@@ -114,14 +261,14 @@
       "timestamp": 1790694000
     },
     {
-      "title": "Oura shelves its $2.2B IPO, citing ‘uncertainty’ in the market",
-      "link": "https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790693815
+      "title": "This study looks at how and with whom connected cars share your data",
+      "link": "https://arstechnica.com/cars/2026/09/connected-car-data-privacy-is-still-abysmal-study-finds/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790693384
     },
     {
-      "title": "Fruit flies remember their larval diet, which influences their longevity",
+      "title": "Less protein for maggots means longer lives for fruit flies",
       "link": "https://arstechnica.com/science/2026/09/fruit-flies-remember-their-larval-diet-which-influences-their-longevity/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -135,25 +282,11 @@
       "timestamp": 1790692088
     },
     {
-      "title": "The Witcher 3 Remastered Is Reportedly Broken on AMD GPUs Ahead of New Driver",
-      "link": "https://www.ign.com/articles/the-witcher-3-remastered-is-reportedly-broken-on-amd-gpus-ahead-of-new-driver",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790691979
-    },
-    {
       "title": "OpenAI says planned GPT-6.1 is too insecure to release",
       "link": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1790691751
-    },
-    {
-      "title": "LEGO Dragon Ball Shenron & Goku Set Officially Announced",
-      "link": "https://www.ign.com/articles/lego-dragon-ball-shenron-goku-set-officially-announced",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790691342
     },
     {
       "title": "Anthropic’s IPO pitch includes a warning about human extinction",
@@ -163,95 +296,11 @@
       "timestamp": 1790691000
     },
     {
-      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-      "link": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790689981
-    },
-    {
-      "title": "Warhammer 40,000: Space Marine 2 Dev Reveals the Most-Played Class — and Who's Bringing Up the Rear",
-      "link": "https://www.ign.com/articles/warhammer-40000-space-marine-2-dev-reveals-the-most-played-class-and-whos-bringing-up-the-rear",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790689669
-    },
-    {
-      "title": "Meta is expanding its AI agent Muse to small businesses",
-      "link": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790689650
-    },
-    {
-      "title": "Behind the Scenes With Sadie Sink’s Jean Grey in Spider-Man: Brand New Day",
-      "link": "https://www.ign.com/articles/sadie-sink-jean-grey-spider-man-behind-the-scenes",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790688600
-    },
-    {
-      "title": "Still running iOS 26? Update your iPhones, iPads, and Macs for this urgent security fix",
-      "link": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790688321
-    },
-    {
-      "title": "Guillermo Del Toro Reveals He Tried to Adapt BioShock Into a Movie, but 'Disastrous' Phone Call Ended the Project Before It Began",
-      "link": "https://www.ign.com/articles/guillermo-del-toro-reveals-he-tried-to-adapt-bioshock-into-a-movie-but-disastrous-phone-call-ended-the-project-before-it-began",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790687700
-    },
-    {
-      "title": "'That’s a Movie Star' — Guillermo del Toro Credits Wesley Snipes for '100%' of Blade's Iconic Persona After Marvel Studios' Mahershala Ali Reboot Was Canceled",
-      "link": "https://www.ign.com/articles/thats-a-movie-star-guillermo-del-toro-credits-wesley-snipes-for-100-of-blades-iconic-persona-after-marvel-studios-mahershala-ali-reboot-canceled",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790687700
-    },
-    {
       "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
       "link": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1790686819
-    },
-    {
-      "title": "Fireflies adds dictation to its desktop notetaking apps",
-      "link": "https://techcrunch.com/2026/09/29/fireflies-adds-dictation-to-its-desktop-notetaking-apps/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790686800
-    },
-    {
-      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-      "link": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790685905
-    },
-    {
-      "title": "Reco raises $55M as AI agent security startups crowd the market",
-      "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790685000
-    },
-    {
-      "title": "The Mummy 4 Set Photos Reveal Brendan Fraser as Rick O'Connell",
-      "link": "https://www.ign.com/articles/the-mummy-4-set-photos-reveal-brendan-fraser-as-rick-oconnell",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790682051
-    },
-    {
-      "title": "Rebel Moon 3 Sounds Like It's Unlikely to Happen After Zack Snyder Issues Update",
-      "link": "https://www.ign.com/articles/rebel-moon-3-sounds-like-its-unlikely-to-happen-after-zack-snyder-issues-update",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790680778
     },
     {
       "title": "The ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
@@ -352,25 +401,11 @@
       "timestamp": 1790625217
     },
     {
-      "title": "Trump cuts fuel economy standards back to 2014 levels",
-      "link": "https://arstechnica.com/cars/2026/09/trump-cuts-fuel-economy-standards-back-to-2014-levels/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790624151
-    },
-    {
       "title": "Spurs' Stephon Castle says Knicks crowd at MSG was 'underwhelming' in NBA Finals, OKC fans were 'way louder'",
       "link": "https://www.cbssports.com/nba/news/spurs-stephon-castle-knicks-crowd-msg-underwhelming/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1790623029
-    },
-    {
-      "title": "Kalshi loses again as judges rule prediction markets must obey gambling laws",
-      "link": "https://arstechnica.com/tech-policy/2026/09/another-court-rules-kalshi-sports-bets-arent-swaps-says-states-can-crack-down/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790622249
     },
     {
       "title": "Karl-Anthony Towns contract negotiations show how difficult it will be for Knicks to keep title core together",
@@ -387,39 +422,11 @@
       "timestamp": 1790619516
     },
     {
-      "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
-      "link": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790618699
-    },
-    {
-      "title": "Scientists solve 1840s space weather mystery",
-      "link": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790618196
-    },
-    {
-      "title": "F1 in Azerbaijan: That was almost a close-run thing",
-      "link": "https://arstechnica.com/cars/2026/09/f1-in-azerbaijan-that-was-almost-a-close-run-thing/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790617295
-    },
-    {
       "title": "Warriors' Kristaps Porziņģis out indefinitely with 'health issue' ahead of 2026-27 season",
       "link": "https://www.cbssports.com/nba/news/warriors-kristaps-porzingis-out-indefinitely-health-issue/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1790613993
-    },
-    {
-      "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-      "link": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790613798
     },
     {
       "title": "Jalen Duren contract standoff: Pistons center feels disrespected in negotiations, skips media day",
@@ -553,13 +560,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1790254448
-    },
-    {
-      "title": "Gregg Popovich marries ex-wife of his former longtime Spurs assistant coach",
-      "link": "https://www.cbssports.com/nba/news/gregg-popovich-wife-spurs-assistant-coach-mike-budenholzer/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1790217059
     }
   ]
 }
