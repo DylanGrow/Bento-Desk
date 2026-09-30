@@ -1,6 +1,97 @@
 {
-  "last_updated": 1790718547,
+  "last_updated": 1790730091,
   "items": [
+    {
+      "title": "'The Train Isn't Stopping' — Diablo 4 Director Promises the Game Will Still Receive Support Well After Diablo 5 Launches",
+      "link": "https://www.ign.com/articles/the-train-isnt-stopping-diablo-4-director-promises-the-game-will-still-receive-support-well-after-diablo-5-launches",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790726068
+    },
+    {
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+      "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790724655
+    },
+    {
+      "title": "Original God of War Creator Defends Laufey's Creative Director From Harassment After His Critical Remarks Go Viral",
+      "link": "https://www.ign.com/articles/original-god-of-war-creator-defends-laufeys-creative-director-from-harassment-after-his-critical-remarks-go-viral",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790724114
+    },
+    {
+      "title": "GTA 6's Game of the Year Chances Have Been Called Into Question",
+      "link": "https://www.ign.com/articles/gta-6s-game-of-the-year-chances-have-been-called-into-question",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790722518
+    },
+    {
+      "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
+      "link": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790721037
+    },
+    {
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790720459
+    },
+    {
+      "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
+      "link": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790720315
+    },
+    {
+      "title": "007 First Light Is Getting Free DLC Later This Week",
+      "link": "https://www.ign.com/articles/007-first-light-is-getting-free-dlc-later-this-week",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790720138
+    },
+    {
+      "title": "Jennifer Lawrence to Star in Zach Cregger’s Sci-Fi Thriller The Flood",
+      "link": "https://www.ign.com/articles/jennifer-lawrence-to-star-in-zach-creggers-sci-fi-thriller-the-flood",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790719993
+    },
+    {
+      "title": "NBA closing in on choosing ownership for new Las Vegas franchise: When could team debut? What about Seattle?",
+      "link": "https://www.cbssports.com/nba/news/nba-expansion-franchise-las-vegas-owner-bids-seattle/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1790719045
+    },
+    {
+      "title": "Protests against OpenAI get increasingly creative",
+      "link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790718778
+    },
+    {
+      "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+      "link": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790718696
+    },
+    {
+      "title": "Obsession Director Curry Barker's Next Film, Anything But Ghosts, Gets May 2027 Theatrical Release",
+      "link": "https://www.ign.com/articles/obsession-director-curry-barkers-next-film-anything-but-ghosts-gets-may-2027-theatrical-release",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790718379
+    },
     {
       "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
       "link": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
@@ -14,13 +105,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1790716489
-    },
-    {
-      "title": "NBA nearing ownership choice for new Las Vegas franchise with total costs expected to exceed $12-13 billion",
-      "link": "https://www.cbssports.com/nba/news/nba-expansion-franchise-las-vegas-owner-bids-seattle/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1790716389
     },
     {
       "title": "Coinbase Joins Pokémon TCG Hype With Its Own Digital Pack-Opening Service",
@@ -51,8 +135,8 @@
       "timestamp": 1790712089
     },
     {
-      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-      "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1790711557
@@ -184,13 +268,6 @@
       "timestamp": 1790702100
     },
     {
-      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
-      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790702100
-    },
-    {
       "title": "Why Control Resonant Developer Remedy Avoided Using Yellow Paint to Guide Players",
       "link": "https://www.ign.com/articles/why-control-resonant-developer-remedy-avoided-using-yellow-paint-to-guide-players",
       "source": "IGN",
@@ -198,67 +275,11 @@
       "timestamp": 1790701773
     },
     {
-      "title": "Can a chatbot fix the government maze? The White House is about to find out",
-      "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790700956
-    },
-    {
       "title": "The Witcher 3 Fans Relieved to Find Low-Polygon Pigeons Have Survived the Remaster Process",
       "link": "https://www.ign.com/articles/the-witcher-3-fans-relieved-to-find-low-polygon-pigeons-have-survived-the-remaster-process",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1790700718
-    },
-    {
-      "title": "Coyote vs. Acme Is Now Available to Watch at Home After Its Box Office Comeback",
-      "link": "https://www.ign.com/articles/where-to-stream-coyote-vs-acme",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790699885
-    },
-    {
-      "title": "GTA 6 Reveal Crashes Game Informer App Amid Confusion Over Free Coverage",
-      "link": "https://www.ign.com/articles/gta-6-reveal-crashes-game-informer-app-amid-confusion-over-free-coverage",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790699644
-    },
-    {
-      "title": "Sony and Nintendo Should Keep the Current Gen Going for as Long as Possible 'Because People Are Very Happy Using PS5 and Switch 2,' Former PlayStation Exec Says",
-      "link": "https://www.ign.com/articles/sony-and-nintendo-should-keep-the-current-gen-going-for-as-long-as-possible-because-people-are-very-happy-using-ps5-and-switch-2-former-playstation-exec-says",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790696336
-    },
-    {
-      "title": "Warhammer YouTuber Pulls the Plug After 10 Years Amid Games Workshop Takedowns, Death Threats, and Doxxing Over 3D Printing Designs",
-      "link": "https://www.ign.com/articles/warhammer-youtuber-pulls-the-plug-after-10-years-amid-games-workshop-takedowns-death-threats-and-doxxing-over-3d-printing-designs",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790696167
-    },
-    {
-      "title": "The Witcher 3 Remastered Has Already Broken Steam Concurrent Player Record",
-      "link": "https://www.ign.com/articles/the-witcher-3-remastered-has-already-broken-steam-concurrent-player-record",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790695421
-    },
-    {
-      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
-      "link": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790694727
-    },
-    {
-      "title": "After losing his voice to cancer, this founder is building ‘glasses for voice’",
-      "link": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790694000
     },
     {
       "title": "This study looks at how and with whom connected cars share your data",
@@ -273,13 +294,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1790692765
-    },
-    {
-      "title": "Florence Pugh Credits Tom Holland for Her Spider-Man: Brand New Day Appearance, and Reveals Her Favorite Line Is Exactly the One You'd Expect",
-      "link": "https://www.ign.com/articles/florence-pugh-credits-tom-holland-for-her-spider-man-brand-new-day-appearance-and-reveals-her-favorite-line-is-exactly-the-one-youd-expect",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790692088
     },
     {
       "title": "OpenAI says planned GPT-6.1 is too insecure to release",
@@ -380,25 +394,11 @@
       "timestamp": 1790628095
     },
     {
-      "title": "New device captures carbon dioxide by pumping it across a battery",
-      "link": "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790627466
-    },
-    {
       "title": "Five most interesting moments from NBA media days: Nikola Jokić makes declaration, all eyes on new-look 76ers",
       "link": "https://www.cbssports.com/nba/news/nba-media-days-nikola-jokic-76ers/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1790626475
-    },
-    {
-      "title": "To keep drug prices high, pharma has been piling up the patents",
-      "link": "https://arstechnica.com/health/2026/09/to-keep-drug-prices-high-pharma-has-been-piling-up-the-patents/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790625217
     },
     {
       "title": "Spurs' Stephon Castle says Knicks crowd at MSG was 'underwhelming' in NBA Finals, OKC fans were 'way louder'",
