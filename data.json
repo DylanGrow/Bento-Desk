@@ -1,6 +1,139 @@
 {
-  "last_updated": 1790797661,
+  "last_updated": 1790810741,
   "items": [
+    {
+      "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
+      "link": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790809680
+    },
+    {
+      "title": "Rockstar Suggests Disney World and SeaWorld Probably Won't Be in GTA 6",
+      "link": "https://www.ign.com/articles/rockstar-suggests-disney-world-and-seaworld-probably-wont-be-in-gta-6",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790805299
+    },
+    {
+      "title": "Dinosaur-killing impact crater might have been teeming with life",
+      "link": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790805252
+    },
+    {
+      "title": "Fifth unvaccinated person dies of measles; CDC still not counting all deaths",
+      "link": "https://arstechnica.com/health/2026/09/fifth-unvaccinated-person-dies-of-measles-cdc-still-not-counting-all-deaths/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790804274
+    },
+    {
+      "title": "Returning from vacation? The government can search your phone without a warrant.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790803196
+    },
+    {
+      "title": "24 Jump Street Gets December 2027 Release Date, Original Cast Returning",
+      "link": "https://www.ign.com/articles/24-jump-street-gets-december-2027-release-date-original-cast-returning",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790802800
+    },
+    {
+      "title": "Alan Ritchson Confirmed to Star in Helldivers Movie as Release Date Pushed Back",
+      "link": "https://www.ign.com/articles/alan-ritchson-confirmed-to-star-in-helldivers-movie-as-release-date-pushed-back",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790802620
+    },
+    {
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790802460
+    },
+    {
+      "title": "A local network of implants uses your body as the wiring",
+      "link": "https://arstechnica.com/science/2026/09/scientists-built-implants-that-talk-to-each-other-through-body-tissue/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790802416
+    },
+    {
+      "title": "Crimson Desert Charting the Unknown Expansion Delayed Two Weeks",
+      "link": "https://www.ign.com/articles/crimson-desert-charting-the-unknown-expansion-delayed-two-weeks",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790801605
+    },
+    {
+      "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+      "link": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790801088
+    },
+    {
+      "title": "Factory CEO just accused his VC board advisor of spying for Cognition",
+      "link": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790800749
+    },
+    {
+      "title": "GTA 5 Modder Taunts Rockstar With Unofficial Nintendo Switch Port, Gets Cease and Desist from Take-Two",
+      "link": "https://www.ign.com/articles/gta-5-modder-taunts-rockstar-with-unofficial-nintendo-switch-port-gets-cease-and-desist-from-take-two",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790800024
+    },
+    {
+      "title": "New Uncharted Game Featuring Nathan Drake Reportedly in the Works at Naughty Dog",
+      "link": "https://www.ign.com/articles/new-uncharted-game-featuring-nathan-drake-reportedly-in-the-works-at-naughty-dog",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790799775
+    },
+    {
+      "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
+      "link": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790799602
+    },
+    {
+      "title": "Ordering DoorDash Is Too Hard, So an AI Agent Will Soon Be Able to Order Pizza for You",
+      "link": "https://www.ign.com/articles/ordering-doordash-is-too-hard-so-an-ai-agent-will-soon-be-able-to-order-pizza-for-you",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790799249
+    },
+    {
+      "title": "European Commission Calls Out Riot, Activision, Mojang, and More Over In-Game Currency and Transactions",
+      "link": "https://www.ign.com/articles/european-commission-calls-out-riot-activision-mojang-and-more-over-in-game-currency-and-transactions",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790799098
+    },
+    {
+      "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+      "link": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790799068
+    },
+    {
+      "title": "Reddit is putting more limits on Old.Reddit.com",
+      "link": "https://arstechnica.com/gadgets/2026/09/reddit-will-block-old-reddit-com-from-people-who-havent-used-it-in-6-months/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790798013
+    },
     {
       "title": "Jalen Duren contract standoff: Pistons reportedly remove weight clause from $200 million offer",
       "link": "https://www.cbssports.com/nba/news/jalen-duren-contract-standoff-pistons-weight-clause/",
@@ -9,11 +142,25 @@
       "timestamp": 1790797082
     },
     {
+      "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+      "link": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790796685
+    },
+    {
       "title": "Hackers stole millions of US military personnel records during months-long data breach",
       "link": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1790796548
+    },
+    {
+      "title": "The Disney protests were a wake-up call about the risks of streaming mergers",
+      "link": "https://arstechnica.com/gadgets/2026/09/what-the-disney-protests-over-kimmel-taught-us-about-streaming-mergers/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790796139
     },
     {
       "title": "DoorDash’s drone strategy started on the ground",
@@ -44,6 +191,13 @@
       "timestamp": 1790794857
     },
     {
+      "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+      "link": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790794021
+    },
+    {
       "title": "Vincent D’Onofrio Defends Laufey Star Deborah Ann Woll From Gooners Upset That the Game's Armor Sets Don't Show More Skin",
       "link": "https://www.ign.com/articles/vincent-donofrio-defends-laufey-star-deborah-ann-woll-from-gooners-upset-that-the-games-armor-sets-dont-show-more-skin",
       "source": "IGN",
@@ -51,7 +205,7 @@
       "timestamp": 1790793885
     },
     {
-      "title": "Lawsuit demands OpenAI halt unsafe development that caused Hugging Face hack",
+      "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
       "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -163,13 +317,6 @@
       "timestamp": 1790783888
     },
     {
-      "title": "Diablo 5 Game Director Promises a Return to Methodical Character Builds, but Players Don't Believe Him",
-      "link": "https://www.ign.com/articles/diablo-5-game-director-promises-a-return-to-methodical-character-builds-but-players-dont-believe-him",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790783797
-    },
-    {
       "title": "Instinct’s new product recommendations are giving some users the ick",
       "link": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
       "source": "TECHCRUNCH",
@@ -184,25 +331,11 @@
       "timestamp": 1790783692
     },
     {
-      "title": "Ted: The Animated Series Announced With Original Movie Cast Returning",
-      "link": "https://www.ign.com/articles/ted-animated-series-peacock-original-cast-plot-trailer-release-date",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790782200
-    },
-    {
       "title": "FedEx orders 2,000 electric trucks from Harbinger in $300M deal",
       "link": "https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1790781962
-    },
-    {
-      "title": "'This Is Your Dreamcast Moment' — Former PlayStation Boss Offers New Xbox CEO Some Words of Advice",
-      "link": "https://www.ign.com/articles/this-is-your-dreamcast-moment-former-playstation-boss-offers-new-xbox-ceo-some-words-of-advice",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790781513
     },
     {
       "title": "The PS5 hacking scene just took a big leap forward",
@@ -217,69 +350,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1790780500
-    },
-    {
-      "title": "Pokémon Legends: Z-A – Nintendo Switch 2 Edition + Mega Dimension Physical Bundle Announced",
-      "link": "https://www.ign.com/articles/pokemon-legends-z-a-nintendo-switch-2-edition-mega-dimension-physical-bundle-announced",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790780489
-    },
-    {
-      "title": "What butterfly wings have in common with barbershop poles",
-      "link": "https://arstechnica.com/science/2026/09/what-butterfly-wings-have-in-common-with-barbershop-poles/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790780456
-    },
-    {
-      "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
-      "link": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790779855
-    },
-    {
-      "title": "BMW reveals US 3 series pricing: The EV carries a hefty premium",
-      "link": "https://arstechnica.com/cars/2026/09/bmw-opens-us-order-books-for-the-new-gas-and-electric-3-series/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790779378
-    },
-    {
-      "title": "Google launches Fitbit Air in India, though its high price might deter the masses",
-      "link": "https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790778723
-    },
-    {
-      "title": "Instagram rolls out an AI video assistant for creators",
-      "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790778600
-    },
-    {
-      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790778600
-    },
-    {
-      "title": "Avengers: Doomsday Directors Reveal Approximate Runtime, Tease 'Very Surprising Ending'",
-      "link": "https://www.ign.com/articles/avengers-doomsday-directors-reveal-approximate-runtime-tease-very-surprising-ending",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790778408
-    },
-    {
-      "title": "OpenAI delays IPO over AI safety concerns",
-      "link": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790777175
     },
     {
       "title": "Cam Schlittler, Austin Riley open MLB playoffs in style; Pete Prisco's NFL Power Rankings are out",
@@ -303,20 +373,6 @@
       "timestamp": 1790771247
     },
     {
-      "title": "GTA 6: Every Animal Confirmed So Far",
-      "link": "https://www.ign.com/articles/gta-6-every-animal-confirmed-so-far",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790770262
-    },
-    {
-      "title": "28 Years Later Part 3 'Will Get Made,' Danny Boyle Insists — and Cillian Murphy Will Be in It 'A Lot'",
-      "link": "https://www.ign.com/articles/28-years-later-part-3-will-get-made-danny-boyle-insists-and-cillian-murphy-will-be-in-it-a-lot",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790769654
-    },
-    {
       "title": "Mulberry may reshape gut bacteria and influence metabolism",
       "link": "https://www.sciencedaily.com/releases/2026/09/260928100551.htm",
       "source": "SCIENCEDAILY",
@@ -329,20 +385,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1790768071
-    },
-    {
-      "title": "John Carpenter Calls 2011 The Thing Prequel a ‘Piece of Crap,’ but Some Fans Are Rushing to Its Defence",
-      "link": "https://www.ign.com/articles/john-carpenter-calls-2011-the-thing-prequel-a-piece-of-crap-but-some-fans-are-rushing-to-its-defence",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790767333
-    },
-    {
-      "title": "Cloudflare plans to issue quantum-safe TLS certificates",
-      "link": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790766914
     },
     {
       "title": "Black hole jets may decide the fate of entire galaxies",
@@ -394,53 +436,11 @@
       "timestamp": 1790737954
     },
     {
-      "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
-      "link": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790721037
-    },
-    {
       "title": "NBA closing in on choosing ownership for new Las Vegas franchise: When could team debut? What about Seattle?",
       "link": "https://www.cbssports.com/nba/news/nba-expansion-franchise-las-vegas-owner-bids-seattle/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1790719045
-    },
-    {
-      "title": "Protests against OpenAI get increasingly creative",
-      "link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790718778
-    },
-    {
-      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-      "link": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790716489
-    },
-    {
-      "title": "Trump ads paid for by US government allegedly violate anti-propaganda laws",
-      "link": "https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790713420
-    },
-    {
-      "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
-      "link": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790706840
-    },
-    {
-      "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
-      "link": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790705469
     },
     {
       "title": "Forget LASIK: Safer, cheaper vision correction without lasers or incisions",
