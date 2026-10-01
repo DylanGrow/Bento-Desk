@@ -1,6 +1,265 @@
 {
-  "last_updated": 1790853587,
+  "last_updated": 1790877496,
   "items": [
+    {
+      "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+      "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790877019
+    },
+    {
+      "title": "This startup wants to turn idle user car inventory into rental revenue",
+      "link": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790874540
+    },
+    {
+      "title": "Amazon releases its own Jev clone as decision models flood the web",
+      "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790873362
+    },
+    {
+      "title": "Sony Finally Brings AI Upscaling To Base PS5",
+      "link": "https://www.ign.com/articles/sony-finally-brings-ai-upscaling-to-base-ps5",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790873307
+    },
+    {
+      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790873075
+    },
+    {
+      "title": "'These Jobs Are Not Easy': Ex-Star Wars Boss Kathleen Kennedy Admits 'Relief' After Leaving Lucasfilm, Following Turbulent 14-Year Tenure",
+      "link": "https://www.ign.com/articles/these-jobs-are-not-easy-ex-star-wars-boss-kathleen-kennedy-admits-relief-after-leaving-lucasfilm-following-turbulent-14-year-tenure",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790873027
+    },
+    {
+      "title": "California governor vetoes bill banning use of ‘pervert glasses’ to secretly record people",
+      "link": "https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790872525
+    },
+    {
+      "title": "With most information hidden, the game Stratego",
+      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790872084
+    },
+    {
+      "title": "007 First Light's First DLC Out Now, Adds New Game Plus",
+      "link": "https://www.ign.com/articles/007-first-lights-first-dlc-out-now-adds-new-game-plus",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790871792
+    },
+    {
+      "title": "GTA 6 Gets Official ESRB Rating and It's as Mature as You'd Expect",
+      "link": "https://www.ign.com/articles/gta-6-gets-official-esrb-rating-and-its-as-mature-as-youd-expect",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790871539
+    },
+    {
+      "title": "IGN Fan Fest Is Back for Fall 2026 With 90 Exclusive Reveals",
+      "link": "https://www.ign.com/articles/ign-fan-fest-2026-fall-partner-lineup",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790870400
+    },
+    {
+      "title": "One year later, Tesla and Musk still don’t have a good definition of ‘abundance’",
+      "link": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790869810
+    },
+    {
+      "title": "Dexter: Resurrection Season 2's First Trailer Shows Off New Foes, Old Friends, and Dex's Midlife Crisis",
+      "link": "https://www.ign.com/articles/dexter-resurrection-season-2s-first-trailer-shows-off-new-foes-old-friends-and-dexs-midlife-crisis",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790868735
+    },
+    {
+      "title": "As US relations fray, Canada gets serious about its own launch industry",
+      "link": "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790868649
+    },
+    {
+      "title": "Blizzard Cracks Down on Gold Selling in World of Warcraft Forever — and Streamers Are in the Firing Line",
+      "link": "https://www.ign.com/articles/blizzard-cracks-down-on-gold-selling-in-world-of-warcraft-forever-and-streamers-are-in-the-firing-line",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790868211
+    },
+    {
+      "title": "Brian Chesky interview: AI agents need their own operating system",
+      "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790867520
+    },
+    {
+      "title": "Warhammer 40,000: Space Marine 2 Locks Coveted Shield Behind $6 Twitch Sub Paywall and Fans Are Up in Arms",
+      "link": "https://www.ign.com/articles/warhammer-40000-space-marine-2-locks-coveted-shield-behind-6-twitch-sub-paywall-and-fans-are-up-in-arms",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790866881
+    },
+    {
+      "title": "Ben Affleck Tries to Address Matt Damon's Comments About Making Netflix Action Movies, Admits Using AI for 'Lots of Things' in His New Film",
+      "link": "https://www.ign.com/articles/ben-affleck-tries-to-address-matt-damons-comments-about-making-netflix-action-movies-admits-using-ai-for-lots-of-things-in-his-new-film",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790865989
+    },
+    {
+      "title": "Jason Jones, Co-Creator of Halo and Destiny and Co-Founder of Bungie, Announces New Studio",
+      "link": "https://www.ign.com/articles/jason-jones-co-creator-of-halo-and-destiny-and-co-founder-of-bungie-announces-new-studio",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790865757
+    },
+    {
+      "title": "Every New LEGO Set Releasing in October",
+      "link": "https://www.ign.com/articles/every-new-lego-set-october-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790865275
+    },
+    {
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790863200
+    },
+    {
+      "title": "This giant stick insect fooled scientists for decades",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790863162
+    },
+    {
+      "title": "New “plant armor” more than triples strawberry yields",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930020257.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790862195
+    },
+    {
+      "title": "GTA 6 Lights Up Miami's Kaseya Center",
+      "link": "https://www.ign.com/articles/gta-6-kaseya-center",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790862135
+    },
+    {
+      "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790860633
+    },
+    {
+      "title": "Hearing tech startup Legato launches its AI hearing glasses",
+      "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790859600
+    },
+    {
+      "title": "Audible’s new features let you explore book worlds — and use AI to talk to characters",
+      "link": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790859600
+    },
+    {
+      "title": "The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader",
+      "link": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790859600
+    },
+    {
+      "title": "Amazon introduces Kindle Click, a $35 remote for turning pages",
+      "link": "https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790859600
+    },
+    {
+      "title": "This diet may slow brain aging by 2.5 years",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790857607
+    },
+    {
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790856000
+    },
+    {
+      "title": "After 'Crunching Hard' Through Their Final Months, Gears of War: E-Day Developers Are Reportedly Now Expecting Layoffs",
+      "link": "https://www.ign.com/articles/after-crunching-hard-through-their-final-months-gears-of-war-e-day-developers-are-reportedly-now-expecting-layoffs",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790855950
+    },
+    {
+      "title": "Gears of War: E-Day Missing Classic Features From Original Games",
+      "link": "https://www.ign.com/articles/gears-of-war-e-day-missing-meat-shields",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790854491
+    },
+    {
+      "title": "PS5 emulation is suddenly making big strides on PC",
+      "link": "https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790854241
+    },
+    {
+      "title": "NASA squeezed Treasury, vibe coded, and broke the mold in bid to save Swift",
+      "link": "https://arstechnica.com/space/2026/10/heres-why-nasa-is-celebrating-the-failed-mission-to-save-the-swift-observatory/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790853315
+    },
+    {
+      "title": "Could quitting ultra-processed food boost your mental health?",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930225448.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790836441
+    },
+    {
+      "title": "Alzheimer’s risk gene APOE4 may have a reversible weakness",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930225450.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790829926
+    },
     {
       "title": "LEGO PlayStation Is Now Available for LEGO Insiders",
       "link": "https://www.ign.com/articles/lego-playstation-is-now-available-for-lego-insiders",
@@ -9,7 +268,21 @@
       "timestamp": 1790827260
     },
     {
-      "title": "\"Extraction is Still a Major Part of Marathon\" – Marathon Game Director Reassures Fans Main Game Mode Isn't Going Anywhere",
+      "title": "Caltech physicists finally measure a quantum energy ladder predicted 40 years ago",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260928100554.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790824016
+    },
+    {
+      "title": "This common mistake can add nearly 7 points to your blood pressure reading",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260928100606.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790820711
+    },
+    {
+      "title": "'Extraction Is Still a Major Part of Marathon' – Marathon Game Director Reassures Fans Main Game Mode Isn't Going Anywhere",
       "link": "https://www.ign.com/articles/extraction-is-still-a-major-part-of-marathon-marathon-game-director-reassures-fans-main-game-mode-isnt-going-anywhere",
       "source": "IGN",
       "category": "gaming",
@@ -28,13 +301,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1790809680
-    },
-    {
-      "title": "Rockstar Suggests Disney World and SeaWorld Probably Won't Be in GTA 6",
-      "link": "https://www.ign.com/articles/rockstar-suggests-disney-world-and-seaworld-probably-wont-be-in-gta-6",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790805299
     },
     {
       "title": "Dinosaur-killing impact crater might have been teeming with life",
@@ -58,20 +324,6 @@
       "timestamp": 1790803196
     },
     {
-      "title": "24 Jump Street Gets December 2027 Release Date, Original Cast Returning",
-      "link": "https://www.ign.com/articles/24-jump-street-gets-december-2027-release-date-original-cast-returning",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790802800
-    },
-    {
-      "title": "Alan Ritchson Confirmed to Star in Helldivers Movie as Release Date Pushed Back",
-      "link": "https://www.ign.com/articles/alan-ritchson-confirmed-to-star-in-helldivers-movie-as-release-date-pushed-back",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790802620
-    },
-    {
       "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
       "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
       "source": "TECHCRUNCH",
@@ -86,60 +338,11 @@
       "timestamp": 1790802416
     },
     {
-      "title": "Crimson Desert Charting the Unknown Expansion Delayed Two Weeks",
-      "link": "https://www.ign.com/articles/crimson-desert-charting-the-unknown-expansion-delayed-two-weeks",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790801605
-    },
-    {
       "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
       "link": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1790801088
-    },
-    {
-      "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
-      "link": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790800749
-    },
-    {
-      "title": "GTA 5 Modder Taunts Rockstar With Unofficial Nintendo Switch Port, Gets Cease and Desist from Take-Two",
-      "link": "https://www.ign.com/articles/gta-5-modder-taunts-rockstar-with-unofficial-nintendo-switch-port-gets-cease-and-desist-from-take-two",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790800024
-    },
-    {
-      "title": "New Uncharted Game Featuring Nathan Drake Reportedly in the Works at Naughty Dog",
-      "link": "https://www.ign.com/articles/new-uncharted-game-featuring-nathan-drake-reportedly-in-the-works-at-naughty-dog",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790799775
-    },
-    {
-      "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
-      "link": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790799602
-    },
-    {
-      "title": "Ordering DoorDash Is Too Hard, So an AI Agent Will Soon Be Able to Order Pizza for You",
-      "link": "https://www.ign.com/articles/ordering-doordash-is-too-hard-so-an-ai-agent-will-soon-be-able-to-order-pizza-for-you",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790799249
-    },
-    {
-      "title": "European Commission Calls Out Riot, Activision, Mojang, and More Over In-Game Currency and Transactions",
-      "link": "https://www.ign.com/articles/european-commission-calls-out-riot-activision-mojang-and-more-over-in-game-currency-and-transactions",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790799098
     },
     {
       "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
@@ -170,46 +373,11 @@
       "timestamp": 1790796685
     },
     {
-      "title": "Hackers stole millions of US military personnel records during months-long data breach",
-      "link": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790796548
-    },
-    {
       "title": "The Disney protests were a wake-up call about the risks of streaming mergers",
       "link": "https://arstechnica.com/gadgets/2026/09/what-the-disney-protests-over-kimmel-taught-us-about-streaming-mergers/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1790796139
-    },
-    {
-      "title": "DoorDash’s drone strategy started on the ground",
-      "link": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790796133
-    },
-    {
-      "title": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
-      "link": "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790795980
-    },
-    {
-      "title": "MTG Corn Maze Secret Lair Superdrop Brings Jim Henson's Labyrinth, KPop Demon Hunters, and Marvel Zombies to Magic",
-      "link": "https://www.ign.com/articles/mtg-corn-maze-secret-lair-superdrop-brings-jim-hensons-labyrinth-kpop-demon-hunters-and-marvel-zombies-to-magic",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790795135
-    },
-    {
-      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-      "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790794857
     },
     {
       "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
@@ -219,60 +387,11 @@
       "timestamp": 1790794021
     },
     {
-      "title": "Vincent D’Onofrio Defends Laufey Star Deborah Ann Woll From Gooners Upset That the Game's Armor Sets Don't Show More Skin",
-      "link": "https://www.ign.com/articles/vincent-donofrio-defends-laufey-star-deborah-ann-woll-from-gooners-upset-that-the-games-armor-sets-dont-show-more-skin",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790793885
-    },
-    {
       "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
       "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1790792704
-    },
-    {
-      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790792637
-    },
-    {
-      "title": "'Xbox Is Not for Sale' — Asha Sharma Denies Reports That Microsoft Is Considering Selling Its Gaming Business",
-      "link": "https://www.ign.com/articles/xbox-is-not-for-sale-asha-sharma-denies-reports-that-microsoft-is-considering-selling-its-gaming-business",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790791858
-    },
-    {
-      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-      "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790790300
-    },
-    {
-      "title": "The ugly economics of consumer AI",
-      "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790789085
-    },
-    {
-      "title": "'We Have Been Gradually Preparing': Capcom Already Has a Plan for When Its Resident Evil Remakes Catch Up With Newer Games",
-      "link": "https://www.ign.com/articles/we-have-been-gradually-preparing-capcom-already-has-a-plan-for-when-its-resident-evil-remakes-catch-up-with-newer-games",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790788235
-    },
-    {
-      "title": "Microsoft's Deal for Hideo Kojima's Physint 'Substantially Below What Xbox Would Typically Spend to Develop a Premium Game'",
-      "link": "https://www.ign.com/articles/microsofts-deal-for-hideo-kojimas-physint-substantially-below-what-xbox-would-typically-spend-to-develop-a-premium-game",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790787191
     },
     {
       "title": "So what's happening with Russia's new, long-delayed crewed spacecraft?",
@@ -282,74 +401,11 @@
       "timestamp": 1790786936
     },
     {
-      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
-      "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790785463
-    },
-    {
-      "title": "PlayStation Plus Monthly Games for October 2026 Announced",
-      "link": "https://www.ign.com/articles/playstation-plus-monthly-games-for-october-2026-announced",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790785232
-    },
-    {
-      "title": "Google's early attempt to pay websites for AI answers is struggling",
-      "link": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790784228
-    },
-    {
-      "title": "DoorDash launches an AI agent you can text to order food",
-      "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790784024
-    },
-    {
-      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
-      "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790784000
-    },
-    {
       "title": "Two-time NBA champion JR Smith arrested on assault charge in Texas",
       "link": "https://www.cbssports.com/nba/news/jr-smith-arrested-assault-charge-texas/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1790783931
-    },
-    {
-      "title": "Instinct’s new product recommendations are giving some users the ick",
-      "link": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790783788
-    },
-    {
-      "title": "Google figures out how to watermark AI-designed proteins",
-      "link": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790783692
-    },
-    {
-      "title": "The PS5 hacking scene just took a big leap forward",
-      "link": "https://arstechnica.com/gaming/2026/09/ps5-jailbreaks-just-got-a-lot-more-useful/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790781166
-    },
-    {
-      "title": "Discord gives more advertisers more tools to target its users",
-      "link": "https://arstechnica.com/gadgets/2026/09/discord-gives-advertisers-more-tools-to-target-its-users/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790780500
     },
     {
       "title": "Cam Schlittler, Austin Riley open MLB playoffs in style; Pete Prisco's NFL Power Rankings are out",
@@ -415,67 +471,11 @@
       "timestamp": 1790745156
     },
     {
-      "title": "NASA’s Curiosity rover just hit 5,000 days on Mars and sent back this stunning view",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260928100556.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790742874
-    },
-    {
-      "title": "Sharks can hear nearly 250 feet away and pinpoint the source",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260929053536.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790740713
-    },
-    {
-      "title": "Creatine may help build muscle even without exercise, researchers find",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260928100547.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790737954
-    },
-    {
       "title": "NBA closing in on choosing ownership for new Las Vegas franchise: When could team debut? What about Seattle?",
       "link": "https://www.cbssports.com/nba/news/nba-expansion-franchise-las-vegas-owner-bids-seattle/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1790719045
-    },
-    {
-      "title": "Forget LASIK: Safer, cheaper vision correction without lasers or incisions",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260927034004.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790686380
-    },
-    {
-      "title": "Children at risk for depression get “stuck” on sad faces",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260927225022.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790685412
-    },
-    {
-      "title": "Quantum teleportation breakthrough: Scientists crack a 25-year entanglement challenge",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260929053550.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790683350
-    },
-    {
-      "title": "This 245-million-year-old fossil still has its stomach and intestines",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260927225036.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790681967
-    },
-    {
-      "title": "Brain scans reveal which disorders are linked to faster brain aging",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260927225038.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790679678
     },
     {
       "title": "Spurs star Dylan Harper, heading into Year 2, already knows he's too good to come off the bench",
