@@ -1,12 +1,152 @@
 {
-  "last_updated": 1790954422,
+  "last_updated": 1790972363,
   "items": [
+    {
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790968551
+    },
+    {
+      "title": "Research roundup: 6 cool science stories we almost missed",
+      "link": "https://arstechnica.com/science/2026/10/research-roundup-6-cool-science-stories-we-almost-missed-6/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790965047
+    },
+    {
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790964687
+    },
+    {
+      "title": "Ex-Rockstar Boss Dan Houser Doesn't Play a Lot of Open-World Games – and Doesn't Plan to Play GTA 6",
+      "link": "https://www.ign.com/articles/ex-rockstar-boss-dan-houser-doesnt-play-a-lot-of-open-world-games-and-doesnt-plan-to-play-gta-6",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790964629
+    },
+    {
+      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790963296
+    },
+    {
+      "title": "GTA 6 Age Rating Confirms New Details on Sex, Drug Use, Decapitation, and More",
+      "link": "https://www.ign.com/articles/gta-6-age-rating-confirms-new-details-on-sex-drug-use-decapitation-and-more",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790962652
+    },
+    {
+      "title": "US military ends long-running program to spot nuclear missile launches",
+      "link": "https://arstechnica.com/space/2026/10/us-military-ends-long-running-program-to-spot-nuclear-missile-launches/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790962334
+    },
     {
       "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
       "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
       "source": "TECHCRUNCH",
       "category": "tech",
-      "timestamp": 1790953200
+      "timestamp": 1790962325
+    },
+    {
+      "title": "How I kept cool with NYC's free battery program for window AC units",
+      "link": "https://arstechnica.com/gadgets/2026/10/how-i-kept-cool-with-nycs-free-battery-program-for-window-ac-units/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790961621
+    },
+    {
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790960400
+    },
+    {
+      "title": "Disney+ Shows and Movies Are Now Headed to Netflix, Including Ice Age and Percy Jackson",
+      "link": "https://www.ign.com/articles/disney-licenses-netflix",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790957459
+    },
+    {
+      "title": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3",
+      "link": "https://arstechnica.com/cars/2026/10/tesla-sales-drop-2-percent-in-underwhelming-q3-2026/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790957126
+    },
+    {
+      "title": "James Gunn's DCU Reportedly Safe Following Paramount-Warner Bros. Merger, for Now at Least",
+      "link": "https://www.ign.com/articles/james-gunns-dcu-reportedly-safe-following-paramount-warner-bros-merger-for-now-at-least",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790956436
+    },
+    {
+      "title": "Paramount and Warner Bros. Discovery to become Skydance",
+      "link": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790956430
+    },
+    {
+      "title": "Brand New GTA 6 Screenshots Focus on Lucia and Jason's Relationship",
+      "link": "https://www.ign.com/articles/brand-new-gta-6-screenshots-focus-on-lucia-and-jasons-relationship",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790956246
+    },
+    {
+      "title": "Pope Leo XIV is not a fan of AI-generated art",
+      "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790955581
+    },
+    {
+      "title": "Laytr’s new app lets you save anything you find online, not just articles to read",
+      "link": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790955080
+    },
+    {
+      "title": "Pokémon TCG Reportedly Launching First-Ever Valentine’s Day Set in 2027",
+      "link": "https://www.ign.com/articles/the-pokemon-company-is-reportedly-dropping-its-first-ever-valentines-day-tcg-set-in-2027",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790953719
+    },
+    {
+      "title": "Blizzard Adds Beloved 'Kyle's Gone Missing' Quest to World of Warcraft: Forever",
+      "link": "https://www.ign.com/articles/blizzard-adds-beloved-kyles-gone-missing-quest-to-world-of-warcraft-forever",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790953676
+    },
+    {
+      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
+      "link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790952736
+    },
+    {
+      "title": "System Shock 2 Remaster Is Free to Keep on the Epic Games Store Right Now",
+      "link": "https://www.ign.com/articles/system-shock-2-remaster-is-free-to-keep-on-the-epic-games-store-right-now",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790952478
     },
     {
       "title": "Slovenia’s .si domain sees a surge in registrations after Trump’s ‘super intelligence’ order",
@@ -30,7 +170,7 @@
       "timestamp": 1790950307
     },
     {
-      "title": "Batman, Lord of the Rings and Harry Potter Feature in First Trailer for Skydance, The Newly-Named Parent Company For a Merged Warner Bros. and Paramount",
+      "title": "Batman, Lord of the Rings, and Harry Potter Feature in First Trailer for Skydance, the Newly Named Parent Company for a Merged Warner Bros. and Paramount",
       "link": "https://www.ign.com/articles/batman-lord-of-the-rings-and-harry-potter-feature-in-first-trailer-for-skydance-the-newly-named-parent-company-for-a-merged-warner-bros-and-paramount",
       "source": "IGN",
       "category": "gaming",
@@ -49,6 +189,13 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1790949600
+    },
+    {
+      "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
+      "link": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790949274
     },
     {
       "title": "Tesla sustains its EV sales momentum despite US troubles",
@@ -93,7 +240,7 @@
       "timestamp": 1790944048
     },
     {
-      "title": "Ben Affleck Says There's 'Nobody Alive' Who Believes US Politics is Going Well — And Explains Why He Won't Personally Run for Office",
+      "title": "Ben Affleck Says There's 'Nobody Alive' Who Believes US Politics Is Going Well — And Explains Why He Won't Personally Run for Office",
       "link": "https://www.ign.com/articles/ben-affleck-says-theres-nobody-alive-who-believes-us-politics-is-going-well-and-explains-why-he-wont-personally-run-for-office",
       "source": "IGN",
       "category": "gaming",
@@ -107,7 +254,7 @@
       "timestamp": 1790942859
     },
     {
-      "title": "'I've Buried It Deep': X-Men Actor Says He Knew Sony's Spider-Man Spinoff Kraven Wasn't 'Going Well' During Filming",
+      "title": "'I've Buried It Deep': X-Men Actor Says He Knew Sony's Spider-Man Spin-Off Kraven Wasn't 'Going Well' During Filming",
       "link": "https://www.ign.com/articles/ive-buried-it-deep-x-men-actor-says-he-knew-sonys-spider-man-spinoff-kraven-wasnt-going-well-during-filming",
       "source": "IGN",
       "category": "gaming",
@@ -135,34 +282,6 @@
       "timestamp": 1790935770
     },
     {
-      "title": "Disney President Reacts to Live-Action Moana Flop, Says It Was an 'Excellent Film' Hit by 'Unusual Circumstances'",
-      "link": "https://www.ign.com/articles/disney-president-reacts-to-live-action-moana-flop-says-it-was-an-excellent-film-hit-by-unusual-circumstances",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790934293
-    },
-    {
-      "title": "Avengers: Secret Wars Filming Delay Reports Spark Concern That Marvel's Multiverse Saga Finale May Be Postponed",
-      "link": "https://www.ign.com/articles/avengers-secret-wars-filming-delay-reports-spark-concern-that-marvels-multiverse-saga-finale-may-be-delayed",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790930892
-    },
-    {
-      "title": "Person Behind Viral AI-Generated Fallout: New York Game Hauls It Offline, Says Bethesda Issued Cease and Desist",
-      "link": "https://www.ign.com/articles/person-behind-viral-ai-generated-fallout-new-york-game-hauls-it-offline-says-bethesda-issued-cease-and-desist",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790929786
-    },
-    {
-      "title": "Justin Wong and IFC Yipes Literally Commentate Ryu's Match Against Blanka in the Street Fighter Movie",
-      "link": "https://www.ign.com/articles/justin-wong-and-ifc-yipes-literally-commentate-ryus-match-against-blanka-in-the-street-fighter-movie",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790925969
-    },
-    {
       "title": "Trail Blazers fire new announcer hours after hiring him over social media posts he made as a teen",
       "link": "https://www.cbssports.com/nba/news/blazers-fire-new-announcer-hours-after-hiring-him-braiden-bell/",
       "source": "CBSSPORTS",
@@ -175,48 +294,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1790908654
-    },
-    {
-      "title": "Robotaxi operators will face fines for blocking first responders",
-      "link": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790902677
-    },
-    {
-      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-      "link": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790899403
-    },
-    {
-      "title": "Doom: The Dark Ages - Revelations Getting New 'Slaughter Mode' as Free Update Next Month",
-      "link": "https://www.ign.com/articles/doom-the-dark-ages-revelations-getting-new-slaughter-mode-as-free-update-next-month",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790899200
-    },
-    {
-      "title": "Fast & Furious TV Show Greenlit at Peacock, With Vin Diesel as Executive Producer",
-      "link": "https://www.ign.com/articles/fast-furious-tv-show-greenlit-at-peacock-with-vin-diesel-as-executive-producer",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790897876
-    },
-    {
-      "title": "Viral Short Horror Film Portrait of God Gets Feature Length Movie Starring Chase Infiniti",
-      "link": "https://www.ign.com/articles/viral-short-horror-film-portrait-of-god-gets-feature-length-movie-starring-chase-infiniti",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790896197
-    },
-    {
-      "title": "Lanterns Rakes In More Than 18 Million Views Per Episode Globally As Season Finale Approaches",
-      "link": "https://www.ign.com/articles/lanterns-rakes-in-more-than-18-million-views-per-episode-globally-as-season-finale-approaches",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790894020
     },
     {
       "title": "Venus' mysterious haze is actually cosmic dust",
@@ -233,27 +310,6 @@
       "timestamp": 1790892453
     },
     {
-      "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
-      "link": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790891828
-    },
-    {
-      "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
-      "link": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790891722
-    },
-    {
-      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
-      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790888891
-    },
-    {
       "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
       "link": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
       "source": "ARSTECHNICA",
@@ -268,25 +324,11 @@
       "timestamp": 1790885515
     },
     {
-      "title": "ChatGPT can now virtually try on clothes for you",
-      "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790882513
-    },
-    {
       "title": "Can good design stop content creators from having sex in robotaxis?",
       "link": "https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1790882382
-    },
-    {
-      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-      "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790882283
     },
     {
       "title": "Marvel releases one last VisionQuest trailer",
@@ -317,13 +359,6 @@
       "timestamp": 1790872084
     },
     {
-      "title": "As US relations fray, Canada gets serious about its own launch industry",
-      "link": "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790868649
-    },
-    {
       "title": "This giant stick insect fooled scientists for decades",
       "link": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
       "source": "SCIENCEDAILY",
@@ -352,20 +387,6 @@
       "timestamp": 1790857607
     },
     {
-      "title": "PS5 emulation is suddenly making big strides on PC",
-      "link": "https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790854241
-    },
-    {
-      "title": "NASA squeezed Treasury, vibe coded, and broke the mold in bid to save Swift",
-      "link": "https://arstechnica.com/space/2026/10/heres-why-nasa-is-celebrating-the-failed-mission-to-save-the-swift-observatory/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790853315
-    },
-    {
       "title": "Could quitting ultra-processed food boost your mental health?",
       "link": "https://www.sciencedaily.com/releases/2026/09/260930225448.htm",
       "source": "SCIENCEDAILY",
@@ -392,27 +413,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1790820711
-    },
-    {
-      "title": "Dinosaur-killing impact crater might have been teeming with life",
-      "link": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790805252
-    },
-    {
-      "title": "Fifth unvaccinated person dies of measles; CDC still not counting all deaths",
-      "link": "https://arstechnica.com/health/2026/09/fifth-unvaccinated-person-dies-of-measles-cdc-still-not-counting-all-deaths/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790804274
-    },
-    {
-      "title": "Returning from vacation? The government can search your phone without a warrant.",
-      "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790803196
     },
     {
       "title": "Jalen Duren contract standoff: Pistons reportedly remove weight clause from $200 million offer",
