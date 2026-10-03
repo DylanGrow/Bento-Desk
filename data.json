@@ -1,12 +1,82 @@
 {
-  "last_updated": 1790972363,
+  "last_updated": 1790986075,
   "items": [
+    {
+      "title": "Former NFL Coach Mike Tomlin Is a Hardcore Minecraft Player, Reveals City He Took 12 Years to Build",
+      "link": "https://www.ign.com/articles/former-nfl-coach-mike-tomlin-is-a-hardcore-minecraft-player-reveals-city-he-took-12-years-to-build",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790981210
+    },
+    {
+      "title": "Someone got Doom in an SQL database",
+      "link": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790975945
+    },
+    {
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1790975354
+    },
+    {
+      "title": "Disney Says Conversations About Buying Epic Games Are Not Happening 'Right Now'",
+      "link": "https://www.ign.com/articles/disney-says-conversations-about-buying-epic-games-are-not-happening-right-now",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1790974920
+    },
+    {
+      "title": "The Blazers have a starting lineup dilemma with a clear solution: Bring Ja Morant off the bench",
+      "link": "https://www.cbssports.com/nba/news/blazers-ja-morant-starting-lineup-dilemma-damian-lillard-deni-avdija/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1790973961
+    },
+    {
+      "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+      "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790973027
+    },
+    {
+      "title": "Patient-zero drill put health facilities to the test—40% of them failed",
+      "link": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790971679
+    },
     {
       "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
       "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1790968551
+    },
+    {
+      "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
+      "link": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790968189
+    },
+    {
+      "title": "The 2008 economic crisis changed the US's relationship with energy",
+      "link": "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790967381
+    },
+    {
+      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+      "link": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1790966376
     },
     {
       "title": "Research roundup: 6 cool science stories we almost missed",
@@ -219,13 +289,6 @@
       "timestamp": 1790947025
     },
     {
-      "title": "Rivian issues R2 recall for poorly tightened battery packs",
-      "link": "https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790945411
-    },
-    {
       "title": "Grading Jalen Duren's $200 million contract: Pistons pay up to keep All-NBA center",
       "link": "https://www.cbssports.com/nba/news/grading-jalen-duren-contract-pistons-pay-up/",
       "source": "CBSSPORTS",
@@ -261,25 +324,11 @@
       "timestamp": 1790939240
     },
     {
-      "title": "With a Smirk, Robert Pattinson Calls Michael Bay's Transformers 'The Definitive Movie of the 2000s'",
-      "link": "https://www.ign.com/articles/robert-pattinson-transformers-definitive-movie-2000s",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790939149
-    },
-    {
       "title": "TCL is right to question Samsung’s use of the term “Mini LED”",
       "link": "https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1790937011
-    },
-    {
-      "title": "Modder Deliberately Corrupts Their Own Hugely Popular Total War: Warhammer III Mod as Row Over AI Escalates",
-      "link": "https://www.ign.com/articles/modder-deliberately-corrupts-their-own-hugely-popular-total-war-warhammer-iii-mod-as-row-over-ai-escalates",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790935770
     },
     {
       "title": "Trail Blazers fire new announcer hours after hiring him over social media posts he made as a teen",
@@ -315,48 +364,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1790886525
-    },
-    {
-      "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
-      "link": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790885515
-    },
-    {
-      "title": "Can good design stop content creators from having sex in robotaxis?",
-      "link": "https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790882382
-    },
-    {
-      "title": "Marvel releases one last VisionQuest trailer",
-      "link": "https://arstechnica.com/culture/2026/10/marvel-releases-one-last-visionquest-trailer/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790877888
-    },
-    {
-      "title": "Memory executives expect RAM shortage to continue through 2028",
-      "link": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790876996
-    },
-    {
-      "title": "Florida cops say they don't know who owns 11 unpermitted Flock cameras",
-      "link": "https://arstechnica.com/tech-policy/2026/10/florida-cops-say-they-dont-know-who-owns-11-unpermitted-flock-cameras/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790873373
-    },
-    {
-      "title": "With most information hidden, the game Stratego had stumped AI—until now",
-      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790872084
     },
     {
       "title": "This giant stick insect fooled scientists for decades",
@@ -553,13 +560,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1790607032
-    },
-    {
-      "title": "Bulls-Hornets trade: Chicago adds shooting in Buddy Hield as Charlotte takes flier on Rob Dillingham",
-      "link": "https://www.cbssports.com/nba/news/bulls-hornets-trade-buddy-hield-rob-dillingham/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1790460071
     }
   ]
 }
