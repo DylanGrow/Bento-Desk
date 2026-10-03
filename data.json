@@ -1,6 +1,90 @@
 {
-  "last_updated": 1791027134,
+  "last_updated": 1791042049,
   "items": [
+    {
+      "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+      "link": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791039721
+    },
+    {
+      "title": "Vessev built an electric ferry that almost flies",
+      "link": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791038520
+    },
+    {
+      "title": "All the AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791036000
+    },
+    {
+      "title": "Spotify billionaire’s body scan startup has come to America",
+      "link": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791036000
+    },
+    {
+      "title": "This protective enzyme could help stop fatty liver disease from getting worse",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1791035171
+    },
+    {
+      "title": "ESA’s Juice just used Earth as a slingshot to Jupiter",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1791034451
+    },
+    {
+      "title": "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1791033134
+    },
+    {
+      "title": "Powerful simulations reveal how the first stars changed the universe",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261001214012.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1791031857
+    },
+    {
+      "title": "Leucine does more than build muscle. It powers up your cells",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261001095319.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1791030795
+    },
+    {
+      "title": "Your gut may be making a molecule that raises Alzheimer’s risk",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930225459.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1791029601
+    },
+    {
+      "title": "Scientists just made a superconductor stronger using “empty space”",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930225456.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1791029003
+    },
+    {
+      "title": "The dawn of the age of the exoskeleton",
+      "link": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791026133
+    },
     {
       "title": "Love and Deepspace Devs Issue Warning to Players After Deadly Drink Recipes Go Viral",
       "link": "https://www.ign.com/articles/love-and-deepspace-devs-issue-warning-to-players-after-deadly-drink-recipes-go-viral",
@@ -261,13 +345,6 @@
       "timestamp": 1790952466
     },
     {
-      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790951400
-    },
-    {
       "title": "The Miami Heat Will Wear GTA 6-Themed Uniforms in a November Match Against Milwaukee",
       "link": "https://www.ign.com/articles/miami-heat-gta-6-uniform",
       "source": "IGN",
@@ -282,32 +359,11 @@
       "timestamp": 1790950185
     },
     {
-      "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-      "link": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790949600
-    },
-    {
-      "title": "Less than 24 hours to apply for a  Side Event at Founder Summit 2026",
-      "link": "https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790949600
-    },
-    {
       "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
       "link": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1790949274
-    },
-    {
-      "title": "Tesla sustains its EV sales momentum despite US troubles",
-      "link": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790948363
     },
     {
       "title": "Grading Jalen Duren's $200 million contract: Pistons pay up to keep All-NBA center",
@@ -324,11 +380,46 @@
       "timestamp": 1790944048
     },
     {
+      "title": "NASA’s Roman telescope just opened its planet-hunting eye",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261001214057.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790943690
+    },
+    {
       "title": "Ben Affleck Says There's 'Nobody Alive' Who Believes US Politics Is Going Well — And Explains Why He Won't Personally Run for Office",
       "link": "https://www.ign.com/articles/ben-affleck-says-theres-nobody-alive-who-believes-us-politics-is-going-well-and-explains-why-he-wont-personally-run-for-office",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1790942895
+    },
+    {
+      "title": "97-million-year-old fossils reveal the earliest known animal “GPS”",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930020329.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790942074
+    },
+    {
+      "title": "The early universe wasn’t nearly as pristine as scientists thought",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930225443.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790940247
+    },
+    {
+      "title": "Scientists just pushed superconductors beyond their usual current limit",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930225452.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790939292
+    },
+    {
+      "title": "Cancer stem cells have an “energy addiction” scientists may be able to exploit",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930020319.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790937479
     },
     {
       "title": "TCL is right to question Samsung’s use of the term “Mini LED”",
@@ -338,11 +429,25 @@
       "timestamp": 1790937011
     },
     {
+      "title": "Scientists find an “earthquake gate” as California fault stress hits a 1,000-year high",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261001095521.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790917090
+    },
+    {
       "title": "Trail Blazers fire new announcer hours after hiring him over social media posts he made as a teen",
       "link": "https://www.cbssports.com/nba/news/blazers-fire-new-announcer-hours-after-hiring-him-braiden-bell/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1790917075
+    },
+    {
+      "title": "Electrons slow to a crawl in a strange new quantum state",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260929053548.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790910608
     },
     {
       "title": "Jalen Duren, Pistons reportedly agree to five-year, $200 million contract, ending monthslong stalemate",
@@ -352,74 +457,25 @@
       "timestamp": 1790908654
     },
     {
+      "title": "Scientists may have found a “unifying theory” of chronic fatigue",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260929053543.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790906384
+    },
+    {
+      "title": "One tiny chemical difference between RNA and DNA may help explain how life began",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260929053546.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1790904103
+    },
+    {
       "title": "Venus' mysterious haze is actually cosmic dust",
       "link": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1790893624
-    },
-    {
-      "title": "SpaceX describes surgical intervention before launch of latest crew mission",
-      "link": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790892453
-    },
-    {
-      "title": "This giant stick insect fooled scientists for decades",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790863162
-    },
-    {
-      "title": "New “plant armor” more than triples strawberry yields",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930020257.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790862195
-    },
-    {
-      "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790860633
-    },
-    {
-      "title": "This diet may slow brain aging by 2.5 years",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790857607
-    },
-    {
-      "title": "Could quitting ultra-processed food boost your mental health?",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930225448.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790836441
-    },
-    {
-      "title": "Alzheimer’s risk gene APOE4 may have a reversible weakness",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930225450.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790829926
-    },
-    {
-      "title": "Caltech physicists finally measure a quantum energy ladder predicted 40 years ago",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260928100554.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790824016
-    },
-    {
-      "title": "This common mistake can add nearly 7 points to your blood pressure reading",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260928100606.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790820711
     },
     {
       "title": "Jalen Duren contract standoff: Pistons reportedly remove weight clause from $200 million offer",
@@ -441,62 +497,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1790773024
-    },
-    {
-      "title": "Cannabis users were twice as likely to commit violence, review finds",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930020255.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790772541
-    },
-    {
-      "title": "A record-breaking X-ray flash may reveal the birth of a magnetar",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930020252.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790771247
-    },
-    {
-      "title": "Mulberry may reshape gut bacteria and influence metabolism",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260928100551.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790768742
-    },
-    {
-      "title": "NASA's Perseverance Mars rover finds groundwater, lakes, and hot fluids in one place",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260928100537.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790768071
-    },
-    {
-      "title": "Black hole jets may decide the fate of entire galaxies",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260928100527.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790765519
-    },
-    {
-      "title": "Pompeii’s 2,000-year-old eruption just gave scientists a better clock for Earth’s past",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260928100531.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790761061
-    },
-    {
-      "title": "Watch Live: NASA’s Crew-13 could make the fastest U.S. trip to the ISS ever",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930020312.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790757402
-    },
-    {
-      "title": "Bats may have first evolved in Europe 65 million years ago",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260929053531.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1790745156
     },
     {
       "title": "NBA closing in on choosing ownership for new Las Vegas franchise: When could team debut? What about Seattle?",
