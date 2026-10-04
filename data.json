@@ -1,6 +1,48 @@
 {
-  "last_updated": 1791126429,
+  "last_updated": 1791140436,
   "items": [
+    {
+      "title": "Tom Cruise's Digger Bombs Hard With $20 Million Global Opening in Theaters",
+      "link": "https://www.ign.com/articles/tom-cruises-digger-bombs-hard-with-20-million-global-opening-in-theaters",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791139617
+    },
+    {
+      "title": "Avengers: Endgame Beats Avatar to Become the Highest-Grossing Movie of All Time (Again)",
+      "link": "https://www.ign.com/articles/avengers-endgame-beats-avatar-to-become-the-highest-grossing-movie-of-all-time-again",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791135274
+    },
+    {
+      "title": "TechCrunch Mobility: Reining in robotaxis",
+      "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791129900
+    },
+    {
+      "title": "SNL Weighs in on GTA 6 vs. The Legend of Zelda With Skit Featuring Jason and Link",
+      "link": "https://www.ign.com/articles/snl-weighs-in-on-gta-6-vs-the-legend-of-zelda-with-skit-featuring-jason-and-link",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791129314
+    },
+    {
+      "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
+      "link": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791128054
+    },
+    {
+      "title": "Trump unveils his new Super Intelligence Force",
+      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791126910
+    },
     {
       "title": "A meteor hit Oklahoma 100 million years later than scientists thought",
       "link": "https://www.sciencedaily.com/releases/2026/10/261002080012.htm",
@@ -387,20 +429,6 @@
       "timestamp": 1790961621
     },
     {
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-      "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790960400
-    },
-    {
-      "title": "Disney+ Shows and Movies Are Now Headed to Netflix, Including Ice Age and Percy Jackson",
-      "link": "https://www.ign.com/articles/disney-licenses-netflix",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790957459
-    },
-    {
       "title": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3",
       "link": "https://arstechnica.com/cars/2026/10/tesla-sales-drop-2-percent-in-underwhelming-q3-2026/",
       "source": "ARSTECHNICA",
@@ -408,39 +436,11 @@
       "timestamp": 1790957126
     },
     {
-      "title": "James Gunn's DCU Reportedly Safe Following Paramount-Warner Bros. Merger, for Now at Least",
-      "link": "https://www.ign.com/articles/james-gunns-dcu-reportedly-safe-following-paramount-warner-bros-merger-for-now-at-least",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790956436
-    },
-    {
-      "title": "Paramount and Warner Bros. Discovery to become Skydance",
-      "link": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1790956430
-    },
-    {
-      "title": "Brand New GTA 6 Screenshots Focus on Lucia and Jason's Relationship",
-      "link": "https://www.ign.com/articles/brand-new-gta-6-screenshots-focus-on-lucia-and-jasons-relationship",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1790956246
-    },
-    {
       "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
       "link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1790952736
-    },
-    {
-      "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
-      "link": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790949274
     },
     {
       "title": "Grading Jalen Duren's $200 million contract: Pistons pay up to keep All-NBA center",
