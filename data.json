@@ -1,6 +1,146 @@
 {
-  "last_updated": 1791222597,
+  "last_updated": 1791243708,
   "items": [
+    {
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791239195
+    },
+    {
+      "title": "Ubisoft Boss Says Watch Dogs Is 'Important' to Company's Future, But Don't Expect Any New Entries Anytime Soon",
+      "link": "https://www.ign.com/articles/ubisoft-boss-says-watch-dogs-is-important-to-companys-future-but-dont-expect-any-new-entries-anytime-soon",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791238250
+    },
+    {
+      "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
+      "link": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791237241
+    },
+    {
+      "title": "Infinity Ward Details Call of Duty: Modern Warfare 4's Extraction Mode, DMZ",
+      "link": "https://www.ign.com/articles/infinity-ward-details-call-of-duty-modern-warfare-4s-extraction-mode-dmz",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791233469
+    },
+    {
+      "title": "RuneScape Dev Pulls Trailer After 6-Fingered Knight Leads to Generative AI Allegations",
+      "link": "https://www.ign.com/articles/runescape-dev-pulls-trailer-after-6-fingered-knight-leads-to-generative-ai-allegations",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791233272
+    },
+    {
+      "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
+      "link": "https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791233268
+    },
+    {
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791232608
+    },
+    {
+      "title": "Texas city demands $2M for public records on Flock usage",
+      "link": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791232272
+    },
+    {
+      "title": "Etched fields funding offers at $40B+ valuation, sources say",
+      "link": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791231849
+    },
+    {
+      "title": "After Factory’s public spat with Khosla, Menlo proudly invests",
+      "link": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791229087
+    },
+    {
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791228833
+    },
+    {
+      "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+      "link": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791227684
+    },
+    {
+      "title": "Final Fantasy 7 Revelation Hot Springs Scenes Reveal New Bathing Suit Skins for the Party",
+      "link": "https://www.ign.com/articles/final-fantasy-7-revelation-hot-springs-scenes-reveal-new-bathing-suit-skins-for-the-party",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791227174
+    },
+    {
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791226470
+    },
+    {
+      "title": "Physint Update: Hideo Kojima Shares New Info on His Upcoming Metal Gear Spiritual Successor",
+      "link": "https://www.ign.com/articles/physint-update-hideo-kojima-shares-new-info-on-his-upcoming-metal-gear-spiritual-successor",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791225762
+    },
+    {
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791224940
+    },
+    {
+      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+      "link": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791223627
+    },
+    {
+      "title": "Controlling the brain with light earns a physiology Nobel",
+      "link": "https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791223167
+    },
+    {
+      "title": "Kingdom Come: Deliverance Dev Calls Out RPGs 'for Teenagers' That Just Focus on 'Power Fantasy'",
+      "link": "https://www.ign.com/articles/kingdom-come-deliverance-dev-calls-out-rpgs-for-teenagers-that-just-focus-on-power-fantasy",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791221536
+    },
+    {
+      "title": "Gears of War: E-Day Runs Smoothly on Xbox Series S By Using SSD as RAM",
+      "link": "https://www.ign.com/articles/gears-of-war-e-day-runs-smoothly-on-xbox-series-s-by-using-ssd-as-ram",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791221382
+    },
     {
       "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
       "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
@@ -14,6 +154,20 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1791221204
+    },
+    {
+      "title": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps",
+      "link": "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791220871
+    },
+    {
+      "title": "The Batman Part 2 Halts Production as Matt Reeves Steps Away for Personal Reasons",
+      "link": "https://www.ign.com/articles/the-batman-part-2-halts-production-as-matt-reeves-steps-away-for-personal-reasons",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791220659
     },
     {
       "title": "Karl-Anthony Towns says extension negotiations with Knicks 'don't look good' as two sides remain apart on deal",
@@ -30,7 +184,7 @@
       "timestamp": 1791218615
     },
     {
-      "title": "Legendary Japanese Solid Snake Actor Wants 'New Metal Gear Game', But 'Won't Do One Without Kojima'",
+      "title": "Legendary Japanese Solid Snake Actor Wants 'New Metal Gear Game,' But 'Won't Do One Without Kojima'",
       "link": "https://www.ign.com/articles/legendary-japanese-solid-snake-actor-wants-new-metal-gear-game-but-wont-do-one-without-kojima",
       "source": "IGN",
       "category": "gaming",
@@ -93,13 +247,6 @@
       "timestamp": 1791214591
     },
     {
-      "title": "Marvel Unlimited Shutting Down, Will Be Replaced by 'Marvel Comics Powered by Webtoon'",
-      "link": "https://www.ign.com/articles/marvel-unlimited-shutting-down-will-be-replaced-by-marvel-comics-powered-by-webtoon",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791214399
-    },
-    {
       "title": "OpenAI launches visual ads that appear alongside image generation results",
       "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
       "source": "TECHCRUNCH",
@@ -142,48 +289,6 @@
       "timestamp": 1791210909
     },
     {
-      "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791210600
-    },
-    {
-      "title": "Modder Turns Diablo 2 Resurrected Into a VR Game, But You Probably Can't Play It",
-      "link": "https://www.ign.com/articles/modder-turns-diablo-2-resurrected-into-a-vr-game",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791210341
-    },
-    {
-      "title": "'It’s Incredibly Sad Knowing That We Won’t Get to Finish What We Were Working on' — Hellblade Staff Bid Farewell to Ninja Theory as Layoffs Begin",
-      "link": "https://www.ign.com/articles/ninja-theory-layoffs",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791209681
-    },
-    {
-      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791208800
-    },
-    {
-      "title": "3 New Batman LEGO Sets Announced, Including Wall Art of an Iconic Joker Comic Cover",
-      "link": "https://www.ign.com/articles/3-new-batman-lego-sets-announced-including-wall-art-of-an-iconic-joker-comic-cover",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791208800
-    },
-    {
-      "title": "Avengers Star Anthony Mackie Says He'll Film Secret Wars When He's Done on Broadway Playing Macbeth — a Run That Lasts Until July 2027",
-      "link": "https://www.ign.com/articles/avengers-star-anthony-mackie-says-hell-film-secret-wars-when-hes-done-on-broadway-playing-macbeth-a-run-that-lasts-until-july-2027",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791208745
-    },
-    {
       "title": "AI glasses face their first major government crackdown",
       "link": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
       "source": "ARSTECHNICA",
@@ -198,20 +303,6 @@
       "timestamp": 1791204751
     },
     {
-      "title": "'We Have a Strong Desire to Further Develop the Character of Bayonetta' — PlatinumGames Isn't Done With the Gun Witch",
-      "link": "https://www.ign.com/articles/bayonetta-4",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791203365
-    },
-    {
-      "title": "'I'm Still Here': Marvel Star Mark Ruffalo Says He's Still Playing the Hulk Despite Political Advocacy",
-      "link": "https://www.ign.com/articles/im-still-here-marvel-star-mark-ruffalo-says-hes-still-playing-the-hulk-despite-political-advocacy",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791203135
-    },
-    {
       "title": "Vagus Nerve Stimulation Could Help New Skills Stick",
       "link": "https://www.sciencedaily.com/releases/2026/10/261002080034.htm",
       "source": "SCIENCEDAILY",
@@ -219,25 +310,11 @@
       "timestamp": 1791202387
     },
     {
-      "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-      "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791201600
-    },
-    {
       "title": "Don't miss: Watch Saturn shine and Halley’s Comet debris streak across the sky",
       "link": "https://www.sciencedaily.com/releases/2026/10/261005071523.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1791201557
-    },
-    {
-      "title": "Doctor Who Ex-Showrunner Says He's Not Bothered About Walking Away With His Cliffhanger Ending Left Unresolved",
-      "link": "https://www.ign.com/articles/doctor-who-ex-showrunner-says-hes-not-bothered-about-walking-away-with-his-cliffhanger-ending-left-unresolved",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791201034
     },
     {
       "title": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
@@ -282,13 +359,6 @@
       "timestamp": 1791169975
     },
     {
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791145867
-    },
-    {
       "title": "Jalen Duren says he wants 'to be a Piston for life' despite contentious free agency, trade rumors",
       "link": "https://www.cbssports.com/nba/news/jalen-duren-piston-for-life-free-agency/",
       "source": "CBSSPORTS",
@@ -296,32 +366,11 @@
       "timestamp": 1791145290
     },
     {
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791144514
-    },
-    {
-      "title": "TechCrunch Mobility: Reining in robotaxis",
-      "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791129900
-    },
-    {
       "title": "Lions and cheetahs and chimps, oh my: A spotlight on Africa's diverse wildlife",
       "link": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1791128054
-    },
-    {
-      "title": "Trump unveils his new Super Intelligence Force",
-      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791126910
     },
     {
       "title": "A meteor hit Oklahoma 100 million years later than scientists thought",
@@ -387,13 +436,6 @@
       "timestamp": 1791056717
     },
     {
-      "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
-      "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791055995
-    },
-    {
       "title": "This protective enzyme could help stop fatty liver disease from getting worse",
       "link": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm",
       "source": "SCIENCEDAILY",
@@ -429,53 +471,11 @@
       "timestamp": 1790982196
     },
     {
-      "title": "Someone got Doom in an SQL database",
-      "link": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790975945
-    },
-    {
       "title": "The Blazers have a starting lineup dilemma with a clear solution: Bring Ja Morant off the bench",
       "link": "https://www.cbssports.com/nba/news/blazers-ja-morant-starting-lineup-dilemma-damian-lillard-deni-avdija/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1790973961
-    },
-    {
-      "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
-      "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790973027
-    },
-    {
-      "title": "Patient-zero drill put health facilities to the test—40% of them failed",
-      "link": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790971679
-    },
-    {
-      "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
-      "link": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790968189
-    },
-    {
-      "title": "The 2008 economic crisis changed the US's relationship with energy",
-      "link": "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790967381
-    },
-    {
-      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
-      "link": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1790966376
     },
     {
       "title": "Grading Jalen Duren's $200 million contract: Pistons pay up to keep All-NBA center",
