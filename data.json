@@ -1,6 +1,209 @@
 {
-  "last_updated": 1791479517,
+  "last_updated": 1791499840,
   "items": [
+    {
+      "title": "President Trump awards big tech donors with nation’s highest science prizes",
+      "link": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791498839
+    },
+    {
+      "title": "Ben Affleck Says He Gets Into Arguments With Kids in Fortnite, His New Movie Took Inspiration from Game's Skins",
+      "link": "https://www.ign.com/articles/ben-affleck-says-he-gets-into-arguments-with-kids-in-fortnite-his-new-movie-took-inspiration-from-games-skins",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791496843
+    },
+    {
+      "title": "Deadpool and She-Hulk Are Coming to X-Men '97 Season 3",
+      "link": "https://www.ign.com/articles/deadpool-and-she-hulk-are-coming-to-x-men-97-season-3",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791494555
+    },
+    {
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791493200
+    },
+    {
+      "title": "Resident Evil Requiem Was Originally Planned as an Online Game, Producer Says",
+      "link": "https://www.ign.com/articles/resident-evil-requiem-was-originally-planned-as-an-online-game-producer-says",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791493194
+    },
+    {
+      "title": "Marvel Announces New Spy TV Series Zodiac, Coming in 2028",
+      "link": "https://www.ign.com/articles/marvel-announces-new-spy-tv-series-zodiac-coming-in-2028",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791492085
+    },
+    {
+      "title": "Lucasfilm Reveals Star Wars: Ahsoka Prequel Comic 'Escape From Thrawn' - NYCC 2026",
+      "link": "https://www.ign.com/articles/lucasfilm-reveals-star-wars-ahsoka-prequel-comic-escape-from-thrawn-nycc-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791491766
+    },
+    {
+      "title": "R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+      "link": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791490553
+    },
+    {
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791489866
+    },
+    {
+      "title": "Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027",
+      "link": "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791489437
+    },
+    {
+      "title": "Driver wins $76 after ALPR led to bogus traffic stop, drug searches",
+      "link": "https://arstechnica.com/tech-policy/2026/10/driver-wins-76-after-alpr-led-to-bogus-traffic-stop-drug-searches/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791488550
+    },
+    {
+      "title": "Jessica Chastain Reveals the ‘Painful’ Secret to her Terrifying Smile in Other Mommy",
+      "link": "https://www.ign.com/articles/jessica-chastain-reveals-the-painful-secret-to-her-terrifying-smile-in-other-mommy",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791488514
+    },
+    {
+      "title": "RFK Jr. unveils sweeping federal initiative to find evidence of vaccine injuries",
+      "link": "https://arstechnica.com/health/2026/10/rfk-jr-unveils-sweeping-federal-initiative-to-find-evidence-of-vaccine-injuries/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791487592
+    },
+    {
+      "title": "Could LeBron James help solve the 76ers' depth problem at center? Here's what the numbers say",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-76ers-depth-problem-at-center/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1791487307
+    },
+    {
+      "title": "Everything We Saw at the Marvel Television and Animation NYCC 2026 Panel, Including Zodiac and Marvel Zombies",
+      "link": "https://www.ign.com/articles/marvel-television-animation-new-york-comic-con-2026-panel-disney-plus",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791487040
+    },
+    {
+      "title": "Forza Horizon 6 Is Finally Coming to PS5 in January Alongside First Expansion",
+      "link": "https://www.ign.com/articles/forza-horizon-6-is-finally-coming-to-ps5-in-january-alongside-first-expansion",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791486667
+    },
+    {
+      "title": "Original Sketch of MrBeast's Logo to Be Auctioned Off With Estimated Value of $20,000",
+      "link": "https://www.ign.com/articles/mrbeast-auctions-off-the-original-sketch-of-his-logo-with-estimated-value-of-20000",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791485723
+    },
+    {
+      "title": "An experimental tour-de-force: Entanglement between glass bead and light",
+      "link": "https://arstechnica.com/science/2026/10/suspended-glass-bead-entangled-with-light-maybe-a-quantum-memory/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791485123
+    },
+    {
+      "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
+      "link": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791484200
+    },
+    {
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791483632
+    },
+    {
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791483585
+    },
+    {
+      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+      "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791483582
+    },
+    {
+      "title": "Final Fantasy VII Revelation Announces an NPC-ified Version of Shiva Voiced by Marisha Ray | NYCC 2026",
+      "link": "https://www.ign.com/articles/final-fantasy-vii-revelation-announces-an-npc-ified-version-of-shiva-voiced-by-marisha-ray-nycc-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791483581
+    },
+    {
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791483480
+    },
+    {
+      "title": "Anthropic changes usage policy to ban model abuse and election interference",
+      "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791483384
+    },
+    {
+      "title": "A Live-Action Cyberpunk 2077 Movie Is in the Works at Paramount",
+      "link": "https://www.ign.com/articles/a-live-action-cyberpunk-2077-movie-is-in-the-works-at-paramount",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791483095
+    },
+    {
+      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+      "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791483055
+    },
+    {
+      "title": "Arrow Co-Creator Shares Details and Concept Art for Canceled Green Lantern Show That Shares Striking Similarities to HBO's Lanterns",
+      "link": "https://www.ign.com/articles/arrow-co-creator-shares-details-and-concept-art-for-canceled-green-lantern-show-that-shares-striking-similarities-to-hbos-lanterns",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791483010
+    },
+    {
+      "title": "Joe Manganiello Reveals Being Cast as Deathstroke in Ben Affleck's Batman Movie Motivated Him to Overcome Near-Fatal Health Crisis",
+      "link": "https://www.ign.com/articles/joe-manganiello-reveals-being-cast-as-deathstroke-in-ben-afflecks-batman-movie-motivated-him-to-overcome-near-fatal-health-crisis",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791482968
+    },
     {
       "title": "35% of Marvel's Wolverine Sales Were on Disc, According to Analyst Data",
       "link": "https://www.ign.com/articles/35-percent-marvels-wolverine-sales-disc",
@@ -14,6 +217,13 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1791477900
+    },
+    {
+      "title": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
+      "link": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791477166
     },
     {
       "title": "Natura’s $99 smart ring puts AI agents on your finger",
@@ -58,11 +268,11 @@
       "timestamp": 1791473696
     },
     {
-      "title": "Tekken 8’s Reina Teased as the Next Guest Character for Fatal Fury: City of the Wolves",
-      "link": "https://www.ign.com/articles/tekken-8-reina-teased-fatal-fury-city-of-the-wolves",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791472711
+      "title": "Amazon builds 1,000th satellite, will launch space internet service by end of year",
+      "link": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791473316
     },
     {
       "title": "Elon Musk questions Ambani’s influence as Starlink India launch stalls",
@@ -79,81 +289,11 @@
       "timestamp": 1791471977
     },
     {
-      "title": "Asos confirms breach of customer data after hackers send rogue app notification",
-      "link": "https://techcrunch.com/2026/10/08/asos-confirms-breach-of-customer-data-after-hackers-send-rogue-app-notification/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791471675
-    },
-    {
-      "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791471600
-    },
-    {
-      "title": "Best Buy Announces Midnight Opening for Ocarina of Time Launch, Zelda Switch 2 Consoles Also Up for Grabs",
-      "link": "https://www.ign.com/articles/best-buy-announces-midnight-opening-for-ocarina-of-time-launch-zelda-switch-2-consoles-also-up-for-grabs",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791471159
-    },
-    {
-      "title": "GTA 6: Rockstar Releases Brand New Official Screenshots Showing Off Stunning Reflections",
-      "link": "https://www.ign.com/articles/gta-6-rockstar-releases-brand-new-official-screenshots-showing-off-stunning-reflections",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791470951
-    },
-    {
-      "title": "GTA 6 Reveals a Handful of Radio Stations, DJs, and Songs Ahead of Release",
-      "link": "https://www.ign.com/articles/gta-6-reveals-a-handful-of-radio-stations-djs-and-songs-ahead-of-release",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791470268
-    },
-    {
-      "title": "Spotify is getting more serious about selling enterprise software",
-      "link": "https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791470073
-    },
-    {
-      "title": "Waymo locks in $5B loan from Blackstone, PIMCO to fuel robotaxi expansion",
-      "link": "https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791469016
-    },
-    {
       "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
       "link": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1791468282
-    },
-    {
-      "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
-      "link": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791468000
-    },
-    {
-      "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
-      "link": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791468000
-    },
-    {
-      "title": "LEGO The Marvel Skyline Set Announced",
-      "link": "https://www.ign.com/articles/lego-marvel-skyline-set-announced",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791467913
     },
     {
       "title": "FDA-approved epilepsy drug may help reverse osteoarthritis damage",
@@ -163,20 +303,6 @@
       "timestamp": 1791467576
     },
     {
-      "title": "No, I Have Not Seen Jason’s Penis in GTA 6",
-      "link": "https://www.ign.com/articles/no-i-have-not-seen-jasons-penis-in-gta-6",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791467217
-    },
-    {
-      "title": "The Witcher 3: Wild Hunt – Remastered Patch Adds Bloom Toggles on Console and Larger Lighting Changes",
-      "link": "https://www.ign.com/articles/bloom-toggle-console-the-witcher-3-remastered",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791466371
-    },
-    {
       "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
       "link": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm",
       "source": "SCIENCEDAILY",
@@ -184,39 +310,11 @@
       "timestamp": 1791466299
     },
     {
-      "title": "Google releases a new local-first Granola competitor",
-      "link": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791466119
-    },
-    {
-      "title": "China’s Manus raises over $500M in first funding round since split with Meta",
-      "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791465632
-    },
-    {
       "title": "This “golden tree” coral was too strange for any known family",
       "link": "https://www.sciencedaily.com/releases/2026/10/261007042116.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1791465534
-    },
-    {
-      "title": "Last call to volunteer at TechCrunch Founder Summit 2026",
-      "link": "https://techcrunch.com/2026/10/08/last-call-to-volunteer-at-techcrunch-founder-summit-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791464400
-    },
-    {
-      "title": "Amazon unveils new Alexa tablets with Alexa+ and Google Play Store access",
-      "link": "https://techcrunch.com/2026/10/08/amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791464400
     },
     {
       "title": "Scientists found Homo erectus 200,000 years earlier than expected",
@@ -233,46 +331,11 @@
       "timestamp": 1791461960
     },
     {
-      "title": "GTA 6 Leaker Returns With New 24-Minute Gameplay Video, Sparking Spoiler Concern",
-      "link": "https://www.ign.com/articles/gta-6-leaker-returns-with-new-24-minute-gameplay-video-sparking-spoiler-concern",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791461290
-    },
-    {
-      "title": "Xbox Announces New XP Entertainment Division to Make Movies, TV, and More",
-      "link": "https://www.ign.com/articles/xbox-announces-new-xp-entertainment-division-to-make-movies-tv-and-more",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791460822
-    },
-    {
-      "title": "The Australian Government Helps Workers Know Their Rights for Taking Time Off for GTA 6",
-      "link": "https://www.ign.com/articles/australian-government-time-off-gta-6",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791458438
-    },
-    {
-      "title": "Wizards of the Coast Confirms Reprints for Popular MTG Warhammer 40K Commander Decks",
-      "link": "https://www.ign.com/articles/magic-the-gathering-warhammer-40k-commander-decks-reprint-confirmed",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791458417
-    },
-    {
       "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
       "link": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1791458133
-    },
-    {
-      "title": "CBS News Amazed by Accuracy of GTA 6, Highlights Miami Similarities in New Report",
-      "link": "https://www.ign.com/articles/cbs-news-amazed-accuracy-gta-6",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791457215
     },
     {
       "title": "A senator tried to ban gambling on prediction markets—now she's a Kalshi lobbyist",
@@ -287,13 +350,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1791453966
-    },
-    {
-      "title": "Wardogs Streamer Banned for Exploiting the Game's Building Mechanics to Get Rich",
-      "link": "https://www.ign.com/articles/wardogs-streamer-banned-for-exploits",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791451759
     },
     {
       "title": "Just 7 days of strength training started shrinking fat cells in mice",
@@ -359,48 +415,6 @@
       "timestamp": 1791397479
     },
     {
-      "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
-      "link": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791395859
-    },
-    {
-      "title": "Jaguar Type 01 debuts; now, no one remembers the electric Ferrari",
-      "link": "https://arstechnica.com/cars/2026/10/jaguar-makes-its-controversial-all-ev-return-with-the-type-01/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791388081
-    },
-    {
-      "title": "Trade group crunches numbers on Trump’s impossible push for 100% US-made tech",
-      "link": "https://arstechnica.com/tech-policy/2026/10/trade-group-crunches-numbers-on-trumps-impossible-push-for-100-us-made-tech/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791386345
-    },
-    {
-      "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
-      "link": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791382357
-    },
-    {
-      "title": "Google rolls out improved SynthID AI content detector, now available globally",
-      "link": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791381608
-    },
-    {
-      "title": "AI/ML is becoming a performance factor in motorsport",
-      "link": "https://arstechnica.com/cars/2026/10/ai-ml-setups-became-a-tool-in-indycar-champion-alex-palous-toolbox/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791381398
-    },
-    {
       "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
       "link": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
       "source": "SCIENCEDAILY",
@@ -413,13 +427,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1791378455
-    },
-    {
-      "title": "Review: Fine, let's talk about Digger",
-      "link": "https://arstechnica.com/culture/2026/10/review-digger-is-both-frustrating-and-brilliant-by-design/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791378088
     },
     {
       "title": "Dodgers take NLDS lead, Padres extend series vs. Brewers; Pete Prisco's Week 5 NFL Power Rankings",
@@ -553,13 +560,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1790917075
-    },
-    {
-      "title": "Jalen Duren, Pistons reportedly agree to five-year, $200 million contract, ending monthslong stalemate",
-      "link": "https://www.cbssports.com/nba/news/jalen-duren-detroit-pistons-contract-extension/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1790908654
     }
   ]
 }
