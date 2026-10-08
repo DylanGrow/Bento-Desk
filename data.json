@@ -1,12 +1,61 @@
 {
-  "last_updated": 1791412736,
+  "last_updated": 1791426484,
   "items": [
+    {
+      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+      "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791417624
+    },
+    {
+      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+      "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791416217
+    },
+    {
+      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
+      "link": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791413956
+    },
+    {
+      "title": "Bit Reactor CEO Welcomes Return of Some Furloughed Staff for 'Continued Support' of Star Wars Zero Company",
+      "link": "https://www.ign.com/articles/bit-reactor-ceo-welcomes-return-of-some-furloughed-staff-for-continued-support-of-star-wars-zero-company",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791413520
+    },
+    {
+      "title": "Mike Breen apologizes after LeBron James refutes story alleging he called out Joel Embiid at practice",
+      "link": "https://www.cbssports.com/nba/news/mike-breen-apologizes-lebron-james-joel-embiid-76ers-knicks/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1791412213
+    },
     {
       "title": "Samuel L. Jackson Confirms Nick Fury Will Return in Avengers: Secret Wars",
       "link": "https://www.ign.com/articles/samuel-l-jackson-confirms-nick-fury-will-return-in-avengers-secret-wars",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1791410574
+    },
+    {
+      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+      "link": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791410202
+    },
+    {
+      "title": "PS5 Adding Dedicated Crunchyroll Hub Next Spring",
+      "link": "https://www.ign.com/articles/ps5-adding-dedicated-crunchyroll-hub-next-spring",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791409759
     },
     {
       "title": "IGN Fan Fest 2026: Fall Edition – How to Watch and What to Expect",
@@ -226,20 +275,6 @@
       "timestamp": 1791383783
     },
     {
-      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-      "link": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791383400
-    },
-    {
-      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791382500
-    },
-    {
       "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
       "link": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
       "source": "ARSTECHNICA",
@@ -352,20 +387,6 @@
       "timestamp": 1791370525
     },
     {
-      "title": "Resident Evil Requiem Writer Teases DLC Plans, Immediately Says He Probably Shouldn't Have",
-      "link": "https://www.ign.com/articles/resident-evil-requiem-dlc-plans",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791368721
-    },
-    {
-      "title": "Warhammer 40,000: Dawn of War 4 Dev Says It's Got More Single-Player Content Than Any Other RTS Ever at Launch",
-      "link": "https://www.ign.com/articles/warhammer-40000-dawn-of-war-4-dev-says-its-got-more-single-player-content-than-any-other-rts-ever-at-launch",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791367775
-    },
-    {
       "title": "A new way to fight gum disease without wiping out good bacteria",
       "link": "https://www.sciencedaily.com/releases/2026/10/261005012230.htm",
       "source": "SCIENCEDAILY",
@@ -408,25 +429,11 @@
       "timestamp": 1791319832
     },
     {
-      "title": "HBO Max, Paramount+, and Discovery+ \"will unify into a single service”",
-      "link": "https://arstechnica.com/gadgets/2026/10/hbo-max-paramount-and-discovery-will-unify-into-a-single-service/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791318732
-    },
-    {
       "title": "76ers center Ariel Hukporti tears Achilles: What injury means for Philly, Joel Embiid ahead of pivotal season",
       "link": "https://www.cbssports.com/nba/news/ariel-hukporti-injury-update-philadelphia-76ers-joel-embiid/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1791318620
-    },
-    {
-      "title": "It looks like the Atlantic storm season may finally produce a hurricane",
-      "link": "https://arstechnica.com/science/2026/10/it-looks-like-the-atlantic-storm-season-may-finally-produce-a-hurricane/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791316550
     },
     {
       "title": "Giannis Antetokounmpo leaning into 'Heat Culture' ahead of first season in Miami: 'It gives me goosebumps'",
@@ -553,13 +560,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1790797082
-    },
-    {
-      "title": "Two-time NBA champion JR Smith arrested on assault charge in Texas",
-      "link": "https://www.cbssports.com/nba/news/jr-smith-arrested-assault-charge-texas/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1790783931
     }
   ]
 }
