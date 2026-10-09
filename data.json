@@ -1,6 +1,160 @@
 {
-  "last_updated": 1791564976,
+  "last_updated": 1791581327,
   "items": [
+    {
+      "title": "The Street Fighter 2 Bonus Stage Car Is Real and You Can Win It",
+      "link": "https://www.ign.com/articles/the-street-fighter-2-bonus-stage-car-is-real-and-you-can-win-it",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791578857
+    },
+    {
+      "title": "Marvel Comics Reveals New Captain Marvel Series and Daredevil #700 - NYCC 2026",
+      "link": "https://www.ign.com/articles/marvel-comics-reveals-new-captain-marvel-series-and-daredevil-700-nycc-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791577800
+    },
+    {
+      "title": "Bill Murray Is a Ghostbuster Once Again... in a Car Ad",
+      "link": "https://www.ign.com/articles/bill-murray-is-a-ghostbuster-once-againin-a-car-ad",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791576444
+    },
+    {
+      "title": "Lucasfilm Games Producer Responds After Galactic Racer Character Biddy Blas Goes Viral",
+      "link": "https://www.ign.com/articles/lucasfilm-games-producer-responds-after-galactic-racer-character-biddy-blas-goes-viral",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791576058
+    },
+    {
+      "title": "AI coding agents generate more code, but not more software",
+      "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791575030
+    },
+    {
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791574616
+    },
+    {
+      "title": "Skate Developer Promises More Creative Tools Are Coming After ReSkate Modding Platform Goes Viral",
+      "link": "https://www.ign.com/articles/skate-developer-promises-more-creative-tools-are-coming-after-reskate-modding-platform-goes-viral",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791574289
+    },
+    {
+      "title": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial",
+      "link": "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791574047
+    },
+    {
+      "title": "Takeaways from Knicks pausing contract extension talks: Is Josh Hart's time in New York running out?",
+      "link": "https://www.cbssports.com/nba/news/knicks-pause-contract-extension-talks-karl-anthony-towns-josh-hart-deuce-mcbride/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1791573739
+    },
+    {
+      "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
+      "link": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791572278
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
+      "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791572226
+    },
+    {
+      "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
+      "link": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791572092
+    },
+    {
+      "title": "Pretty Little Liars Star Keegan Allen Says He Was Robbed at Gunpoint in Bloody Video",
+      "link": "https://www.ign.com/articles/pretty-little-liars-star-keegan-allen-says-he-was-robbed-at-gunpoint-in-bloody-video",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791571899
+    },
+    {
+      "title": "AI disqualification yields new Nikon Small World in Motion winner",
+      "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791571446
+    },
+    {
+      "title": "Ranking every NBA team's defense entering the 2026-27 season: Thunder and Spurs competing for top spot",
+      "link": "https://www.cbssports.com/nba/news/ranking-every-nba-defense-2026-27-season-thunder-spurs/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1791571017
+    },
+    {
+      "title": "Your artwork could be featured in the next Debian release",
+      "link": "https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791570806
+    },
+    {
+      "title": "Starlink spectrum deal boosts Musk plan to beat AT&T, T-Mobile, and Verizon",
+      "link": "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791570279
+    },
+    {
+      "title": "Comic Book Icon Grant Morrison to Pen New James Bond Series for IDW Publishing",
+      "link": "https://www.ign.com/articles/comic-book-icon-grant-morrison-to-pen-new-james-bond-series-for-idw-publishing",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791569798
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 4 Launch Rollout Adds DMZ Early Access",
+      "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-launch-rollout-adds-dmz-early-access",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791565913
+    },
+    {
+      "title": "New Avatar Show in Development as Seven Havens Renewed for Seasons 3 and 4",
+      "link": "https://www.ign.com/articles/new-avatar-show-in-development-as-seven-havens-renewed-for-seasons-3-and-4",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791565832
+    },
+    {
+      "title": "LumenUs helps automate tedious paperwork in times of grief",
+      "link": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791565200
+    },
+    {
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791565002
+    },
     {
       "title": "Danu Robotics’ fight to build a better recycling robot",
       "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
@@ -79,13 +233,6 @@
       "timestamp": 1791561131
     },
     {
-      "title": "Peacemaker Taking a Backseat as James Gunn Builds Out the DCU, John Cena Says",
-      "link": "https://www.ign.com/articles/peacemaker-taking-a-backseat-as-james-gunn-builds-out-the-dcu-john-cena-says",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791560864
-    },
-    {
       "title": "a16z’s Olivia Moore on the state of consumer AI",
       "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
       "source": "TECHCRUNCH",
@@ -93,14 +240,7 @@
       "timestamp": 1791560613
     },
     {
-      "title": "GTA 6 on Switch 2? 'That's a Conversation for Take-Two and Rockstar,' Nintendo Says",
-      "link": "https://www.ign.com/articles/gta-6-switch-2-nintendo-president",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791558246
-    },
-    {
-      "title": "Automattic loses its interim CFO just weeks after boardroom shakeup",
+      "title": "Automattic interim CFO resigns just weeks after boardroom shakeup",
       "link": "https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -112,13 +252,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1791556954
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
-      "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791556200
     },
     {
       "title": "Knicks pause contract negotiations with Karl-Athony Towns, Josh Hart, others until 'later in the season'",
@@ -133,13 +266,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1791554400
-    },
-    {
-      "title": "AI Driving Game Demo Forces Developer to Take Out Bank Loan to Keep It Running",
-      "link": "https://www.ign.com/articles/ai-driving-game-demo-bank-loan",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791553925
     },
     {
       "title": "Surveillance company Flock cuts staff as privacy backlash grows",
@@ -163,25 +289,11 @@
       "timestamp": 1791547200
     },
     {
-      "title": "YouTuber's Channel Permanently Banned Over Censored Hellraiser: Revival Gameplay Video",
-      "link": "https://www.ign.com/articles/youtuber-banned-over-censored-hellraiser-revival-gameplay-video",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791546917
-    },
-    {
       "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
       "link": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1791543657
-    },
-    {
-      "title": "Agent Coulson Actor Teases Link to Just-Announced Marvel TV Show, Zodiac",
-      "link": "https://www.ign.com/articles/agents-of-shield-star-coulson-teases-zodiac-marvel-disney",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791542932
     },
     {
       "title": "Scientists find hidden materials that could improve batteries and solar fuels",
@@ -205,25 +317,11 @@
       "timestamp": 1791539479
     },
     {
-      "title": "After Going Hands-On With the New Marvel Comics App, I Still Don't Know Why Unlimited Had to Die",
-      "link": "https://www.ign.com/articles/after-going-hands-on-with-the-new-marvel-comics-app-i-still-dont-know-why-unlimited-had-to-die",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791538583
-    },
-    {
       "title": "A 9-billion-year-old signal could help explain dark energy",
       "link": "https://www.sciencedaily.com/releases/2026/10/261007042102.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1791536008
-    },
-    {
-      "title": "NieR Creator Yoko Taro Says He Would Retire From Making Video Games but Fear of Dementia Keeps Him Working",
-      "link": "https://www.ign.com/articles/nier-creator-yoko-taro-says-he-would-retire-from-making-video-games-but-fear-of-dementia-keeps-him-working",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791534407
     },
     {
       "title": "A quantum prediction from 1931 just came to life",
@@ -247,20 +345,6 @@
       "timestamp": 1791513442
     },
     {
-      "title": "VisionQuest Showrunner Terry Matalas Didn't Have to Worry Too Much About the MCU's Bigger Picture — 'We Pretty Much Did Exactly What We Wanted' | NYCC 2026",
-      "link": "https://www.ign.com/articles/visionquest-showrunner-terry-matalas-didnt-have-to-worry-too-much-about-the-mcus-bigger-picture-we-pretty-much-did-exactly-what-we-wanted-nycc-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791504028
-    },
-    {
-      "title": "Finn Jones Calls Iron Fist’s Return in Daredevil: Born Again a 'Wonderful Gift' | NYCC 2026",
-      "link": "https://www.ign.com/articles/finn-jones-iron-fist-daredevil-born-again-season-3",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791503917
-    },
-    {
       "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
       "link": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
       "source": "TECHCRUNCH",
@@ -273,13 +357,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1791495452
-    },
-    {
-      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-      "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791493200
     },
     {
       "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
@@ -310,13 +387,6 @@
       "timestamp": 1791490553
     },
     {
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791489866
-    },
-    {
       "title": "Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027",
       "link": "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/",
       "source": "ARSTECHNICA",
@@ -331,13 +401,6 @@
       "timestamp": 1791488550
     },
     {
-      "title": "RFK Jr. unveils sweeping federal initiative to find evidence of vaccine injuries",
-      "link": "https://arstechnica.com/health/2026/10/rfk-jr-unveils-sweeping-federal-initiative-to-find-evidence-of-vaccine-injuries/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791487592
-    },
-    {
       "title": "Could LeBron James help solve the 76ers' depth problem at center? Here's what the numbers say",
       "link": "https://www.cbssports.com/nba/news/lebron-james-76ers-depth-problem-at-center/",
       "source": "CBSSPORTS",
@@ -345,53 +408,11 @@
       "timestamp": 1791487307
     },
     {
-      "title": "An experimental tour-de-force: Entanglement between glass bead and light",
-      "link": "https://arstechnica.com/science/2026/10/suspended-glass-bead-entangled-with-light-maybe-a-quantum-memory/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791485123
-    },
-    {
-      "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
-      "link": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791484200
-    },
-    {
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-      "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791483632
-    },
-    {
-      "title": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
-      "link": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791477166
-    },
-    {
       "title": "Ranking every NBA team's offense entering the 2026-27 season: Knicks at No. 1, Lakers and Celtics in top five",
       "link": "https://www.cbssports.com/nba/news/ranking-every-nba-offense-2026-27-season-knicks-lakers-celtics/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1791473696
-    },
-    {
-      "title": "Amazon builds 1,000th satellite, will launch space internet service by end of year",
-      "link": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791473316
-    },
-    {
-      "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
-      "link": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791468282
     },
     {
       "title": "FDA-approved epilepsy drug may help reverse osteoarthritis damage",
@@ -427,13 +448,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1791461960
-    },
-    {
-      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-      "link": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791458133
     },
     {
       "title": "Einstein Probe reveals a hidden phase of neutron star collisions",
@@ -546,20 +560,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1791145290
-    },
-    {
-      "title": "The Blazers have a starting lineup dilemma with a clear solution: Bring Ja Morant off the bench",
-      "link": "https://www.cbssports.com/nba/news/blazers-ja-morant-starting-lineup-dilemma-damian-lillard-deni-avdija/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1790973961
-    },
-    {
-      "title": "Grading Jalen Duren's $200 million contract: Pistons pay up to keep All-NBA center",
-      "link": "https://www.cbssports.com/nba/news/grading-jalen-duren-contract-pistons-pay-up/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1790944206
     }
   ]
 }
