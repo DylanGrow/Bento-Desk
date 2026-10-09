@@ -1,12 +1,68 @@
 {
-  "last_updated": 1791499840,
+  "last_updated": 1791513874,
   "items": [
     {
-      "title": "President Trump awards big tech donors with nation’s highest science prizes",
+      "title": "VisionQuest Showrunner Terry Matalas Didn't Have to Worry Too Much About the MCU's Bigger Picture — 'We Pretty Much Did Exactly What We Wanted' | NYCC 2026",
+      "link": "https://www.ign.com/articles/visionquest-showrunner-terry-matalas-didnt-have-to-worry-too-much-about-the-mcus-bigger-picture-we-pretty-much-did-exactly-what-we-wanted-nycc-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791504028
+    },
+    {
+      "title": "Finn Jones Calls Iron Fist’s Return in Daredevil: Born Again a 'Wonderful Gift' | NYCC 2026",
+      "link": "https://www.ign.com/articles/finn-jones-iron-fist-daredevil-born-again-season-3",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791503917
+    },
+    {
+      "title": "Daredevil Star Charlie Cox Confirms He's in an Unannounced Sega Game | NYCC 2026",
+      "link": "https://www.ign.com/articles/daredevil-star-charlie-cox-confirms-hes-in-an-unannounced-sega-game-nycc-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791502628
+    },
+    {
+      "title": "Charlie Cox on the Return of The Defenders — 'There Needed to Be Some Kind of Closure' | NYCC 2026",
+      "link": "https://www.ign.com/articles/charlie-cox-on-the-return-of-the-defenders-there-needed-to-be-some-kind-of-closure-nycc-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791502214
+    },
+    {
+      "title": "Jay and Silent Bob’s Joint Venture Trailer and Game Details Revealed for Weed Farming Sim | NYCC 2026",
+      "link": "https://www.ign.com/articles/jay-silent-bob-joint-venture-trailer-gameplay",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791500700
+    },
+    {
+      "title": "Smile 2 Star Kyle Gallner Wants to Play V in Paramount’s Cyberpunk 2077 Movie",
+      "link": "https://www.ign.com/articles/smile-2-star-kyle-gallner-wants-to-play-v-in-paramounts-cyberpunk-2077-movie",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791500257
+    },
+    {
+      "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
       "link": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1791498839
+    },
+    {
+      "title": "Princess Donut Blind Box Plushies Are Getting Shown Off at NYCC Alongside Dungeon Crawler Carl Action Figures",
+      "link": "https://www.ign.com/articles/princess-donut-blind-box-plushies-are-getting-shown-off-at-nycc-alongside-dungeon-crawler-carl-action-figures",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791498567
+    },
+    {
+      "title": "Street Fighter 6 Producer Reveals How He Helped Save Capcom’s Iconic Fighting Game Franchise From ‘Dying’",
+      "link": "https://www.ign.com/articles/street-fighter-6-producer-reveals-how-he-helped-save-capcoms-iconic-fighting-game-franchise-from-dying",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791497478
     },
     {
       "title": "Ben Affleck Says He Gets Into Arguments With Kids in Fortnite, His New Movie Took Inspiration from Game's Skins",
@@ -14,6 +70,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1791496843
+    },
+    {
+      "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
+      "link": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791495452
     },
     {
       "title": "Deadpool and She-Hulk Are Coming to X-Men '97 Season 3",
@@ -37,11 +100,25 @@
       "timestamp": 1791493194
     },
     {
+      "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
+      "link": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791492781
+    },
+    {
       "title": "Marvel Announces New Spy TV Series Zodiac, Coming in 2028",
       "link": "https://www.ign.com/articles/marvel-announces-new-spy-tv-series-zodiac-coming-in-2028",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1791492085
+    },
+    {
+      "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
+      "link": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791491971
     },
     {
       "title": "Lucasfilm Reveals Star Wars: Ahsoka Prequel Comic 'Escape From Thrawn' - NYCC 2026",
@@ -51,7 +128,14 @@
       "timestamp": 1791491766
     },
     {
-      "title": "R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+      "title": "Feds get ready to rewrite car headlight rules",
+      "link": "https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791491173
+    },
+    {
+      "title": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
       "link": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -114,13 +198,6 @@
       "timestamp": 1791486667
     },
     {
-      "title": "Original Sketch of MrBeast's Logo to Be Auctioned Off With Estimated Value of $20,000",
-      "link": "https://www.ign.com/articles/mrbeast-auctions-off-the-original-sketch-of-his-logo-with-estimated-value-of-20000",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791485723
-    },
-    {
       "title": "An experimental tour-de-force: Entanglement between glass bead and light",
       "link": "https://arstechnica.com/science/2026/10/suspended-glass-bead-entangled-with-light-maybe-a-quantum-memory/",
       "source": "ARSTECHNICA",
@@ -156,13 +233,6 @@
       "timestamp": 1791483582
     },
     {
-      "title": "Final Fantasy VII Revelation Announces an NPC-ified Version of Shiva Voiced by Marisha Ray | NYCC 2026",
-      "link": "https://www.ign.com/articles/final-fantasy-vii-revelation-announces-an-npc-ified-version-of-shiva-voiced-by-marisha-ray-nycc-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791483581
-    },
-    {
       "title": "Google brings agentic AI to Gemini, starting with businesses",
       "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
       "source": "TECHCRUNCH",
@@ -177,39 +247,11 @@
       "timestamp": 1791483384
     },
     {
-      "title": "A Live-Action Cyberpunk 2077 Movie Is in the Works at Paramount",
-      "link": "https://www.ign.com/articles/a-live-action-cyberpunk-2077-movie-is-in-the-works-at-paramount",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791483095
-    },
-    {
       "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
       "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1791483055
-    },
-    {
-      "title": "Arrow Co-Creator Shares Details and Concept Art for Canceled Green Lantern Show That Shares Striking Similarities to HBO's Lanterns",
-      "link": "https://www.ign.com/articles/arrow-co-creator-shares-details-and-concept-art-for-canceled-green-lantern-show-that-shares-striking-similarities-to-hbos-lanterns",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791483010
-    },
-    {
-      "title": "Joe Manganiello Reveals Being Cast as Deathstroke in Ben Affleck's Batman Movie Motivated Him to Overcome Near-Fatal Health Crisis",
-      "link": "https://www.ign.com/articles/joe-manganiello-reveals-being-cast-as-deathstroke-in-ben-afflecks-batman-movie-motivated-him-to-overcome-near-fatal-health-crisis",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791482968
-    },
-    {
-      "title": "35% of Marvel's Wolverine Sales Were on Disc, According to Analyst Data",
-      "link": "https://www.ign.com/articles/35-percent-marvels-wolverine-sales-disc",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791478647
     },
     {
       "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
@@ -240,20 +282,6 @@
       "timestamp": 1791475200
     },
     {
-      "title": "Galaxies Showcase 2026: How to Watch and What to Expect",
-      "link": "https://www.ign.com/articles/galaxies-showcase-2026-how-to-watch-and-what-to-expect",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791475200
-    },
-    {
-      "title": "Star Wars Legend Timothy Zahn Makes the Lightspeed Jump to Star Trek in 2027 - NYCC 2026",
-      "link": "https://www.ign.com/articles/star-wars-legend-timothy-zahn-makes-the-lightspeed-jump-to-star-trek-in-2027-nycc-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791475141
-    },
-    {
       "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers",
       "link": "https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/",
       "source": "TECHCRUNCH",
@@ -276,7 +304,7 @@
     },
     {
       "title": "Elon Musk questions Ambani’s influence as Starlink India launch stalls",
-      "link": "https://techcrunch.com/2026/10/08/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+      "link": "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1791472379
@@ -385,34 +413,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1791410202
-    },
-    {
-      "title": "PA measles outbreak tops 1,000 cases, largest since disease was eliminated",
-      "link": "https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791403274
-    },
-    {
-      "title": "TP-Link problems in US grow amid FCC router ban and four state lawsuits",
-      "link": "https://arstechnica.com/tech-policy/2026/10/florida-sues-tp-link-claiming-it-hides-router-security-risks-and-links-to-china/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791402822
-    },
-    {
-      "title": "Chemistry Nobel goes to reactions like those that gave life a hand",
-      "link": "https://arstechnica.com/science/2026/10/chemistry-nobel-goes-to-reactions-like-those-that-gave-life-a-hand/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791398898
-    },
-    {
-      "title": "Pediatricians renew call to ban raw milk as anti-science rhetoric reigns",
-      "link": "https://arstechnica.com/health/2026/10/pediatricians-renew-call-to-ban-raw-milk-as-anti-science-rhetoric-reigns/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791397479
     },
     {
       "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
