@@ -1,6 +1,118 @@
 {
-  "last_updated": 1791581327,
+  "last_updated": 1791595790,
   "items": [
+    {
+      "title": "Magic: The Gathering Returns to Marvel with Darkhold Destiny",
+      "link": "https://www.ign.com/articles/magic-the-gathering-returns-to-marvel-with-darkhold-destiny",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791592602
+    },
+    {
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791591512
+    },
+    {
+      "title": "GTA 6 Fan Says Rockstar Sent Them a Poster Just Because They Asked Nicely",
+      "link": "https://www.ign.com/articles/gta-6-fan-says-rockstar-sent-them-a-poster-just-because-they-asked-nicely",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791590183
+    },
+    {
+      "title": "Konami Planning 'Second and Third Waves' of New Silent Hill Games",
+      "link": "https://www.ign.com/articles/konami-planning-second-and-third-waves-of-new-silent-hill-games",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791586050
+    },
+    {
+      "title": "Blumhouse Partners With MatPat to Make Amanda the Adventurer Movie, Confirms More Indie Horror Game Adaptations Are Coming | NYCC 2026",
+      "link": "https://www.ign.com/articles/blumhouse-partners-with-matpat-to-make-amanda-the-adventurer-movie-confirms-more-indie-horror-game-adaptations-are-coming-nycc-2026",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791585902
+    },
+    {
+      "title": "Neanderthal wooden tools from Spain found preserved in stone",
+      "link": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791585243
+    },
+    {
+      "title": "A Street Fighter Movie Sequel Is Already Being Written, but There’s a Catch",
+      "link": "https://www.ign.com/articles/a-street-fighter-movie-sequel-is-already-being-written-but-theres-a-catch",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791584800
+    },
+    {
+      "title": "Magic: The Gathering at NYCC Live Blog – Get Ready For Darkhold Destiny",
+      "link": "https://www.ign.com/articles/magic-the-gathering-at-nycc-everything-announced",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791584160
+    },
+    {
+      "title": "Long live the mechanical keyboard",
+      "link": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791583704
+    },
+    {
+      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791583447
+    },
+    {
+      "title": "The Oregon Coast Aquarium Has Now Named Multiple Octopuses After Dungeon Crawler Carl Characters",
+      "link": "https://www.ign.com/articles/the-oregon-coast-aquarium-has-now-named-multiple-octopuses-after-dungeon-crawler-carl-characters",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791583370
+    },
+    {
+      "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+      "link": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791582672
+    },
+    {
+      "title": "Gears of War: E-Day Estimated Sales Reach Just 230,000 in First Week, Analyst Says",
+      "link": "https://www.ign.com/articles/gears-of-war-e-day-estimated-sales-reach-just-230000-in-first-week-analyst-says",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791582575
+    },
+    {
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791582089
+    },
+    {
+      "title": "NASA issues long-awaited call to industry for private space stations",
+      "link": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791581649
+    },
+    {
+      "title": "What's been driving Hawaii's lava fountains?",
+      "link": "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791579901
+    },
     {
       "title": "The Street Fighter 2 Bonus Stage Car Is Real and You Can Win It",
       "link": "https://www.ign.com/articles/the-street-fighter-2-bonus-stage-car-is-real-and-you-can-win-it",
@@ -135,13 +247,6 @@
       "timestamp": 1791565913
     },
     {
-      "title": "New Avatar Show in Development as Seven Havens Renewed for Seasons 3 and 4",
-      "link": "https://www.ign.com/articles/new-avatar-show-in-development-as-seven-havens-renewed-for-seasons-3-and-4",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791565832
-    },
-    {
       "title": "LumenUs helps automate tedious paperwork in times of grief",
       "link": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
       "source": "TECHCRUNCH",
@@ -177,60 +282,11 @@
       "timestamp": 1791562046
     },
     {
-      "title": "Dungeons & Dragons Is Going to Outer Space With Star Wars: Tyro Squadron, First Look at Official Art",
-      "link": "https://www.ign.com/articles/dungeons-dragons-is-going-to-outer-space-with-star-wars-tyro-squadron-first-look-at-official-art",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791561600
-    },
-    {
-      "title": "Wardogs Dev Explains Why Blue Team Loses More, Confirms Plan to Address the Balance in Season 2",
-      "link": "https://www.ign.com/articles/wardogs-dev-explains-why-blue-team-loses-more-confirms-plan-to-address-the-balance-in-season-2",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791561600
-    },
-    {
-      "title": "Wardogs Dev Holding Back Certain Features Because of Xbox Series S, but Working to 'Very Low-End Hardware' Has Its Benefits",
-      "link": "https://www.ign.com/articles/wardogs-dev-holding-back-certain-features-because-of-xbox-series-s-but-working-to-very-low-end-hardware-has-its-benefits",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791561600
-    },
-    {
-      "title": "Wardogs Dev Says PS6 and Xbox Project Helix Ports Should Be Relatively Straightforward",
-      "link": "https://www.ign.com/articles/wardogs-dev-says-ps6-and-xbox-project-helix-ports-should-be-relatively-straightforward",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791561600
-    },
-    {
-      "title": "Wardogs' New Rain System Will Have a Major Effect on Gameplay in Season 2",
-      "link": "https://www.ign.com/articles/wardogs-new-rain-system-will-have-a-major-effect-on-gameplay-in-season-2",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791561600
-    },
-    {
-      "title": "Wardogs Season 2 Adds a New Gambling Mechanic That Lets You Bet on Yourself",
-      "link": "https://www.ign.com/articles/wardogs-season-2-adds-a-new-gambling-mechanic-that-lets-you-bet-on-yourself",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791561600
-    },
-    {
       "title": "Remember Orkut? Its founder wants to bring it back",
       "link": "https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1791561375
-    },
-    {
-      "title": "Battlefield 6’s Dead Space Event Has Players Storming Area 51",
-      "link": "https://www.ign.com/articles/battlefield-6-dead-space-event-area-51",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791561131
     },
     {
       "title": "a16z’s Olivia Moore on the state of consumer AI",
@@ -268,25 +324,11 @@
       "timestamp": 1791554400
     },
     {
-      "title": "Surveillance company Flock cuts staff as privacy backlash grows",
-      "link": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791553236
-    },
-    {
       "title": "Microsoft barred from sponsoring foreign workers for US residency",
       "link": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1791551673
-    },
-    {
-      "title": "Xona’s commercial GPS alternative is about to go live",
-      "link": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791547200
     },
     {
       "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
@@ -345,13 +387,6 @@
       "timestamp": 1791513442
     },
     {
-      "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
-      "link": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791498839
-    },
-    {
       "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
       "link": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
       "source": "ARSTECHNICA",
@@ -364,41 +399,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1791492781
-    },
-    {
-      "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
-      "link": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791491971
-    },
-    {
-      "title": "Feds get ready to rewrite car headlight rules",
-      "link": "https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791491173
-    },
-    {
-      "title": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
-      "link": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791490553
-    },
-    {
-      "title": "Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027",
-      "link": "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791489437
-    },
-    {
-      "title": "Driver wins $76 after ALPR led to bogus traffic stop, drug searches",
-      "link": "https://arstechnica.com/tech-policy/2026/10/driver-wins-76-after-alpr-led-to-bogus-traffic-stop-drug-searches/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791488550
     },
     {
       "title": "Could LeBron James help solve the 76ers' depth problem at center? Here's what the numbers say",
