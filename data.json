@@ -1,12 +1,33 @@
 {
-  "last_updated": 1791847667,
+  "last_updated": 1791868892,
   "items": [
+    {
+      "title": "SpaceX launches Falcon 9 Starlink mission for 1st time in more than 3 weeks (photos)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-falcon-9-starlink-mission-for-1st-time-in-more-than-3-weeks-photo",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1791861345
+    },
+    {
+      "title": "Mick Gordon Plans to Take His Upcoming Doom Concert Performance On the Road",
+      "link": "https://www.ign.com/articles/mick-gordon-plans-to-take-his-upcoming-doom-concert-performance-on-the-road",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791856476
+    },
     {
       "title": "Greta Gerwig's Narnia: The Magician's Nephew Wins Over Skeptical Fans With First Poster",
       "link": "https://www.ign.com/articles/greta-gerwigs-narnia-the-magicians-nephew-wins-over-skeptical-fans-with-first-poster",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1791844087
+    },
+    {
+      "title": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
+      "link": "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791842075
     },
     {
       "title": "Nintendo Was Reportedly Unhappy With Elon Musk's Saturday Night Live Wario Sketch",
@@ -231,13 +252,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1791817879
-    },
-    {
-      "title": "Miami Vice '85 Pictures Reveal First Look at Michael B. Jordan and Austin Butler in Costume",
-      "link": "https://www.ign.com/articles/miami-vice-85-pictures-reveal-first-look-at-michael-b-jordan-and-austin-butler-in-costume",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791817478
     },
     {
       "title": "F1 in Singapore: There's a new fastest car now",
@@ -534,13 +548,6 @@
       "timestamp": 1791630935
     },
     {
-      "title": "10 incredible places to see the 2027 'eclipse of the century' — beyond Luxor",
-      "link": "https://www.space.com/stargazing/solar-eclipses/10-incredible-places-to-see-the-2027-eclipse-of-the-century-beyond-luxor",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1791626400
-    },
-    {
       "title": "A famous quantum effect can finally be predicted in real materials",
       "link": "https://www.sciencedaily.com/releases/2026/10/261006234520.htm",
       "source": "SCIENCEDAILY",
@@ -567,13 +574,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1791582672
-    },
-    {
-      "title": "NASA issues long-awaited call to industry for private space stations",
-      "link": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791581649
     },
     {
       "title": "Takeaways from Knicks pausing contract extension talks: Is Josh Hart's time in New York running out?",
