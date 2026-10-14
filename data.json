@@ -1,11 +1,130 @@
 {
-  "last_updated": 1791921785,
+  "last_updated": 1791936407,
   "items": [
+    {
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791933211
+    },
+    {
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791932734
+    },
+    {
+      "title": "Peak Has Been Leaked for PS5 by the ESRB",
+      "link": "https://www.ign.com/articles/peak-has-been-leaked-for-ps5-by-the-esrb",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791932499
+    },
+    {
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791932400
+    },
+    {
+      "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
+      "link": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791931692
+    },
+    {
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791931019
+    },
+    {
+      "title": "Razer Reveals New Pokémon Gaming Headsets Featuring Sylveon, Charizard, and Lucario",
+      "link": "https://www.ign.com/articles/razer-reveals-3-new-pokemon-gaming-headsets-based-on-sylveon-charizard-lucario",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791930525
+    },
+    {
+      "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
+      "link": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791928549
+    },
+    {
+      "title": "Topgolf saved over $11.3 million after leaving VMware",
+      "link": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791927223
+    },
+    {
+      "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
+      "link": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791926100
+    },
+    {
+      "title": "Why the Celtics are getting a bargain on Payton Pritchard's two-year, $44.2 million contract extension",
+      "link": "https://www.cbssports.com/nba/news/payton-pritchard-contract-extension-boston-celtics-bargain/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1791925647
+    },
+    {
+      "title": "On this day in space! Oct. 13, 1773: Astronomer Charles Messier discovers the Whirlpool Galaxy before we ever knew it was a galaxy",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-13-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1791925200
+    },
+    {
+      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+      "link": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791925151
+    },
+    {
+      "title": "Will You Be Taking Time Off Work or School for GTA 6's Release Next Month?",
+      "link": "https://www.ign.com/articles/will-you-be-taking-time-off-work-or-school-for-gta-6s-release-next-month",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791924429
+    },
+    {
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791923804
+    },
+    {
+      "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
+      "link": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1791922433
+    },
     {
       "title": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt",
       "link": "https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/",
       "source": "TECHCRUNCH",
       "category": "tech",
+      "timestamp": 1791921600
+    },
+    {
+      "title": "'We basically did Top Gun in space': 'Star Trek Starfleet Academy' warps back into action in March 2027 for sophomore year in the final frontier",
+      "link": "https://www.space.com/entertainment/space-movies-shows/we-basically-did-top-gun-in-space-star-trek-starfleet-academy-warps-back-into-action-in-march-2027-for-sophomore-year-in-the-final-frontier",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1791921600
     },
     {
@@ -16,11 +135,25 @@
       "timestamp": 1791921600
     },
     {
-      "title": "'We basically did Top Gun in space': 'Star Trek Starfleet Academy' warps back into action in March 2027 for sophomore year in the final frontier",
-      "link": "https://www.space.com/entertainment/space-movies-shows/we-basically-did-top-gun-in-space-star-trek-starfleet-academy-warps-back-into-action-in-march-2027-for-sophomore-year-in-the-final-frontier",
-      "source": "SPACE",
-      "category": "space",
+      "title": "Send in the Clown Gameplay Trailer Focuses On Its Hilarious, One-and-Only Turn-Based RPG Battle | IGN Fan Fest 2026",
+      "link": "https://www.ign.com/articles/send-in-the-clown-gameplay-trailer-focuses-on-its-hilarious-one-and-only-turn-based-rpg-battle",
+      "source": "IGN",
+      "category": "gaming",
       "timestamp": 1791921600
+    },
+    {
+      "title": "Trump commercial railing against his enemies kept airing after court blocked it",
+      "link": "https://arstechnica.com/tech-policy/2026/10/trumps-taxpayer-funded-ads-kept-airing-on-tv-the-day-after-judge-blocked-them/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791921037
+    },
+    {
+      "title": "K/DA Reactivates Social Accounts, Fueling Rumors of the Virtual K-Pop Group’s Comeback After 6 Years",
+      "link": "https://www.ign.com/articles/kda-reactivates-social-accounts-fueling-rumors-of-the-virtual-k-pop-groups-comeback",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1791920750
     },
     {
       "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
@@ -51,8 +184,8 @@
       "timestamp": 1791916480
     },
     {
-      "title": "Rivian spinoff Mind Robotics hires former Ford EV chief Doug Field",
-      "link": "https://techcrunch.com/2026/10/13/rivian-spinoff-mind-robotics-hires-former-ford-ev-chief-doug-field/",
+      "title": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
+      "link": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1791916203
@@ -72,11 +205,25 @@
       "timestamp": 1791916189
     },
     {
+      "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+      "link": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791915813
+    },
+    {
       "title": "Why Victor Wembanyama is poised to level up in Year 4 takeover -- and possibly join historic MVP/DPOY company",
       "link": "https://www.cbssports.com/nba/news/victor-wembanyama-spurs-year-4-level-up-mvp-dpoy/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1791915527
+    },
+    {
+      "title": "Skydance’s Discovery+ prices increase by up to 20 percent",
+      "link": "https://arstechnica.com/gadgets/2026/10/skydances-discovery-prices-increase-by-up-to-20-percent/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1791914766
     },
     {
       "title": "Facebook is giving users more control over their algorithm",
@@ -149,20 +296,6 @@
       "timestamp": 1791910839
     },
     {
-      "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt",
-      "link": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791910800
-    },
-    {
-      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-      "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791910800
-    },
-    {
       "title": "9 Newly Announced Games From IGN Fan Fest: Fall Edition to Add to Your Wishlist",
       "link": "https://www.ign.com/articles/ign-fan-fest-fall-edition-9-new-games-wishlist",
       "source": "IGN",
@@ -196,13 +329,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1791910194
-    },
-    {
-      "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
-      "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791909000
     },
     {
       "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
@@ -254,46 +380,11 @@
       "timestamp": 1791904455
     },
     {
-      "title": "Rockstar's Multi-Million Dollar Miami Takeover Continues to Expand Ahead of GTA 6 Launch, Despite Protests from Some Officials",
-      "link": "https://www.ign.com/articles/rockstars-multi-million-dollar-miami-takeover-continues-to-expand-ahead-of-gta-6-launch-despite-protests-from-some-officials",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791903877
-    },
-    {
-      "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
-      "link": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791903720
-    },
-    {
       "title": "'Space Gal' Emily Calandrelli launches into the Marvel Universe this week on Disney Jr.'s 'Iron Man' series (exclusive)",
       "link": "https://www.space.com/entertainment/space-movies-shows/space-gal-emily-calandrelli-launches-into-the-marvel-universe-this-week-on-disney-jr-s-iron-man-series-exclusive",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1791903600
-    },
-    {
-      "title": "Nvidia RTX 5090 Reportedly Dead, but It's So Expensive That It Doesn't Really Matter",
-      "link": "https://www.ign.com/articles/nvidia-rtx-5090-reportedly-dead-but-its-so-expensive-that-it-doesnt-really-matter",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791902121
-    },
-    {
-      "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say ‘on Spotify’",
-      "link": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791901812
-    },
-    {
-      "title": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset",
-      "link": "https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791901548
     },
     {
       "title": "NASA's Perseverance Mars rover breaks interplanetary driving record — and it's far from done",
@@ -303,46 +394,11 @@
       "timestamp": 1791900869
     },
     {
-      "title": "GTA 6 Reportedly Set for PC Q1 2027",
-      "link": "https://www.ign.com/articles/gta-6-reportedly-set-for-pc-q1-2027",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791900070
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Day 1",
-      "link": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791900000
-    },
-    {
       "title": "Astronaut captures mesmerizing auroras with iPhone from ISS | Space photo of the day for Oct. 13, 2026",
       "link": "https://www.space.com/stargazing/astrophotography/astronaut-captures-auroras-with-iphone-from-iss-space-photo-of-the-day-for-oct-13-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1791900000
-    },
-    {
-      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
-      "link": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1791899419
-    },
-    {
-      "title": "Dan Houser Reveals How 9/11 Changed GTA Forever",
-      "link": "https://www.ign.com/articles/dan-houser-reveals-how-911-changed-gta-forever",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791897300
-    },
-    {
-      "title": "Dan Houser Reveals Rockstar’s Struggle to Make Bully",
-      "link": "https://www.ign.com/articles/dan-houser-reveals-rockstars-struggle-to-make-bully",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1791897300
     },
     {
       "title": "High-speed video reveals how honey bee stingers pump venom",
@@ -485,25 +541,11 @@
       "timestamp": 1791830803
     },
     {
-      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-      "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791829296
-    },
-    {
       "title": "The moon could turn astronauts into 'walking, high voltage capacitors' that accidentally zap spacecraft",
       "link": "https://www.space.com/astronomy/moon/the-moon-could-turn-astronauts-into-walking-high-voltage-capacitors-that-accidentally-zap-spacecraft",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1791828000
-    },
-    {
-      "title": "Russia was not ready for the data center war it started with Ukraine",
-      "link": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791827556
     },
     {
       "title": "NBA pressure rankings: 10 teams and players who will be feeling the most heat this season",
@@ -518,41 +560,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1791823960
-    },
-    {
-      "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
-      "link": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791820868
-    },
-    {
-      "title": "The 'Halloween Fireballs' are coming. Here's what to expect from the Taurids this October",
-      "link": "https://www.space.com/stargazing/meteor-showers/the-halloween-fireballs-are-coming-heres-what-to-expect-from-the-taurids-this-year",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1791820800
-    },
-    {
-      "title": "F1 in Singapore: There's a new fastest car now",
-      "link": "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791816194
-    },
-    {
-      "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
-      "link": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791810052
-    },
-    {
-      "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
-      "link": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791808990
     },
     {
       "title": "Scientists discover a hidden factor that can make or break chemical reactions",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1791318620
-    },
-    {
-      "title": "Giannis Antetokounmpo leaning into 'Heat Culture' ahead of first season in Miami: 'It gives me goosebumps'",
-      "link": "https://www.cbssports.com/nba/news/giannis-antetokounmpo-miami-heat-culture-bucks-nba/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1791299005
     }
   ]
 }
