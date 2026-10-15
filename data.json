@@ -1,6 +1,153 @@
 {
-  "last_updated": 1792072480,
+  "last_updated": 1792087158,
   "items": [
+    {
+      "title": "Vaonis unveils Atlas, the world's 1st modular smart telescope system",
+      "link": "https://www.space.com/stargazing/skywatching-kit/modularity-is-here-vaonis-uveils-their-new-atlas-smart-telescope-system",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792086000
+    },
+    {
+      "title": "Volvo makes a bigger bet on Nvidia",
+      "link": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792085680
+    },
+    {
+      "title": "CD Projekt Has Officially Begun Work on Project Hadar, but It's Not in Pre-Production Yet",
+      "link": "https://www.ign.com/articles/cd-projekt-has-officially-begun-work-on-project-hadar-but-its-not-in-pre-production-yet",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792085002
+    },
+    {
+      "title": "Zendaya and Alex 'Ex Machina' Garland Team up for New Sci-Fi Movie",
+      "link": "https://www.ign.com/articles/zendaya-and-alex-ex-machina-garland-team-up-for-new-sci-fi-movie",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792084716
+    },
+    {
+      "title": "Rocket Lab announces another delay for its medium-lift Neutron rocket",
+      "link": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792083444
+    },
+    {
+      "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
+      "link": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792082737
+    },
+    {
+      "title": "NBA over/under predictions for every Eastern Conference team: Knicks, 76ers overvalued? Raptors ready to rise?",
+      "link": "https://www.cbssports.com/nba/news/nba-eastern-conference-over-under-win-total-predictions/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792082677
+    },
+    {
+      "title": "NASA's SkyFall helicopters will 'show us parts of Mars we've never seen before', scientists say",
+      "link": "https://www.space.com/astronomy/mars/nasas-skyfall-helicopters-will-show-us-parts-of-mars-weve-never-seen-before-scientists-say",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792080000
+    },
+    {
+      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+      "link": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792079004
+    },
+    {
+      "title": "Diablo 5 Inches Closer to Launch as Cinematics Work Begins",
+      "link": "https://www.ign.com/articles/diablo-5-inches-closer-to-launch-as-cinematics-work-begins",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792079003
+    },
+    {
+      "title": "Over 30 New GTA 6 Screenshots From the Launch Trailer",
+      "link": "https://www.ign.com/articles/over-30-new-gta-6-screenshots-from-the-launch-trailer",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792077545
+    },
+    {
+      "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
+      "link": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792077178
+    },
+    {
+      "title": "NBA Eastern Conference tiers: Knicks on top, but new-look contenders emerge after eventful offseason",
+      "link": "https://www.cbssports.com/nba/news/nba-eastern-conference-knicks-on-top-contenders-emerge/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792076961
+    },
+    {
+      "title": "Sega Pulls Disastrous Total War: Shogun 2 Remaster From Sale Following Backlash",
+      "link": "https://www.ign.com/articles/total-war-shogun-2-remaster-pulled-from-sale",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792076944
+    },
+    {
+      "title": "Rewilding could help vulnerable islands keep pace with rising seas",
+      "link": "https://arstechnica.com/science/2026/10/seabirds-forests-and-coral-could-help-save-sinking-islands/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792076740
+    },
+    {
+      "title": "AI agents are coming to Rivian’s cars",
+      "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792076556
+    },
+    {
+      "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
+      "link": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792075629
+    },
+    {
+      "title": "Activision Thinks GTA 6 Will Actually Help Modern Warfare 4: 'No Offense to Zelda, but [GTA and COD] Are the 2 Biggest Games of the Year'",
+      "link": "https://www.ign.com/articles/activision-thinks-gta-6-will-actually-help-modern-warfare-4-no-offense-to-zelda-but-gta-and-cod-are-the-2-biggest-games-of-the-year",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792075190
+    },
+    {
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792074573
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Last day",
+      "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792072800
+    },
+    {
+      "title": "Windblown yardangs on Mars | Space photo of the day for Oct. 15, 2026",
+      "link": "https://www.space.com/astronomy/stars/windblown-yardangs-on-mars-space-photo-of-the-day-for-oct-15-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792072800
+    },
     {
       "title": "GTA 6 Launch Trailer Teases Jason's Troubled Past, a Steamy Shower Scene With Lucia, and Much More",
       "link": "https://www.ign.com/articles/gta-6-launch-trailer-teases-jasons-troubled-past-a-steamy-shower-scene-with-lucia-and-much-more",
@@ -16,17 +163,17 @@
       "timestamp": 1792069268
     },
     {
-      "title": "Clash Royale: The Grand Arena Board Game Exclusive Trailer and Kickstarter Reveal",
-      "link": "https://www.ign.com/articles/clash-royale-the-grand-arena-board-game-kickstarter-reveal-and-interview",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792069200
-    },
-    {
       "title": "Beat light pollution with these six portable telescopes",
       "link": "https://www.space.com/stargazing/skywatching-kit/beat-light-pollution-with-these-six-portable-telescopes",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1792069200
+    },
+    {
+      "title": "Clash Royale: The Grand Arena Board Game Exclusive Trailer and Kickstarter Reveal",
+      "link": "https://www.ign.com/articles/clash-royale-the-grand-arena-board-game-kickstarter-reveal-and-interview",
+      "source": "IGN",
+      "category": "gaming",
       "timestamp": 1792069200
     },
     {
@@ -149,13 +296,6 @@
       "timestamp": 1792052419
     },
     {
-      "title": "DC’s Mister Miracle Animated Series Lead Voices Confirmed",
-      "link": "https://www.ign.com/articles/dcs-mister-miracle-animated-series-lead-voices-confirmed",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792044731
-    },
-    {
       "title": "Figma announces new features to define how agents work on its platform",
       "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
       "source": "TECHCRUNCH",
@@ -163,7 +303,7 @@
       "timestamp": 1792038600
     },
     {
-      "title": "Watch SpaceX deliver more than 6,000 pounds of cargo to the ISS today",
+      "title": "SpaceX Cargo Dragon delivers more than 6,000 pounds of supplies to the ISS",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-iss-cargo-mission-docking",
       "source": "SPACE",
       "category": "space",
@@ -198,32 +338,11 @@
       "timestamp": 1792022400
     },
     {
-      "title": "Obsession Star Inde Navarrette Says She Studied Anime Like Jujutsu Kaisen and Demon Slayer to Learn Screenwriting",
-      "link": "https://www.ign.com/articles/obsession-star-inde-navarrette-says-she-studied-anime-like-jujutsu-kaisen-and-demon-slayer-to-learn-screenwriting",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792021980
-    },
-    {
-      "title": "Marvel TV Boss Says Daredevil: Born Again Was Always Meant to End With Season 3, Despite Previously Suggesting Otherwise",
-      "link": "https://www.ign.com/articles/marvel-tv-boss-says-daredevil-born-again-was-always-meant-to-end-with-season-3-despite-previously-suggesting-otherwise",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792021744
-    },
-    {
       "title": "Scientists reveal 93% of Australia's Indigenous population was lost in just 73 years",
       "link": "https://www.sciencedaily.com/releases/2026/10/261013015807.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1792020840
-    },
-    {
-      "title": "Lanterns Season 2 Isn't a Guarantee, But a Decision Will Be Made This Year",
-      "link": "https://www.ign.com/articles/lanterns-season-2-isnt-a-guarantee-but-a-decision-will-be-made-this-year",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792020390
     },
     {
       "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
@@ -238,20 +357,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1792018316
-    },
-    {
-      "title": "Callina Liang Says She Felt 'A Lot of Pressure' After Seeing How Reddit Reacted to Her Being Cast as Chun-Li",
-      "link": "https://www.ign.com/articles/callina-liang-says-she-felt-a-lot-of-pressure-after-seeing-how-reddit-reacted-to-her-being-cast-as-chun-li",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792018200
-    },
-    {
-      "title": "Xbox Reportedly Surveys Users On Return to Full Exclusivity for its Games",
-      "link": "https://www.ign.com/articles/xbox-reportedly-surveys-users-on-return-to-full-exclusivity-for-its-games",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792017928
     },
     {
       "title": "Warriors' Kristaps Porziņģis breaks silence on mysterious health issues, remains out indefinitely",
@@ -282,13 +387,6 @@
       "timestamp": 1792013709
     },
     {
-      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-      "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792013433
-    },
-    {
       "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
       "link": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
       "source": "ARSTECHNICA",
@@ -301,13 +399,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1792011791
-    },
-    {
-      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
-      "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792011600
     },
     {
       "title": "Planetary genealogy: Milky Way worlds belong to 1 of 2 'families,' scientists find",
@@ -324,32 +415,11 @@
       "timestamp": 1792010887
     },
     {
-      "title": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
-      "link": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792009585
-    },
-    {
       "title": "Schools across US protest FCC plan that could disconnect kids from Internet",
       "link": "https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1792008956
-    },
-    {
-      "title": "Electric vehicle sales in the US are showing signs of life",
-      "link": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792008727
-    },
-    {
-      "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
-      "link": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792008000
     },
     {
       "title": "'Dungeon Crawler Carl' author Matt Dinniman talks inspirations, success, and the upcoming Peacock TV series (interview)",
@@ -364,13 +434,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1792007581
-    },
-    {
-      "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
-      "link": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792007494
     },
     {
       "title": "Software development and rules stability: Prototype racing in 2030",
@@ -485,13 +548,6 @@
       "timestamp": 1791982800
     },
     {
-      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-      "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791982506
-    },
-    {
       "title": "Rays win Game 2 to knot up ALCS; Pete Prisco's latest NFL Power Rankings; top 100 NBA players",
       "link": "https://www.cbssports.com/mlb/news/rays-guardians-alcs-prisco-nfl-power-rankings-top-100-nba-players/",
       "source": "CBSSPORTS",
@@ -527,25 +583,11 @@
       "timestamp": 1791977783
     },
     {
-      "title": "The Internet’s undersea backbone is slipping into the danger zone",
-      "link": "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791976524
-    },
-    {
       "title": "Scientists may have overlooked a hidden Alzheimer's culprit for decades",
       "link": "https://www.sciencedaily.com/releases/2026/10/261013015838.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1791975979
-    },
-    {
-      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
-      "link": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791975630
     },
     {
       "title": "Scientists may have finally solved the mystery of the Moon’s two faces",
@@ -560,13 +602,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1791973078
-    },
-    {
-      "title": "Scientists discover that some of the universe's biggest explosions may have never happened at all",
-      "link": "https://www.space.com/astronomy/stars/scientists-discover-that-some-of-the-universes-biggest-explosions-may-never-have-happened",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1791972000
     },
     {
       "title": "Gigantic prehistoric snake discovered in India may have been one of the largest ever",
@@ -590,32 +625,11 @@
       "timestamp": 1791937480
     },
     {
-      "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
-      "link": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1791931692
-    },
-    {
       "title": "Why the Celtics are getting a bargain on Payton Pritchard's two-year, $44.2 million contract extension",
       "link": "https://www.cbssports.com/nba/news/payton-pritchard-contract-extension-boston-celtics-bargain/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1791925647
-    },
-    {
-      "title": "On this day in space! Oct. 13, 1773: Astronomer Charles Messier discovers the Whirlpool Galaxy before we ever knew it was a galaxy",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-13-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1791925200
-    },
-    {
-      "title": "See the original Galileo shuttle from 'Star Trek' in its new home at the Original Series Set Tour in New York",
-      "link": "https://www.space.com/entertainment/star-treks-galileo-shuttle-warps-into-new-york-as-part-of-the-original-series-set-tour",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1791921600
     },
     {
       "title": "Why Victor Wembanyama is poised to level up in Year 4 takeover -- and possibly join historic MVP/DPOY company",
@@ -658,20 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1791654245
-    },
-    {
-      "title": "Takeaways from Knicks pausing contract extension talks: Is Josh Hart's time in New York running out?",
-      "link": "https://www.cbssports.com/nba/news/knicks-pause-contract-extension-talks-karl-anthony-towns-josh-hart-deuce-mcbride/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1791573739
-    },
-    {
-      "title": "Ranking every NBA team's defense entering the 2026-27 season: Thunder and Spurs competing for top spot",
-      "link": "https://www.cbssports.com/nba/news/ranking-every-nba-defense-2026-27-season-thunder-spurs/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1791571017
     }
   ]
 }
