@@ -1,6 +1,146 @@
 {
-  "last_updated": 1792054117,
+  "last_updated": 1792072480,
   "items": [
+    {
+      "title": "GTA 6 Launch Trailer Teases Jason's Troubled Past, a Steamy Shower Scene With Lucia, and Much More",
+      "link": "https://www.ign.com/articles/gta-6-launch-trailer-teases-jasons-troubled-past-a-steamy-shower-scene-with-lucia-and-much-more",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792069871
+    },
+    {
+      "title": "With The Mummy 4 in Full Swing, Oded Fehr Jokes The Mummy 3 Doesn't Exist — Although John Hannah Firmly Disagrees",
+      "link": "https://www.ign.com/articles/with-the-mummy-4-in-full-swing-oded-fehr-jokes-the-mummy-3-doesnt-exist-although-john-hannah-firmly-disagrees",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792069268
+    },
+    {
+      "title": "Clash Royale: The Grand Arena Board Game Exclusive Trailer and Kickstarter Reveal",
+      "link": "https://www.ign.com/articles/clash-royale-the-grand-arena-board-game-kickstarter-reveal-and-interview",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792069200
+    },
+    {
+      "title": "Beat light pollution with these six portable telescopes",
+      "link": "https://www.space.com/stargazing/skywatching-kit/beat-light-pollution-with-these-six-portable-telescopes",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792069200
+    },
+    {
+      "title": "Brewers bash champion Dodgers to brink of NLCS sweep; CBS Sports Preseason All-America team revealed",
+      "link": "https://www.cbssports.com/mlb/news/brewers-bash-champion-dodgers-to-brink-of-nlcs-sweep-cbs-sports-preseason-all-america-team-revealed/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792068884
+    },
+    {
+      "title": "Mysterious brain activity under anesthesia challenges what we know about consciousness",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792068725
+    },
+    {
+      "title": "Arctic sea ice hits another troubling low in 2026",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261015073212.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792068044
+    },
+    {
+      "title": "Sony Reminds PlayStation Plus Subscribers That GTA 5 Leaves the Library 2 Days Before GTA 6 Comes Out",
+      "link": "https://www.ign.com/articles/playstation-plus-losing-gta-5-ahead-of-gta-6",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792066791
+    },
+    {
+      "title": "GTA 6 Will Make The Game Awards Cutoff Date for Eligibility by the Skin of Its Teeth, Confirming It Has a Chance at 2026 Game of the Year",
+      "link": "https://www.ign.com/articles/gta-6-will-make-the-game-awards-cutoff-date-for-eligibility-by-the-skin-of-its-teeth-confirming-it-has-a-chance-at-2026-game-of-the-year",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792065936
+    },
+    {
+      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+      "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792065600
+    },
+    {
+      "title": "Scientists discover 'chemical starter kit' for life in planetary birthplaces",
+      "link": "https://www.space.com/space-exploration/search-for-life/scientists-discover-chemical-starter-kit-for-life-in-planetary-birthplaces",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792065600
+    },
+    {
+      "title": "A fungus is threatening the world’s food supply. Scientists just found a new defense",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261014015501.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792064743
+    },
+    {
+      "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
+      "link": "https://www.ign.com/articles/gta-6s-level-of-detail-is-so-extreme-rockstar-built-an-entire-scripted-system-just-for-sweat",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792063944
+    },
+    {
+      "title": "Scientists discover a surprising danger in smaller cancer cells",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261013015835.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792063660
+    },
+    {
+      "title": "Rock Hard Platformer 'Refund This Game' Challenges You to Beat It Within Steam’s 2-Hour Refund Window",
+      "link": "https://www.ign.com/articles/new-rage-refund-this-game",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792061943
+    },
+    {
+      "title": "Devious Arc Raiders Griefers Are Having Fun in PvE, Camping Locked Loot Rooms and Pulling Enemy Robots Into Extraction Points",
+      "link": "https://www.ign.com/articles/arc-raiders-pve-griefers",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792059234
+    },
+    {
+      "title": "Rare study reveals a striking divide inside an Alzheimer’s patient’s brain",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261013015814.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792058724
+    },
+    {
+      "title": "Citizen Lab says governments are abusing online ads to hack people with ‘zero-click’ spyware",
+      "link": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792058400
+    },
+    {
+      "title": "SpaceX wants to launch Starship more than 450 times per year from South Texas",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-launch-starship-more-than-450-times-per-year-from-south-texas",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792058400
+    },
+    {
+      "title": "Blue Team Only Wins 15% of Its Wardogs Games — We Asked a Color Expert Why",
+      "link": "https://www.ign.com/articles/wardogs-blue-team-winrate-color-psychologist",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792054569
+    },
     {
       "title": "Big Walk Developer Explains Why the Game Isn't on Xbox",
       "link": "https://www.ign.com/articles/big-walk-developer-explains-why-the-game-isnt-on-xbox",
@@ -114,13 +254,6 @@
       "timestamp": 1792017928
     },
     {
-      "title": "The Street Fighter Cast Would Love to Make a Mortal Kombat Crossover Movie",
-      "link": "https://www.ign.com/articles/the-street-fighter-cast-would-love-to-make-a-mortal-kombat-crossover-movie",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792015978
-    },
-    {
       "title": "Warriors' Kristaps Porziņģis breaks silence on mysterious health issues, remains out indefinitely",
       "link": "https://www.cbssports.com/nba/news/warriors-kristaps-porzingis-mysterious-health-issues-timeline/",
       "source": "CBSSPORTS",
@@ -156,25 +289,11 @@
       "timestamp": 1792013433
     },
     {
-      "title": "A Broken iPhone Duo Could Cost Up to $1,499 to Repair",
-      "link": "https://www.ign.com/articles/a-broken-iphone-duo-could-cost-up-to-1499-to-repair",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792012636
-    },
-    {
       "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
       "link": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1792012556
-    },
-    {
-      "title": "The Pokémon Center's New 'Winter Night Sky' Holiday Collection Comes With a Free Sticker Sheet",
-      "link": "https://www.ign.com/articles/the-pokemon-center-winter-night-sky-holiday-collection-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792011881
     },
     {
       "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
@@ -184,13 +303,6 @@
       "timestamp": 1792011791
     },
     {
-      "title": "Andrew Schulz Explains His Viral Mortal Kombat Movie Callout at the Game Awards",
-      "link": "https://www.ign.com/articles/andrew-schulz-explains-his-viral-mortal-kombat-movie-callout-at-the-game-awards",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792011771
-    },
-    {
       "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
       "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
       "source": "TECHCRUNCH",
@@ -198,7 +310,7 @@
       "timestamp": 1792011600
     },
     {
-      "title": "Planetary genealogy: Milky Way worlds belong to 1 of 2 ‘families,’ scientists find",
+      "title": "Planetary genealogy: Milky Way worlds belong to 1 of 2 'families,' scientists find",
       "link": "https://www.space.com/astronomy/exoplanets/planetary-genealogy-milky-way-worlds-belong-to-1-of-2-families-scientists-find",
       "source": "SPACE",
       "category": "space",
@@ -224,13 +336,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1792008956
-    },
-    {
-      "title": "GTA 6 Was Originally Meant to Release Much Sooner Than We Realized",
-      "link": "https://www.ign.com/articles/gta-6-was-originally-meant-to-release-much-sooner-than-we-realized",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792008909
     },
     {
       "title": "Electric vehicle sales in the US are showing signs of life",
@@ -275,25 +380,11 @@
       "timestamp": 1792007066
     },
     {
-      "title": "Valve May Be Working on an OLED Steam Frame, According to Datamined Source Code",
-      "link": "https://www.ign.com/articles/valve-may-be-working-on-an-oled-steam-frame-according-to-datamined-source-code",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792005456
-    },
-    {
       "title": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
       "link": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1792005058
-    },
-    {
-      "title": "Zangief Actor Olivier Richters Really Wants to Play Tyr in the Live-Action God of War Show",
-      "link": "https://www.ign.com/articles/zangief-actor-olivier-richters-really-wants-to-play-tyr-in-the-live-action-god-of-war-show",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792004678
     },
     {
       "title": "NBA's most underrated players: An improving LaMelo Ball, a picked-on James Harden ... and a rookie?",
@@ -303,39 +394,11 @@
       "timestamp": 1792004427
     },
     {
-      "title": "Hiyd is a health tracker that attaches to the watch you already wear",
-      "link": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792004400
-    },
-    {
-      "title": "Get Ready to Wet Yourself For Urine Trouble: PEE V PEE | IGN Fall Fan Fest 2026",
-      "link": "https://www.ign.com/articles/get-ready-to-wet-yourself-for-urine-trouble-pee-v-pee-ign-fall-fan-fest-2026",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792004400
-    },
-    {
-      "title": "How to Rob a Bank: Exclusive Sneak Peek at Nicholas Hoult's Heist Movie | IGN Fall Fan Fest 2026",
-      "link": "https://www.ign.com/articles/how-to-rob-a-bank-movie-sneak-peek",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792004400
-    },
-    {
       "title": "Top 50 NBA trade candidates for 2026-27 season: Anthony Davis, Zion Williamson and more names to watch",
       "link": "https://www.cbssports.com/nba/news/top-50-nba-trade-candidates-2026-27-season/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1792002613
-    },
-    {
-      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-      "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792002226
     },
     {
       "title": "SpaceX's Starship just turned 10 years old. When will it go to Mars?",
@@ -527,20 +590,6 @@
       "timestamp": 1791937480
     },
     {
-      "title": "AI reveals a hidden chemical shortcut that could turn CO2 into fuel",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261013015758.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1791936071
-    },
-    {
-      "title": "210-million-year-old dinosaur discovery reveals a lost world in Africa",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261012185013.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1791931983
-    },
-    {
       "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
       "link": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
       "source": "ARSTECHNICA",
@@ -569,32 +618,11 @@
       "timestamp": 1791921600
     },
     {
-      "title": "'We basically did Top Gun in space': 'Star Trek Starfleet Academy' warps back into action in March 2027 for sophomore year in the final frontier",
-      "link": "https://www.space.com/entertainment/space-movies-shows/we-basically-did-top-gun-in-space-star-trek-starfleet-academy-warps-back-into-action-in-march-2027-for-sophomore-year-in-the-final-frontier",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1791921600
-    },
-    {
       "title": "Why Victor Wembanyama is poised to level up in Year 4 takeover -- and possibly join historic MVP/DPOY company",
       "link": "https://www.cbssports.com/nba/news/victor-wembanyama-spurs-year-4-level-up-mvp-dpoy/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1791915527
-    },
-    {
-      "title": "Earth's poles shifted surprisingly fast during the age of dinosaurs, ancient sea levels reveal",
-      "link": "https://www.space.com/astronomy/earth/earths-poles-shifted-surprisingly-fast-during-the-age-of-dinosaurs-ancient-sea-levels-reveal",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1791914400
-    },
-    {
-      "title": "How to watch 'VisionQuest' online — stream the MCU's 'WandaVision' spinoff series from anywhere",
-      "link": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-visionquest",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1791913500
     },
     {
       "title": "Kentavious Caldwell-Pope says 76ers' success will come down to 'us liking each other'",
@@ -609,27 +637,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1791904911
-    },
-    {
-      "title": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1791890844
-    },
-    {
-      "title": "This tiny jurassic predator helped pave the way for the human brain",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261012185005.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1791888262
-    },
-    {
-      "title": "DNA recording system reveals how a single cell becomes a body",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261011211556.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1791886628
     },
     {
       "title": "NBA pressure rankings: 10 teams and players who will be feeling the most heat this season",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1791571017
-    },
-    {
-      "title": "Knicks pause contract negotiations with Karl-Athony Towns, Josh Hart, others until 'later in the season'",
-      "link": "https://www.cbssports.com/nba/news/knicks-pause-contract-negotiations-karl-athony-towns-josh-hart/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1791555684
     }
   ]
 }
