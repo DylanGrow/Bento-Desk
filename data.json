@@ -1,6 +1,111 @@
 {
-  "last_updated": 1792178167,
+  "last_updated": 1792189719,
   "items": [
+    {
+      "title": "NBA over/under predictions for every Eastern Conference team: Knicks, 76ers overvalued? Raptors ready to rise?",
+      "link": "https://www.cbssports.com/nba/news/nba-eastern-conference-over-under-win-total-predictions/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792189224
+    },
+    {
+      "title": "NBA over/under predictions for every Western Conference team: Lakers undervalued, Warriors in for a long year",
+      "link": "https://www.cbssports.com/nba/news/nba-western-conference-over-under-win-total-predictions-thunder-spurs-lakers-warriors/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792189168
+    },
+    {
+      "title": "'It really does change you': SpaceX Crew-12 commander wishes we could all see our fragile Earth from space",
+      "link": "https://www.space.com/space-exploration/international-space-station/it-really-does-change-you-spacex-crew-12-commander-wishes-we-could-all-see-our-fragile-earth-from-space",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792188000
+    },
+    {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792185748
+    },
+    {
+      "title": "‘There Should be a Game Award for Hot Dads’ — Castlevania: Belmont’s Curse Devs Are Fully Aware and Loving the ‘Horny’ Fanart for Their Game",
+      "link": "https://www.ign.com/articles/there-should-be-a-game-award-for-hot-dads-castlevania-belmonts-curse-devs-are-fully-aware-and-loving-the-horny-fanart-for-their-game",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792184630
+    },
+    {
+      "title": "True Detective Season 5 Confirms Antonio Banderas and Nicolas Cage as Its Leads",
+      "link": "https://www.ign.com/articles/true-detective-season-5-confirms-antonio-banderas-and-nicolas-cage-as-its-leads",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792183766
+    },
+    {
+      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+      "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792182007
+    },
+    {
+      "title": "Pokémon Reveals New 'Holiday Helper’ Plush Collection With a Christmas Tree Pikachu and Clodsire Sled",
+      "link": "https://www.ign.com/articles/pokemon-holiday-helper-plush-reveal",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792181390
+    },
+    {
+      "title": "Dragon Ball’s Goku Voice Actor 'Furious' Over AI Videos Using Her Voice Without Permission",
+      "link": "https://www.ign.com/articles/dragon-balls-goku-voice-actor-furious-over-ai-videos-using-her-voice-without-permission",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792181083
+    },
+    {
+      "title": "PlayStation 6 Will Likely Have Sony's Own Take on Frame Generation, According to Latest Patent",
+      "link": "https://www.ign.com/articles/playstation-6-will-likely-have-sonys-own-take-on-frame-generation-according-to-latest-patent",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792180977
+    },
+    {
+      "title": "When not to watch a meteor shower — why I'm not staying up for the Orionids",
+      "link": "https://www.space.com/stargazing/when-not-to-watch-a-meteor-shower-why-im-not-staying-up-for-the-orionids",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792180800
+    },
+    {
+      "title": "Ghost of Yotei Sales Lag Behind Tsushima but Are Still Strong on PS5, Analyst Estimates Show",
+      "link": "https://www.ign.com/articles/ghost-of-yotei-sales-lagging-behind-tsushima-but-still-strong-on-ps5-analyst-estimates-show",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792180785
+    },
+    {
+      "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
+      "link": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792179678
+    },
+    {
+      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+      "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792179600
+    },
+    {
+      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+      "link": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792177910
+    },
     {
       "title": "NBA instructs sportsbook partners to ban certain bets ripe for manipulation, per report",
       "link": "https://www.cbssports.com/nba/news/nba-sportsbook-partners-ban-certain-bets/",
@@ -9,15 +114,15 @@
       "timestamp": 1792174575
     },
     {
-      "title": "How to see the Orionid meteor shower 2026 peak this week — and when to look",
-      "link": "https://www.space.com/stargazing/meteor-showers/how-to-see-the-orionid-meteor-shower-2026-peak-this-week-and-when-to-look",
+      "title": "Scientists find 'gemstones' in atmosphere of bizarre, scorching-hot 'marshmallow' exoplanet",
+      "link": "https://www.space.com/astronomy/exoplanets/scientists-find-gemstones-in-atmosphere-of-bizarre-scorching-hot-marshmallow-exoplanet",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792173600
     },
     {
-      "title": "Scientists find 'gemstones' in atmosphere of bizarre, scorching-hot 'marshmallow' exoplanet",
-      "link": "https://www.space.com/astronomy/exoplanets/scientists-find-gemstones-in-atmosphere-of-bizarre-scorching-hot-marshmallow-exoplanet",
+      "title": "How to see the Orionid meteor shower 2026 peak this week — and when to look",
+      "link": "https://www.space.com/stargazing/meteor-showers/how-to-see-the-orionid-meteor-shower-2026-peak-this-week-and-when-to-look",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792173600
@@ -324,13 +429,6 @@
       "timestamp": 1792149236
     },
     {
-      "title": "Here's Our First Look at Dark Link in The Legend of Zelda: Ocarina of Time Remake",
-      "link": "https://www.ign.com/articles/heres-our-first-look-at-dark-link-in-the-legend-of-zelda-ocarina-of-time-remake",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792148682
-    },
-    {
       "title": "Rocket Report: FAA eyes more Starbase traffic; India's Skyroot snares US customer",
       "link": "https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/",
       "source": "ARSTECHNICA",
@@ -352,13 +450,6 @@
       "timestamp": 1792146723
     },
     {
-      "title": "The Dark Tower TV Series Would Be 'Remarkably Faithful' to Stephen King's Books, Mike Flanagan Says",
-      "link": "https://www.ign.com/articles/the-dark-tower-tv-series-would-be-remarkably-faithful-to-stephen-kings-books-mike-flanagan-says",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792145465
-    },
-    {
       "title": "Blue Origin is going all in on the New Glenn rocket",
       "link": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/",
       "source": "ARSTECHNICA",
@@ -378,20 +469,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792144800
-    },
-    {
-      "title": "Rockstar Mods Real Life Vehicles to Look Like GTA 6 Cars Before Driving Them Through Miami",
-      "link": "https://www.ign.com/articles/rockstar-mods-real-life-vehicles-gta-6-cars-miami",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792142010
-    },
-    {
-      "title": "Mike Flanagan Explains Why Warhammer 40,000 Is a 'Brutally Difficult Adaptation'",
-      "link": "https://www.ign.com/articles/mike-flanagan-explains-why-warhammer-40000-is-a-brutally-difficult-adaptation",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792139045
     },
     {
       "title": "NASA captures strange waves high above Hurricane Simon",
@@ -450,25 +527,11 @@
       "timestamp": 1792107896
     },
     {
-      "title": "'I Just Sort of Disconnect' — Jeff Kaplan is Avoiding Overwatch at all Costs",
-      "link": "https://www.ign.com/articles/i-just-sort-of-disconnect-jeff-kaplan-is-avoiding-overwatch-at-all-costs",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792107856
-    },
-    {
       "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
       "link": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1792107225
-    },
-    {
-      "title": "Rep. Ritchie Torres Introduces Legislation to Ensure Gamers Own Their Digital Games",
-      "link": "https://www.ign.com/articles/rep-ritchie-torress-introduces-legislation-to-ensure-gamers-own-their-digital-games",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792106468
     },
     {
       "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
@@ -492,32 +555,11 @@
       "timestamp": 1792098597
     },
     {
-      "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
-      "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792096693
-    },
-    {
       "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
       "link": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1792096361
-    },
-    {
-      "title": "Above the 911? Porsche previews a new mid-engined supercar.",
-      "link": "https://arstechnica.com/cars/2026/10/porsche-previews-its-future-with-mission-s-supercar-concept/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792096202
-    },
-    {
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792094693
     },
     {
       "title": "NBA's most overrated players: James Harden and Paul George make list -- and so do some young All-Stars",
@@ -534,27 +576,6 @@
       "timestamp": 1792094400
     },
     {
-      "title": "On this day in space! Oct. 15, 1997: NASA launches Cassini-Hugyens probe on 7-year voyage to Saturn",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-15-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1792091606
-    },
-    {
-      "title": "What did the Liberty Bell sound like? Science is on the case.",
-      "link": "https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792091403
-    },
-    {
-      "title": "Black Sea drone attacks enter NATO country's territorial waters for first time",
-      "link": "https://arstechnica.com/gadgets/2026/10/black-sea-drone-attacks-enter-nato-countrys-territorial-waters-for-first-time/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792090091
-    },
-    {
       "title": "2026-27 NBA GM survey takeaways: Spurs favored to win title with Wemby as MVP, league execs unsure about 76ers",
       "link": "https://www.cbssports.com/nba/news/2026-27-nba-gm-survey-takeaways-victor-wembanyama-mvp-spurs-76ers-knicks/",
       "source": "CBSSPORTS",
@@ -567,20 +588,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1792088424
-    },
-    {
-      "title": "SpaceX launches classified mission for the US Space Force (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-space-force-launch-ussf-481-vandenberg",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1792087200
-    },
-    {
-      "title": "NBA over/under predictions for every Eastern Conference team: Knicks, 76ers overvalued? Raptors ready to rise?",
-      "link": "https://www.cbssports.com/nba/news/nba-eastern-conference-over-under-win-total-predictions/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792082677
     },
     {
       "title": "NBA Eastern Conference tiers: Knicks on top, but new-look contenders emerge after eventful offseason",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1791999191
-    },
-    {
-      "title": "NBA rookie impact rankings: 10 first-year players who will make presence felt immediately",
-      "link": "https://www.cbssports.com/nba/news/nba-rookie-impact-rankings-cameron-boozer-darryn-peterson/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1791987247
     }
   ]
 }
