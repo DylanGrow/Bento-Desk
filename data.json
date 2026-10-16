@@ -1,6 +1,48 @@
 {
-  "last_updated": 1792128259,
+  "last_updated": 1792147106,
   "items": [
+    {
+      "title": "The Dark Tower TV Series Would Be 'Remarkably Faithful' to Stephen King's Books, Mike Flanagan Says",
+      "link": "https://www.ign.com/articles/the-dark-tower-tv-series-would-be-remarkably-faithful-to-stephen-kings-books-mike-flanagan-says",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792145465
+    },
+    {
+      "title": "Blue Origin is going all in on the New Glenn rocket",
+      "link": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792144854
+    },
+    {
+      "title": "Googlebook review: Android on a laptop is still Android",
+      "link": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792144832
+    },
+    {
+      "title": "It's time to reassess the size of our solar system, scientists say",
+      "link": "https://www.space.com/astronomy/solar-system/its-time-to-reassess-the-size-of-our-solar-system-scientists-say",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792144800
+    },
+    {
+      "title": "Rockstar Mods Real Life Vehicles to Look Like GTA 6 Cars Before Driving Them Through Miami",
+      "link": "https://www.ign.com/articles/rockstar-mods-real-life-vehicles-gta-6-cars-miami",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792142010
+    },
+    {
+      "title": "Mike Flanagan Explains Why Warhammer 40,000 Is a 'Brutally Difficult Adaptation'",
+      "link": "https://www.ign.com/articles/mike-flanagan-explains-why-warhammer-40000-is-a-brutally-difficult-adaptation",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792139045
+    },
     {
       "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
       "link": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
@@ -149,17 +191,17 @@
       "timestamp": 1792094443
     },
     {
-      "title": "Tactical PC FPS Game Squad Is Coming to Consoles, Playable PS5 Alpha Releases Later This Month",
-      "link": "https://www.ign.com/articles/tactical-pc-fps-game-squad-is-coming-to-consoles-playable-ps5-alpha-releases-later-this-month",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792094400
-    },
-    {
       "title": "Astronomers discover the 1st ever green star, a cosmic zombie just in time for Halloween",
       "link": "https://www.space.com/astronomy/stars/astronomers-discover-the-1st-ever-green-star-a-cosmic-zombie-just-in-time-for-halloween",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1792094400
+    },
+    {
+      "title": "Tactical PC FPS Game Squad Is Coming to Consoles, Playable PS5 Alpha Releases Later This Month",
+      "link": "https://www.ign.com/articles/tactical-pc-fps-game-squad-is-coming-to-consoles-playable-ps5-alpha-releases-later-this-month",
+      "source": "IGN",
+      "category": "gaming",
       "timestamp": 1792094400
     },
     {
@@ -219,20 +261,6 @@
       "timestamp": 1792091377
     },
     {
-      "title": "Sony Just Announced a $6,000 Gold-Plated Walkman",
-      "link": "https://www.ign.com/articles/sony-just-announced-a-6000-gold-plated-walkman",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792091069
-    },
-    {
-      "title": "Obsession’s Nikki, Buddy the Unicorn Top This Year’s Most-Googled Halloween Costumes",
-      "link": "https://www.ign.com/articles/obsessions-nikki-buddy-the-unicorn-top-this-years-most-googled-halloween-costumes",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792090990
-    },
-    {
       "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
       "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
       "source": "TECHCRUNCH",
@@ -266,13 +294,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1792088424
-    },
-    {
-      "title": "LEGO Venetian Neighborhood Set Is Coming in November",
-      "link": "https://www.ign.com/articles/lego-venetian-neighborhood-where-to-buy",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792088275
     },
     {
       "title": "Trump cancels Pentagon plans to livestream firing squad execution",
@@ -492,25 +513,11 @@
       "timestamp": 1792013709
     },
     {
-      "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
-      "link": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792012556
-    },
-    {
       "title": "Planetary genealogy: Milky Way worlds belong to 1 of 2 'families,' scientists find",
       "link": "https://www.space.com/astronomy/exoplanets/planetary-genealogy-milky-way-worlds-belong-to-1-of-2-families-scientists-find",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792011600
-    },
-    {
-      "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
-      "link": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792010887
     },
     {
       "title": "'Dungeon Crawler Carl' author Matt Dinniman talks inspirations, success, and the upcoming Peacock TV series (interview)",
@@ -560,13 +567,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1791993600
-    },
-    {
-      "title": "'The X-Files' is officially returning as Hulu picks up Ryan Coogler's 'reimagining' of the sci-fi icon",
-      "link": "https://www.space.com/entertainment/space-movies-shows/the-x-files-is-officially-returning-as-hulu-picks-up-ryan-cooglers-reimagining-of-the-sci-fi-icon",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1791990000
     },
     {
       "title": "NBA rookie impact rankings: 10 first-year players who will make presence felt immediately",
