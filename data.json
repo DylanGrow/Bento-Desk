@@ -1,6 +1,20 @@
 {
-  "last_updated": 1792189719,
+  "last_updated": 1792198856,
   "items": [
+    {
+      "title": "Red Rising Greenlit for Movie Adaptation With Author Pierce Brown to Produce",
+      "link": "https://www.ign.com/articles/red-rising-greenlit-for-movie-adaptation-with-author-pierce-brown-to-produce",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792192134
+    },
+    {
+      "title": "James Gunn Shoots Down Milly Alcock Supergirl Rumors, Shares Man of Tomorrow Update",
+      "link": "https://www.ign.com/articles/james-gunn-shoots-down-milly-alcock-supergirl-rumors-shares-man-of-tomorrow-update",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792190887
+    },
     {
       "title": "NBA over/under predictions for every Eastern Conference team: Knicks, 76ers overvalued? Raptors ready to rise?",
       "link": "https://www.cbssports.com/nba/news/nba-eastern-conference-over-under-win-total-predictions/",
@@ -23,6 +37,13 @@
       "timestamp": 1792188000
     },
     {
+      "title": "Super Smash Bros. Player Mew2King Banned From Tournament After Bug Bites Spark Health Concerns",
+      "link": "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792187649
+    },
+    {
       "title": "Replit is no longer working with Anthropic, CEO says",
       "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "source": "TECHCRUNCH",
@@ -35,6 +56,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1792184630
+    },
+    {
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792184341
     },
     {
       "title": "True Detective Season 5 Confirms Antonio Banderas and Nicolas Cage as Its Leads",
@@ -114,15 +142,15 @@
       "timestamp": 1792174575
     },
     {
-      "title": "Scientists find 'gemstones' in atmosphere of bizarre, scorching-hot 'marshmallow' exoplanet",
-      "link": "https://www.space.com/astronomy/exoplanets/scientists-find-gemstones-in-atmosphere-of-bizarre-scorching-hot-marshmallow-exoplanet",
+      "title": "How to see the Orionid meteor shower 2026 peak this week — and when to look",
+      "link": "https://www.space.com/stargazing/meteor-showers/how-to-see-the-orionid-meteor-shower-2026-peak-this-week-and-when-to-look",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792173600
     },
     {
-      "title": "How to see the Orionid meteor shower 2026 peak this week — and when to look",
-      "link": "https://www.space.com/stargazing/meteor-showers/how-to-see-the-orionid-meteor-shower-2026-peak-this-week-and-when-to-look",
+      "title": "Scientists find 'gemstones' in atmosphere of bizarre, scorching-hot 'marshmallow' exoplanet",
+      "link": "https://www.space.com/astronomy/exoplanets/scientists-find-gemstones-in-atmosphere-of-bizarre-scorching-hot-marshmallow-exoplanet",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792173600
@@ -359,20 +387,6 @@
       "timestamp": 1792158716
     },
     {
-      "title": "The 'Father of PlayStation' Says Killing Discs Backlash Is a 'Mentality Issue'",
-      "link": "https://www.ign.com/articles/ken-kutaragi-physical-discs-ps5",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792156947
-    },
-    {
-      "title": "This Fallout Power Fist 1:1 Scale Replica Will Have You Ready for Any Post-Apocalyptic Future",
-      "link": "https://www.ign.com/articles/this-fallout-power-fist-11-scale-replica-will-have-you-ready-for-any-post-apocalyptic-future",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792156923
-    },
-    {
       "title": "NBA Western Conference tiers: Spurs, Thunder in a group of their own ... what about new-look Lakers?",
       "link": "https://www.cbssports.com/nba/news/nba-western-conference-tiers-spurs-thunder-lakers/",
       "source": "CBSSPORTS",
@@ -420,13 +434,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1792151735
-    },
-    {
-      "title": "The Live-Action Cyberpunk 2077 Movie Won't Retrace the Game's Steps, CD Projekt Confirms",
-      "link": "https://www.ign.com/articles/cyberpunk-2077-movie-not-retelling",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792149236
     },
     {
       "title": "Rocket Report: FAA eyes more Starbase traffic; India's Skyroot snares US customer",
@@ -553,13 +560,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1792098597
-    },
-    {
-      "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
-      "link": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792096361
     },
     {
       "title": "NBA's most overrated players: James Harden and Paul George make list -- and so do some young All-Stars",
