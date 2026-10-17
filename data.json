@@ -1,6 +1,90 @@
 {
-  "last_updated": 1792236010,
+  "last_updated": 1792248877,
   "items": [
+    {
+      "title": "On this day in space! Oct. 17, 2016: Private Antares rocket returns to flight after catastrophic launch explosion",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-17-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792248541
+    },
+    {
+      "title": "This Week In Space podcast: Episode 232 — The Lunar Dump",
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-232-the-lunar-dump",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792246658
+    },
+    {
+      "title": "6 scientifically accurate star projectors to turn any room into a home planetarium",
+      "link": "https://www.space.com/stargazing/skywatching-kit/six-scientifically-accurate-star-projectors-to-turn-any-room-into-a-home-planetarium",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792245600
+    },
+    {
+      "title": "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792243693
+    },
+    {
+      "title": "This bird flies thousands of miles, but its wings have a catch",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261016070624.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792242302
+    },
+    {
+      "title": "We Sat Down with D&D Game Designer James Wyatt to Talk Dungeons & Dragons: World of Warcraft",
+      "link": "https://www.ign.com/articles/we-sat-down-with-dd-game-designer-james-wyatt-to-talk-dungeons-and-dragons-world-of-warcraft",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792242000
+    },
+    {
+      "title": "Brain cells meant to protect us may be fueling cognitive decline",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261015073222.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792241062
+    },
+    {
+      "title": "NASA’s Webb reveals the wild weather of a mysterious world 20 light-years away",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261015073215.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792240009
+    },
+    {
+      "title": "'Lanterns' shocking finale left us with a lot of unanswered questions for a potential season 2",
+      "link": "https://www.space.com/entertainment/space-movies-shows/lanterns-shocking-finale-left-us-with-a-lot-of-unanswered-questions-for-a-potential-season-2",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792238400
+    },
+    {
+      "title": "2027 NBA Mock Draft: Tyran Stokes, Jordan Smith Jr., Stefan Joksimovic headline top picks before season starts",
+      "link": "https://www.cbssports.com/nba/news/2027-nba-mock-draft-tyran-stokes-jordan-smith-jr-stefan-joksimovic/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792236594
+    },
+    {
+      "title": "Science says your boss should talk less in meetings",
+      "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792235711
+    },
+    {
+      "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
+      "link": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792234821
+    },
     {
       "title": "The Orionid meteor shower peaks next week! Here's what to expect",
       "link": "https://www.space.com/stargazing/meteor-showers/the-orionid-meteor-shower-peaks-oct-21-22-2026-heres-what-to-expect",
@@ -9,11 +93,39 @@
       "timestamp": 1792231200
     },
     {
+      "title": "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261016081140.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792214090
+    },
+    {
       "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
       "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1792204578
+    },
+    {
+      "title": "Scientists predicted doomsday for November 13, 2026. Should we be worried?",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261016070639.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792201979
+    },
+    {
+      "title": "SpaceX just delivered some very strange cargo to the International Space Station",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261016070628.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792194718
+    },
+    {
+      "title": "James Webb reveals a strange bulge in an alien planet's atmosphere",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261015073205.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792193249
     },
     {
       "title": "Red Rising Greenlit for Movie Adaptation With Author Pierce Brown to Produce",
@@ -331,13 +443,6 @@
       "timestamp": 1792162860
     },
     {
-      "title": "The Blood of Dawnwalker Update 1.1 Adds Directional Animal Petting and Over 1,100 Other Improvements and Fixes",
-      "link": "https://www.ign.com/articles/the-blood-of-dawnwalker-update-directional-based-animal-petting",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792161054
-    },
-    {
       "title": "Beyond pointing your phone at the night sky, this is how to use stargazing apps effectively",
       "link": "https://www.space.com/stargazing/skywatching-kit/from-identifying-stars-and-constellations-to-seeking-out-dark-skies-these-are-the-best-ways-to-use-stargazing-apps",
       "source": "SPACE",
@@ -378,20 +483,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1792159200
-    },
-    {
-      "title": "Supermassive black hole blasts out a neon 'treble clef' | Space photo of the day for Oct. 16, 2026",
-      "link": "https://www.space.com/astronomy/black-holes/supermassive-black-hole-blasts-out-a-neon-treble-clef-space-photo-of-the-day-for-oct-16-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1792159200
-    },
-    {
-      "title": "'We are getting a lot of pressure from the administrator himself': How NASA is racing to obey Trump's 'Super Intelligence' order",
-      "link": "https://www.space.com/technology/we-are-getting-a-lot-of-pressure-from-the-administrator-himself-how-nasa-is-racing-to-obey-trumps-super-intelligence-order",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1792158913
     },
     {
       "title": "NBA's five biggest starting lineup questions: Three guards for Spurs? Morant-Lillard backcourt in Portland?",
@@ -436,13 +527,6 @@
       "timestamp": 1792152005
     },
     {
-      "title": "Rocket Lab pushes 1st launch of next-gen Neutron rocket to 2027",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-pushes-1st-launch-of-next-gen-neutron-rocket-to-2027",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1792152000
-    },
-    {
       "title": "Yale scientists discover how stress changes the brain to make memories stronger",
       "link": "https://www.sciencedaily.com/releases/2026/10/261014015517.htm",
       "source": "SCIENCEDAILY",
@@ -485,13 +569,6 @@
       "timestamp": 1792144832
     },
     {
-      "title": "It's time to reassess the size of our solar system, scientists say",
-      "link": "https://www.space.com/astronomy/solar-system/its-time-to-reassess-the-size-of-our-solar-system-scientists-say",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1792144800
-    },
-    {
       "title": "NASA captures strange waves high above Hurricane Simon",
       "link": "https://www.sciencedaily.com/releases/2026/10/261015073207.htm",
       "source": "SCIENCEDAILY",
@@ -520,25 +597,11 @@
       "timestamp": 1792124521
     },
     {
-      "title": "“Crawzilla” was huge. Then scientists found an even bigger crayfish",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261015073220.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792122322
-    },
-    {
       "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
       "link": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1792113463
-    },
-    {
-      "title": "Antarctica’s sea ice has undergone a stunning reversal",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261015073210.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792113321
     },
     {
       "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
@@ -553,20 +616,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1792102866
-    },
-    {
-      "title": "Plex now helps sell movie theater tickets",
-      "link": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792099335
-    },
-    {
-      "title": "Hegseth’s dubious low-T screening may flag up to 25 percent of the Army",
-      "link": "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792098597
     },
     {
       "title": "NBA's most overrated players: James Harden and Paul George make list -- and so do some young All-Stars",
@@ -604,48 +653,6 @@
       "timestamp": 1792068884
     },
     {
-      "title": "Mysterious brain activity under anesthesia challenges what we know about consciousness",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792068725
-    },
-    {
-      "title": "Arctic sea ice hits another troubling low in 2026",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261015073212.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792068044
-    },
-    {
-      "title": "A fungus is threatening the world’s food supply. Scientists just found a new defense",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261014015501.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792064743
-    },
-    {
-      "title": "Scientists discover a surprising danger in smaller cancer cells",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261013015835.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792063660
-    },
-    {
-      "title": "Rare study reveals a striking divide inside an Alzheimer’s patient’s brain",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261013015814.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792058724
-    },
-    {
-      "title": "Scientists reveal 93% of Australia's Indigenous population was lost in just 73 years",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261013015807.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792020840
-    },
-    {
       "title": "Warriors' Kristaps Porziņģis breaks silence on mysterious health issues, remains out indefinitely",
       "link": "https://www.cbssports.com/nba/news/warriors-kristaps-porzingis-mysterious-health-issues-timeline/",
       "source": "CBSSPORTS",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1792002613
-    },
-    {
-      "title": "Lakers coach JJ Redick on Bronny James: 'I don't think he's played well' in preseason games",
-      "link": "https://www.cbssports.com/nba/news/bronny-james-lakers-roster-jj-redick-lebron-james/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1791999191
     }
   ]
 }
