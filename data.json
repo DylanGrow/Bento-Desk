@@ -1,6 +1,27 @@
 {
-  "last_updated": 1792345628,
+  "last_updated": 1792353777,
   "items": [
+    {
+      "title": "Returning samples from a Mars moon: Inside the science of Japan's bold MMX mission",
+      "link": "https://www.space.com/space-exploration/missions/returning-samples-from-a-mars-moon-inside-the-science-of-japans-bold-mmx-mission",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792351203
+    },
+    {
+      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+      "link": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792350218
+    },
+    {
+      "title": "Street Fighter Tops the Box Office With $51 Million Opening Weekend Amid Lackluster Reviews",
+      "link": "https://www.ign.com/articles/street-fighter-tops-the-box-office-with-51-million-opening-weekend-amid-lackluster-reviews",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792347465
+    },
     {
       "title": "Disney agrees to hire the majority of Character.AI’s workforce",
       "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
@@ -457,13 +478,6 @@
       "timestamp": 1792180800
     },
     {
-      "title": "Ghost of Yotei Sales Lag Behind Tsushima but Are Still Strong on PS5, Analyst Estimates Show",
-      "link": "https://www.ign.com/articles/ghost-of-yotei-sales-lagging-behind-tsushima-but-still-strong-on-ps5-analyst-estimates-show",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792180785
-    },
-    {
       "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
       "link": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
       "source": "ARSTECHNICA",
@@ -518,13 +532,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792172314
-    },
-    {
-      "title": "On this day in space! Oct. 16, 1975: NASA launches the 1st-ever GOES weather satellite to watch Earth from space",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-16-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1792171142
     },
     {
       "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
@@ -588,13 +595,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1792165260
-    },
-    {
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792164829
     },
     {
       "title": "Polymarket saw $600 million in election trades after the elections were over",
