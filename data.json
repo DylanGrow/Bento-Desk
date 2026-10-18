@@ -1,6 +1,20 @@
 {
-  "last_updated": 1792277498,
+  "last_updated": 1792283797,
   "items": [
+    {
+      "title": "Dev Behind Russian Roulette Drinking Game Cancels Steam Demo Plans Following AI Copycat Concerns",
+      "link": "https://www.ign.com/articles/dev-behind-russian-roulette-drinking-game-cancels-steam-demo-plans-following-ai-copycat-concerns",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792278023
+    },
+    {
+      "title": "Knicks finalize roster as James Wiseman gets last spot over Bruce Brown",
+      "link": "https://www.cbssports.com/nba/news/knicks-finalize-roster-james-wiseman-bruce-brown/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792275618
+    },
     {
       "title": "Meta removes language that raised scraping and AI training concerns",
       "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
@@ -380,13 +394,6 @@
       "timestamp": 1792172314
     },
     {
-      "title": "James McAvoy Reveals He Once Pitched a Young Picard Star Trek Show",
-      "link": "https://www.ign.com/articles/james-mcavoy-reveals-he-once-pitched-a-young-picard-star-trek-show",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792171591
-    },
-    {
       "title": "On this day in space! Oct. 16, 1975: NASA launches the 1st-ever GOES weather satellite to watch Earth from space",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-16-2026",
       "source": "SPACE",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1792076961
-    },
-    {
-      "title": "Brewers bash champion Dodgers to brink of NLCS sweep; CBS Sports Preseason All-America team revealed",
-      "link": "https://www.cbssports.com/mlb/news/brewers-bash-champion-dodgers-to-brink-of-nlcs-sweep-cbs-sports-preseason-all-america-team-revealed/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792068884
     }
   ]
 }
