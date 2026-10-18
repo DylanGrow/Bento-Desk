@@ -1,6 +1,55 @@
 {
-  "last_updated": 1792333003,
+  "last_updated": 1792345628,
   "items": [
+    {
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792341000
+    },
+    {
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792340719
+    },
+    {
+      "title": "TechCrunch Mobility: Rivian’s next act",
+      "link": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792339500
+    },
+    {
+      "title": "Computer scientist Margaret Hamilton was a problem-solver for the ages (op-ed)",
+      "link": "https://www.space.com/space-exploration/apollo/computer-scientist-margaret-hamilton-was-a-problem-solver-for-the-ages-op-ed",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792339200
+    },
+    {
+      "title": "Quentin Tarantino Says He's 'Written a Script' for 10th and Final Film, But He Wants to 'Live' Before Making It",
+      "link": "https://www.ign.com/articles/quentin-tarantino-says-hes-written-a-script-for-10th-and-final-film-but-he-wants-to-live-before-making-it",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792338966
+    },
+    {
+      "title": "Why Kevin Durant completely missed Mat Ishbia's point about his Suns tenure, building a championship culture",
+      "link": "https://www.cbssports.com/nba/news/kevin-durant-mat-ishbia-phoenix-suns-championship-culture/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792333611
+    },
+    {
+      "title": "NBA awards picks, predictions: Luka Dončić for MVP, Joe Mazzulla for Coach of the Year among best value bets",
+      "link": "https://www.cbssports.com/nba/news/nba-awards-best-value-bets-picks-predictions/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792331975
+    },
     {
       "title": "On this day in space! Oct. 18, 1963: France's Félicette Becomes the 1st Cat in Space! >^..^<",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-18-2026",
@@ -457,13 +506,6 @@
       "timestamp": 1792173600
     },
     {
-      "title": "Nvidia App Update Will Let AI Agents Tune Your Graphics Card, but Some Users are Warning to Turn It Off",
-      "link": "https://www.ign.com/articles/nvidia-app-update-adds-support-for-agent-control-but-some-users-are-warning-to-turn-it-off",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792173392
-    },
-    {
       "title": "India becomes the latest country to report rogue AI agent activity",
       "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
       "source": "TECHCRUNCH",
@@ -490,13 +532,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1792170359
-    },
-    {
-      "title": "'Dark Matter's' Joel Edgerton and Jennifer Connelly talk S2's marital disintegration and the humility of hanging on wires (interview)",
-      "link": "https://www.space.com/entertainment/space-movies-shows/dark-matters-joel-edgerton-and-jennifer-connelly-talk-s2s-marital-disintegration-and-the-humility-of-hanging-on-wires-interview",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1792170000
     },
     {
       "title": "Spanish club Basket Zaragoza attempting to block Thunder rookie Aday Mara from making NBA debut",
@@ -562,13 +597,6 @@
       "timestamp": 1792164829
     },
     {
-      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792160811
-    },
-    {
       "title": "Polymarket saw $600 million in election trades after the elections were over",
       "link": "https://arstechnica.com/tech-policy/2026/10/polymarket-saw-600-million-in-election-trades-after-the-elections-were-over/",
       "source": "ARSTECHNICA",
@@ -588,13 +616,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1792159259
-    },
-    {
-      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-      "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792159200
     },
     {
       "title": "NBA's five biggest starting lineup questions: Three guards for Spurs? Morant-Lillard backcourt in Portland?",
@@ -639,13 +660,6 @@
       "timestamp": 1792144832
     },
     {
-      "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
-      "link": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792102866
-    },
-    {
       "title": "NBA's most overrated players: James Harden and Paul George make list -- and so do some young All-Stars",
       "link": "https://www.cbssports.com/nba/news/nba-most-overrated-players-james-harden-paul-george/",
       "source": "CBSSPORTS",
@@ -658,20 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1792089480
-    },
-    {
-      "title": "Explaining the NBA's mutual option trend: Could it be used to fight back against the dreaded second apron?",
-      "link": "https://www.cbssports.com/nba/news/nba-mutual-option-contract-trend-second-apron/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792088424
-    },
-    {
-      "title": "NBA Eastern Conference tiers: Knicks on top, but new-look contenders emerge after eventful offseason",
-      "link": "https://www.cbssports.com/nba/news/nba-eastern-conference-knicks-on-top-contenders-emerge/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792076961
     }
   ]
 }
