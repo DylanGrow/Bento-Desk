@@ -1,12 +1,187 @@
 {
-  "last_updated": 1792436295,
+  "last_updated": 1792450215,
   "items": [
+    {
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792450167
+    },
+    {
+      "title": "Zach Cregger’s Resident Evil Movie Gets Viral Fan-Made PS1 Style Video Game",
+      "link": "https://www.ign.com/articles/zach-creggers-resident-evil-movie-gets-viral-fan-made-ps1-style-video-game",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792448288
+    },
+    {
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792447468
+    },
+    {
+      "title": "New 'Blade Runner 2099' trailer is a space fan's dream with sinister starships and strange exoplanets (video)",
+      "link": "https://www.space.com/entertainment/space-movies-shows/new-blade-runner-2099-trailer-is-a-space-fans-dream-with-sinister-starships-and-strange-exoplanets-video",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792447200
+    },
+    {
+      "title": "Hellraiser's Clive Barker Feared New Game Would Be 'Overly Censored' But Is 'Proud as F**k at the End Result'",
+      "link": "https://www.ign.com/articles/hellraisers-clive-barker-feared-new-game-would-be-overly-censored-but-is-proud-as-fk-at-the-end-result",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792446282
+    },
+    {
+      "title": "Dalton Knecht waived by Lakers: Why the 2024 draft class was doomed from the start (and the No. 1 pick)",
+      "link": "https://www.cbssports.com/nba/news/nba-2024-draft-class-dalton-knecht-lakers-zaccharie-risacher/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792446141
+    },
+    {
+      "title": "Steam Fans Are Begging for a No-AI Filter as Steam Next Fest Is Filled With Slop",
+      "link": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792445906
+    },
+    {
+      "title": "Grading every NBA rookie extension: Evaluating new contracts for Victor Wembanyama, Keyonte George, more",
+      "link": "https://www.cbssports.com/nba/news/grading-nba-rookie-extensions-wembanyama-george-thompson-podziemski-wallace-miller/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792445872
+    },
+    {
+      "title": "Even Sexyy Red Is Confused Why Storm Doesn't Have More Legendary Skins",
+      "link": "https://www.ign.com/articles/even-sexyy-red-is-confused-why-storm-doesnt-have-more-legendary-skins",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792445017
+    },
+    {
+      "title": "Love and Deepspace Launches Blade Runner Crossover as Fans Draw Parallels to Canceled Character Valko",
+      "link": "https://www.ign.com/articles/love-and-deepspace-launches-blade-runner-crossover-as-fans-draw-parallels-to-canceled-character-valko",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792444471
+    },
+    {
+      "title": "'There's No One Person That Has This Whole Thing in Their Head' — GTA 6 Devs Had Freedom to Add Cool Features Just Like RDR2's Horse Balls",
+      "link": "https://www.ign.com/articles/theres-no-one-person-that-has-this-whole-thing-in-their-head-gta-6-devs-had-freedom-to-add-cool-features-just-like-rdr2s-horse-balls",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792443977
+    },
+    {
+      "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
+      "link": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792443257
+    },
+    {
+      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792441313
+    },
+    {
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792440564
+    },
+    {
+      "title": "Batteries help reduce emissions, but how do we reduce their emissions?",
+      "link": "https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792440235
+    },
+    {
+      "title": "The X-Files Lego set is a wonderful bit of 90s sci-fi nostalgia",
+      "link": "https://www.space.com/entertainment/space-toys-lego/the-x-files-lego-set-is-a-wonderful-bit-of-90s-sci-fi-nostalgia",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792440000
+    },
+    {
+      "title": "Japan launches historic MMX sample-return mission to Mars' moon Phobos (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792439601
+    },
+    {
+      "title": "Japanese Tekken Players Are Likening Tekken 6’s Rollback Netcode Mod to Serious Crimes and the Fighting Game Community Is Split",
+      "link": "https://www.ign.com/articles/japanese-tekken-players-are-likening-tekken-6s-rollback-netcode-mod-to-serious-crimes-and-the-fighting-game-community-is-split",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792439130
+    },
+    {
+      "title": "On this day in space! Oct. 19, 2016: Europe's ExoMars orbiter and Schiaparelli lander arrive at Mars",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-19-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792438828
+    },
+    {
+      "title": "PSA: Patch your Plex media server before someone hacks it",
+      "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792438759
+    },
+    {
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792438114
+    },
+    {
+      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+      "link": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792438044
+    },
+    {
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792436412
+    },
+    {
+      "title": "The moon is shrinking. 10,000 cracks on the lunar surface reveal by how much",
+      "link": "https://www.space.com/astronomy/moon/the-moon-is-shrinking-10-000-cracks-on-the-lunar-surface-reveal-by-how-much",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792436400
+    },
     {
       "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
       "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1792435744
+    },
+    {
+      "title": "PSA Responds After More Than $100,000 Worth of Graded Trading Cards Stolen from FedEx Truck",
+      "link": "https://www.ign.com/articles/over-100000-worth-of-psa-graded-trading-cards-stolen-from-fedex-truck",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792435495
     },
     {
       "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
@@ -16,6 +191,13 @@
       "timestamp": 1792435047
     },
     {
+      "title": "ReactOS reaches major milestone with NTFS install support",
+      "link": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792434656
+    },
+    {
       "title": "LEGO and Netflix Team Up for 37,000-Piece Kpop Demon Hunters Build",
       "link": "https://www.ign.com/articles/lego-and-netflix-team-up-for-37000-piece-kpop-demon-hunters-build",
       "source": "IGN",
@@ -23,7 +205,7 @@
       "timestamp": 1792433296
     },
     {
-      "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
+      "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
       "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -72,6 +254,13 @@
       "timestamp": 1792431347
     },
     {
+      "title": "AI game clones are making indie developers afraid to show their work",
+      "link": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792429162
+    },
+    {
       "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
       "link": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
       "source": "TECHCRUNCH",
@@ -79,7 +268,7 @@
       "timestamp": 1792428956
     },
     {
-      "title": "Huge DMV data breach impacted current and former Florida residents",
+      "title": "Florida DMV hacked after police dept insecurely stored login info",
       "link": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -233,25 +422,11 @@
       "timestamp": 1792413000
     },
     {
-      "title": "League of Legends Virtual K-Pop Group K/DA Reemerge After 6 Years of Silence With New Single and Music Video From the Makers of Arcane",
-      "link": "https://www.ign.com/articles/league-of-legends-virtual-k-pop-group-kda-reemerge-after-6-years-of-silence-with-new-single-and-music-video-from-the-makers-of-arcane",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792412078
-    },
-    {
       "title": "Did a giant object collide with Earth to form the moon?",
       "link": "https://www.space.com/astronomy/moon/did-a-giant-object-collide-with-earth-to-form-the-moon",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792411200
-    },
-    {
-      "title": "French Game Store Employee Goes Viral for Defending the Door During Riots",
-      "link": "https://www.ign.com/articles/french-game-store-employee-goes-viral-for-defending-riots",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792410292
     },
     {
       "title": "Just 3,000 steps a day may help slow Alzheimer's, scientists find",
@@ -275,39 +450,11 @@
       "timestamp": 1792407949
     },
     {
-      "title": "It Took 4 Google AI Agents Over 27 Hours to Defeat the Ender Dragon in Minecraft Without Help From Humans",
-      "link": "https://www.ign.com/articles/google-ai-agents-killed-ender-dragon-minecraft",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792407361
-    },
-    {
-      "title": "Modder Uses AI to Put Shadow of War's Nemesis System in Rockstar's Red Dead Redemption 2",
-      "link": "https://www.ign.com/articles/red-dead-redemption-2-enrage-mod-nemesis-system",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792405930
-    },
-    {
       "title": "Astronomers discover a ghostly green star unlike any known before",
       "link": "https://www.sciencedaily.com/releases/2026/10/261017230018.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1792405563
-    },
-    {
-      "title": "Modern Warfare 4 Pays Tribute to Call of Duty Co-Creator Vince Zampella",
-      "link": "https://www.ign.com/articles/modern-warfare-4-pays-tribute-to-call-of-duty-co-creator-vince-zampella",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792405031
-    },
-    {
-      "title": "David Harbour Says He Really Didn't Drop a Big Avengers: Doomsday Spoiler",
-      "link": "https://www.ign.com/articles/david-harbour-says-he-really-didnt-drop-a-big-avengers-doomsday-spoiler",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792404609
     },
     {
       "title": "Scientists win 2026 Nobel Prize for controlling brain cells with light",
@@ -324,13 +471,6 @@
       "timestamp": 1792404000
     },
     {
-      "title": "Call of Duty: Modern Warfare 4 Player Reveals How They Beat the Campaign on One-Life YOLO Difficulty",
-      "link": "https://www.ign.com/articles/modern-warfare-4-player-finished-yolo-mode",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792402468
-    },
-    {
       "title": "\"Mind-blowing\" Alzheimer’s breakthrough: Two hours of sleep restored without clearing brain plaques",
       "link": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
       "source": "SCIENCEDAILY",
@@ -343,13 +483,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1792395000
-    },
-    {
-      "title": "The Simpsons’ Apu Has Finally Spoken on the Show for the First Time in Almost a Decade",
-      "link": "https://www.ign.com/articles/the-simpsons-apu-has-finally-spoken-on-the-show-for-the-first-time-in-almost-a-decade",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792377479
     },
     {
       "title": "Fatty liver disease is actually five different conditions, scientists discover",
@@ -373,20 +506,6 @@
       "timestamp": 1792364786
     },
     {
-      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
-      "link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792357200
-    },
-    {
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792355860
-    },
-    {
       "title": "Returning the first samples from a Martian moon: Inside the science of Japan's bold MMX mission to Mars",
       "link": "https://www.space.com/space-exploration/missions/returning-samples-from-a-mars-moon-inside-the-science-of-japans-bold-mmx-mission",
       "source": "SPACE",
@@ -394,32 +513,11 @@
       "timestamp": 1792351203
     },
     {
-      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
-      "link": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792350218
-    },
-    {
-      "title": "Disney agrees to hire the majority of Character AI’s workforce",
-      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792341000
-    },
-    {
       "title": "Anthropic gives outside AI watchdog “employee-like” access",
       "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1792340719
-    },
-    {
-      "title": "TechCrunch Mobility: Rivian’s next act",
-      "link": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792339500
     },
     {
       "title": "Computer scientist Margaret Hamilton was a problem-solver for the ages (op-ed)",
@@ -548,27 +646,6 @@
       "timestamp": 1792248541
     },
     {
-      "title": "This Week In Space podcast: Episode 232 — The Lunar Dump",
-      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-232-the-lunar-dump",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1792246658
-    },
-    {
-      "title": "6 scientifically accurate star projectors to turn any room into a home planetarium",
-      "link": "https://www.space.com/stargazing/skywatching-kit/six-scientifically-accurate-star-projectors-to-turn-any-room-into-a-home-planetarium",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1792245600
-    },
-    {
-      "title": "'Lanterns' shocking finale left us with a lot of unanswered questions for a potential season 2",
-      "link": "https://www.space.com/entertainment/space-movies-shows/lanterns-shocking-finale-left-us-with-a-lot-of-unanswered-questions-for-a-potential-season-2",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1792238400
-    },
-    {
       "title": "2027 NBA Mock Draft: Tyran Stokes, Jordan Smith Jr., Stefan Joksimovic headline top picks before season starts",
       "link": "https://www.cbssports.com/nba/news/2027-nba-mock-draft-tyran-stokes-jordan-smith-jr-stefan-joksimovic/",
       "source": "CBSSPORTS",
@@ -590,88 +667,11 @@
       "timestamp": 1792234821
     },
     {
-      "title": "The Orionid meteor shower peaks next week! Here's what to expect",
-      "link": "https://www.space.com/stargazing/meteor-showers/the-orionid-meteor-shower-peaks-oct-21-22-2026-heres-what-to-expect",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1792231200
-    },
-    {
       "title": "NBA over/under predictions for every Eastern Conference team: Knicks, 76ers overvalued? Raptors ready to rise?",
       "link": "https://www.cbssports.com/nba/news/nba-eastern-conference-over-under-win-total-predictions/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1792189224
-    },
-    {
-      "title": "NBA over/under predictions for every Western Conference team: Lakers undervalued, Warriors in for a long year",
-      "link": "https://www.cbssports.com/nba/news/nba-western-conference-over-under-win-total-predictions-thunder-spurs-lakers-warriors/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792189168
-    },
-    {
-      "title": "'It really does change you': SpaceX Crew-12 commander wishes we could all see our fragile Earth from space",
-      "link": "https://www.space.com/space-exploration/international-space-station/it-really-does-change-you-spacex-crew-12-commander-wishes-we-could-all-see-our-fragile-earth-from-space",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1792188000
-    },
-    {
-      "title": "OpenAI models hacked a crypto wallet and breached more websites",
-      "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792184341
-    },
-    {
-      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
-      "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792182007
-    },
-    {
-      "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
-      "link": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792179678
-    },
-    {
-      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
-      "link": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792177910
-    },
-    {
-      "title": "NBA instructs sportsbook partners to ban certain bets ripe for manipulation, per report",
-      "link": "https://www.cbssports.com/nba/news/nba-sportsbook-partners-ban-certain-bets/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792174575
-    },
-    {
-      "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
-      "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792170359
-    },
-    {
-      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-      "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792165260
-    },
-    {
-      "title": "Polymarket saw $600 million in election trades after the elections were over",
-      "link": "https://arstechnica.com/tech-policy/2026/10/polymarket-saw-600-million-in-election-trades-after-the-elections-were-over/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792160362
     }
   ]
 }
