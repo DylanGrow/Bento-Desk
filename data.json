@@ -1,12 +1,47 @@
 {
-  "last_updated": 1792450215,
+  "last_updated": 1792459966,
   "items": [
+    {
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792459623
+    },
+    {
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792453178
+    },
+    {
+      "title": "Clayface Stars Praise Batman: The Animated Series and Ron Perlman's 'Amazing' Performance as the DC Villain",
+      "link": "https://www.ign.com/articles/clayface-cast-batman-animated-series-fandom",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792451453
+    },
+    {
+      "title": "How Bronny James became the last survivor of Lakers' 2024 draft class -- and why that's not a good thing",
+      "link": "https://www.cbssports.com/nba/news/bronny-james-last-survivor-lakers-2024-draft-class/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792451124
+    },
     {
       "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
       "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1792450167
+    },
+    {
+      "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
+      "link": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792449866
     },
     {
       "title": "Zach Cregger’s Resident Evil Movie Gets Viral Fan-Made PS1 Style Video Game",
@@ -359,13 +394,6 @@
       "timestamp": 1792416668
     },
     {
-      "title": "Is Call of Duty: Modern Warfare 4 Really the End of the Rebooted Modern Warfare Story? Infinity Ward Responds",
-      "link": "https://www.ign.com/articles/is-call-of-duty-modern-warfare-4-really-the-end-of-the-rebooted-modern-warfare-story-infinity-ward-responds",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792416549
-    },
-    {
       "title": "Thunder extend Cason Wallace on five-year, $139M deal, setting up another summer of second apron questions",
       "link": "https://www.cbssports.com/nba/news/thunder-cason-wallace-contract-extension-second-apron-payroll/",
       "source": "CBSSPORTS",
@@ -413,13 +441,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1792413214
-    },
-    {
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792413000
     },
     {
       "title": "Did a giant object collide with Earth to form the moon?",
@@ -476,13 +497,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1792401585
-    },
-    {
-      "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
-      "link": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792395000
     },
     {
       "title": "Fatty liver disease is actually five different conditions, scientists discover",
@@ -658,20 +672,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1792235711
-    },
-    {
-      "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
-      "link": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792234821
-    },
-    {
-      "title": "NBA over/under predictions for every Eastern Conference team: Knicks, 76ers overvalued? Raptors ready to rise?",
-      "link": "https://www.cbssports.com/nba/news/nba-eastern-conference-over-under-win-total-predictions/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792189224
     }
   ]
 }
