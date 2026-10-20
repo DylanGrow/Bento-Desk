@@ -1,12 +1,264 @@
 {
-  "last_updated": 1792520303,
+  "last_updated": 1792533824,
   "items": [
     {
-      "title": "76ers vs. Knicks NBA odds: LeBron James and Co. open as biggest title liability, aim to ruin NY's banner night",
-      "link": "https://www.cbssports.com/betting/news/76ers-vs-knicks-nba-odds-lebron-james-biggest-title-liability-aim-to-ruin-nys-banner-night/",
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792531522
+    },
+    {
+      "title": "It Looks Like GTA 6's Beer Brands Are About to Become Real",
+      "link": "https://www.ign.com/articles/it-looks-like-gta-6s-beer-brands-are-about-to-become-real",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792530431
+    },
+    {
+      "title": "On this day in space! Oct. 20, 1970: The Soviet Union launches last-ever Zond moon mission",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-20-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792529988
+    },
+    {
+      "title": "Greta Gerwig Reportedly Clashed With Netflix Film Boss Over Narnia: The Magician’s Nephew",
+      "link": "https://www.ign.com/articles/greta-gerwig-netflix-narnia-clash",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792529481
+    },
+    {
+      "title": "SpaceX’s AI business is beating expectations",
+      "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792528841
+    },
+    {
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792528510
+    },
+    {
+      "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
+      "link": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792527612
+    },
+    {
+      "title": "Police Confirm Nearly $1 Million Worth of Trading Cards Stolen in PSA FedEx Truck Heist",
+      "link": "https://www.ign.com/articles/police-confirm-nearly-1-million-worth-of-trading-cards-stolen-in-psa-fedex-truck-heist",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792527602
+    },
+    {
+      "title": "Fight Night, EA's Beloved but Long-Dormant Boxing Sim Franchise, Is Coming Back",
+      "link": "https://www.ign.com/articles/fight-night-eas-beloved-but-long-dormant-boxing-sim-franchise-is-coming-back",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792527457
+    },
+    {
+      "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+      "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792526878
+    },
+    {
+      "title": "Gemini's Personal Intelligence is coming to cars",
+      "link": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792526433
+    },
+    {
+      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+      "link": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792526400
+    },
+    {
+      "title": "Can’t make it to the Lucas Museum of Narrative Art for the 'Star Wars' display? This is the companion book set you’re looking for!",
+      "link": "https://www.space.com/entertainment/space-books/cant-make-it-to-the-lucas-museum-of-narrative-art-for-the-star-wars-display-this-is-the-companion-book-set-youre-looking-for",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792526400
+    },
+    {
+      "title": "OpenBSD 8.0 arrives with security record still intact",
+      "link": "https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792526238
+    },
+    {
+      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+      "link": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792525655
+    },
+    {
+      "title": "Xbox Game Pass Reportedly Getting 'Major Overhaul,' Will Feature 'À La Carte' Options",
+      "link": "https://www.ign.com/articles/xbox-game-pass-reportedly-getting-major-overhaul-will-feature-la-carte-options",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792525215
+    },
+    {
+      "title": "Umamusume Fans Distraught After Los Angeles Concerts Canceled Due to Visa Issues",
+      "link": "https://www.ign.com/articles/umamusume-fans-distraught-after-los-angeles-concerts-canceled-due-to-visa-issues",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792525107
+    },
+    {
+      "title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
+      "link": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792524763
+    },
+    {
+      "title": "Today's top games to watch, best bets, odds: Knicks vs. Lebron and 76ers, Spurs vs. Thunder and more",
+      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-knicks-vs-lebron-and-76ers-spurs-vs-thunder-and-more/",
       "source": "CBSSPORTS",
       "category": "nba",
-      "timestamp": 1792519521
+      "timestamp": 1792524651
+    },
+    {
+      "title": "TP-Link tries to appease Trump admin with pledge to assemble routers in US",
+      "link": "https://arstechnica.com/tech-policy/2026/10/tp-link-tries-to-appease-trump-admin-with-pledge-to-assemble-routers-in-us/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792524314
+    },
+    {
+      "title": "Adam Silver explains why LeBron James using Fanatics' helicopter is 'perfectly appropriate'",
+      "link": "https://www.cbssports.com/nba/news/adam-silver-lebron-james-fanatics-helicopter-perfectly-appropriate/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792524042
+    },
+    {
+      "title": "Does anyone actually want to win the medium-lift race in the United States?",
+      "link": "https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792523611
+    },
+    {
+      "title": "AMD FSR 4.1 Is Finally Coming to Xbox Series X, Rivaling PS5's QSSR",
+      "link": "https://www.ign.com/articles/amd-fsr-41-is-finally-coming-to-xbox-series-x-rivaling-ps5s-qssr",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792523533
+    },
+    {
+      "title": "Xbox's Next Console May Reportedly Cost As Much as $1,800, New Handheld Rumored to Launch Next Year Before Helix",
+      "link": "https://www.ign.com/articles/xboxs-next-console-may-reportedly-cost-as-much-as-1800-new-handheld-rumored-to-launch-next-year-before-helix",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792523338
+    },
+    {
+      "title": "NBA Power Rankings: Spurs begin the season as No. 1 team, Knicks lead a reloaded East",
+      "link": "https://www.cbssports.com/nba/news/nba-power-rankings-spurs-knicks-oct-20/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792522937
+    },
+    {
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792521504
+    },
+    {
+      "title": "ChatGPT now lets you lock your chats",
+      "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792521413
+    },
+    {
+      "title": "Fortnite's Nikki Skin Sparks Debate Among Horror Fans, With Some Calling for a Boycott",
+      "link": "https://www.ign.com/articles/fortnites-nikki-skin-sparks-debate-among-horror-fans-with-some-calling-for-a-boycott",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792521392
+    },
+    {
+      "title": "NBA 2026-27 championship futures odds: Thunder, Spurs favored, but Knicks, LeBron James' 76ers not far behind",
+      "link": "https://www.cbssports.com/betting/news/nba-2026-27-championship-futures-odds-thunder-spurs-favored-but-knicks-lebron-james-76ers-not-far-behind/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792521351
+    },
+    {
+      "title": "Christopher Nolan’s The Prestige 20th Anniversary Re-Release Includes 70mm and IMAX",
+      "link": "https://www.ign.com/articles/the-prestige-rerelease-70mm-imax-christopher-nolan",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792520904
+    },
+    {
+      "title": "Shrek 2 Remastered Reveal Trailer Parodies GTA 6, Sets November Release Date",
+      "link": "https://www.ign.com/articles/shrek-2-remastered-reveal-trailer-parodies-gta-6-sets-november-release-date",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792520647
+    },
+    {
+      "title": "Arctic Eggs, Mouthwashing, and No, I'm Not a Human Are Coming to Xbox | IDXBOX",
+      "link": "https://www.ign.com/articles/arctic-eggs-mouthwashing-and-no-im-not-a-human-are-coming-to-xbox-idxbox",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792520609
+    },
+    {
+      "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
+      "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792520574
+    },
+    {
+      "title": "NBA Opening Night 2026 betting promos: Get over $3,000 in bonuses from top online betting apps, sportsbooks",
+      "link": "https://www.cbssports.com/betting/news/nba-opening-night-2026-betting-promos-get-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792519957
+    },
+    {
+      "title": "ID@Xbox Showcase October 2026: Everything Announced",
+      "link": "https://www.ign.com/articles/idxbox-showcase-october-2026-everything-announced",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792519770
+    },
+    {
+      "title": "Quantum error correction goes well beyond breakeven",
+      "link": "https://arstechnica.com/science/2026/10/quantum-error-correction-goes-well-beyond-breakeven/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792519737
+    },
+    {
+      "title": "Fan Uses AI to Fix Oblivion Remastered PC Performance",
+      "link": "https://www.ign.com/articles/fan-uses-ai-to-fix-oblivion-remastered-pc-performance",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792519280
     },
     {
       "title": "Celtics vs. Pistons prediction, odds, betting preview, start time: NBA picks, best bets on Tuesday, Oct. 20",
@@ -16,18 +268,18 @@
       "timestamp": 1792519257
     },
     {
-      "title": "2026 NBA Opening Night odds, picks, player props, best bets, predictions: Experts, model backing Knicks, Spurs",
-      "link": "https://www.cbssports.com/betting/news/2026-nba-opening-night-odds-picks-player-props-best-bets-predictions-experts-model-backing-knicks-spurs/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792519222
-    },
-    {
       "title": "Jeff Bezos is playing the long game with Blue Origin (op-ed)",
       "link": "https://www.space.com/space-exploration/private-spaceflight/jeff-bezos-is-playing-the-long-game-with-blue-origin-op-ed",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792519200
+    },
+    {
+      "title": "The Clash Royale Board Game Reaches Its Crowdfunding Goal in Less Than an Hour",
+      "link": "https://www.ign.com/articles/the-clash-royale-board-game-reaches-its-crowdfunding-goal-in-less-than-an-hour",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792519189
     },
     {
       "title": "NBA player props, odds, picks, lines: 76ers new star LeBron James part of best bets for Opening Night",
@@ -44,46 +296,25 @@
       "timestamp": 1792518912
     },
     {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for NBA Opening Night, 76ers-Knicks, Thunder-Spurs",
-      "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-nba-opening-night-76ers-knicks-thunder-spurs/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792518800
+      "title": "Palworld Fans Crown Their Favorite Pal in New Poll as Winter Update Is Teased",
+      "link": "https://www.ign.com/articles/palworld-fans-crown-their-favorite-pal-in-new-poll-as-winter-update-is-teased",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792518168
     },
     {
-      "title": "A supercomputer is about to launch to the moon for the 1st time, aboard a rover named FLIP",
+      "title": "A supercomputer is about to launch to the moon aboard a rover named FLIP",
       "link": "https://www.space.com/space-exploration/a-supercomputer-is-about-to-launch-to-the-moon-for-the-1st-time-aboard-a-rover-named-flip",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792518161
     },
     {
-      "title": "Save $10 on a Gaming Gift Card When You Buy a Select Game, Including GTA 6",
-      "link": "https://www.ign.com/articles/save-10-gift-card-with-select-game-including-gta-6",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792517653
-    },
-    {
-      "title": "Cyberpunk Edgerunners 2 Producer Explains Roman’s Backstory",
-      "link": "https://www.ign.com/articles/cyberpunk-edgerunners-2-producer-explains-romans-backstory",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792516670
-    },
-    {
-      "title": "Cyberpunk Edgerunners 2 Producer Explains Why This Season's Ending Is So Different From What Fans Expected",
-      "link": "https://www.ign.com/articles/cyberpunk-edgerunners-2-producer-explains-why-this-seasons-ending-is-so-different-from-what-fans-expected",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792516663
-    },
-    {
-      "title": "'Haven't Played Your Console in a While?' Trade It in, Xbox Tells Customers Amid Stock Shortages",
-      "link": "https://www.ign.com/articles/sell-it-to-best-buy-says-xbox",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792516390
+      "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
+      "link": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792518020
     },
     {
       "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
@@ -128,20 +359,6 @@
       "timestamp": 1792512000
     },
     {
-      "title": "Bethesda Reveals What's Coming Next to Fallout 4 With First-Look at a Trio of New Mods",
-      "link": "https://www.ign.com/articles/bethesda-reveals-whats-coming-next-to-fallout-4-with-first-look-at-a-trio-of-new-mods",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792510615
-    },
-    {
-      "title": "‘If Hits Are Unexpected, Datasets Aren’t Gonna Get You There’ — Take-Two Interactive and Sony Bosses Say That AI Cannot Replace Human Creativity",
-      "link": "https://www.ign.com/articles/if-hits-are-unexpected-datasets-arent-gonna-get-you-there-take-two-interactive-and-sony-bosses-say-that-ai-cannot-replace-human-creativity",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792509490
-    },
-    {
       "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
       "link": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
       "source": "TECHCRUNCH",
@@ -149,32 +366,11 @@
       "timestamp": 1792508621
     },
     {
-      "title": "Razer Announces Xbox 25th Anniversary Collection of Peripherals for Xbox Series X|S and PC",
-      "link": "https://www.ign.com/articles/razer-announces-xbox-25th-anniversary-collection-of-peripherals-for-xbox-series-xs-and-pc",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792508400
-    },
-    {
-      "title": "Potential Steam Deck 2 Chip Shows Up in Leaked Benchmarks, Yet Another Potential Final Fantasy-Themed Codename",
-      "link": "https://www.ign.com/articles/potential-steam-deck-2-chip-shows-up-in-leaked-benchmarks-yet-another-potential-final-fantasy-themed-codename",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792508161
-    },
-    {
       "title": "Polestar tries to quantify what it’s like to drive a performance car",
       "link": "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1792507987
-    },
-    {
-      "title": "Nintendo Pays Homage to Original 1998 Commercial for The Legend of Zelda: Ocarina of Time in New Remake Trailer",
-      "link": "https://www.ign.com/articles/nintendo-pays-homage-to-original-1998-commercial-for-the-legend-of-zelda-ocarina-of-time-in-new-remake-trailer",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792507042
     },
     {
       "title": "Use FanDuel promo code to get $350 in bonus bets by targeting 76ers-Knicks, Thunder-Spurs, NBA Opening Night",
@@ -205,25 +401,11 @@
       "timestamp": 1792504800
     },
     {
-      "title": "Former Call of Duty Dev Says 'It's Hard to Watch' Xbox Make Money From Black Ops PlayStation Ports",
-      "link": "https://www.ign.com/articles/former-black-ops-dev-wants-royalties",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792504083
-    },
-    {
       "title": "NBA predictions: Expert picks for 2026-27 awards as Wemby has inside track to two honors, but what about ROY?",
       "link": "https://www.cbssports.com/nba/news/nba-predictions-expert-picks-2026-27-awards-mvp/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1792503889
-    },
-    {
-      "title": "Free $5 Reward Certificate for Signing Up for the New Best Buy Gamers Program",
-      "link": "https://www.ign.com/articles/free-5-gift-card-new-best-buy-gamers-program",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792502650
     },
     {
       "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
@@ -245,20 +427,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1792501256
-    },
-    {
-      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-      "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792501200
-    },
-    {
-      "title": "Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational pull",
-      "link": "https://techcrunch.com/2026/10/20/inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792501200
     },
     {
       "title": "Hurricane warning maps are improving, but a dangerous problem remains",
@@ -289,32 +457,11 @@
       "timestamp": 1792498844
     },
     {
-      "title": "Spotify launches paid podcast memberships with perks beyond bonus content",
-      "link": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792497600
-    },
-    {
-      "title": "Oura adds new fitness metrics to show how workouts impact your body",
-      "link": "https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792497600
-    },
-    {
       "title": "Could a $200K bond for satellites paid before launch prevent a space junk disaster in orbit? Here's why some scientists think so",
       "link": "https://www.space.com/space-exploration/satellites/could-satellite-deorbit-deposits-prevent-a-space-debris-disaster",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792497600
-    },
-    {
-      "title": "Zach Cregger's Resident Evil Movie Outpacing Alien: Romulus, Backrooms, and Obsession at the Global Box Office",
-      "link": "https://www.ign.com/articles/zach-cregger-resident-evil-movie-passed-360m-worldwide",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792496725
     },
     {
       "title": "Your aging brain may be trading memory for something more valuable",
@@ -338,34 +485,6 @@
       "timestamp": 1792494016
     },
     {
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792494000
-    },
-    {
-      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-      "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792494000
-    },
-    {
-      "title": "Kratos Would Have Had a Different Name Were It Not for Relentless Domino's Pizza Jokes, God of War Creator Reveals",
-      "link": "https://www.ign.com/articles/dominos-pizza-jokes-god-of-war-dev-name-kratos",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792493433
-    },
-    {
-      "title": "Cyberpunk 2077 Gets Surprise Official New Update Announcement From CD Projekt",
-      "link": "https://www.ign.com/articles/cyberpunk-2077-gets-surprise-official-new-update-announcement-from-cd-projekt",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792491418
-    },
-    {
       "title": "NASA closes the book on epic OSIRIS-REx asteroid-sampling mission: 'I am immensely proud of what we did'",
       "link": "https://www.space.com/astronomy/asteroids/nasa-closes-the-book-on-epic-osiris-rex-asteroid-sampling-mission-i-am-immensely-proud-of-what-we-did",
       "source": "SPACE",
@@ -378,27 +497,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1792489955
-    },
-    {
-      "title": "Techland CEO Addresses Fans as Dying Light: The Beast Support Comes to an End",
-      "link": "https://www.ign.com/articles/dying-light-the-beast-no-updates",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792489658
-    },
-    {
-      "title": "Xbox 'Business Strategist' Claims Video Game Industry Is 'Pretending to Not Use AI,' Deletes Twitter Account After Deluge of Replies",
-      "link": "https://www.ign.com/articles/xbox-business-strategist-claims-video-game-industry-is-pretending-to-not-use-ai-deletes-twitter-account-after-deluge-of-replies",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792488625
-    },
-    {
-      "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
-      "link": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792479660
     },
     {
       "title": "NASA reveals 16 stunning galaxies hiding cosmic chaos",
@@ -478,20 +576,6 @@
       "timestamp": 1792443257
     },
     {
-      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-      "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792441313
-    },
-    {
-      "title": "Batteries help reduce emissions, but how do we reduce their emissions?",
-      "link": "https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792440235
-    },
-    {
       "title": "The X-Files Lego set is a wonderful bit of 90s sci-fi nostalgia",
       "link": "https://www.space.com/entertainment/space-toys-lego/the-x-files-lego-set-is-a-wonderful-bit-of-90s-sci-fi-nostalgia",
       "source": "SPACE",
@@ -513,32 +597,11 @@
       "timestamp": 1792438828
     },
     {
-      "title": "PSA: Patch your Plex media server before someone hacks it",
-      "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792438759
-    },
-    {
-      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
-      "link": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792438044
-    },
-    {
       "title": "The moon is shrinking. 10,000 cracks on the lunar surface reveal by how much",
       "link": "https://www.space.com/astronomy/moon/the-moon-is-shrinking-10-000-cracks-on-the-lunar-surface-reveal-by-how-much",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792436400
-    },
-    {
-      "title": "ReactOS reaches major milestone with NTFS install support",
-      "link": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792434656
     },
     {
       "title": "NBA 2026-27 season predictions: Expert picks for full standings and Finals",
@@ -555,27 +618,6 @@
       "timestamp": 1792431467
     },
     {
-      "title": "AI game clones are making indie developers afraid to show their work",
-      "link": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792429162
-    },
-    {
-      "title": "Florida DMV hacked after police dept insecurely stored login info",
-      "link": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792427893
-    },
-    {
-      "title": "NBA 2026-27 championship futures odds: Thunder, Spurs favored, but Knicks, LeBron James' 76ers not far behind",
-      "link": "https://www.cbssports.com/betting/news/nba-2026-27-championship-futures-odds-thunder-spurs-favored-but-knicks-lebron-james-76ers-not-far-behind/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792427538
-    },
-    {
       "title": "'They're kind of goth': NASA spacecraft gives mysterious brown dwarfs a close-up",
       "link": "https://www.space.com/astronomy/stars/theyre-kind-of-goth-nasa-spacecraft-gives-mysterious-brown-dwarfs-a-close-up",
       "source": "SPACE",
@@ -583,39 +625,11 @@
       "timestamp": 1792422398
     },
     {
-      "title": "Disney found a way to buy Character.AI without buying its lawsuits",
-      "link": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792421143
-    },
-    {
-      "title": "A Chinese rocket deorbited over Minnesota and left this in a farmer's cornfield",
-      "link": "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792420501
-    },
-    {
       "title": "Elephant Island is an icy sight from orbit | Space photo of the day for Oct. 19, 2026",
       "link": "https://www.space.com/astronomy/earth/elephant-island-is-an-icy-sight-from-orbit-space-photo-of-the-day-for-oct-19-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792418400
-    },
-    {
-      "title": "The 76ers seem to finally have everything they need, and it makes their season both thrilling and terrifying",
-      "link": "https://www.cbssports.com/nba/news/76ers-everything-they-need-season-thrilling-terrifying/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792416696
-    },
-    {
-      "title": "Review: Lanterns is a truly unique twist on the superhero genre",
-      "link": "https://arstechnica.com/culture/2026/10/review-lanterns-is-a-truly-unique-twist-on-the-superhero-genre/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792416668
     },
     {
       "title": "Alaska’s monster tsunami sent water 1,580 feet up a mountain",
@@ -639,13 +653,6 @@
       "timestamp": 1792413309
     },
     {
-      "title": "Did a giant object collide with Earth to form the moon?",
-      "link": "https://www.space.com/astronomy/moon/did-a-giant-object-collide-with-earth-to-form-the-moon",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1792411200
-    },
-    {
       "title": "Just 3,000 steps a day may help slow Alzheimer's, scientists find",
       "link": "https://www.sciencedaily.com/releases/2026/10/261018205058.htm",
       "source": "SCIENCEDAILY",
@@ -665,13 +672,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1792405563
-    },
-    {
-      "title": "Watch Japan launch a bold sample-return mission to Mars moon Phobos today",
-      "link": "https://www.space.com/astronomy/mars/japan-launching-bold-sample-return-mission-to-mars-moon-phobos-today-watch-it-live",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1792404000
     }
   ]
 }
