@@ -1,6 +1,34 @@
 {
-  "last_updated": 1792459966,
+  "last_updated": 1792480039,
   "items": [
+    {
+      "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+      "link": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792479660
+    },
+    {
+      "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+      "link": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792475996
+    },
+    {
+      "title": "Disney Will Air a Real-Time, Animated Version of the 2027 Super Bowl Set in the Star Wars Universe",
+      "link": "https://www.ign.com/articles/disney-will-air-a-real-time-animated-version-of-the-2027-super-bowl-set-in-the-star-wars-universe",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792473045
+    },
+    {
+      "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+      "link": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792461600
+    },
     {
       "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
       "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
@@ -9,7 +37,7 @@
       "timestamp": 1792459623
     },
     {
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
       "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -345,13 +373,6 @@
       "timestamp": 1792424229
     },
     {
-      "title": "With GTA 6's Dating System Incoming, a Surprising Percentage of Adults Think Investing in a Video Game Relationship Is Cheating",
-      "link": "https://www.ign.com/articles/gta-6-dating-system-cheating",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792423014
-    },
-    {
       "title": "'They're kind of goth': NASA spacecraft gives mysterious brown dwarfs a close-up",
       "link": "https://www.space.com/astronomy/stars/theyre-kind-of-goth-nasa-spacecraft-gives-mysterious-brown-dwarfs-a-close-up",
       "source": "SPACE",
@@ -413,20 +434,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1792414622
-    },
-    {
-      "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
-      "link": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792414574
-    },
-    {
-      "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
-      "link": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792413775
     },
     {
       "title": "Something strange is happening beneath a volcano near 2 million people",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1792236594
-    },
-    {
-      "title": "Science says your boss should talk less in meetings",
-      "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792235711
     }
   ]
 }
