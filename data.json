@@ -1,6 +1,34 @@
 {
-  "last_updated": 1792631437,
+  "last_updated": 1792652537,
   "items": [
+    {
+      "title": "'We Were Working on a Great Game' — Former Mass Effect 5 Writers Speak Out After EA Shuts Down BioWare",
+      "link": "https://www.ign.com/articles/we-were-working-on-a-great-game-former-mass-effect-5-writers-speak-out-after-ea-shuts-down-bioware",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792648618
+    },
+    {
+      "title": "NBA winners and losers: Giannis gets nothing from new Heat teammates; Steph Curry could be in for a long year",
+      "link": "https://www.cbssports.com/nba/news/nba-opening-night-winners-losers-giannis-heat-anthony-edwards-lamelo-ball-timberwolves/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792645149
+    },
+    {
+      "title": "Familiar faces, new places: Grading debuts for Giannis Antetokounmpo, Kawhi Leonard, other NBA stars",
+      "link": "https://www.cbssports.com/nba/news/nba-opening-night-grades-giannis-lamelo-ball-anthony-davis-kawhi-leonard-ja-morant/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792643495
+    },
+    {
+      "title": "Dragon Ball Xenoverse 3 Narrows Release Window Following Player Feedback",
+      "link": "https://www.ign.com/articles/dragon-ball-xenoverse-3-narrows-release-window-following-player-feedback",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792629708
+    },
     {
       "title": "Tesla says it will start selling Cybercabs by end of year",
       "link": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
@@ -84,13 +112,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1792620317
-    },
-    {
-      "title": "2026 NBA betting promos: Get over $3,000 in bonuses from top online betting apps, sportsbooks for Oct. 21",
-      "link": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-oct-21/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792620053
     },
     {
       "title": "2026 NBA odds, picks, predictions, best bets, player props: Experts, model backing Heat, more on Oct. 21",
@@ -331,13 +352,6 @@
       "timestamp": 1792605637
     },
     {
-      "title": "Xbox Insiders Can Now Stream Games by Buying Cloud Playtime Without Game Pass, Introductory Launch Pricing Revealed",
-      "link": "https://www.ign.com/articles/xbox-insiders-can-now-stream-games-by-buying-cloud-playtime-without-game-pass-introductory-launch-pricing-revealed",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792605623
-    },
-    {
       "title": "GM is giving OnStar an AI makeover",
       "link": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
       "source": "TECHCRUNCH",
@@ -350,13 +364,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792605600
-    },
-    {
-      "title": "Diablo Is Getting a New Board Game Adaptation You Can Play Solo or With Friends",
-      "link": "https://www.ign.com/articles/diablo-unbound-board-game-announcement",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792605462
     },
     {
       "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
@@ -548,13 +555,6 @@
       "timestamp": 1792533454
     },
     {
-      "title": "76ers vs. Knicks NBA odds: LeBron James and Philly open as biggest title liability, look to ruin banner night",
-      "link": "https://www.cbssports.com/betting/news/76ers-vs-knicks-nba-odds-lebron-james-and-philly-open-as-biggest-title-liability-look-to-ruin-banner-night/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792531857
-    },
-    {
       "title": "On this day in space! Oct. 20, 1970: The Soviet Union launches last-ever Zond moon mission",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-20-2026",
       "source": "SPACE",
@@ -583,15 +583,15 @@
       "timestamp": 1792518161
     },
     {
-      "title": "Red light, white light: How to preserve your night vision while using stargazing apps",
-      "link": "https://www.space.com/stargazing/skywatching-kit/red-light-white-light-how-to-preserve-your-night-vision-while-using-stargazing-apps",
+      "title": "The view from the edge of a sparkling spiral galaxy | Space photo of the day for Oct. 20, 2026",
+      "link": "https://www.space.com/astronomy/galaxies/the-view-from-the-edge-of-a-spiral-galaxy-space-photo-of-the-day-for-oct-20-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792504800
     },
     {
-      "title": "The view from the edge of a sparkling spiral galaxy | Space photo of the day for Oct. 20, 2026",
-      "link": "https://www.space.com/astronomy/galaxies/the-view-from-the-edge-of-a-spiral-galaxy-space-photo-of-the-day-for-oct-20-2026",
+      "title": "Red light, white light: How to preserve your night vision while using stargazing apps",
+      "link": "https://www.space.com/stargazing/skywatching-kit/red-light-white-light-how-to-preserve-your-night-vision-while-using-stargazing-apps",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792504800
