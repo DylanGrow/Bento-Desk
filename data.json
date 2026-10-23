@@ -1,12 +1,82 @@
 {
-  "last_updated": 1792706589,
+  "last_updated": 1792717812,
   "items": [
+    {
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792716337
+    },
+    {
+      "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+      "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792713041
+    },
+    {
+      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+      "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792710900
+    },
+    {
+      "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+      "link": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792708494
+    },
+    {
+      "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
+      "link": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792707933
+    },
+    {
+      "title": "Cyberpunk 2 Associate Director Says Half of Game's Quest Team Are Former Modders",
+      "link": "https://www.ign.com/articles/cyberpunk-2-associate-director-says-half-of-games-quest-team-are-former-modders",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792707508
+    },
+    {
+      "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+      "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792707139
+    },
+    {
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792706904
+    },
     {
       "title": "Europe's Space Rider vehicle comes crashing down during drop test",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/europes-space-rider-vehicle-comes-crashing-down-during-drop-test",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792706400
+    },
+    {
+      "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
+      "link": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792705951
+    },
+    {
+      "title": "76ers vs. Cavaliers prediction, odds, betting preview: NBA picks, LeBron James props, best bets on Thursday",
+      "link": "https://www.cbssports.com/betting/news/76ers-vs-cavaliers-prediction-odds-betting-preview-nba-picks-lebron-james-props-best-bets-thursday/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792705549
     },
     {
       "title": "Young Sheldon Star Annie Potts Says She Was a ‘Little Sad’ About Jim Parsons Cameo as 'Mean and Unchanged' Sheldon in Show's Finale",
@@ -21,6 +91,13 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792703306
+    },
+    {
+      "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
+      "link": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792703229
     },
     {
       "title": "Rivian buys world model startup to accelerate self-driving ambitions",
@@ -289,13 +366,6 @@
       "timestamp": 1792684800
     },
     {
-      "title": "Uber puts all 30,000 employees on ChatGPT Work",
-      "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792684800
-    },
-    {
       "title": "Mike Mignola Resurrects the Hellboy Universe for B.P.R.D.: Declassified",
       "link": "https://www.ign.com/articles/mike-mignola-resurrects-the-hellboy-universe-for-bprd-declassified",
       "source": "IGN",
@@ -324,25 +394,11 @@
       "timestamp": 1792683977
     },
     {
-      "title": "Tesla is prepping a Cybercab onslaught",
-      "link": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792683879
-    },
-    {
       "title": "LEGO Daft Punk Set Officially Announced",
       "link": "https://www.ign.com/articles/lego-daft-punk-set-officially-announced",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1792683748
-    },
-    {
-      "title": "Final James Bond Screen Tests Are Underway With Jack Lowden, Callum Turner, and Others on the Shortlist",
-      "link": "https://www.ign.com/articles/final-james-bond-screen-tests-are-underway-with-jack-lowden-callum-turner-and-others-on-the-shortlist",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792683065
     },
     {
       "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
@@ -352,32 +408,11 @@
       "timestamp": 1792682702
     },
     {
-      "title": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
-      "link": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792682672
-    },
-    {
-      "title": "Investors break down how founders can raise a Series A today",
-      "link": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792682100
-    },
-    {
       "title": "Clippers coach Ty Lue dedicates opening night win to suspended Steve Ballmer: 'We're still fighting for him'",
       "link": "https://www.cbssports.com/nba/news/clippers-ty-lue-dedicates-win-steve-ballmer/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1792681609
-    },
-    {
-      "title": "Spotify’s current AI bet is about being the music service that agents choose",
-      "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792681438
     },
     {
       "title": "2026 NBA betting promos: Get over $3,000 in bonuses from top online betting apps, sportsbooks for Oct. 22",
@@ -406,13 +441,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1792675810
-    },
-    {
-      "title": "Forget \"Malaise 2.0,\" GM says it's still all-in on EVs and autonomy",
-      "link": "https://arstechnica.com/cars/2026/10/forget-malaise-2-0-gm-says-its-still-all-in-on-evs-and-autonomy/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792674272
     },
     {
       "title": "Prisco's NFL Week 7 picks ahead of Patriots vs. Bears; Dream take WNBA Finals lead on Valkyries",
@@ -457,25 +485,11 @@
       "timestamp": 1792668649
     },
     {
-      "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
-      "link": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792668633
-    },
-    {
       "title": "Honey bees are bullying other bees, scientists discover",
       "link": "https://www.sciencedaily.com/releases/2026/10/261021231227.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1792668044
-    },
-    {
-      "title": "UN says we're going to blow past 1.5º warming, offers a \"now what?\" answer",
-      "link": "https://arstechnica.com/science/2026/10/un-accepts-the-obvious-were-not-going-to-avoid-a-1-5o-c-warming/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792667736
     },
     {
       "title": "NASA’s Curiosity rover reveals a spectacular new view of Mars with a mystery on the horizon",
@@ -527,13 +541,6 @@
       "timestamp": 1792632957
     },
     {
-      "title": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
-      "link": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792621070
-    },
-    {
       "title": "Kristaps Porziņģis trade destinations: Three viable moves the Warriors could make to improve their roster",
       "link": "https://www.cbssports.com/nba/news/kristaps-porzingis-trade-destinations-rumors-warriors/",
       "source": "CBSSPORTS",
@@ -560,13 +567,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1792619143
-    },
-    {
-      "title": "Today's top games to watch, best bets, odds: Timberwolves vs. Heat, NHL action and more",
-      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-timberwolves-vs-heat-nhl-action-and-more/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792619015
     },
     {
       "title": "On this day in space! Oct. 21, 2008: India launches its 1st mission to the moon with Chandrayaan-1",
