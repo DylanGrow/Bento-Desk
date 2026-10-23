@@ -1,6 +1,216 @@
 {
-  "last_updated": 1792758190,
+  "last_updated": 1792777223,
   "items": [
+    {
+      "title": "Crows can evaluate visual info twice as fast as mammals",
+      "link": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792776778
+    },
+    {
+      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+      "link": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792775911
+    },
+    {
+      "title": "Dalton Knecht signs with Knicks, per report: Could ex-Lakers first-round pick find role in New York?",
+      "link": "https://www.cbssports.com/nba/news/dalton-knecht-contract-new-york-knicks-los-angeles-lakers/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792774801
+    },
+    {
+      "title": "RFK Jr.’s vaccine injury clinic could damage NIH hospital, board warns",
+      "link": "https://arstechnica.com/health/2026/10/rfk-jr-s-vaccine-injury-clinic-could-damage-nih-hospital-board-warns/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792774719
+    },
+    {
+      "title": "Knicks sent employees fake offer of championship rings in phishing test: Report",
+      "link": "https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792774319
+    },
+    {
+      "title": "Everybody panic: A Valve developer said \"HLX\" in public",
+      "link": "https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792773300
+    },
+    {
+      "title": "Jaylen Brown calls 'cap' on Jayson Tatum's recollection of stunning Celtics-76ers trade",
+      "link": "https://www.cbssports.com/nba/news/jaylen-brown-jayson-tatum-celtics-76ers-trade/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792772821
+    },
+    {
+      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+      "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792772789
+    },
+    {
+      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
+      "link": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792772428
+    },
+    {
+      "title": "NBA player props, odds, picks, lines: Victor Wembanyama, Stephen Curry part of best bets for Friday",
+      "link": "https://www.cbssports.com/betting/news/nba-player-props-odds-picks-lines-victor-wembanyama-stephen-curry-part-of-best-bets-for-friday/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792772419
+    },
+    {
+      "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
+      "link": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792771363
+    },
+    {
+      "title": "Never finishing the fight: Where did Xbox go wrong with Halo?",
+      "link": "https://www.space.com/entertainment/space-games/never-finishing-the-fight-where-did-xbox-go-wrong-with-halo",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792771200
+    },
+    {
+      "title": "Nintendo Legend Shigeru Miyamoto Becomes First Game Designer to Be Awarded Japan's Order of Culture",
+      "link": "https://www.ign.com/articles/nintendo-legend-shigeru-miyamoto-becomes-first-game-designer-to-be-awarded-japans-order-of-culture",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792770473
+    },
+    {
+      "title": "EA Appears to Have Quietly Pulled Mass Effect Content From Battlefield 6 Following BioWare Shutdown",
+      "link": "https://www.ign.com/articles/ea-appears-to-have-quietly-pulled-mass-effect-content-from-battlefield-6-following-bioware-shutdown",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792769627
+    },
+    {
+      "title": "Fallout Shelter: The Experiment Is the Official Title for the Prime Video Reality Competition Show, Release Date Announced on Fallout Day",
+      "link": "https://www.ign.com/articles/fallout-shelter-the-experiment-is-the-official-title-for-the-prime-video-reality-competition-show-release-date-announced-on-fallout-day",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792768576
+    },
+    {
+      "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
+      "link": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792767609
+    },
+    {
+      "title": "Save Mass Effect Petition Hits 50,000 Signatures, Just Days After BioWare Closure",
+      "link": "https://www.ign.com/articles/save-mass-effect-petition-hits-50000-signatures-just-days-after-bioware-closure",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792767540
+    },
+    {
+      "title": "NBA Sure Things: Three days into the new season, these nine things feel like guarantees",
+      "link": "https://www.cbssports.com/nba/news/nba-sure-things-2026-27-season-tyrese-maxey-ja-morant-chet-holmgren-luka-doncic-lamelo-ball/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792766570
+    },
+    {
+      "title": "Use DraftKings promo code to get $200 bonus, free NBA League Pass for Rays-Brewers, World Series Game 1, NBA",
+      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-rays-brewers-world-series-game-1-nba/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792766314
+    },
+    {
+      "title": "Arkane Lyon Reportedly Could Be Closed in Mid-November if a Buyer Isn't Found, With Marvel's Blade Still in Development",
+      "link": "https://www.ign.com/articles/xbox-wants-to-close-arkane-lyon",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792766138
+    },
+    {
+      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Rays-Brewers World Series Game 1, Knicks-Celtics",
+      "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-rays-brewers-world-series-game-1-knicks-celtics/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792766048
+    },
+    {
+      "title": "2026 NBA betting promos: Get over $3,000 in bonuses from top online betting apps, sportsbooks for Oct. 23",
+      "link": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-oct-23/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792765834
+    },
+    {
+      "title": "2026 NBA odds, picks, predictions, best bets, player props: Experts, model backing Spurs, more on Friday",
+      "link": "https://www.cbssports.com/betting/news/2026-nba-odds-picks-predictions-best-bets-player-props-experts-model-backing-spurs-more-friday/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792764303
+    },
+    {
+      "title": "Knicks vs. Celtics prediction, odds, betting preview, start time: NBA picks, best bets on Friday, Oct. 23",
+      "link": "https://www.cbssports.com/betting/news/knicks-vs-celtics-prediction-odds-betting-preview-start-time-nba-picks-best-bets-friday-oct-23/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792764021
+    },
+    {
+      "title": "Private Griffin moon lander gets put to the test | Space photo of the day for Oct. 23, 2026",
+      "link": "https://www.space.com/space-exploration/private-griffin-moon-lander-gets-put-to-the-test-space-photo-of-the-day-for-oct-23-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792764000
+    },
+    {
+      "title": "Canadian Politician Wants the Government to Bail Out Mass Effect Developer BioWare",
+      "link": "https://www.ign.com/articles/canadian-politician-wants-government-bail-out-bioware",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792763126
+    },
+    {
+      "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
+      "link": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792763001
+    },
+    {
+      "title": "Shai Gilgeous-Alexander's 20-point streak is over, and it's a record that may never be broken",
+      "link": "https://www.cbssports.com/nba/news/shai-gilgeous-alexander-20-point-streak-record-may-never-be-broken/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792759406
+    },
+    {
+      "title": "Knicks reportedly duped employees with championship ring email that was actually a phishing test",
+      "link": "https://www.cbssports.com/nba/news/knicks-duped-employees-championship-ring-email-phishing-test/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792758580
+    },
+    {
+      "title": "Franchises Like Mass Effect Are a 'Prestige Project' for EA, and BioWare's Closure Was 'Entirely Predictable,' Analysts Say",
+      "link": "https://www.ign.com/articles/franchises-like-mass-effect-are-a-prestige-project-for-ea-and-biowares-closure-was-entirely-predictable-analysts-say",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792757436
+    },
     {
       "title": "'Stupendously large black holes' aren't a major component of dark matter, study finds",
       "link": "https://www.space.com/astronomy/dark-universe/stupendously-large-black-holes-arent-a-major-component-of-dark-matter-study-finds",
@@ -114,14 +324,14 @@
       "timestamp": 1792744102
     },
     {
-      "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+      "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
       "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1792729377
     },
     {
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
       "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -268,13 +478,6 @@
       "timestamp": 1792702799
     },
     {
-      "title": "New Look at Avengers: Doomsday to Premiere During MLB World Series",
-      "link": "https://www.ign.com/articles/new-look-at-avengers-doomsday-to-premiere-during-mlb-world-series",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792702129
-    },
-    {
       "title": "NBA refs confirm LaMelo Ball's ridiculous double stepback was indeed a travel: 'He takes four steps'",
       "link": "https://www.cbssports.com/nba/news/nba-confirms-lamelo-ball-traveling-timberwolves-debut/",
       "source": "CBSSPORTS",
@@ -287,13 +490,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792700884
-    },
-    {
-      "title": "Saber Interactive CEO Says Clive Barker’s Hellraiser: Revival is Performing 'Extremely Well on PC and Consoles' with More to Come",
-      "link": "https://www.ign.com/articles/saber-interactive-ceo-says-clive-barkers-hellraiser-revival-is-performing-extremely-well-on-pc-and-consoles-with-more-to-come",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792700399
     },
     {
       "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
@@ -338,13 +534,6 @@
       "timestamp": 1792699112
     },
     {
-      "title": "Stephen King Responds as Carrie Renewed for Second Season on Prime Video",
-      "link": "https://www.ign.com/articles/stephen-king-responds-as-carrie-renewed-for-second-season-on-prime-video",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792698172
-    },
-    {
       "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
       "link": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
       "source": "ARSTECHNICA",
@@ -359,39 +548,11 @@
       "timestamp": 1792697424
     },
     {
-      "title": "‘Now You’re Pushing It’ — Debra Wilson Drew the Line at the Wolverine Devs Scanning Her Tattoos Into the Game",
-      "link": "https://www.ign.com/articles/now-youre-pushing-it-debra-wilson-drew-the-line-at-the-wolverine-devs-scanning-her-tattoos-into-the-game",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792697259
-    },
-    {
-      "title": "Obsession Star Inde Navarrette Says Gen Z is 'Tired' of Unoriginal Stories in Hollywood",
-      "link": "https://www.ign.com/articles/obsession-star-inde-navarrette-says-gen-z-is-tired-of-unoriginal-stories-in-hollywood",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792696716
-    },
-    {
       "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
       "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1792696029
-    },
-    {
-      "title": "\"Disillusioned\" MAHA leader quits as Trump admin's food agenda spoils: Report",
-      "link": "https://arstechnica.com/health/2026/10/disillusioned-maha-leader-quits-as-trump-admins-food-agenda-spoils-report/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792695846
-    },
-    {
-      "title": "Electric or gas? BMW goes both ways with new 2027 X5 and iX5.",
-      "link": "https://arstechnica.com/cars/2026/10/electric-or-gas-bmw-goes-both-ways-with-new-2027-x5-and-ix5/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792695683
     },
     {
       "title": "Canva releases its first image generation model",
@@ -401,81 +562,11 @@
       "timestamp": 1792695600
     },
     {
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792695600
-    },
-    {
-      "title": "Samsung all but confirms iPhone Duo is goosing Galaxy Z8 sales",
-      "link": "https://arstechnica.com/gadgets/2026/10/samsung-all-but-confirms-iphone-duo-is-goosing-galaxy-z8-sales/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792694954
-    },
-    {
-      "title": "Valve Developer Mistakenly Mentions Rumored Half-Life 3 Codename",
-      "link": "https://www.ign.com/articles/valve-developer-mistakenly-mentions-rumored-half-life-3-codename",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792694760
-    },
-    {
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792694633
-    },
-    {
-      "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
-      "link": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792694327
-    },
-    {
-      "title": "US official: Russia's stalker satellite sure looks like an orbital weapon",
-      "link": "https://arstechnica.com/space/2026/10/russia-claims-its-stalker-satellite-is-purely-peaceful-in-character/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792693779
-    },
-    {
       "title": "Van Gogh's 'The Starry Night' depicts the sky on July 22, 1889, researchers find",
       "link": "https://www.space.com/astronomy/van-goghs-the-starry-night-depicts-the-sky-on-july-22-1889-researchers-find",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792692000
-    },
-    {
-      "title": "Elon Musk made a $1B investment in Skydance, report says",
-      "link": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792690598
-    },
-    {
-      "title": "Seth Rogen and Brad Bird Lead 2026 Infinity Festival Lineup",
-      "link": "https://www.ign.com/articles/seth-rogen-brad-bird-infinity-festival",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792690200
-    },
-    {
-      "title": "Meta shocked by $25B fine after N.M. refused to join multistate settlement",
-      "link": "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792688671
-    },
-    {
-      "title": "US-backed vaccine trial on babies canceled after international outcry",
-      "link": "https://arstechnica.com/health/2026/10/unethical-vaccine-trial-on-babies-backed-by-rfk-jr-is-formally-canceled/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792687020
     },
     {
       "title": "'Cabin leak suspected': Artemis II astronaut reveals how a warning nearly derailed NASA's epic moon mission",
@@ -492,20 +583,6 @@
       "timestamp": 1792683977
     },
     {
-      "title": "Clippers coach Ty Lue dedicates opening night win to suspended Steve Ballmer: 'We're still fighting for him'",
-      "link": "https://www.cbssports.com/nba/news/clippers-ty-lue-dedicates-win-steve-ballmer/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792681609
-    },
-    {
-      "title": "2026 NBA betting promos: Get over $3,000 in bonuses from top online betting apps, sportsbooks for Oct. 22",
-      "link": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-oct-22/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792679189
-    },
-    {
       "title": "Australia's bizarre 'Spider Crater' seen from orbit | Space photo of the day for Oct. 22, 2026",
       "link": "https://www.space.com/astronomy/earth/australias-bizarre-spider-crater-seen-from-orbit-space-photo-of-the-day-for-oct-22-2026",
       "source": "SPACE",
@@ -513,32 +590,11 @@
       "timestamp": 1792677600
     },
     {
-      "title": "NBA one-game overreactions: The Warriors need to trade Stephen Curry, Ja Morant is a perfect fit in Portland",
-      "link": "https://www.cbssports.com/nba/news/nba-one-game-overreactions-warriors-trade-stephen-curry-ja-morant-perfect-fit/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792675810
-    },
-    {
       "title": "Millions take fish oil for brain health. A two-year study found no benefit",
       "link": "https://www.sciencedaily.com/releases/2026/10/261020085427.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1792673184
-    },
-    {
-      "title": "Prisco's NFL Week 7 picks ahead of Patriots vs. Bears; Dream take WNBA Finals lead on Valkyries",
-      "link": "https://www.cbssports.com/nfl/news/prisco-nfl-picks-patriots-bears-dream-wnba-finals-valkyries/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792672788
-    },
-    {
-      "title": "Warriors rookie Yaxel Lendeborg says he 'lost all respect' for Luka Dončić in NBA debut: 'I told him he sucks'",
-      "link": "https://www.cbssports.com/nba/news/warriors-rookie-yaxel-lendeborg-lost-all-respect-luka-doncic/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792672567
     },
     {
       "title": "Birds are more afraid of women than men. Scientists have no idea why",
@@ -590,25 +646,11 @@
       "timestamp": 1792663823
     },
     {
-      "title": "NASA giving update about Artemis moon plans on Oct. 23: Watch it live",
+      "title": "Watch NASA's update on accelerating Artemis moon plans today",
       "link": "https://www.space.com/space-exploration/artemis/nasa-giving-update-about-artemis-moon-plans-on-oct-23-watch-it-live",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792663200
-    },
-    {
-      "title": "NBA winners and losers: Giannis gets nothing from new Heat teammates; Steph Curry could be in for a long year",
-      "link": "https://www.cbssports.com/nba/news/nba-opening-night-winners-losers-giannis-heat-anthony-edwards-lamelo-ball-timberwolves/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792645149
-    },
-    {
-      "title": "Familiar faces, new places: Grading debuts for Giannis Antetokounmpo, Kawhi Leonard, other NBA stars",
-      "link": "https://www.cbssports.com/nba/news/nba-opening-night-grades-giannis-lamelo-ball-anthony-davis-kawhi-leonard-ja-morant/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792643495
     },
     {
       "title": "People are taking an unapproved weight-loss drug. AI found something surprising",
@@ -616,34 +658,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1792636621
-    },
-    {
-      "title": "Kristaps Porziņģis trade destinations: Three viable moves the Warriors could make to improve their roster",
-      "link": "https://www.cbssports.com/nba/news/kristaps-porzingis-trade-destinations-rumors-warriors/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792620317
-    },
-    {
-      "title": "2026 NBA odds, picks, predictions, best bets, player props: Experts, model backing Heat, more on Oct. 21",
-      "link": "https://www.cbssports.com/betting/news/2026-nba-odds-picks-predictions-best-bets-player-props-experts-model-backing-heat-more-wednesday-oct-21/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792619854
-    },
-    {
-      "title": "Timberwolves vs. Heat NBA odds: Can Giannis Antetokounmpo outduel LaMelo Ball and be a winner in Miami debut?",
-      "link": "https://www.cbssports.com/betting/news/timberwolves-vs-heat-nba-odds-can-giannis-antetokounmpo-outduel-lamelo-ball-and-be-a-winner-in-miami-debut/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792619238
-    },
-    {
-      "title": "NBA player props, odds, picks, lines: Stephen Curry part of best bets for Wednesday",
-      "link": "https://www.cbssports.com/betting/news/nba-player-props-odds-picks-lines-stephen-curry-part-of-best-bets-for-wednesday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792619143
     },
     {
       "title": "On this day in space! Oct. 21, 2008: India launches its 1st mission to the moon with Chandrayaan-1",
@@ -658,20 +672,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792605600
-    },
-    {
-      "title": "\"A great budget lens for astrophotography, the sharpness produced at f/1.8 and f/2.8 is exactly what you want.\" Viltrox AF 16mm f/1.8 FE lens review",
-      "link": "https://www.space.com/stargazing/astrophotography/a-great-budget-lens-for-astrophotography-the-sharpness-produced-at-f-1-8-and-f-2-8-is-exactly-what-you-want-viltrox-af-16mm-f-1-8-fe-lens-review",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1792593000
-    },
-    {
-      "title": "Space botanist conducts plant experiments in orbit | Space photo of the day for Oct. 21, 2026",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/space-botanist-conducts-plant-experiments-in-orbit-space-photo-of-the-day-for-oct-21-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1792591200
     }
   ]
 }
