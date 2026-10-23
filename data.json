@@ -1,6 +1,48 @@
 {
-  "last_updated": 1792717812,
+  "last_updated": 1792738471,
   "items": [
+    {
+      "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+      "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792729377
+    },
+    {
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792728000
+    },
+    {
+      "title": "40 years later, Chernobyl's nuclear fallout is not what scientists expected",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261021231241.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792726513
+    },
+    {
+      "title": "Nearly 3,000 exploding stars challenge our understanding of the Universe",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261021231244.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792724081
+    },
+    {
+      "title": "The Battlestar Galactica Board Game Is Making a Surprise Comeback Next Year",
+      "link": "https://www.ign.com/articles/the-battlestar-galactica-board-game-is-making-a-surprise-comeback-next-year",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792721554
+    },
+    {
+      "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792718507
+    },
     {
       "title": "Left alone with nothing to do, AI agents started playing",
       "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
@@ -317,13 +359,6 @@
       "timestamp": 1792688671
     },
     {
-      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-      "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792687637
-    },
-    {
       "title": "Mass Effect 5 Trailer Leaks Online With 'Mass Effect: Universe' Title, Reveals Returning Characters and Much More",
       "link": "https://www.ign.com/articles/mass-effect-5-trailer-leaks-online-with-mass-effect-universe-title-reveals-returning-characters-and-much-more",
       "source": "IGN",
@@ -359,13 +394,6 @@
       "timestamp": 1792685696
     },
     {
-      "title": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
-      "link": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792684800
-    },
-    {
       "title": "Mike Mignola Resurrects the Hellboy Universe for B.P.R.D.: Declassified",
       "link": "https://www.ign.com/articles/mike-mignola-resurrects-the-hellboy-universe-for-bprd-declassified",
       "source": "IGN",
@@ -392,13 +420,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1792683977
-    },
-    {
-      "title": "LEGO Daft Punk Set Officially Announced",
-      "link": "https://www.ign.com/articles/lego-daft-punk-set-officially-announced",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792683748
     },
     {
       "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
@@ -441,6 +462,13 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1792675810
+    },
+    {
+      "title": "Millions take fish oil for brain health. A two-year study found no benefit",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261020085427.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792673184
     },
     {
       "title": "Prisco's NFL Week 7 picks ahead of Patriots vs. Bears; Dream take WNBA Finals lead on Valkyries",
@@ -644,34 +672,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792576800
-    },
-    {
-      "title": "NASA’s Perseverance Mars rover just shattered the all-time off-world driving record",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020084818.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792574556
-    },
-    {
-      "title": "A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020085727.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792555708
-    },
-    {
-      "title": "Scientists discover ghostly, eyeless creature hidden in Chinese cave",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261019093445.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792552097
-    },
-    {
-      "title": "Scientists finally uncover why statins can cause muscle pain",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261019093447.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792501256
     }
   ]
 }
