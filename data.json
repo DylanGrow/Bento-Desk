@@ -1,6 +1,118 @@
 {
-  "last_updated": 1792738471,
+  "last_updated": 1792758190,
   "items": [
+    {
+      "title": "'Stupendously large black holes' aren't a major component of dark matter, study finds",
+      "link": "https://www.space.com/astronomy/dark-universe/stupendously-large-black-holes-arent-a-major-component-of-dark-matter-study-finds",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792756800
+    },
+    {
+      "title": "Mass Effect-Style Game Exodus Picked a Hell of a Time to Reveal Its Redesigned Male Protagonist",
+      "link": "https://www.ign.com/articles/exodus-protagonist-jun-makeover",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792755079
+    },
+    {
+      "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+      "link": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792755022
+    },
+    {
+      "title": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792754599
+    },
+    {
+      "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
+      "link": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792754103
+    },
+    {
+      "title": "Dental implants can hijack your immune system, scientists discover",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792753948
+    },
+    {
+      "title": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792753345
+    },
+    {
+      "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
+      "link": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1792753257
+    },
+    {
+      "title": "'I Don't Know if There's Perfecting It' — Call of Duty: Modern Warfare 4 Multiplayer Chief Weighs in on Matchmaking",
+      "link": "https://www.ign.com/articles/i-dont-know-if-theres-perfecting-it-call-of-duty-modern-warfare-4-multiplayer-chief-weighs-in-on-matchmaking",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792753131
+    },
+    {
+      "title": "Rocket Lab launches 3 'Hawk' satellites to orbit to gather signals intelligence",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-3-hawk-satellites-to-orbit-to-gather-signals-intelligence",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792753071
+    },
+    {
+      "title": "Scientists discover a surprising double benefit of exercise for Parkinson’s",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081306.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792750211
+    },
+    {
+      "title": "Breaking Down the Future of Disney Lorcana TCG with Co-Founder Ryan Miller",
+      "link": "https://www.ign.com/articles/breaking-down-the-future-of-disney-lorcana-tcg-with-co-founder-ryan-miller",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792749972
+    },
+    {
+      "title": "Space debris: Are we on track for true sustainability? (op-ed)",
+      "link": "https://www.space.com/space-exploration/satellites/space-debris-are-we-on-track-for-true-sustainability-op-ed",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792749600
+    },
+    {
+      "title": "Cyberpunk 2077 2.5 Update Secretly Added The Witcher 3 Sword and Cosmetics",
+      "link": "https://www.ign.com/articles/cyberpunk-2077-update-secretly-added-witcher-sword-cosmetics",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792749049
+    },
+    {
+      "title": "X-Files Creator Chris Carter on How His I Want to Believe Director's Cut Dovetailed Into His Second Feature, Queens for a Day",
+      "link": "https://www.ign.com/articles/x-files-creator-chris-carter-on-how-his-i-want-to-believe-directors-cut-dovetailed-into-his-second-feature-queens-for-a-day",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792747794
+    },
+    {
+      "title": "Scientists discover a hidden messaging system deep inside the brain",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081304.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792744102
+    },
     {
       "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
       "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
@@ -359,32 +471,11 @@
       "timestamp": 1792688671
     },
     {
-      "title": "Mass Effect 5 Trailer Leaks Online With 'Mass Effect: Universe' Title, Reveals Returning Characters and Much More",
-      "link": "https://www.ign.com/articles/mass-effect-5-trailer-leaks-online-with-mass-effect-universe-title-reveals-returning-characters-and-much-more",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792687340
-    },
-    {
       "title": "US-backed vaccine trial on babies canceled after international outcry",
       "link": "https://arstechnica.com/health/2026/10/unethical-vaccine-trial-on-babies-backed-by-rfk-jr-is-formally-canceled/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1792687020
-    },
-    {
-      "title": "The New York Game Awards Returns For Its 16th Show in January 2027",
-      "link": "https://www.ign.com/articles/the-new-york-game-awards-returns-for-its-16th-show-in-january-2027",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792686374
-    },
-    {
-      "title": "Dispatch Gets Over 16 Hours of New Content With Commentary Track, Mobile Version, and Live Concert to Celebrate Its First Anniversary",
-      "link": "https://www.ign.com/articles/dispatch-gets-over-16-hours-of-new-content-with-commentary-track-mobile-version-and-live-concert-to-celebrate-its-first-anniversary",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792685700
     },
     {
       "title": "'Cabin leak suspected': Artemis II astronaut reveals how a warning nearly derailed NASA's epic moon mission",
@@ -394,39 +485,11 @@
       "timestamp": 1792685696
     },
     {
-      "title": "Mike Mignola Resurrects the Hellboy Universe for B.P.R.D.: Declassified",
-      "link": "https://www.ign.com/articles/mike-mignola-resurrects-the-hellboy-universe-for-bprd-declassified",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792684800
-    },
-    {
-      "title": "This emulator reimagines Nintendo’s Virtual Boy with a full color display",
-      "link": "https://arstechnica.com/gaming/2026/10/this-emulator-reimagines-nintendos-virtual-boy-with-a-full-color-display/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792684780
-    },
-    {
-      "title": "Mass Effect 5 Dev Says BioWare Saw What Larian and CD Projekt Had Done in the RPG Space and Was Taking the Franchise to ‘The Next Level’",
-      "link": "https://www.ign.com/articles/mass-effect-5-dev-says-bioware-saw-what-larian-and-cd-projekt-had-done-in-the-rpg-space-and-was-taking-the-franchise-to-the-next-level",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792684236
-    },
-    {
       "title": "Pacers star Tyrese Haliburton moved to tears following first game back from Achilles tear",
       "link": "https://www.cbssports.com/nba/news/pacers-tyrese-haliburton-emotional-achilles-injury/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1792683977
-    },
-    {
-      "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
-      "link": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792682702
     },
     {
       "title": "Clippers coach Ty Lue dedicates opening night win to suspended Steve Ballmer: 'We're still fighting for him'",
@@ -441,13 +504,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1792679189
-    },
-    {
-      "title": "Sauron recruits his future Ringwraiths in Rings of Power S3 trailer",
-      "link": "https://arstechnica.com/culture/2026/10/sauron-recruits-his-future-ringwraiths-in-rings-of-power-s3-trailer/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1792678951
     },
     {
       "title": "Australia's bizarre 'Spider Crater' seen from orbit | Space photo of the day for Oct. 22, 2026",
@@ -562,13 +618,6 @@
       "timestamp": 1792636621
     },
     {
-      "title": "A rock plunged 90 kilometers into Earth and revealed something unexpected",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020084816.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792632957
-    },
-    {
       "title": "Kristaps Porziņģis trade destinations: Three viable moves the Warriors could make to improve their roster",
       "link": "https://www.cbssports.com/nba/news/kristaps-porzingis-trade-destinations-rumors-warriors/",
       "source": "CBSSPORTS",
@@ -623,55 +672,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792591200
-    },
-    {
-      "title": "Too much RNA can starve cells of energy, scientists discover",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020085023.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792587754
-    },
-    {
-      "title": "When will SpaceX and Blue Origin fly to the moon? NASA reveals lunar lander timelines (and an Artemis III update)",
-      "link": "https://www.space.com/space-exploration/artemis/when-will-spacex-and-blue-origin-fly-to-the-moon-nasa-reveals-lunar-lander-timelines-and-an-artemis-iii-update",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1792587600
-    },
-    {
-      "title": "A train was delayed by a solar storm. But something didn't add up.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792586157
-    },
-    {
-      "title": "Orionid meteor shower peaks tonight: Here's the best time to spot shooting stars",
-      "link": "https://www.space.com/stargazing/meteor-showers/orionid-meteor-shower-peaks-oct-21-22-2026-heres-the-best-time-to-spot-shooting-stars",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1792584000
-    },
-    {
-      "title": "Astronauts’ hearts just passed a surprising test for Mars",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792583954
-    },
-    {
-      "title": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020085013.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792580632
-    },
-    {
-      "title": "Russian satellite plays 'cat-and-mouse' with a commercial US spacecraft likely used by Ukraine. But why the risky close encounter?",
-      "link": "https://www.space.com/space-exploration/satellites/russian-satellite-plays-cat-and-mouse-with-a-commercial-us-satellite-likely-used-by-ukraine-but-why-the-risky-close-encounter",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1792576800
     }
   ]
 }
