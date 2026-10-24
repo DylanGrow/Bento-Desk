@@ -1,6 +1,27 @@
 {
-  "last_updated": 1792872609,
+  "last_updated": 1792882324,
   "items": [
+    {
+      "title": "Starlink seems to be working normally again in Ukraine",
+      "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792874794
+    },
+    {
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792872933
+    },
+    {
+      "title": "Paolo Banchero is hurt again, and this Magic experiment might be cursed",
+      "link": "https://www.cbssports.com/nba/news/paolo-banchero-hurt-again-magic-experiment-might-be-cursed/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792871885
+    },
     {
       "title": "Call of Duty Movie Director Teases Story That Explores 'the Cost of War,' Praises Modern Warfare Characters",
       "link": "https://www.ign.com/articles/call-of-duty-movie-director-teases-story-that-explores-the-cost-of-war-praises-modern-warfare-characters",
@@ -408,13 +429,6 @@
       "timestamp": 1792783227
     },
     {
-      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-      "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792782383
-    },
-    {
       "title": "Knicks reportedly duped employees with championship ring email that was actually a phishing test",
       "link": "https://www.cbssports.com/nba/news/knicks-duped-employees-championship-ring-email-phishing-test/",
       "source": "CBSSPORTS",
@@ -497,13 +511,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1792772821
-    },
-    {
-      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-      "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792772789
     },
     {
       "title": "Never finishing the fight: Where did Xbox go wrong with Halo?",
@@ -658,13 +665,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792703306
-    },
-    {
-      "title": "NBA refs confirm LaMelo Ball's ridiculous double stepback was indeed a travel: 'He takes four steps'",
-      "link": "https://www.cbssports.com/nba/news/nba-confirms-lamelo-ball-traveling-timberwolves-debut/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792701239
     },
     {
       "title": "After Starshield interruption, Ukraine wants to build its own satellite communication network with ICEYE and Nokia",
