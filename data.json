@@ -1,6 +1,48 @@
 {
-  "last_updated": 1792861804,
+  "last_updated": 1792872609,
   "items": [
+    {
+      "title": "Call of Duty Movie Director Teases Story That Explores 'the Cost of War,' Praises Modern Warfare Characters",
+      "link": "https://www.ign.com/articles/call-of-duty-movie-director-teases-story-that-explores-the-cost-of-war-praises-modern-warfare-characters",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792871114
+    },
+    {
+      "title": "Mavericks star Cooper Flagg sprains shoulder on flagrant foul by Pacers' Aaron Nesmith",
+      "link": "https://www.cbssports.com/nba/news/mavericks-cooper-flagg-injured-flagrant-foul-pacers-aaron-nesmith/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792869360
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792868400
+    },
+    {
+      "title": "Elden Ring Movie's Budget Reportedly $200 Million, Almost 3x More Expensive Than A24's Marty Supreme",
+      "link": "https://www.ign.com/articles/elden-ring-movies-budget-reportedly-200-million-almost-3x-more-expensive-than-a24s-marty-supreme",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1792866596
+    },
+    {
+      "title": "NBA closing time: Amen Thompson erases Victor Wembanyama, Jayson Tatum daggers Knicks",
+      "link": "https://www.cbssports.com/nba/news/nba-closing-time-amen-thompson-victor-wembanyama-jayson-tatum-knicks/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792862406
+    },
+    {
+      "title": "Jayson Tatum shuts down Jaylen Brown drama: 'This ain't f---in' Shaq and Kobe, there's no beef'",
+      "link": "https://www.cbssports.com/nba/news/jayson-tatum-shuts-down-jaylen-brown-drama-shaq-and-kobe-no-beef/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1792861695
+    },
     {
       "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
       "link": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
@@ -49,13 +91,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1792855187
-    },
-    {
-      "title": "NBA closing time: Amen Thompson erases Victor Wembanyama, Jayson Tatum daggers Knicks",
-      "link": "https://www.cbssports.com/nba/news/nba-closing-time-amen-thompson-victor-wembanyama-jayson-tatum-knicks/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792854973
     },
     {
       "title": "These clever apps show off the iPhone Duo’s potential",
@@ -161,13 +196,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792836000
-    },
-    {
-      "title": "Mavericks star Cooper Flagg injured on flagrant foul by Pacers' Aaron Nesmith",
-      "link": "https://www.cbssports.com/nba/news/mavericks-cooper-flagg-injured-flagrant-foul-pacers-aaron-nesmith/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792811778
     },
     {
       "title": "This 150-million-year-old bird had dinosaur teeth and a strange secret",
@@ -422,20 +450,6 @@
       "timestamp": 1792778400
     },
     {
-      "title": "Mass Effect 5 Details Revealed Following Cancellation, Including 'Hitman-Style Freedom' in Missions",
-      "link": "https://www.ign.com/articles/mass-effect-5-details-revealed-following-cancellation-including-hitman-style-freedom-in-missions",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792777259
-    },
-    {
-      "title": "KPop Demon Hunters Is Getting Yet Another Immersive Gaming Experience in Early 2027",
-      "link": "https://www.ign.com/articles/kpop-demon-hunters-is-getting-yet-another-immersive-gaming-experience-in-early-2027",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1792777195
-    },
-    {
       "title": "Crows can evaluate visual info twice as fast as mammals",
       "link": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/",
       "source": "ARSTECHNICA",
@@ -490,13 +504,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1792772789
-    },
-    {
-      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
-      "link": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792772428
     },
     {
       "title": "Never finishing the fight: Where did Xbox go wrong with Halo?",
@@ -665,13 +672,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792700884
-    },
-    {
-      "title": "After igniting Anthony Edwards with trash talk, Heat reserve Myron Gardner advised by coach to 'be better'",
-      "link": "https://www.cbssports.com/nba/news/myron-gardner-anthony-edwards-trash-talk-heat-timberwolves/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792699112
     }
   ]
 }
