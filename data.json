@@ -1,6 +1,48 @@
 {
-  "last_updated": 1792924778,
+  "last_updated": 1792939573,
   "items": [
+    {
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1792937400
+    },
+    {
+      "title": "On this day in space! Oct. 25, 1671: Astronomer Giovanni Cassini discovers Iapetus, Saturn's 'yin-yang' moon",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-oct-25-1671-astronomer-giovanni-cassini-discovers-iapetus-saturns-yin-yang-moon",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1792934274
+    },
+    {
+      "title": "Three giant black holes discovered in a galaxy from the dawn of time",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024222000.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792930021
+    },
+    {
+      "title": "New evidence suggests spinosaurus spent most of its life underwater",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024221956.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792929174
+    },
+    {
+      "title": "Scientists discover how pancreatic cancer rewrites its DNA to escape treatment",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024221849.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792926025
+    },
+    {
+      "title": "Low-dose aspirin linked to 70% lower dementia risk, but there's a catch",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792923708
+    },
     {
       "title": "October's 'Hunter's Moon' stalks into the autumn sky tonight: Here's what you need to know",
       "link": "https://www.space.com/stargazing/octobers-hunters-moon-stalks-into-the-autumn-sky-tonight-heres-what-you-need-to-know",
@@ -9,11 +51,32 @@
       "timestamp": 1792922400
     },
     {
+      "title": "This mysterious mushroom makes people see hundreds of tiny humans",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024222021.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792910170
+    },
+    {
       "title": "Man Arrested for Brandishing Knife at Crew on the Set of Miami Vice ‘85",
       "link": "https://www.ign.com/articles/man-arrested-for-brandishing-knife-at-crew-on-the-set-of-miami-vice-85",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1792902212
+    },
+    {
+      "title": "Astronomers may have discovered the first moon beyond our Solar System",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261023023736.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792897985
+    },
+    {
+      "title": "Scientists discover a hidden flaw that challenges 40 years of superconductor science",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261023023731.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1792894747
     },
     {
       "title": "New Avengers: Doomsday Trailer Pokes Fun at Multiple 'Captains America'",
@@ -443,13 +506,6 @@
       "timestamp": 1792784038
     },
     {
-      "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
-      "link": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792783513
-    },
-    {
       "title": "Spotify ramps up policy enforcement on family plans",
       "link": "https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans/",
       "source": "ARSTECHNICA",
@@ -576,32 +632,11 @@
       "timestamp": 1792755022
     },
     {
-      "title": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792754599
-    },
-    {
       "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
       "link": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1792754103
-    },
-    {
-      "title": "Dental implants can hijack your immune system, scientists discover",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792753948
-    },
-    {
-      "title": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792753345
     },
     {
       "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
@@ -611,18 +646,11 @@
       "timestamp": 1792753257
     },
     {
-      "title": "Rocket Lab launches 3 'Hawk' satellites to orbit to gather signals intelligence",
+      "title": "Rocket Lab launches 3 'Hawk' satellites to orbit to gather signals intelligence (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-3-hawk-satellites-to-orbit-to-gather-signals-intelligence",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792753071
-    },
-    {
-      "title": "Scientists discover a surprising double benefit of exercise for Parkinson’s",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261022081306.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792750211
     },
     {
       "title": "Space debris: Are we on track for true sustainability? (op-ed)",
@@ -630,27 +658,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1792749600
-    },
-    {
-      "title": "Scientists discover a hidden messaging system deep inside the brain",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261022081304.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792744102
-    },
-    {
-      "title": "40 years later, Chernobyl's nuclear fallout is not what scientists expected",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261021231241.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792726513
-    },
-    {
-      "title": "Nearly 3,000 exploding stars challenge our understanding of the Universe",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261021231244.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792724081
     },
     {
       "title": "Europe's Space Rider vehicle comes crashing down during drop test",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1792705549
-    },
-    {
-      "title": "On this day in space! Oct. 22, 1992: Ashes of 'Star Trek' creator Gene Roddenberry launch into space on NASA shuttle",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-22-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1792703306
     }
   ]
 }
