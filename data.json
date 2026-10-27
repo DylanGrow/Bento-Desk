@@ -1,6 +1,132 @@
 {
-  "last_updated": 1793085289,
+  "last_updated": 1793109301,
   "items": [
+    {
+      "title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793107977
+    },
+    {
+      "title": "Jaylen Brown's rep says reported trade request from Celtics is '10,000% a lie'",
+      "link": "https://www.cbssports.com/nba/news/jaylen-browns-trade-request-celtics-lie/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1793107189
+    },
+    {
+      "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
+      "link": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793106060
+    },
+    {
+      "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
+      "link": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793106000
+    },
+    {
+      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793106000
+    },
+    {
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793106000
+    },
+    {
+      "title": "Pistons vs. Knicks NBA parlay picks: Short-handed Detroit due first loss and New York first win Tuesday",
+      "link": "https://www.cbssports.com/betting/news/pistons-vs-knicks-nba-parlay-picks-short-handed-detroit-due-first-loss-and-new-york-first-win-tuesday/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1793105635
+    },
+    {
+      "title": "'Star Trek' legend and sci-fi luminary Walter Koenig dies at 90",
+      "link": "https://www.space.com/entertainment/star-trek-legend-and-sci-fi-luminary-walter-koenig-dies-at-90",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1793103339
+    },
+    {
+      "title": "What causes mysterious long delayed radio echoes in Earth's atmosphere?",
+      "link": "https://www.space.com/astronomy/earth/what-causes-mysterious-long-delayed-radio-echoes-in-earths-atmosphere",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1793102400
+    },
+    {
+      "title": "Kingdom Come: Deliverance Developer Hit by 'Serious' Cybersecurity Incident",
+      "link": "https://www.ign.com/articles/kingdom-come-deliverance-developer-serious-cybersecurity-incident",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793100933
+    },
+    {
+      "title": "SpaceX Falcon 9 launches early morning Starlink mission from California (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-16-b1082-ocisly",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1793099059
+    },
+    {
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793098800
+    },
+    {
+      "title": "Common drugs may help dangerous viruses spread through the body",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793097981
+    },
+    {
+      "title": "James Webb discovers a scorching lava planet with a “giant sunscreen”",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261026225603.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793096452
+    },
+    {
+      "title": "Silent Hill Remake Coming 2027, First Cast Details Leaked",
+      "link": "https://www.ign.com/articles/silent-hill-remake-coming-2027-cast-details-leaked",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793096395
+    },
+    {
+      "title": "Astroscale proposes fleet of 'bodyguard' spacecraft to protect satellites from orbital attacks",
+      "link": "https://www.space.com/space-exploration/satellites/astroscale-proposes-fleet-of-bodyguard-spacecraft-to-protect-satellites-from-orbital-attacks",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1793095200
+    },
+    {
+      "title": "Smithsonian scientists just recreated the first 2 billion years of the Universe",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261026225600.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793094515
+    },
+    {
+      "title": "Pokemon Unite to Be Taken Offline in 2027, In-Game Sales Suspended Immediately",
+      "link": "https://www.ign.com/articles/pokemon-unite-offline-2027-in-game-sales-suspended",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793092358
+    },
     {
       "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
       "link": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
@@ -9,11 +135,39 @@
       "timestamp": 1793082884
     },
     {
+      "title": "Do spiders dream? Scientists just found a surprising clue",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261026225555.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793076791
+    },
+    {
+      "title": "Scientists discover a surprising clue to why some brains resist Alzheimer’s",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025222538.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793073746
+    },
+    {
+      "title": "Mayo Clinic discovers new ways to fight the “zombie” cells that drive aging",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025073049.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793068358
+    },
+    {
       "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
       "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1793066400
+    },
+    {
+      "title": "1.9-million-year-old discovery rewrites the story of human evolution",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025073042.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793064908
     },
     {
       "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
@@ -28,6 +182,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1793059026
+    },
+    {
+      "title": "Scientists solve a 30-year mystery behind inflammatory bowel disease",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025073053.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793059023
     },
     {
       "title": "You Can Play Buckshot Roulette in Real Life at this Tokyo Cafe — and Even Drink an Arctic Eggs Cocktail",
@@ -184,25 +345,11 @@
       "timestamp": 1793045056
     },
     {
-      "title": "Palworld's First Official Toy Collection Is Here, Complete With Mystery Eggs and Adorable Pals",
-      "link": "https://www.ign.com/articles/palworld-official-toy-collection-mystery-eggs",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793044119
-    },
-    {
       "title": "On this day in space! Oct. 26, 2004: Cassini spacecraft takes 1st-ever closeup photos of Saturn moon Titan",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-26-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1793044032
-    },
-    {
-      "title": "Canned Paranormal Activity Game Back From The Dead as Playable Archive, Free on Steam",
-      "link": "https://www.ign.com/articles/canned-paranormal-activity-game-back-from-the-dead-as-playable-archive-free-on-steam",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793043835
     },
     {
       "title": "Today's top games to watch, best bets, odds: Brewers vs. Rays World Series Game 3, Cowboys vs. Eagles MNF",
@@ -217,13 +364,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1793042560
-    },
-    {
-      "title": "Emberville Delays Early Access Launch at the Last Minute",
-      "link": "https://www.ign.com/articles/emberville-delays-early-access-launch-at-the-last-minute",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793041708
     },
     {
       "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
@@ -338,13 +478,6 @@
       "timestamp": 1793030400
     },
     {
-      "title": "Microsoft offers buyouts to around 60,000 employees",
-      "link": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793030305
-    },
-    {
       "title": "F1 in Texas: The American race that fans love to attend",
       "link": "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/",
       "source": "ARSTECHNICA",
@@ -359,13 +492,6 @@
       "timestamp": 1793026051
     },
     {
-      "title": "Anthropic officially files for its public debut",
-      "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793025322
-    },
-    {
       "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
       "link": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
       "source": "ARSTECHNICA",
@@ -373,32 +499,11 @@
       "timestamp": 1793025027
     },
     {
-      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
-      "link": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793024743
-    },
-    {
-      "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
-      "link": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793023684
-    },
-    {
       "title": "Glowing 'cauldron' of new stars | Space photo of the day for Oct. 26, 2026",
       "link": "https://www.space.com/astronomy/glowing-cauldron-of-new-stars-space-photo-of-the-day-for-oct-26-2026",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1793023200
-    },
-    {
-      "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
-      "link": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793019520
     },
     {
       "title": "Rubin telescope should find more of Earth's mysterious 'mini-moons' — including some we can study up close",
@@ -471,13 +576,6 @@
       "timestamp": 1792983832
     },
     {
-      "title": "The best apps for tracking your reading and discovering new books",
-      "link": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1792977000
-    },
-    {
       "title": "Nikola Jokić says Nuggets fans who booed during comeback win over Pelicans are 'not welcome anymore'",
       "link": "https://www.cbssports.com/nba/news/nikola-jokic-nuggets-fans-boos-pelicans/",
       "source": "CBSSPORTS",
@@ -490,13 +588,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1792939122
-    },
-    {
-      "title": "On this day in space! Oct. 25, 1671: Astronomer Giovanni Cassini discovers Iapetus, Saturn's 'yin-yang' moon",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-oct-25-1671-astronomer-giovanni-cassini-discovers-iapetus-saturns-yin-yang-moon",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1792934274
     },
     {
       "title": "Three giant black holes discovered in a galaxy from the dawn of time",
@@ -518,41 +609,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1792926025
-    },
-    {
-      "title": "Low-dose aspirin linked to 70% lower dementia risk, but there's a catch",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792923708
-    },
-    {
-      "title": "October's 'Hunter's Moon' stalks into the autumn sky tonight: Here's what you need to know",
-      "link": "https://www.space.com/stargazing/octobers-hunters-moon-stalks-into-the-autumn-sky-tonight-heres-what-you-need-to-know",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1792922400
-    },
-    {
-      "title": "This mysterious mushroom makes people see hundreds of tiny humans",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261024222021.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792910170
-    },
-    {
-      "title": "Astronomers may have discovered the first moon beyond our Solar System",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023736.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792897985
-    },
-    {
-      "title": "Scientists discover a hidden flaw that challenges 40 years of superconductor science",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023731.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792894747
     },
     {
       "title": "Paolo Banchero is hurt again, and this Magic experiment might be cursed",
@@ -583,53 +639,11 @@
       "timestamp": 1792861695
     },
     {
-      "title": "This Week In Space podcast: Episode 233 — The Artemis Generation",
-      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-233-the-artemis-generation",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1792857201
-    },
-    {
-      "title": "On this day in space! Oct. 24, 1946: V-2 rocket takes 1st photos of Earth from space",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-24-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1792855988
-    },
-    {
       "title": "Ex-NBA player Malik Beasley negotiating plea deal with Department of Justice in illegal sports betting case",
       "link": "https://www.cbssports.com/nba/news/malik-beasley-plea-deal-department-of-justice-illegal-sports-betting/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1792855187
-    },
-    {
-      "title": "Could lowering high blood pressure be as simple as stimulating your ear?",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023732.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792847700
-    },
-    {
-      "title": "A hidden bias in human language challenges 70 years of science",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023738.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792846882
-    },
-    {
-      "title": "NASA’s asteroid Bennu samples reveal a 4.5-billion-year-old secret",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023734.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792846206
-    },
-    {
-      "title": "Scientists propose a way to detect dangerous “mirror life” before it exists",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023726.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1792845556
     },
     {
       "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
@@ -644,20 +658,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1792839609
-    },
-    {
-      "title": "Today's top games to watch, best bets, odds: Brewers vs. Rays World Series Game 1, Knicks at Celtics and more",
-      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-brewers-vs-rays-world-series-game-1-knicks-at-celtics-and-more/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792799767
-    },
-    {
-      "title": "NBA player props, odds, picks, lines: Victor Wembanyama, Stephen Curry part of best bets for Friday",
-      "link": "https://www.cbssports.com/betting/news/nba-player-props-odds-picks-lines-victor-wembanyama-stephen-curry-part-of-best-bets-for-friday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1792799217
     },
     {
       "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
