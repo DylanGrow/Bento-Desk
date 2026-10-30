@@ -1,15 +1,134 @@
 {
-  "last_updated": 1793307014,
+  "last_updated": 1793320463,
   "items": [
     {
-      "title": "Fan fiction site Archive of Our Own could be offline for up to 4 weeks",
+      "title": "Patrick Stewart, renowned actor and ‘Star Trek’s’ Captain Picard, dies at 86",
+      "link": "https://www.space.com/entertainment/patrick-stewart-renowned-actor-and-star-treks-captain-picard-dies-at-86",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1793317790
+    },
+    {
+      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+      "link": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793317496
+    },
+    {
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793317342
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 4 Adds 'Non MilSim Content' Disclaimer to Halloween Themed Content",
+      "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-adds-non-milsim-content-disclaimer-to-halloween-themed-content",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793315843
+    },
+    {
+      "title": "Gears of War: E-Day Reportedly Sold Over 400K Copies Across Console and PC a Month After Day-One Game Pass Launch",
+      "link": "https://www.ign.com/articles/gears-of-war-e-day-reportedly-sold-over-400k-copies-across-console-and-pc-a-month-after-day-one-game-pass-launch",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793315624
+    },
+    {
+      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+      "link": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793312843
+    },
+    {
+      "title": "Bethesda Pays Tribute to Patrick Stewart for His Role in Oblivion, Fans Remember His Role in Games like Castlevania",
+      "link": "https://www.ign.com/articles/bethesda-pays-tribute-to-patrick-stewart-for-his-role-in-oblivion-fans-remember-his-role-in-games-like-castlevania",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793311020
+    },
+    {
+      "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
+      "link": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793310689
+    },
+    {
+      "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
+      "link": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1793310477
+    },
+    {
+      "title": "James Gunn Says It 'Won't Be Too Long' Before DCU Batman Is Cast, Will Be Close in Age to David Corenswet's Superman",
+      "link": "https://www.ign.com/articles/james-gunn-says-it-wont-be-too-long-before-dcu-batman-is-cast-will-be-close-in-age-to-david-corenswets-superman",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793310104
+    },
+    {
+      "title": "Star Trek Talent Mourn Patrick Stewart: 'Captain Picard Stood For the Best of Us'",
+      "link": "https://www.ign.com/articles/star-trek-mourns-patrick-stewart-tributes",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793309558
+    },
+    {
+      "title": "On this day in space! Oct. 29, 1991: NASA's Galileo spacecraft flies by asteroid Gaspra and snaps amazing photos while flying at 18,000 mph",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-29-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1793309338
+    },
+    {
+      "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
+      "link": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793308847
+    },
+    {
+      "title": "Hit Indie Horror Game Mouthwashing is Getting a Live-Action Movie From the Director of Jennifer's Body",
+      "link": "https://www.ign.com/articles/hit-indie-horror-game-mouthwashing-is-getting-a-live-action-movie-from-the-director-of-jennifers-body",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793308723
+    },
+    {
+      "title": "GM reaches $220M settlement over selling drivers’ private data",
+      "link": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793307664
+    },
+    {
+      "title": "Artemis II commander Reid Wiseman named deputy director for NASA's Jet Propulsion Laboratory",
+      "link": "https://www.space.com/space-exploration/artemis/artemis-ii-commander-reid-wiseman-named-deputy-director-for-nasas-jet-propulsion-laboratory",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1793307600
+    },
+    {
+      "title": "Fan-fiction site Archive of Our Own could be offline for up to 4 weeks",
       "link": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1793306636
     },
     {
-      "title": "Windows 11 gets right-click menu improvements as PC revenue slides",
+      "title": "Kevin Feige, Marvel Studios, and Hugh Jackman Pay Tribute to Sir Patrick Stewart After Actor's Death at 86",
+      "link": "https://www.ign.com/articles/kevin-feige-and-marvel-studios-pay-tribute-to-sir-patrick-stewart-after-actors-death-at-86",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793306625
+    },
+    {
+      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
       "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -212,39 +331,11 @@
       "timestamp": 1793293000
     },
     {
-      "title": "RAMageddon Will Only Get Worse in 2027, According to Samsung",
-      "link": "https://www.ign.com/articles/ramageddon-will-only-get-worse-in-2027-according-to-samsung",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793292344
-    },
-    {
       "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
       "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1793292152
-    },
-    {
-      "title": "Original GTA Artist Says He's 'Flattered' to See His Influence Continue in GTA 6 Cover Art",
-      "link": "https://www.ign.com/articles/original-gta-artist-says-hes-flattered-to-see-his-influence-continue-in-gta-6-cover-art",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793292116
-    },
-    {
-      "title": "Pokémon Happy Meals Are Coming Back to McDonald's — Here's What Cards and Toys Are Included This Year",
-      "link": "https://www.ign.com/articles/mcdonalds-pokemon-happy-meal-start-date-toys-card-list-confirmed",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793291981
-    },
-    {
-      "title": "PlayStation Pulse Wireless Headset Is Up for Preorder for $99, and It’s Out the Same Day as GTA 6",
-      "link": "https://www.ign.com/articles/playstation-pulse-wireless-headset-where-to-buy",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793291456
     },
     {
       "title": "Google admits AI search makes less money, but it's fixing that with more ads",
@@ -254,20 +345,6 @@
       "timestamp": 1793291095
     },
     {
-      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-      "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793290860
-    },
-    {
-      "title": "SuperMe raises $20M for its network of AI expert profiles",
-      "link": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793290783
-    },
-    {
       "title": "Big cats, unexplained lights and a floodlit eclipse — 7 skywatching 'horror stories' to keep you entertained this Halloween",
       "link": "https://www.space.com/stargazing/big-cats-unexplained-lights-and-a-floodlit-eclipse-7-skywatching-horror-stories-to-keep-you-entertained-this-halloween",
       "source": "SPACE",
@@ -275,46 +352,11 @@
       "timestamp": 1793289600
     },
     {
-      "title": "The Hellraiser Franchise Is Getting Three New Tabletop Adaptations for Halloween 2027",
-      "link": "https://www.ign.com/articles/the-hellraiser-franchise-is-getting-three-new-tabletop-adaptations-for-halloween-2027",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793289532
-    },
-    {
       "title": "2026 NBA betting promos: Claim over $3,000 in bonuses from top online betting apps, sportsbooks for Oct. 29",
       "link": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-claim-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-oct-29/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1793288682
-    },
-    {
-      "title": "Minecraft Creator Notch Is Selling His L.A. Mansion for the 'Low' Asking Price of $70 Million",
-      "link": "https://www.ign.com/articles/minecraft-creator-notch-is-selling-his-la-mansion-for-the-low-asking-price-of-70-million",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793287458
-    },
-    {
-      "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
-      "link": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793286000
-    },
-    {
-      "title": "Dune: Part 3 Has 3 Popcorn Buckets, Including One With 2 Sandworm Mouths",
-      "link": "https://www.ign.com/articles/dune-part-3-concession-collectibles-popcorn-bucket",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793285972
-    },
-    {
-      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-      "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793284526
     },
     {
       "title": "Jaylen Brown insists he never demanded Celtics trade, pushes back on 'false allegations' from Brian Scalabrine",
@@ -336,20 +378,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1793281872
-    },
-    {
-      "title": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns",
-      "link": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793281433
-    },
-    {
-      "title": "DoorDash to acquire Instacart for $17B",
-      "link": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793281257
     },
     {
       "title": "A single brain signal may explain schizophrenia's most puzzling symptoms",
@@ -583,13 +611,6 @@
       "timestamp": 1793213247
     },
     {
-      "title": "Amazon turns its most capable smart speaker into a smart camera, too",
-      "link": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1793210722
-    },
-    {
       "title": "NBA player props, odds, picks: LeBron James among best bets for Wednesday, Oct. 28",
       "link": "https://www.cbssports.com/betting/news/nba-player-props-odds-picks-lebron-james-among-best-bets-for-wednesday-oct-28/",
       "source": "CBSSPORTS",
@@ -609,27 +630,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1793203417
-    },
-    {
-      "title": "China's secretive space plane caught on camera in incredible new photo released by US military",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/chinas-secretive-space-plane-caught-on-camera-in-incredible-new-photo-released-by-us-military",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1793202604
-    },
-    {
-      "title": "The final ‘Dune: Part Three’ trailer reignites war on Arrakis and leaves us with more questions than answers",
-      "link": "https://www.space.com/entertainment/space-movies-shows/the-final-dune-part-three-trailer-reignites-war-on-arrakis-and-leaves-us-with-more-questions-than-answers",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1793199600
-    },
-    {
-      "title": "Satellites watch an escaping Antarctic iceberg | Space photo of the day for Oct. 28, 2026",
-      "link": "https://www.space.com/astronomy/earth/satellites-watch-an-escaping-antarctic-iceberg-space-photo-of-the-day-for-oct-28-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1793196000
     },
     {
       "title": "NBA Power Rankings: Rockets take over No. 1 spot with sublime start, Heat take huge tumble",
