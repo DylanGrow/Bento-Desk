@@ -1,8 +1,106 @@
 {
-  "last_updated": 1793434540,
+  "last_updated": 1793458759,
   "items": [
     {
-      "title": "Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California",
+      "title": "Luka Dončić teaches Yaxel Lendeborg a lesson, but Warriors bail their rookie out in comeback win over Lakers",
+      "link": "https://www.cbssports.com/nba/news/luka-doncic-yaxel-lendeborg-warriors-comeback-win-lakers/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1793456796
+    },
+    {
+      "title": "I took two iPhones on vacation. The Duo won me over.",
+      "link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793455200
+    },
+    {
+      "title": "2026 NBA betting promos: Claim over $3,000 in bonuses from top online betting apps, sportsbooks for Oct. 31",
+      "link": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-claim-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-oct-31/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1793455045
+    },
+    {
+      "title": "This Week In Space podcast: Episode 234 — Living in Lunar Caves",
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-234-living-in-lunar-caves",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1793453819
+    },
+    {
+      "title": "On this day in space! Oct. 31, 2015: Creepy skull-shaped Halloween asteroid flies by Earth, NASA names it the 'Great Pumpkin'",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-31-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1793453193
+    },
+    {
+      "title": "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793452189
+    },
+    {
+      "title": "The moon, Mars, and Jupiter shine in the heart of the Lion overnight on Nov. 1-2",
+      "link": "https://www.space.com/stargazing/the-moon-mars-and-jupiter-shine-in-the-heart-of-the-lion-overnight-on-nov-1-2",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1793451600
+    },
+    {
+      "title": "Scientists discover metals that defy the deep freeze at -424°F",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261029072127.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793450759
+    },
+    {
+      "title": "Betelgeuse is haunted by a cosmic poltergeist tormenting the doomed star's atmosphere",
+      "link": "https://www.space.com/astronomy/stars/betelgeuse-is-haunted-by-a-cosmic-poltergeist-tormenting-the-doomed-stars-atmosphere",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1793448000
+    },
+    {
+      "title": "Seabirds racing home over the ocean can get jet-lagged",
+      "link": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1793445326
+    },
+    {
+      "title": "75,000-year-old Neanderthal may have been killed by a spear aimed at the heart",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261029072126.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793444720
+    },
+    {
+      "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+      "link": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1793444554
+    },
+    {
+      "title": "Scientists discover a bacterial defense so strange they thought it was broken",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261029072123.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793443110
+    },
+    {
+      "title": "Halloween night sky 2026 — Saturn, shooting stars and a space station await US stargazers",
+      "link": "https://www.space.com/stargazing/halloween-night-sky-2026-saturn-shooting-stars-and-a-space-station-await-us-stargazers",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1793440800
+    },
+    {
+      "title": "Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-falcon-9-group-15-18-landing-ocisly",
       "source": "SPACE",
       "category": "space",
@@ -14,6 +112,13 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1793422273
+    },
+    {
+      "title": "A surprising vitamin A discovery is changing what scientists know about vision",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028234813.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793421101
     },
     {
       "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
@@ -37,6 +142,13 @@
       "timestamp": 1793412804
     },
     {
+      "title": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793412578
+    },
+    {
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
       "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
       "source": "TECHCRUNCH",
@@ -56,6 +168,13 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1793408459
+    },
+    {
+      "title": "A simple blood test could reveal Alzheimer’s risk 10 years before symptoms",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793408392
     },
     {
       "title": "Chronicles: Medieval Developer 'At Real Risk of Closing' Before Release as Funding 'No Longer in Place'",
@@ -119,13 +238,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1793399801
-    },
-    {
-      "title": "Use BetMGM bonus code CBSSPORTS to land $1,500 bonus bets for 76ers-Knicks, NBA, Baylor-UCF, college football",
-      "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-land-1500-bonus-bets-for-76ers-knicks-nba-baylor-ucf-college-football/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1793399563
     },
     {
       "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
@@ -408,13 +520,6 @@
       "timestamp": 1793376000
     },
     {
-      "title": "2026 NBA betting promos: Claim over $3,000 in bonuses from top online betting apps, sportsbooks for Oct. 30",
-      "link": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-claim-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-oct-30/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1793372611
-    },
-    {
       "title": "'Star Trek's' William Shatner and George Takei honor the death of Walter Koenig",
       "link": "https://www.space.com/entertainment/star-treks-william-shatner-and-george-takei-honor-the-death-of-walter-koenig",
       "source": "SPACE",
@@ -434,13 +539,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1793368825
-    },
-    {
-      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-      "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793368800
     },
     {
       "title": "Ghostly Cat's Head Nebula haunts the cosmos | Space photo of the day for Oct. 30, 2026",
@@ -471,25 +569,11 @@
       "timestamp": 1793363165
     },
     {
-      "title": "2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved",
-      "link": "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1793361618
-    },
-    {
       "title": "Watch Virgin Galactic's new 'Delta-class' space plane take to the skies for the 1st time (video)",
       "link": "https://www.space.com/space-exploration/private-spaceflight/watch-virgin-galactics-new-delta-class-space-plane-take-to-the-skies-for-the-1st-time-video",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1793361600
-    },
-    {
-      "title": "Look up! China's mysterious space plane is visible over the US this week",
-      "link": "https://www.space.com/stargazing/chinas-secretive-space-plane-is-flying-over-the-us-this-week-heres-how-to-spot-it",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1793360742
     },
     {
       "title": "Physicists created a tiny universe and watched time emerge without a clock",
@@ -506,13 +590,6 @@
       "timestamp": 1793360056
     },
     {
-      "title": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
-      "link": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1793359801
-    },
-    {
       "title": "Hubble reveals a stunning twist in how the universe emerged from darkness",
       "link": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm",
       "source": "SCIENCEDAILY",
@@ -525,13 +602,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1793356620
-    },
-    {
-      "title": "Think Halloween is scary? This scorched alien world is a real-life cosmic horror story",
-      "link": "https://www.space.com/astronomy/exoplanets/think-halloween-is-scary-this-scorched-alien-world-is-a-real-life-cosmic-horror-story",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1793354400
     },
     {
       "title": "Astronauts just gave the International Space Station a powerful upgrade",
@@ -576,27 +646,6 @@
       "timestamp": 1793319997
     },
     {
-      "title": "Patrick Stewart, renowned actor and ‘Star Trek’s’ Captain Picard, dies at 86",
-      "link": "https://www.space.com/entertainment/patrick-stewart-renowned-actor-and-star-treks-captain-picard-dies-at-86",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1793317790
-    },
-    {
-      "title": "On this day in space! Oct. 29, 1991: NASA's Galileo spacecraft flies by asteroid Gaspra and snaps amazing photos while flying at 18,000 mph",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-29-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1793309338
-    },
-    {
-      "title": "Artemis II commander Reid Wiseman named deputy director for NASA's Jet Propulsion Laboratory",
-      "link": "https://www.space.com/space-exploration/artemis/artemis-ii-commander-reid-wiseman-named-deputy-director-for-nasas-jet-propulsion-laboratory",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1793307600
-    },
-    {
       "title": "Today's top games to watch, best bets, odds: Panthers vs. Packers, Kings vs. Pelicans and more",
       "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-panthers-vs-packers-kings-vs-pelicans-and-more/",
       "source": "CBSSPORTS",
@@ -623,55 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1793281872
-    },
-    {
-      "title": "A single brain signal may explain schizophrenia's most puzzling symptoms",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028232659.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1793279692
-    },
-    {
-      "title": "Six popular sugar substitutes linked to faster brain aging",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028234238.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1793279044
-    },
-    {
-      "title": "A 700,000-year-old elephant tooth reveals a lost world where early humans lived",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028232709.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1793277533
-    },
-    {
-      "title": "NASA discovers Jupiter’s invisible shield is more complex than Earth’s",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028232715.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1793276785
-    },
-    {
-      "title": "Einstein's equations may explain the universe without dark energy",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028232719.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1793275678
-    },
-    {
-      "title": "Less than 42 minutes of bright daylight linked to higher dementia risk",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028232707.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1793273432
-    },
-    {
-      "title": "128,000-year-old ice in Tibet could rewrite climate history",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028232713.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1793261447
     }
   ]
 }
