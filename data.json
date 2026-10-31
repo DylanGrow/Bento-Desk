@@ -1,6 +1,69 @@
 {
-  "last_updated": 1793400662,
+  "last_updated": 1793411939,
   "items": [
+    {
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793409605
+    },
+    {
+      "title": "Stranger Than Heaven Features Optional “Cheats” to Make its Combat Easier",
+      "link": "https://www.ign.com/articles/stranger-than-heaven-features-optional-cheats-to-make-its-combat-easier",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793408764
+    },
+    {
+      "title": "Chronicles: Medieval Developer 'At Real Risk of Closing' Before Release as Funding 'No Longer in Place'",
+      "link": "https://www.ign.com/articles/chronicles-medieval-developer-at-real-risk-of-closing-before-release-as-funding-no-longer-in-place",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793407227
+    },
+    {
+      "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+      "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1793405242
+    },
+    {
+      "title": "Xbox's Doom, Wolfenstein Developers Working 'More Closely Than Ever' Following Xbox 'Reset' Layoffs",
+      "link": "https://www.ign.com/articles/xboxs-doom-wolfenstein-developers-working-more-closely-than-ever-following-xbox-reset-layoffs",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793404894
+    },
+    {
+      "title": "The world mourns the passing of 'Star Trek's' Patrick Stewart with a galaxy of tearful tributes",
+      "link": "https://www.space.com/entertainment/the-world-mourns-the-passing-of-star-treks-patrick-stewart-with-a-galaxy-of-tearful-tributes",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1793402774
+    },
+    {
+      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793402483
+    },
+    {
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793400973
+    },
+    {
+      "title": "Hideo Kojima Makes Surprise Cameo in New My Chemical Romance Animated Short",
+      "link": "https://www.ign.com/articles/hideo-kojima-makes-surprise-cameo-in-new-my-chemical-romance-animated-short",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793400541
+    },
     {
       "title": "Today's top games to watch, best bets, odds: Knicks at 76ers, Lakers at Warriors, UCF vs. Baylor and more",
       "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-knicks-at-76ers-lakers-at-warriors-ucf-vs-baylor-and-more/",
@@ -9,7 +72,7 @@
       "timestamp": 1793400170
     },
     {
-      "title": "Flesh-eating screwworms are feasting on pets; 4 dogs and cat attacked this week",
+      "title": "Flesh-eating screwworms spread to third state and are attacking pets",
       "link": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -275,13 +338,6 @@
       "timestamp": 1793382432
     },
     {
-      "title": "HBO’s Harry Potter Series Finds Its Sorting Hat, Fat Lady, and Ghosts",
-      "link": "https://www.ign.com/articles/hbos-harry-potter-series-finds-its-sorting-hat-fat-lady-and-ghosts",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793382344
-    },
-    {
       "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
       "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
       "source": "ARSTECHNICA",
@@ -296,13 +352,6 @@
       "timestamp": 1793381858
     },
     {
-      "title": "Best Buy’s DoorBOOsters Sale Is Live for 2026",
-      "link": "https://www.ign.com/articles/best-buys-doorboosters-sale-2026-is-live",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793379993
-    },
-    {
       "title": "Google’s first data center satellite is online and writing poetry",
       "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
       "source": "TECHCRUNCH",
@@ -315,20 +364,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1793379229
-    },
-    {
-      "title": "Pokémon Announces Newest Collab, and It's With... Fender Guitars?!",
-      "link": "https://www.ign.com/articles/pokemon-announces-newest-collab-and-its-withfender-guitars",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793378908
-    },
-    {
-      "title": "Call of Duty: Modern Warfare 2 Rating Potentially Leaks Port for Original 2009 FPS",
-      "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-2-rating-potentially-leaks-port-for-original-2009-fps",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793378565
     },
     {
       "title": "NBA's five biggest X-Factors for 2026-27 season: Hopes hinge on Joel Embiid, LaMelo Ball and others",
@@ -422,20 +457,6 @@
       "timestamp": 1793367999
     },
     {
-      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-      "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793365200
-    },
-    {
-      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-      "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793365200
-    },
-    {
       "title": "Five bold predictions for 2026 NBA Cup: A new champion, a record for futility, a surprising early exit",
       "link": "https://www.cbssports.com/nba/news/bold-predictions-2026-nba-cup-new-champion/",
       "source": "CBSSPORTS",
@@ -485,13 +506,6 @@
       "timestamp": 1793359801
     },
     {
-      "title": "Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire",
-      "link": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1793358035
-    },
-    {
       "title": "Hubble reveals a stunning twist in how the universe emerged from darkness",
       "link": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm",
       "source": "SCIENCEDAILY",
@@ -511,13 +525,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1793354400
-    },
-    {
-      "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
-      "link": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793343660
     },
     {
       "title": "Astronauts just gave the International Space Station a powerful upgrade",
@@ -588,13 +595,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1793304112
-    },
-    {
-      "title": "'Crystal Lake' is great, but nothing tops the space horror shenanigans of 'Jason X'",
-      "link": "https://www.space.com/entertainment/space-movies-shows/crystal-lake-is-great-but-nothing-tops-the-space-horror-shenanigans-of-jason-x",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1793304000
     },
     {
       "title": "Today's top games to watch, best bets, odds: Panthers vs. Packers, Kings vs. Pelicans and more",
