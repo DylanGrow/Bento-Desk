@@ -1,12 +1,54 @@
 {
-  "last_updated": 1793473943,
+  "last_updated": 1793487705,
   "items": [
+    {
+      "title": "Anthropic Blocks AI Game Clones in Claude Opus Update",
+      "link": "https://www.ign.com/articles/anthropic-blocks-ai-game-clones-in-claude-opus-update",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793483196
+    },
+    {
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793482860
+    },
+    {
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793482567
+    },
+    {
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793481423
+    },
+    {
+      "title": "Persona 1 Remake Footage Seemingly Leaks Online",
+      "link": "https://www.ign.com/articles/persona-1-remake-footage-seemingly-leaks-online",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793478070
+    },
     {
       "title": "Joe Manganiello Says He 'Will Never Give Up Hope' on His D&D Dragonlance TV Series",
       "link": "https://www.ign.com/articles/joe-manganiello-says-he-will-never-give-up-hope-on-his-dd-dragonlance-tv-series",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1793473447
+    },
+    {
+      "title": "Jeanie Buss accuses siblings of conspiring against her as dispute over Lakers stake continues",
+      "link": "https://www.cbssports.com/nba/news/jeanie-buss-lakers-sale-family-dispute/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1793472921
     },
     {
       "title": "It: Welcome to Derry Drops Surprise Halloween Episode",
@@ -429,20 +471,6 @@
       "timestamp": 1793388628
     },
     {
-      "title": "Ubisoft Confirms There Is 'No Other Assassin's Creed Remake Actively in Development'",
-      "link": "https://www.ign.com/articles/ubisoft-confirms-there-is-no-other-assassins-creed-remake-actively-in-development",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793388408
-    },
-    {
-      "title": "Grand Theft Auto VI: The Original Score Is Up for Preorder",
-      "link": "https://www.ign.com/articles/grand-theft-auto-vi-the-original-score-where-to-buy",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793387732
-    },
-    {
       "title": "5 horror franchises that went to space... and one that absolutely should have but didn't",
       "link": "https://www.space.com/entertainment/space-movies-shows/5-horror-franchises-that-went-to-space-and-one-that-absolutely-should-have-but-didnt",
       "source": "SPACE",
@@ -464,13 +492,6 @@
       "timestamp": 1793384022
     },
     {
-      "title": "Satlyt takes another step toward turning satellites into space data centers",
-      "link": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793383284
-    },
-    {
       "title": "The rocket scientist who summoned demons: The true horror story of Jack Parsons",
       "link": "https://www.space.com/space-exploration/the-rocket-scientist-who-summoned-demons-the-true-horror-story-of-jack-parsons",
       "source": "SPACE",
@@ -485,13 +506,6 @@
       "timestamp": 1793382529
     },
     {
-      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793382432
-    },
-    {
       "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
       "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
       "source": "ARSTECHNICA",
@@ -504,13 +518,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1793381858
-    },
-    {
-      "title": "Google’s first data center satellite is online and writing poetry",
-      "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793379600
     },
     {
       "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1793295809
-    },
-    {
-      "title": "Jaylen Brown insists he never demanded Celtics trade, pushes back on 'false allegations' from Brian Scalabrine",
-      "link": "https://www.cbssports.com/nba/news/jaylen-brown-never-demanded-celtics-trade-false-allegations-brian-scalabrine/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1793282519
     }
   ]
 }
