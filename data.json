@@ -1,6 +1,34 @@
 {
-  "last_updated": 1793554596,
+  "last_updated": 1793569177,
   "items": [
+    {
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793566678
+    },
+    {
+      "title": "Heat Director Michael Mann Hospitalized After Accidentally Shooting Himself in the Leg",
+      "link": "https://www.ign.com/articles/heat-director-michael-mann-hospitalized-after-accidentally-shooting-himself-in-the-leg",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793559744
+    },
+    {
+      "title": "Taika Waititi Blasts Critics as 'Irrelevant, Out of Touch, Obsolete' Following Klara and the Sun's Negative Reviews",
+      "link": "https://www.ign.com/articles/taika-waititi-blasts-critics-as-irrelevant-out-of-touch-obsolete-following-klara-and-the-suns-negative-reviews",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793555421
+    },
+    {
+      "title": "Hoyoverse’s Cozy Sim Petit Planet Coming to Nintendo Switch 2 in 2027",
+      "link": "https://www.ign.com/articles/petit-planet-switch-2-release-date",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793554710
+    },
     {
       "title": "TechCrunch Mobility: A new, bigger AV boom is here",
       "link": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
@@ -408,25 +436,11 @@
       "timestamp": 1793408392
     },
     {
-      "title": "Chronicles: Medieval Developer 'At Real Risk of Closing' Before Release as Funding 'No Longer in Place'",
-      "link": "https://www.ign.com/articles/chronicles-medieval-developer-at-real-risk-of-closing-before-release-as-funding-no-longer-in-place",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793407227
-    },
-    {
       "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
       "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1793405242
-    },
-    {
-      "title": "Xbox's Doom, Wolfenstein Developers Working 'More Closely Than Ever' Following Xbox 'Reset' Layoffs",
-      "link": "https://www.ign.com/articles/xboxs-doom-wolfenstein-developers-working-more-closely-than-ever-following-xbox-reset-layoffs",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793404894
     },
     {
       "title": "The world mourns the passing of 'Star Trek's' Patrick Stewart with a galaxy of tearful tributes",
@@ -448,13 +462,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1793400973
-    },
-    {
-      "title": "Hideo Kojima Makes Surprise Cameo in New My Chemical Romance Animated Short",
-      "link": "https://www.ign.com/articles/hideo-kojima-makes-surprise-cameo-in-new-my-chemical-romance-animated-short",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793400541
     },
     {
       "title": "Today's top games to watch, best bets, odds: Knicks at 76ers, Lakers at Warriors, UCF vs. Baylor and more",
@@ -483,13 +490,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1793398238
-    },
-    {
-      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793397274
     },
     {
       "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
