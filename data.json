@@ -1,6 +1,307 @@
 {
-  "last_updated": 1793697391,
+  "last_updated": 1793727014,
   "items": [
+    {
+      "title": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
+      "link": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1793725701
+    },
+    {
+      "title": "PlayStation Officially Announces Its First 2026 Black Friday Sale",
+      "link": "https://www.ign.com/articles/playstation-2026-black-friday-sale-announcement",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793725634
+    },
+    {
+      "title": "Anthropic is still grappling with the economics of compute",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793725621
+    },
+    {
+      "title": "Hubble Telescope sees cosmic 'cat's tail' that could wrap around Earth and the sun 500 times",
+      "link": "https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-sees-cosmic-cats-tail-that-could-wrap-around-the-sun-and-earth-500-times",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1793725200
+    },
+    {
+      "title": "The Elder Scrolls VI: Sentinel Finally Got Its Name Today, but Bethesda Says It Will Be 'Some Time Before We’re Ready to Share More'",
+      "link": "https://www.ign.com/articles/the-elder-scrolls-vi-sentinel-finally-got-its-name-today-but-bethesda-says-it-will-be-some-time-before-were-ready-to-share-more",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793725158
+    },
+    {
+      "title": "Three notable decisions from NBA's rookie-scale extension deadline: Thunder seemingly give up on lottery pick",
+      "link": "https://www.cbssports.com/nba/news/nba-rookie-scale-contract-deadline-thunder-give-up-on-lottery-pick/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1793724867
+    },
+    {
+      "title": "This space company is betting its future on a propellant available everywhere",
+      "link": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1793724632
+    },
+    {
+      "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
+      "link": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793724549
+    },
+    {
+      "title": "Dead by Daylight Developer Apologizes Again, Removes Free Items From TheBurntPeanut's Account",
+      "link": "https://www.ign.com/articles/dead-by-daylight-developer-apologizes-again-removes-free-items-from-theburntpeanuts-account",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793724296
+    },
+    {
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793723434
+    },
+    {
+      "title": "World of Warcraft Forever Launch Patch Notes Bring Controller Support and Massive Class Changes",
+      "link": "https://www.ign.com/articles/world-of-warcraft-forever-launch-patch-notes-bring-controller-support-and-massive-class-changes",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793722953
+    },
+    {
+      "title": "New York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech",
+      "link": "https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793721895
+    },
+    {
+      "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+      "link": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1793721793
+    },
+    {
+      "title": "The Star Wars Eclipse — Want to see the 2027 total solar eclipse on Tatooine? Head to Tunisia",
+      "link": "https://www.space.com/stargazing/solar-eclipses/the-star-wars-eclipse-want-to-see-the-2027-total-solar-eclipse-on-tatooine-head-to-tunisia",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1793721600
+    },
+    {
+      "title": "NBA Bracketology: Projecting the full 20-team postseason field as Knicks, Thunder take steps back",
+      "link": "https://www.cbssports.com/nba/news/nba-bracketology-projecting-20-team-postseason-field-nov-3/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1793721057
+    },
+    {
+      "title": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1793720370
+    },
+    {
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793720307
+    },
+    {
+      "title": "LeBron James explains why he sipped a 76ers fan's wine during win vs. Bulls",
+      "link": "https://www.cbssports.com/nba/news/lebron-james-76ers-fans-wine/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1793718835
+    },
+    {
+      "title": "GTA 6 Preload, Global Release Times and Install Size Confirmed, Rockstar Announces Physical Cover Art Poster and Map of Leonida",
+      "link": "https://www.ign.com/articles/gta-6-preload-times-and-install-size-confirmed-rockstar-announces-physical-cover-art-poster-and-map-of-leonida",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793718521
+    },
+    {
+      "title": "The Elder Scrolls 6: Sentinel Name, Logo, Officially Revealed as Bethesda Marks 40th Anniversary",
+      "link": "https://www.ign.com/articles/the-elder-scrolls-6-sentinel-name-logo-officially-revealed-as-bethesda-marks-40th-anniversary",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793718120
+    },
+    {
+      "title": "On this day in space! Nov. 3, 1957: Laika the dog launches with Sputnik 2",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-3-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1793718000
+    },
+    {
+      "title": "Robot cube explores the International Space Station | Space photo of the day for Nov. 3, 2026",
+      "link": "https://www.space.com/space-exploration/international-space-station/robot-cube-explores-the-international-space-station-space-photo-of-the-day-for-nov-3-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1793718000
+    },
+    {
+      "title": "LEGO Godzilla Announced, Releases on Black Friday",
+      "link": "https://www.ign.com/articles/lego-godzilla-announced-releases-on-black-friday",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793717746
+    },
+    {
+      "title": "Draymond Green gets first ejection of season after sparking Warriors-Suns scuffle",
+      "link": "https://www.cbssports.com/nba/news/draymond-green-gets-first-ejection-of-season-after-sparking-warriors-suns-scuffle/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1793717650
+    },
+    {
+      "title": "EPA throws in the towel on policing air pollution from factory farms",
+      "link": "https://arstechnica.com/tech-policy/2026/11/epa-throws-in-the-towel-on-policing-air-pollution-from-factory-farms/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1793717340
+    },
+    {
+      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+      "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793716200
+    },
+    {
+      "title": "Nintendo Reveals the Changes It Made to The Legend of Zelda: Ocarina of Time's Notoriously Difficult Water Temple for the Remake",
+      "link": "https://www.ign.com/articles/nintendo-reveals-the-changes-it-made-to-the-legend-of-zelda-ocarina-of-times-notoriously-difficult-water-temple-for-the-remake",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793716151
+    },
+    {
+      "title": "Beyond screens: Mercedes-Benz's new holographic heads-up display",
+      "link": "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1793714407
+    },
+    {
+      "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+      "link": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793714400
+    },
+    {
+      "title": "Indie Game Storefront Itch Deletes a 'Couple of Terabytes of AI Slop,' Adds 'No AI' Filter to Search Results",
+      "link": "https://www.ign.com/articles/itch-deletes-a-couple-of-terabytes-of-ai-slop",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793713907
+    },
+    {
+      "title": "'Horror Is Always at Its Strongest When Something Bad Is Happening to the World' – Boss of Silent Hill Remake Dev Bloober Reveals the Secret to His Studio's Success",
+      "link": "https://www.ign.com/articles/horror-is-always-at-its-strongest-when-something-bad-is-happening-to-the-world-boss-of-silent-hill-remake-dev-bloober-reveals-the-secret-to-his-studios-success",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793711984
+    },
+    {
+      "title": "The brain’s hidden fear mechanism may explain anxiety and PTSD",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102202833.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793710982
+    },
+    {
+      "title": "Do we know how many Starship launches SpaceX will need to get NASA astronauts to the moon? No. Will its refuelling plan be simple? Also no.",
+      "link": "https://www.space.com/space-exploration/artemis/do-we-know-how-many-starship-launches-spacex-will-need-to-get-nasa-astronauts-to-the-moon-no-will-its-refuelling-plan-be-simple-also-no",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1793710800
+    },
+    {
+      "title": "A 50-year-old mystery of vanishing frogs reveals a hidden killer",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102202838.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793710313
+    },
+    {
+      "title": "'Go Play GTA 6, We Need to Detox,' Wardogs Developer Tells Fans as It Prepares to Take December Off",
+      "link": "https://www.ign.com/articles/go-play-gta-6-says-wardogs-developer",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793709368
+    },
+    {
+      "title": "Mike Flanagan Teases 'Very Cool and Unexpected On-Ramp' Into the World of Warhammer 40,000 for Henry Cavill's Amazon TV Show",
+      "link": "https://www.ign.com/articles/mike-flanagan-teases-very-cool-and-unexpected-on-ramp-into-the-world-of-warhammer-40000-for-henry-cavills-amazon-tv-show",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793708325
+    },
+    {
+      "title": "Scientists identify two overlooked skills that predict reading success",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102202845.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793708118
+    },
+    {
+      "title": "'Friendslop' Added to the Collins Dictionary, Beaten to Word of the Year by 'Mogging'",
+      "link": "https://www.ign.com/articles/friendslop-added-to-collins-dictionary",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793706156
+    },
+    {
+      "title": "South of Midnight Creative Director Would Have Turned Off Xbox 'Money Tap' Earlier, Says Funding Was 'Unsustainable'",
+      "link": "https://www.ign.com/articles/south-of-midnight-creative-director-wouldnt-have-funded-the-game",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793705768
+    },
+    {
+      "title": "Why does Betelgeuse keep fading? The mystery of Orion's giant star",
+      "link": "https://www.space.com/stargazing/why-does-betelgeuse-keep-fading-the-mystery-of-orions-giant-star",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1793703600
+    },
+    {
+      "title": "All 5 genetic “letters” of DNA and RNA discovered in a 4.5-billion-year-old asteroid",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793703504
+    },
+    {
+      "title": "The Legend of Zelda: Ocarina of Time Remake Global Release Times",
+      "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-global-release-times",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793701987
+    },
+    {
+      "title": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261103003154.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793699181
+    },
     {
       "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
       "link": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
@@ -21,13 +322,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1793683619
-    },
-    {
-      "title": "Resident Evil Lands on Digital After Monstrous Box Office Run",
-      "link": "https://www.ign.com/articles/resident-evil-lands-on-digital-after-monstrous-box-office-run",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793682000
     },
     {
       "title": "Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation",
@@ -72,13 +366,6 @@
       "timestamp": 1793668375
     },
     {
-      "title": "A Concerning Amount of GTA Fans Would Give Up Their Pets to Play GTA 6 Early",
-      "link": "https://www.ign.com/articles/a-concerning-amount-of-gta-fans-would-give-up-their-pets-to-play-gta-6-early",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793666676
-    },
-    {
       "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
       "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
       "source": "TECHCRUNCH",
@@ -100,41 +387,6 @@
       "timestamp": 1793664891
     },
     {
-      "title": "John Goodman Says Digger Reviews 'Killed' the Movie Before It Was Released",
-      "link": "https://www.ign.com/articles/john-goodman-says-digger-reviews-killed-the-movie-before-it-was-released",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793664702
-    },
-    {
-      "title": "Johnny Depp Is Open to Playing Jack Sparrow Again in a New Pirates of the Caribbean Movie",
-      "link": "https://www.ign.com/articles/johnny-depp-is-open-to-playing-jack-sparrow-again-in-a-new-pirates-of-the-caribbean-movie",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793663737
-    },
-    {
-      "title": "The Rings of Power Season 3 Co-Showrunner Confirms Harfoots Will Return",
-      "link": "https://www.ign.com/articles/rings-of-power-season-3-harfoots-return",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793663263
-    },
-    {
-      "title": "Project Hail Mary Author Andy Weir Explains How He Would Fix the Star Wars Franchise",
-      "link": "https://www.ign.com/articles/project-hail-mary-author-andy-weir-explains-how-he-would-fix-the-star-wars-franchise",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793663103
-    },
-    {
-      "title": "Black Friday 2026 Sale Dates and What to Expect",
-      "link": "https://www.ign.com/articles/black-friday-2026-sale-dates-and-what-to-expect",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793662406
-    },
-    {
       "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
       "link": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
       "source": "ARSTECHNICA",
@@ -149,13 +401,6 @@
       "timestamp": 1793661932
     },
     {
-      "title": "Pedro Pascal Is Hiding an Avengers: Doomsday Easter Egg on His Doctor Doom Halloween Costume, Fans Say",
-      "link": "https://www.ign.com/articles/pedro-pascal-is-hiding-an-avengers-doomsday-easter-egg-on-his-doctor-doom-halloween-costume-fans-say",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793661443
-    },
-    {
       "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
       "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
       "source": "TECHCRUNCH",
@@ -163,74 +408,11 @@
       "timestamp": 1793661233
     },
     {
-      "title": "Terminally Ill GTA 6 Fan Dies 3 Weeks Before Game's Launch, Fans Pay Their Respects",
-      "link": "https://www.ign.com/articles/terminally-ill-gta-6-fan-dies-three-weeks-before-games-launch-fans-pay-their-respects",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793661145
-    },
-    {
-      "title": "Gamescom Asia x Thailand Game Show Dubbed the 'Most International Yet' with Almost 220,000 Attendees",
-      "link": "https://www.ign.com/articles/gamescom-asia-x-thailand-game-show-dubbed-the-most-international-yet-with-almost-220000-attendees",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793661116
-    },
-    {
-      "title": "Apple’s inventory surges 154% as memory chip costs climb",
-      "link": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793660697
-    },
-    {
       "title": "Why large dogs age faster than small ones, and other October research highlights",
       "link": "https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1793660075
-    },
-    {
-      "title": "Blackpink's Jisoo Confirms She Referenced Resident Evil's Ada Wong in New Music Video",
-      "link": "https://www.ign.com/articles/blackpinks-jisoo-confirms-she-referenced-resident-evils-ada-wong-in-new-music-video",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793659154
-    },
-    {
-      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793657690
-    },
-    {
-      "title": "Sony Wants to Buy Your PS5 Console for $400",
-      "link": "https://www.ign.com/articles/sony-wants-to-buy-your-ps5-console-for-400",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793657296
-    },
-    {
-      "title": "The Legend of Zelda: Ocarina of Time Remake Added Fast Travel Before Devs Decided It Never Needed It in the First Place",
-      "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-added-fast-travel-before-devs-decided-it-never-needed-it-in-the-first-place",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793656535
-    },
-    {
-      "title": "A Buggy World of Warcraft Mount Has Renewed Player Frustrations at the State of Retail",
-      "link": "https://www.ign.com/articles/a-buggy-world-of-warcraft-mount-has-renewed-player-frustrations-at-the-state-of-retail",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793656338
-    },
-    {
-      "title": "Zach Cregger Says He Still Wants to 'Have a Hand' in Future Resident Evil Sequels",
-      "link": "https://www.ign.com/articles/zach-cregger-says-he-still-wants-to-have-a-hand-in-future-resident-evil-sequels",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793655136
     },
     {
       "title": "Third person dies of bird flu since virus started jumping to livestock",
@@ -282,13 +464,6 @@
       "timestamp": 1793648810
     },
     {
-      "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
-      "link": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793648754
-    },
-    {
       "title": "Yaxel Lendeborg continues to revive a Warriors team everyone left for dead",
       "link": "https://www.cbssports.com/nba/news/yaxel-lendeborg-warriors-rookie-revival-plans/",
       "source": "CBSSPORTS",
@@ -296,32 +471,11 @@
       "timestamp": 1793648597
     },
     {
-      "title": "Web host Squarespace lays off 19% of its employees",
-      "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793647559
-    },
-    {
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793647157
-    },
-    {
       "title": "Most of our measures of a key cognitive process don't agree",
       "link": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1793646806
-    },
-    {
-      "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
-      "link": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793646709
     },
     {
       "title": "Grading every NBA lottery pick's first two weeks as impressive 2026 rookie class dazzles early",
@@ -350,13 +504,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1793642731
-    },
-    {
-      "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
-      "link": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793642051
     },
     {
       "title": "China publicly discloses plan for a lunar landing within three years",
@@ -450,13 +597,6 @@
       "timestamp": 1793621583
     },
     {
-      "title": "This $48 e-paper display can be whatever you want it to be",
-      "link": "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1793620807
-    },
-    {
       "title": "What is Starshield? A look at SpaceX's military satellite network",
       "link": "https://www.space.com/space-exploration/satellites/what-is-starshield-a-look-at-spacexs-military-satellite-network",
       "source": "SPACE",
@@ -506,20 +646,6 @@
       "timestamp": 1793545200
     },
     {
-      "title": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-1-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1793544615
-    },
-    {
-      "title": "NASA's Swift space telescope is about to crash to Earth. Where will it fall?",
-      "link": "https://www.space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1793538000
-    },
-    {
       "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
       "link": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm",
       "source": "SCIENCEDAILY",
@@ -534,137 +660,11 @@
       "timestamp": 1793534146
     },
     {
-      "title": "5 bright planets to spot in November — when and where to see them",
-      "link": "https://www.space.com/stargazing/5-bright-planets-to-spot-in-november-when-and-where-to-see-them",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1793530800
-    },
-    {
-      "title": "Scientists use sound waves to deliver a new attack on deadly brain cancer",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261030003017.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1793530153
-    },
-    {
-      "title": "Ancient ape fossil in Egypt could rewrite the story of human origins",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261031011638.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1793529166
-    },
-    {
-      "title": "Scientists say a forgotten particle may explain why the universe exists",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1793507616
-    },
-    {
-      "title": "Scientists discover the hidden “muscles” trees use to straighten themselves",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261030003006.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1793501068
-    },
-    {
       "title": "Jeanie Buss accuses siblings of conspiring against her as dispute over Lakers stake continues",
       "link": "https://www.cbssports.com/nba/news/jeanie-buss-lakers-sale-family-dispute/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1793472921
-    },
-    {
-      "title": "How can Thunder survive Chet Holmgren's absence? Rookie Aday Mara becomes vital as trade rumors swirl",
-      "link": "https://www.cbssports.com/nba/news/chet-holmgren-injury-how-can-thunder-survive-trade-rumors/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1793464794
-    },
-    {
-      "title": "Luka Dončić teaches Yaxel Lendeborg a lesson, but Warriors bail their rookie out in comeback win over Lakers",
-      "link": "https://www.cbssports.com/nba/news/luka-doncic-yaxel-lendeborg-warriors-comeback-win-lakers/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1793464158
-    },
-    {
-      "title": "9 nightmarish sci-fi spaceships to crawl aboard for Halloween if you dare",
-      "link": "https://www.space.com/entertainment/9-nightmarish-sci-fi-spaceships-to-crawl-aboard-for-halloween-if-you-dare",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1793458800
-    },
-    {
-      "title": "This Week In Space podcast: Episode 234 — Living in Lunar Caves",
-      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-234-living-in-lunar-caves",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1793453819
-    },
-    {
-      "title": "On this day in space! Oct. 31, 2015: Creepy skull-shaped Halloween asteroid flies by Earth, NASA names it the 'Great Pumpkin'",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-31-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1793453193
-    },
-    {
-      "title": "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1793452189
-    },
-    {
-      "title": "Seabirds racing home over the ocean can get jet-lagged",
-      "link": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1793445326
-    },
-    {
-      "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
-      "link": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1793444554
-    },
-    {
-      "title": "Lakers vs. Warriors picks, odds: Golden State could pull off upset to begin NBA Cup play",
-      "link": "https://www.cbssports.com/betting/news/lakers-vs-warriors-picks-odds-golden-state-could-pull-off-upset-to-begin-nba-cup-play/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1793408459
-    },
-    {
-      "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
-      "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1793405242
-    },
-    {
-      "title": "Today's top games to watch, best bets, odds: Knicks at 76ers, Lakers at Warriors, UCF vs. Baylor and more",
-      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-knicks-at-76ers-lakers-at-warriors-ucf-vs-baylor-and-more/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1793400170
-    },
-    {
-      "title": "Flesh-eating screwworms spread to third state and are attacking pets",
-      "link": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1793399801
-    },
-    {
-      "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
-      "link": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1793398865
     }
   ]
 }
