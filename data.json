@@ -1,6 +1,223 @@
 {
-  "last_updated": 1793727014,
+  "last_updated": 1793746326,
   "items": [
+    {
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793745663
+    },
+    {
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793744393
+    },
+    {
+      "title": "NASA asks industry for ideas about saving Hubble Space Telescope",
+      "link": "https://www.space.com/astronomy/hubble-space-telescope/nasa-asks-industry-for-ideas-about-saving-hubble-space-telescope",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1793743200
+    },
+    {
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793742188
+    },
+    {
+      "title": "Bride Goes Viral After Challenging Groom to Beat Her at Valorant Before Marrying Her",
+      "link": "https://www.ign.com/articles/bride-goes-viral-after-challenging-groom-to-beat-her-at-valorant-before-marrying-her",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793741883
+    },
+    {
+      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793739955
+    },
+    {
+      "title": "Ancient star collisions could explain mysterious Little Red Dots and 'impossible' black holes",
+      "link": "https://www.space.com/astronomy/stars/ancient-star-collisions-could-explain-mysterious-little-red-dots-and-impossible-black-holes",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1793739600
+    },
+    {
+      "title": "Orbital Matter 3D printed the first rigid beam in the vacuum of space",
+      "link": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793739437
+    },
+    {
+      "title": "Ubisoft Among Suitors Trying to Buy Marvel's Blade, Dishonored Studio Arkane Lyon from Xbox",
+      "link": "https://www.ign.com/articles/ubisoft-among-suitors-trying-to-buy-marvels-blade-dishonored-studio-arkane-lyon-from-xbox",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793739254
+    },
+    {
+      "title": "Netflix Calls Its New AI Discover Feature a 'Test Kitchen' to Tailor Viewers' Recommendations",
+      "link": "https://www.ign.com/articles/netflix-calls-its-new-ai-discover-feature-a-test-kitchen-to-tailor-viewers-recommendations",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793739150
+    },
+    {
+      "title": "Voting in space: NASA astronauts cast ballots from International Space Station",
+      "link": "https://www.space.com/space-exploration/international-space-station/voting-in-space-nasa-astronauts-cast-ballots-from-international-space-station",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1793738796
+    },
+    {
+      "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+      "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1793738395
+    },
+    {
+      "title": "'OGame' developers explain how the browser-based sci-fi game has lasted 24 years ahead of the huge Orion update",
+      "link": "https://www.space.com/entertainment/space-games/ogame-developers-explain-how-the-browser-based-sci-fi-game-has-lasted-24-years-ahead-of-the-huge-orion-update",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1793736000
+    },
+    {
+      "title": "Police Mock Car Chase Criminal for Getting Arrested Right Before GTA 6 Release",
+      "link": "https://www.ign.com/articles/police-mock-car-chase-criminal-for-being-arrested-during-gta-6-release",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793735805
+    },
+    {
+      "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
+      "link": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793735148
+    },
+    {
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793734483
+    },
+    {
+      "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
+      "link": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793733877
+    },
+    {
+      "title": "Xbox Made an Alligator-Shaped Series X, and You Can Win It Before GTA 6 Launches",
+      "link": "https://www.ign.com/articles/xbox-made-an-alligator-shaped-series-x-and-you-can-win-it-before-gta-6-launches",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793733647
+    },
+    {
+      "title": "Ten years later, ‘Pokémon Go to the polls’ still haunts the internet",
+      "link": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793732692
+    },
+    {
+      "title": "Judi Dench Reveals Daniel Craig Pushed to Kill Off M in Skyfall",
+      "link": "https://www.ign.com/articles/judi-dench-daniel-craig-skyfall-m-death",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793732448
+    },
+    {
+      "title": "Dimorphos in sight: Europe's Hera probe gets its 1st look at battered space rock (photo)",
+      "link": "https://www.space.com/space-exploration/asteroid-comet-missions/dimorphos-in-sight-europes-hera-probe-gets-its-1st-look-at-battered-space-rock-photo",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1793732400
+    },
+    {
+      "title": "Mason Thames Cast as Robin in DC's Dynamic Duo Movie, DC Studios Boss Says Actor Is 'Obsessed' With the Role",
+      "link": "https://www.ign.com/articles/mason-thames-cast-as-robin-in-dcs-dynamic-duo-movie-dc-studios-boss-says-actor-is-obsessed-with-the-role",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793731997
+    },
+    {
+      "title": "Ferrari’s controversial Luce EV is sold out for 2027",
+      "link": "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793731893
+    },
+    {
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793731336
+    },
+    {
+      "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+      "link": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1793730627
+    },
+    {
+      "title": "Buttons are back and storage is king when it comes to car interiors",
+      "link": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1793729971
+    },
+    {
+      "title": "Sony and Lionsgate Team up For Naruto Movie, Filming to Begin in Spring 2027",
+      "link": "https://www.ign.com/articles/sony-and-lionsgate-team-up-for-naruto-movie-filming-to-begin-in-spring-2027",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793728679
+    },
+    {
+      "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+      "link": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793728612
+    },
+    {
+      "title": "Google will let schools skip AI tools, but they have to give up search, too",
+      "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1793728483
+    },
+    {
+      "title": "Ty Jerome is on a Linsanity-esque run, but here's why his MVP-level scoring isn't that big of a surprise",
+      "link": "https://www.cbssports.com/nba/news/ty-jerome-linsanity-mvp-level-scoring-surprise/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1793728013
+    },
+    {
+      "title": "Another child dies of measles as CDC reportedly holds up health alert",
+      "link": "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1793726489
+    },
     {
       "title": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
       "link": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
@@ -114,13 +331,6 @@
       "timestamp": 1793720370
     },
     {
-      "title": "Apple restricts dating apps and AI companions to users 18 and up",
-      "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793720307
-    },
-    {
       "title": "LeBron James explains why he sipped a 76ers fan's wine during win vs. Bulls",
       "link": "https://www.cbssports.com/nba/news/lebron-james-76ers-fans-wine/",
       "source": "CBSSPORTS",
@@ -177,13 +387,6 @@
       "timestamp": 1793717340
     },
     {
-      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
-      "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793716200
-    },
-    {
       "title": "Nintendo Reveals the Changes It Made to The Legend of Zelda: Ocarina of Time's Notoriously Difficult Water Temple for the Remake",
       "link": "https://www.ign.com/articles/nintendo-reveals-the-changes-it-made-to-the-legend-of-zelda-ocarina-of-times-notoriously-difficult-water-temple-for-the-remake",
       "source": "IGN",
@@ -196,27 +399,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1793714407
-    },
-    {
-      "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
-      "link": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793714400
-    },
-    {
-      "title": "Indie Game Storefront Itch Deletes a 'Couple of Terabytes of AI Slop,' Adds 'No AI' Filter to Search Results",
-      "link": "https://www.ign.com/articles/itch-deletes-a-couple-of-terabytes-of-ai-slop",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793713907
-    },
-    {
-      "title": "'Horror Is Always at Its Strongest When Something Bad Is Happening to the World' – Boss of Silent Hill Remake Dev Bloober Reveals the Secret to His Studio's Success",
-      "link": "https://www.ign.com/articles/horror-is-always-at-its-strongest-when-something-bad-is-happening-to-the-world-boss-of-silent-hill-remake-dev-bloober-reveals-the-secret-to-his-studios-success",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793711984
     },
     {
       "title": "The brain’s hidden fear mechanism may explain anxiety and PTSD",
@@ -240,39 +422,11 @@
       "timestamp": 1793710313
     },
     {
-      "title": "'Go Play GTA 6, We Need to Detox,' Wardogs Developer Tells Fans as It Prepares to Take December Off",
-      "link": "https://www.ign.com/articles/go-play-gta-6-says-wardogs-developer",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793709368
-    },
-    {
-      "title": "Mike Flanagan Teases 'Very Cool and Unexpected On-Ramp' Into the World of Warhammer 40,000 for Henry Cavill's Amazon TV Show",
-      "link": "https://www.ign.com/articles/mike-flanagan-teases-very-cool-and-unexpected-on-ramp-into-the-world-of-warhammer-40000-for-henry-cavills-amazon-tv-show",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793708325
-    },
-    {
       "title": "Scientists identify two overlooked skills that predict reading success",
       "link": "https://www.sciencedaily.com/releases/2026/11/261102202845.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1793708118
-    },
-    {
-      "title": "'Friendslop' Added to the Collins Dictionary, Beaten to Word of the Year by 'Mogging'",
-      "link": "https://www.ign.com/articles/friendslop-added-to-collins-dictionary",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793706156
-    },
-    {
-      "title": "South of Midnight Creative Director Would Have Turned Off Xbox 'Money Tap' Earlier, Says Funding Was 'Unsustainable'",
-      "link": "https://www.ign.com/articles/south-of-midnight-creative-director-wouldnt-have-funded-the-game",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793705768
     },
     {
       "title": "Why does Betelgeuse keep fading? The mystery of Orion's giant star",
@@ -289,39 +443,11 @@
       "timestamp": 1793703504
     },
     {
-      "title": "The Legend of Zelda: Ocarina of Time Remake Global Release Times",
-      "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-global-release-times",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793701987
-    },
-    {
       "title": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
       "link": "https://www.sciencedaily.com/releases/2026/11/261103003154.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1793699181
-    },
-    {
-      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
-      "link": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793692860
-    },
-    {
-      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-      "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793690400
-    },
-    {
-      "title": "Trent Reznor and Atticus Ross Have Provided the Score to David Fincher's The Further Mis-Adventures of Cliff Booth",
-      "link": "https://www.ign.com/articles/trent-reznor-and-atticus-ross-have-provided-the-score-to-david-finchers-the-further-mis-adventures-of-cliff-booth",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793683619
     },
     {
       "title": "Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation",
@@ -331,25 +457,11 @@
       "timestamp": 1793679118
     },
     {
-      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793676600
-    },
-    {
       "title": "Large Hadron Collider reveals evidence of Big Bang matter in surprisingly small collisions",
       "link": "https://www.sciencedaily.com/releases/2026/10/261031221211.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1793673544
-    },
-    {
-      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-      "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793670592
     },
     {
       "title": "Scientists just found a loophole that could let black holes split in two",
@@ -359,20 +471,6 @@
       "timestamp": 1793669269
     },
     {
-      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
-      "link": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793668375
-    },
-    {
-      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793666152
-    },
-    {
       "title": "Scientists reverse liver cell aging and cut Alzheimer’s-linked protein in half",
       "link": "https://www.sciencedaily.com/releases/2026/10/261031221155.htm",
       "source": "SCIENCEDAILY",
@@ -380,32 +478,11 @@
       "timestamp": 1793666099
     },
     {
-      "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
-      "link": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793664891
-    },
-    {
       "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
       "link": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1793662216
-    },
-    {
-      "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
-      "link": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793661932
-    },
-    {
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793661233
     },
     {
       "title": "Why large dogs age faster than small ones, and other October research highlights",
@@ -492,27 +569,6 @@
       "timestamp": 1793646000
     },
     {
-      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-      "link": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1793644341
-    },
-    {
-      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-      "link": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1793642731
-    },
-    {
-      "title": "China publicly discloses plan for a lunar landing within three years",
-      "link": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1793639353
-    },
-    {
       "title": "James Webb Space Telescope uncovers new clues about the origins of 'interstellar invader' comet 3I/ATLAS",
       "link": "https://www.space.com/astronomy/asteroids/james-webb-space-telescope-uncovers-new-clues-about-the-origins-of-interstellar-invader-comet-3i-atlas",
       "source": "SPACE",
@@ -527,20 +583,6 @@
       "timestamp": 1793638519
     },
     {
-      "title": "2026 NBA betting promos: Get over $3,000 in bonuses from top online betting apps, sportsbooks for November 2",
-      "link": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-november-2/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1793636298
-    },
-    {
-      "title": "F1 in Mexico City: Yet another Ferrari fiasco, but that’s not all",
-      "link": "https://arstechnica.com/cars/2026/11/f1-in-mexico-city-we-have-a-new-world-champion/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1793635044
-    },
-    {
       "title": "On this day in space! Nov. 2, 2000: Expedition 1 Arrives at the International Space Station",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-2-2026",
       "source": "SPACE",
@@ -553,13 +595,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1793631600
-    },
-    {
-      "title": "The world has a new plan to save nature, but it still needs the money",
-      "link": "https://arstechnica.com/science/2026/11/the-world-has-a-new-plan-to-save-nature-but-it-still-needs-the-money/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1793631412
     },
     {
       "title": "Ranking NBA injuries so far: Why Anthony Edwards' absence is a bigger blow than any single OKC injury",
@@ -583,25 +618,11 @@
       "timestamp": 1793626927
     },
     {
-      "title": "'VisionQuest' homework guide: Everything you need to watch to understand Marvel's WandaVision follow-up",
-      "link": "https://www.space.com/entertainment/space-movies-shows/visionquest-homework-guide-everything-you-need-to-watch-to-understand-marvels-wandavision-follow-up",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1793624400
-    },
-    {
       "title": "Scientists discover that some “unhealthy” diets can boost cancer immunotherapy in mice",
       "link": "https://www.sciencedaily.com/releases/2026/10/261029072132.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1793621583
-    },
-    {
-      "title": "What is Starshield? A look at SpaceX's military satellite network",
-      "link": "https://www.space.com/space-exploration/satellites/what-is-starshield-a-look-at-spacexs-military-satellite-network",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1793617200
     },
     {
       "title": "NASA reveals a haunting skull hidden in Antarctica’s ice",
@@ -618,13 +639,6 @@
       "timestamp": 1793604631
     },
     {
-      "title": "Rocket Lab launches Japanese Earth-observing satellite on 99th mission to date (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-sea-god-surveys-iqps-radar-satellite",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1793600405
-    },
-    {
       "title": "NASA's Hubble and Webb discover ancient worlds that remember their past",
       "link": "https://www.sciencedaily.com/releases/2026/10/261031221209.htm",
       "source": "SCIENCEDAILY",
@@ -632,18 +646,11 @@
       "timestamp": 1793588821
     },
     {
-      "title": "'Metroid Prime' needs some 'Resident Evil'-style remakes to rediscover its sci-fi shooter mojo",
-      "link": "https://www.space.com/entertainment/space-games/metroid-prime-needs-some-resident-evil-style-remakes-to-rediscover-its-sci-fi-shooter-mojo",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1793552400
-    },
-    {
-      "title": "Planetary defense: How military and civil satellites are watching fireballs to help keep Earth safe from space rocks",
-      "link": "https://www.space.com/stargazing/meteor-showers/planetary-defense-how-military-and-civil-satellites-are-watching-fireballs-to-help-keep-earth-safe-from-space-rocks",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1793545200
+      "title": "2026 NBA betting promos: Claim over $3,000 in bonuses from top online betting apps, sportsbooks for November 1",
+      "link": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-claim-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-november-1/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1793539403
     },
     {
       "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
