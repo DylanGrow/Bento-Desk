@@ -1,12 +1,26 @@
 {
-  "last_updated": 1793746326,
+  "last_updated": 1793760781,
   "items": [
+    {
+      "title": "007 First Light Gets Free Trial For Select PlayStation Plus Subscribers",
+      "link": "https://www.ign.com/articles/007-first-light-gets-free-trial-for-select-playstation-plus-subscribers",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793748248
+    },
     {
       "title": "Anthropic is working on a system to prove AI models’ identity",
       "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1793745663
+    },
+    {
+      "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+      "link": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1793745577
     },
     {
       "title": "Data centers are turning to old jet engines as the wait for power grows",
@@ -51,7 +65,7 @@
       "timestamp": 1793739600
     },
     {
-      "title": "Orbital Matter 3D printed the first rigid beam in the vacuum of space",
+      "title": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
       "link": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -387,13 +401,6 @@
       "timestamp": 1793717340
     },
     {
-      "title": "Nintendo Reveals the Changes It Made to The Legend of Zelda: Ocarina of Time's Notoriously Difficult Water Temple for the Remake",
-      "link": "https://www.ign.com/articles/nintendo-reveals-the-changes-it-made-to-the-legend-of-zelda-ocarina-of-times-notoriously-difficult-water-temple-for-the-remake",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793716151
-    },
-    {
       "title": "Beyond screens: Mercedes-Benz's new holographic heads-up display",
       "link": "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/",
       "source": "ARSTECHNICA",
@@ -546,13 +553,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1793648597
-    },
-    {
-      "title": "Most of our measures of a key cognitive process don't agree",
-      "link": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1793646806
     },
     {
       "title": "Grading every NBA lottery pick's first two weeks as impressive 2026 rookie class dazzles early",
