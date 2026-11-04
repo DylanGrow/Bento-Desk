@@ -1,6 +1,48 @@
 {
-  "last_updated": 1793760781,
+  "last_updated": 1793787916,
   "items": [
+    {
+      "title": "OpenAI Boss Sam Altman Addresses Backlash After Saying It Was 'Terrible' for People to Have RAM in Their PCs",
+      "link": "https://www.ign.com/articles/openai-boss-sam-altman-addresses-backlash-after-saying-it-was-terrible-for-people-to-have-ram-in-their-pcs",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793786977
+    },
+    {
+      "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
+      "link": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793767500
+    },
+    {
+      "title": "Gene editing could replace a lifetime of medication, but there's a catch",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102202829.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793766657
+    },
+    {
+      "title": "Scientists trick cancer cells into making the drugs that kill them",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261101010552.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793765131
+    },
+    {
+      "title": "A hidden star is plowing through Betelgeuse’s atmosphere, new evidence suggests",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261103003149.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793760736
+    },
+    {
+      "title": "Kids who eat more ultra-processed foods show a troubling brain response",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261101010549.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793754013
+    },
     {
       "title": "007 First Light Gets Free Trial For Select PlayStation Plus Subscribers",
       "link": "https://www.ign.com/articles/007-first-light-gets-free-trial-for-select-playstation-plus-subscribers",
@@ -310,13 +352,6 @@
       "timestamp": 1793722953
     },
     {
-      "title": "New York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech",
-      "link": "https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793721895
-    },
-    {
       "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
       "link": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
       "source": "ARSTECHNICA",
@@ -324,8 +359,8 @@
       "timestamp": 1793721793
     },
     {
-      "title": "The Star Wars Eclipse — Want to see the 2027 total solar eclipse on Tatooine? Head to Tunisia",
-      "link": "https://www.space.com/stargazing/solar-eclipses/the-star-wars-eclipse-want-to-see-the-2027-total-solar-eclipse-on-tatooine-head-to-tunisia",
+      "title": "The 2027 'eclipse of the century' will plunge real Star Wars filming locations into darkness",
+      "link": "https://www.space.com/stargazing/solar-eclipses/2027-total-solar-eclipse-star-wars-filming-locations-tunisia",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1793721600
@@ -378,13 +413,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1793718000
-    },
-    {
-      "title": "LEGO Godzilla Announced, Releases on Black Friday",
-      "link": "https://www.ign.com/articles/lego-godzilla-announced-releases-on-black-friday",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793717746
     },
     {
       "title": "Draymond Green gets first ejection of season after sparking Warriors-Suns scuffle",
@@ -632,39 +660,11 @@
       "timestamp": 1793613036
     },
     {
-      "title": "30,000-year-old DNA reveals Ice Age Europeans were far more connected than we thought",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261031221153.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1793604631
-    },
-    {
-      "title": "NASA's Hubble and Webb discover ancient worlds that remember their past",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261031221209.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1793588821
-    },
-    {
       "title": "2026 NBA betting promos: Claim over $3,000 in bonuses from top online betting apps, sportsbooks for November 1",
       "link": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-claim-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-november-1/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1793539403
-    },
-    {
-      "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1793536393
-    },
-    {
-      "title": "Scientists shrink Archimedes’ screw to the size of a single molecule",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261030002940.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1793534146
     },
     {
       "title": "Jeanie Buss accuses siblings of conspiring against her as dispute over Lakers stake continues",
