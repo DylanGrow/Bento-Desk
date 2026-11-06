@@ -1,6 +1,69 @@
 {
-  "last_updated": 1793917824,
+  "last_updated": 1793934388,
   "items": [
+    {
+      "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
+      "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1793924226
+    },
+    {
+      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+      "link": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793923638
+    },
+    {
+      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+      "link": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793923298
+    },
+    {
+      "title": "Animated John Wick Prequel Film in the Works Starring Keanu Reeves",
+      "link": "https://www.ign.com/articles/animated-john-wick-prequel-film-in-the-works-starring-keanu-reeves",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793920997
+    },
+    {
+      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+      "link": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1793920176
+    },
+    {
+      "title": "Spectrum Is Offering Free Internet Upgrades So People Can Download GTA 6 Faster",
+      "link": "https://www.ign.com/articles/spectrum-is-offering-free-internet-upgrades-so-people-can-download-gta-6-faster",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793919608
+    },
+    {
+      "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
+      "link": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1793918943
+    },
+    {
+      "title": "Bill Skarsgård Explains Why Starring in Hideo Kojima’s Physint Is a ‘Big Deal’ for Him",
+      "link": "https://www.ign.com/articles/bill-skarsgrd-explains-why-starring-in-hideo-kojimas-physint-is-a-big-deal-for-him",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793918744
+    },
+    {
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793918455
+    },
     {
       "title": "'We got it done!' Spacewalking astronauts finish installing next-gen ISS solar arrays",
       "link": "https://www.space.com/space-exploration/international-space-station/we-got-it-done-spacewalking-astronauts-finish-installing-next-gen-iss-solar-arrays",
@@ -9,7 +72,7 @@
       "timestamp": 1793916061
     },
     {
-      "title": "Andy Weir says his sci-fi audio drama 'Exoplanet' is a way to 'revive the old art of radio plays' (interview)",
+      "title": "Andy Weir says his new sci-fi audio drama 'Exoplanet' is a way to 'revive the old art of radio plays' (interview)",
       "link": "https://www.space.com/entertainment/andy-weir-says-his-sci-fi-audio-drama-exoplanet-is-a-way-to-revive-the-old-art-of-radio-plays-interview",
       "source": "SPACE",
       "category": "space",
@@ -275,25 +338,11 @@
       "timestamp": 1793899954
     },
     {
-      "title": "World of Warcraft Forever's Launch Was Running on Over 200,000 Gigabytes of RAM",
-      "link": "https://www.ign.com/articles/world-of-warcraft-forevers-launch-was-running-on-over-200000-gigabytes-of-ram",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793899676
-    },
-    {
       "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
       "link": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1793898708
-    },
-    {
-      "title": "Microsoft Updates Xbox PC App, Says It's 60% Faster",
-      "link": "https://www.ign.com/articles/microsoft-updates-xbox-pc-app-says-its-60-faster",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793898000
     },
     {
       "title": "You don't have to go to the moon to see Earth differently: Artemis II astronaut Victor Glover on what really matters",
@@ -308,13 +357,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1793897780
-    },
-    {
-      "title": "Japanese News Show Features Drinkable Street Fighter Trading Cards",
-      "link": "https://www.ign.com/articles/drinkable-street-fighter-trading-cards",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793895937
     },
     {
       "title": "Axiom Math wants to keep AI slop out of mathematics",
@@ -352,32 +394,11 @@
       "timestamp": 1793893234
     },
     {
-      "title": "TikTok quietly launches a stand-alone TikTok Shop app",
-      "link": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793892838
-    },
-    {
-      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793891945
-    },
-    {
       "title": "NASA's Voyager 1 probe bounces back from communications glitch in interstellar space",
       "link": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-probe-bounces-back-from-communications-glitch-in-interstellar-space",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1793891895
-    },
-    {
-      "title": "Instagram brings Edits to desktop to take on CapCut",
-      "link": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793890800
     },
     {
       "title": "Earth photobombs spacewalking Canadian astronaut | Space photo of the day for Nov. 5, 2026",
@@ -520,32 +541,11 @@
       "timestamp": 1793833236
     },
     {
-      "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
-      "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1793832471
-    },
-    {
-      "title": "Hackers exploited iOS and Android flaws to infect phones",
-      "link": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1793831209
-    },
-    {
       "title": "Trump declares 'American space superiority for all eternity' in election night proclamation",
       "link": "https://www.space.com/space-exploration/trump-declares-american-space-superiority-for-all-eternity-in-new-white-house-proclamation",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1793829600
-    },
-    {
-      "title": "Uranium cubes reveal why the German nuclear project failed",
-      "link": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1793829389
     },
     {
       "title": "Upcoming Marvel movies and TV shows: Avengers: Doomsday, Secret Wars, X-Men & more",
