@@ -1,6 +1,90 @@
 {
-  "last_updated": 1793934388,
+  "last_updated": 1793965601,
   "items": [
+    {
+      "title": "Scientists just found dinosaur blood that survived 115 million years",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793964481
+    },
+    {
+      "title": "Nier: Automata Dev Working on Fix for Patch That Accidentally Bloated the Game Size to 366GB on PC",
+      "link": "https://www.ign.com/articles/nier-automata-dev-working-on-fix-patch-that-bloated-game-size-366gb",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793963269
+    },
+    {
+      "title": "4-billion-year-old 'Rosetta Stone' found in Sahara Desert could unlock the secret history of water on Mars",
+      "link": "https://www.space.com/astronomy/mars/4-billion-year-old-rosetta-stone-found-in-sahara-desert-could-unlock-the-secret-history-of-water-on-mars",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1793962800
+    },
+    {
+      "title": "Pilot Draws Incredible GTA 6 Mural With His Flight Path",
+      "link": "https://www.ign.com/articles/pilot-draws-incredible-gta-6-mural-with-flight-path",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793960478
+    },
+    {
+      "title": "Five-inch-long beetle larvae are quietly destroying blueberry roots",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261103003200.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793957616
+    },
+    {
+      "title": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793953268
+    },
+    {
+      "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
+      "link": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793949524
+    },
+    {
+      "title": "NASA’s Swift telescope falls to Earth after nearly 22 years in space",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793949175
+    },
+    {
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1793946512
+    },
+    {
+      "title": "After Buying EA, Silver Lake and PIF Are Reportedly Now Seeking to Acquire Gaming Software Provider Unity",
+      "link": "https://www.ign.com/articles/after-buying-ea-silver-lake-and-pif-are-reportedly-now-seeking-to-acquire-gaming-software-provider-unity",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1793943698
+    },
+    {
+      "title": "Dead stars could break one of physics' most famous limits",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102202835.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793934669
+    },
+    {
+      "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1793927479
+    },
     {
       "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
       "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
@@ -233,13 +317,6 @@
       "timestamp": 1793906579
     },
     {
-      "title": "Wendy's RPG WendyQuest Offers Real Food Rewards for Beating Boss Fights",
-      "link": "https://www.ign.com/articles/wendys-rpg-wendyquest-offers-real-food-rewards-for-beating-boss-fights",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793906211
-    },
-    {
       "title": "Meta warns that election backlash against data centers could make AI expansion harder",
       "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
       "source": "TECHCRUNCH",
@@ -324,20 +401,6 @@
       "timestamp": 1793900427
     },
     {
-      "title": "Pokémon Cards Get Official Induction Into National Toy Hall of Fame",
-      "link": "https://www.ign.com/articles/pokemon-cards-get-official-induction-into-national-toy-hall-of-fame",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793900119
-    },
-    {
-      "title": "Rapper Kodak Black Will Be an NPC in GTA 6, Creating Speculation Over Other Artists Appearing In-Game",
-      "link": "https://www.ign.com/articles/rapper-kodak-black-will-be-in-npc-in-gta-6-creating-speculation-over-other-artists-appearing-in-game",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793899954
-    },
-    {
       "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
       "link": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
       "source": "TECHCRUNCH",
@@ -378,20 +441,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1793894298
-    },
-    {
-      "title": "Bluesky hit peak usage for the year on election night",
-      "link": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793893498
-    },
-    {
-      "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
-      "link": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793893234
     },
     {
       "title": "NASA's Voyager 1 probe bounces back from communications glitch in interstellar space",
@@ -548,13 +597,6 @@
       "timestamp": 1793829600
     },
     {
-      "title": "Upcoming Marvel movies and TV shows: Avengers: Doomsday, Secret Wars, X-Men & more",
-      "link": "https://www.space.com/entertainment/space-movies-shows/upcoming-marvel-movies-and-tv-shows",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1793826000
-    },
-    {
       "title": "Today's top games to watch, best bets, odds: 76ers at Pistons, Flagg vs. Wembanyama, college football and more",
       "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-76ers-at-pistons-flagg-vs-wembanyama-college-football-and-more/",
       "source": "CBSSPORTS",
@@ -630,48 +672,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1793791353
-    },
-    {
-      "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1793789024
-    },
-    {
-      "title": "AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104004909.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1793775426
-    },
-    {
-      "title": "Gene editing could replace a lifetime of medication, but there's a catch",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261102202829.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1793766657
-    },
-    {
-      "title": "Scientists trick cancer cells into making the drugs that kill them",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261101010552.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1793765131
-    },
-    {
-      "title": "A hidden star is plowing through Betelgeuse’s atmosphere, new evidence suggests",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261103003149.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1793760736
-    },
-    {
-      "title": "Kids who eat more ultra-processed foods show a troubling brain response",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261101010549.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1793754013
     }
   ]
 }
