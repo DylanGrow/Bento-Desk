@@ -1,6 +1,55 @@
 {
-  "last_updated": 1794008281,
+  "last_updated": 1794025877,
   "items": [
+    {
+      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+      "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1794025003
+    },
+    {
+      "title": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch",
+      "link": "https://www.ign.com/articles/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1794021136
+    },
+    {
+      "title": "Robert Pattinson Reportedly Screen-Tested for 007 in James Bond 26",
+      "link": "https://www.ign.com/articles/robert-pattinson-bond-26-007-screen-test-nicholas-hoult",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1794020878
+    },
+    {
+      "title": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (photos)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1794015718
+    },
+    {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1794015628
+    },
+    {
+      "title": "Avengers: Doomsday Car Commercial Features New Look at Nightcrawler, Sparks Theories About Unannounced Heroes",
+      "link": "https://www.ign.com/articles/avengers-doomsday-car-commercial-features-new-look-at-nightcrawler-sparks-theories-about-unannounced-heroes",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1794014061
+    },
+    {
+      "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+      "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1794006585
+    },
     {
       "title": "EA HQ Graced With 'Save Mass Effect' Truck as N7 Day Looms",
       "link": "https://www.ign.com/articles/ea-hq-graced-with-save-mass-effect-truck-as-n7-day-looms",
@@ -23,11 +72,25 @@
       "timestamp": 1794005626
     },
     {
+      "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+      "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1794004897
+    },
+    {
       "title": "NBA player props, odds, picks: Jayson Tatum, Donovan Mitchell among best bets for Friday, Nov. 6",
       "link": "https://www.cbssports.com/betting/news/nba-player-props-odds-picks-jayson-tatum-donovan-mitchell-among-best-bets-friday/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1794003766
+    },
+    {
+      "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
+      "link": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1794002927
     },
     {
       "title": "Warriors' Kristaps Porziņģis stepping away from basketball to deal with ongoing health issues",
@@ -63,20 +126,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1794001085
-    },
-    {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Cavaliers-76ers, NBA, Nevada-New Mexico Friday",
-      "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-cavaliers-76ers-nba-nevada-new-mexico-friday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1794000593
-    },
-    {
-      "title": "Use DraftKings promo code to get $200 bonus + NBA League Pass for Cavaliers-76ers, NBA, New Mexico-Nevada",
-      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-nba-league-pass-cavaliers-76ers-nba-new-mexico-nevada/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1794000479
     },
     {
       "title": "Ed Boon Wants to Know What Fans Want the Next Mortal Kombat Game to Be Called",
@@ -275,13 +324,6 @@
       "timestamp": 1793984792
     },
     {
-      "title": "Ratchet & Clank: Ranger Rumble Shutting Down Less Than a Year After Launch",
-      "link": "https://www.ign.com/articles/ratchet-clank-ranger-rumble-shutting-down",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793984535
-    },
-    {
       "title": "Giant exoplanet emerges from the dark when the James Webb Space Telescope turns out the starlight",
       "link": "https://www.space.com/astronomy/exoplanets/giant-exoplanet-emerges-from-the-dark-when-the-james-webb-space-telescope-turns-out-the-starlight",
       "source": "SPACE",
@@ -294,13 +336,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1793984105
-    },
-    {
-      "title": "Sony Announces New PS Plus 'Perks' for YouTube and Other Services, but Fans Say They're 'Not Real Perks'",
-      "link": "https://www.ign.com/articles/sony-announces-new-ps-plus-perks-fans-hate-them",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793984070
     },
     {
       "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
@@ -322,13 +357,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1793981952
-    },
-    {
-      "title": "Skyrim Game Director Has a Very Specific Wishlist For The Elder Scrolls VI: Sentinel",
-      "link": "https://www.ign.com/articles/skyrim-game-director-has-a-very-specific-wishlist-for-the-elder-scrolls-vi-sentinel",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1793981571
     },
     {
       "title": "Fox completes its $22B acquisition of Roku",
@@ -392,13 +420,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1793972906
-    },
-    {
-      "title": "Rocket Report: Artemis II literally tore through the atmosphere; New Glenn delay",
-      "link": "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1793972000
     },
     {
       "title": "Northern lights could reach New York and Idaho this weekend as speedy solar wind races toward Earth",
@@ -506,34 +527,6 @@
       "timestamp": 1793927479
     },
     {
-      "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
-      "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1793924226
-    },
-    {
-      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
-      "link": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793923638
-    },
-    {
-      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
-      "link": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1793923298
-    },
-    {
-      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-      "link": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1793920176
-    },
-    {
       "title": "'We got it done!' Spacewalking astronauts finish installing next-gen ISS solar arrays",
       "link": "https://www.space.com/space-exploration/international-space-station/we-got-it-done-spacewalking-astronauts-finish-installing-next-gen-iss-solar-arrays",
       "source": "SPACE",
@@ -560,13 +553,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1793913959
-    },
-    {
-      "title": "Blue Origin announces 3rd stage for its powerful New Glenn rocket —and a new engine",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-announces-3rd-stage-for-its-powerful-new-glenn-rocket-and-a-new-engine",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1793912115
     },
     {
       "title": "Today's top games to watch, best bets, odds: Jaguars vs. Ravens NFL Week 9 TNF, Heat vs. Warriors, more",
@@ -611,6 +597,13 @@
       "timestamp": 1793886963
     },
     {
+      "title": "Should the NBA shorten games to 40 minutes? Pros and cons of move as league battles early season injury crisis",
+      "link": "https://www.cbssports.com/nba/news/should-nba-shorten-games-to-40-minutes-pros-cons-injury-crisis/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1793886390
+    },
+    {
       "title": "400,000-year-old teeth reveal a stunning twist in human evolution",
       "link": "https://www.sciencedaily.com/releases/2026/11/261102202836.htm",
       "source": "SCIENCEDAILY",
@@ -637,6 +630,13 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1793846433
+    },
+    {
+      "title": "Pacers vs. Grizzlies NBA picks: Indiana should have more players available against surprising Memphis",
+      "link": "https://www.cbssports.com/betting/news/pacers-vs-grizzlies-nba-picks-indiana-should-have-more-players-available-against-surprising-memphis/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1793835637
     },
     {
       "title": "Scientists may have finally explained why our brains and bodies are cross-wired",
