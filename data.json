@@ -1,12 +1,75 @@
 {
-  "last_updated": 1794184173,
+  "last_updated": 1794209820,
   "items": [
+    {
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1794201989
+    },
+    {
+      "title": "Father Arrested After Leaving Sleeping 6-Year-Old Daughter in Line for Pokémon Cards",
+      "link": "https://www.ign.com/articles/father-arrested-after-leaving-sleeping-6-year-old-daughter-in-line-for-pokmon-cards",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1794198303
+    },
+    {
+      "title": "U2's The Edge Apparently Wrote a Full Script for Elf 2 But Was Never Able to Bring It to Life",
+      "link": "https://www.ign.com/articles/u2s-the-edge-apparently-wrote-a-full-script-for-elf-2-but-was-never-able-to-bring-it-to-life",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1794198171
+    },
+    {
+      "title": "Denis Villeneuve Praises Human Creativity Over AI Prompts, Almost Announces New Bond",
+      "link": "https://www.ign.com/articles/denis-villeneuve-praises-human-creativity-over-ai-prompts-almost-announces-new-bond",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1794191309
+    },
+    {
+      "title": "Hidden climate superpower: Why some ocean “snow” carries six times more carbon",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261105224558.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1794186873
+    },
+    {
+      "title": "Scientists discover stunning new Amazon fish that may already be endangered",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104084019.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1794182174
+    },
+    {
+      "title": "Scientists wipe out deadly brain tumors in every mouse tested with new cancer therapy",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104084009.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1794180290
+    },
+    {
+      "title": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1794177901
+    },
     {
       "title": "Nvidia Launches Investigation Into CEO Jensen Huang Following Affair With Alleged Chinese Spy",
       "link": "https://www.ign.com/articles/nvidia-launches-investigation-into-ceo-jensen-huang-following-affair-with-alleged-chinese-spy",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1794177241
+    },
+    {
+      "title": "Einstein's equations reveal how gravity could break, reconnect, and release energy",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104084011.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1794176082
     },
     {
       "title": "Apps to distract you from the endless cycle of doomscrolling",
@@ -373,13 +436,6 @@
       "timestamp": 1794027714
     },
     {
-      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-      "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1794025003
-    },
-    {
       "title": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch",
       "link": "https://www.ign.com/articles/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch",
       "source": "IGN",
@@ -401,32 +457,11 @@
       "timestamp": 1794015718
     },
     {
-      "title": "Avengers: Doomsday Car Commercial Features New Look at Nightcrawler, Sparks Theories About Unannounced Heroes",
-      "link": "https://www.ign.com/articles/avengers-doomsday-car-commercial-features-new-look-at-nightcrawler-sparks-theories-about-unannounced-heroes",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1794014061
-    },
-    {
       "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
       "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1794006585
-    },
-    {
-      "title": "EA HQ Graced With 'Save Mass Effect' Truck as N7 Day Looms",
-      "link": "https://www.ign.com/articles/ea-hq-graced-with-save-mass-effect-truck-as-n7-day-looms",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1794006037
-    },
-    {
-      "title": "Avery the Poké Kid's Father Pleads With The Pokémon Company to Make a Trading Card in Honor of His Late Son",
-      "link": "https://www.ign.com/articles/avery-the-pok-kids-father-pleads-with-the-pokmon-company-to-make-a-trading-card-in-honor-of-his-late-son",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1794005905
     },
     {
       "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
@@ -476,13 +511,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1794002400
-    },
-    {
-      "title": "Scientists accidentally solve a chemistry mystery that lasted 60 years",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261103003205.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1794000484
     },
     {
       "title": "Knicks defend Taylor Swift after Tyler Kolek, Deuce McBride characterize her fandom as 'performative'",
@@ -616,34 +644,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1793972906
-    },
-    {
-      "title": "Scientists just found dinosaur blood that survived 115 million years",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1793964481
-    },
-    {
-      "title": "Five-inch-long beetle larvae are quietly destroying blueberry roots",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261103003200.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1793957616
-    },
-    {
-      "title": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1793953268
-    },
-    {
-      "title": "NASA’s Swift telescope falls to Earth after nearly 22 years in space",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1793949175
     },
     {
       "title": "Bronny James faces uncertain NBA future after Lakers assign him to G League",
