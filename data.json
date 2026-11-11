@@ -1,6 +1,27 @@
 {
-  "last_updated": 1794364197,
+  "last_updated": 1794392222,
   "items": [
+    {
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1794382251
+    },
+    {
+      "title": "Celtics vs. 76ers winners and losers: Jayson Tatum outduels Jaylen Brown, but Paul George steals the show",
+      "link": "https://www.cbssports.com/nba/news/celtics-76ers-winners-losers-jayson-tatum-jaylen-brown-paul-george/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1794373099
+    },
+    {
+      "title": "VisionQuest Post-Credits Scene Just Confirmed A Major Marvel Character Is Coming Back in Upcoming Avengers Films",
+      "link": "https://www.ign.com/articles/visionquest-post-credits-scene-just-confirmed-a-major-marvel-character-is-coming-back-in-upcoming-avengers-films",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1794366744
+    },
     {
       "title": "Scientists discover why some mosquitoes love you and others don't",
       "link": "https://www.sciencedaily.com/releases/2026/11/261106174541.htm",
@@ -37,8 +58,8 @@
       "timestamp": 1794358772
     },
     {
-      "title": "Lanterns Not Renewed for Season 2, Says DC Studios Insider",
-      "link": "https://www.ign.com/articles/lanterns-not-renewed-for-season-2-says-dc-studios-insider",
+      "title": "Lanterns Season 2 in Doubt, Says DC Studios Insider",
+      "link": "https://www.ign.com/articles/lanterns-season-2-in-doubt-says-dc-studios-insider",
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1794356288
@@ -408,25 +429,11 @@
       "timestamp": 1794326400
     },
     {
-      "title": "GTA 6 Now the Most Preordered Game in PlayStation Store and Microsoft Store History, Official Preload Warning Issued",
-      "link": "https://www.ign.com/articles/sony-confirms-gta-6-is-now-the-most-preordered-game-in-playstation-store-history-issues-official-preload-warning",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1794326197
-    },
-    {
       "title": "Google broadens its AI hardware portfolio with two new specialized chips",
       "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1794326048
-    },
-    {
-      "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
-      "link": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1794325527
     },
     {
       "title": "Use FanDuel promo code to get $200 bonus bets for Ohio-Miami (Ohio), Kentucky-Kansas, Celtics-76ers, NBA",
@@ -658,13 +665,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1794166431
-    },
-    {
-      "title": "Cavaliers coach Kenny Atkinson explains infamous 'analytically' quote during playoffs loss to Knicks",
-      "link": "https://www.cbssports.com/nba/news/cavaliers-kenny-atkinson-analytically-won-knicks-playoffs/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1794147947
     }
   ]
 }
