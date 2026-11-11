@@ -1,6 +1,97 @@
 {
-  "last_updated": 1794350878,
+  "last_updated": 1794364197,
   "items": [
+    {
+      "title": "Scientists discover why some mosquitoes love you and others don't",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174541.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1794363673
+    },
+    {
+      "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1794360964
+    },
+    {
+      "title": "Fortis Games Closes With Over 400 Jobs Impacted",
+      "link": "https://www.ign.com/articles/fortis-games-closes-with-over-400-jobs-impacted",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1794359379
+    },
+    {
+      "title": "X launches its own clipping feature to spur influencer engagement",
+      "link": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1794358933
+    },
+    {
+      "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1794358772
+    },
+    {
+      "title": "Lanterns Not Renewed for Season 2, Says DC Studios Insider",
+      "link": "https://www.ign.com/articles/lanterns-not-renewed-for-season-2-says-dc-studios-insider",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1794356288
+    },
+    {
+      "title": "Astronomers discover hidden alien planet in James Webb images",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1794354964
+    },
+    {
+      "title": "Celtics vs. 76ers odds, prediction, betting preview, start time: NBA picks, best bets on Tuesday, Nov. 10",
+      "link": "https://www.cbssports.com/betting/news/celtics-vs-76ers-odds-prediction-betting-preview-start-time-nba-picks-best-bets-on-tuesday-nov-10/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1794354572
+    },
+    {
+      "title": "Celtics vs. 76ers NBA picks: Jayson Tatum, Jaylen Brown could have big nights in first grudge game of season",
+      "link": "https://www.cbssports.com/betting/news/celtics-vs-76ers-nba-picks-jayson-tatum-jaylen-brown-could-have-big-nights-in-first-grudge-game-of-season/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1794354032
+    },
+    {
+      "title": "Seagate's new hybrid drive raises some old questions",
+      "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1794353456
+    },
+    {
+      "title": "Shaquille O'Neal is Starring in a Game Show Where Players Have to Hide Him in Plain Sight",
+      "link": "https://www.ign.com/articles/shaquille-oneal-is-starring-in-a-game-show-where-players-have-to-hide-him-in-plain-sight",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1794353201
+    },
+    {
+      "title": "The US military seems to be getting nervous about the launch supply crunch",
+      "link": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1794351759
+    },
+    {
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1794350101
+    },
     {
       "title": "Nintendo Opens New Job Role to Preserve and Organize its Old Games",
       "link": "https://www.ign.com/articles/nintendo-opens-new-job-role-to-preserve-and-organize-its-old-games",
@@ -35,13 +126,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1794347484
-    },
-    {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Celtics-76ers, Texas Tech-Illinois, NBA Tuesday",
-      "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-celtics-76ers-texas-tech-illinois-nba-tuesday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1794346536
     },
     {
       "title": "DC's New Leader Will Reportedly Prioritize More Well-Known Characters Like Batman and Wonder Woman, Reboot Has Yet to Be Decided",
@@ -345,32 +429,11 @@
       "timestamp": 1794325527
     },
     {
-      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-      "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1794324570
-    },
-    {
       "title": "Use FanDuel promo code to get $200 bonus bets for Ohio-Miami (Ohio), Kentucky-Kansas, Celtics-76ers, NBA",
       "link": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-200-bonus-bets-ohio-miami-ohio-kentucky-kansas-celtics-76ers-nba/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1794324391
-    },
-    {
-      "title": "GTA 6 'Preload Now' Trailer Includes Nearly 30 Seconds of New Footage — SWAT Team, Nightclub Dancing, and More",
-      "link": "https://www.ign.com/articles/gta-6-preload-now-trailer-includes-nearly-30-seconds-of-new-footage-swat-team-nightclub-dancing-and-more",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1794323741
-    },
-    {
-      "title": "You Don't Need a Current-Gen Console if You're Happy to Play GTA 6 at Xbox Series S Settings",
-      "link": "https://www.ign.com/articles/you-dont-need-a-current-gen-console-if-youre-happy-to-play-gta-6-at-xbox-series-s-settings",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1794323485
     },
     {
       "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
@@ -415,13 +478,6 @@
       "timestamp": 1794320522
     },
     {
-      "title": "GTA 6 Will Run at 30fps On All Consoles, Features Ray Tracing Improvements on PS5 Pro",
-      "link": "https://www.ign.com/articles/gta-6-will-run-at-30fps-on-all-consoles-features-ray-tracing-improvements-on-ps5-pro",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1794320228
-    },
-    {
       "title": "See the first images from the new ZWO Seestar S30 Plus — a smart telescope aimed at beginners",
       "link": "https://www.space.com/stargazing/skywatching-kit/see-the-first-images-from-the-new-zwo-seestar-s30-plus-a-smart-telescope-aimed-at-beginners",
       "source": "SPACE",
@@ -436,18 +492,18 @@
       "timestamp": 1794315600
     },
     {
-      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
-      "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1794312932
+      "title": "A mysterious 93-billion-mile cosmic structure may be the wreckage of colliding worlds",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261105224555.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1794313809
     },
     {
-      "title": "Review: Apple's M6 MacBook Pro is good, but it's missing all the exciting stuff",
-      "link": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1794312021
+      "title": "Paleontologists discover “one-in-a-million” fossil with 450-million-year-old soft tissue",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261105085201.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1794312968
     },
     {
       "title": "NASA's twin ESCAPADE Mars probes slingshot around Earth in unprecedented double 'gravity assist'",
@@ -455,6 +511,27 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1794308400
+    },
+    {
+      "title": "Comets may have destroyed life's ingredients instead of delivering them to Earth",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261105224553.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1794301315
+    },
+    {
+      "title": "NASA’s CHAPEA Mars crew finally emerges after more than a year in isolation",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205406.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1794286841
+    },
+    {
+      "title": "Why heart attacks can still happen even when bad cholesterol is low",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1794275655
     },
     {
       "title": "Alzheimer’s may have early warning signs outside the brain",
@@ -490,13 +567,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1794261600
-    },
-    {
-      "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
-      "link": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1794261335
     },
     {
       "title": "Are the James Webb Space Telescope's mysterious Little Red Dots actually tiny black holes left over from the Big Bang era?",
@@ -583,48 +653,6 @@
       "timestamp": 1794215608
     },
     {
-      "title": "DNA on the Shroud of Turin reveals centuries of hidden secrets",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108202703.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1794192504
-    },
-    {
-      "title": "Hidden climate superpower: Why some ocean “snow” carries six times more carbon",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261105224558.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1794186873
-    },
-    {
-      "title": "Scientists discover stunning new Amazon fish that may already be endangered",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104084019.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1794182174
-    },
-    {
-      "title": "Scientists wipe out deadly brain tumors in every mouse tested with new cancer therapy",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104084009.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1794180290
-    },
-    {
-      "title": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1794177901
-    },
-    {
-      "title": "Einstein's equations reveal how gravity could break, reconnect, and release energy",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104084011.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1794176082
-    },
-    {
       "title": "Thunder trade grades: OKC swipes promising young wing Nique Clifford from the rebuilding Kings",
       "link": "https://www.cbssports.com/nba/news/thunder-trade-grades-nique-clifford-kings/",
       "source": "CBSSPORTS",
@@ -637,34 +665,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1794147947
-    },
-    {
-      "title": "A nuclear blast could save Earth from an asteroid, but there's a catch",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1794132685
-    },
-    {
-      "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1794125663
-    },
-    {
-      "title": "Scientists discover hidden brain changes linked to common sleep disorders",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104012303.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1794113272
-    },
-    {
-      "title": "Man arrested on stalking charges outside of LeBron James' home in Los Angeles, per reports",
-      "link": "https://www.cbssports.com/nba/news/man-arrested-stalking-lebron-james-los-angeles-home/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1794088554
     }
   ]
 }
