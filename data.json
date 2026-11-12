@@ -1,6 +1,48 @@
 {
-  "last_updated": 1794446220,
+  "last_updated": 1794474837,
   "items": [
+    {
+      "title": "Stephen Curry injury: 'Concern high' as Warriors superstar has MRI on abdomen",
+      "link": "https://www.cbssports.com/nba/news/stephen-curry-injury-warriors-abdominal/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1794466061
+    },
+    {
+      "title": "SpaceX launches 2nd mystery mission for US Space Force in 6-day span (photos)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-2nd-mystery-mission-for-us-space-force-in-6-day-span-photos",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1794461094
+    },
+    {
+      "title": "A massive new simulation reveals how the universe emerged from darkness",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1794456444
+    },
+    {
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1794453190
+    },
+    {
+      "title": "NASA’s Parker Solar Probe discovers a hidden pattern in the Sun’s chaotic magnetic fields",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205411.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1794447909
+    },
+    {
+      "title": "Warriors vs. Rockets predictions: Use Polymarket promo code CBSSPORTS to get a $25 bonus for November 11",
+      "link": "https://www.cbssports.com/prediction/news/warriors-vs-rockets-predictions-use-polymarket-promo-code-cbssports-to-get-a-25-bonus-for-november-11/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1794445843
+    },
     {
       "title": "Warriors vs. Rockets NBA odds, picks: Kevin Durant, Steph Curry face off Wednesday in latest Hall of Fame duel",
       "link": "https://www.cbssports.com/betting/news/warriors-vs-rockets-nba-odds-picks-kevin-durant-steph-curry-face-off-wednesday-in-latest-hall-of-fame-duel/",
@@ -21,6 +63,13 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1794441000
+    },
+    {
+      "title": "Scientists discover that necks didn't evolve for the reason we thought",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108233101.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1794440943
     },
     {
       "title": "Nuggets vs. Grizzlies odds, prediction, betting preview: NBA picks, best bets for Wednesday, Nov. 11",
@@ -44,7 +93,7 @@
       "timestamp": 1794439643
     },
     {
-      "title": "AMC App Experiences Slowdown As Marvel Fans Rush to Buy Doomsday Tickets After VisionQuest Finale",
+      "title": "AMC App Experiences Slowdown as Marvel Fans Rush to Buy Doomsday Tickets After VisionQuest Finale",
       "link": "https://www.ign.com/articles/amc-app-crashes-as-marvel-fans-rush-to-buy-doomsday-tickets-after-visionquest-finale",
       "source": "IGN",
       "category": "gaming",
@@ -107,13 +156,6 @@
       "timestamp": 1794436544
     },
     {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Rockets-Warriors, Buffalo-Ball State, NBA",
-      "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-rockets-warriors-buffalo-ball-state-nba/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1794436072
-    },
-    {
       "title": "NASA kick-starts a fresh push to bring Mars samples home",
       "link": "https://www.space.com/astronomy/mars/nasa-kick-starts-a-fresh-push-to-bring-mars-samples-home",
       "source": "SPACE",
@@ -133,13 +175,6 @@
       "source": "IGN",
       "category": "gaming",
       "timestamp": 1794433976
-    },
-    {
-      "title": "Use DraftKings promo code to get $200 bonus + free NBA League Pass on Rockets-Warriors, Buffalo-Ball State",
-      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-rockets-warriors-buffalo-ball-state/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1794433722
     },
     {
       "title": "We can't see Fast Radio Bursts but we can now hear them thanks to a Finnish Cathedral",
@@ -366,17 +401,17 @@
       "timestamp": 1794409367
     },
     {
-      "title": "Hubble Space Telescope reveals glittering stars with mysterious origins | Space photo of the day for Nov. 11, 2026",
-      "link": "https://www.space.com/astronomy/hubble-space-telescope/hubble-space-telescope-reveals-glittering-stars-with-mysterious-origins-space-photo-of-the-day-for-nov-11-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1794409200
-    },
-    {
       "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
       "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
       "source": "TECHCRUNCH",
       "category": "tech",
+      "timestamp": 1794409200
+    },
+    {
+      "title": "Hubble Space Telescope reveals glittering stars with mysterious origins | Space photo of the day for Nov. 11, 2026",
+      "link": "https://www.space.com/astronomy/hubble-space-telescope/hubble-space-telescope-reveals-glittering-stars-with-mysterious-origins-space-photo-of-the-day-for-nov-11-2026",
+      "source": "SPACE",
+      "category": "space",
       "timestamp": 1794409200
     },
     {
@@ -506,13 +541,6 @@
       "timestamp": 1794360964
     },
     {
-      "title": "X launches its own clipping feature to spur influencer engagement",
-      "link": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1794358933
-    },
-    {
       "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
       "link": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm",
       "source": "SCIENCEDAILY",
@@ -611,13 +639,6 @@
       "timestamp": 1794340800
     },
     {
-      "title": "SpaceX Starship Flight 15 live updates: T-2 days to SpaceX's 1st-ever double Starship landing attempt",
-      "link": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-11-2026-starship-first-double-landing-attempt",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1794339981
-    },
-    {
       "title": "Cooper Flagg beats LeBron James, Anthony Edwards to NBA history: How the Mavericks star leveled up",
       "link": "https://www.cbssports.com/nba/news/cooper-flagg-nba-history-teenager-mavericks/",
       "source": "CBSSPORTS",
@@ -651,27 +672,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1794301315
-    },
-    {
-      "title": "NASA’s CHAPEA Mars crew finally emerges after more than a year in isolation",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261109205406.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1794286841
-    },
-    {
-      "title": "Why heart attacks can still happen even when bad cholesterol is low",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1794275655
-    },
-    {
-      "title": "Alzheimer’s may have early warning signs outside the brain",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1794275254
     }
   ]
 }
