@@ -1,8 +1,36 @@
 {
-  "last_updated": 1794525031,
+  "last_updated": 1794545816,
   "items": [
     {
-      "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+      "title": "GTA 6's Burger Shot Restaurant Is Expanding Across Florida With Real Meals Inspired by the Game",
+      "link": "https://www.ign.com/articles/gta-6s-burger-shot-restaurant-is-expanding-across-florida-with-real-meals-inspired-by-the-game",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1794530685
+    },
+    {
+      "title": "Wolfenstein 3 Confirmed to Be in Development at MachineGames",
+      "link": "https://www.ign.com/articles/wolfenstein-3-confirmed-to-be-in-development-at-machinegames",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1794528073
+    },
+    {
+      "title": "Rockets' Marcus Smart suspended three games for punching Warriors' Charles Bassey during in-game scuffle",
+      "link": "https://www.cbssports.com/nba/news/rockets-marcus-smart-suspension-punch-warriors-charles-bassey/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1794525701
+    },
+    {
+      "title": "Caleb Wilson reportedly out 4-6 weeks with broken hand, taking away the only reason to watch the Bulls",
+      "link": "https://www.cbssports.com/nba/news/caleb-wilson-injury-update-bulls-rookie-of-the-year/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1794525373
+    },
+    {
+      "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
       "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
       "source": "ARSTECHNICA",
       "category": "hacker",
@@ -30,7 +58,7 @@
       "timestamp": 1794522527
     },
     {
-      "title": "Muse can now place calls to U.S. businesses — if you pay",
+      "title": "Muse can now place calls to US businesses — if you pay",
       "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
       "source": "TECHCRUNCH",
       "category": "tech",
@@ -373,13 +401,6 @@
       "timestamp": 1794498274
     },
     {
-      "title": "LEGO Star Wars: Darth Vader Wall Art and More Sets Announced for January 2027",
-      "link": "https://www.ign.com/articles/lego-star-wars-sets-announced-for-january-2027",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1794496754
-    },
-    {
       "title": "2026 NBA betting promos: Get over $3,000 in bonuses from top online betting apps, sportsbooks for Nov. 12",
       "link": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-november-12/",
       "source": "CBSSPORTS",
@@ -398,13 +419,6 @@
       "link": "https://www.space.com/stargazing/skywatching-kit/i-used-the-vaonis-vespera-3-for-weeks-and-heres-who-i-would-recommend-it-to-full-review",
       "source": "SPACE",
       "category": "space",
-      "timestamp": 1794495600
-    },
-    {
-      "title": "Sankan, a Co-op Horror Game Set at a Japanese Gas Station in 1999, Announced for PC",
-      "link": "https://www.ign.com/articles/sankan-a-co-op-horror-game-set-at-a-japanese-gas-station-in-1999-announced-for-pc",
-      "source": "IGN",
-      "category": "gaming",
       "timestamp": 1794495600
     },
     {
@@ -450,11 +464,46 @@
       "timestamp": 1794488400
     },
     {
+      "title": "Crows can make decisions twice as fast as humans, scientists discover",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1794485839
+    },
+    {
       "title": "Review: Apple's M6 iMac is pricey, but it's still a good choice for a clean desk",
       "link": "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1794484837
+    },
+    {
+      "title": "AI-powered bionic eye breakthrough could help the blind see again",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1794484555
+    },
+    {
+      "title": "NASA’s Perseverance confirms a key ingredient for life hidden in ancient Mars rocks",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1794483426
+    },
+    {
+      "title": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1794482687
+    },
+    {
+      "title": "A butterfly that fooled scientists for 200 years finally reveals its secrets",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042556.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1794480463
     },
     {
       "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
@@ -576,20 +625,6 @@
       "timestamp": 1794407494
     },
     {
-      "title": "Paul George explains why he gave one 'a--hole' 76ers fan the middle finger during impressive return to Philly",
-      "link": "https://www.cbssports.com/nba/news/paul-george-76ers-fan-middle-finger/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1794406168
-    },
-    {
-      "title": "Kirk Cousins' reunion with Vikings headlines NFL trade deadline; Georgia tops CFP Top 25 rankings",
-      "link": "https://www.cbssports.com/nfl/news/kirk-cousins-reunion-vikings-raiders-nfl-trade-deadline-georgia-utah-alabama-ucla-cfp-rankings/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1794404819
-    },
-    {
       "title": "The mystery of how hair knows where to grow may finally be solved",
       "link": "https://www.sciencedaily.com/releases/2026/11/261109205413.htm",
       "source": "SCIENCEDAILY",
@@ -637,41 +672,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1794363673
-    },
-    {
-      "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1794360964
-    },
-    {
-      "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1794358772
-    },
-    {
-      "title": "Astronomers discover hidden alien planet in James Webb images",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1794354964
-    },
-    {
-      "title": "A mysterious 93-billion-mile cosmic structure may be the wreckage of colliding worlds",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261105224555.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1794313809
-    },
-    {
-      "title": "Paleontologists discover “one-in-a-million” fossil with 450-million-year-old soft tissue",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261105085201.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1794312968
     }
   ]
 }
