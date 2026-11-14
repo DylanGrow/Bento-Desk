@@ -1,6 +1,76 @@
 {
-  "last_updated": 1794670262,
+  "last_updated": 1794687763,
   "items": [
+    {
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "link": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1794686684
+    },
+    {
+      "title": "Chris Pratt Says He 'Would Love' James Gunn to Return for Guardians of the Galaxy Vol. 4 After Leaving DC",
+      "link": "https://www.ign.com/articles/chris-pratt-says-he-would-love-james-gunn-to-return-for-guardians-of-the-galaxy-vol-4-after-leaving-dc",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1794680864
+    },
+    {
+      "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "link": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1794679200
+    },
+    {
+      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "link": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1794678304
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1794677400
+    },
+    {
+      "title": "GTA 6 Will Do Something the Franchise Has Never Done Before: Encourage Empathy",
+      "link": "https://www.ign.com/articles/gta-6-will-do-something-the-franchise-has-never-done-before-encourage-empathy",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1794676753
+    },
+    {
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1794674055
+    },
+    {
+      "title": "Yaxel Lendeborg, Warriors get a taste of life without Stephen Curry: 'It felt helpless out there'",
+      "link": "https://www.cbssports.com/nba/news/yaxel-lendeborg-warriors-spurs-life-without-stephen-curry/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1794672033
+    },
+    {
+      "title": "This Week In Space podcast: Episode 236 — Alienspotting",
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-236-alienspotting",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1794671793
+    },
+    {
+      "title": "2026 NBA betting promos: Get over $3,000 in bonuses from top online betting apps, sportsbooks for Nov. 14",
+      "link": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-november-14/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1794670566
+    },
     {
       "title": "'Alien: Fireteam Elite 2' is a good old-fashioned bug hunt, ironically plagued by bugs",
       "link": "https://www.space.com/entertainment/space-games/alien-fireteam-elite-2-is-a-good-old-fashioned-bug-hunt-ironically-plagued-by-bugs",
@@ -9,7 +79,7 @@
       "timestamp": 1794668400
     },
     {
-      "title": "SpaceX says Starship Flight 15 booster aborted 'chopsticks' landing catch after launch due to guidance issue (video)",
+      "title": "Why did Starship Flight 15 booster abort 'chopsticks' landing catch? SpaceX still investigating (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video",
       "source": "SPACE",
       "category": "space",
@@ -254,15 +324,15 @@
       "timestamp": 1794600193
     },
     {
-      "title": "100 launches! Rocket Lab sends Earth-observing satellite to orbit on milestone mission (photos)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-100th-launch-iqps-electron-sar-satellite",
+      "title": "'Arrival' at 10: Denis Villeneuve's alien visitation classic that reminded us it's good to talk",
+      "link": "https://www.space.com/entertainment/space-movies-shows/arrival-at-10-the-denis-villeneuve-alien-visitation-classic-that-reminded-us-its-good-to-talk",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1794600000
     },
     {
-      "title": "'Arrival' at 10: Denis Villeneuve's alien visitation classic that reminded us it's good to talk",
-      "link": "https://www.space.com/entertainment/space-movies-shows/arrival-at-10-the-denis-villeneuve-alien-visitation-classic-that-reminded-us-its-good-to-talk",
+      "title": "100 launches! Rocket Lab sends Earth-observing satellite to orbit on milestone mission (photos)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-100th-launch-iqps-electron-sar-satellite",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1794600000
@@ -331,17 +401,17 @@
       "timestamp": 1794593668
     },
     {
-      "title": "Crazy Taxi: World Tour Final Map Revealed",
-      "link": "https://www.ign.com/articles/crazy-taxi-world-tour-final-map-revealed",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1794592800
-    },
-    {
       "title": "'Martian Isolation' is an upcoming sci-fi survival horror game that looks like 'The Martian' and 'Event Horizon' had a horrific child",
       "link": "https://www.space.com/entertainment/space-games/martian-isolation-is-an-upcoming-sci-fi-survival-horror-game-that-looks-like-the-martian-and-event-horizon-had-a-horrific-child",
       "source": "SPACE",
       "category": "space",
+      "timestamp": 1794592800
+    },
+    {
+      "title": "Crazy Taxi: World Tour Final Map Revealed",
+      "link": "https://www.ign.com/articles/crazy-taxi-world-tour-final-map-revealed",
+      "source": "IGN",
+      "category": "gaming",
       "timestamp": 1794592800
     },
     {
@@ -366,13 +436,6 @@
       "timestamp": 1794589774
     },
     {
-      "title": "Pokémon Collector Discovers Rare Playable Copy of PokéPark Fishing Rally DS 20 Years After the Limited-Time Event It Was Made For",
-      "link": "https://www.ign.com/articles/pokemon-collector-discovers-rare-playable-copy-of-pokpark-fishing-rally-ds-20-years-after-the-limited-time-event-it-was-made-for",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1794589200
-    },
-    {
       "title": "Astronomers trace mystery radio signals back to cosmic odd couple of white dwarf and sun-like star",
       "link": "https://www.space.com/astronomy/stars/astronomers-trace-mystery-radio-signals-back-to-cosmic-odd-couple-of-white-dwarf-and-sun-like-star",
       "source": "SPACE",
@@ -380,11 +443,11 @@
       "timestamp": 1794589200
     },
     {
-      "title": "WoW Forever Has a Weekly Quest That Can Reward Up to 100 Gold, and Players Don't Love It",
-      "link": "https://www.ign.com/articles/wow-forever-has-a-weekly-quest-that-can-reward-up-to-100-gold-and-players-dont-love-it",
+      "title": "Pokémon Collector Discovers Rare Playable Copy of PokéPark Fishing Rally DS 20 Years After the Limited-Time Event It Was Made For",
+      "link": "https://www.ign.com/articles/pokemon-collector-discovers-rare-playable-copy-of-pokpark-fishing-rally-ds-20-years-after-the-limited-time-event-it-was-made-for",
       "source": "IGN",
       "category": "gaming",
-      "timestamp": 1794589014
+      "timestamp": 1794589200
     },
     {
       "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
@@ -392,20 +455,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1794587192
-    },
-    {
-      "title": "God of War Sons of Sparta Coming to PS4 Next Week With New Content",
-      "link": "https://www.ign.com/articles/god-of-war-sons-of-sparta-coming-to-ps4-next-week-with-new-content",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1794586365
-    },
-    {
-      "title": "2026 NBA betting promos: Get over $3,000 in bonuses from top online betting apps, sportsbooks for Nov. 13",
-      "link": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-november-13/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1794586047
     },
     {
       "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
@@ -450,13 +499,6 @@
       "timestamp": 1794582579
     },
     {
-      "title": "I saw Saturn’s rings in seconds with the Celestron StarSense Explorer 150mm Tabletop Dobsonian telescope — full review",
-      "link": "https://www.space.com/stargazing/skywatching-kit/i-saw-saturns-rings-in-seconds-with-the-celestron-starsense-explorer-150mm-tabletop-dobsonian-telescope-full-review",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1794582000
-    },
-    {
       "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
       "link": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
       "source": "TECHCRUNCH",
@@ -497,20 +539,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1794574511
-    },
-    {
-      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-      "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1794574339
-    },
-    {
-      "title": "Jensen Huang didn’t show confidence in his successor, report says",
-      "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1794572903
     },
     {
       "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
@@ -562,32 +590,11 @@
       "timestamp": 1794525373
     },
     {
-      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-      "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1794523371
-    },
-    {
       "title": "Naz Reid landing spots: Four NBA contenders that make sense if Hornets look to move sharp-shooting big man",
       "link": "https://www.cbssports.com/nba/news/naz-reid-trade-rumors-landing-spots-hornets-warriors-raptors-cavaliers-pistons/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1794522876
-    },
-    {
-      "title": "Muse can now place calls to US businesses — if you pay",
-      "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1794522148
-    },
-    {
-      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-      "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1794518830
     },
     {
       "title": "Today's top games to watch, best bets, odds: Commanders at Giants, Mavs at T-Wolves, college football and more",
@@ -665,13 +672,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1794456444
-    },
-    {
-      "title": "Warriors vs. Rockets predictions: Use Polymarket promo code CBSSPORTS to get a $25 bonus for November 11",
-      "link": "https://www.cbssports.com/prediction/news/warriors-vs-rockets-predictions-use-polymarket-promo-code-cbssports-to-get-a-25-bonus-for-november-11/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1794445843
     }
   ]
 }
