@@ -1,6 +1,83 @@
 {
-  "last_updated": 1794645158,
+  "last_updated": 1794670262,
   "items": [
+    {
+      "title": "'Alien: Fireteam Elite 2' is a good old-fashioned bug hunt, ironically plagued by bugs",
+      "link": "https://www.space.com/entertainment/space-games/alien-fireteam-elite-2-is-a-good-old-fashioned-bug-hunt-ironically-plagued-by-bugs",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1794668400
+    },
+    {
+      "title": "SpaceX says Starship Flight 15 booster aborted 'chopsticks' landing catch after launch due to guidance issue (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1794667980
+    },
+    {
+      "title": "On this day in space! Nov. 14, 1969: NASA's Apollo 12 astronauts launch to the moon on a 'pinpoint landing' lunar mission",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-14-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1794667887
+    },
+    {
+      "title": "Watch SpaceX will attempt its 1st-ever 'chopsticks' Starship landing catch of a rocket from orbit today (livestream)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1794661200
+    },
+    {
+      "title": "Scientists find a simple daily routine linked to less pain and depression",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1794660481
+    },
+    {
+      "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1794659105
+    },
+    {
+      "title": "James Webb telescope finds ice older than the star it orbits",
+      "link": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1794658548
+    },
+    {
+      "title": "Winemakers are learning that conservation can be good for business",
+      "link": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1794657951
+    },
+    {
+      "title": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1794657522
+    },
+    {
+      "title": "See Jupiter and Mars make a spectacular close approach overnight Nov. 15-16",
+      "link": "https://www.space.com/stargazing/see-jupiter-and-mars-make-a-spectacular-close-approach-overnight-nov-15-16",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1794654000
+    },
+    {
+      "title": "Breaking Down Theo's Shock Moment in The Lord of the Rings: The Rings of Power Season 3 and the Mystery of His Father With Actor Tyroe Muhafidin",
+      "link": "https://www.ign.com/articles/breaking-down-theos-shock-moment-in-the-lord-of-the-rings-the-rings-of-power-season-3-and-the-mystery-of-his-father-with-actor-tyroe-muhafidin",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1794650534
+    },
     {
       "title": "5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings",
       "link": "https://www.sciencedaily.com/releases/2026/11/261112025540.htm",
@@ -177,15 +254,15 @@
       "timestamp": 1794600193
     },
     {
-      "title": "'Arrival' at 10: Denis Villeneuve's alien visitation classic that reminded us it's good to talk",
-      "link": "https://www.space.com/entertainment/space-movies-shows/arrival-at-10-the-denis-villeneuve-alien-visitation-classic-that-reminded-us-its-good-to-talk",
+      "title": "100 launches! Rocket Lab sends Earth-observing satellite to orbit on milestone mission (photos)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-100th-launch-iqps-electron-sar-satellite",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1794600000
     },
     {
-      "title": "100 launches! Rocket Lab sends Earth-observing satellite to orbit on milestone mission (photos)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-100th-launch-iqps-electron-sar-satellite",
+      "title": "'Arrival' at 10: Denis Villeneuve's alien visitation classic that reminded us it's good to talk",
+      "link": "https://www.space.com/entertainment/space-movies-shows/arrival-at-10-the-denis-villeneuve-alien-visitation-classic-that-reminded-us-its-good-to-talk",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1794600000
@@ -352,13 +429,6 @@
       "timestamp": 1794585480
     },
     {
-      "title": "'He Needs a Second Chance' – Some Nvidia Employees Really Want Former CEO Jensen Huang Back",
-      "link": "https://www.ign.com/articles/he-needs-a-second-chance-some-nvidia-employees-really-want-former-ceo-jensen-huang-back",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1794584871
-    },
-    {
       "title": "NBA Washed Meter: Which late-30s (and older) stars still got it? And who's on the decline?",
       "link": "https://www.cbssports.com/nba/news/nba-washed-meter-james-harden-lebron-james/",
       "source": "CBSSPORTS",
@@ -378,13 +448,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1794582579
-    },
-    {
-      "title": "Astronaut Suni Williams rides through NYC as Grand Marshal of the Veterans Day Parade | Space photo of the day for Nov. 13, 2026",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/astronaut-suni-williams-rides-through-nyc-as-grand-marshal-of-the-veterans-day-parade-space-photo-of-the-day-for-nov-13-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1794582000
     },
     {
       "title": "I saw Saturn’s rings in seconds with the Celestron StarSense Explorer 150mm Tabletop Dobsonian telescope — full review",
@@ -427,13 +490,6 @@
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1794575720
-    },
-    {
-      "title": "Double-catch drama: Why Starship's Flight 15 is so important to SpaceX",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/double-catch-drama-why-starships-flight-15-is-so-important-to-spacex",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1794574800
     },
     {
       "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
@@ -485,32 +541,11 @@
       "timestamp": 1794568114
     },
     {
-      "title": "Powerful Vulcan Centaur rocket launching for 1st time in 9 months today: Watch it live",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1794567600
-    },
-    {
       "title": "The Sun unleashed a monster storm. Earth may have made it worse",
       "link": "https://www.sciencedaily.com/releases/2026/11/261111005905.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1794563376
-    },
-    {
-      "title": "'Don't panic': SpaceX pens familiar message on Starship ahead of historic double-catch test flight",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/dont-panic-spacex-pens-familiar-message-on-starship-ahead-of-historic-double-catch-test-flight",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1794557039
-    },
-    {
-      "title": "Watch SpaceX attempt a historic Starship launch and double-catch landing today (Nov. 13)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-historic-double-catch-starship-test-flight-today-watch-it-live",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1794546300
     },
     {
       "title": "Rockets' Marcus Smart suspended three games for punching Warriors' Charles Bassey during in-game scuffle",
@@ -525,13 +560,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1794525373
-    },
-    {
-      "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
-      "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1794524391
     },
     {
       "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
@@ -567,13 +595,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1794515446
-    },
-    {
-      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
-      "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1794513599
     },
     {
       "title": "Stephen Curry injury: Warriors star to miss at least two weeks with oblique tear amid Golden State's hot start",
@@ -646,32 +667,11 @@
       "timestamp": 1794456444
     },
     {
-      "title": "NASA’s Parker Solar Probe discovers a hidden pattern in the Sun’s chaotic magnetic fields",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261109205411.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1794447909
-    },
-    {
       "title": "Warriors vs. Rockets predictions: Use Polymarket promo code CBSSPORTS to get a $25 bonus for November 11",
       "link": "https://www.cbssports.com/prediction/news/warriors-vs-rockets-predictions-use-polymarket-promo-code-cbssports-to-get-a-25-bonus-for-november-11/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1794445843
-    },
-    {
-      "title": "Scientists discover that necks didn't evolve for the reason we thought",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108233101.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1794440943
-    },
-    {
-      "title": "The mystery of how hair knows where to grow may finally be solved",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261109205413.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1794401310
     }
   ]
 }
