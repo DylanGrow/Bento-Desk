@@ -1,12 +1,33 @@
 {
-  "last_updated": 1795221279,
+  "last_updated": 1795247835,
   "items": [
     {
-      "title": "Use DraftKings promo code to get $200 bonus, free NBA League Pass for Rockets-Nuggets, Oregon-Michigan State",
-      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-for-rockets-nuggets-oregon-michigan-state/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1795217721
+      "title": "SpaceX launches classified mission for US Space Force from California",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1795238894
+    },
+    {
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "link": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1795233600
+    },
+    {
+      "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1795227862
+    },
+    {
+      "title": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1795227074
     },
     {
       "title": "2026 NBA betting promos: Get almost $4,000 in bonuses from top online betting apps, sportsbooks for Nov. 20",
@@ -324,13 +345,6 @@
       "timestamp": 1795189567
     },
     {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Rockets-Nuggets, Oregon-Michigan State on Friday",
-      "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-rockets-nuggets-oregon-michigan-state-friday/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1795188885
-    },
-    {
       "title": "Damian Lillard stars in his Milwaukee return in another stark reminder of how bleak things are for the Bucks",
       "link": "https://www.cbssports.com/nba/news/damian-lillard-milwaukee-return-trail-blazers-bucks-bleak-future/",
       "source": "CBSSPORTS",
@@ -534,13 +548,6 @@
       "timestamp": 1795128796
     },
     {
-      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
-      "link": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1795127606
-    },
-    {
       "title": "The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/the-view-from-the-tower-watch-starship-come-in-for-chopsticks-catch-in-epic-slo-mo-video",
       "source": "SPACE",
@@ -569,13 +576,6 @@
       "timestamp": 1795119903
     },
     {
-      "title": "No more asteroid landing: Engine trouble forces Japan's Hayabusa2 probe to change plans",
-      "link": "https://www.space.com/space-exploration/asteroid-comet-missions/no-more-asteroid-landing-engine-trouble-forces-japans-hayabusa2-probe-to-change-plans",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1795118400
-    },
-    {
       "title": "NBA's eight biggest disappointments through one month: Injury bug, same old East and an underwhelming champ",
       "link": "https://www.cbssports.com/nba/news/nbas-biggest-disappointments-one-month-injury-bug-east-underwhelming-champ/",
       "source": "CBSSPORTS",
@@ -595,6 +595,20 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1795101428
+    },
+    {
+      "title": "Vanessa Bryant, widow of Kobe, denies teaming up with Pau Gasol to bid on WNBA's Sparks",
+      "link": "https://www.cbssports.com/wnba/news/vanessa-bryant-pau-gasol-los-angeles-sparks-bid-wnba/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1795097875
+    },
+    {
+      "title": "Jayson Tatum takes the blame for costly technical in Celtics' loss to Nuggets: 'I wasn't mad'",
+      "link": "https://www.cbssports.com/nba/news/jayson-tatum-technical-celtics-nuggets/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1795097560
     },
     {
       "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
@@ -658,20 +672,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1795004206
-    },
-    {
-      "title": "MIT discovers that aging weakens the brain’s nighttime cleaning system",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261114202137.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1795003604
-    },
-    {
-      "title": "Why do farts smell so bad? The secret is brewing in your gut",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1795002921
     }
   ]
 }
