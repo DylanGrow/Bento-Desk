@@ -1,8 +1,113 @@
 {
-  "last_updated": 1795247835,
+  "last_updated": 1795276634,
   "items": [
     {
-      "title": "SpaceX launches classified mission for US Space Force from California",
+      "title": "Alaska, your next governor is a Wikipedia nerd",
+      "link": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1795274309
+    },
+    {
+      "title": "This Week In Space podcast: Episode 237 — A Fond Farewell",
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-237-a-fond-farewell",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1795274126
+    },
+    {
+      "title": "Time may be far stranger than we realize. Scientists have a way to test it",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1795273786
+    },
+    {
+      "title": "'Star Trek: First Contact' at 30: Resistance is futile when it comes to the 'Next Generation' crew's greatest big-screen adventure",
+      "link": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-resistance-is-futile-when-it-comes-to-the-next-generation-crews-greatest-big-screen-adventure",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1795273200
+    },
+    {
+      "title": "A giant star swallowed another star. James Webb reveals the aftermath",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1795272820
+    },
+    {
+      "title": "Who was buried in Westminster Abbey's Roman coffin? A 150-year mystery may be solved",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261119194553.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1795271139
+    },
+    {
+      "title": "A 50-year-old theory about evolution may have been wrong all along",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1795269975
+    },
+    {
+      "title": "Even scientists can't agree on what science actually is",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261119194541.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1795269311
+    },
+    {
+      "title": "2026 NBA betting promos: Get almost $4,000 in bonuses from top online betting apps, sportsbooks for Nov. 21",
+      "link": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-almost-4000-in-bonuses-from-top-online-betting-apps-sportsbooks-nov-21/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1795269196
+    },
+    {
+      "title": "Scientists say the human family tree may need a radical rewrite",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261118074039.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1795268695
+    },
+    {
+      "title": "SpaceX will retire 1st Starship upper stage ever caught by 'chopsticks,' Elon Musk says",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-retire-1st-starship-upper-stage-ever-caught-by-chopsticks-elon-musk-says",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1795266000
+    },
+    {
+      "title": "GTA 6 Players Are Running Into NPCs Who Fight Back So Hard You Probably Should Just Leave Them Alone",
+      "link": "https://www.ign.com/articles/gta-6-players-are-running-into-npcs-who-fight-back-so-hard-you-probably-should-just-leave-them-alone",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1795263460
+    },
+    {
+      "title": "“Race realism” isn’t realistic—and it isn’t good science",
+      "link": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1795262473
+    },
+    {
+      "title": "How Rockstar Made Every NPC Feel Alive in GTA 6",
+      "link": "https://www.ign.com/articles/how-rockstar-made-every-npc-feel-alive-in-gta-6",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1795262064
+    },
+    {
+      "title": "European-Japanese BepiColombo probe arrives in orbit around Mercury today",
+      "link": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1795258800
+    },
+    {
+      "title": "SpaceX launches classified mission for US Space Force from California (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
       "source": "SPACE",
       "category": "space",
@@ -16,25 +121,11 @@
       "timestamp": 1795233600
     },
     {
-      "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1795227862
-    },
-    {
       "title": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
       "link": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1795227074
-    },
-    {
-      "title": "2026 NBA betting promos: Get almost $4,000 in bonuses from top online betting apps, sportsbooks for Nov. 20",
-      "link": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-almost-4000-in-bonuses-from-top-online-betting-apps-sportsbooks-nov-20/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1795217557
     },
     {
       "title": "Actor Who Plays Mandy in GTA 6 Excitedly Speaks Out After Character Goes Viral",
@@ -317,25 +408,11 @@
       "timestamp": 1795191366
     },
     {
-      "title": "GTA 6's No-Nonsense Cops Are Scaring Players Into Actually Following the Law",
-      "link": "https://www.ign.com/articles/gta-6-new-wanted-system-difficulty",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1795191254
-    },
-    {
       "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
       "link": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1795191081
-    },
-    {
-      "title": "Christian Bale Explains Why He Created His Husky Batman Voice at the Last Minute During Auditions",
-      "link": "https://www.ign.com/articles/christian-bale-improvised-batman-voice-audition",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1795190743
     },
     {
       "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
@@ -422,6 +499,13 @@
       "timestamp": 1795179600
     },
     {
+      "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1795179354
+    },
+    {
       "title": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
       "link": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm",
       "source": "SCIENCEDAILY",
@@ -450,13 +534,6 @@
       "timestamp": 1795176936
     },
     {
-      "title": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
-      "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1795176043
-    },
-    {
       "title": "I handpicked every Star Trek Blu-ray discounted on Amazon for Black Friday 2026 that I think is worth buying right now",
       "link": "https://www.space.com/entertainment/space-movies-shows/i-handpicked-every-star-trek-blu-ray-discounted-on-amazon-for-black-friday-2026-that-i-think-is-worth-buying-right-now",
       "source": "SPACE",
@@ -466,13 +543,6 @@
     {
       "title": "Einstein was right! Scientists verify 1st image of a black hole ever captured",
       "link": "https://www.space.com/astronomy/black-holes/einstein-was-right-scientists-verify-1st-image-of-a-black-hole-ever-captured",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1795172400
-    },
-    {
-      "title": "SpaceX Dragon cargo capsule heads home to Earth from the ISS",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-dragon-iss-cargo-mission-return-to-earth",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1795172400
@@ -525,34 +595,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1795133989
-    },
-    {
-      "title": "Voyager 1 team, unbowed by communications glitch, celebrates epic 1-light-day distance milestone",
-      "link": "https://www.space.com/space-exploration/voyager/voyager-1-team-unbowed-by-communications-glitch-celebrates-epic-1-light-day-distance-milestone",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1795131723
-    },
-    {
-      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
-      "link": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1795131476
-    },
-    {
-      "title": "On this day in space! Nov. 19, 2005: Japan's Hayabusa spacecraft makes 1st-ever liftoff from surface of an asteroid",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-19-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1795128796
-    },
-    {
-      "title": "The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/the-view-from-the-tower-watch-starship-come-in-for-chopsticks-catch-in-epic-slo-mo-video",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1795125600
     },
     {
       "title": "Kyrie Irving to the Jazz? Why Utah's reported interest in the star Mavericks guard makes no sense",
@@ -630,48 +672,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1795084383
-    },
-    {
-      "title": "Why hydrogen flames can glow orange, then turn nearly invisible",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1795083024
-    },
-    {
-      "title": "Stonehenge’s six-ton mystery deepens as scientists narrow their search",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1795057882
-    },
-    {
-      "title": "Is free will an illusion? New brain research reveals a surprising twist",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261118065524.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1795051295
-    },
-    {
-      "title": "This strange creature lived 309 million years ago, long before the dinosaurs",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261117033928.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1795044245
-    },
-    {
-      "title": "Too much exercise could leave your brain stuck in overdrive",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261117033923.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1795037309
-    },
-    {
-      "title": "New discovery reveals what may be holding back room-temperature superconductors",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1795004206
     }
   ]
 }
