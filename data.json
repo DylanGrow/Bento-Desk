@@ -1,6 +1,83 @@
 {
-  "last_updated": 1795339104,
+  "last_updated": 1795368924,
   "items": [
+    {
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "link": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1795367160
+    },
+    {
+      "title": "American Psycho Remake From Director Luca Guadagnino No Longer Happening",
+      "link": "https://www.ign.com/articles/american-psycho-remake-from-director-luca-guadagnino-no-longer-happening",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1795365690
+    },
+    {
+      "title": "SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1795363533
+    },
+    {
+      "title": "In a New York minute: Did Mikal Bridges just turn his season around with one shot?",
+      "link": "https://www.cbssports.com/nba/news/mikal-bridges-game-winning-shot-knicks-blazers/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1795360800
+    },
+    {
+      "title": "Can a TV be too large? An investigation",
+      "link": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1795359600
+    },
+    {
+      "title": "This viral star projector has been hyped to Mars and back, but we hunted down the best version you can buy",
+      "link": "https://www.space.com/stargazing/skywatching-kit/this-viral-star-projector-has-been-hyped-to-mars-and-back-but-we-hunted-down-the-best-version-you-can-buy",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1795359600
+    },
+    {
+      "title": "2026 NBA betting promos: Get almost $4,000 in bonuses from top online betting apps, sportsbooks for Nov. 22",
+      "link": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-almost-4000-in-bonuses-from-top-online-betting-apps-sportsbooks-nov-22/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1795359250
+    },
+    {
+      "title": "As 'Star Trek: First Contact' turns 30, Director Jonathan Frakes reflects on his triumphant time-travel blockbuster (interview)",
+      "link": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-director-jonathan-frakes-reflects-on-his-triumphant-time-travel-blockbuster-interview",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1795357800
+    },
+    {
+      "title": "On this day in space! Nov.22, 1989: NASA launches space shuttle Discovery on classified STS-33 mission for the US military",
+      "link": "https://www.space.com/on-this-day-in-space-november-22-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1795357115
+    },
+    {
+      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+      "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1795349261
+    },
+    {
+      "title": "10 things that worry me about chasing the 2027 total solar eclipse in Egypt",
+      "link": "https://www.space.com/stargazing/solar-eclipses/10-things-that-worry-me-about-chasing-the-2027-total-solar-eclipse-in-egypt",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1795345200
+    },
     {
       "title": "The Binding of Isaac Dev Removes Undisclosed AI-Generated Music From Repentance+ Following Creator Response, Review-Bombing",
       "link": "https://www.ign.com/articles/the-binding-of-isaac-dev-removes-undisclosed-ai-generated-music-from-repentance-following-creator-response-review-bombing",
@@ -163,13 +240,6 @@
       "timestamp": 1795269311
     },
     {
-      "title": "2026 NBA betting promos: Get almost $4,000 in bonuses from top online betting apps, sportsbooks for Nov. 21",
-      "link": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-almost-4000-in-bonuses-from-top-online-betting-apps-sportsbooks-nov-21/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1795269196
-    },
-    {
       "title": "Scientists say the human family tree may need a radical rewrite",
       "link": "https://www.sciencedaily.com/releases/2026/11/261118074039.htm",
       "source": "SCIENCEDAILY",
@@ -205,7 +275,7 @@
       "timestamp": 1795262064
     },
     {
-      "title": "European-Japanese BepiColombo probe arrives in orbit around Mercury today",
+      "title": "European-Japanese BepiColombo mission becomes 2nd ever to arrive in orbit around Mercury",
       "link": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
       "source": "SPACE",
       "category": "space",
@@ -408,13 +478,6 @@
       "timestamp": 1795204215
     },
     {
-      "title": "GTA 6 Is the Biggest Entertainment Launch of All Time at $3.79 Billion on Day One",
-      "link": "https://www.ign.com/articles/gta-6-is-the-biggest-entertainment-launch-of-all-time-at-379-billion-on-day-one",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1795203449
-    },
-    {
       "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
       "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
       "source": "TECHCRUNCH",
@@ -443,25 +506,11 @@
       "timestamp": 1795199640
     },
     {
-      "title": "Could an ancient solar eclipse rewrite Egyptian history?",
-      "link": "https://www.space.com/stargazing/solar-eclipses/could-an-ancient-solar-eclipse-rewrite-egyptian-history",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1795197600
-    },
-    {
       "title": "Chips can survive the space environment — can their financing?",
       "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
       "source": "TECHCRUNCH",
       "category": "tech",
       "timestamp": 1795196401
-    },
-    {
-      "title": "Russia is developing a nuclear space weapon, US intelligence report finds",
-      "link": "https://www.space.com/space-exploration/satellites/russia-is-developing-a-nuclear-space-weapon-us-intelligence-report-finds",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1795194000
     },
     {
       "title": "NBA One-Month Superlatives: MVP, top rookie, best surprise and fresh title predictions",
@@ -499,13 +548,6 @@
       "timestamp": 1795188627
     },
     {
-      "title": "ISS astronauts look down on the snow-capped Himalayas | Space photo of the day for Nov. 20, 2026",
-      "link": "https://www.space.com/astronomy/earth/iss-astronauts-look-down-on-the-snow-capped-himalayas-space-photo-of-the-day-for-nov-20-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1795186800
-    },
-    {
       "title": "US will soon announce root cause behind FAA nationwide ground stop",
       "link": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
       "source": "ARSTECHNICA",
@@ -527,13 +569,6 @@
       "timestamp": 1795184121
     },
     {
-      "title": "Six AI-powered gadgets that could make your home office smarter",
-      "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1795183200
-    },
-    {
       "title": "C.J. Stroud keeps Texans' playoff hopes alive; CFB Week 12 picks; NBA's biggest disappointments",
       "link": "https://www.cbssports.com/nfl/news/c-j-stroud-texans-playoffs-nfl-college-football-picks-nba-disappointments/",
       "source": "CBSSPORTS",
@@ -546,20 +581,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1795181745
-    },
-    {
-      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
-      "link": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1795181100
-    },
-    {
-      "title": "I got to tour SpaceX's Starfactory facility in Starbase, Texas, and what I saw blew my mind",
-      "link": "https://www.space.com/space-exploration/private-spaceflight/i-got-to-tour-spacexs-starfactory-facility-in-starbase-texas-and-what-i-saw-blew-my-mind",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1795179600
     },
     {
       "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
@@ -576,25 +597,11 @@
       "timestamp": 1795178096
     },
     {
-      "title": "Only the Seminole Tribe can offer online gambling in Florida—and they're furious at DraftKings",
-      "link": "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1795177829
-    },
-    {
       "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
       "link": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1795177403
-    },
-    {
-      "title": "I handpicked every Star Trek Blu-ray discounted on Amazon for Black Friday 2026 that I think is worth buying right now",
-      "link": "https://www.space.com/entertainment/space-movies-shows/i-handpicked-every-star-trek-blu-ray-discounted-on-amazon-for-black-friday-2026-that-i-think-is-worth-buying-right-now",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1795172432
     },
     {
       "title": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
@@ -644,13 +651,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1795108931
-    },
-    {
-      "title": "Julius Randle has brutal response to Nets' blowout loss: 'One of the worst games I've ever been a part of'",
-      "link": "https://www.cbssports.com/nba/news/julius-randle-nets-bulls-blowout-loss/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1795103064
     },
     {
       "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
