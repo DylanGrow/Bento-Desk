@@ -1,6 +1,69 @@
 {
-  "last_updated": 1795368924,
+  "last_updated": 1795389080,
   "items": [
+    {
+      "title": "Watch live on Nov. 23: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1795384800
+    },
+    {
+      "title": "Dwight Howard admits he told Magic not to trade for Stephen Curry before he became 'one of the greatest'",
+      "link": "https://www.cbssports.com/nba/news/dwight-howard-stephen-curry-trade-magic-monta-ellis/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1795384173
+    },
+    {
+      "title": "‘You Can See Everything’ has made more than $100M worldwide",
+      "link": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1795383768
+    },
+    {
+      "title": "Common medications may secretly rewire your gut, with effects lasting for years",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120071501.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1795383319
+    },
+    {
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1795382047
+    },
+    {
+      "title": "The best apps to make new friends right now",
+      "link": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1795381200
+    },
+    {
+      "title": "Rockstar Says Darts Were Cut From GTA 6 Because It Didn't Have 'Unlimited Money or Time' to Make It 'Feel Proper'",
+      "link": "https://www.ign.com/articles/rockstar-says-darts-were-cut-from-gta-6-because-it-didnt-have-unlimited-money-or-time-to-make-it-feel-proper",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1795379879
+    },
+    {
+      "title": "Rockstar Says Jason's Viral Personality in GTA 6 Comes From Steve McQueen and Real-Life Veterans",
+      "link": "https://www.ign.com/articles/rockstar-says-jasons-viral-personality-in-gta-6-comes-from-steve-mcqueen-and-real-life-veterans",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1795371304
+    },
+    {
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1795370923
+    },
     {
       "title": "TechCrunch Mobility: A/B testing robots vs. humans",
       "link": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
@@ -70,6 +133,34 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1795349261
+    },
+    {
+      "title": "Interstellar solar sails hit a bizarre problem at 75% of light speed",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120071305.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1795348769
+    },
+    {
+      "title": "A mysterious gap hints at black holes born from stars that never exploded",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261121221126.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1795348002
+    },
+    {
+      "title": "DNA’s secret sunscreen may have helped life survive on early Earth",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261121221128.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1795347074
+    },
+    {
+      "title": "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1795345446
     },
     {
       "title": "10 things that worry me about chasing the 2027 total solar eclipse in Egypt",
@@ -408,13 +499,6 @@
       "timestamp": 1795208309
     },
     {
-      "title": "Sexyy Red Had the Best Response to Her Viral GTA 6 Moment With Jason",
-      "link": "https://www.ign.com/articles/sexyy-red-had-the-best-response-to-her-viral-gta-6-moment-with-jason",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1795207674
-    },
-    {
       "title": "Watching as a giant star swallowed its neighbor and exploded",
       "link": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
       "source": "ARSTECHNICA",
@@ -434,13 +518,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1795206393
-    },
-    {
-      "title": "Macaulay Culkin to Return as Kevin McCallister in Home Alone Sequel",
-      "link": "https://www.ign.com/articles/macaulay-culkin-to-return-as-kevin-mccallister-in-home-alone-sequel",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1795205997
     },
     {
       "title": "Timberwolves, Grizzlies reportedly hope to move to Eastern Conference after expansion; who makes more sense?",
@@ -492,27 +569,6 @@
       "timestamp": 1795202510
     },
     {
-      "title": "There's an impostor hiding in the Hyades star cluster. Can you spot it?",
-      "link": "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1795201200
-    },
-    {
-      "title": "Super-hot rock geothermal could end data center energy woes",
-      "link": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1795199640
-    },
-    {
-      "title": "Chips can survive the space environment — can their financing?",
-      "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1795196401
-    },
-    {
       "title": "NBA One-Month Superlatives: MVP, top rookie, best surprise and fresh title predictions",
       "link": "https://www.cbssports.com/nba/news/nba-one-month-superlatives-mvp-rookie-surprise-title-predictions/",
       "source": "CBSSPORTS",
@@ -520,25 +576,11 @@
       "timestamp": 1795192217
     },
     {
-      "title": "Bending Spoons buys Mailchimp for $3.68B",
-      "link": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1795191366
-    },
-    {
       "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
       "link": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1795191081
-    },
-    {
-      "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
-      "link": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1795189567
     },
     {
       "title": "Damian Lillard stars in his Milwaukee return in another stark reminder of how bleak things are for the Bucks",
@@ -583,6 +625,13 @@
       "timestamp": 1795181745
     },
     {
+      "title": "Einstein’s relativity just upended a fundamental rule of chemistry",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075602.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1795179362
+    },
+    {
       "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
       "link": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
       "source": "SCIENCEDAILY",
@@ -604,27 +653,6 @@
       "timestamp": 1795177403
     },
     {
-      "title": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1795153276
-    },
-    {
-      "title": "A 3-million-year-old child just made human evolution far more complicated",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1795144672
-    },
-    {
-      "title": "Experimental compound burns fat without sacrificing muscle",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1795133989
-    },
-    {
       "title": "Kyrie Irving to the Jazz? Why Utah's reported interest in the star Mavericks guard makes no sense",
       "link": "https://www.cbssports.com/nba/news/nba-trade-rumors-kyrie-irving-utah-jazz-dallas-mavericks/",
       "source": "CBSSPORTS",
@@ -644,34 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1795119903
-    },
-    {
-      "title": "NBA's eight biggest disappointments through one month: Injury bug, same old East and an underwhelming champ",
-      "link": "https://www.cbssports.com/nba/news/nbas-biggest-disappointments-one-month-injury-bug-east-underwhelming-champ/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1795108931
-    },
-    {
-      "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1795086809
-    },
-    {
-      "title": "This 6-million-year-old whale may have had the most crooked face in mammal history",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1795085995
-    },
-    {
-      "title": "Something strange is living beneath the skin of deep-sea pigs",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1795084383
     }
   ]
 }
