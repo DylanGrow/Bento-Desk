@@ -1,8 +1,43 @@
 {
-  "last_updated": 1795389080,
+  "last_updated": 1795412329,
   "items": [
     {
-      "title": "Watch live on Nov. 23: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
+      "title": "Kate Bishop Actress Hailee Steinfeld Confirmed for Avengers: Doomsday",
+      "link": "https://www.ign.com/articles/kate-bishop-actress-hailee-steinfeld-confirmed-for-avengers-doomsday",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1795398613
+    },
+    {
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1795397153
+    },
+    {
+      "title": "The Hunger Games: Sunrise on the Reaping Plows Through GTA 6 Hype With $225 Million Opening Weekend",
+      "link": "https://www.ign.com/articles/the-hunger-games-sunrise-on-the-reaping-plows-through-gta-6-hype-with-225-million-opening-weekend",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1795394682
+    },
+    {
+      "title": "GTA 6 Dev Honors Late Mother With In-Game Memorial That Players Can Visit",
+      "link": "https://www.ign.com/articles/gta-6-dev-honors-late-mother-with-in-game-memorial-that-players-can-visit",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1795389833
+    },
+    {
+      "title": "Victor Wembanyama takes hypocritical jab at 'stat-padding peers' after hunting his own 50-piece",
+      "link": "https://www.cbssports.com/nba/news/victor-wembanyama-stat-padding-peers-spurs/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1795389568
+    },
+    {
+      "title": "Watch live today: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
       "source": "SPACE",
       "category": "space",
@@ -79,7 +114,7 @@
       "timestamp": 1795365690
     },
     {
-      "title": "SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video)",
+      "title": "SpaceX launches 2 rockets from same pad 32 hours apart, smashing turnaround record (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
       "source": "SPACE",
       "category": "space",
@@ -429,25 +464,11 @@
       "timestamp": 1795213704
     },
     {
-      "title": "GTA 6 Players React After Exclusive Shops Greet Non-Ultimate Edition Buyers With Locked Doors",
-      "link": "https://www.ign.com/articles/gta-6-players-react-after-exclusive-shops-greet-non-ultimate-edition-buyers-with-locked-doors",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1795213192
-    },
-    {
       "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
       "link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1795213011
-    },
-    {
-      "title": "Jensen Huang Allegedly Threatened Nvidia Workers and Told Employee He Would Rip Off the Top of Their Head and 'Pee on Your Brain'",
-      "link": "https://www.ign.com/articles/jensen-huang-verbal-abuse-allegations",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1795212415
     },
     {
       "title": "Google rolls out new search homepage with AI chat history and no search button",
@@ -462,13 +483,6 @@
       "source": "ARSTECHNICA",
       "category": "hacker",
       "timestamp": 1795211230
-    },
-    {
-      "title": "Satoru Gojo's English Voice Actor Didn't Realize These Wild Lines He Recorded Were for GTA 6",
-      "link": "https://www.ign.com/articles/satoru-gojos-english-voice-actor-didnt-realize-these-wild-lines-he-recorded-were-for-gta-6",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1795210065
     },
     {
       "title": "On this day in space! Nov. 20, 1998:  Russia launches 1st module of International Space Station as construction begins on the largest human-built structure in orbit",
@@ -553,13 +567,6 @@
       "source": "SPACE",
       "category": "space",
       "timestamp": 1795204215
-    },
-    {
-      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1795203128
     },
     {
       "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
@@ -665,13 +672,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1795120683
-    },
-    {
-      "title": "NBA rumors: Suitors emerging for Dejounte Murray, demand for Anthony Davis and more",
-      "link": "https://www.cbssports.com/nba/news/nba-rumors-dejounte-murray-trade-suitors-anthony-davis/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1795119903
     }
   ]
 }
