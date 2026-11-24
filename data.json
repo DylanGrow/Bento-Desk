@@ -1,12 +1,411 @@
 {
-  "last_updated": 1795530648,
+  "last_updated": 1795563853,
   "items": [
     {
-      "title": "Warhammer 40,000: Dawn of War 4 Teaser Pretty Much Confirms Fifth Playable Faction — and the Appearance of a Would-Be Chaos God",
-      "link": "https://www.ign.com/articles/warhammer-40000-dawn-of-war-4-teaser-pretty-much-confirms-fifth-playable-faction-and-the-appearance-of-a-would-be-chaos-god",
+      "title": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1795563112
+    },
+    {
+      "title": "Some GTA 6 Fans Love Chapter 1 for Its Slower Pace and Are Spending Dozens of Hours Roleplaying in It",
+      "link": "https://www.ign.com/articles/some-gta-6-fans-love-chapter-1-for-its-slower-pace-and-are-spending-dozens-of-hours-roleplaying-in-it",
       "source": "IGN",
       "category": "gaming",
-      "timestamp": 1795528789
+      "timestamp": 1795560625
+    },
+    {
+      "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+      "link": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1795560611
+    },
+    {
+      "title": "SpaceX launches secretive spy satellites from California for US Space Force (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-california-for-us-space-force-video",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1795559839
+    },
+    {
+      "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+      "link": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1795559788
+    },
+    {
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1795559272
+    },
+    {
+      "title": "Use DraftKings promo code to get $200 bonus bets, free NBA League Pass for Nuggets-Mavericks, NBA Cup Tuesday",
+      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-bets-free-nba-league-pass-nuggets-mavericks-nba-cup-tuesday/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1795558703
+    },
+    {
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1795556907
+    },
+    {
+      "title": "On this day in space! Nov. 24, 1947: The US Navy launches the 1st Aerobee sounding rocket, but it didn't reach space",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-24-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1795556854
+    },
+    {
+      "title": "Even the best AI agents struggle with everyday life",
+      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1795556009
+    },
+    {
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1795555958
+    },
+    {
+      "title": "Diablo 4 Season 16 Fixes One of the Biggest Problems With Helltide",
+      "link": "https://www.ign.com/articles/diablo-4-season-16-fixes-one-of-the-biggest-problems-with-helltide",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1795555250
+    },
+    {
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1795555192
+    },
+    {
+      "title": "The Witcher 4 Will Have a Comparable Leap From GTA 5 to GTA 6, Says CD Projekt Red",
+      "link": "https://www.ign.com/articles/the-witcher-4-will-have-a-comparable-leap-from-gta-5-to-gta-6-says-cd-projekt-red",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1795554926
+    },
+    {
+      "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+      "link": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1795554544
+    },
+    {
+      "title": "'Blade Runner 2099' executive producers talk architectural easter eggs and franchise continuity for Prime Video's new sci-fi series (interview)",
+      "link": "https://www.space.com/entertainment/blade-runner-2099-executive-producers-talk-architectural-easter-eggs-and-franchise-continuity-for-prime-videos-new-sci-fi-series-interview",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1795554000
+    },
+    {
+      "title": "A black hole the size of an atom could destroy an entire star",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261122060332.htm",
+      "source": "SCIENCEDAILY",
+      "category": "science",
+      "timestamp": 1795553895
+    },
+    {
+      "title": "'Crazy Secretive' — GTA 6 Voice Actor Reveals Details of Rockstar's 'Humongous' NDA",
+      "link": "https://www.ign.com/articles/crazy-secretive-gta-6-voice-actor-reveals-details-of-rockstars-humongous-nda",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1795552574
+    },
+    {
+      "title": "What's going on with the Riemann hypothesis?",
+      "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1795552493
+    },
+    {
+      "title": "Today's top games to watch, best bets, odds: Mavericks vs. Nuggets, Louisville vs. Texas Tech and more",
+      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-mavericks-vs-nuggets-louisville-vs-texas-tech-and-more/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1795552232
+    },
+    {
+      "title": "Cyberpunk 2 Is Still a Ways Out, but CD Projekt Red Says Its RPGs Will Come Out Faster in the Future",
+      "link": "https://www.ign.com/articles/cyberpunk-2-is-still-a-ways-out-but-cd-projekt-red-says-its-rpgs-will-come-out-faster-in-the-future",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1795551714
+    },
+    {
+      "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
+      "link": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1795550418
+    },
+    {
+      "title": "PlayStation Secures Marketing Agreement for The Witcher 4",
+      "link": "https://www.ign.com/articles/playstation-secures-marketing-agreement-for-the-witcher-4",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1795550353
+    },
+    {
+      "title": "Over Half of GTA 6 Watch Time Came From Viewers Under 25 Years Old",
+      "link": "https://www.ign.com/articles/over-half-of-gta-6-watch-time-came-from-viewers-under-25-years-old",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1795549914
+    },
+    {
+      "title": "Kevin Feige and the Russo Brothers are Planning a Special Tribute to Patrick Stewart as Avengers: Doomsday Release Approaches",
+      "link": "https://www.ign.com/articles/kevin-feige-and-the-russo-brothers-are-planning-a-special-tribute-to-patrick-stewart-as-avengers-doomsday-release-approaches",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1795548355
+    },
+    {
+      "title": "1st-ever detection of a dying star's 'final nuclear heartbeat' challenges what we know about our sun's eventual death",
+      "link": "https://www.space.com/astronomy/stars/1st-ever-detection-of-a-dying-stars-final-nuclear-heartbeat-challenges-what-we-know-about-our-suns-eventual-death",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1795546800
+    },
+    {
+      "title": "Walmart Now Lets Meta’s Muse AI Agent Shop for You During Black Friday",
+      "link": "https://www.ign.com/articles/walmart-meta-muse-ai-agent-shop-for-you-during-black-friday",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1795546440
+    },
+    {
+      "title": "GTA 6 Gets Officially Licensed Trading Cards Based on In-Game Collectibles",
+      "link": "https://www.ign.com/articles/gta-6-gets-officially-licensed-trading-cards-based-on-in-game-collectibles",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1795546231
+    },
+    {
+      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+      "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1795546077
+    },
+    {
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1795545042
+    },
+    {
+      "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
+      "link": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1795545036
+    },
+    {
+      "title": "Rings of Power Renewed by Amazon for Season 4",
+      "link": "https://www.ign.com/articles/rings-of-power-renewed-by-amazon-for-season-4",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1795544466
+    },
+    {
+      "title": "How brewers can protect beers from smoke-tainted hops",
+      "link": "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1795544317
+    },
+    {
+      "title": "Wizards of the Coast Sues Website That Prints Fake Magic: The Gathering Cards, Alleging Counterfeiting Operation",
+      "link": "https://www.ign.com/articles/wizards-of-the-coast-sues-website-that-prints-fake-magic-the-gathering-cards-alleging-counterfeiting-operation",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1795544071
+    },
+    {
+      "title": "Marvel Shows Off First Look at Kelsey Grammer's Beast in Avengers: Doomsday, and Fans Are Divided",
+      "link": "https://www.ign.com/articles/marvel-shows-off-first-look-at-kelsey-grammers-beast-in-avengers-doomsday-and-fans-are-divided",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1795544060
+    },
+    {
+      "title": "Kalshi makes “difficult decision” to halt Utah trading after losing court fights",
+      "link": "https://arstechnica.com/tech-policy/2026/11/kalshi-makes-difficult-decision-to-halt-utah-trading-after-losing-court-fights/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1795543438
+    },
+    {
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1795543379
+    },
+    {
+      "title": "LEGO Reveals Adorable Marvel Rivals: Jeff the Land Shark Set",
+      "link": "https://www.ign.com/articles/lego-reveals-adorable-marvel-rivals-jeff-the-land-shark-set",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1795543255
+    },
+    {
+      "title": "Real Life Strip Club Says It's Had 'Hundreds of Inquiries' From GTA 6 Fans, as Pornhub Traffic Plummets",
+      "link": "https://www.ign.com/articles/real-life-strip-club-says-its-had-hundreds-of-inquiries-from-gta-6-fans-as-pornhub-traffic-plummets",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1795542392
+    },
+    {
+      "title": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
+      "link": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1795542274
+    },
+    {
+      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1795541674
+    },
+    {
+      "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
+      "link": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1795541349
+    },
+    {
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1795539600
+    },
+    {
+      "title": "Porsche 718 Boxster prototype drive: This electric roadster is real",
+      "link": "https://arstechnica.com/cars/2026/11/fake-gears-and-real-911-dna-driving-porsches-electric-718-boxster/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1795539500
+    },
+    {
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1795538760
+    },
+    {
+      "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
+      "link": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1795538446
+    },
+    {
+      "title": "No more heated seat subscriptions for cars in New York from 2027",
+      "link": "https://arstechnica.com/cars/2026/11/new-york-says-no-more-subscriptions-for-in-car-features-or-does-it/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1795537237
+    },
+    {
+      "title": "2026 NBA betting promos: Get almost $4,000 in bonuses from top online betting apps, sportsbooks for Nov. 24",
+      "link": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-almost-4000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-nov-24/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1795536956
+    },
+    {
+      "title": "NASA may get $2 billion boost as White House seeks to accelerate Artemis",
+      "link": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1795536766
+    },
+    {
+      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1795536600
+    },
+    {
+      "title": "The Last of Us Part 2 Leaks Made Backlash Worse, Laura Bailey Says",
+      "link": "https://www.ign.com/articles/laura-bailey-the-last-of-us-part-2-leaks-backlash",
+      "source": "IGN",
+      "category": "gaming",
+      "timestamp": 1795536162
+    },
+    {
+      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1795536157
+    },
+    {
+      "title": "Homo erectus lived in the rainforest alongside Denisovans",
+      "link": "https://arstechnica.com/science/2026/11/homo-erectus-lived-in-the-rainforest-alongside-denisovans/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1795536079
+    },
+    {
+      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+      "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "source": "TECHCRUNCH",
+      "category": "tech",
+      "timestamp": 1795535467
+    },
+    {
+      "title": "YunLone Galaxy star projector review — a sub-$30 customizable night light",
+      "link": "https://www.space.com/technology/yunlone-galaxy-star-projector-review",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1795532400
+    },
+    {
+      "title": "Double asteroid solar eclipse caught on camera | Space photo of the day for Nov. 24, 2026",
+      "link": "https://www.space.com/astronomy/asteroids/double-asteroid-solar-eclipse-caught-on-camera-space-photo-of-the-day-for-nov-24-2026",
+      "source": "SPACE",
+      "category": "space",
+      "timestamp": 1795532400
+    },
+    {
+      "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+      "link": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+      "source": "ARSTECHNICA",
+      "category": "hacker",
+      "timestamp": 1795532210
+    },
+    {
+      "title": "Grading the stress levels for 76ers, Celtics, Warriors and more",
+      "link": "https://www.cbssports.com/nba/news/nba-grading-stress-levels-76ers-celtics-timberwolves-cavaliers-thunder-warriors/",
+      "source": "CBSSPORTS",
+      "category": "nba",
+      "timestamp": 1795529721
     },
     {
       "title": "China launching 1st international astronaut to Tiangong space station today: Watch it live",
@@ -16,25 +415,11 @@
       "timestamp": 1795528757
     },
     {
-      "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
-      "link": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1795526993
-    },
-    {
-      "title": "Russia launches Progress cargo ship to the International Space Station",
+      "title": "Russia launches Progress 97 cargo ship to the International Space Station (video)",
       "link": "https://www.space.com/space-exploration/international-space-station/russia-progress-97-cargo-launch-international-space-station",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1795526186
-    },
-    {
-      "title": "'Maybe It's Time': Sebastian Stan Fuels Fears Over Bucky's Fate in Avengers: Doomsday",
-      "link": "https://www.ign.com/articles/sebastian-stan-bucky-fate-avengers-doomsday",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1795525519
     },
     {
       "title": "Watch November's full Beaver Moon live online today with supermoon livestream",
@@ -58,34 +443,6 @@
       "timestamp": 1795522538
     },
     {
-      "title": "Mass Effect Universe Would Have Answered Trilogy Ending Questions and Squadmate Fates, Writer Says",
-      "link": "https://www.ign.com/articles/mass-effect-universe-trilogy-endings-squadmate-fates",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1795522102
-    },
-    {
-      "title": "GTA 6 Mandy Actor Calls Viral Fame 'Bittersweet' Because People Keep Pretending to Be Her on Social Media",
-      "link": "https://www.ign.com/articles/gta-6-mandy-actor-calls-viral-fame-bittersweet",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1795521675
-    },
-    {
-      "title": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic",
-      "link": "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1795521657
-    },
-    {
-      "title": "Why is GTA 6 Getting Review Bombed?",
-      "link": "https://www.ign.com/articles/why-is-gta-6-getting-review-bombed",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1795520674
-    },
-    {
       "title": "2,200-year-old Roman shipwreck reveals an ingenious waterproofing trick",
       "link": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm",
       "source": "SCIENCEDAILY",
@@ -105,13 +462,6 @@
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1795515883
-    },
-    {
-      "title": "Nintendo Switch Online Just Got a Long-Awaited Update, Alongside Another GameCube Classic",
-      "link": "https://www.ign.com/articles/nintendo-switch-online-just-got-a-long-awaited-update-alongside-another-gamecube-classic",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1795514445
     },
     {
       "title": "The ten best time travel movies to buy and own on Blu-ray and 4K UHD Blu-ray this Black Friday",
@@ -135,95 +485,11 @@
       "timestamp": 1795484211
     },
     {
-      "title": "Here Are All of the Best Clips From the World's First Weekend With GTA 6",
-      "link": "https://www.ign.com/articles/here-are-all-of-the-best-clips-from-the-worlds-first-weekend-with-gta-6",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1795480556
-    },
-    {
-      "title": "GTA 6 Was Biggest Launch in PlayStation History",
-      "link": "https://www.ign.com/articles/gta-6-was-biggest-launch-in-playstation-history",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1795479258
-    },
-    {
-      "title": "Call of Duty's Player Count Dropped by Over 40% Following GTA 6's Release, According to Analysts",
-      "link": "https://www.ign.com/articles/call-of-dutys-player-count-dropped-by-over-40-following-gta-6s-release-according-to-analysts",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1795477021
-    },
-    {
-      "title": "Ted Lasso Renewed for Season 5 on Apple TV",
-      "link": "https://www.ign.com/articles/ted-lasso-renewed-for-season-5-on-apple-tv",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1795476286
-    },
-    {
       "title": "NBA trade rumors: Lakers planning to be active, Jazz looking elsewhere after Kyrie Irving buzz",
       "link": "https://www.cbssports.com/nba/news/nba-trade-rumors-lakers-jazz-kyrie-irving-nov-23/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1795475817
-    },
-    {
-      "title": "Figma employee sues, alleging company forced her to confront harassers",
-      "link": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1795475269
-    },
-    {
-      "title": "GTA 6 Players Are Convinced Rockstar Painted a Fake Tunnel Just to Trick Them Into a Looney Tunes-Style Crash",
-      "link": "https://www.ign.com/articles/gta-6-players-are-convinced-rockstar-painted-a-fake-tunnel-just-to-trick-them-into-a-looney-tunes-style-crash",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1795475016
-    },
-    {
-      "title": "GTA 6 Looks So Good That Real Photos and Videos Are Being Mistaken as Screenshots From the Game",
-      "link": "https://www.ign.com/articles/gta-6-looks-so-good-that-real-photos-and-videos-are-being-mistaken-as-screenshots-from-the-game",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1795473782
-    },
-    {
-      "title": "GTA 6 Praised for Its Accurate Portrayal of Felon Rehabilitation",
-      "link": "https://www.ign.com/articles/gta-6-praised-for-its-accurate-portrayal-of-felon-rehabilitation",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1795472746
-    },
-    {
-      "title": "GTA 6 Players Are Upset Its New Train Can Actually Be Stopped After Spending 13 Years With the Unstoppable GTA 5 Train",
-      "link": "https://www.ign.com/articles/gta-6-players-are-upset-its-new-train-can-actually-be-stopped-after-spending-13-years-with-the-unstoppable-gta-5-train",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1795471823
-    },
-    {
-      "title": "GTA 6's Waink App Can Unlock New Hairstyles and Makeup",
-      "link": "https://www.ign.com/articles/gta-6-waink-app-unlock-hairstyles-makeup",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1795471608
-    },
-    {
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1795471550
-    },
-    {
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1795471325
     },
     {
       "title": "Will astronauts farm on the moon? Scientists successfully grow potatoes in simulated lunar dust",
@@ -233,60 +499,11 @@
       "timestamp": 1795471200
     },
     {
-      "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
-      "link": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1795471114
-    },
-    {
-      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-      "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1795470461
-    },
-    {
-      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-      "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1795469444
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang Will Have to Testify Publicly Before US Senate",
-      "link": "https://www.ign.com/articles/nvidia-ceo-jensen-huang-will-have-to-testify-publicly-before-us-senate",
-      "source": "IGN",
-      "category": "gaming",
-      "timestamp": 1795469253
-    },
-    {
-      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-      "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1795469142
-    },
-    {
       "title": "Join our free Space.com membership giveaway for a chance to win this Dwarflab mini smart telescope worth $419!",
       "link": "https://www.space.com/stargazing/skywatching-kit/join-our-free-space-com-membership-giveaway-for-a-chance-to-win-this-dwarflab-mini-smart-telescope-worth-usd419",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1795468873
-    },
-    {
-      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-      "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1795466333
-    },
-    {
-      "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
-      "link": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1795466091
     },
     {
       "title": "Today's top games to watch, best bets, odds: Bengals vs. Commanders on MNF, Grizzlies vs. Hornets and more",
@@ -296,53 +513,11 @@
       "timestamp": 1795465848
     },
     {
-      "title": "Surveillance pricing uses our personal data to make us pay more",
-      "link": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1795464703
-    },
-    {
-      "title": "Amazon fights Delivery Protection Act by putting stickers on its packages",
-      "link": "https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1795462693
-    },
-    {
-      "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
-      "link": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1795462301
-    },
-    {
-      "title": "Reports: Russia may launch nuclear weapon into orbit as soon as next month",
-      "link": "https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1795462110
-    },
-    {
-      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-      "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1795461286
-    },
-    {
       "title": "How sci‑fi imagines sports in microgravity, and how zero‑g sports might actually work",
       "link": "https://www.space.com/entertainment/how-sci-fi-imagines-sports-in-microgravity-and-how-zero-g-sports-might-actually-work",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1795460400
-    },
-    {
-      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-      "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1795457542
     },
     {
       "title": "On this day in space! Nov. 23, 2015: Blue Origin sticks 1st-ever rocket landing from space with its suborbital New Shepard rocket",
@@ -352,46 +527,11 @@
       "timestamp": 1795457448
     },
     {
-      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-      "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1795454063
-    },
-    {
-      "title": "Meta throws out its net-zero goal — its competitors should be furious",
-      "link": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1795454025
-    },
-    {
       "title": "Weird 'potato chips' and 'ghostly rocks' on Mars spotted by NASA rovers Curiosity and Perseverance",
       "link": "https://www.space.com/astronomy/mars/weird-potato-chips-and-ghostly-rocks-on-mars-spotted-by-nasa-rovers-curiosity-and-perseverance",
       "source": "SPACE",
       "category": "space",
       "timestamp": 1795453200
-    },
-    {
-      "title": "Jensen Huang isn’t out of the woods yet",
-      "link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1795453060
-    },
-    {
-      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
-      "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1795451950
-    },
-    {
-      "title": "CrowdStrike to acquire Zscaler for $44 billion",
-      "link": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1795450811
     },
     {
       "title": "2027 NBA Draft Big Board: Quentin Coleman's meteoric rise, Tyran Stokes stays at No. 1, returners boost stock",
@@ -401,48 +541,6 @@
       "timestamp": 1795450713
     },
     {
-      "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
-      "link": "https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1795449312
-    },
-    {
-      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
-      "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1795448778
-    },
-    {
-      "title": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’",
-      "link": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
-      "source": "TECHCRUNCH",
-      "category": "tech",
-      "timestamp": 1795447789
-    },
-    {
-      "title": "COP31 ends in failure as countries split over fossil fuels, climate finance",
-      "link": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1795447406
-    },
-    {
-      "title": "'Avengers: Doomsday' gets final trailer, explaining why Steve Rogers is back and showing an epic battle with the X-Men",
-      "link": "https://www.space.com/entertainment/space-movies-shows/avengers-doomsday-gets-final-trailer-explaining-why-steve-rogers-is-back-and-showing-an-epic-battle-with-the-x-men",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1795446659
-    },
-    {
-      "title": "The remains of a long-dead volcano on Mars | Space photo of the day for Nov. 23, 2026",
-      "link": "https://www.space.com/astronomy/mars/the-remains-of-a-long-dead-volcano-on-mars-space-photo-of-the-day-for-nov-23-2026",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1795446000
-    },
-    {
       "title": "49ers, Giants, Cowboys earn top grades in NFL Week 11; fallout from Tarik Skubal's historic Mets deal",
       "link": "https://www.cbssports.com/nfl/news/49ers-giants-cowboys-earn-top-grades-in-nfl-week-11-fallout-from-tarik-skubals-historic-mets-deal/",
       "source": "CBSSPORTS",
@@ -450,46 +548,11 @@
       "timestamp": 1795442277
     },
     {
-      "title": "F1 in Las Vegas: You've never seen an F1 race like this before",
-      "link": "https://arstechnica.com/cars/2026/11/f1-in-las-vegas-youve-never-seen-an-f1-race-like-this-before/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1795442062
-    },
-    {
       "title": "Ranking NBA's biggest winners and losers of the week: Knicks hit their stride, while Celtics take step back",
       "link": "https://www.cbssports.com/nba/news/ranking-nba-biggest-winners-losers-of-the-week-knicks-celtics-nov-23/",
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1795441219
-    },
-    {
-      "title": "What did the Soviet Union's final deep space probe actually see on Mars?",
-      "link": "https://www.space.com/astronomy/mars/what-did-the-soviet-unions-final-deep-space-probe-actually-see-on-mars",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1795438800
-    },
-    {
-      "title": "I’m planning my first dark sky trip, and all because this educational star projector showed me what I’m missing",
-      "link": "https://www.space.com/stargazing/skywatching-kit/im-planning-my-first-dark-sky-trip-and-all-because-this-educational-star-projector-showed-me-what-i-am-missing",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1795438800
-    },
-    {
-      "title": "Tri-screen portable monitors aren’t for the faint of heart",
-      "link": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1795436116
-    },
-    {
-      "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
-      "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1795435200
     },
     {
       "title": "A galactic shock wave could rewrite the map of the Milky Way",
@@ -506,25 +569,11 @@
       "timestamp": 1795432866
     },
     {
-      "title": "Astronomers just discovered a rare triple star system 28 light-years away, and they have ‘no clean explanation for how it got here’",
-      "link": "https://www.space.com/astronomy/stars/astronomers-discover-rare-triple-star-system-just-28-light-years-from-earth-and-they-have-no-idea-how-it-has-survived",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1795431600
-    },
-    {
       "title": "Mysterious new viruses reveal a missing link in evolution",
       "link": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm",
       "source": "SCIENCEDAILY",
       "category": "science",
       "timestamp": 1795430753
-    },
-    {
-      "title": "Be ready to get a better view of the night sky in your backyard with 25% off the Celestron Cometron 7x50 binoculars in this Black Friday deal",
-      "link": "https://www.space.com/stargazing/skywatching-kit/be-ready-to-get-a-better-view-of-the-night-sky-in-your-backyard-with-25-percent-off-the-celestron-cometron-7x50-binoculars-in-this-black-friday-deal",
-      "source": "SPACE",
-      "category": "space",
-      "timestamp": 1795420800
     },
     {
       "title": "Earth's core may be leaking a 4.5-billion-year-old secret",
@@ -576,20 +625,6 @@
       "timestamp": 1795360800
     },
     {
-      "title": "2026 NBA betting promos: Get almost $4,000 in bonuses from top online betting apps, sportsbooks for Nov. 22",
-      "link": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-almost-4000-in-bonuses-from-top-online-betting-apps-sportsbooks-nov-22/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1795359250
-    },
-    {
-      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
-      "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
-      "source": "ARSTECHNICA",
-      "category": "hacker",
-      "timestamp": 1795349261
-    },
-    {
       "title": "Interstellar solar sails hit a bizarre problem at 75% of light speed",
       "link": "https://www.sciencedaily.com/releases/2026/11/261120071305.htm",
       "source": "SCIENCEDAILY",
@@ -611,13 +646,6 @@
       "timestamp": 1795347074
     },
     {
-      "title": "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1795345446
-    },
-    {
       "title": "Is Stephen Curry the real NBA MVP? It's hard not to think so when you watch the Warriors without him",
       "link": "https://www.cbssports.com/nba/news/stephen-curry-injury-absence-nba-mvp-warriors/",
       "source": "CBSSPORTS",
@@ -637,41 +665,6 @@
       "source": "CBSSPORTS",
       "category": "nba",
       "timestamp": 1795281576
-    },
-    {
-      "title": "Time may be far stranger than we realize. Scientists have a way to test it",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
-      "source": "SCIENCEDAILY",
-      "category": "science",
-      "timestamp": 1795273786
-    },
-    {
-      "title": "NBA injury updates: The latest on Tyrese Haliburton, Anthony Edwards, Kawhi Leonard, Dylan Harper, more",
-      "link": "https://www.cbssports.com/nba/news/nba-injury-updates-tyrese-haliburton-kawhi-leonard-dylan-harper-brandon-ingram/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1795217429
-    },
-    {
-      "title": "Today's top games to watch, best bets, odds: Oregon at Michigan State, Raptors at Pistons and more",
-      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-oregon-at-michigan-state-raptors-at-pistons-and-more/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1795206629
-    },
-    {
-      "title": "Timberwolves, Grizzlies reportedly hope to move to Eastern Conference after expansion; who makes more sense?",
-      "link": "https://www.cbssports.com/nba/news/nba-expansion-timberwolves-grizzlies-eastern-conference/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1795205485
-    },
-    {
-      "title": "NBA One-Month Superlatives: MVP, top rookie, best surprise and fresh title predictions",
-      "link": "https://www.cbssports.com/nba/news/nba-one-month-superlatives-mvp-rookie-surprise-title-predictions/",
-      "source": "CBSSPORTS",
-      "category": "nba",
-      "timestamp": 1795192217
     }
   ]
 }
